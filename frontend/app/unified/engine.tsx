@@ -72,6 +72,7 @@ import { StudentSync } from '../../src/services/StudentSync';
 import { uuidv4 } from '../../src/utils/uuid';
 import { FlashcardSvc } from '../../src/services/FlashcardService';
 import { AddToFlashcardSheet } from '../../src/components/flashcards/AddToFlashcardSheet';
+import { NotebookLocationPicker } from '../../src/components/NotebookLocationPicker';
 import { OfflineManager } from '../../src/services/OfflineManager';
 
 const ThemeSwitcher = require('../../src/components/ThemeSwitcher').ThemeSwitcher;
@@ -378,6 +379,7 @@ export default function UnifiedQuizEngine() {
   const [lastUsedSubheading, setLastUsedSubheading] = useState('');
   const [flashcardedIds, setFlashcardedIds] = useState<Set<string>>(new Set());
   const [aff, setAff] = useState<{ visible: boolean; cardId: string | null; hint: { subject?: string; section_group?: string; microtopic?: string } }>({ visible: false, cardId: null, hint: {} });
+  const [locationPickerVisible, setLocationPickerVisible] = useState(false);
 
   const viewabilityConfig = useRef({
     itemVisiblePercentThreshold: 50
@@ -1951,6 +1953,7 @@ export default function UnifiedQuizEngine() {
         setCustomSubheading={setCustomSubheading}
         microtopic={questions[currentIndex]?.micro_topic}
         applyFormatting={applyFormatting}
+        openLocationPicker={() => setLocationPickerVisible(true)}
       />
     );
   };
@@ -2494,6 +2497,32 @@ export default function UnifiedQuizEngine() {
           cardId={aff.cardId}
           hint={aff.hint}
         />
+
+        {/* Notebook location picker (tree) */}
+        <NotebookLocationPicker
+          visible={locationPickerVisible}
+          onClose={() => setLocationPickerVisible(false)}
+          userId={session?.user?.id || ''}
+          onPickNotebook={async ({ node_id, note_id, title, folder_id }) => {
+            // Resolve folder node (or null) for the existing chip-driven flow
+            let folderNode: any = null;
+            if (folder_id) {
+              const { data } = await supabase.from('user_note_nodes').select('*').eq('id', folder_id).maybeSingle();
+              folderNode = data;
+            }
+            if (folderNode) {
+              setSelectedFolder(folderNode);
+              const { data: nbList } = await supabase.from('user_note_nodes').select('*').eq('parent_id', folderNode.id).eq('type', 'note');
+              setNotebooks(nbList || []);
+            } else {
+              setSelectedFolder(null);
+              setNotebooks([]);
+            }
+            const notebookNode = { id: node_id, title, note_id };
+            setSelectedNotebook(notebookNode as any);
+            fetchSubheadings(note_id);
+          }}
+        />
       </SafeAreaView>
     </PageWrapper>
   );
@@ -2504,7 +2533,11 @@ const NotebookModal = (props: any) => {
   return (
     <Modal visible={props.visible} transparent animationType="slide">
       <SafeAreaView style={{ flex: 1, backgroundColor: 'rgba(0,0,0,0.5)' }}>
-        <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={{ flex: 1 }}>
+        <KeyboardAvoidingView
+          behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+          keyboardVerticalOffset={Platform.OS === 'ios' ? 0 : 20}
+          style={{ flex: 1 }}
+        >
           <View style={{ flex: 1, backgroundColor: colors.surface, borderTopLeftRadius: 32, borderTopRightRadius: 32, marginTop: 60, padding: 0 }}>
             
             <View style={{ flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 20, borderBottomWidth: 1, borderBottomColor: colors.border }}>
@@ -2513,6 +2546,15 @@ const NotebookModal = (props: any) => {
                 <Text style={{ fontSize: 11, color: colors.textTertiary }}>Capture insights instantly</Text>
               </View>
               <View style={{ flexDirection: 'row', gap: 10 }}>
+                 <TouchableOpacity 
+                   onPress={() => props.openLocationPicker?.()}
+                   style={{ height: 44, paddingHorizontal: 12, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.primary + '15', borderRadius: 14, flexDirection: 'row', gap: 6 }}
+                 >
+                    <BookOpen size={18} color={colors.primary} />
+                    <Text style={{ color: colors.primary, fontWeight: '900', fontSize: 12 }} numberOfLines={1}>
+                      {props.selectedNotebook?.title ? props.selectedNotebook.title.slice(0, 14) : 'LOCATION'}
+                    </Text>
+                 </TouchableOpacity>
                  <TouchableOpacity 
                    onPress={() => props.splitBullet(props.activeInputIndex)}
                    style={{ width: 44, height: 44, alignItems: 'center', justifyContent: 'center', backgroundColor: colors.surfaceStrong, borderRadius: 14 }}
@@ -2531,7 +2573,7 @@ const NotebookModal = (props: any) => {
               </View>
             </View>
 
-            <ScrollView style={{ flex: 1, padding: 20 }}>
+            <ScrollView style={{ flex: 1, padding: 20 }} keyboardShouldPersistTaps="handled" contentContainerStyle={{ paddingBottom: 80 }}>
               <View style={{ flexDirection: 'row', gap: 10, marginBottom: 20, paddingBottom: 16, borderBottomWidth: 1, borderBottomColor: colors.border + '50' }}>
                 <TouchableOpacity 
                   onPress={() => props.applyFormatting('bold')}
@@ -2573,10 +2615,13 @@ const NotebookModal = (props: any) => {
                 </View>
               ))}
 
-              <View style={{ height: 40 }} />
-              <Text style={[styles.modalLabel, { color: colors.textTertiary, letterSpacing: 1 }]}>SAVE TO LOCATION</Text>
-              <Text style={{ fontSize: 11, color: colors.textTertiary, marginBottom: 12 }}>Select a folder and notebook below</Text>
-              <Text style={{ fontSize: 10, color: colors.textTertiary, marginBottom: 12 }}>Keyboard must be closed to select folder.</Text>
+              <View style={{ height: 24 }} />
+              <Text style={[styles.modalLabel, { color: colors.textTertiary, letterSpacing: 1 }]}>SAVE LOCATION</Text>
+              <Text style={{ fontSize: 11, color: colors.textTertiary, marginBottom: 10 }}>
+                {props.selectedNotebook?.title
+                  ? `Selected: ${props.selectedFolder?.title ? props.selectedFolder.title + ' / ' : ''}${props.selectedNotebook.title}`
+                  : 'Tap LOCATION at top, or pick below'}
+              </Text>
               <ScrollView horizontal style={{ marginBottom: 16 }}>
                 {props.folders.map((f: any) => (
                   <TouchableOpacity key={f.id} onPress={() => props.setSelectedFolder(f)} style={[styles.modalChip, { borderColor: colors.border }, props.selectedFolder?.id === f.id && { backgroundColor: colors.primary, borderColor: colors.primary }]}>

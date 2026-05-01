@@ -14,9 +14,9 @@ import {
   ScrollView, Pressable, TextInput, Alert,
 } from 'react-native';
 import { ChevronDown, ChevronRight, Plus, Sparkles, FolderTree, X, Check } from 'lucide-react-native';
-import { useTheme } from '../context/ThemeContext';
-import { BranchSvc, BranchNode } from '../services/BranchService';
-import { BranchPlacement, PlacementHint } from '../services/BranchPlacement';
+import { useTheme } from '../../context/ThemeContext';
+import { BranchSvc, BranchNode } from '../../services/BranchService';
+import { BranchPlacement, PlacementHint } from '../../services/BranchPlacement';
 
 export interface AddToFlashcardSheetProps {
   visible: boolean;

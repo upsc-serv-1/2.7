@@ -70,6 +70,7 @@ export default function MicrotopicScreen() {
   const [editBack, setEditBack] = useState('');
 
   const [moveVisible, setMoveVisible] = useState(false);
+  // Legacy free-text move fields (kept for backward compat — replaced by deck-tree picker via AddToFlashcardSheet).
   const [moveSubject, setMoveSubject] = useState('');
   const [moveSection, setMoveSection] = useState('');
   const [moveMicrotopic, setMoveMicrotopic] = useState('');
