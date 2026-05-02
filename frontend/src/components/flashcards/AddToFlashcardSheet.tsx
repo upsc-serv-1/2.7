@@ -8,7 +8,7 @@
  *   2. MANUAL → opens the user's full deck tree to pick a destination.
  *               Includes inline "+ Create new deck here" affordance.
  */
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useCallback, useEffect, useMemo, useState } from 'react';
 import {
   Modal, View, Text, StyleSheet, TouchableOpacity, ActivityIndicator,
   ScrollView, Pressable, TextInput, Alert, KeyboardAvoidingView, Platform,
@@ -71,12 +71,14 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
   // Inline "create deck" state
   const [createParentId, setCreateParentId] = useState<string | null | undefined>(undefined);
   const [newName, setNewName] = useState('');
+  const [searchQuery, setSearchQuery] = useState('');
 
   // Reset on each open. In MOVE mode/manualOnly, jump straight to manual picker.
   useEffect(() => {
     if (visible) {
       setMode(canChooseAuto ? 'choose' : 'manual');
       setNewName('');
+      setSearchQuery('');
       setCreateParentId(undefined);
       setSelectedDeckId(null);
       setPlacingId(null);
@@ -187,9 +189,40 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
     });
   };
 
+  const normalizedSearch = searchQuery.trim().toLowerCase();
+
+  const filterTreeBySearch = useCallback((nodes: BranchNode[]): BranchNode[] => {
+    if (!normalizedSearch) return nodes;
+
+    const visit = (node: BranchNode): BranchNode | null => {
+      const childHits = node.children
+        .map((child) => visit(child))
+        .filter(Boolean) as BranchNode[];
+
+      const haystack = `${node.name} ${node.path || ''}`.toLowerCase();
+      const selfHit = haystack.includes(normalizedSearch);
+
+      if (!selfHit && childHits.length === 0) return null;
+
+      return {
+        ...node,
+        children: childHits,
+      };
+    };
+
+    return nodes.map((node) => visit(node)).filter(Boolean) as BranchNode[];
+  }, [normalizedSearch]);
+
+  const filteredTree = useMemo(() => filterTreeBySearch(tree), [tree, filterTreeBySearch]);
+
+  const shouldExpandNode = (nodeId: string) => {
+    if (!normalizedSearch) return expanded.has(nodeId);
+    return true;
+  };
+
   const renderNode = (node: BranchNode, depth = 0) => {
     const hasChildren = node.children.length > 0;
-    const isOpen = expanded.has(node.id);
+    const isOpen = shouldExpandNode(node.id);
     const isSelected = selectedDeckId === node.id;
     const isBusy = placingId === node.id;
 
@@ -202,6 +235,8 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
               borderBottomColor: colors.border,
               paddingLeft: 14 + depth * 18,
               backgroundColor: isSelected ? colors.primary + '14' : 'transparent',
+              borderLeftColor: isSelected ? colors.primary : 'transparent',
+              borderLeftWidth: 2,
             },
           ]}
         >
@@ -229,8 +264,13 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
 
             {isBusy ? (
               <ActivityIndicator size="small" color={colors.primary} />
+            ) : isSelected ? (
+              <View style={[s.selectedPill, { backgroundColor: colors.primary + '22', borderColor: colors.primary }]}> 
+                <Check size={12} color={colors.primary} />
+                <Text style={[s.selectedPillText, { color: colors.primary }]}>Selected</Text>
+              </View>
             ) : (
-              <Check size={16} color={isSelected ? colors.primary : colors.textTertiary} />
+              <View style={[s.unselectedDot, { borderColor: colors.border }]} />
             )}
           </TouchableOpacity>
 
@@ -277,7 +317,11 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
   return (
     <Modal visible={visible} transparent animationType="slide" onRequestClose={onClose}>
       <Pressable style={s.backdrop} onPress={onClose}>
-        <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'} keyboardVerticalOffset={18}>
+        <KeyboardAvoidingView
+          style={s.kav}
+          behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+          keyboardVerticalOffset={Platform.OS === 'ios' ? 28 : 0}
+        >
           <Pressable style={[s.sheet, { backgroundColor: colors.bg, borderColor: colors.border }]} onPress={(e) => e.stopPropagation()}>
             {/* Header */}
             <View style={[s.head, { borderBottomColor: colors.border }]}> 
@@ -329,6 +373,18 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
             {/* MANUAL MODE */}
             {mode === 'manual' && (
               <View style={{ flex: 1 }}>
+                <View style={[s.searchWrap, { borderBottomColor: colors.border }]}> 
+                  <TextInput
+                    value={searchQuery}
+                    onChangeText={setSearchQuery}
+                    placeholder="Search decks..."
+                    placeholderTextColor={colors.textTertiary}
+                    style={[s.searchInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border }]}
+                    returnKeyType="search"
+                    testID="aff-search-decks"
+                  />
+                </View>
+
                 {/* Top: create-at-root */}
                 <View style={[s.rootCreateRow, { borderBottomColor: colors.border }]}> 
                   <TouchableOpacity
@@ -360,6 +416,7 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
                       placeholderTextColor={colors.textTertiary}
                       style={[s.createInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border }]}
                       onSubmitEditing={doCreateDeck}
+                      testID="aff-new-root-input"
                     />
                     <TouchableOpacity onPress={doCreateDeck} style={[s.createBtn, { backgroundColor: colors.primary }]}> 
                       <Text style={{ color: '#04223a', fontWeight: '900', fontSize: 12 }}>Create</Text>
@@ -371,15 +428,15 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
                   <View style={{ padding: 40, alignItems: 'center' }}>
                     <ActivityIndicator color={colors.primary} />
                   </View>
-                ) : tree.length === 0 ? (
+                ) : filteredTree.length === 0 ? (
                   <View style={{ padding: 40, alignItems: 'center' }}>
                     <Text style={{ color: colors.textTertiary, textAlign: 'center' }}>
-                      No decks yet. Tap "New root deck" above to create one.
+                      {normalizedSearch ? 'No decks match your search.' : 'No decks yet. Tap "New root deck" above to create one.'}
                     </Text>
                   </View>
                 ) : (
-                  <ScrollView contentContainerStyle={{ paddingBottom: 30 }} keyboardShouldPersistTaps="handled">
-                    {tree.map((n) => renderNode(n))}
+                  <ScrollView contentContainerStyle={{ paddingBottom: 120 }} keyboardShouldPersistTaps="handled" keyboardDismissMode="interactive">
+                    {filteredTree.map((n) => renderNode(n))}
                   </ScrollView>
                 )}
               </View>
@@ -393,6 +450,7 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
 
 const s = StyleSheet.create({
   backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.55)', justifyContent: 'flex-end' },
+  kav: { width: '100%', justifyContent: 'flex-end' },
   sheet: { borderTopLeftRadius: 24, borderTopRightRadius: 24, maxHeight: '85%', borderTopWidth: 1, minHeight: '40%' },
   head: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 18, borderBottomWidth: 1 },
   title: { fontSize: 18, fontWeight: '900' },
@@ -400,12 +458,17 @@ const s = StyleSheet.create({
   choiceIcon: { width: 44, height: 44, borderRadius: 22, alignItems: 'center', justifyContent: 'center' },
   choiceTitle: { fontSize: 15, fontWeight: '900' },
   choiceSub: { fontSize: 12, marginTop: 4 },
+  searchWrap: { paddingHorizontal: 12, paddingTop: 12, paddingBottom: 10, borderBottomWidth: 1 },
+  searchInput: { height: 38, borderRadius: 10, borderWidth: 1, paddingHorizontal: 12, fontSize: 13, fontWeight: '600' },
   rootCreateRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 12, borderBottomWidth: 1 },
   rootCreateBtn: { flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 12, paddingVertical: 8, borderRadius: 999, borderWidth: 1 },
   deckRow: { flexDirection: 'row', alignItems: 'center', borderBottomWidth: StyleSheet.hairlineWidth, paddingRight: 8 },
   chev: { width: 28, alignItems: 'center', justifyContent: 'center', height: 44 },
-  deckName: { flex: 1, height: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingRight: 8 },
+  deckName: { flex: 1, height: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingRight: 8, gap: 10 },
   deckText: { fontSize: 14, fontWeight: '700', flex: 1 },
+  selectedPill: { flexDirection: 'row', alignItems: 'center', gap: 4, paddingHorizontal: 8, height: 24, borderRadius: 999, borderWidth: 1 },
+  selectedPillText: { fontSize: 10, fontWeight: '800' },
+  unselectedDot: { width: 16, height: 16, borderRadius: 8, borderWidth: 1.5 },
   addInline: { padding: 8 },
   createInline: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingRight: 12, paddingVertical: 8, borderBottomWidth: StyleSheet.hairlineWidth },
   createInput: { flex: 1, height: 36, borderRadius: 8, borderWidth: 1, paddingHorizontal: 10, fontSize: 13 },

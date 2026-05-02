@@ -455,7 +455,11 @@ export default function ReviewScreen() {
                 <TouchableOpacity onPress={() => setShowEditModal(false)}><X size={24} color={colors.textPrimary} /></TouchableOpacity>
               </View>
 
-              <ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={{ paddingBottom: 8 }}>
+              <ScrollView
+                keyboardShouldPersistTaps="handled"
+                keyboardDismissMode="interactive"
+                contentContainerStyle={styles.modalScrollContent}
+              >
                 <Text style={[styles.inputLabel, { color: colors.textSecondary }]}>Personal Notes / Tricks</Text>
                 <TextInput
                   style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg }]}
@@ -464,18 +468,20 @@ export default function ReviewScreen() {
                   placeholderTextColor={colors.textTertiary}
                   value={personalNote}
                   onChangeText={setPersonalNote}
+                  textAlignVertical="top"
+                  testID="review-note-input"
                 />
-              </ScrollView>
 
-              <View style={styles.modalActions}>
-                <TouchableOpacity style={[styles.modalBtn, { backgroundColor: '#ef444420' }]} onPress={freezeCard} testID="btn-freeze">
-                  <Snowflake size={20} color="#ef4444" />
-                  <Text style={{ color: '#ef4444', fontWeight: '700' }}>Freeze Card</Text>
-                </TouchableOpacity>
-                <TouchableOpacity style={[styles.modalBtn, { backgroundColor: colors.primary }]} onPress={savePersonalNote} testID="btn-save-note">
-                  <Text style={{ color: '#04223a', fontWeight: '900' }}>Save</Text>
-                </TouchableOpacity>
-              </View>
+                <View style={styles.modalActions}>
+                  <TouchableOpacity style={[styles.modalBtn, { backgroundColor: '#ef444420' }]} onPress={freezeCard} testID="btn-freeze">
+                    <Snowflake size={20} color="#ef4444" />
+                    <Text style={{ color: '#ef4444', fontWeight: '700' }}>Freeze Card</Text>
+                  </TouchableOpacity>
+                  <TouchableOpacity style={[styles.modalBtn, { backgroundColor: colors.primary }]} onPress={savePersonalNote} testID="btn-save-note">
+                    <Text style={{ color: '#04223a', fontWeight: '900' }}>Save</Text>
+                  </TouchableOpacity>
+                </View>
+              </ScrollView>
             </View>
           </KeyboardAvoidingView>
         </Modal>
@@ -543,11 +549,12 @@ const styles = StyleSheet.create({
   qBtnLabel: { fontSize: 13, fontWeight: '900', letterSpacing: 1 },
   qBtnSub: { fontSize: 11, marginTop: 4, fontWeight: '700' },
   modalOverlay: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'flex-end' },
-  modalContent: { borderTopLeftRadius: 32, borderTopRightRadius: 32, padding: 24, paddingBottom: 40 },
-  modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 },
+  modalContent: { borderTopLeftRadius: 32, borderTopRightRadius: 32, padding: 24, paddingBottom: 30, maxHeight: '82%' },
+  modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 },
   modalTitle: { fontSize: 22, fontWeight: '900' },
+  modalScrollContent: { paddingBottom: 14 },
   inputLabel: { fontSize: 14, fontWeight: '700', marginBottom: 12 },
-  noteInput: { height: 150, borderRadius: 20, borderWidth: 1, padding: 16, textAlignVertical: 'top', fontSize: 16 },
-  modalActions: { flexDirection: 'row', gap: 12, marginTop: 24 },
+  noteInput: { minHeight: 150, borderRadius: 20, borderWidth: 1, padding: 16, textAlignVertical: 'top', fontSize: 16 },
+  modalActions: { flexDirection: 'row', gap: 12, marginTop: 20 },
   modalBtn: { flex: 1, height: 56, borderRadius: 16, flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8 },
 });
