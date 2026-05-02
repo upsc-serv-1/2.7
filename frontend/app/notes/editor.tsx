@@ -73,6 +73,7 @@ import { useRecentNotes } from '@/src/hooks/useRecentNotes';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import RichNoteEditor from '../../src/components/RichNoteEditor';
 import RenderHtml from 'react-native-render-html';
+import { buildNotesPdfHtml } from '@/src/utils/notesPdfEngine';
 
 const { width, height } = Dimensions.get('window');
 
@@ -520,224 +521,34 @@ export default function NoteEditor() {
     setSaving(true);
     
     try {
-      const parseMD = (txt: string) => {
-        if (!txt) return '';
-        return txt
-          .replace(/\*\*(.*?)\*\*/g, '<b>$1</b>')
-          .replace(/_(.*?)_/g, '<i>$1</i>')
-          .replace(/^\s*[\-\*]\s+(.*)/gm, '• $1')
-          .replace(/\n/g, '<br/>');
-      };
+      const html = buildNotesPdfHtml({
+        title: title || 'Untitled Note',
+        subject: subject || 'General',
+        content,
+        entries: items.map((item, idx) => ({
+          id: item.id || `item-${idx}`,
+          type: item.type,
+          text: item.text || '',
+          color: item.color,
+          sourceLabel: item.type === 'highlight' ? `Source: ${subject || 'General'} • Q#${idx + 1}` : undefined,
+        })),
+        checklist,
+        selectedHeadingIds: exportSubheadings,
+        columns: cols === 2 ? 2 : 1,
+        config: {
+          fontSize: pdfFontSize,
+          subheadingColor: pdfSubheadingColor,
+          paperStyle: pdfPaperStyle,
+          theme: pdfTheme,
+          watermark: pdfWatermark,
+          footerText: pdfFooterText,
+          showTOC: pdfShowTOC,
+          includeChecklist: pdfIncludeChecklist,
+          spacing: pdfSpacing,
+          fontFamily: pdfFontFamily,
+        },
+      });
 
-      const html = `
-        <!DOCTYPE html>
-        <html>
-          <head>
-            <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-            <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap" rel="stylesheet">
-            <style>
-              @page { margin: 10mm 5mm; }
-              body { 
-                font-family: ${pdfFontFamily === 'handwriting' ? "'Caveat', cursive" : '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif'};
-                padding: 0; 
-                margin: 0;
-                color: ${pdfTheme === 'sepia' ? '#433422' : pdfTheme === 'historical' ? '#2d2419' : '#374151'};
-                font-size: ${pdfFontSize}px;
-                line-height: 1.5;
-                background-color: ${pdfTheme === 'sepia' ? '#F4ECD8' : pdfTheme === 'historical' ? '#fdf6e3' : '#ffffff'};
-                background-image: ${
-                  pdfPaperStyle === 'lined' ? 'linear-gradient(#e5e7eb 1px, transparent 1px)' :
-                  pdfPaperStyle === 'grid' ? 'linear-gradient(#e5e7eb 1px, transparent 1px), linear-gradient(90deg, #e5e7eb 1px, transparent 1px)' :
-                  pdfPaperStyle === 'dots' ? 'radial-gradient(#e5e7eb 1px, transparent 1px)' : 'none'
-                };
-                background-size: ${
-                  pdfPaperStyle === 'lined' ? '100% 24px' :
-                  pdfPaperStyle === 'grid' ? '24px 24px' :
-                  pdfPaperStyle === 'dots' ? '24px 24px' : 'auto'
-                };
-              }
-              .subject-badge {
-                color: #6366f1;
-                font-weight: 800;
-                font-size: 0.8em;
-                letter-spacing: 1px;
-                text-transform: uppercase;
-                margin-bottom: 8px;
-              }
-              h1 { 
-                font-size: 2.2em; 
-                font-weight: 900;
-                margin: 0 0 20px 0; 
-                color: #111827; 
-                letter-spacing: -1px;
-              }
-              .section-label {
-                font-size: 0.7em;
-                font-weight: 800;
-                color: #9ca3af;
-                letter-spacing: 2px;
-                text-transform: uppercase;
-                border-bottom: 1px solid #e5e7eb;
-                padding-bottom: 8px;
-                margin: 30px 0 20px 0;
-              }
-              .main-content {
-                margin-bottom: ${pdfSpacing === 'compact' ? '15px' : '30px'};
-                color: inherit;
-              }
-              .highlights-grid {
-                display: ${cols === 2 ? 'grid' : 'block'};
-                ${cols === 2 ? 'grid-template-columns: 1fr 1fr; grid-gap: 20px;' : ''}
-                width: 100%;
-              }
-              .highlight-card {
-                break-inside: avoid;
-                page-break-inside: avoid;
-                margin-bottom: ${pdfSpacing === 'compact' ? '8px' : '15px'};
-                padding: ${pdfSpacing === 'compact' ? '8px 12px' : '12px 16px'};
-                background: ${pdfTheme === 'modern' ? '#fff' : 'rgba(255,255,255,0.4)'};
-                border: 1px solid ${pdfTheme === 'modern' ? '#f3f4f6' : 'rgba(0,0,0,0.05)'};
-                border-left: 4px solid #6366f1;
-                border-radius: 8px;
-                box-shadow: 0 2px 4px rgba(0,0,0,0.02);
-              }
-              .highlight-text {
-                margin-bottom: 8px;
-                color: #1f2937;
-                display: flex;
-                gap: 10px;
-              }
-              .bullet {
-                font-size: 0.8em;
-                line-height: 1.8;
-              }
-              .highlight-source {
-                font-size: 0.65em;
-                font-weight: 700;
-                color: #6366f1;
-                text-transform: uppercase;
-                letter-spacing: 0.5px;
-              }
-              .group-heading {
-                break-after: avoid;
-                ${cols === 2 ? 'grid-column: 1 / -1;' : ''}
-                font-weight: 900;
-                font-size: 1.1em;
-                color: inherit;
-                margin: ${pdfSpacing === 'compact' ? '15px 0 8px 0' : '30px 0 15px 0'};
-                padding: 8px 16px;
-                background: ${pdfSubheadingColor};
-                border-radius: 12px;
-                display: block;
-                text-transform: uppercase;
-              }
-              .watermark {
-                position: fixed;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%) rotate(-45deg);
-                font-size: 80px;
-                font-weight: 900;
-                color: rgba(0,0,0,0.03);
-                white-space: nowrap;
-                pointer-events: none;
-                z-index: -1;
-              }
-              .footer {
-                position: fixed;
-                bottom: -10mm;
-                left: 0;
-                right: 0;
-                font-size: 10px;
-                color: #9ca3af;
-                text-align: center;
-                text-transform: uppercase;
-                letter-spacing: 1px;
-              }
-              .toc-container {
-                margin-bottom: 40px;
-                padding: 20px;
-                background: rgba(0,0,0,0.02);
-                border-radius: 12px;
-              }
-              .toc-title { font-weight: 900; font-size: 14px; margin-bottom: 12px; color: inherit; }
-              .toc-item { display: block; font-size: 12px; color: inherit; text-decoration: none; margin-bottom: 6px; border-bottom: 1px dashed rgba(0,0,0,0.1); }
-              .checklist-pdf { margin-top: 40px; }
-              .checklist-item-pdf { display: flex; align-items: center; gap: 10px; margin-bottom: 8px; font-size: 13px; }
-              .checkbox-pdf { width: 14px; height: 14px; border: 1px solid #9ca3af; border-radius: 3px; }
-              .checkbox-pdf.checked { background: #6366f1; border-color: #6366f1; }
-              * { -webkit-print-color-adjust: exact; box-sizing: border-box; }
-            </style>
-          </head>
-          <body>
-            ${pdfWatermark ? `<div class="watermark">${pdfWatermark}</div>` : ''}
-            <div class="footer">${pdfFooterText} • ${new Date().toLocaleDateString()}</div>
-            
-            <div class="subject-badge">${subject || 'General'}</div>
-            <h1>${title || 'Untitled Note'}</h1>
-            
-            ${pdfShowTOC ? `
-              <div class="toc-container">
-                <div class="toc-title">Table of Contents</div>
-                ${items
-                  .filter(i => i.type === 'microTopicHeading' && exportSubheadings.has(i.id))
-                  .map(i => `<div class="toc-item">${i.text}</div>`)
-                  .join('')}
-              </div>
-            ` : ''}
-
-            <div class="main-content">
-              ${parseMD(content)}
-            </div>
-
-            <div class="section-label">Practice Highlights</div>
-            
-            <div class="highlights-grid">
-              ${(() => {
-                let currentSubheadingId = '';
-                let isExporting = true;
-                const filteredItems = items.filter(item => {
-                  if (item.type === 'microTopicHeading') {
-                    currentSubheadingId = item.id;
-                    isExporting = exportSubheadings.has(item.id);
-                    return isExporting;
-                  }
-                  return isExporting;
-                });
-
-                return filteredItems.map(item => {
-                  if (item.type === 'microTopicHeading') {
-                    return `<div class="group-heading">${item.text}</div>`;
-                  }
-                  const cardColor = item.color || '#6366f1';
-                  return `
-                    <div class="highlight-card" style="border-left-color: ${cardColor}">
-                      <div class="highlight-text">
-                        <span class="bullet" style="color: ${cardColor}">●</span>
-                        <div>${parseMD(item.text)}</div>
-                      </div>
-                      <div class="highlight-source">Source: ${subject} • Q#${items.indexOf(item) + 1}</div>
-                    </div>
-                  `;
-                }).join('');
-              })()}
-            </div>
-
-            ${pdfIncludeChecklist && checklist.length > 0 ? `
-              <div class="checklist-pdf">
-                <div class="section-label">Checklist / Tasks</div>
-                ${checklist.map(c => `
-                  <div class="checklist-item-pdf">
-                    <div class="checkbox-pdf ${c.checked ? 'checked' : ''}"></div>
-                    <div style="${c.checked ? 'text-decoration: line-through; opacity: 0.6;' : ''}">${c.text}</div>
-                  </div>
-                `).join('')}
-              </div>
-            ` : ''}
-          </body>
-        </html>
-      `;
-      
       // Use Print.printAsync for native printer dialog (includes preview)
       if (Platform.OS === 'ios') {
         // On iOS, printToFileAsync followed by Sharing is more reliable for columns and CSS
