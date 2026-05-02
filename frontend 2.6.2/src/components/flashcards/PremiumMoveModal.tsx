@@ -131,7 +131,7 @@ export function PremiumMoveModal({ visible, node, tree, onClose, onConfirm, titl
 
 const styles = StyleSheet.create({
   modalOverlay: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'flex-end', alignItems: 'center', paddingBottom: 20 },
-  moveSheet: { borderRadius: 40, padding: 20, paddingBottom: 30, width: '94%', height: '82%', overflow: 'hidden' },
+  moveSheet: { borderRadius: 40, padding: 20, paddingBottom: 30, width: '94%', maxWidth: 500, height: '82%', overflow: 'hidden' },
   moveHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 },
   moveTitle: { fontSize: 20, fontWeight: '900' },
   closeCircle: { width: 36, height: 36, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
