@@ -32,13 +32,37 @@ import { useAuth } from '../../../src/context/AuthContext';
 
 const { width } = Dimensions.get('window');
 
+const getPYQCategorization = (item: any) => {
+  const groupName = (item.exam_group || item.examGroup || '').toUpperCase();
+  const year = (item.exam_year || item.examYear || '').toString().trim();
+  
+  const isUPSC = item.is_upsc_cse || item.isUpscCse || groupName.includes('UPSC CSE') || groupName === 'UPSC';
+  const isAllied = item.is_allied || item.isAlliedExams || ['CAPF', 'CDS', 'NDA', 'EPFO', 'CISF', 'ALLIED'].some(g => groupName.includes(g));
+  const isOther = item.is_others || item.isOthers || ['UPPCS', 'BPSC', 'MPSC', 'RPSC', 'UKPSC', 'MPPSC', 'CGPSC', 'STATE PSC', 'OTHER'].some(g => groupName.includes(g));
+  
+  const hasPYQData = item.is_pyq || item.isPyq || isUPSC || isAllied || isOther || groupName.length > 0;
+  const isGenericPYQ = hasPYQData && !isUPSC && !isAllied && !isOther;
+
+  const finalGroupName = item.examGroup || item.exam_group || (isUPSC ? 'UPSC CSE' : isAllied ? 'Allied' : isOther ? 'Other' : 'PYQ');
+
+  return { 
+    hasPYQData, 
+    isUPSC, 
+    isAllied, 
+    isOther, 
+    isGenericPYQ, 
+    groupName: finalGroupName, 
+    year 
+  };
+};
+
 export default function ResultScreen() {
   const { aid } = useLocalSearchParams<{ aid: string }>();
   const { colors, isDark } = useTheme();
   const { session } = useAuth();
   const { loading, error, scoreData, questions, testId, testTitle, hierarchicalPerformance, confidenceMetrics } = useSingleTestAnalytics(aid);
   const [activeTab, setActiveTab] = useState<'review' | 'analysis'>('review');
-  const [filterType, setFilterType] = useState<'all' | 'correct' | 'incorrect' | 'skipped' | 'pyq' | 'imp_fact' | 'must_revise'>('all');
+  const [filterType, setFilterType] = useState<'all' | 'attempted' | 'correct' | 'incorrect' | 'skipped' | 'pyq' | 'imp_fact' | 'must_revise'>('all');
   const [localTags, setLocalTags] = useState<Record<string, string>>({});
   const [localReviewTags, setLocalReviewTags] = useState<Record<string, string[]>>({});
   const [savingFlashcard, setSavingFlashcard] = useState<Record<string, boolean>>({});
@@ -46,6 +70,7 @@ export default function ResultScreen() {
   const [aff, setAff] = useState<{ visible: boolean; cardId: string | null; hint: { subject?: string; section_group?: string; microtopic?: string } }>({ visible: false, cardId: null, hint: {} });
   
   const scrollY = React.useRef(new Animated.Value(0)).current;
+  const [showPYQTags] = useState(true); // Always follow rule from search bar
 
   const headerOpacity = scrollY.interpolate({
     inputRange: [0, 100],
@@ -61,6 +86,7 @@ export default function ResultScreen() {
       const tags = localReviewTags[q.id] || q.reviewTags || [];
 
       if (filterType === 'all') return true;
+      if (filterType === 'attempted') return !isSkipped;
       if (filterType === 'correct') return isCorrect;
       if (filterType === 'incorrect') return !isCorrect && !isSkipped;
       if (filterType === 'skipped') return isSkipped;
@@ -263,7 +289,7 @@ export default function ResultScreen() {
     return (
       <View style={[styles.center, { backgroundColor: colors.bg, padding: spacing.xl }]}>
         <Text style={{ color: colors.textPrimary, fontSize: 18, fontWeight: 'bold', textAlign: 'center' }}>
-          {error || "We couldn't load this result."}
+          {typeof error === 'string' ? error : (error as any)?.message || "We couldn't load this result."}
         </Text>
         <TouchableOpacity 
           style={[styles.backBtn, { backgroundColor: colors.primary, marginTop: spacing.xl }]}
@@ -427,6 +453,7 @@ export default function ResultScreen() {
                 <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={styles.filterRow}>
                   {[
                     { id: 'all', label: 'All' },
+                    { id: 'attempted', label: 'Attempted' },
                     { id: 'correct', label: 'Correct' },
                     { id: 'incorrect', label: 'Incorrect' },
                     { id: 'skipped', label: 'Skipped' },
@@ -513,12 +540,26 @@ const QuestionItem = ({
           <Text style={[styles.qIndexText, { color: colors.textPrimary }]}>Q{index + 1}</Text>
         </View>
         <View style={styles.qMeta}>
-          {question.subject && (
-            <Text style={[styles.subjectTag, { color: colors.textTertiary, backgroundColor: colors.border }]}>
-              {question.subject}
-            </Text>
-          )}
-          {question.isPyq && <Text style={styles.pyqTag}>PYQ</Text>}
+          {(() => {
+            if (!showPYQTags) return null;
+            const pyq = getPYQCategorization(question);
+            if (!pyq.hasPYQData) return null;
+            
+            const label = `${pyq.groupName} ${pyq.year}`.trim();
+            let bg = colors.primary + '10';
+            let fg = colors.primary;
+            let border = colors.primary;
+
+            if (pyq.isUPSC) { bg = '#dcfce7'; fg = '#15803d'; border = '#22c55e'; }
+            else if (pyq.isAllied) { bg = '#fef9c3'; fg = '#a16207'; border = '#eab308'; }
+            else if (pyq.isOther) { bg = '#f1f5f9'; fg = '#475569'; border = '#94a3b8'; }
+
+            return (
+              <View style={[styles.inlineBadge, { backgroundColor: bg, borderColor: border, borderWidth: 1, paddingHorizontal: 6, paddingVertical: 2, borderRadius: 6, marginRight: 6 }]}>
+                <Text style={{ color: fg, fontWeight: '900', fontSize: 10 }}>{label}</Text>
+              </View>
+            );
+          })()}
           {isSkipped && <View style={[styles.skippedBadge, { backgroundColor: colors.border }]}><Text style={[styles.skippedBadgeText, { color: colors.textTertiary }]}>SKIPPED</Text></View>}
         </View>
         <View style={styles.qStatusIcon}>

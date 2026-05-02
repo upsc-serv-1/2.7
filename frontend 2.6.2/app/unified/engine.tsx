@@ -51,6 +51,7 @@ import {
   Filter,
   Share2,
   Maximize2,
+  Minimize2,
   Trash,
   Bold,
   Italic,
@@ -197,9 +198,8 @@ const OptionButton = ({ label, text, isSelected, isCorrect, isWrong, showResult,
 // --- Main Screen ---
 
 export const getPYQCategorization = (item: any) => {
-  const groupName = (item.source?.group || item.exam_group || '').toUpperCase();
-  const rawYear = item.source?.year || item.exam_year || item.launch_year || item.tests?.launch_year || '';
-  const year = typeof rawYear === 'string' ? rawYear.trim() : String(rawYear).trim();
+  const groupName = (item.exam_group || '').toUpperCase();
+  const year = (item.exam_year || '').toString().trim();
   
   const isUPSC = item.is_upsc_cse || groupName.includes('UPSC CSE') || groupName === 'UPSC';
   const isAllied = item.is_allied || ['CAPF', 'CDS', 'NDA', 'EPFO', 'CISF', 'ALLIED'].some(g => groupName.includes(g));
@@ -208,13 +208,15 @@ export const getPYQCategorization = (item: any) => {
   const hasPYQData = item.is_pyq || isUPSC || isAllied || isOther || groupName.length > 0;
   const isGenericPYQ = hasPYQData && !isUPSC && !isAllied && !isOther;
 
+  const finalGroupName = item.exam_group || (isUPSC ? 'UPSC CSE' : isAllied ? 'Allied' : isOther ? 'Other' : 'PYQ');
+
   return { 
     hasPYQData, 
     isUPSC, 
     isAllied, 
     isOther, 
     isGenericPYQ, 
-    groupName: item.source?.group || item.exam_group || (isUPSC ? 'UPSC CSE' : isAllied ? 'Allied' : isOther ? 'Other' : 'PYQ'), 
+    groupName: finalGroupName, 
     year 
   };
 };
@@ -541,8 +543,18 @@ export default function UnifiedQuizEngine() {
           return String(a.id || '').localeCompare(String(b.id || ''));
         });
       } else {
-        // Apply priority sorting: UPSC CSE → Allied → Other PYQ → Non-PYQ. Newest year first.
+        // Apply priority sorting: Relevance → UPSC Priority → Newest Year.
         finalQs = [...finalQs].sort((a: any, b: any) => {
+          // A. Relevance Tie-break: Check if the exact term is present
+          const term = (params.query || '').toLowerCase().trim();
+          const aText = (a.question_text + ' ' + (a.explanation_markdown || '')).toLowerCase();
+          const bText = (b.question_text + ' ' + (b.explanation_markdown || '')).toLowerCase();
+          const aExact = term && aText.includes(term);
+          const bExact = term && bText.includes(term);
+          
+          if (aExact && !bExact) return -1;
+          if (!aExact && bExact) return 1;
+
           const getRank = (q: any) => {
             const src = (q.source?.group || q.exam_group || q.tests?.series || q.tests?.title || '').toUpperCase();
             if (q.is_upsc_cse || src.includes('UPSC CSE') || src.includes('IAS') || src.includes('CIVIL SERVICES')) return 3;
@@ -754,9 +766,9 @@ export default function UnifiedQuizEngine() {
         let { data, error } = await query;
         if (error) throw error;
 
-        // 🆕 FUZZY FALLBACK (Search Tab Parity): If results are sparse, try 1-char tolerance
+        // ΓöÇ FUZZY FALLBACK (Search Tab Parity): If results are sparse, try 1-char tolerance
         const term = typeof params.query === 'string' ? params.query.trim() : '';
-        if (term && term.length > 3 && (!data || data.length < 50)) {
+        if (params.searchMode !== 'Exact' && term && term.length > 3 && (!data || data.length < 50)) {
            const words = term.split(/\s+/).filter(Boolean);
            if (words.length === 1) {
              const word = words[0];
@@ -764,7 +776,7 @@ export default function UnifiedQuizEngine() {
              const fields = typeof params.searchFields === 'string' ? params.searchFields.split(',') : ['Questions'];
 
              for (let i = 0; i < word.length; i++) {
-               const pattern = word.substring(0, i) + '%' + word.substring(i + 1);
+               const pattern = word.substring(0, i) + '_' + word.substring(i + 1);
                if (fields.includes('Questions') || fields.includes('question_text')) {
                  fuzzyPatterns.push(`question_text.ilike.%${pattern}%`);
                }
@@ -1598,7 +1610,6 @@ export default function UnifiedQuizEngine() {
               <View style={[styles.qNumberBadge, { backgroundColor: isZenMode ? '#433422' : colors.primary }]}>
                 <Text style={[styles.qNumberText, { color: isZenMode ? '#F4ECD8' : colors.buttonText }]}>{index + 1}</Text>
               </View>
-              <Text style={[styles.qMetaText, { color: isZenMode ? '#43342280' : colors.textTertiary }]}>{item.subject?.toUpperCase()}</Text>
             </View>
             
             {(() => {

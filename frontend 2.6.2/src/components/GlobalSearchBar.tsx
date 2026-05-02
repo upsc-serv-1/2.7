@@ -82,7 +82,7 @@ export const GlobalSearchBar: React.FC<GlobalSearchBarProps> = ({
         setLoadingInstant(true);
         try {
           // 1. Local Search First
-          let localResults = await QuestionCache.searchLocal(query, 'Matching', searchFields);
+          let localResults = await QuestionCache.searchLocal(query, searchMode, searchFields);
 
           // Apply filters to local results
           if (selectedSubjects.length > 0) {
@@ -110,7 +110,7 @@ export const GlobalSearchBar: React.FC<GlobalSearchBarProps> = ({
                 .from('questions')
                 .select('*, tests(institute, series, title)')
                 .or(orConditions.join(','))
-                .limit(10);
+                .limit(30);
 
               // Apply filters to remote query
               if (selectedSubjects.length > 0) remoteQuery = remoteQuery.in('subject', selectedSubjects);
@@ -120,10 +120,10 @@ export const GlobalSearchBar: React.FC<GlobalSearchBarProps> = ({
               let { data: remote } = await remoteQuery;
 
               // FUZZY FALLBACK: If still sparse and term is long, try 1-character tolerance
-              if ((!remote || remote.length < 2) && term.length > 3) {
+              if (searchMode !== 'Exact' && (!remote || remote.length < 2) && term.length > 3) {
                 const fuzzyPatterns = [];
                 for (let i = 0; i < term.length; i++) {
-                  const pattern = term.substring(0, i) + '%' + term.substring(i + 1);
+                  const pattern = term.substring(0, i) + '_' + term.substring(i + 1);
                   if (activeFields.includes('Questions')) fuzzyPatterns.push(`question_text.ilike.%${pattern}%`);
                 }
                 if (fuzzyPatterns.length > 0) {
@@ -145,8 +145,18 @@ export const GlobalSearchBar: React.FC<GlobalSearchBarProps> = ({
             }
           }
 
-          // 3. SORT: UPSC CSE → Allied → Other PYQ → Non-PYQ. Newest year first.
+          // 3. SORT: Relevance → UPSC Priority → Newest Year.
           const prioritized = results.sort((a, b) => {
+            // A. Relevance Tie-break: Check if the exact term is present
+            const term = query.toLowerCase().trim();
+            const aText = (a.question_text + ' ' + (a.explanation_markdown || '')).toLowerCase();
+            const bText = (b.question_text + ' ' + (b.explanation_markdown || '')).toLowerCase();
+            const aExact = term && aText.includes(term);
+            const bExact = term && bText.includes(term);
+            
+            if (aExact && !bExact) return -1;
+            if (!aExact && bExact) return 1;
+
             const getRank = (q: any) => {
               const src = (q.source?.group || q.exam_group || q.tests?.series || q.tests?.title || q.title || q.program_name || "").toUpperCase();
               if (q.is_upsc_cse || src.includes("UPSC CSE") || src.includes("IAS") || src.includes("CIVIL SERVICES")) return 3;
@@ -154,15 +164,12 @@ export const GlobalSearchBar: React.FC<GlobalSearchBarProps> = ({
               if (q.is_pyq || q.is_others || src.includes("PYQ")) return 1;
               return 0;
             };
-
             const rankA = getRank(a);
             const rankB = getRank(b);
             if (rankA !== rankB) return rankB - rankA;
-
             const yearA = parseInt(a.exam_year || "0");
             const yearB = parseInt(b.exam_year || "0");
             if (yearA !== yearB) return yearB - yearA;
-
             return (a.subject || "").localeCompare(b.subject || "");
           });
 

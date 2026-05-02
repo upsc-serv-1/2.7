@@ -262,6 +262,11 @@ export default function UnifiedArenaSetup() {
     searchQuery,
     searchFilters
   ]);
+  
+  // 🆕 Sync PYQ chips toggle with mode (ON for learning, OFF for exam)
+  useEffect(() => {
+    setShowPYQTags(arenaMode === 'learning');
+  }, [arenaMode]);
 
   useEffect(() => {
     if (activeTab === 'search') {
@@ -278,7 +283,7 @@ export default function UnifiedArenaSetup() {
     try {
       const sf = searchFilters || {};
       const activeFields = sf.searchFields || ['Questions'];
-      let query = supabase.from('questions').select('id, question_text, explanation_markdown, subject, section_group, micro_topic, is_pyq, source, exam_group, exam_year, is_upsc_cse, is_allied, is_others, tests(institute)').limit(100);
+      let query = supabase.from('questions').select('id, question_text, explanation_markdown, subject, section_group, micro_topic, is_pyq, source, exam_group, exam_year, is_upsc_cse, is_allied, is_others, tests(institute)').limit(250);
       
       const term = searchQuery.trim();
       if (term) {
@@ -294,18 +299,20 @@ export default function UnifiedArenaSetup() {
           // Smart Matching: Split words and use AND logic
           const words = term.split(/\s+/).filter(w => w.length > 1 || /\d/.test(w));
           if (words.length > 1) {
+            // Multi-word: must match ALL words (AND logic)
             words.forEach(word => {
-              const wordFilters = [];
-              if (activeFields.includes('Questions')) wordFilters.push(`question_text.ilike.%${word}%`);
-              if (activeFields.includes('Explanations')) wordFilters.push(`explanation_markdown.ilike.%${word}%`);
-              if (wordFilters.length > 0) query = query.or(wordFilters.join(','));
+              const wordPatterns = [];
+              if (activeFields.includes('Questions')) wordPatterns.push(`question_text.ilike.%${word}%`);
+              if (activeFields.includes('Explanations')) wordPatterns.push(`explanation_markdown.ilike.%${word}%`);
+              if (wordPatterns.length > 0) query = query.or(wordPatterns.join(','));
             });
           } else {
+            // Single word: use substring matching
             const termPattern = `%${term}%`;
-            const filters = [];
-            if (activeFields.includes('Questions')) filters.push(`question_text.ilike.${termPattern}`);
-            if (activeFields.includes('Explanations')) filters.push(`explanation_markdown.ilike.${termPattern}`);
-            if (filters.length > 0) query = query.or(filters.join(','));
+            const singleFilters = [];
+            if (activeFields.includes('Questions')) singleFilters.push(`question_text.ilike.${termPattern}`);
+            if (activeFields.includes('Explanations')) singleFilters.push(`explanation_markdown.ilike.${termPattern}`);
+            if (singleFilters.length > 0) query = query.or(singleFilters.join(','));
           }
         }
       }
@@ -355,13 +362,14 @@ export default function UnifiedArenaSetup() {
       if (error) throw error;
 
       // FUZZY FALLBACK: Trigger even if results are sparse to catch typos (like vijaynagar -> vijayanagar)
-      if ((!data || data.length < 50) && term.length > 3) {
+      // Only trigger if NOT in Exact match mode
+      if (sf.searchMode !== 'Exact' && (!data || data.length < 50) && term.length > 3) {
         const words = term.split(/\s+/).filter(Boolean);
         if (words.length === 1) {
           const word = words[0];
           const fuzzyPatterns = [];
           for (let i = 0; i < word.length; i++) {
-            const pattern = word.substring(0, i) + '%' + word.substring(i + 1);
+            const pattern = word.substring(0, i) + '_' + word.substring(i + 1);
             if (activeFields.includes('Questions')) fuzzyPatterns.push(`question_text.ilike.%${pattern}%`);
             if (activeFields.includes('Explanations')) fuzzyPatterns.push(`explanation_markdown.ilike.%${pattern}%`);
           }
@@ -436,8 +444,20 @@ export default function UnifiedArenaSetup() {
       // 3. Deduplicate
       const { mergedQs } = mergeQuestions(data || []);
       
-      // 4. SORT: UPSC CSE → Allied → Other PYQ → Non-PYQ. Newest year first.
+      // 4. SORT: Relevance (Exact Match) → UPSC Priority → Newest Year
       mergedQs.sort((a: any, b: any) => {
+        // A. Relevance Tie-break: Check if the exact term is present
+        const term = searchQuery.toLowerCase().trim();
+        const aText = (a.question_text + ' ' + (a.explanation_markdown || '')).toLowerCase();
+        const bText = (b.question_text + ' ' + (b.explanation_markdown || '')).toLowerCase();
+        
+        // Boost exact matches OR prefix matches (e.g., "gandhi" matching "gandhiji")
+        const aRel = aText.includes(term);
+        const bRel = bText.includes(term);
+        
+        if (aRel && !bRel) return -1;
+        if (!aRel && bRel) return 1;
+
         const getRank = (q: any) => {
           const src = (q.source?.group || q.exam_group || q.tests?.series || q.tests?.title || q.title || '').toUpperCase();
           if (q.is_upsc_cse || src.includes('UPSC CSE') || src.includes('IAS') || src.includes('CIVIL SERVICES')) return 3;
@@ -533,6 +553,7 @@ export default function UnifiedArenaSetup() {
 
   const updateQuestionCount = async () => {
     setCalculatingCount(true);
+    const sf = searchFilters || {};
     try {
       let query = supabase.from('questions').select('id', { count: 'exact', head: true });
 
@@ -593,8 +614,6 @@ export default function UnifiedArenaSetup() {
           setCalculatingCount(false);
           return;
         }
-
-        const sf = searchFilters || {};
         const activeFields = sf.searchFields || ['Questions'];
         const term = searchQuery.trim();
         
@@ -697,16 +716,15 @@ export default function UnifiedArenaSetup() {
       let finalCount = count || 0;
 
       // 🆕 FUZZY COUNT FALLBACK: For Search Tab, if count is low, add fuzzy estimate
-      if (activeTab === 'search' && searchQuery.trim().length > 3 && finalCount < 50) {
+      if (sf.searchMode !== 'Exact' && activeTab === 'search' && searchQuery.trim().length > 3 && finalCount < 50) {
         const words = searchQuery.trim().split(/\s+/).filter(Boolean);
         if (words.length === 1) {
           const word = words[0];
           const fuzzyPatterns = [];
-          const sf = searchFilters || {};
           const activeFields = sf.searchFields || ['Questions'];
           
           for (let i = 0; i < word.length; i++) {
-            const pattern = word.substring(0, i) + '%' + word.substring(i + 1);
+            const pattern = word.substring(0, i) + '_' + word.substring(i + 1);
             if (activeFields.includes('Questions')) {
               fuzzyPatterns.push(`question_text.ilike.%${pattern}%`);
             }
@@ -819,7 +837,7 @@ export default function UnifiedArenaSetup() {
       mode: mode,
       view: viewMode,
       timer: mode === 'exam' ? (timer || 'none') : 'none',
-      showPYQTags: showPYQTags ? 'true' : 'false',
+      showPYQTags: mode === 'exam' ? 'false' : (showPYQTags ? 'true' : 'false'),
     };
 
     let finalParams = {};
@@ -1331,22 +1349,28 @@ export default function UnifiedArenaSetup() {
                             {q.subject}
                           </Text>
                           {(() => {
-                            if (!q.is_pyq && !q.exam_group && !q.source?.group) return null;
-                            const groupName = (q.source?.group || q.exam_group || '').toUpperCase();
-                            const year = String(q.source?.year || q.exam_year || '').trim();
+                            if (!q.is_pyq && !q.exam_group) {
+                              const isUPSC = !!q.is_upsc_cse;
+                              const isAllied = !!q.is_allied;
+                              const isOther = !!q.is_others;
+                              if (!isUPSC && !isAllied && !isOther) return null;
+                            }
+                            
+                            const groupName = (q.exam_group || '').toUpperCase();
+                            const year = String(q.exam_year || '').trim();
+                            
                             const isUPSC = q.is_upsc_cse || groupName.includes('UPSC CSE') || groupName === 'UPSC';
                             const isAllied = q.is_allied || ['CAPF', 'CDS', 'NDA', 'EPFO', 'CISF', 'ALLIED'].some(g => groupName.includes(g));
                             const isOther = q.is_others || ['UPPCS', 'BPSC', 'MPSC', 'RPSC', 'UKPSC', 'MPPSC', 'CGPSC', 'STATE PSC', 'OTHER'].some(g => groupName.includes(g));
                             
-                            const dispName = q.source?.group || q.exam_group || (isUPSC ? 'UPSC CSE' : isAllied ? 'Allied' : isOther ? 'Other' : 'PYQ');
+                            const dispName = q.exam_group || (isUPSC ? 'UPSC CSE' : isAllied ? 'Allied' : isOther ? 'Other' : 'PYQ');
                             
-                            let bgColor = '#f59e0b15';
-                            let textColor = '#f59e0b';
+                            let bgColor = colors.primary + '15';
+                            let textColor = colors.primary;
                             
                             if (isUPSC) { bgColor = '#dcfce7'; textColor = '#15803d'; }
                             else if (isAllied) { bgColor = '#fef9c3'; textColor = '#a16207'; }
                             else if (isOther) { bgColor = '#f1f5f9'; textColor = '#475569'; }
-                            else if (q.is_pyq) { bgColor = colors.primary + '15'; textColor = colors.primary; }
 
                             return (
                               <Text style={[styles.resultTag, { color: textColor, backgroundColor: bgColor, marginLeft: 8 }]}>
