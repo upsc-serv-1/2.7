@@ -2,7 +2,7 @@ import { useEffect, useState, useCallback, useMemo, useRef } from 'react';
 import { View, Text, StyleSheet, ScrollView, TouchableOpacity, RefreshControl, Modal, Pressable, FlatList, Vibration, useWindowDimensions } from 'react-native';
 import { router, useFocusEffect } from 'expo-router';
 import * as Haptics from 'expo-haptics';
-import { TrendingUp, Target, Flame, BookOpen, BarChart3, ChevronRight, Layout, Play, Clock, RotateCcw, Zap, History, Plus, GripVertical, Sliders } from 'lucide-react-native';
+import { TrendingUp, Target, BookOpen, BarChart3, ChevronRight, Layout, Play, Clock, RotateCcw, Zap, History, Plus, GripVertical, Sliders, CheckCircle2, Shuffle } from 'lucide-react-native';
 import { supabase } from '../../src/lib/supabase';
 import { useAuth } from '../../src/context/AuthContext';
 import { radius, spacing } from '../../src/theme';
@@ -184,6 +184,64 @@ export default function Home() {
 
   const onRefresh = async () => { setRefreshing(true); await load(); refreshWidgets(); setRefreshing(false); };
 
+
+  const startRandomPyqTest = useCallback(async (yearRange: string, count: 5 | 10) => {
+    try {
+      const [startYear, endYear] = yearRange.split('-').map(Number);
+      const { data: testRows, error: testErr } = await supabase
+        .from('tests')
+        .select('id, title, launch_year, exam_year')
+        .eq('institute', 'UPSC')
+        .limit(4000);
+      if (testErr) throw testErr;
+      const csatTestIds = (testRows || []).filter((t: any) => {
+        const y = Number(t.launch_year || t.exam_year || 0);
+        const title = String(t.title || '').toLowerCase();
+        return y >= startYear && y <= endYear && (title.includes('csat') || title.includes('aptitude'));
+      }).map((t: any) => t.id).slice(0, 1000);
+      if (csatTestIds.length === 0) {
+        Alert.alert('No CSAT tests found', 'No UPSC CSAT PYQ tests were found for the selected year range.');
+        return;
+      }
+      const { data: qRows, error: qErr } = await supabase
+        .from('questions')
+        .select('id')
+        .in('test_id', csatTestIds)
+        .eq('is_pyq', true)
+        .limit(6000);
+      if (qErr) throw qErr;
+      const ids = (qRows || []).map((q: any) => q.id);
+      if (ids.length < count) {
+        Alert.alert('Not enough questions', `Found only ${ids.length} PYQ questions for this range.`);
+        return;
+      }
+      const selected = [...ids].sort(() => Math.random() - 0.5).slice(0, count);
+      router.push({
+        pathname: '/unified/engine',
+        params: { mode: 'exam', view: 'list', timer: 'countdown', resultIds: selected.join(','), title: `Random UPSC CSAT PYQ ${startYear}-${endYear}` },
+      } as any);
+    } catch (e: any) {
+      console.error('Random PYQ launch failed', e);
+      Alert.alert('Launch failed', e?.message || 'Could not start random PYQ test.');
+    }
+  }, []);
+
+  const openRandomPyqPicker = () => {
+    const askCount = (range: string) => {
+      Alert.alert('Number of questions', 'Choose test size', [
+        { text: '5 Questions', onPress: () => startRandomPyqTest(range, 5) },
+        { text: '10 Questions', onPress: () => startRandomPyqTest(range, 10) },
+        { text: 'Cancel', style: 'cancel' },
+      ]);
+    };
+    Alert.alert('Range of years', 'Choose PYQ year range', [
+      { text: '2013-2025', onPress: () => askCount('2013-2025') },
+      { text: '2018-2025', onPress: () => askCount('2018-2025') },
+      { text: '2021-2025', onPress: () => askCount('2021-2025') },
+      { text: 'Cancel', style: 'cancel' },
+    ]);
+  };
+
   const handleLongPressIn = () => {
     longPressTimer.current = setTimeout(() => {
       Vibration.vibrate(50);
@@ -249,40 +307,43 @@ export default function Home() {
               />
             </View>
 
-            <View style={styles.dashboardRow}>
-               <View style={[styles.streakCard, { backgroundColor: colors.primary + '10', borderColor: colors.primary + '20' }]}>
-                  <Flame color={colors.primary} size={24} fill={colors.primary} />
-                  <View style={{ marginLeft: 12 }}>
-                     <Text style={[styles.streakVal, { color: colors.textPrimary }]}>{stats.streak} Days</Text>
-                     <Text style={[styles.streakLab, { color: colors.textSecondary }]}>Daily Streak</Text>
-                  </View>
-               </View>
-               <View style={[styles.summaryCard, { backgroundColor: colors.surface, borderColor: colors.border }]}>
-                  <Target color={colors.primary} size={24} />
-                  <View style={{ marginLeft: 12 }}>
-                     <Text style={[styles.streakVal, { color: colors.textPrimary }]}>{stats.accuracy}%</Text>
-                     <Text style={[styles.streakLab, { color: colors.textSecondary }]}>Accuracy</Text>
-                  </View>
-               </View>
-            </View>
+            <View style={{ flexDirection: 'row', gap: 12, flexWrap: 'wrap' }}>
+              <TouchableOpacity style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]} onPress={() => router.push('/flashcards/review')}>
+                <RotateCcw color={colors.primary} size={22} />
+                <View style={{ marginLeft: 10, flex: 1 }}>
+                  <Text style={[styles.streakVal, { color: colors.textPrimary }]}>{widgetData.dueCards}</Text>
+                  <Text style={[styles.streakLab, { color: colors.textSecondary }]}>New Flashcards Today</Text>
+                </View>
+              </TouchableOpacity>
 
-            <TouchableOpacity 
-              style={[styles.arenaCard, { backgroundColor: colors.primary, shadowColor: colors.primary }]}
-              onPress={() => router.push('/arena')}
-            >
-               <View style={styles.arenaContent}>
-                  <View style={styles.arenaLeft}>
-                    <Zap color="#FFF" size={32} fill="#FFF" />
-                    <View style={{ marginLeft: 16 }}>
-                       <Text style={styles.arenaTitle}>Enter Unified Arena</Text>
-                       <Text style={styles.arenaSub}>Advanced Quiz Engine • All Modes</Text>
-                    </View>
+              <View style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]}>
+                <BarChart3 color={colors.primary} size={22} />
+                <View style={{ marginLeft: 10, flex: 1 }}>
+                  <Text style={[styles.streakLab, { color: colors.textSecondary, marginBottom: 6 }]}>PYQ Trend</Text>
+                  <View style={{ flexDirection: 'row', alignItems: 'flex-end', gap: 3, height: 28 }}>
+                    {(widgetData.accuracyByDay || []).slice(-6).map((d, idx) => (
+                      <View key={`trend-${idx}`} style={{ width: 6, borderRadius: 4, backgroundColor: colors.primary + '80', height: Math.max(6, Math.round((d.accuracy || 0) * 0.28)) }} />
+                    ))}
                   </View>
-                  <View style={styles.arenaRight}>
-                     <ChevronRight color="#FFF" size={24} />
-                  </View>
-               </View>
-            </TouchableOpacity>
+                </View>
+              </View>
+
+              <View style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]}>
+                <CheckCircle2 color={colors.primary} size={22} />
+                <View style={{ marginLeft: 10 }}>
+                  <Text style={[styles.streakVal, { color: colors.textPrimary }]}>{widgetData.todayCount}</Text>
+                  <Text style={[styles.streakLab, { color: colors.textSecondary }]}>Questions Solved Today</Text>
+                </View>
+              </View>
+
+              <TouchableOpacity style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]} onPress={openRandomPyqPicker}>
+                <Shuffle color={colors.primary} size={22} />
+                <View style={{ marginLeft: 10, flex: 1 }}>
+                  <Text style={[styles.streakLab, { color: colors.textSecondary }]}>Random PYQ Test</Text>
+                  <Text style={{ color: colors.textPrimary, fontWeight: '800', fontSize: 11, marginTop: 2 }}>Pick year range + 5/10 questions</Text>
+                </View>
+              </TouchableOpacity>
+            </View>
 
             <TouchableOpacity 
               style={[styles.progressCard, { backgroundColor: colors.surface, borderColor: colors.border }]}

@@ -526,13 +526,23 @@ export default function UnifiedQuizEngine() {
       
       let finalQs = mergedQs;
       const resIds = typeof params.resultIds === 'string' ? params.resultIds.split(',').filter(id => id.trim().length > 0) : null;
+      const hasQuestionSequence = mergedQs.some(q => Number.isFinite(Number(q.question_number)));
+
       if (resIds && resIds.length > 0) {
         const orderedMergedIds = resIds.map(id => idToMergedId.get(id) || id);
         const uniqueOrderedIds = Array.from(new Set(orderedMergedIds));
         finalQs = uniqueOrderedIds.map(id => mergedQs.find(q => q.id === id)).filter(Boolean);
+      } else if (params.testId && hasQuestionSequence) {
+        // For a single uploaded test, preserve original paper sequence from JSON (Q1, Q2, Q3...).
+        finalQs = [...finalQs].sort((a: any, b: any) => {
+          const qNoA = Number.isFinite(Number(a.question_number)) ? Number(a.question_number) : Number.MAX_SAFE_INTEGER;
+          const qNoB = Number.isFinite(Number(b.question_number)) ? Number(b.question_number) : Number.MAX_SAFE_INTEGER;
+          if (qNoA !== qNoB) return qNoA - qNoB;
+          return String(a.id || '').localeCompare(String(b.id || ''));
+        });
       } else {
         // Apply priority sorting: UPSC CSE → Allied → Other PYQ → Non-PYQ. Newest year first.
-        finalQs.sort((a: any, b: any) => {
+        finalQs = [...finalQs].sort((a: any, b: any) => {
           const getRank = (q: any) => {
             const src = (q.source?.group || q.exam_group || q.tests?.series || q.tests?.title || '').toUpperCase();
             if (q.is_upsc_cse || src.includes('UPSC CSE') || src.includes('IAS') || src.includes('CIVIL SERVICES')) return 3;
@@ -547,7 +557,7 @@ export default function UnifiedQuizEngine() {
           return String(a.subject || '').localeCompare(String(b.subject || ''));
         });
       }
-      
+
       setQuestions(finalQs);
       
       if (params.questionId && !hasJumped) {
@@ -595,7 +605,7 @@ export default function UnifiedQuizEngine() {
       const MAX_TOTAL = 10000; // Safety cap to prevent memory issues
       
       while (from < MAX_TOTAL) {
-        let query = supabase.from('questions').select('id, question_text, options, correct_answer, explanation_markdown, subject, section_group, micro_topic, is_pyq, exam_group, exam_year, is_upsc_cse, is_allied, is_others, source, test_id, tests(*)');
+        let query = supabase.from('questions').select('id, question_number, question_text, options, correct_answer, explanation_markdown, subject, section_group, micro_topic, is_pyq, exam_group, exam_year, is_upsc_cse, is_allied, is_others, source, test_id, tests(*)');
         const resIds = typeof params.resultIds === 'string' ? params.resultIds.split(',').filter(id => id.trim().length > 0) : null;
         
         if (resIds && resIds.length > 0) {
@@ -720,6 +730,10 @@ export default function UnifiedQuizEngine() {
             query = query.or(`exam_year.eq.${params.specificYear}`);
           }
 
+          if (params.testId) {
+            query = query.order('question_number', { ascending: true }).order('id', { ascending: true });
+          }
+
           const tagsRaw = params.tags;
           if (tagsRaw && tagsRaw !== 'All' && tagsRaw !== '' && tagsRaw !== '[]' && session?.user?.id) {
             // Tag filtering requires separate fetch of IDs
@@ -759,7 +773,7 @@ export default function UnifiedQuizEngine() {
                }
              }
              
-             let fuzzyQ = supabase.from('questions').select('id, question_text, options, correct_answer, explanation_markdown, subject, section_group, micro_topic, is_pyq, exam_group, exam_year, is_upsc_cse, is_allied, is_others, source, test_id, tests(*)').or(fuzzyPatterns.join(',')).limit(100);
+             let fuzzyQ = supabase.from('questions').select('id, question_number, question_text, options, correct_answer, explanation_markdown, subject, section_group, micro_topic, is_pyq, exam_group, exam_year, is_upsc_cse, is_allied, is_others, source, test_id, tests(*)').or(fuzzyPatterns.join(',')).limit(100);
              // Re-apply same filters
              const insts = params.institutes || params.institute;
              if (insts && insts !== 'All') {
@@ -1591,46 +1605,26 @@ export default function UnifiedQuizEngine() {
               const pyq = getPYQCategorization(item);
               const hasTags = showPYQTags && (pyq.hasPYQData || item.is_ncert);
               if (!hasTags) return null;
-              
+
+              const chips: { label: string; bg: string; fg: string; border: string }[] = [];
+              if (pyq.isUPSC) chips.push({ label: `${pyq.groupName} ${pyq.year}`.trim(), bg: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#dcfce7', fg: isZenMode ? '#433422' : '#15803d', border: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#22c55e' });
+              if (pyq.isAllied) chips.push({ label: `${pyq.groupName} ${pyq.year}`.trim(), bg: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#fef9c3', fg: isZenMode ? '#433422' : '#a16207', border: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#eab308' });
+              if (pyq.isOther) chips.push({ label: `${pyq.groupName} ${pyq.year}`.trim(), bg: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#f1f5f9', fg: isZenMode ? '#433422' : '#475569', border: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#94a3b8' });
+              if (pyq.isGenericPYQ) chips.push({ label: `${pyq.groupName} ${pyq.year}`.trim(), bg: isZenMode ? 'rgba(67, 52, 34, 0.05)' : colors.primary + '10', fg: isZenMode ? '#433422' : colors.primary, border: isZenMode ? 'rgba(67, 52, 34, 0.2)' : colors.primary });
+              if (item.is_ncert || item.micro_topic === 'NCERT') chips.push({ label: 'NCERT', bg: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#e0f2fe', fg: isZenMode ? '#433422' : '#0369a1', border: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#0ea5e9' });
+
               return (
-                <View style={{ position: 'absolute', top: 12, right: 12, flexDirection: 'row', gap: 6 }}>
-                  {pyq.isUPSC && (
-                    <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#dcfce7', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#22c55e' }]}>
-                      <Text style={{ color: isZenMode ? '#433422' : '#15803d', fontWeight: '900', fontSize: 10 }}>{`${pyq.groupName} ${pyq.year}`.trim()}</Text>
+                <View style={{ flexDirection: 'row', flexWrap: 'wrap', gap: 6, marginTop: 4 }}>
+                  {chips.map((chip, idx) => (
+                    <View key={`chip-${item.id}-${idx}`} style={[styles.inlineBadge, { backgroundColor: chip.bg, borderColor: chip.border }]}>
+                      <Text style={{ color: chip.fg, fontWeight: '900', fontSize: 10 }}>{chip.label}</Text>
                     </View>
-                  )}
-                  {pyq.isAllied && (
-                    <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#fef9c3', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#eab308' }]}>
-                      <Text style={{ color: isZenMode ? '#433422' : '#a16207', fontWeight: '900', fontSize: 10 }}>{`${pyq.groupName} ${pyq.year}`.trim()}</Text>
-                    </View>
-                  )}
-                  {pyq.isOther && (
-                    <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#f1f5f9', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#94a3b8' }]}>
-                      <Text style={{ color: isZenMode ? '#433422' : '#475569', fontWeight: '900', fontSize: 10 }}>{`${pyq.groupName} ${pyq.year}`.trim()}</Text>
-                    </View>
-                  )}
-                  {pyq.isGenericPYQ && (
-                     <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : colors.primary + '10', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : colors.primary }]}>
-                       <Text style={{ color: isZenMode ? '#433422' : colors.primary, fontWeight: '900', fontSize: 10 }}>{`${pyq.groupName} ${pyq.year}`.trim()}</Text>
-                     </View>
-                  )}
-                  {item.is_ncert && (
-                    <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#e0f2fe', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#0ea5e9' }]}>
-                      <Text style={{ color: isZenMode ? '#433422' : '#0369a1', fontWeight: '900', fontSize: 10 }}>NCERT</Text>
-                    </View>
-                  )}
+                  ))}
                 </View>
               );
             })()}
-            {(item.is_ncert || item.micro_topic === 'NCERT') && (
-              <View style={{ position: 'absolute', top: 12, right: 12 }}>
-                <View style={[styles.inlineBadge, { backgroundColor: isZenMode ? 'rgba(67, 52, 34, 0.05)' : '#e0f2fe', borderColor: isZenMode ? 'rgba(67, 52, 34, 0.2)' : '#0ea5e9' }]}>
-                  <Text style={{ color: isZenMode ? '#433422' : '#0369a1', fontWeight: '900', fontSize: 10 }}>NCERT</Text>
-                </View>
-              </View>
-            )}
           </View>
-          <View style={{ flexDirection: 'row', gap: 12 }}>
+          <View style={{ flexDirection: 'row', gap: 12, alignItems: 'center' }}>
             <TouchableOpacity 
               onPress={() => store.setMetadata(item.id, { isReview: !answerData.isReview })}
               style={{ flexDirection: 'row', alignItems: 'center', gap: 4, paddingHorizontal: 8, paddingVertical: 4, borderRadius: 8, backgroundColor: answerData.isReview ? (isZenMode ? '#43342220' : '#fef9c3') : 'transparent' }}
