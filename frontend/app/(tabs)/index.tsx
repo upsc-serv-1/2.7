@@ -464,14 +464,14 @@ export default function Home() {
                 <View style={[styles.iconBox, { backgroundColor: colors.primary + '15' }]}>
                   <Layout color={colors.primary} size={22} />
                 </View>
-                <View style={{ flex: 1, marginLeft: 12 }}>
-                  <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+                <View style={styles.trackerInfo}>
+                  <View style={styles.trackerTitleRow}>
                     <Text style={[styles.cardTitle, { color: colors.textPrimary }]}>Syllabus Tracker</Text>
-                    <View style={{ marginLeft: 8, paddingHorizontal: 6, paddingVertical: 2, borderRadius: 4, backgroundColor: colors.primary + '10' }}>
-                       <Text style={{ fontSize: 9, fontWeight: '900', color: colors.primary }}>{widgetCategory.toUpperCase()}</Text>
+                    <View style={[styles.trackerCategoryBadge, { backgroundColor: colors.primary + '10' }]}>
+                      <Text style={[styles.trackerCategoryText, { color: colors.primary }]}>{widgetCategory.toUpperCase()}</Text>
                     </View>
                   </View>
-                  <Text style={[styles.cardDesc, { color: colors.textSecondary }]}>Long press to edit subjects</Text>
+                  <Text style={[styles.cardDesc, { color: colors.textSecondary }]} numberOfLines={2}>Long press to edit subjects</Text>
                 </View>
                 <View style={[styles.percentBox, { backgroundColor: colors.primary + '15' }]}>
                   <Text style={[styles.percentText, { color: colors.primary }]}>{stats.syllabusPercent}%</Text>
@@ -820,11 +820,15 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   progressCard: { padding: 20, borderRadius: 24, borderWidth: 1, marginTop: 20 },
-  progressHeader: { flexDirection: 'row', alignItems: 'center', marginBottom: 20 },
+  progressHeader: { flexDirection: 'row', alignItems: 'flex-start', marginBottom: 20 },
   iconBox: { width: 44, height: 44, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
+  trackerInfo: { flex: 1, marginLeft: 12, marginRight: 10, minWidth: 0 },
+  trackerTitleRow: { flexDirection: 'row', alignItems: 'center', flexWrap: 'wrap', rowGap: 6, columnGap: 8 },
+  trackerCategoryBadge: { paddingHorizontal: 6, paddingVertical: 2, borderRadius: 4 },
+  trackerCategoryText: { fontSize: 9, fontWeight: '900' },
   cardTitle: { fontSize: 18, fontWeight: '800' },
   cardDesc: { fontSize: 13, marginTop: 2 },
-  percentBox: { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 10 },
+  percentBox: { paddingHorizontal: 12, paddingVertical: 6, borderRadius: 10, alignSelf: 'center' },
   percentText: { fontWeight: '900', fontSize: 16 },
   progressList: { gap: 12 },
   subProg: { gap: 6 },
