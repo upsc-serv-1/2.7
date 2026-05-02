@@ -344,8 +344,7 @@ export class FlashcardSvc {
 
   static async createFromQuestion(userId: string, q: any) {
     const opts = q.options ?? {};
-    const optionLines = Object.entries(opts).map(([k, v]) => `(${k.toUpperCase()}) ${v}`).join('\n');
-    const front_text = `${q.question_text || q.questionText || ''}\n\n${optionLines}`.trim();
+    const front_text = `${q.question_text || q.questionText || ''}`.trim();
 
     const correctKey = q.correct_answer || q.correctAnswer;
     const correctText = correctKey && opts[correctKey] ? `**Correct: (${correctKey.toUpperCase()})** ${opts[correctKey]}` : '';

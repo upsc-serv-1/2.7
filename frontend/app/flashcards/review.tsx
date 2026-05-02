@@ -2,6 +2,7 @@ import React, { useState, useEffect, useRef, useCallback } from 'react';
 import {
   View, Text, StyleSheet, TouchableOpacity, SafeAreaView, ActivityIndicator,
   Animated, Dimensions, Modal, TextInput, ScrollView, Alert, Image,
+  KeyboardAvoidingView, Platform,
 } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import { X, RotateCcw, Check, MoreVertical, Snowflake, Maximize2 } from 'lucide-react-native';
@@ -290,6 +291,9 @@ export default function ReviewScreen() {
   const backInterpolate  = flipAnim.interpolate({ inputRange: [0, 180], outputRange: ['180deg', '360deg'] });
   const opts = (currentCard.source as any)?.options ?? {};
   const hasOptions = currentCard.card_type === 'qa' && Object.keys(opts).length > 0;
+  const questionText = hasOptions
+    ? stripQuestionOptions(currentCard.front_text || '', Object.entries(opts).map(([k]) => String(k)))
+    : (currentCard.front_text || '');
 
   return (
     <PageWrapper>
@@ -312,7 +316,7 @@ export default function ReviewScreen() {
         <GestureHandlerRootView style={{ flex: 1 }}>
           <PinchGestureHandler onGestureEvent={onPinchGestureEvent} onHandlerStateChange={onPinchHandlerStateChange}>
             <View style={styles.cardSection}>
-              <TouchableOpacity activeOpacity={1} onPress={handleFlip} style={styles.cardTouch}>
+              <View style={styles.cardTouch}>
                 {/* FRONT */}
                 <Animated.View
                   style={[styles.card, {
@@ -322,9 +326,14 @@ export default function ReviewScreen() {
                   }]}
                 >
                   <Text style={[styles.cardSideLabel, { color: colors.primary }]}>QUESTION</Text>
-                  <ScrollView style={{ flex: 1 }} contentContainerStyle={[styles.cardScroll, { padding: 16 }]}>
+                  <ScrollView
+                    style={{ flex: 1 }}
+                    contentContainerStyle={[styles.cardScroll, { padding: 16, paddingBottom: 22 }]}
+                    showsVerticalScrollIndicator
+                    nestedScrollEnabled
+                  >
                     <Text style={[styles.cardText, { color: colors.textPrimary, fontSize: editorFontSize, lineHeight: editorFontSize * 1.5 }]}>
-                      {currentCard.front_text}
+                      {questionText}
                     </Text>
 
                     {hasOptions && Object.entries(opts).map(([k, v]) => {
@@ -362,12 +371,12 @@ export default function ReviewScreen() {
                     )}
                   </ScrollView>
 
-                  <View style={styles.flipHint}>
+                  <TouchableOpacity style={styles.flipHint} onPress={handleFlip} testID="btn-flip-card-front">
                     <RotateCcw size={14} color={colors.textTertiary} />
                     <Text style={[styles.flipHintText, { color: colors.textTertiary }]}>
-                      {hasOptions && !showCorrect ? 'Select an option or tap to flip' : 'Tap to flip'}
+                      {hasOptions && !showCorrect ? 'Select an option or tap here to flip' : 'Tap here to flip'}
                     </Text>
-                  </View>
+                  </TouchableOpacity>
                 </Animated.View>
 
                 {/* BACK */}
@@ -379,7 +388,7 @@ export default function ReviewScreen() {
                   }]}
                 >
                   <Text style={[styles.cardSideLabel, { color: '#34c759' }]}>ANSWER & EXPLANATION</Text>
-                  <ScrollView contentContainerStyle={styles.cardScroll}>
+                  <ScrollView contentContainerStyle={[styles.cardScroll, { paddingBottom: 20 }]} showsVerticalScrollIndicator nestedScrollEnabled>
                     <Text style={[styles.answerText, { color: colors.textPrimary, fontSize: editorFontSize - 2, lineHeight: (editorFontSize - 2) * 1.5 }]}>
                       {currentCard.back_text}
                     </Text>
@@ -393,12 +402,12 @@ export default function ReviewScreen() {
                       </View>
                     ) : null}
                   </ScrollView>
-                  <View style={styles.flipHint}>
+                  <TouchableOpacity style={styles.flipHint} onPress={handleFlip} testID="btn-flip-card-back">
                     <RotateCcw size={14} color={colors.textTertiary} />
-                    <Text style={[styles.flipHintText, { color: colors.textTertiary }]}>Tap to see question</Text>
-                  </View>
+                    <Text style={[styles.flipHintText, { color: colors.textTertiary }]}>Tap here to see question</Text>
+                  </TouchableOpacity>
                 </Animated.View>
-              </TouchableOpacity>
+              </View>
             </View>
           </PinchGestureHandler>
         </GestureHandlerRootView>
@@ -434,20 +443,29 @@ export default function ReviewScreen() {
         </View>
 
         {/* EDIT / NOTE MODAL */}
-        <Modal visible={showEditModal} transparent animationType="slide">
-          <View style={styles.modalOverlay}>
+        <Modal visible={showEditModal} transparent animationType="slide" onRequestClose={() => setShowEditModal(false)}>
+          <KeyboardAvoidingView
+            style={styles.modalOverlay}
+            behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+            keyboardVerticalOffset={16}
+          >
             <View style={[styles.modalContent, { backgroundColor: colors.surface }]}>
               <View style={styles.modalHeader}>
                 <Text style={[styles.modalTitle, { color: colors.textPrimary }]}>Card tools</Text>
                 <TouchableOpacity onPress={() => setShowEditModal(false)}><X size={24} color={colors.textPrimary} /></TouchableOpacity>
               </View>
 
-              <Text style={[styles.inputLabel, { color: colors.textSecondary }]}>Personal Notes / Tricks</Text>
-              <TextInput
-                style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg }]}
-                multiline placeholder="Add your own memory aids..." placeholderTextColor={colors.textTertiary}
-                value={personalNote} onChangeText={setPersonalNote}
-              />
+              <ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={{ paddingBottom: 8 }}>
+                <Text style={[styles.inputLabel, { color: colors.textSecondary }]}>Personal Notes / Tricks</Text>
+                <TextInput
+                  style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg }]}
+                  multiline
+                  placeholder="Add your own memory aids..."
+                  placeholderTextColor={colors.textTertiary}
+                  value={personalNote}
+                  onChangeText={setPersonalNote}
+                />
+              </ScrollView>
 
               <View style={styles.modalActions}>
                 <TouchableOpacity style={[styles.modalBtn, { backgroundColor: '#ef444420' }]} onPress={freezeCard} testID="btn-freeze">
@@ -459,11 +477,24 @@ export default function ReviewScreen() {
                 </TouchableOpacity>
               </View>
             </View>
-          </View>
+          </KeyboardAvoidingView>
         </Modal>
       </SafeAreaView>
     </PageWrapper>
   );
+}
+
+function stripQuestionOptions(frontText: string, optionKeys: string[]) {
+  if (!frontText?.trim()) return '';
+  const keys = optionKeys.map(k => k.toLowerCase());
+  const lines = frontText.split(/\r?\n/);
+  const kept = lines.filter((line) => {
+    const trimmed = line.trim();
+    const m = trimmed.match(/^\(?([a-z0-9]+)\)?[\.:\-\)]\s+/i) || trimmed.match(/^\(?([a-z0-9]+)\)\s+/i);
+    if (!m) return true;
+    return !keys.includes(m[1].toLowerCase());
+  });
+  return kept.join('\n').replace(/\n{3,}/g, '\n\n').trim();
 }
 
 function Summary({ num, label, color }: any) {

@@ -70,8 +70,20 @@ export class BranchPlacement {
   /** Move a card from one branch to another. */
   static async moveCard(userId: string, cardId: string, fromBranchId: string, toBranchId: string): Promise<void> {
     if (fromBranchId === toBranchId) return;
+
+    // Ensure destination link exists first (idempotent).
     await BranchSvc.addCardToBranch(userId, toBranchId, cardId);
-    await BranchSvc.removeCardFromBranch(fromBranchId, cardId);
+
+    // Then remove old links. We intentionally remove from *all* other branches,
+    // because the caller may not always know the exact source branch (e.g. recursive views).
+    const { error } = await supabase
+      .from('flashcard_branch_cards')
+      .delete()
+      .eq('user_id', userId)
+      .eq('card_id', cardId)
+      .neq('branch_id', toBranchId);
+
+    if (error) throw error;
   }
 
   /** Build a human-readable path for a leaf branch (for confirmation toasts). */

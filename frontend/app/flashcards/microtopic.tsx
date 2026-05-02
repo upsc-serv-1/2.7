@@ -2,6 +2,7 @@ import React, { useState, useEffect, useMemo, useCallback } from 'react';
 import {
   View, Text, StyleSheet, TouchableOpacity, FlatList, SafeAreaView,
   ActivityIndicator, TextInput, Modal, ScrollView, Alert, Image,
+  KeyboardAvoidingView, Platform,
 } from 'react-native';
 import { useLocalSearchParams, useRouter } from 'expo-router';
 import {
@@ -320,7 +321,22 @@ export default function MicrotopicScreen() {
               {isBranchMode ? (isRecursive ? 'Includes all sub-decks' : 'Direct cards only') : `${subject} • ${section}`}
             </Text>
           </View>
-          <TouchableOpacity onPress={() => router.push('/flashcards/new')} style={styles.iconBtn} testID="btn-add"><Plus size={24} color={colors.primary} /></TouchableOpacity>
+          <TouchableOpacity
+            onPress={() => router.push({
+              pathname: '/flashcards/new',
+              params: {
+                subject: String(subject || 'General'),
+                section: String(section || 'General'),
+                microtopic: String(microtopic || 'General'),
+                branchId: branchId ? String(branchId) : '',
+                branchName: branchName ? String(branchName) : '',
+              },
+            })}
+            style={styles.iconBtn}
+            testID="btn-add"
+          >
+            <Plus size={24} color={colors.primary} />
+          </TouchableOpacity>
         </View>
 
         <FlatList
@@ -417,7 +433,16 @@ export default function MicrotopicScreen() {
           ListFooterComponent={
             <TouchableOpacity
               style={[styles.addCardsBtn, { backgroundColor: colors.surface, borderColor: colors.border }]}
-              onPress={() => router.push('/flashcards/new')}
+              onPress={() => router.push({
+                pathname: '/flashcards/new',
+                params: {
+                  subject: String(subject || 'General'),
+                  section: String(section || 'General'),
+                  microtopic: String(microtopic || 'General'),
+                  branchId: branchId ? String(branchId) : '',
+                  branchName: branchName ? String(branchName) : '',
+                },
+              })}
               testID="btn-add-cards"
             >
               <Plus size={18} color={colors.textPrimary} />
@@ -443,16 +468,24 @@ export default function MicrotopicScreen() {
         <CardOverflowMenu visible={menuVisible} frozen={menuCard?.status === 'frozen'} busy={menuBusy} onClose={closeMenu} onAction={handleMenuAction} />
 
         <Modal visible={editVisible} transparent animationType="slide" onRequestClose={() => setEditVisible(false)}>
-          <View style={styles.modalOverlay}>
+          <KeyboardAvoidingView
+            style={styles.modalOverlay}
+            behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
+            keyboardVerticalOffset={16}
+          >
             <View style={[styles.modalContent, { backgroundColor: colors.surface, height: '70%' }]}>
               <View style={styles.modalHeader}>
                 <Text style={[styles.modalTitle, { color: colors.textPrimary }]}>Edit Card</Text>
                 <TouchableOpacity onPress={() => setEditVisible(false)}><X size={22} color={colors.textPrimary} /></TouchableOpacity>
               </View>
-              <Text style={{ color: colors.textSecondary, marginBottom: 6 }}>Front</Text>
-              <TextInput value={editFront} onChangeText={setEditFront} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
-              <Text style={{ color: colors.textSecondary, marginBottom: 6, marginTop: 14 }}>Back</Text>
-              <TextInput value={editBack} onChangeText={setEditBack} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
+
+              <ScrollView keyboardShouldPersistTaps="handled" contentContainerStyle={{ paddingBottom: 8 }}>
+                <Text style={{ color: colors.textSecondary, marginBottom: 6 }}>Front</Text>
+                <TextInput value={editFront} onChangeText={setEditFront} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
+                <Text style={{ color: colors.textSecondary, marginBottom: 6, marginTop: 14 }}>Back</Text>
+                <TextInput value={editBack} onChangeText={setEditBack} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
+              </ScrollView>
+
               <TouchableOpacity
                 style={[styles.studyBtn, { backgroundColor: colors.primary, marginTop: 16, alignSelf: 'stretch' }]}
                 onPress={async () => {
@@ -465,7 +498,7 @@ export default function MicrotopicScreen() {
                 <Text style={[styles.studyBtnText, { color: '#04223a' }]}>Save</Text>
               </TouchableOpacity>
             </View>
-          </View>
+          </KeyboardAvoidingView>
         </Modal>
 
         <AddToFlashcardSheet

@@ -12,12 +12,14 @@ interface Props {
   onToggle: () => void;
   onOpen: () => void;         // tap → drill into this deck (microtopic screen)
   onAction: (action: DeckRowAction) => void;
+  onLongPress?: () => void;
+  disableSwipe?: boolean;
 }
 
 const SWIPE_WIDTH = 220;
 const ACTION_WIDTH = SWIPE_WIDTH / 4;
 
-export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
+export function DeckRow({ node, expanded, onToggle, onOpen, onAction, onLongPress, disableSwipe = false }: Props) {
   const { colors } = useTheme();
   const translateX = useRef(new Animated.Value(0)).current;
   const isOpenSwipe = useRef(false);
@@ -25,6 +27,7 @@ export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
   const panResponder = useRef(
     PanResponder.create({
       onMoveShouldSetPanResponder: (_, gesture) => {
+        if (disableSwipe) return false;
         // Horizontal swipe only (avoid stealing the scroll)
         return Math.abs(gesture.dx) > 12 && Math.abs(gesture.dx) > Math.abs(gesture.dy);
       },
@@ -98,6 +101,8 @@ export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
 
           <TouchableOpacity
             onPress={onOpen}
+            onLongPress={onLongPress}
+            delayLongPress={220}
             style={{ flex: 1, flexDirection: 'row', alignItems: 'center', paddingVertical: 14, paddingLeft: 10 }}
             testID={`deck-open-${node.id}`}
           >
