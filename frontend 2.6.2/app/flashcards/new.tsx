@@ -56,6 +56,8 @@ export default function NewCard() {
 
   const [frontImageUrl, setFrontImageUrl] = useState<string | null>(null);
   const [backImageUrl, setBackImageUrl] = useState<string | null>(null);
+  const [frontUploading, setFrontUploading] = useState(false);
+  const [backUploading, setBackUploading] = useState(false);
 
   const [destination, setDestination] = useState<DeckSelection | null>(null);
   const [destinationPicker, setDestinationPicker] = useState(false);
@@ -70,8 +72,12 @@ export default function NewCard() {
 
   const save = async () => {
     if (!uid) return;
-    if (!front.trim() || !back.trim()) {
-      return Alert.alert('Missing Fields', 'Front and Back are required.');
+    
+    const hasFront = front.trim() || frontImageUrl;
+    const hasBack = back.trim() || backImageUrl;
+
+    if (!hasFront || !hasBack) {
+      return Alert.alert('Missing Fields', 'Both front and back sides must have either text or an image.');
     }
     if (!destination) {
       return Alert.alert('Select destination', 'Please choose a deck/folder before saving this card.');
@@ -106,28 +112,67 @@ export default function NewCard() {
   return (
     <PageWrapper>
       <KeyboardAvoidingView 
-        behavior={Platform.OS === 'ios' ? 'padding' : 'height'} 
+        behavior={Platform.OS === 'ios' ? 'padding' : undefined} 
         style={{ flex: 1 }}
-        keyboardVerticalOffset={Platform.OS === 'ios' ? 90 : 20}
+        keyboardVerticalOffset={Platform.OS === 'ios' ? 0 : 0}
       >
         <View style={[s.header, { borderBottomColor: colors.border }]}>
           <TouchableOpacity onPress={() => router.back()} style={s.backBtn} testID="btn-back-new-card">
             <ChevronLeft size={24} color={colors.textPrimary} />
           </TouchableOpacity>
-          <Text style={[s.title, { color: colors.textPrimary }]}>Create Flashcard</Text>
-          <View style={{ width: 40 }} />
+          <Text style={[s.title, { color: colors.textPrimary }]}>Add cards</Text>
+          <TouchableOpacity 
+            onPress={save} 
+            disabled={saving}
+            style={[s.headerSaveBtn, { backgroundColor: colors.primary + '20' }]}
+          >
+            {saving ? (
+              <ActivityIndicator size="small" color={colors.primary} />
+            ) : (
+              <CheckCircle2 size={24} color={colors.primary} />
+            )}
+          </TouchableOpacity>
         </View>
 
-        <ScrollView contentContainerStyle={s.scrollContent} showsVerticalScrollIndicator={false} keyboardShouldPersistTaps="handled">
-          <View style={[s.card, { backgroundColor: colors.surface, borderColor: colors.border }]}>
-            <View style={s.infoBox}>
-              <Info size={16} color={colors.primary} />
-              <Text style={[s.infoText, { color: colors.textSecondary }]}>Create manually, then choose exactly where this card should go.</Text>
-            </View>
+        <ScrollView 
+          contentContainerStyle={s.scrollContent} 
+          showsVerticalScrollIndicator={false} 
+          keyboardShouldPersistTaps="handled"
+        >
+          <View style={s.inputContainer}>
+            <Text style={[s.label, { color: colors.textTertiary }]}>Front side</Text>
+            <TextInput
+              value={front}
+              onChangeText={setFront}
+              placeholder="Enter text here"
+              placeholderTextColor={colors.textTertiary + '80'}
+              multiline
+              textAlignVertical="top"
+              style={[s.textArea, { backgroundColor: colors.surfaceStrong, color: colors.textPrimary }]}
+              testID="input-front"
+            />
+            {frontImageUrl && <Image source={{ uri: frontImageUrl }} style={s.previewImage} />}
+            
+            <View style={{ height: 24 }} />
+
+            <Text style={[s.label, { color: colors.textTertiary }]}>Back side</Text>
+            <TextInput
+              value={back}
+              onChangeText={setBack}
+              placeholder="Enter text here"
+              placeholderTextColor={colors.textTertiary + '80'}
+              multiline
+              textAlignVertical="top"
+              style={[s.textArea, { backgroundColor: colors.surfaceStrong, color: colors.textPrimary }]}
+              testID="input-back"
+            />
+            {backImageUrl && <Image source={{ uri: backImageUrl }} style={s.previewImage} />}
+
+            <View style={{ height: 32 }} />
 
             <Text style={[s.label, { color: colors.textTertiary }]}>DESTINATION</Text>
             <TouchableOpacity
-              style={[s.destinationBtn, { borderColor: destination ? colors.primary : colors.border, backgroundColor: colors.bg }]}
+              style={[s.destinationBtn, { borderColor: destination ? colors.primary : colors.border, backgroundColor: colors.surfaceStrong }]}
               onPress={() => setDestinationPicker(true)}
               testID="btn-select-destination"
             >
@@ -137,93 +182,53 @@ export default function NewCard() {
                   flex: 1,
                   color: destination ? colors.textPrimary : colors.textTertiary,
                   fontWeight: destination ? '800' : '600',
+                  fontSize: 14
                 }}
                 numberOfLines={1}
               >
-                {destinationLabel || 'Choose destination deck/folder'}
+                {destinationLabel || 'Choose deck...'}
               </Text>
               {destination ? <CheckCircle2 size={18} color={colors.primary} /> : null}
             </TouchableOpacity>
-
-            <View style={[s.divider, { backgroundColor: colors.border }]} />
-
-            <Text style={[s.label, { color: colors.textTertiary }]}>FRONT (QUESTION)</Text>
-            <TextInput
-              value={front}
-              onChangeText={setFront}
-              placeholder="The question or prompt..."
-              placeholderTextColor={colors.textTertiary + '80'}
-              multiline
-              textAlignVertical="top"
-              style={[s.textArea, { borderColor: colors.border, backgroundColor: colors.bg, color: colors.textPrimary }]}
-              testID="input-front"
-            />
-            {frontImageUrl ? (
-              <Image source={{ uri: frontImageUrl }} style={s.previewImage} />
-            ) : null}
-
-            <Text style={[s.label, { color: colors.textTertiary, marginTop: 16 }]}>BACK (ANSWER)</Text>
-            <TextInput
-              value={back}
-              onChangeText={setBack}
-              placeholder="The answer or explanation..."
-              placeholderTextColor={colors.textTertiary + '80'}
-              multiline
-              textAlignVertical="top"
-              style={[s.textArea, { borderColor: colors.border, backgroundColor: colors.bg, color: colors.textPrimary }]}
-              testID="input-back"
-            />
-            {backImageUrl ? (
-              <Image source={{ uri: backImageUrl }} style={s.previewImage} />
-            ) : null}
           </View>
         </ScrollView>
 
-        {/* Media + Save strip sits above keyboard with KeyboardAvoidingView */}
         <View style={[s.bottomBar, { borderTopColor: colors.border, backgroundColor: colors.surface }]}> 
           <View style={s.mediaRow}>
             <TouchableOpacity
               onPress={async () => {
-                if (!uid) return;
-                const url = await pickAndUploadFlashcardImage(uid);
-                if (url) setFrontImageUrl(url);
+                if (!uid || frontUploading) return;
+                setFrontUploading(true);
+                try {
+                  const url = await pickAndUploadFlashcardImage(uid);
+                  if (url) setFrontImageUrl(url);
+                } finally { setFrontUploading(false); }
               }}
               style={[s.mediaBtn, { borderColor: colors.border, backgroundColor: colors.bg }]}
               testID="btn-media-front"
+              disabled={frontUploading}
             >
-              <ImagePlus size={16} color={colors.primary} />
-              <Text style={[s.mediaBtnText, { color: colors.textPrimary }]}>Front image</Text>
+              {frontUploading ? <ActivityIndicator size="small" color={colors.primary} /> : <ImagePlus size={16} color={colors.primary} />}
+              <Text style={[s.mediaBtnText, { color: colors.textPrimary }]}>{frontUploading ? 'Uploading...' : 'Front image'}</Text>
             </TouchableOpacity>
 
             <TouchableOpacity
               onPress={async () => {
-                if (!uid) return;
-                const url = await pickAndUploadFlashcardImage(uid);
-                if (url) setBackImageUrl(url);
+                if (!uid || backUploading) return;
+                setBackUploading(true);
+                try {
+                  const url = await pickAndUploadFlashcardImage(uid);
+                  if (url) setBackImageUrl(url);
+                } finally { setBackUploading(false); }
               }}
               style={[s.mediaBtn, { borderColor: colors.border, backgroundColor: colors.bg }]}
               testID="btn-media-back"
+              disabled={backUploading}
             >
-              <ImagePlus size={16} color={colors.primary} />
-              <Text style={[s.mediaBtnText, { color: colors.textPrimary }]}>Back image</Text>
+              {backUploading ? <ActivityIndicator size="small" color={colors.primary} /> : <ImagePlus size={16} color={colors.primary} />}
+              <Text style={[s.mediaBtnText, { color: colors.textPrimary }]}>{backUploading ? 'Uploading...' : 'Back image'}</Text>
             </TouchableOpacity>
           </View>
-
-          <TouchableOpacity
-            onPress={save}
-            style={[s.saveBtn, { backgroundColor: colors.primary, opacity: saving ? 0.75 : 1 }]}
-            disabled={saving}
-            testID="btn-save-card"
-          >
-            {saving ? (
-              <ActivityIndicator color={colors.buttonText} />
-            ) : (
-              <>
-                <Save size={20} color={colors.buttonText} />
-                <Text style={[s.saveBtnText, { color: colors.buttonText }]}>Add Card</Text>
-              </>
-            )}
-          </TouchableOpacity>
         </View>
       </KeyboardAvoidingView>
 
@@ -257,44 +262,25 @@ const s = StyleSheet.create({
   },
   backBtn: { padding: 8 },
   title: { fontSize: 20, fontWeight: '900', letterSpacing: -0.5 },
-  scrollContent: { padding: spacing.lg, paddingBottom: 160 },
-  card: {
-    padding: spacing.xl,
-    borderRadius: 26,
-    borderWidth: 1,
-    shadowColor: '#000',
-    shadowOffset: { width: 0, height: 10 },
-    shadowOpacity: 0.1,
-    shadowRadius: 20,
-    elevation: 5,
-  },
-  infoBox: {
-    flexDirection: 'row',
-    gap: 10,
-    backgroundColor: 'rgba(0,0,0,0.03)',
-    padding: spacing.md,
-    borderRadius: radius.md,
-    marginBottom: spacing.lg,
-  },
-  infoText: { fontSize: 12, flex: 1, lineHeight: 18 },
-  label: { fontSize: 10, fontWeight: '900', letterSpacing: 1, marginBottom: 8 },
+  scrollContent: { padding: spacing.lg, paddingBottom: 40 },
+  inputContainer: { flex: 1 },
+  label: { fontSize: 13, fontWeight: '500', marginBottom: 10, color: '#666' },
   destinationBtn: {
     height: 52,
     borderWidth: 1,
-    borderRadius: 14,
+    borderRadius: 12,
     paddingHorizontal: 12,
     flexDirection: 'row',
     alignItems: 'center',
     gap: 10,
   },
   textArea: {
-    minHeight: 120,
-    borderRadius: 14,
-    borderWidth: 1,
-    paddingHorizontal: 14,
-    paddingVertical: 12,
-    fontSize: 15,
-    fontWeight: '600',
+    minHeight: 100,
+    borderRadius: 16,
+    paddingHorizontal: 16,
+    paddingVertical: 14,
+    fontSize: 16,
+    fontWeight: '500',
   },
   previewImage: {
     width: 120,
@@ -302,12 +288,18 @@ const s = StyleSheet.create({
     borderRadius: 10,
     marginTop: 10,
   },
-  divider: { height: 1, marginVertical: spacing.lg, opacity: 0.5 },
+  headerSaveBtn: {
+    width: 44,
+    height: 44,
+    borderRadius: 22,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
   bottomBar: {
     borderTopWidth: 1,
     paddingHorizontal: 16,
-    paddingTop: 12,
-    paddingBottom: 16,
+    paddingTop: 8,
+    paddingBottom: 24,
     gap: 12,
   },
   mediaRow: { flexDirection: 'row', gap: 10 },

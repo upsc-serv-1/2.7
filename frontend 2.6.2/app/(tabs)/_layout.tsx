@@ -53,7 +53,7 @@ export default function TabsLayout() {
     notes: { title: 'Notes', icon: FileText },
     revise: { title: 'Revise', icon: RotateCcw },
     tracker: { title: 'Tracker', icon: LayoutList },
-    noji: { title: 'Noji', icon: Database },
+    noji_hub: { title: 'Hub', icon: Database },
   };
 
   return (

@@ -20,6 +20,7 @@ export interface Branch {
   parent_id: string | null;
   is_archived: boolean;
   is_deleted: boolean;
+  is_folder: boolean;
   sort_order: number;
   created_at?: string;
   updated_at?: string;
@@ -63,12 +64,12 @@ export class BranchSvc {
     return (data ?? []) as Branch[];
   }
 
-  static async create(userId: string, name: string, parent_id: string | null = null): Promise<Branch> {
+  static async create(userId: string, name: string, parent_id: string | null = null, is_folder: boolean = false): Promise<Branch> {
     const trimmed = name.trim();
     if (!trimmed) throw new Error('Branch name required');
     const { data, error } = await supabase
       .from('flashcard_branches')
-      .insert({ user_id: userId, name: trimmed, parent_id })
+      .insert({ user_id: userId, name: trimmed, parent_id, is_folder })
       .select()
       .single();
     if (error) throw error;
@@ -151,6 +152,21 @@ export class BranchSvc {
       .eq('branch_id', branchId)
       .eq('card_id', cardId);
     if (error) throw error;
+  }
+
+  static async moveCardToBranch(userId: string, cardId: string, targetBranchId: string | null) {
+    // 1. Remove from any existing branches
+    const { error: delErr } = await supabase
+      .from('flashcard_branch_cards')
+      .delete()
+      .eq('card_id', cardId)
+      .eq('user_id', userId);
+    if (delErr) throw delErr;
+
+    // 2. If target is provided, add to it
+    if (targetBranchId) {
+      await this.addCardToBranch(userId, targetBranchId, cardId);
+    }
   }
 
   static async listCardIdsInBranch(branchId: string, opts: { recursive?: boolean; userId?: string } = {}): Promise<string[]> {

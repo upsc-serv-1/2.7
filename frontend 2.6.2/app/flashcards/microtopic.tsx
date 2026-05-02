@@ -17,6 +17,8 @@ import { SortSheet, SortKey } from '../../src/components/flashcards/SortSheet';
 import { FilterSheet, FilterValue, EMPTY_FILTER } from '../../src/components/flashcards/FilterSheet';
 import { FolderAlgorithmModal } from '../../src/components/flashcards/FolderAlgorithmModal';
 import { AddToFlashcardSheet } from '../../src/components/flashcards/AddToFlashcardSheet';
+import { PremiumMoveModal } from '../../src/components/flashcards/PremiumMoveModal';
+import { BranchSvc, BranchNode } from '../../src/services/BranchService';
 
 interface CardItem {
   id: string;
@@ -70,6 +72,7 @@ export default function MicrotopicScreen() {
   const [editBack, setEditBack] = useState('');
 
   const [moveVisible, setMoveVisible] = useState(false);
+  const [tree, setTree] = useState<BranchNode[]>([]);
   // Legacy free-text move fields (kept for backward compat — replaced by deck-tree picker via AddToFlashcardSheet).
   const [moveSubject, setMoveSubject] = useState('');
   const [moveSection, setMoveSection] = useState('');
@@ -79,6 +82,9 @@ export default function MicrotopicScreen() {
     if (!uid) return;
     setLoading(true);
     try {
+      const t = await BranchSvc.buildTree(uid);
+      setTree(t);
+      
       let cardIds: string[] = [];
       let baseCards: any[] = [];
 
@@ -414,17 +420,28 @@ export default function MicrotopicScreen() {
               </View>
             )
           }
-          ListFooterComponent={
-            <TouchableOpacity
-              style={[styles.addCardsBtn, { backgroundColor: colors.surface, borderColor: colors.border }]}
-              onPress={() => router.push('/flashcards/new')}
-              testID="btn-add-cards"
-            >
-              <Plus size={18} color={colors.textPrimary} />
-              <Text style={[styles.addCardsText, { color: colors.textPrimary }]}>Add cards</Text>
-            </TouchableOpacity>
-          }
+          ListFooterComponent={<View style={{ height: 100 }} />}
         />
+
+        {/* Floating "Add cards" pill */}
+        <TouchableOpacity
+          style={[styles.floatingAddBtn, { backgroundColor: '#1f1f1f' }]}
+          onPress={() => {
+            router.push({
+              pathname: '/flashcards/new',
+              params: {
+                branchId: branchId ? String(branchId) : undefined,
+                branchName: branchName ? String(branchName) : undefined,
+                subject: String(subject || ''),
+                section: String(section || ''),
+                microtopic: String(microtopic || '')
+              }
+            } as any);
+          }}
+          testID="floating-btn-add-cards"
+        >
+          <Text style={styles.floatingAddText}>Add cards</Text>
+        </TouchableOpacity>
 
         {/* Sheets */}
         <SortSheet visible={sortSheet} value={sortBy} onClose={() => setSortSheet(false)} onSelect={setSortBy} />
@@ -444,43 +461,75 @@ export default function MicrotopicScreen() {
 
         <Modal visible={editVisible} transparent animationType="slide" onRequestClose={() => setEditVisible(false)}>
           <View style={styles.modalOverlay}>
-            <View style={[styles.modalContent, { backgroundColor: colors.surface, height: '70%' }]}>
+            <View style={[styles.premiumEditSheet, { backgroundColor: colors.surface }]}>
               <View style={styles.modalHeader}>
+                <View style={{ width: 40 }} />
                 <Text style={[styles.modalTitle, { color: colors.textPrimary }]}>Edit Card</Text>
-                <TouchableOpacity onPress={() => setEditVisible(false)}><X size={22} color={colors.textPrimary} /></TouchableOpacity>
+                <TouchableOpacity onPress={() => setEditVisible(false)} style={[styles.closeCircle, { backgroundColor: colors.border + '40' }]}>
+                  <X size={20} color={colors.textPrimary} />
+                </TouchableOpacity>
               </View>
-              <Text style={{ color: colors.textSecondary, marginBottom: 6 }}>Front</Text>
-              <TextInput value={editFront} onChangeText={setEditFront} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
-              <Text style={{ color: colors.textSecondary, marginBottom: 6, marginTop: 14 }}>Back</Text>
-              <TextInput value={editBack} onChangeText={setEditBack} multiline style={[styles.noteInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.bg, height: 120 }]} />
-              <TouchableOpacity
-                style={[styles.studyBtn, { backgroundColor: colors.primary, marginTop: 16, alignSelf: 'stretch' }]}
-                onPress={async () => {
-                  if (!menuCard || !uid) return;
-                  if (!editFront.trim() || !editBack.trim()) return Alert.alert('Validation', 'Front and back are required');
-                  try { await FlashcardSvc.updateCardForUser(uid, menuCard.id, { front_text: editFront.trim(), back_text: editBack.trim() }); setEditVisible(false); await loadAll(); }
-                  catch (e: any) { Alert.alert('Save failed', e?.message || 'Please try again'); }
-                }}
-              >
-                <Text style={[styles.studyBtnText, { color: '#04223a' }]}>Save</Text>
-              </TouchableOpacity>
+              
+              <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 20 }}>
+                <Text style={[styles.inputLabel, { color: colors.textTertiary }]}>FRONT SIDE</Text>
+                <TextInput 
+                  value={editFront} 
+                  onChangeText={setEditFront} 
+                  multiline 
+                  style={[styles.premiumInput, { color: colors.textPrimary, borderColor: colors.border + '80', backgroundColor: colors.surfaceStrong }]} 
+                />
+                
+                <Text style={[styles.inputLabel, { color: colors.textTertiary, marginTop: 20 }]}>BACK SIDE</Text>
+                <TextInput 
+                  value={editBack} 
+                  onChangeText={setEditBack} 
+                  multiline 
+                  style={[styles.premiumInput, { color: colors.textPrimary, borderColor: colors.border + '80', backgroundColor: colors.surfaceStrong }]} 
+                />
+              </ScrollView>
+
+              <View style={{ paddingTop: 20 }}>
+                <TouchableOpacity
+                  style={[styles.premiumSaveBtn, { backgroundColor: colors.primary }]}
+                  onPress={async () => {
+                    if (!menuCard || !uid) return;
+                    if (!editFront.trim() || !editBack.trim()) return Alert.alert('Validation', 'Front and back are required');
+                    try { 
+                      await FlashcardSvc.updateCardForUser(uid, menuCard.id, { front_text: editFront.trim(), back_text: editBack.trim() }); 
+                      setEditVisible(false); 
+                      await loadAll(); 
+                    } catch (e: any) { 
+                      Alert.alert('Save failed', e?.message || 'Please try again'); 
+                    }
+                  }}
+                >
+                  <Text style={{ color: '#04223a', fontSize: 16, fontWeight: '900' }}>Save Changes</Text>
+                </TouchableOpacity>
+              </View>
             </View>
           </View>
         </Modal>
 
-        <AddToFlashcardSheet
+        <PremiumMoveModal
           visible={moveVisible}
           onClose={() => setMoveVisible(false)}
-          userId={uid || ''}
-          cardId={menuCard?.id || null}
-          hint={{
-            subject: String(subject || 'General'),
-            section_group: String(section || 'General'),
-            microtopic: String(microtopic || 'General'),
+          tree={tree}
+          node={menuCard ? { id: menuCard.id, name: menuCard.front_text } as any : null}
+          onConfirm={async (targetBranchId) => {
+            if (!menuCard || !uid) return;
+            try {
+              setLoading(true);
+              await BranchSvc.moveCardToBranch(uid, menuCard.id, targetBranchId);
+              setMoveVisible(false);
+              await loadAll();
+              Alert.alert('Success', 'Card moved successfully');
+            } catch (e: any) {
+              Alert.alert('Move failed', e?.message || 'Please try again');
+            } finally {
+              setLoading(false);
+            }
           }}
-          fromBranchId={branchId ? String(branchId) : undefined}
-          title={isBranchMode ? 'Move card to deck' : 'Move card'}
-          onPlaced={async () => { await loadAll(); }}
+          title="Select location"
         />
       </SafeAreaView>
     </PageWrapper>
@@ -536,9 +585,35 @@ const styles = StyleSheet.create({
   tag: { fontSize: 9, fontWeight: '900', borderWidth: 1, paddingHorizontal: 6, paddingVertical: 2, borderRadius: 4, marginLeft: 6 },
   addCardsBtn: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', gap: 8, paddingVertical: 14, borderWidth: 1, borderStyle: 'dashed', borderRadius: 999, marginTop: 14, marginBottom: 20 },
   addCardsText: { fontWeight: '800' },
+  floatingAddBtn: {
+    position: 'absolute',
+    bottom: 30,
+    alignSelf: 'center',
+    paddingHorizontal: 32,
+    paddingVertical: 14,
+    borderRadius: 30,
+    shadowColor: '#000',
+    shadowOffset: { width: 0, height: 4 },
+    shadowOpacity: 0.3,
+    shadowRadius: 6,
+    elevation: 10,
+    zIndex: 1000,
+  },
+  floatingAddText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: '800',
+  },
   modalOverlay: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'flex-end' },
   modalContent: { borderTopLeftRadius: 32, borderTopRightRadius: 32, padding: 24, paddingBottom: 40 },
   modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 16 },
   modalTitle: { fontSize: 20, fontWeight: '900' },
   noteInput: { borderRadius: 12, borderWidth: 1, paddingHorizontal: 12, paddingVertical: 10 },
+  
+  // Premium Edit Styles
+  premiumEditSheet: { borderTopLeftRadius: 32, borderTopRightRadius: 32, padding: 20, paddingBottom: 40, maxHeight: '90%' },
+  closeCircle: { width: 36, height: 36, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
+  inputLabel: { fontSize: 11, fontWeight: '800', letterSpacing: 1, marginBottom: 8 },
+  premiumInput: { minHeight: 120, borderRadius: 18, borderWidth: 1, padding: 16, textAlignVertical: 'top', fontSize: 16, fontWeight: '500' },
+  premiumSaveBtn: { height: 56, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
 });

@@ -1,9 +1,10 @@
 import React, { useRef } from 'react';
-import { View, Text, StyleSheet, TouchableOpacity, Animated, PanResponder } from 'react-native';
+import { View, Text, StyleSheet, TouchableOpacity } from 'react-native';
 import { ChevronRight, Minus, Plus } from 'lucide-react-native';
 import { useTheme } from '../../context/ThemeContext';
 import { BranchNode } from '../../services/BranchService';
 import { Settings as SettingsIcon, Edit2, FolderPlus, Trash2, FolderInput } from 'lucide-react-native';
+import { Swipeable, RectButton } from 'react-native-gesture-handler';
 
 export type DeckRowAction = 'add' | 'settings' | 'rename' | 'move' | 'delete';
 
@@ -15,49 +16,17 @@ interface Props {
   onAction: (action: DeckRowAction) => void;
 }
 
-const SWIPE_WIDTH = 275;
-const ACTION_WIDTH = SWIPE_WIDTH / 5;
-
 export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
   const { colors } = useTheme();
-  const translateX = useRef(new Animated.Value(0)).current;
-  const isOpenSwipe = useRef(false);
-
-  const panResponder = useRef(
-    PanResponder.create({
-      onMoveShouldSetPanResponder: (_, gesture) => {
-        return Math.abs(gesture.dx) > 12 && Math.abs(gesture.dx) > Math.abs(gesture.dy);
-      },
-      onPanResponderMove: (_, gesture) => {
-        if (gesture.dx < 0) {
-          translateX.setValue(Math.max(gesture.dx, -SWIPE_WIDTH));
-        } else if (isOpenSwipe.current) {
-          translateX.setValue(Math.min(0, -SWIPE_WIDTH + gesture.dx));
-        }
-      },
-      onPanResponderRelease: (_, gesture) => {
-        const open = gesture.dx < -SWIPE_WIDTH / 2 || (isOpenSwipe.current && gesture.dx < SWIPE_WIDTH / 2);
-        Animated.spring(translateX, {
-          toValue: open ? -SWIPE_WIDTH : 0,
-          useNativeDriver: true,
-          friction: 8,
-        }).start(() => { isOpenSwipe.current = open; });
-      },
-    })
-  ).current;
+  const swipeableRef = useRef<Swipeable>(null);
 
   const closeSwipe = () => {
-    Animated.spring(translateX, { toValue: 0, useNativeDriver: true, friction: 8 }).start();
-    isOpenSwipe.current = false;
+    swipeableRef.current?.close();
   };
 
-  const hasChildren = node.children.length > 0;
-  const indentWidth = 32;
-
-  return (
-    <View style={[styles.wrapper, { backgroundColor: colors.bg }]}>
-      {/* Revealed actions */}
-      <View style={[styles.actionsRow, { width: SWIPE_WIDTH, backgroundColor: colors.bg }]}>
+  const renderRightActions = () => {
+    return (
+      <View style={[styles.actionsRow, { backgroundColor: colors.bg }]}>
         <ActionBtn
           icon={<FolderPlus size={18} />} bg="#10b981"
           label="Add" onPress={() => { closeSwipe(); onAction('add'); }}
@@ -79,18 +48,26 @@ export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
           label="Delete" onPress={() => { closeSwipe(); onAction('delete'); }}
         />
       </View>
+    );
+  };
 
-      {/* Foreground row */}
-      <Animated.View
-        style={[styles.row, { backgroundColor: colors.bg, borderBottomColor: colors.border + '40', transform: [{ translateX }] }]}
-        {...panResponder.panHandlers}
-      >
+  const hasChildren = node.children.length > 0;
+  const indentWidth = 40;
+
+  return (
+    <Swipeable
+      ref={swipeableRef}
+      renderRightActions={renderRightActions}
+      friction={2}
+      rightThreshold={40}
+    >
+      <View style={[styles.row, { backgroundColor: colors.bg, borderBottomColor: colors.border + 'A0' }]}>
         <View style={styles.content}>
           {/* Hierarchy Lines */}
           {Array.from({ length: node.depth }).map((_, i) => (
             <View 
               key={i} 
-              style={[styles.verticalLine, { left: i * indentWidth + 16, backgroundColor: colors.border + '80' }]} 
+              style={[styles.verticalLine, { left: i * indentWidth + 20, backgroundColor: colors.border + '80' }]} 
             />
           ))}
 
@@ -123,75 +100,76 @@ export function DeckRow({ node, expanded, onToggle, onOpen, onAction }: Props) {
                 {node.name}
               </Text>
               <Text style={[styles.subtitle, { color: colors.textTertiary }]}>
-                Cards for today: {node.due_count + node.new_count}
+                Cards for today: {node.due_count}/{node.total_count}
               </Text>
             </View>
             <ChevronRight size={20} color={colors.border} />
           </TouchableOpacity>
         </View>
-      </Animated.View>
-    </View>
+      </View>
+    </Swipeable>
   );
 }
 
-function ActionBtn({ icon, bg, label, onPress }: any) {
+function ActionBtn({ icon, label, onPress }: any) {
+  const { colors } = useTheme();
   return (
-    <TouchableOpacity
+    <RectButton
       onPress={onPress}
-      style={[styles.action, { width: ACTION_WIDTH }]}
+      style={styles.action}
     >
-      <View style={styles.actionIconWrap}>
-        {React.cloneElement(icon, { color: bg, size: 22 })}
+      <View style={[styles.actionCircle, { backgroundColor: colors.surface, borderColor: colors.border }]}>
+        {React.cloneElement(icon, { color: colors.textPrimary, size: 20 })}
       </View>
-      <Text style={[styles.actionLabel, { color: bg }]}>{label}</Text>
-    </TouchableOpacity>
+      <Text style={[styles.actionLabel, { color: colors.textSecondary }]}>{label}</Text>
+    </RectButton>
   );
 }
 
 const styles = StyleSheet.create({
   wrapper: { position: 'relative', overflow: 'hidden' },
-  actionsRow: { position: 'absolute', top: 0, bottom: 0, right: 0, flexDirection: 'row' },
-  action: { alignItems: 'center', justifyContent: 'center', gap: 2 },
-  actionIconWrap: { width: 40, height: 40, alignItems: 'center', justifyContent: 'center' },
-  actionLabel: { fontSize: 9, fontWeight: '700' },
+  actionsRow: { flexDirection: 'row', alignItems: 'center' },
+  action: { alignItems: 'center', justifyContent: 'center', gap: 6, paddingHorizontal: 12, height: '100%' },
+  actionCircle: { width: 44, height: 44, borderRadius: 22, borderWidth: 1, alignItems: 'center', justifyContent: 'center' },
+  actionLabel: { fontSize: 8, fontWeight: '800', textTransform: 'uppercase' },
   row: { paddingHorizontal: 4, borderBottomWidth: 1 },
-  content: { flexDirection: 'row', alignItems: 'center', minHeight: 60 },
+  content: { flexDirection: 'row', alignItems: 'center', minHeight: 70 },
   verticalLine: {
     position: 'absolute',
     top: 0,
     bottom: 0,
-    width: 1.5,
+    width: 1,
   },
   iconArea: {
-    width: 32,
+    width: 40,
     alignItems: 'center',
     justifyContent: 'center',
     zIndex: 10,
   },
   circleIcon: {
-    width: 24,
-    height: 24,
-    borderRadius: 12,
+    width: 22,
+    height: 22,
+    borderRadius: 11,
     borderWidth: 1.5,
     alignItems: 'center',
     justifyContent: 'center',
   },
   circlePlaceholder: {
-    width: 24,
+    width: 22,
   },
   textContainer: {
     flex: 1,
     flexDirection: 'row',
     alignItems: 'center',
-    paddingVertical: 10,
+    paddingVertical: 12,
   },
   name: {
-    fontSize: 15,
-    fontWeight: '700',
-    marginBottom: 1,
+    fontSize: 17,
+    fontWeight: '600',
+    marginBottom: 2,
   },
   subtitle: {
-    fontSize: 11,
+    fontSize: 12,
     fontWeight: '500',
   },
 });

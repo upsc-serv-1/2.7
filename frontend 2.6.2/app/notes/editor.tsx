@@ -59,7 +59,8 @@ import {
   Type,
   Copy,
   Edit,
-  Scissors
+  Scissors,
+  Eraser
 } from 'lucide-react-native';
 import { supabase } from '@/src/lib/supabase';
 import { useAuth } from '@/src/context/AuthContext';
@@ -144,6 +145,7 @@ export default function NoteEditor() {
   const modalEditorRef = useRef<any>(null);
   const [highlightColor, setHighlightColor] = useState(HIGHLIGHT_COLORS[0]);
   const [showPicker, setShowPicker] = useState(false);
+  const lastHighlightTap = useRef(0);
 
   useEffect(() => {
     AsyncStorage.getItem('notes_editor_highlight_color').then(v => { if (v) setHighlightColor(v); });
@@ -215,6 +217,110 @@ export default function NoteEditor() {
     setItems(next);
     setInsertPointData({ index: -1, visible: false, text: '', isEditing: false });
     Haptics.notificationAsync(Haptics.NotificationFeedbackType.Success);
+  };
+
+  const handleAddPoint = () => {
+    const next = [...items];
+    const currentText = insertPointData.text;
+    let currentIdx = insertPointData.index;
+
+    if (insertPointData.isEditing) {
+      // Save current point
+      if (currentIdx >= 0 && currentIdx < next.length) {
+        next[currentIdx] = { ...next[currentIdx], text: currentText };
+      }
+    } else {
+      // Insert current text as a new point first
+      const newPoint = {
+        id: `new-${Date.now()}`,
+        type: 'highlight',
+        text: currentText,
+        color: HIGHLIGHT_COLORS[0]
+      };
+      next.splice(currentIdx, 0, newPoint);
+    }
+    
+    // Create another new empty point below
+    const emptyPoint = {
+      id: `empty-${Date.now()}`,
+      type: 'highlight',
+      text: '',
+      color: HIGHLIGHT_COLORS[0]
+    };
+    
+    const nextIdx = currentIdx + 1;
+    next.splice(nextIdx, 0, emptyPoint);
+    setItems(next);
+    
+    // Switch to the new empty point
+    setInsertPointData({
+      index: nextIdx,
+      visible: true,
+      text: '',
+      isEditing: true // Now it's an existing item in the array
+    });
+    
+    modalEditorRef.current?.setContentHTML('');
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+  };
+
+  const handleSplitPoint = () => {
+    const text = insertPointData.text || '';
+    const { start, end } = insertSelection;
+    
+    // Split text at cursor
+    const beforeText = text.substring(0, start);
+    const afterText = text.substring(end);
+    
+    const next = [...items];
+    if (insertPointData.isEditing) {
+      next[insertPointData.index] = { ...next[insertPointData.index], text: beforeText };
+    } else {
+      const newPoint = {
+        id: `new-${Date.now()}`,
+        type: 'highlight',
+        text: beforeText,
+        color: HIGHLIGHT_COLORS[0]
+      };
+      next.splice(insertPointData.index, 0, newPoint);
+    }
+    
+    const nextPoint = {
+      id: `split-${Date.now()}`,
+      type: 'highlight',
+      text: afterText,
+      color: HIGHLIGHT_COLORS[0]
+    };
+    
+    const nextIdx = insertPointData.index + 1;
+    next.splice(nextIdx, 0, nextPoint);
+    setItems(next);
+    
+    // Switch to the new point (the 'after' part)
+    setInsertPointData({
+      index: nextIdx,
+      visible: true,
+      text: afterText,
+      isEditing: true
+    });
+    
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Medium);
+  };
+
+  const applyFormattingModal = (type: string) => {
+    const { start, end } = insertSelection;
+    const text = insertPointData.text || '';
+    let newText = text;
+    let selected = text.substring(start, end);
+    
+    if (type === 'bold') newText = text.substring(0, start) + '<b>' + selected + '</b>' + text.substring(end);
+    else if (type === 'italic') newText = text.substring(0, start) + '<i>' + selected + '</i>' + text.substring(end);
+    else if (type === 'underline') newText = text.substring(0, start) + '<u>' + selected + '</u>' + text.substring(end);
+    else if (type === 'bullet') newText = text.substring(0, start) + '<ul><li>' + selected + '</li></ul>' + text.substring(end);
+    else if (type === 'number') newText = text.substring(0, start) + '<ol><li>' + selected + '</li></ol>' + text.substring(end);
+    
+    setInsertPointData({ ...insertPointData, text: newText });
+    Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
   };
 
   const [editorFontSize, setEditorFontSize] = useState(14);
@@ -762,58 +868,7 @@ export default function NoteEditor() {
           </View>
         )}
 
-        {!isZenMode && viewMode === 'edit' && (
-          <View style={{ backgroundColor: colors.surface, borderBottomWidth: 1, borderBottomColor: colors.border, zIndex: 10 }}>
-            <RichToolbar
-              editor={editorRef}
-              selectedIconTint={colors.primary}
-              iconTint={colors.textPrimary}
-              style={{ backgroundColor: 'transparent' }}
-              actions={[
-                actions.setBold,
-                actions.setItalic,
-                actions.setUnderline,
-                actions.insertBulletsList,
-                actions.insertOrderedList,
-                actions.heading1,
-                'highlight',
-              ]}
-              iconMap={{
-                [actions.heading1]: ({ tintColor }: any) => <View style={{ padding: 4 }}><Heading size={20} color={tintColor} /></View>,
-                highlight: ({ tintColor }: any) => (
-                  <TouchableOpacity 
-                    onLongPress={() => setShowPicker(v => !v)} 
-                    onPress={() => {
-                      editorRef.current?.commandDOM(
-                        `document.execCommand('backColor', false, '${highlightColor}')`
-                      );
-                    }}
-                  >
-                    <View style={{ padding: 6, borderRadius: 6, backgroundColor: highlightColor }}>
-                      <Highlighter size={16} color={tintColor} />
-                    </View>
-                  </TouchableOpacity>
-                ),
-              }}
-            />
-            {showPicker && (
-              <View style={{ flexDirection: 'row', gap: 8, padding: 8, borderTopWidth: 1, borderTopColor: colors.border, justifyContent: 'center' }}>
-                {HIGHLIGHT_COLORS.map(c => (
-                  <TouchableOpacity 
-                    key={c} 
-                    onPress={async () => {
-                      setHighlightColor(c);
-                      await AsyncStorage.setItem('notes_editor_highlight_color', c);
-                      setShowPicker(false);
-                      editorRef.current?.commandDOM(`document.execCommand('backColor', false, '${c}')`);
-                    }}
-                    style={{ width: 28, height: 28, borderRadius: 14, borderWidth: 2, backgroundColor: c, borderColor: c === highlightColor ? colors.primary : 'transparent' }} 
-                  />
-                ))}
-              </View>
-            )}
-          </View>
-        )}
+
 
         <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={{ flex: 1 }}>
           <View style={{ flex: 1 }}>
@@ -893,6 +948,63 @@ export default function NoteEditor() {
 
                         {renderHighlights(true)}
 
+                        {!isZenMode && viewMode === 'edit' && (
+                          <View style={{ backgroundColor: colors.surface, borderRadius: 16, marginBottom: 12, borderWidth: 1, borderColor: colors.border, overflow: 'hidden' }}>
+                            <RichToolbar
+                              editor={editorRef}
+                              selectedIconTint={colors.primary}
+                              iconTint={colors.textPrimary}
+                              style={{ backgroundColor: 'transparent' }}
+                              actions={[
+                                actions.setBold,
+                                actions.setItalic,
+                                actions.setUnderline,
+                                actions.insertBulletsList,
+                                actions.insertOrderedList,
+                                actions.heading1,
+                                'highlight',
+                              ]}
+                              iconMap={{
+                                [actions.heading1]: ({ tintColor }: any) => <View style={{ padding: 4 }}><Heading size={20} color={tintColor} /></View>,
+                                highlight: ({ tintColor }: any) => (
+                                  <TouchableOpacity 
+                                    onPress={() => {
+                                      setShowPicker(v => !v);
+                                      editorRef.current?.commandDOM(`document.execCommand('backColor', false, '${highlightColor}')`);
+                                      Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
+                                    }}
+                                  >
+                                    <View style={{ padding: 6, borderRadius: 6, backgroundColor: highlightColor === 'transparent' ? colors.surfaceStrong : highlightColor }}>
+                                      <Highlighter size={16} color={tintColor} />
+                                    </View>
+                                  </TouchableOpacity>
+                                ),
+                              }}
+                            />
+                            {showPicker && (
+                              <View style={{ flexDirection: 'row', gap: 12, padding: 12, borderTopWidth: 1, borderTopColor: colors.border, justifyContent: 'center', backgroundColor: colors.bg }}>
+                                {HIGHLIGHT_COLORS.map(c => (
+                                  <TouchableOpacity 
+                                    key={c} 
+                                    onPress={async () => {
+                                      setHighlightColor(c);
+                                      await AsyncStorage.setItem('notes_editor_highlight_color', c);
+                                      setShowPicker(false);
+                                      editorRef.current?.commandDOM(`document.execCommand('backColor', false, '${c}')`);
+                                    }} 
+                                    style={{ 
+                                      width: 32, height: 32, borderRadius: 16, alignItems: 'center', justifyContent: 'center',
+                                      borderWidth: 2, backgroundColor: c === 'transparent' ? colors.surfaceStrong : c, 
+                                      borderColor: c === highlightColor ? colors.primary : 'transparent' 
+                                    }} 
+                                  >
+                                    {c === 'transparent' && <Eraser size={14} color={colors.textSecondary} />}
+                                  </TouchableOpacity>
+                                ))}
+                              </View>
+                            )}
+                          </View>
+                        )}
                         <RichNoteEditor
                           ref={editorRef}
                           html={content}
@@ -989,25 +1101,48 @@ export default function NoteEditor() {
                 </View>
 
                 <View style={styles.exportSection}>
-                  <Text style={[styles.exportSubHeader, { color: colors.textTertiary }]}>3. SELECT SUBHEADINGS TO EXPORT</Text>
-                  <View style={styles.subheadingSelectArea}>
-                    {items.filter(i => i.type === 'microTopicHeading').map(item => (
+                  <View style={{ flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 }}>
+                    <Text style={[styles.exportSubHeader, { color: colors.textTertiary, marginBottom: 0 }]}>3. SELECT SUBHEADINGS TO EXPORT</Text>
+                    {items.filter(i => i.type === 'microTopicHeading').length > 0 && (
                       <TouchableOpacity 
-                        key={item.id} 
-                        style={styles.subSelectRow}
                         onPress={() => {
-                          const next = new Set(exportSubheadings);
-                          if (next.has(item.id)) next.delete(item.id);
-                          else next.add(item.id);
-                          setExportSubheadings(next);
+                          const allHeads = items.filter(i => i.type === 'microTopicHeading').map(i => i.id);
+                          if (exportSubheadings.size === allHeads.length) {
+                            setExportSubheadings(new Set());
+                          } else {
+                            setExportSubheadings(new Set(allHeads));
+                          }
                         }}
+                        style={{ paddingHorizontal: 12, paddingVertical: 4, borderRadius: 8, backgroundColor: colors.primary + '10' }}
                       >
-                        <View style={[styles.miniCheck, { backgroundColor: exportSubheadings.has(item.id) ? colors.primary : colors.surfaceStrong }]}>
-                          {exportSubheadings.has(item.id) && <Check size={12} color="#fff" />}
-                        </View>
-                        <Text style={[styles.subSelectText, { color: colors.textPrimary }]} numberOfLines={1}>{item.text || 'Untitled Heading'}</Text>
+                        <Text style={{ fontSize: 10, fontWeight: '800', color: colors.primary }}>
+                          {exportSubheadings.size === items.filter(i => i.type === 'microTopicHeading').length ? 'DESELECT ALL' : 'SELECT ALL'}
+                        </Text>
                       </TouchableOpacity>
-                    ))}
+                    )}
+                  </View>
+                  <View style={styles.subheadingSelectArea}>
+                    {items.filter(i => i.type === 'microTopicHeading').length === 0 ? (
+                      <Text style={{ fontSize: 13, color: colors.textTertiary, fontStyle: 'italic', marginLeft: 4 }}>No subheadings found in this note.</Text>
+                    ) : (
+                      items.filter(i => i.type === 'microTopicHeading').map(item => (
+                        <TouchableOpacity 
+                          key={item.id} 
+                          style={styles.subSelectRow}
+                          onPress={() => {
+                            const next = new Set(exportSubheadings);
+                            if (next.has(item.id)) next.delete(item.id);
+                            else next.add(item.id);
+                            setExportSubheadings(next);
+                          }}
+                        >
+                          <View style={[styles.miniCheck, { backgroundColor: exportSubheadings.has(item.id) ? colors.primary : colors.surfaceStrong }]}>
+                            {exportSubheadings.has(item.id) && <Check size={12} color="#fff" />}
+                          </View>
+                          <Text style={[styles.subSelectText, { color: colors.textPrimary }]} numberOfLines={1}>{item.text || 'Untitled Heading'}</Text>
+                        </TouchableOpacity>
+                      ))
+                    )}
                   </View>
                 </View>
 
@@ -1151,32 +1286,12 @@ export default function NoteEditor() {
                     <Text style={[styles.insertionTitle, { color: colors.textPrimary }]}>{insertPointData.isEditing ? 'Edit Point' : 'Draft New Point'}</Text>
                     <Text style={{ fontSize: 11, color: colors.textTertiary }}>{insertPointData.isEditing ? 'Editing block content' : `Inserting at position ${insertPointData.index + 1}`}</Text>
                   </View>
-                  <View style={{ flexDirection: 'row', gap: 10 }}>
+                  <View style={{ flexDirection: 'row', alignItems: 'center', gap: 12 }}>
                     <TouchableOpacity 
-                      onPress={() => {
-                        const txt = insertPointData.text;
-                        const { start, end } = insertSelection;
-                        const left = txt.substring(0, start);
-                        const right = txt.substring(end);
-                        setInsertPointData({ ...insertPointData, text: left + '\n' + right });
-                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-                      }}
-                      style={[styles.modalToolBtn, { backgroundColor: colors.surfaceStrong }]}
+                      onPress={commitInsertion}
+                      style={{ backgroundColor: colors.primary, paddingHorizontal: 16, paddingVertical: 8, borderRadius: 12 }}
                     >
-                      <Scissors size={18} color={colors.primary} />
-                    </TouchableOpacity>
-                    <TouchableOpacity 
-                      onPress={() => {
-                        const txt = insertPointData.text;
-                        const { start, end } = insertSelection;
-                        const left = txt.substring(0, start);
-                        const right = txt.substring(end);
-                        setInsertPointData({ ...insertPointData, text: left + '\nΓÇó ' + right });
-                        Haptics.impactAsync(Haptics.ImpactFeedbackStyle.Light);
-                      }}
-                      style={[styles.modalToolBtn, { backgroundColor: colors.surfaceStrong }]}
-                    >
-                      <Plus size={18} color={colors.primary} />
+                      <Text style={{ color: '#fff', fontWeight: '900', fontSize: 12 }}>{insertPointData.isEditing ? 'UPDATE' : 'INSERT'}</Text>
                     </TouchableOpacity>
                     <TouchableOpacity 
                       onPress={() => setInsertPointData({ ...insertPointData, visible: false })} 
@@ -1186,60 +1301,74 @@ export default function NoteEditor() {
                     </TouchableOpacity>
                   </View>
                 </View>
+                 <View style={{ borderBottomWidth: 1, borderBottomColor: colors.border + '30', backgroundColor: colors.surface }}>
+                  <ScrollView horizontal showsHorizontalScrollIndicator={false} contentContainerStyle={{ padding: 12, gap: 12 }}>
+                    <TouchableOpacity onPress={() => applyFormattingModal('bold')} style={styles.modalToolBtn}>
+                      <Bold size={18} color={colors.textPrimary} />
+                    </TouchableOpacity>
+                    <TouchableOpacity onPress={() => applyFormattingModal('italic')} style={styles.modalToolBtn}>
+                      <Italic size={18} color={colors.textPrimary} />
+                    </TouchableOpacity>
+                    <TouchableOpacity onPress={() => applyFormattingModal('bullet')} style={styles.modalToolBtn}>
+                      <List size={18} color={colors.textPrimary} />
+                    </TouchableOpacity>
+                    <TouchableOpacity onPress={() => applyFormattingModal('number')} style={styles.modalToolBtn}>
+                      <Type size={18} color={colors.textPrimary} />
+                    </TouchableOpacity>
+                    
+                    <TouchableOpacity 
+                      onPress={() => setShowPicker(v => !v)}
+                      style={[styles.modalToolBtn, { backgroundColor: highlightColor === 'transparent' ? 'transparent' : highlightColor + '40' }]}
+                    >
+                      <Highlighter size={18} color={colors.textPrimary} />
+                    </TouchableOpacity>
 
-                <View style={{ borderBottomWidth: 1, borderBottomColor: 'rgba(0,0,0,0.05)' }}>
-                  <RichToolbar
-                    editor={modalEditorRef}
-                    selectedIconTint={colors.primary}
-                    iconTint={colors.textPrimary}
-                    style={{ backgroundColor: 'transparent' }}
-                    actions={[
-                      actions.setBold,
-                      actions.setItalic,
-                      actions.setUnderline,
-                      actions.insertBulletsList,
-                      'highlight',
-                    ]}
-                    iconMap={{
-                      highlight: ({ tintColor }: any) => (
+                    <View style={{ width: 1, height: 24, backgroundColor: colors.border, marginHorizontal: 4 }} />
+
+                    <TouchableOpacity onPress={handleSplitPoint} style={styles.modalToolBtn}>
+                      <Scissors size={18} color={colors.primary} />
+                    </TouchableOpacity>
+                    <TouchableOpacity onPress={handleAddPoint} style={styles.modalToolBtn}>
+                      <Plus size={18} color={colors.primary} />
+                    </TouchableOpacity>
+                  </ScrollView>
+
+                  {showPicker && (
+                    <View style={{ flexDirection: 'row', gap: 12, padding: 12, borderTopWidth: 1, borderTopColor: colors.border, justifyContent: 'center', backgroundColor: colors.bg }}>
+                      {HIGHLIGHT_COLORS.map(c => (
                         <TouchableOpacity 
-                          onPress={() => {
-                            modalEditorRef.current?.commandDOM(
-                              `document.execCommand('backColor', false, '${highlightColor}')`
-                            );
-                          }}
+                          key={c} 
+                          onPress={async () => {
+                            setHighlightColor(c);
+                            await AsyncStorage.setItem('notes_editor_highlight_color', c);
+                            setShowPicker(false);
+                          }} 
+                          style={{ 
+                            width: 32, height: 32, borderRadius: 16, alignItems: 'center', justifyContent: 'center',
+                            borderWidth: 2, backgroundColor: c === 'transparent' ? colors.surfaceStrong : c, 
+                            borderColor: c === highlightColor ? colors.primary : 'transparent' 
+                          }} 
                         >
-                          <View style={{ padding: 6, borderRadius: 6, backgroundColor: highlightColor }}>
-                            <Highlighter size={14} color={tintColor} />
-                          </View>
+                          {c === 'transparent' && <Eraser size={14} color={colors.textSecondary} />}
                         </TouchableOpacity>
-                      ),
-                    }}
-                  />
+                      ))}
+                    </View>
+                  )}
                 </View>
 
                 <ScrollView style={{ flex: 1, padding: 20 }}>
-                  <View style={[styles.draftInputContainer, { backgroundColor: colors.bg, borderColor: colors.border, padding: 0 }]}>
-                    <RichNoteEditor
-                      ref={modalEditorRef}
-                      html={insertPointData.text}
-                      onChange={(h) => setInsertPointData({ ...insertPointData, text: h })}
-                      themeColors={{
-                        bg: colors.bg,
-                        surface: colors.surface,
-                        textPrimary: colors.textPrimary,
-                        border: colors.border,
-                        primary: colors.primary,
-                      }}
+                  <View style={[styles.draftInputContainer, { backgroundColor: colors.bg, borderColor: colors.border, padding: 16, minHeight: 300 }]}>
+                    <TextInput
+                      ref={insertInputRef}
+                      style={{ color: colors.textPrimary, fontSize: 16, lineHeight: 24, textAlignVertical: 'top' }}
+                      multiline
+                      value={insertPointData.text}
+                      onChangeText={(t) => setInsertPointData({ ...insertPointData, text: t })}
+                      onSelectionChange={(e) => setInsertSelection(e.nativeEvent.selection)}
+                      placeholder="Type your note here..."
+                      placeholderTextColor={colors.textTertiary}
                     />
                   </View>
-
-                  <TouchableOpacity 
-                    onPress={commitInsertion} 
-                    style={[styles.insertionCommitBtn, { backgroundColor: colors.primary }]}
-                  >
-                    <Text style={{ color: '#fff', fontWeight: '900', fontSize: 16 }}>{insertPointData.isEditing ? 'UPDATE POINT' : 'INSERT POINT'}</Text>
-                  </TouchableOpacity>
                   <View style={{ height: 40 }} />
                 </ScrollView>
               </View>
@@ -1385,6 +1514,7 @@ const styles = StyleSheet.create({
   highlightsHeaderRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 12 },
   highlightsHeader: { fontSize: 11, fontWeight: '900', letterSpacing: 1.5 },
   miniAddBtn: { flexDirection: 'row', alignItems: 'center', gap: 4, paddingVertical: 4, paddingHorizontal: 8, borderRadius: 8, backgroundColor: 'rgba(0,0,0,0.05)' },
+  modalToolBtn: { width: 44, height: 44, alignItems: 'center', justifyContent: 'center', borderRadius: 12 },
   highlightCard: { padding: 16, borderRadius: RADIUS.lg, borderLeftWidth: 4, marginBottom: 12, borderWidth: 1, borderColor: 'rgba(0,0,0,0.05)' },
   highlightText: { fontSize: 14, lineHeight: 20, fontWeight: '600' },
   highlightActions: { flexDirection: 'row', justifyContent: 'flex-end', gap: 12, marginTop: 8 },

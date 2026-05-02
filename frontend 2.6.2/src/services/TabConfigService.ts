@@ -1,8 +1,8 @@
 import AsyncStorage from '@react-native-async-storage/async-storage';
 
-export type TabKey = 'index' | 'arena' | 'analyse' | 'pyq' | 'flashcards' | 'tags' | 'notes' | 'revise' | 'tracker' | 'noji';
+export type TabKey = 'index' | 'arena' | 'analyse' | 'pyq' | 'flashcards' | 'tags' | 'notes' | 'revise' | 'tracker' | 'noji_hub';
 
-const DEFAULT_TAB_ORDER: TabKey[] = ['index', 'arena', 'analyse', 'pyq', 'flashcards', 'tags', 'notes', 'revise', 'tracker', 'noji'];
+const DEFAULT_TAB_ORDER: TabKey[] = ['index', 'arena', 'analyse', 'pyq', 'flashcards', 'tags', 'notes', 'revise', 'tracker', 'noji_hub'];
 
 export const TabConfigService = {
   async getTabOrder(): Promise<TabKey[]> {

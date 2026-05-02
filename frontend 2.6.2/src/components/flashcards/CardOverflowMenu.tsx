@@ -9,28 +9,28 @@ import {
   Copy,
   History,
   Trash2,
+  Type,
 } from 'lucide-react-native';
 import { useTheme } from '../../context/ThemeContext';
 
-export type CardMenuAction =
-  | 'select'
-  | 'edit'
-  | 'freeze'
-  | 'move'
-  | 'reverse'
-  | 'duplicate'
-  | 'history'
-  | 'delete';
+export type CardMenuAction = 'edit' | 'freeze' | 'reverse' | 'duplicate' | 'history' | 'delete' | 'select' | 'showSlider' | 'move';
 
 type Props = {
   visible: boolean;
   frozen: boolean;
   busy?: boolean;
-  onClose: () => void;
   onAction: (action: CardMenuAction) => void;
+  selectLabel?: string;
 };
 
-export function CardOverflowMenu({ visible, frozen, busy = false, onClose, onAction }: Props) {
+export function CardOverflowMenu({ 
+  visible, 
+  frozen, 
+  busy = false, 
+  onClose, 
+  onAction, 
+  selectLabel,
+}: Props) {
   const { colors } = useTheme();
 
   const Row = ({
@@ -83,7 +83,12 @@ export function CardOverflowMenu({ visible, frozen, busy = false, onClose, onAct
             paddingBottom: 28,
           }}
         >
-          <Row label="Select" icon={<CheckCircle2 size={22} color={colors.textPrimary} />} action="select" />
+          {!selectLabel && <Row label="Select" icon={<CheckCircle2 size={22} color={colors.textPrimary} />} action="select" />}
+          
+          {selectLabel && (
+            <Row label="Text size" icon={<Type size={22} color={colors.textPrimary} />} action="showSlider" />
+          )}
+
           <Row label="Edit" icon={<Pencil size={22} color={colors.textPrimary} />} action="edit" />
           <Row
             label={frozen ? 'Unfreeze' : 'Freeze'}

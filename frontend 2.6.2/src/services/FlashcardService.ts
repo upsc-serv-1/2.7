@@ -287,8 +287,15 @@ export class FlashcardSvc {
 
   // ============ CREATE ============
   static async createCard(userId: string, input: NewCardInput) {
-    if (!input.front_text?.trim()) throw new Error('Front text required');
-    if (!input.back_text?.trim()) throw new Error('Back text required');
+    const hasFront = input.front_text?.trim() || input.front_image_url;
+    const hasBack = input.back_text?.trim() || input.back_image_url;
+
+    if (!hasFront) throw new Error('Front text or image required');
+    if (!hasBack) throw new Error('Back text or image required');
+
+    // Ensure strings are provided even if empty to satisfy DB constraints
+    const frontText = input.front_text?.trim() || '';
+    const backText = input.back_text?.trim() || '';
 
     let card: { id: string } | null = null;
     if (input.question_id) {
@@ -304,16 +311,16 @@ export class FlashcardSvc {
           subject: input.subject || 'General',
           section_group: input.section_group || 'General',
           microtopic: input.microtopic || 'General',
-          front_text: input.front_text,
-          back_text: input.back_text,
+          front_text: frontText,
+          back_text: backText,
           front_image_url: input.front_image_url || null,
           back_image_url: input.back_image_url || null,
           card_type: input.card_type || 'manual',
           source: input.source || {},
           test_id: input.test_id || 'manual',
           // legacy fields kept for backward compat:
-          question_text: input.front_text,
-          answer_text: input.back_text,
+          question_text: frontText,
+          answer_text: backText,
         })
         .select('id').single();
       if (error) throw error;

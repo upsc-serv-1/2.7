@@ -1,4 +1,4 @@
-﻿/**
+/**
  * AddToFlashcardSheet ΓÇö universal "Add to Flashcard" sheet shown across the app
  * (quiz engine, analyse section, repo cards, attempt result, notes editor).
  *
@@ -13,7 +13,10 @@ import {
   Modal, View, Text, StyleSheet, TouchableOpacity, ActivityIndicator,
   ScrollView, Pressable, TextInput, Alert, KeyboardAvoidingView, Platform,
 } from 'react-native';
-import { ChevronDown, ChevronRight, Plus, Sparkles, FolderTree, X, Check } from 'lucide-react-native';
+import { 
+  ChevronDown, ChevronRight, Plus, Sparkles, FolderTree, X, Check,
+  CheckCircle2, Minus, Layers, Search 
+} from 'lucide-react-native';
 import { useTheme } from '../../context/ThemeContext';
 import { BranchSvc, BranchNode } from '../../services/BranchService';
 import { BranchPlacement, PlacementHint } from '../../services/BranchPlacement';
@@ -46,18 +49,10 @@ type Mode = 'choose' | 'auto-busy' | 'manual';
 
 export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
   const {
-    visible,
-    onClose,
-    userId,
-    cardId,
-    hint,
-    onPlaced,
-    fromBranchId,
-    title,
-    manualOnly = false,
-    selectionOnly = false,
-    onSelectDeck,
+    visible, onClose, userId, cardId, hint, onPlaced, fromBranchId, title,
+    manualOnly = false, selectionOnly = false, onSelectDeck,
   } = props;
+  
   const isMoveMode = !!fromBranchId;
   const canChooseAuto = !isMoveMode && !manualOnly && !selectionOnly;
   const { colors } = useTheme();
@@ -65,15 +60,14 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
   const [tree, setTree] = useState<BranchNode[]>([]);
   const [expanded, setExpanded] = useState<Set<string>>(new Set());
   const [loadingTree, setLoadingTree] = useState(false);
-  const [placingId, setPlacingId] = useState<string | null>(null);
   const [selectedDeckId, setSelectedDeckId] = useState<string | null>(null);
+  const [placingBusy, setPlacingBusy] = useState(false);
 
-  // Inline "create deck" state
+  // Inline creation
   const [createParentId, setCreateParentId] = useState<string | null | undefined>(undefined);
   const [newName, setNewName] = useState('');
   const [searchQuery, setSearchQuery] = useState('');
 
-  // Reset on each open. In MOVE mode/manualOnly, jump straight to manual picker.
   useEffect(() => {
     if (visible) {
       setMode(canChooseAuto ? 'choose' : 'manual');
@@ -81,24 +75,21 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
       setSearchQuery('');
       setCreateParentId(undefined);
       setSelectedDeckId(null);
-      setPlacingId(null);
+      setPlacingBusy(false);
       setTree([]);
       setExpanded(new Set());
     }
   }, [visible, canChooseAuto]);
 
-  // Lazy-load tree when entering manual mode
   useEffect(() => {
-    if (!visible) return;
-    if (mode === 'manual' && tree.length === 0 && userId) {
+    if (visible && mode === 'manual' && tree.length === 0 && userId) {
       (async () => {
         setLoadingTree(true);
         try {
           const t = await BranchSvc.buildTree(userId);
           setTree(t);
-          if (t.length === 1) setExpanded(new Set([t[0].id]));
         } catch (e: any) {
-          Alert.alert('Failed to load decks', e?.message || '');
+          Alert.alert('Error', e?.message);
         } finally {
           setLoadingTree(false);
         }
@@ -107,65 +98,60 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
   }, [mode, userId, tree.length, visible]);
 
   const autoPathLabel = useMemo(() => {
-    const subject = (hint.subject || 'General').trim() || 'General';
-    const section = (hint.section_group || 'General').trim() || 'General';
-    const micro = (hint.microtopic || 'General').trim() || 'General';
-    return `${subject} ΓåÆ ${section} ΓåÆ ${micro}`;
+    const subject = (hint.subject || 'General').trim();
+    const section = (hint.section_group || 'General').trim();
+    const micro = (hint.microtopic || 'General').trim();
+    return `${subject} \u2192 ${section} \u2192 ${micro}`;
   }, [hint]);
 
   const doAutoPlace = async () => {
     if (!cardId || !userId) return;
-    setMode('auto-busy');
+    setPlacingBusy(true);
     try {
       const leaf = await BranchPlacement.autoPlace(userId, cardId, hint);
       onPlaced?.(BranchPlacement.buildPathLabel({ name: leaf.name }));
       onClose();
-      Alert.alert('Added to Flashcards', `Saved to: ${autoPathLabel}`);
     } catch (e: any) {
-      Alert.alert('Failed', e?.message || 'Could not place flashcard');
-      setMode(canChooseAuto ? 'choose' : 'manual');
+      Alert.alert('Failed', e?.message);
+    } finally {
+      setPlacingBusy(false);
     }
   };
 
-  const doManualPlace = async (node: BranchNode) => {
+  const handleConfirm = async () => {
+    // If no deck selected, we can't move/place
+    if (selectedDeckId === null && mode === 'manual' && !selectionOnly) {
+       // Root is allowed? Usually yes.
+    }
+    
     if (selectionOnly) {
-      setSelectedDeckId(node.id);
-      onSelectDeck?.({ id: node.id, name: node.name, path: node.path || node.name });
+      const flat = BranchSvc.flatten(tree);
+      const node = flat.find(n => n.id === selectedDeckId);
+      onSelectDeck?.({ id: selectedDeckId!, name: node?.name || 'Home', path: node?.path || 'Home' });
       onClose();
       return;
     }
 
     if (!cardId) return;
-    if (isMoveMode && fromBranchId === node.id) {
-      Alert.alert('Already here', 'This card is already in this deck.');
-      return;
-    }
-    setSelectedDeckId(node.id);
-    setPlacingId(node.id);
+    setPlacingBusy(true);
     try {
       if (isMoveMode && fromBranchId) {
-        await BranchPlacement.moveCard(userId, cardId, fromBranchId, node.id);
+        await BranchPlacement.moveCard(userId, cardId, fromBranchId, selectedDeckId!);
       } else {
-        await BranchPlacement.placeAt(userId, cardId, node.id);
+        await BranchPlacement.placeAt(userId, cardId, selectedDeckId!);
       }
-      onPlaced?.(node.path || node.name);
+      onPlaced?.('Moved');
       onClose();
-      Alert.alert(isMoveMode ? 'Card moved' : 'Added to Flashcards', `${isMoveMode ? 'Moved to' : 'Saved to'}: ${node.path || node.name}`);
     } catch (e: any) {
-      Alert.alert('Failed', e?.message || '');
+      Alert.alert('Failed', e?.message);
     } finally {
-      setPlacingId(null);
+      setPlacingBusy(false);
     }
   };
 
   const reloadTree = async () => {
-    setLoadingTree(true);
-    try {
-      const t = await BranchSvc.buildTree(userId);
-      setTree(t);
-    } finally {
-      setLoadingTree(false);
-    }
+    const t = await BranchSvc.buildTree(userId);
+    setTree(t);
   };
 
   const doCreateDeck = async () => {
@@ -177,300 +163,230 @@ export function AddToFlashcardSheet(props: AddToFlashcardSheetProps) {
       setCreateParentId(undefined);
       await reloadTree();
     } catch (e: any) {
-      Alert.alert('Could not create', e?.message || '');
+      Alert.alert('Error', e?.message);
     }
   };
 
   const toggle = (id: string) => {
-    setExpanded((prev) => {
+    setExpanded(prev => {
       const next = new Set(prev);
       if (next.has(id)) next.delete(id); else next.add(id);
       return next;
     });
   };
 
-  const normalizedSearch = searchQuery.trim().toLowerCase();
-
-  const filterTreeBySearch = useCallback((nodes: BranchNode[]): BranchNode[] => {
-    if (!normalizedSearch) return nodes;
-
-    const visit = (node: BranchNode): BranchNode | null => {
-      const childHits = node.children
-        .map((child) => visit(child))
-        .filter(Boolean) as BranchNode[];
-
-      const haystack = `${node.name} ${node.path || ''}`.toLowerCase();
-      const selfHit = haystack.includes(normalizedSearch);
-
-      if (!selfHit && childHits.length === 0) return null;
-
-      return {
-        ...node,
-        children: childHits,
-      };
+  const filteredTree = useMemo(() => {
+    if (!searchQuery.trim()) return tree;
+    const query = searchQuery.toLowerCase();
+    const filter = (nodes: BranchNode[]): BranchNode[] => {
+      return nodes.map(n => {
+        const children = filter(n.children);
+        if (n.name.toLowerCase().includes(query) || children.length > 0) {
+          return { ...n, children };
+        }
+        return null;
+      }).filter(Boolean) as BranchNode[];
     };
-
-    return nodes.map((node) => visit(node)).filter(Boolean) as BranchNode[];
-  }, [normalizedSearch]);
-
-  const filteredTree = useMemo(() => filterTreeBySearch(tree), [tree, filterTreeBySearch]);
-
-  const shouldExpandNode = (nodeId: string) => {
-    if (!normalizedSearch) return expanded.has(nodeId);
-    return true;
-  };
+    return filter(tree);
+  }, [tree, searchQuery]);
 
   const renderNode = (node: BranchNode, depth = 0) => {
-    const hasChildren = node.children.length > 0;
-    const isOpen = shouldExpandNode(node.id);
     const isSelected = selectedDeckId === node.id;
-    const isBusy = placingId === node.id;
+    const hasKids = node.children.length > 0;
+    const isOpen = expanded.has(node.id) || !!searchQuery.trim();
+    const indent = depth * 32;
 
     return (
       <View key={node.id}>
-        <View
-          style={[
-            s.deckRow,
-            {
-              borderBottomColor: colors.border,
-              paddingLeft: 14 + depth * 18,
-              backgroundColor: isSelected ? colors.primary + '14' : 'transparent',
-              borderLeftColor: isSelected ? colors.primary : 'transparent',
-              borderLeftWidth: 2,
-            },
-          ]}
+        <TouchableOpacity
+          onPress={() => setSelectedDeckId(node.id)}
+          style={[s.moveRow, { borderBottomColor: colors.border + '40' }, isSelected && { backgroundColor: colors.primary + '10' }]}
         >
-          {hasChildren ? (
-            <TouchableOpacity onPress={() => toggle(node.id)} style={s.chev} testID={`chev-${node.id}`}>
-              {isOpen ? <ChevronDown size={16} color={colors.textSecondary} /> : <ChevronRight size={16} color={colors.textSecondary} />}
-            </TouchableOpacity>
-          ) : <View style={s.chev} />}
-
-          <TouchableOpacity
-            style={s.deckName}
-            onPress={() => doManualPlace(node)}
-            disabled={isBusy}
-            testID={`place-deck-${node.id}`}
-          >
-            <Text
-              style={[
-                s.deckText,
-                { color: isSelected ? colors.primary : colors.textPrimary },
-              ]}
-              numberOfLines={1}
-            >
-              {node.name}
-            </Text>
-
-            {isBusy ? (
-              <ActivityIndicator size="small" color={colors.primary} />
-            ) : isSelected ? (
-              <View style={[s.selectedPill, { backgroundColor: colors.primary + '22', borderColor: colors.primary }]}> 
-                <Check size={12} color={colors.primary} />
-                <Text style={[s.selectedPillText, { color: colors.primary }]}>Selected</Text>
-              </View>
-            ) : (
-              <View style={[s.unselectedDot, { borderColor: colors.border }]} />
-            )}
+          <View style={{ flexDirection: 'row', alignItems: 'center', flex: 1, paddingLeft: indent }}>
+            {hasKids ? (
+              <TouchableOpacity onPress={() => toggle(node.id)} style={s.moveToggle}>
+                {isOpen ? <Minus size={14} color={colors.textTertiary} strokeWidth={3} /> : <Plus size={14} color={colors.textTertiary} strokeWidth={3} />}
+              </TouchableOpacity>
+            ) : <View style={{ width: 32 }} />}
+            <Text style={[s.moveRowText, { color: colors.textPrimary }]}>{node.name}</Text>
+          </View>
+          {isSelected && <CheckCircle2 size={20} color={colors.primary} />}
+          
+          <TouchableOpacity onPress={() => { setCreateParentId(node.id); setNewName(''); }} style={{ padding: 8 }}>
+            <Plus size={16} color={colors.primary} />
           </TouchableOpacity>
-
-          <TouchableOpacity
-            onPress={() => {
-              setCreateParentId(node.id);
-              setNewName('');
-            }}
-            style={s.addInline}
-            testID={`add-child-${node.id}`}
-          >
-            <Plus size={14} color={colors.primary} />
-          </TouchableOpacity>
-        </View>
+        </TouchableOpacity>
 
         {createParentId === node.id && (
-          <View style={[s.createInline, { paddingLeft: 14 + (depth + 1) * 18, borderBottomColor: colors.border }]}> 
+          <View style={[s.createInline, { marginLeft: indent + 32, borderBottomColor: colors.border + '40' }]}>
             <TextInput
               autoFocus
               value={newName}
               onChangeText={setNewName}
-              placeholder="New sub-deck nameΓÇª"
+              placeholder="New sub-deck name..."
               placeholderTextColor={colors.textTertiary}
-              style={[s.createInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border }]}
+              style={[s.createInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border + '80' }]}
               onSubmitEditing={doCreateDeck}
-              testID="create-inline-input"
             />
-            <TouchableOpacity onPress={doCreateDeck} style={[s.createBtn, { backgroundColor: colors.primary }]}> 
+            <TouchableOpacity onPress={doCreateDeck} style={[s.createBtn, { backgroundColor: colors.primary }]}>
               <Text style={{ color: '#04223a', fontWeight: '900', fontSize: 12 }}>Create</Text>
             </TouchableOpacity>
           </View>
         )}
 
-        {isOpen && node.children.map((c) => renderNode(c, depth + 1))}
+        {isOpen && node.children.map(c => renderNode(c, depth + 1))}
       </View>
     );
   };
 
-  const canGoBack = canChooseAuto;
-  const computedTitle = title || (mode === 'manual'
-    ? (isMoveMode ? 'Move card to deck' : 'Choose destination deck')
-    : (selectionOnly ? 'Choose destination deck' : 'Add to Flashcards'));
+  const computedTitle = title || "Select location";
 
   return (
     <Modal visible={visible} transparent animationType="slide" onRequestClose={onClose}>
-      <Pressable style={s.backdrop} onPress={onClose}>
-        <KeyboardAvoidingView
-          style={s.kav}
-          behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-          keyboardVerticalOffset={Platform.OS === 'ios' ? 28 : 0}
-        >
-          <Pressable style={[s.sheet, { backgroundColor: colors.bg, borderColor: colors.border }]} onPress={(e) => e.stopPropagation()}>
+      <View style={s.modalOverlay}>
+        <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'} style={{ width: '100%' }}>
+          <View style={[s.moveSheet, { backgroundColor: colors.surface, maxHeight: '90%' }]}>
             {/* Header */}
-            <View style={[s.head, { borderBottomColor: colors.border }]}> 
-              <Text style={[s.title, { color: colors.textPrimary }]}>{computedTitle}</Text>
-              <TouchableOpacity onPress={onClose} testID="aff-close"><X size={22} color={colors.textPrimary} /></TouchableOpacity>
+            <View style={s.moveHeader}>
+              <View style={{ width: 40 }} />
+              <Text style={[s.moveTitle, { color: colors.textPrimary }]}>{computedTitle}</Text>
+              <TouchableOpacity onPress={onClose} style={[s.closeCircle, { backgroundColor: colors.border + '40' }]}>
+                <X size={20} color={colors.textPrimary} />
+              </TouchableOpacity>
             </View>
 
-            {/* CHOICE MODE */}
+            {/* Mode Switcher / Auto */}
             {mode === 'choose' && canChooseAuto && (
-              <ScrollView contentContainerStyle={{ padding: 16, gap: 12 }} keyboardShouldPersistTaps="handled">
+              <View style={{ paddingBottom: 20 }}>
                 <TouchableOpacity
-                  style={[s.choice, { backgroundColor: colors.surface, borderColor: colors.border }]}
+                  style={[s.premiumChoice, { backgroundColor: colors.surfaceStrong, borderColor: colors.border + '40' }]}
                   onPress={doAutoPlace}
-                  testID="aff-auto"
                 >
-                  <View style={[s.choiceIcon, { backgroundColor: colors.primary + '20' }]}> 
+                  <View style={[s.choiceIcon, { backgroundColor: colors.primary + '20' }]}>
                     <Sparkles size={22} color={colors.primary} />
                   </View>
                   <View style={{ flex: 1 }}>
-                    <Text style={[s.choiceTitle, { color: colors.textPrimary }]}>Auto-place by hierarchy</Text>
-                    <Text style={[s.choiceSub, { color: colors.textTertiary }]} numberOfLines={2}>{autoPathLabel}</Text>
+                    <Text style={[s.choiceTitle, { color: colors.textPrimary }]}>Auto-place</Text>
+                    <Text style={[s.choiceSub, { color: colors.textTertiary }]} numberOfLines={1}>{autoPathLabel}</Text>
                   </View>
                 </TouchableOpacity>
 
                 <TouchableOpacity
-                  style={[s.choice, { backgroundColor: colors.surface, borderColor: colors.border }]}
+                  style={[s.premiumChoice, { backgroundColor: colors.surfaceStrong, borderColor: colors.border + '40', marginTop: 12 }]}
                   onPress={() => setMode('manual')}
-                  testID="aff-manual"
                 >
-                  <View style={[s.choiceIcon, { backgroundColor: '#10b98120' }]}> 
+                  <View style={[s.choiceIcon, { backgroundColor: '#10b98120' }]}>
                     <FolderTree size={22} color="#10b981" />
                   </View>
                   <View style={{ flex: 1 }}>
-                    <Text style={[s.choiceTitle, { color: colors.textPrimary }]}>Choose location manually</Text>
-                    <Text style={[s.choiceSub, { color: colors.textTertiary }]}>Browse your decks and pick a destination.</Text>
+                    <Text style={[s.choiceTitle, { color: colors.textPrimary }]}>Manual selection</Text>
+                    <Text style={[s.choiceSub, { color: colors.textTertiary }]}>Pick a specific deck</Text>
                   </View>
                 </TouchableOpacity>
-              </ScrollView>
-            )}
-
-            {/* AUTO BUSY MODE */}
-            {mode === 'auto-busy' && (
-              <View style={{ padding: 40, alignItems: 'center' }}>
-                <ActivityIndicator color={colors.primary} />
-                <Text style={{ color: colors.textSecondary, marginTop: 12 }}>Placing into {autoPathLabel}ΓÇª</Text>
               </View>
             )}
 
-            {/* MANUAL MODE */}
+            {/* Manual List */}
             {mode === 'manual' && (
               <View style={{ flex: 1 }}>
-                <View style={[s.searchWrap, { borderBottomColor: colors.border }]}> 
+                <View style={s.searchBar}>
+                  <Search size={18} color={colors.textTertiary} style={{ marginRight: 8 }} />
                   <TextInput
                     value={searchQuery}
                     onChangeText={setSearchQuery}
                     placeholder="Search decks..."
                     placeholderTextColor={colors.textTertiary}
-                    style={[s.searchInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border }]}
-                    returnKeyType="search"
-                    testID="aff-search-decks"
+                    style={{ flex: 1, color: colors.textPrimary, fontSize: 16, fontWeight: '500' }}
                   />
                 </View>
 
-                {/* Top: create-at-root */}
-                <View style={[s.rootCreateRow, { borderBottomColor: colors.border }]}> 
+                <ScrollView showsVerticalScrollIndicator={false} contentContainerStyle={{ paddingBottom: 20 }}>
+                  {/* Home Option */}
                   <TouchableOpacity
-                    style={[s.rootCreateBtn, { borderColor: colors.border }]}
-                    onPress={() => {
-                      setCreateParentId(null);
-                      setNewName('');
-                    }}
-                    testID="aff-create-root"
+                    onPress={() => setSelectedDeckId(null)}
+                    style={[s.moveRow, { borderBottomColor: colors.border + '40' }, selectedDeckId === null && { backgroundColor: colors.primary + '10' }]}
                   >
-                    <Plus size={14} color={colors.primary} />
-                    <Text style={{ color: colors.primary, fontWeight: '800', fontSize: 12 }}>New root deck</Text>
+                    <View style={{ flexDirection: 'row', alignItems: 'center', flex: 1 }}>
+                      <View style={[s.homeIcon, { backgroundColor: colors.primary + '20' }]}>
+                        <Layers size={20} color={colors.primary} />
+                      </View>
+                      <Text style={[s.moveRowText, { color: colors.textPrimary, marginLeft: 12 }]}>Home</Text>
+                    </View>
+                    {selectedDeckId === null && <CheckCircle2 size={20} color={colors.primary} />}
                   </TouchableOpacity>
 
-                  {canGoBack ? (
-                    <TouchableOpacity onPress={() => setMode('choose')} testID="aff-back">
-                      <Text style={{ color: colors.textSecondary, fontWeight: '800' }}>ΓÇ╣ Back</Text>
-                    </TouchableOpacity>
-                  ) : <View style={{ width: 40 }} />}
+                  {/* Create Root Button */}
+                  <TouchableOpacity
+                    style={[s.createRootBtn, { borderColor: colors.primary + '40' }]}
+                    onPress={() => { setCreateParentId(null); setNewName(''); }}
+                  >
+                    <Plus size={16} color={colors.primary} />
+                    <Text style={{ color: colors.primary, fontWeight: '800', marginLeft: 8 }}>New root deck</Text>
+                  </TouchableOpacity>
+
+                  {createParentId === null && (
+                    <View style={[s.createInline, { borderBottomColor: colors.border + '40' }]}>
+                      <TextInput
+                        autoFocus
+                        value={newName}
+                        onChangeText={setNewName}
+                        placeholder="New deck name..."
+                        placeholderTextColor={colors.textTertiary}
+                        style={[s.createInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border + '80' }]}
+                        onSubmitEditing={doCreateDeck}
+                      />
+                      <TouchableOpacity onPress={doCreateDeck} style={[s.createBtn, { backgroundColor: colors.primary }]}>
+                        <Text style={{ color: '#04223a', fontWeight: '900', fontSize: 12 }}>Create</Text>
+                      </TouchableOpacity>
+                    </View>
+                  )}
+
+                  {loadingTree ? (
+                    <ActivityIndicator style={{ marginTop: 20 }} color={colors.primary} />
+                  ) : (
+                    filteredTree.map(n => renderNode(n))
+                  )}
+                </ScrollView>
+
+                {/* Footer Action */}
+                <View style={s.moveFooter}>
+                  <TouchableOpacity
+                    onPress={handleConfirm}
+                    disabled={placingBusy}
+                    style={[s.moveConfirmBtn, { backgroundColor: colors.primary }]}
+                  >
+                    {placingBusy ? <ActivityIndicator color="#04223a" /> : <Text style={s.moveConfirmText}>Move</Text>}
+                  </TouchableOpacity>
                 </View>
-
-                {createParentId === null && (
-                  <View style={[s.createInline, { paddingLeft: 14, borderBottomColor: colors.border }]}> 
-                    <TextInput
-                      autoFocus
-                      value={newName}
-                      onChangeText={setNewName}
-                      placeholder="New deck nameΓÇª"
-                      placeholderTextColor={colors.textTertiary}
-                      style={[s.createInput, { color: colors.textPrimary, backgroundColor: colors.surface, borderColor: colors.border }]}
-                      onSubmitEditing={doCreateDeck}
-                      testID="aff-new-root-input"
-                    />
-                    <TouchableOpacity onPress={doCreateDeck} style={[s.createBtn, { backgroundColor: colors.primary }]}> 
-                      <Text style={{ color: '#04223a', fontWeight: '900', fontSize: 12 }}>Create</Text>
-                    </TouchableOpacity>
-                  </View>
-                )}
-
-                {loadingTree ? (
-                  <View style={{ padding: 40, alignItems: 'center' }}>
-                    <ActivityIndicator color={colors.primary} />
-                  </View>
-                ) : filteredTree.length === 0 ? (
-                  <View style={{ padding: 40, alignItems: 'center' }}>
-                    <Text style={{ color: colors.textTertiary, textAlign: 'center' }}>
-                      {normalizedSearch ? 'No decks match your search.' : 'No decks yet. Tap "New root deck" above to create one.'}
-                    </Text>
-                  </View>
-                ) : (
-                  <ScrollView contentContainerStyle={{ paddingBottom: 120 }} keyboardShouldPersistTaps="handled" keyboardDismissMode="interactive">
-                    {filteredTree.map((n) => renderNode(n))}
-                  </ScrollView>
-                )}
               </View>
             )}
-          </Pressable>
+          </View>
         </KeyboardAvoidingView>
-      </Pressable>
+      </View>
     </Modal>
   );
 }
 
 const s = StyleSheet.create({
-  backdrop: { flex: 1, backgroundColor: 'rgba(0,0,0,0.55)', justifyContent: 'flex-end' },
-  kav: { width: '100%', justifyContent: 'flex-end' },
-  sheet: { borderTopLeftRadius: 24, borderTopRightRadius: 24, maxHeight: '85%', borderTopWidth: 1, minHeight: '40%' },
-  head: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 18, borderBottomWidth: 1 },
-  title: { fontSize: 18, fontWeight: '900' },
-  choice: { flexDirection: 'row', alignItems: 'center', gap: 14, padding: 16, borderRadius: 16, borderWidth: 1 },
+  modalOverlay: { flex: 1, backgroundColor: 'rgba(0,0,0,0.5)', justifyContent: 'flex-end' },
+  moveSheet: { borderTopLeftRadius: 32, borderTopRightRadius: 32, padding: 20, paddingBottom: 40 },
+  moveHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 },
+  moveTitle: { fontSize: 18, fontWeight: '900' },
+  closeCircle: { width: 36, height: 36, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
+  premiumChoice: { flexDirection: 'row', alignItems: 'center', gap: 14, padding: 16, borderRadius: 18, borderWidth: 1 },
   choiceIcon: { width: 44, height: 44, borderRadius: 22, alignItems: 'center', justifyContent: 'center' },
-  choiceTitle: { fontSize: 15, fontWeight: '900' },
+  choiceTitle: { fontSize: 16, fontWeight: '900' },
   choiceSub: { fontSize: 12, marginTop: 4 },
-  searchWrap: { paddingHorizontal: 12, paddingTop: 12, paddingBottom: 10, borderBottomWidth: 1 },
-  searchInput: { height: 38, borderRadius: 10, borderWidth: 1, paddingHorizontal: 12, fontSize: 13, fontWeight: '600' },
-  rootCreateRow: { flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', padding: 12, borderBottomWidth: 1 },
-  rootCreateBtn: { flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 12, paddingVertical: 8, borderRadius: 999, borderWidth: 1 },
-  deckRow: { flexDirection: 'row', alignItems: 'center', borderBottomWidth: StyleSheet.hairlineWidth, paddingRight: 8 },
-  chev: { width: 28, alignItems: 'center', justifyContent: 'center', height: 44 },
-  deckName: { flex: 1, height: 44, flexDirection: 'row', alignItems: 'center', justifyContent: 'space-between', paddingRight: 8, gap: 10 },
-  deckText: { fontSize: 14, fontWeight: '700', flex: 1 },
-  selectedPill: { flexDirection: 'row', alignItems: 'center', gap: 4, paddingHorizontal: 8, height: 24, borderRadius: 999, borderWidth: 1 },
-  selectedPillText: { fontSize: 10, fontWeight: '800' },
-  unselectedDot: { width: 16, height: 16, borderRadius: 8, borderWidth: 1.5 },
-  addInline: { padding: 8 },
-  createInline: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingRight: 12, paddingVertical: 8, borderBottomWidth: StyleSheet.hairlineWidth },
-  createInput: { flex: 1, height: 36, borderRadius: 8, borderWidth: 1, paddingHorizontal: 10, fontSize: 13 },
-  createBtn: { height: 36, paddingHorizontal: 14, borderRadius: 8, alignItems: 'center', justifyContent: 'center' },
+  searchBar: { flexDirection: 'row', alignItems: 'center', backgroundColor: '#f5f5f7', paddingHorizontal: 16, height: 50, borderRadius: 14, marginBottom: 16 },
+  moveRow: { flexDirection: 'row', alignItems: 'center', paddingVertical: 14, borderBottomWidth: 1, paddingHorizontal: 8, borderRadius: 12 },
+  moveRowText: { fontSize: 16, fontWeight: '600', flex: 1 },
+  moveToggle: { width: 32, height: 32, alignItems: 'center', justifyContent: 'center', marginRight: 8 },
+  homeIcon: { width: 40, height: 40, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
+  createRootBtn: { flexDirection: 'row', alignItems: 'center', padding: 12, borderRadius: 12, borderWidth: 1, borderStyle: 'dashed', marginVertical: 12 },
+  createInline: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingVertical: 10, borderBottomWidth: 1 },
+  createInput: { flex: 1, height: 40, borderRadius: 10, borderWidth: 1, paddingHorizontal: 12, fontSize: 14 },
+  createBtn: { height: 40, paddingHorizontal: 16, borderRadius: 10, alignItems: 'center', justifyContent: 'center' },
+  moveFooter: { paddingTop: 20 },
+  moveConfirmBtn: { height: 56, borderRadius: 18, alignItems: 'center', justifyContent: 'center' },
+  moveConfirmText: { color: '#04223a', fontSize: 16, fontWeight: '900' },
 });

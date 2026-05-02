@@ -17,6 +17,7 @@ import { PageWrapper } from '../src/components/PageWrapper';
 import { BranchSvc, BranchNode, Branch } from '../src/services/BranchService';
 import { DeckRow, DeckRowAction } from '../src/components/flashcards/DeckRow';
 import { FolderAlgorithmModal } from '../src/components/flashcards/FolderAlgorithmModal';
+import { PremiumMoveModal } from '../src/components/flashcards/PremiumMoveModal';
 
 type DeckSort = 'name' | 'created' | 'due';
 
@@ -299,8 +300,7 @@ export default function FlashcardsHub() {
           confirmLabel="Save"
           testID="modal-rename"
         />
-        {/* MOVE MODAL */}
-        <MoveModal
+        <PremiumMoveModal
           visible={!!moveModal}
           node={moveModal?.node}
           tree={tree}
@@ -384,139 +384,6 @@ function NameModal({ visible, title, value, onChange, onClose, onConfirm, confir
   );
 }
 
-function MoveModal({ visible, node, tree, onClose, onConfirm }: any) {
-  const { colors } = useTheme();
-  const [search, setSearch] = useState('');
-  const [expanded, setExpanded] = useState<Set<string>>(new Set());
-  const [selectedId, setSelectedId] = useState<string | null>(null);
-
-  if (!node) return null;
-
-  // Flatten tree for the list, excluding self + descendants
-  const flat = useMemo(() => {
-    const descIds = new Set(BranchSvc.collectDescendantIds(BranchSvc.flatten(tree), node.id));
-    let filtered = BranchSvc.flatten(tree, expanded);
-    
-    // Always exclude self and its children
-    filtered = filtered.filter(n => n.id !== node.id && !descIds.has(n.id));
-
-    if (search.trim()) {
-      const q = search.trim().toLowerCase();
-      // When searching, we show all matches regardless of expansion
-      return BranchSvc.flatten(tree).filter(n => 
-        n.id !== node.id && 
-        !descIds.has(n.id) && 
-        n.name.toLowerCase().includes(q)
-      );
-    }
-    return filtered;
-  }, [tree, expanded, search, node.id]);
-
-  const toggle = (id: string) => {
-    setExpanded(prev => {
-      const next = new Set(prev);
-      if (next.has(id)) next.delete(id); else next.add(id);
-      return next;
-    });
-  };
-
-  return (
-    <Modal visible={visible} transparent animationType="slide" onRequestClose={onClose}>
-      <View style={styles.modalOverlay}>
-        <Pressable style={{ flex: 1 }} onPress={onClose} />
-        <View style={[styles.modalSheet, { backgroundColor: colors.surface, maxHeight: '85%' }]}>
-          <View style={styles.modalHeader}>
-            <View style={{ width: 40 }} />
-            <Text style={[styles.modalTitle, { color: colors.textPrimary, marginBottom: 0 }]}>Select location</Text>
-            <TouchableOpacity onPress={onClose} style={[styles.closeCircle, { backgroundColor: colors.border + '40' }]}>
-              <X size={20} color={colors.textPrimary} />
-            </TouchableOpacity>
-          </View>
-
-          <View style={[styles.modalSearch, { backgroundColor: colors.bg, borderColor: colors.border }]}>
-            <SearchIcon size={16} color={colors.textTertiary} />
-            <TextInput
-              value={search}
-              onChangeText={setSearch}
-              placeholder="Search folders..."
-              placeholderTextColor={colors.textTertiary}
-              style={[styles.modalSearchInput, { color: colors.textPrimary }]}
-            />
-          </View>
-
-          <ScrollView style={{ marginTop: 10 }}>
-            {/* Root Option */}
-            <TouchableOpacity
-              onPress={() => setSelectedId(null)}
-              style={[
-                styles.moveRow,
-                { borderBottomColor: colors.border + '40' },
-                selectedId === null && { backgroundColor: colors.primary + '15' }
-              ]}
-            >
-              <View style={styles.moveRowIcon}>
-                <Layers size={18} color={selectedId === null ? colors.primary : colors.textTertiary} />
-              </View>
-              <Text style={[styles.moveRowName, { color: selectedId === null ? colors.primary : colors.textPrimary, fontWeight: '700' }]}>
-                — Root Level —
-              </Text>
-              {selectedId === null && <CheckCircle2 size={20} color={colors.primary} />}
-            </TouchableOpacity>
-
-            {flat.map((n: any) => {
-              const isSelected = selectedId === n.id;
-              const hasKids = n.children.length > 0;
-              const indent = n.depth * 32;
-
-              return (
-                <TouchableOpacity
-                  key={n.id}
-                  onPress={() => setSelectedId(n.id)}
-                  style={[
-                    styles.moveRow,
-                    { borderBottomColor: colors.border + '40' },
-                    isSelected && { backgroundColor: colors.primary + '15' }
-                  ]}
-                >
-                  <View style={{ flexDirection: 'row', alignItems: 'center', flex: 1, paddingLeft: indent }}>
-                    {hasKids ? (
-                      <TouchableOpacity onPress={(e) => { e.stopPropagation(); toggle(n.id); }} style={styles.moveToggle}>
-                        {expanded.has(n.id) ? (
-                          <Minus size={14} color={colors.textTertiary} strokeWidth={3} />
-                        ) : (
-                          <Plus size={14} color={colors.textTertiary} strokeWidth={3} />
-                        )}
-                      </TouchableOpacity>
-                    ) : (
-                      <View style={{ width: 32 }} />
-                    )}
-                    <View style={styles.moveRowIcon}>
-                      <Folder size={18} color={isSelected ? colors.primary : colors.textTertiary} />
-                    </View>
-                    <Text style={[styles.moveRowName, { color: isSelected ? colors.primary : colors.textPrimary }]}>
-                      {n.name}
-                    </Text>
-                  </View>
-                  {isSelected && <CheckCircle2 size={20} color={colors.primary} />}
-                </TouchableOpacity>
-              );
-            })}
-          </ScrollView>
-
-          <View style={styles.modalFooter}>
-            <TouchableOpacity
-              onPress={() => onConfirm(selectedId)}
-              style={[styles.moveBigBtn, { backgroundColor: colors.primary }]}
-            >
-              <Text style={styles.moveBigBtnText}>Move Here</Text>
-            </TouchableOpacity>
-          </View>
-        </View>
-      </View>
-    </Modal>
-  );
-}
-
 const styles = StyleSheet.create({
   container: { flex: 1 },
   header: { borderBottomWidth: 1, paddingHorizontal: 14, paddingTop: 6, paddingBottom: 8 },
@@ -540,16 +407,4 @@ const styles = StyleSheet.create({
   modalInput: { borderWidth: 1, borderRadius: 12, paddingHorizontal: 14, paddingVertical: 12, fontSize: 15, fontWeight: '600' },
   modalBtnSec: { flex: 1, borderWidth: 1, borderRadius: 12, paddingVertical: 12, alignItems: 'center' },
   modalBtnPri: { flex: 1, borderRadius: 12, paddingVertical: 12, alignItems: 'center' },
-  moveItem: { padding: 12, borderBottomWidth: 1, borderRadius: 8 },
-  closeCircle: { width: 32, height: 32, borderRadius: 16, alignItems: 'center', justifyContent: 'center' },
-  modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 },
-  modalSearch: { flexDirection: 'row', alignItems: 'center', paddingHorizontal: 12, height: 48, borderRadius: 12, borderWidth: 1, gap: 10 },
-  modalSearchInput: { flex: 1, fontSize: 16, fontWeight: '500' },
-  moveRow: { flexDirection: 'row', alignItems: 'center', paddingVertical: 14, paddingHorizontal: 4, borderBottomWidth: 1 },
-  moveRowIcon: { width: 36, alignItems: 'center' },
-  moveRowName: { fontSize: 16, fontWeight: '600', flex: 1 },
-  moveToggle: { width: 32, height: 32, alignItems: 'center', justifyContent: 'center' },
-  modalFooter: { paddingTop: 20 },
-  moveBigBtn: { height: 56, borderRadius: 16, alignItems: 'center', justifyContent: 'center' },
-  moveBigBtnText: { color: '#04223a', fontSize: 18, fontWeight: '900' },
 });

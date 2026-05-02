@@ -256,14 +256,20 @@ export default function Home() {
 
   const renderNoteCard = ({ item }: { item: NoteNode }) => (
     <TouchableOpacity 
-      style={[styles.noteCard, { borderColor: colors.border }]}
+      style={[styles.noteCard, { borderColor: colors.border, backgroundColor: colors.surface }]}
       onPress={() => router.push({ pathname: '/notes/editor', params: { id: item.note_id } })}
     >
-      <LinearGradient colors={[colors.surface + '95', colors.surface + '60']} style={styles.glassFill}>
-        <FileText size={20} color={colors.primary} />
+      <LinearGradient colors={[colors.primary + '10', 'transparent']} style={styles.cardGlow} />
+      <View style={styles.glassFill}>
+        <View style={[styles.iconCircle, { backgroundColor: colors.primary + '20', width: 32, height: 32 }]}>
+          <FileText size={16} color={colors.primary} />
+        </View>
         <Text style={[styles.noteTitle, { color: colors.textPrimary }]} numberOfLines={2}>{item.title}</Text>
-        <Text style={[styles.noteDate, { color: colors.textTertiary }]}>{new Date(item.updated_at).toLocaleDateString()}</Text>
-      </LinearGradient>
+        <View style={{ flexDirection: 'row', alignItems: 'center', gap: 4, marginTop: 'auto' }}>
+          <Clock size={10} color={colors.textTertiary} />
+          <Text style={[styles.noteDate, { color: colors.textTertiary }]}>{new Date(item.updated_at).toLocaleDateString(undefined, { month: 'short', day: 'numeric' })}</Text>
+        </View>
+      </View>
     </TouchableOpacity>
   );
 
@@ -314,22 +320,26 @@ export default function Home() {
               </View>
               
               <View style={styles.pulseGrid}>
-                <TouchableOpacity style={[styles.pulseCard, { width: CARD_WIDTH, borderColor: colors.border }]} onPress={() => router.push('/flashcards/review')}>
-                  <LinearGradient colors={['rgba(255,149,0,0.1)', 'transparent']} style={styles.cardGlow} />
-                  <RotateCcw size={24} color="#FF9500" />
+                <TouchableOpacity style={[styles.pulseCard, { width: CARD_WIDTH, borderColor: colors.border, backgroundColor: colors.surface }]} onPress={() => router.push('/flashcards/review')}>
+                  <LinearGradient colors={['rgba(255,149,0,0.15)', 'transparent']} style={styles.cardGlow} />
+                  <View style={[styles.iconCircle, { backgroundColor: '#FF950020' }]}>
+                    <RotateCcw size={20} color="#FF9500" />
+                  </View>
                   <View style={styles.pulseInfo}>
                     <Text style={[styles.pulseVal, { color: colors.textPrimary }]}>{stats.dueCards}</Text>
-                    <Text style={[styles.pulseLab, { color: colors.textSecondary }]}>Due Flashcards</Text>
+                    <Text style={[styles.pulseLab, { color: colors.textSecondary }]}>Due Cards</Text>
                   </View>
                   <ChevronRight size={14} color={colors.textTertiary} />
                 </TouchableOpacity>
 
-                <TouchableOpacity style={[styles.pulseCard, { width: CARD_WIDTH, borderColor: colors.border }]} onPress={() => router.push('/tracker')}>
-                  <LinearGradient colors={['rgba(52,199,89,0.1)', 'transparent']} style={styles.cardGlow} />
-                  <Target size={24} color="#34C759" />
+                <TouchableOpacity style={[styles.pulseCard, { width: CARD_WIDTH, borderColor: colors.border, backgroundColor: colors.surface }]} onPress={() => router.push('/tracker')}>
+                  <LinearGradient colors={['rgba(52,199,89,0.15)', 'transparent']} style={styles.cardGlow} />
+                  <View style={[styles.iconCircle, { backgroundColor: '#34C75920' }]}>
+                    <Target size={20} color="#34C759" />
+                  </View>
                   <View style={styles.pulseInfo}>
                     <Text style={[styles.pulseVal, { color: colors.textPrimary }]}>{stats.syllabusPercent}%</Text>
-                    <Text style={[styles.pulseLab, { color: colors.textSecondary }]}>Syllabus Progress</Text>
+                    <Text style={[styles.pulseLab, { color: colors.textSecondary }]}>Syllabus</Text>
                   </View>
                   <ChevronRight size={14} color={colors.textTertiary} />
                 </TouchableOpacity>
@@ -353,17 +363,21 @@ export default function Home() {
               onLongPress={() => setConfigVisible(true)}
               onPress={() => router.push('/tracker')}
             >
+              <LinearGradient colors={[colors.primary + '05', 'transparent']} style={styles.cardGlow} />
               <View style={styles.trackerTop}>
                 <View style={[styles.trackerIcon, { backgroundColor: colors.primary + '20' }]}>
-                  <Award size={20} color={colors.primary} />
+                  <Award size={24} color={colors.primary} />
                 </View>
-                <View style={{ flex: 1, marginLeft: 12 }}>
+                <View style={{ flex: 1, marginLeft: 16 }}>
                   <Text style={[styles.trackerTitle, { color: colors.textPrimary }]}>Syllabus Mastery</Text>
-                  <View style={[styles.catBadge, { backgroundColor: colors.primary + '10' }]}>
+                  <View style={[styles.catBadge, { backgroundColor: colors.primary + '15' }]}>
                     <Text style={[styles.catText, { color: colors.primary }]}>{widgetCategory.toUpperCase()}</Text>
                   </View>
                 </View>
-                <Text style={[styles.masteryText, { color: colors.primary }]}>{stats.syllabusPercent}%</Text>
+                <View style={{ alignItems: 'flex-end' }}>
+                  <Text style={[styles.masteryText, { color: colors.primary }]}>{stats.syllabusPercent}%</Text>
+                  <Text style={{ fontSize: 10, fontWeight: '800', color: colors.textTertiary, textTransform: 'uppercase' }}>Completed</Text>
+                </View>
               </View>
               <View style={styles.subjectList}>
                 {stats.subjectProgress.slice(0, 3).map(sp => (
@@ -372,8 +386,12 @@ export default function Home() {
                       <Text style={[styles.subName, { color: colors.textSecondary }]} numberOfLines={1}>{sp.label}</Text>
                       <Text style={[styles.subPer, { color: colors.textTertiary }]}>{Math.round(sp.progress * 100)}%</Text>
                     </View>
-                    <View style={[styles.barBase, { backgroundColor: colors.border }]}>
-                      <View style={[styles.barInner, { width: `${sp.progress * 100}%`, backgroundColor: sp.color }]} />
+                    <View style={[styles.barBase, { backgroundColor: colors.border + '50' }]}>
+                      <LinearGradient 
+                        colors={[sp.color, sp.color + '90']} 
+                        start={{ x: 0, y: 0 }} end={{ x: 1, y: 0 }}
+                        style={[styles.barInner, { width: `${Math.max(sp.progress * 100, 5)}%` }]} 
+                      />
                     </View>
                   </View>
                 ))}
@@ -400,33 +418,41 @@ export default function Home() {
             <View style={styles.tagsSection}>
               <Text style={[styles.sectionLabel, { color: colors.textTertiary, marginLeft: 20 }]}>TOP TAGS</Text>
               <View style={styles.tagCloud}>
-                {topTags.map(tag => (
-                  <TouchableOpacity key={tag.name} style={[styles.tagChip, { backgroundColor: colors.surface, borderColor: colors.border }]} onPress={() => router.push({ pathname: '/unified/arena', params: { tab: 'search', query: tag.name } } as any)}>
-                    <Tag size={12} color={colors.textSecondary} />
-                    <Text style={[styles.tagName, { color: colors.textPrimary }]}>{tag.name}</Text>
-                    <Text style={[styles.tagCount, { color: colors.textTertiary }]}>{tag.count}</Text>
-                  </TouchableOpacity>
-                ))}
-                <TouchableOpacity style={[styles.tagChip, { backgroundColor: colors.primary + '10', borderColor: colors.primary + '30' }]} onPress={() => router.push('/tags')}>
+                {topTags.map((tag, idx) => {
+                  const tagColors = ['#3b82f6', '#10b981', '#f59e0b', '#ef4444', '#8b5cf6', '#ec4899'];
+                  const tagColor = tagColors[idx % tagColors.length];
+                  return (
+                    <TouchableOpacity key={tag.name} style={[styles.tagChip, { backgroundColor: colors.surface, borderColor: tagColor + '30' }]} onPress={() => router.push({ pathname: '/unified/arena', params: { tab: 'search', query: tag.name } } as any)}>
+                      <Tag size={12} color={tagColor} />
+                      <Text style={[styles.tagName, { color: colors.textPrimary }]}>{tag.name}</Text>
+                      <View style={{ backgroundColor: tagColor + '15', paddingHorizontal: 5, paddingVertical: 1, borderRadius: 6 }}>
+                        <Text style={[styles.tagCount, { color: tagColor }]}>{tag.count}</Text>
+                      </View>
+                    </TouchableOpacity>
+                  );
+                })}
+                <TouchableOpacity style={[styles.tagChip, { backgroundColor: colors.primary + '05', borderColor: colors.primary + '40', borderStyle: 'dashed' }]} onPress={() => router.push('/tags')}>
                   <Plus size={14} color={colors.primary} />
-                  <Text style={[styles.tagName, { color: colors.primary }]}>Add Tags</Text>
+                  <Text style={[styles.tagName, { color: colors.primary }]}>View All Tags</Text>
                 </TouchableOpacity>
               </View>
             </View>
 
             {/* 7. Random PYQ Test Widget */}
             <TouchableOpacity style={styles.pyqBanner} onPress={() => setPyqPickerVisible(true)}>
-              <LinearGradient colors={['#1e293b', '#0f172a']} style={styles.pyqBannerInner}>
+              <LinearGradient colors={['#0f172a', '#1e293b']} start={{ x: 0, y: 0 }} end={{ x: 1, y: 1 }} style={styles.pyqBannerInner}>
                 <View style={{ flex: 1 }}>
                   <Text style={styles.pyqBannerTitle}>Random PYQ Test</Text>
                   <Text style={styles.pyqBannerSub}>UPSC CSE 2013-2024</Text>
                   <View style={styles.pyqMeta}>
-                    <Clock size={12} color="rgba(255,255,255,0.6)" />
-                    <Text style={styles.pyqMetaText}>Timer Mode Available</Text>
+                    <View style={{ width: 24, height: 24, borderRadius: 12, backgroundColor: 'rgba(255,255,255,0.1)', alignItems: 'center', justifyContent: 'center' }}>
+                      <Clock size={12} color="#fff" />
+                    </View>
+                    <Text style={styles.pyqMetaText}>Timed Exam Mode</Text>
                   </View>
                 </View>
                 <View style={styles.pyqActionBtn}>
-                  <Play size={20} color="#04223a" fill="#04223a" />
+                  <Play size={24} color="#04223a" fill="#04223a" />
                 </View>
               </LinearGradient>
             </TouchableOpacity>
@@ -579,6 +605,13 @@ function WidgetConfigModal({ visible, onClose, onSave, category, setCategory, se
 
 const styles = StyleSheet.create({
   // Hero & Header
+  iconCircle: {
+    width: 40,
+    height: 40,
+    borderRadius: 20,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
   heroSection: { paddingHorizontal: 20, paddingTop: 10, paddingBottom: 20 },
   headerRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 20 },
   greeting: { fontSize: 11, fontWeight: '800', letterSpacing: 1.5 },
@@ -594,61 +627,61 @@ const styles = StyleSheet.create({
   sectionLabel: { fontSize: 11, fontWeight: '800', letterSpacing: 1.2 },
 
   // Pulse Cards
-  pulseContainer: { marginBottom: 24 },
-  pulseGrid: { flexDirection: 'row', paddingHorizontal: 20, gap: 12 },
-  pulseCard: { height: 90, borderRadius: 24, borderWidth: 1, padding: 16, flexDirection: 'row', alignItems: 'center', overflow: 'hidden' },
+  pulseContainer: { marginBottom: 32 },
+  pulseGrid: { flexDirection: 'row', paddingHorizontal: 20, gap: 16 },
+  pulseCard: { height: 110, borderRadius: 28, borderWidth: 1, padding: 20, flexDirection: 'row', alignItems: 'center', overflow: 'hidden', elevation: 2, shadowColor: '#000', shadowOffset: { width: 0, height: 4 }, shadowOpacity: 0.05, shadowRadius: 12 },
   cardGlow: { position: 'absolute', top: 0, left: 0, right: 0, bottom: 0 },
-  pulseInfo: { flex: 1, marginLeft: 12 },
-  pulseVal: { fontSize: 20, fontWeight: '900' },
-  pulseLab: { fontSize: 11, fontWeight: '700', marginTop: 2 },
+  pulseInfo: { flex: 1, marginLeft: 16 },
+  pulseVal: { fontSize: 24, fontWeight: '900', letterSpacing: -1 },
+  pulseLab: { fontSize: 12, fontWeight: '800', marginTop: 2, opacity: 0.7 },
 
   // Resume Action
-  resumeContainer: { marginBottom: 28 },
-  resumeScroll: { paddingHorizontal: 20, gap: 12 },
-  resumeBtn: { width: 140, padding: 14, borderRadius: 20, borderWidth: 1, gap: 12 },
-  resumeIconWrap: { width: 36, height: 36, borderRadius: 10, backgroundColor: 'rgba(0,0,0,0.04)', alignItems: 'center', justifyContent: 'center' },
-  resumeTitle: { fontSize: 15, fontWeight: '800' },
-  resumeSub: { fontSize: 11, fontWeight: '600' },
+  resumeContainer: { marginBottom: 32 },
+  resumeScroll: { paddingHorizontal: 20, gap: 16 },
+  resumeBtn: { width: 160, padding: 20, borderRadius: 24, borderWidth: 1, gap: 16, elevation: 1 },
+  resumeIconWrap: { width: 44, height: 44, borderRadius: 14, backgroundColor: 'rgba(0,0,0,0.04)', alignItems: 'center', justifyContent: 'center' },
+  resumeTitle: { fontSize: 16, fontWeight: '900', letterSpacing: -0.5 },
+  resumeSub: { fontSize: 11, fontWeight: '700', opacity: 0.6 },
 
   // Syllabus Tracker Widget
-  trackerWidget: { marginHorizontal: 20, borderRadius: 28, borderWidth: 1, padding: 20, marginBottom: 28 },
-  trackerTop: { flexDirection: 'row', alignItems: 'center', marginBottom: 16 },
-  trackerIcon: { width: 42, height: 42, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
-  trackerTitle: { fontSize: 18, fontWeight: '900' },
-  catBadge: { paddingHorizontal: 8, paddingVertical: 2, borderRadius: 4, alignSelf: 'flex-start', marginTop: 4 },
-  catText: { fontSize: 8, fontWeight: '900' },
-  masteryText: { fontSize: 22, fontWeight: '900' },
-  subjectList: { gap: 14 },
-  subItemRow: { gap: 6 },
+  trackerWidget: { marginHorizontal: 20, borderRadius: 32, borderWidth: 1, padding: 24, marginBottom: 32, elevation: 3, shadowColor: '#000', shadowOffset: { width: 0, height: 6 }, shadowOpacity: 0.08, shadowRadius: 15 },
+  trackerTop: { flexDirection: 'row', alignItems: 'center', marginBottom: 20 },
+  trackerIcon: { width: 48, height: 48, borderRadius: 16, alignItems: 'center', justifyContent: 'center' },
+  trackerTitle: { fontSize: 20, fontWeight: '900', letterSpacing: -0.5 },
+  catBadge: { paddingHorizontal: 10, paddingVertical: 4, borderRadius: 8, alignSelf: 'flex-start', marginTop: 6 },
+  catText: { fontSize: 9, fontWeight: '900', letterSpacing: 0.5 },
+  masteryText: { fontSize: 28, fontWeight: '900', letterSpacing: -1 },
+  subjectList: { gap: 16 },
+  subItemRow: { gap: 8 },
   subTextRow: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center' },
-  subName: { fontSize: 15, fontWeight: '700', flex: 1 },
-  subPer: { fontSize: 11, fontWeight: '600' },
-  barBase: { height: 6, borderRadius: 3, overflow: 'hidden' },
-  barInner: { height: '100%', borderRadius: 3 },
+  subName: { fontSize: 16, fontWeight: '800', flex: 1 },
+  subPer: { fontSize: 12, fontWeight: '700', opacity: 0.6 },
+  barBase: { height: 8, borderRadius: 4, overflow: 'hidden' },
+  barInner: { height: '100%', borderRadius: 4 },
 
   // Recent Notes
-  notesSection: { marginBottom: 28 },
-  notesScroll: { paddingHorizontal: 20, gap: 12 },
-  noteCard: { width: 160, height: 110, borderRadius: 20, borderWidth: 1, overflow: 'hidden' },
-  glassFill: { flex: 1, padding: 16 },
-  noteTitle: { fontSize: 15, fontWeight: '800', marginTop: 10, height: 40 },
-  noteDate: { fontSize: 11, fontWeight: '600', marginTop: 'auto' },
+  notesSection: { marginBottom: 32 },
+  notesScroll: { paddingHorizontal: 20, gap: 16 },
+  noteCard: { width: 180, height: 130, borderRadius: 24, borderWidth: 1, overflow: 'hidden', elevation: 2 },
+  glassFill: { flex: 1, padding: 20 },
+  noteTitle: { fontSize: 16, fontWeight: '900', marginTop: 12, height: 44, lineHeight: 22 },
+  noteDate: { fontSize: 11, fontWeight: '700', marginTop: 'auto', opacity: 0.5 },
 
   // Tags
-  tagsSection: { marginBottom: 28 },
-  tagCloud: { flexDirection: 'row', flexWrap: 'wrap', gap: 8, paddingHorizontal: 20, marginTop: 12 },
-  tagChip: { flexDirection: 'row', alignItems: 'center', gap: 6, paddingHorizontal: 12, paddingVertical: 8, borderRadius: 12, borderWidth: 1 },
-  tagName: { fontSize: 15, fontWeight: '700' },
-  tagCount: { fontSize: 11, fontWeight: '800', opacity: 0.5 },
+  tagsSection: { marginBottom: 32 },
+  tagCloud: { flexDirection: 'row', flexWrap: 'wrap', gap: 10, paddingHorizontal: 20, marginTop: 16 },
+  tagChip: { flexDirection: 'row', alignItems: 'center', gap: 8, paddingHorizontal: 16, paddingVertical: 10, borderRadius: 16, borderWidth: 1, elevation: 1 },
+  tagName: { fontSize: 14, fontWeight: '800' },
+  tagCount: { fontSize: 10, fontWeight: '900', opacity: 0.4 },
 
   // PYQ Banner
-  pyqBanner: { marginHorizontal: 20, height: 100, borderRadius: 24, overflow: 'hidden' },
-  pyqBannerInner: { flex: 1, flexDirection: 'row', alignItems: 'center', padding: 20 },
-  pyqBannerTitle: { color: '#FFF', fontSize: 18, fontWeight: '900' },
-  pyqBannerSub: { color: 'rgba(255,255,255,0.7)', fontSize: 12, fontWeight: '700', marginTop: 2 },
-  pyqMeta: { flexDirection: 'row', alignItems: 'center', gap: 4, marginTop: 8 },
-  pyqMetaText: { color: 'rgba(255,255,255,0.5)', fontSize: 10, fontWeight: '600' },
-  pyqActionBtn: { width: 44, height: 44, borderRadius: 14, backgroundColor: '#34d399', alignItems: 'center', justifyContent: 'center' },
+  pyqBanner: { marginHorizontal: 20, height: 120, borderRadius: 32, overflow: 'hidden', elevation: 4, shadowColor: '#000', shadowOffset: { width: 0, height: 8 }, shadowOpacity: 0.15, shadowRadius: 20 },
+  pyqBannerInner: { flex: 1, flexDirection: 'row', alignItems: 'center', padding: 24 },
+  pyqBannerTitle: { color: '#FFF', fontSize: 22, fontWeight: '900', letterSpacing: -0.5 },
+  pyqBannerSub: { color: 'rgba(255,255,255,0.7)', fontSize: 13, fontWeight: '800', marginTop: 4 },
+  pyqMeta: { flexDirection: 'row', alignItems: 'center', gap: 6, marginTop: 12 },
+  pyqMetaText: { color: 'rgba(255,255,255,0.5)', fontSize: 11, fontWeight: '700' },
+  pyqActionBtn: { width: 52, height: 52, borderRadius: 18, backgroundColor: '#34d399', alignItems: 'center', justifyContent: 'center', elevation: 4 },
 
   // Footer
   footerBtn: { flexDirection: 'row', alignItems: 'center', justifyContent: 'center', padding: 20, marginBottom: 40 },
