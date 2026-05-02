@@ -7,7 +7,7 @@ import {
 import { router, useFocusEffect } from 'expo-router';
 import {
   Plus, Search as SearchIcon, X, Flame, Clock, Sparkles, Layers, ArrowUpDown,
-  Folder, CheckCircle2, Minus
+  Folder, CheckCircle2, Minus, ChevronLeft
 } from 'lucide-react-native';
 import { supabase } from '../src/lib/supabase';
 import { useAuth } from '../src/context/AuthContext';
@@ -171,7 +171,17 @@ export default function FlashcardsHub() {
         {/* Header */}
         <View style={[styles.header, { borderBottomColor: colors.border }]}>
           <View style={styles.headerTop}>
-            <Text style={[styles.headerTitle, { color: colors.textPrimary }]}>Deck Hub</Text>
+            <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+              <TouchableOpacity 
+                onPress={() => router.back()} 
+                style={[styles.iconBtn, { marginLeft: -8 }]} 
+                testID="btn-back"
+                hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+              >
+                <ChevronLeft size={28} color={colors.primary} />
+              </TouchableOpacity>
+              <Text style={[styles.headerTitle, { color: colors.textPrimary, marginLeft: -4 }]}>Deck Hub</Text>
+            </View>
             <View style={styles.headerBtns}>
               <TouchableOpacity onPress={() => openCreate(null)} style={styles.iconBtn} testID="btn-new-root-deck">
                 <Plus size={22} color={colors.textPrimary} />

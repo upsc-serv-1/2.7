@@ -3,7 +3,8 @@ import {
   View, Text, StyleSheet, TouchableOpacity, TextInput, ScrollView, Modal,
   Alert, Pressable, ActivityIndicator, SafeAreaView, FlatList, Dimensions,
 } from 'react-native';
-import { useRouter } from 'expo-router';
+import { useRouter, router } from 'expo-router';
+import { BackHandler } from 'react-native';
 import {
   ChevronRight, Folder, FileText, Plus, PenLine, FolderInput, Trash2, Home,
   BookOpen, Search as SearchIcon, X, Grid3x3, List, ChevronLeft, Clock,
@@ -29,7 +30,6 @@ const TILE_W = (SCREEN_W - 16 * 2 - COL_GAP) / 2; // 2 columns with 16 px screen
 
 export default function NotesIndex() {
   const { colors } = useTheme();
-  const router = useRouter();
   const { session } = useAuth();
   const [loading, setLoading] = useState(true);
   const [nodes, setNodes] = useState<Node[]>([]);
@@ -62,6 +62,19 @@ export default function NotesIndex() {
     setLoading(false);
   }, [session]);
   useEffect(() => { refresh(); }, [refresh]);
+  
+  // Handle hardware back button for Android
+  useEffect(() => {
+    const onBackPress = () => {
+      if (stack.length > 1) {
+        setStack(prev => prev.slice(0, -1));
+        return true;
+      }
+      return false;
+    };
+    const subscription = BackHandler.addEventListener('hardwareBackPress', onBackPress);
+    return () => subscription.remove();
+  }, [stack]);
 
   const currentParent = stack[stack.length - 1].id;
   const currentTitle = stack[stack.length - 1].title;
@@ -276,14 +289,20 @@ export default function NotesIndex() {
     <SafeAreaView style={{ flex: 1, backgroundColor: colors.bg }}>
       {/* Top bar */}
       <View style={[styles.topBar, { borderBottomColor: colors.border }]}>
-        {inFolder ? (
-          <TouchableOpacity onPress={back} style={styles.iconBtn} testID="btn-back">
-            <ChevronLeft size={22} color={colors.primary} />
-            <Text style={{ color: colors.primary, fontWeight: '700', marginLeft: -2 }}>Back</Text>
-          </TouchableOpacity>
-        ) : <View style={{ width: 60 }} />}
+        <TouchableOpacity 
+          onPress={() => {
+            if (inFolder) setStack(prev => prev.slice(0, -1));
+            else router.back();
+          }} 
+          style={styles.iconBtn} 
+          testID="btn-back"
+          hitSlop={{ top: 10, bottom: 10, left: 10, right: 10 }}
+        >
+          <ChevronLeft size={28} color={colors.primary} />
+          <Text style={{ color: colors.primary, fontWeight: '800', fontSize: 17, marginLeft: -4 }}>Back</Text>
+        </TouchableOpacity>
         <TouchableOpacity onPress={() => setShowSearch(v => !v)} style={styles.iconBtnRight} testID="btn-search">
-          <SearchIcon size={20} color={colors.textPrimary} />
+          <SearchIcon size={22} color={colors.textPrimary} />
         </TouchableOpacity>
       </View>
 

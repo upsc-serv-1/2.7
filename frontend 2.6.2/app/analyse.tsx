@@ -13,7 +13,7 @@ import { spacing, radius } from '../src/theme';
 import { supabase } from '../src/lib/supabase';
 import {
   TrendingUp, ChevronRight, Trash2, BarChart2,
-  CheckCircle2, XCircle, MinusCircle, Clock, Target, Zap,
+  CheckCircle2, XCircle, MinusCircle, Clock, Target, Zap, ChevronLeft
 } from 'lucide-react-native';
 import { OfflineManager } from '../src/services/OfflineManager';
 
@@ -219,9 +219,18 @@ export default function AnalyseTab() {
     <PageWrapper>
       {/* ── Header ── */}
       <View style={[styles.header, { borderBottomColor: colors.border }]}>
-        <View>
-          <Text style={[styles.title, { color: colors.textPrimary }]}>Performance</Text>
-          <Text style={[styles.subtitle, { color: colors.textTertiary }]}>Your attempt history</Text>
+        <View style={{ flexDirection: 'row', alignItems: 'center' }}>
+          <TouchableOpacity 
+            onPress={() => router.back()} 
+            style={{ padding: 8, marginLeft: -12 }}
+            hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+          >
+            <ChevronLeft size={28} color={colors.primary} />
+          </TouchableOpacity>
+          <View>
+            <Text style={[styles.title, { color: colors.textPrimary }]}>Performance</Text>
+            <Text style={[styles.subtitle, { color: colors.textTertiary }]}>Your attempt history</Text>
+          </View>
         </View>
         <TouchableOpacity
           style={[styles.trendsBtn, { backgroundColor: colors.primary + '15', borderColor: colors.primary + '40' }]}

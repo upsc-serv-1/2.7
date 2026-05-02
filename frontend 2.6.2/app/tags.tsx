@@ -22,6 +22,7 @@ import { useAuth } from '../src/context/AuthContext';
 import { useTaggedVault } from '../src/hooks/useTaggedQuestions';
 import { RepoQuestionCard } from '../src/components/RepoQuestionCard';
 import { PageWrapper } from '../src/components/PageWrapper';
+import { useFocusEffect, router } from 'expo-router';
 import {
   Search,
   Filter,
@@ -54,8 +55,8 @@ import {
   Pencil,
   Trash2,
   Check,
+  ChevronLeft,
 } from 'lucide-react-native';
-import { useFocusEffect } from 'expo-router';
 import { normalizeTag } from '../src/utils/tagUtils';
 import { buildNotesPdfHtml } from '../src/utils/notesPdfEngine';
 
@@ -494,6 +495,15 @@ ${optionsText}` : ''}${answerText}`,
             },
           ]}
         >
+          {!isZenMode && (
+            <TouchableOpacity 
+              onPress={() => router.back()} 
+              style={{ padding: 8, marginLeft: -8, marginRight: 4 }}
+              hitSlop={{ top: 15, bottom: 15, left: 15, right: 15 }}
+            >
+              <ChevronLeft size={28} color={colors.primary} />
+            </TouchableOpacity>
+          )}
           <View style={[styles.searchContainer, isZenMode && { backgroundColor: 'rgba(67, 52, 34, 0.05)' }]}>
             <Search size={18} color={isZenMode ? '#433422' : colors.textTertiary} />
             <TextInput

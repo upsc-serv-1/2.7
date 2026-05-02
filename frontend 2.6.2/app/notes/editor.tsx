@@ -1,4 +1,4 @@
-﻿import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef, useCallback } from 'react';
 import { 
   View, 
   Text, 
@@ -72,6 +72,7 @@ import { AddBlockToFlashcardSheet } from '@/src/components/AddBlockToFlashcardSh
 import { useRecentNotes } from '@/src/hooks/useRecentNotes';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import RichNoteEditor from '../../src/components/RichNoteEditor';
+import { RichToolbar, actions } from 'react-native-pell-rich-editor';
 import RenderHtml from 'react-native-render-html';
 import { buildNotesPdfHtml } from '@/src/utils/notesPdfEngine';
 
@@ -139,6 +140,14 @@ export default function NoteEditor() {
   const [insertPointData, setInsertPointData] = useState<{ index: number, visible: boolean, text: string, isEditing?: boolean }>({ index: -1, visible: false, text: '' });
   const [insertSelection, setInsertSelection] = useState({ start: 0, end: 0 });
   const insertInputRef = useRef<TextInput>(null);
+  const editorRef = useRef<any>(null);
+  const modalEditorRef = useRef<any>(null);
+  const [highlightColor, setHighlightColor] = useState(HIGHLIGHT_COLORS[0]);
+  const [showPicker, setShowPicker] = useState(false);
+
+  useEffect(() => {
+    AsyncStorage.getItem('notes_editor_highlight_color').then(v => { if (v) setHighlightColor(v); });
+  }, []);
 
   // HELPER: Convert Markdown fallback to HTML if needed
   const formatContent = (txt: string) => {
@@ -753,6 +762,59 @@ export default function NoteEditor() {
           </View>
         )}
 
+        {!isZenMode && viewMode === 'edit' && (
+          <View style={{ backgroundColor: colors.surface, borderBottomWidth: 1, borderBottomColor: colors.border, zIndex: 10 }}>
+            <RichToolbar
+              editor={editorRef}
+              selectedIconTint={colors.primary}
+              iconTint={colors.textPrimary}
+              style={{ backgroundColor: 'transparent' }}
+              actions={[
+                actions.setBold,
+                actions.setItalic,
+                actions.setUnderline,
+                actions.insertBulletsList,
+                actions.insertOrderedList,
+                actions.heading1,
+                'highlight',
+              ]}
+              iconMap={{
+                [actions.heading1]: ({ tintColor }: any) => <View style={{ padding: 4 }}><Heading size={20} color={tintColor} /></View>,
+                highlight: ({ tintColor }: any) => (
+                  <TouchableOpacity 
+                    onLongPress={() => setShowPicker(v => !v)} 
+                    onPress={() => {
+                      editorRef.current?.commandDOM(
+                        `document.execCommand('backColor', false, '${highlightColor}')`
+                      );
+                    }}
+                  >
+                    <View style={{ padding: 6, borderRadius: 6, backgroundColor: highlightColor }}>
+                      <Highlighter size={16} color={tintColor} />
+                    </View>
+                  </TouchableOpacity>
+                ),
+              }}
+            />
+            {showPicker && (
+              <View style={{ flexDirection: 'row', gap: 8, padding: 8, borderTopWidth: 1, borderTopColor: colors.border, justifyContent: 'center' }}>
+                {HIGHLIGHT_COLORS.map(c => (
+                  <TouchableOpacity 
+                    key={c} 
+                    onPress={async () => {
+                      setHighlightColor(c);
+                      await AsyncStorage.setItem('notes_editor_highlight_color', c);
+                      setShowPicker(false);
+                      editorRef.current?.commandDOM(`document.execCommand('backColor', false, '${c}')`);
+                    }}
+                    style={{ width: 28, height: 28, borderRadius: 14, borderWidth: 2, backgroundColor: c, borderColor: c === highlightColor ? colors.primary : 'transparent' }} 
+                  />
+                ))}
+              </View>
+            )}
+          </View>
+        )}
+
         <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : undefined} style={{ flex: 1 }}>
           <View style={{ flex: 1 }}>
             {isZenMode && (
@@ -832,6 +894,7 @@ export default function NoteEditor() {
                         {renderHighlights(true)}
 
                         <RichNoteEditor
+                          ref={editorRef}
                           html={content}
                           onChange={setContent}
                           themeColors={{
@@ -1124,9 +1187,41 @@ export default function NoteEditor() {
                   </View>
                 </View>
 
+                <View style={{ borderBottomWidth: 1, borderBottomColor: 'rgba(0,0,0,0.05)' }}>
+                  <RichToolbar
+                    editor={modalEditorRef}
+                    selectedIconTint={colors.primary}
+                    iconTint={colors.textPrimary}
+                    style={{ backgroundColor: 'transparent' }}
+                    actions={[
+                      actions.setBold,
+                      actions.setItalic,
+                      actions.setUnderline,
+                      actions.insertBulletsList,
+                      'highlight',
+                    ]}
+                    iconMap={{
+                      highlight: ({ tintColor }: any) => (
+                        <TouchableOpacity 
+                          onPress={() => {
+                            modalEditorRef.current?.commandDOM(
+                              `document.execCommand('backColor', false, '${highlightColor}')`
+                            );
+                          }}
+                        >
+                          <View style={{ padding: 6, borderRadius: 6, backgroundColor: highlightColor }}>
+                            <Highlighter size={14} color={tintColor} />
+                          </View>
+                        </TouchableOpacity>
+                      ),
+                    }}
+                  />
+                </View>
+
                 <ScrollView style={{ flex: 1, padding: 20 }}>
                   <View style={[styles.draftInputContainer, { backgroundColor: colors.bg, borderColor: colors.border, padding: 0 }]}>
                     <RichNoteEditor
+                      ref={modalEditorRef}
                       html={insertPointData.text}
                       onChange={(h) => setInsertPointData({ ...insertPointData, text: h })}
                       themeColors={{
