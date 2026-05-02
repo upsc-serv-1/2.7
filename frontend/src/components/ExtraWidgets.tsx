@@ -40,7 +40,7 @@ export function PYQCoverageWidget({ data, colors }: { data: WidgetData; colors: 
   return (
     <TouchableOpacity
       style={[ws.card, ws.full, { backgroundColor: colors.surface, borderColor: colors.border }]}
-      onPress={() => router.push('/study/pyq_analysis')}
+      onPress={() => router.push('/pyq')}
     >
       <View style={ws.cardHeader}>
         <Trophy color="#8b5cf6" size={18} />

@@ -97,7 +97,18 @@ export function useWidgetData(userId: string | undefined) {
       taggedStates.forEach(s => (s.review_tags || []).forEach((t: string) => allTags.add(t)));
 
       const now = new Date();
-      const dueCardsCount = cards.filter(c => c.status === 'active' && (!c.next_review || new Date(c.next_review) <= now)).length;
+      const dueCardsCount = cards.filter(c => {
+        if (c.status !== 'active') return false;
+        const learning = String(c.learning_status || '').toLowerCase();
+
+        // Keep homepage count aligned with deck "cards for today":
+        // include all not-studied cards + due learning/review cards.
+        if (learning === 'not_studied' || learning === 'new') return true;
+        if (learning === 'learning' || learning === 'review' || learning === 'leech') {
+          return !!c.next_review && new Date(c.next_review) <= now;
+        }
+        return false;
+      }).length;
 
       // 7. PYQ Years Coverage (derived from attempts with UPSC titles)
       const coveredYears = new Set(

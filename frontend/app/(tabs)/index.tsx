@@ -1,5 +1,5 @@
 import { useEffect, useState, useCallback, useMemo, useRef } from 'react';
-import { View, Text, StyleSheet, ScrollView, TouchableOpacity, RefreshControl, Modal, Pressable, FlatList, Vibration, useWindowDimensions } from 'react-native';
+import { View, Text, StyleSheet, ScrollView, TouchableOpacity, RefreshControl, Modal, Pressable, FlatList, Vibration, useWindowDimensions, TextInput, ActivityIndicator, KeyboardAvoidingView, Platform } from 'react-native';
 import { router, useFocusEffect } from 'expo-router';
 import * as Haptics from 'expo-haptics';
 import { TrendingUp, Target, BookOpen, BarChart3, ChevronRight, Layout, Play, Clock, RotateCcw, Zap, History, Plus, GripVertical, Sliders, CheckCircle2, Shuffle } from 'lucide-react-native';
@@ -30,6 +30,31 @@ type Stats = {
   subjectProgress: { label: string; progress: number; color: string }[];
 };
 
+const PYQ_ALLOWED_SUBJECTS = [
+  'agriculture',
+  'economy',
+  'environment',
+  'geography',
+  'history',
+  'polity',
+  'science and technology',
+];
+
+const PYQ_EXCLUDED_TERMS = [
+  'csat',
+  'current affairs',
+  'internal security',
+  'international relations',
+];
+
+const normalizeText = (value: string) =>
+  String(value || '')
+    .toLowerCase()
+    .replace(/&/g, 'and')
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+
 export default function Home() {
   const { colors } = useTheme();
   const { session } = useAuth();
@@ -51,6 +76,11 @@ export default function Home() {
     subjectProgress: []
   });
   const [refreshing, setRefreshing] = useState(false);
+  const [pyqPickerVisible, setPyqPickerVisible] = useState(false);
+  const [pyqStartYear, setPyqStartYear] = useState('2013');
+  const [pyqEndYear, setPyqEndYear] = useState(String(new Date().getFullYear()));
+  const [pyqQuestionCount, setPyqQuestionCount] = useState('10');
+  const [launchingPyq, setLaunchingPyq] = useState(false);
 
   // Widget Configuration
   const [configVisible, setConfigVisible] = useState(false);
@@ -185,61 +215,136 @@ export default function Home() {
   const onRefresh = async () => { setRefreshing(true); await load(); refreshWidgets(); setRefreshing(false); };
 
 
-  const startRandomPyqTest = useCallback(async (yearRange: string, count: 5 | 10) => {
+  const isStrictPyqSource = (input: any) => {
+    const institute = normalizeText(String(input?.institute || ''));
+    const program = normalizeText(`${input?.program_name || ''} ${input?.program_id || ''} ${input?.program || ''}`);
+    const examCategory = normalizeText(`${input?.exam_category || ''} ${input?.series || ''} ${input?.title || ''}`);
+
+    const isRightInstitute = institute.includes('x ias');
+    const isRightProgram = program.includes('pyq book');
+    const isUpscCse =
+      examCategory.includes('upsc cse') ||
+      (examCategory.includes('upsc') && examCategory.includes('cse')) ||
+      program.includes('upsc cse') ||
+      (program.includes('upsc') && program.includes('cse'));
+
+    return isRightInstitute && isRightProgram && isUpscCse;
+  };
+
+  const isStrictPyqSubject = (q: any) => {
+    const corpus = normalizeText(`${q?.subject || ''} ${q?.section_group || ''} ${q?.micro_topic || ''}`);
+
+    if (PYQ_EXCLUDED_TERMS.some(term => corpus.includes(term))) return false;
+
+    const matchedAllowed = [
+      corpus.includes('agriculture'),
+      corpus.includes('economy') || corpus.includes('economic'),
+      corpus.includes('environment') || corpus.includes('ecology'),
+      corpus.includes('geography'),
+      corpus.includes('history'),
+      corpus.includes('polity') || corpus.includes('constitution') || corpus.includes('governance'),
+      corpus.includes('science and technology') || corpus.includes('science technology') || corpus.includes('science and tech') || corpus.includes('s and t'),
+    ].some(Boolean);
+
+    if (!matchedAllowed) return false;
+
+    const canonical = PYQ_ALLOWED_SUBJECTS.find(subject => corpus.includes(subject.replace(' and ', ' ')) || corpus.includes(subject));
+    return Boolean(canonical) || matchedAllowed;
+  };
+
+  const startRandomPyqTest = useCallback(async (startYear: number, endYear: number, count: number) => {
     try {
-      const [startYear, endYear] = yearRange.split('-').map(Number);
       const { data: testRows, error: testErr } = await supabase
         .from('tests')
-        .select('id, title, launch_year, exam_year')
-        .eq('institute', 'UPSC')
-        .limit(4000);
+        .select('id, title, launch_year, exam_year, institute, program_id, program_name, series')
+        .limit(5000);
+
       if (testErr) throw testErr;
-      const csatTestIds = (testRows || []).filter((t: any) => {
+
+      const eligibleTests = (testRows || []).filter((t: any) => {
         const y = Number(t.launch_year || t.exam_year || 0);
-        const title = String(t.title || '').toLowerCase();
-        return y >= startYear && y <= endYear && (title.includes('csat') || title.includes('aptitude'));
-      }).map((t: any) => t.id).slice(0, 1000);
-      if (csatTestIds.length === 0) {
-        Alert.alert('No CSAT tests found', 'No UPSC CSAT PYQ tests were found for the selected year range.');
-        return;
+        if (!Number.isFinite(y) || y < startYear || y > endYear) return false;
+        return isStrictPyqSource(t);
+      });
+
+      if (eligibleTests.length === 0) {
+        Alert.alert('No tests found', 'No matching X-IAS / PYQ Book / UPSC CSE tests were found in this year range.');
+        return false;
       }
+
+      const testIdSet = new Set(eligibleTests.map((t: any) => String(t.id)));
+      const testMap = Object.fromEntries(eligibleTests.map((t: any) => [String(t.id), t]));
+
       const { data: qRows, error: qErr } = await supabase
         .from('questions')
-        .select('id')
-        .in('test_id', csatTestIds)
+        .select('id, test_id, is_pyq, subject, section_group, micro_topic, source')
+        .in('test_id', Array.from(testIdSet))
         .eq('is_pyq', true)
-        .limit(6000);
+        .limit(12000);
+
       if (qErr) throw qErr;
-      const ids = (qRows || []).map((q: any) => q.id);
+
+      const filtered = (qRows || []).filter((q: any) => {
+        if (!q?.is_pyq) return false;
+        const parentTest = testMap[String(q.test_id)];
+        if (!parentTest) return false;
+
+        // Strict source validation from either test metadata or embedded question source.
+        const sourceOk = isStrictPyqSource(parentTest) || isStrictPyqSource(q?.source || {});
+        if (!sourceOk) return false;
+
+        return isStrictPyqSubject(q);
+      });
+
+      const ids = filtered.map((q: any) => q.id);
       if (ids.length < count) {
-        Alert.alert('Not enough questions', `Found only ${ids.length} PYQ questions for this range.`);
-        return;
+        Alert.alert('Not enough questions', `Found only ${ids.length} strict PYQ questions for this filter.`);
+        return false;
       }
+
       const selected = [...ids].sort(() => Math.random() - 0.5).slice(0, count);
       router.push({
         pathname: '/unified/engine',
-        params: { mode: 'exam', view: 'list', timer: 'countdown', resultIds: selected.join(','), title: `Random UPSC CSAT PYQ ${startYear}-${endYear}` },
+        params: {
+          mode: 'exam',
+          view: 'list',
+          timer: 'countdown',
+          resultIds: selected.join(','),
+          title: `Random UPSC CSE PYQ ${startYear}-${endYear}`,
+        },
       } as any);
+      return true;
     } catch (e: any) {
       console.error('Random PYQ launch failed', e);
       Alert.alert('Launch failed', e?.message || 'Could not start random PYQ test.');
+      return false;
     }
   }, []);
 
   const openRandomPyqPicker = () => {
-    const askCount = (range: string) => {
-      Alert.alert('Number of questions', 'Choose test size', [
-        { text: '5 Questions', onPress: () => startRandomPyqTest(range, 5) },
-        { text: '10 Questions', onPress: () => startRandomPyqTest(range, 10) },
-        { text: 'Cancel', style: 'cancel' },
-      ]);
-    };
-    Alert.alert('Range of years', 'Choose PYQ year range', [
-      { text: '2013-2025', onPress: () => askCount('2013-2025') },
-      { text: '2018-2025', onPress: () => askCount('2018-2025') },
-      { text: '2021-2025', onPress: () => askCount('2021-2025') },
-      { text: 'Cancel', style: 'cancel' },
-    ]);
+    setPyqPickerVisible(true);
+  };
+
+  const submitRandomPyqPicker = async () => {
+    const startYear = Number(pyqStartYear);
+    const endYear = Number(pyqEndYear);
+    const count = Number(pyqQuestionCount);
+
+    if (!Number.isFinite(startYear) || !Number.isFinite(endYear) || String(pyqStartYear).length !== 4 || String(pyqEndYear).length !== 4) {
+      Alert.alert('Invalid year range', 'Please enter valid 4-digit start and end years.');
+      return;
+    }
+
+    if (!Number.isFinite(count) || count < 1 || count > 200) {
+      Alert.alert('Invalid question count', 'Enter a number between 1 and 200.');
+      return;
+    }
+
+    setLaunchingPyq(true);
+    const success = await startRandomPyqTest(Math.min(startYear, endYear), Math.max(startYear, endYear), Math.floor(count));
+    setLaunchingPyq(false);
+
+    if (success) setPyqPickerVisible(false);
   };
 
   const handleLongPressIn = () => {
@@ -316,7 +421,11 @@ export default function Home() {
                 </View>
               </TouchableOpacity>
 
-              <View style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]}>
+              <TouchableOpacity
+                style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]}
+                onPress={() => router.push('/pyq')}
+                testID="btn-pyq-trend"
+              >
                 <BarChart3 color={colors.primary} size={22} />
                 <View style={{ marginLeft: 10, flex: 1 }}>
                   <Text style={[styles.streakLab, { color: colors.textSecondary, marginBottom: 6 }]}>PYQ Trend</Text>
@@ -326,7 +435,7 @@ export default function Home() {
                     ))}
                   </View>
                 </View>
-              </View>
+              </TouchableOpacity>
 
               <View style={[styles.summaryCard, { width: CARD_WIDTH, backgroundColor: colors.surface, borderColor: colors.border }]}>
                 <CheckCircle2 color={colors.primary} size={22} />
@@ -340,7 +449,7 @@ export default function Home() {
                 <Shuffle color={colors.primary} size={22} />
                 <View style={{ marginLeft: 10, flex: 1 }}>
                   <Text style={[styles.streakLab, { color: colors.textSecondary }]}>Random PYQ Test</Text>
-                  <Text style={{ color: colors.textPrimary, fontWeight: '800', fontSize: 11, marginTop: 2 }}>Pick year range + 5/10 questions</Text>
+                  <Text style={{ color: colors.textPrimary, fontWeight: '800', fontSize: 11, marginTop: 2 }}>Pick custom year range + question count</Text>
                 </View>
               </TouchableOpacity>
             </View>
@@ -468,6 +577,66 @@ export default function Home() {
           </>
         )}
       />
+
+      <Modal visible={pyqPickerVisible} transparent animationType="slide" onRequestClose={() => setPyqPickerVisible(false)}>
+        <Pressable style={styles.modalOverlay} onPress={() => setPyqPickerVisible(false)}>
+          <KeyboardAvoidingView behavior={Platform.OS === 'ios' ? 'padding' : 'height'}>
+            <Pressable style={[styles.modalContent, { backgroundColor: colors.surface }]} onPress={(e) => e.stopPropagation()}>
+              <View style={styles.modalHeader}>
+                <Text style={[styles.modalTitle, { color: colors.textPrimary }]}>Random PYQ Test</Text>
+                <TouchableOpacity onPress={() => setPyqPickerVisible(false)}>
+                  <X color={colors.textPrimary} size={24} />
+                </TouchableOpacity>
+              </View>
+
+              <Text style={[styles.modalLabel, { color: colors.textSecondary }]}>YEAR RANGE</Text>
+              <View style={{ flexDirection: 'row', gap: 10 }}>
+                <View style={styles.pyqInputWrap}>
+                  <Text style={[styles.pyqInputLabel, { color: colors.textTertiary }]}>From</Text>
+                  <TextInput
+                    value={pyqStartYear}
+                    onChangeText={setPyqStartYear}
+                    keyboardType="number-pad"
+                    maxLength={4}
+                    style={[styles.pyqInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.surfaceStrong }]}
+                    testID="pyq-year-start"
+                  />
+                </View>
+                <View style={styles.pyqInputWrap}>
+                  <Text style={[styles.pyqInputLabel, { color: colors.textTertiary }]}>To</Text>
+                  <TextInput
+                    value={pyqEndYear}
+                    onChangeText={setPyqEndYear}
+                    keyboardType="number-pad"
+                    maxLength={4}
+                    style={[styles.pyqInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.surfaceStrong }]}
+                    testID="pyq-year-end"
+                  />
+                </View>
+              </View>
+
+              <Text style={[styles.modalLabel, { color: colors.textSecondary, marginTop: 16 }]}>NUMBER OF QUESTIONS</Text>
+              <TextInput
+                value={pyqQuestionCount}
+                onChangeText={setPyqQuestionCount}
+                keyboardType="number-pad"
+                style={[styles.pyqInput, { color: colors.textPrimary, borderColor: colors.border, backgroundColor: colors.surfaceStrong }]}
+                testID="pyq-count"
+              />
+
+              <TouchableOpacity
+                style={[styles.applyBtn, { backgroundColor: colors.primary, opacity: launchingPyq ? 0.7 : 1 }]}
+                onPress={submitRandomPyqPicker}
+                disabled={launchingPyq}
+                testID="pyq-launch"
+              >
+                {launchingPyq ? <ActivityIndicator color="#fff" /> : <Text style={styles.applyText}>Start Random Test</Text>}
+              </TouchableOpacity>
+            </Pressable>
+          </KeyboardAvoidingView>
+        </Pressable>
+      </Modal>
+
       <WidgetConfigModal 
         visible={configVisible} 
         onClose={() => setConfigVisible(false)}
@@ -669,6 +838,9 @@ const styles = StyleSheet.create({
   modalHeader: { flexDirection: 'row', justifyContent: 'space-between', alignItems: 'center', marginBottom: 24 },
   modalTitle: { fontSize: 22, fontWeight: '900' },
   modalLabel: { fontSize: 11, fontWeight: '800', letterSpacing: 1, marginBottom: 12 },
+  pyqInputWrap: { flex: 1 },
+  pyqInputLabel: { fontSize: 10, fontWeight: '800', textTransform: 'uppercase', marginBottom: 6 },
+  pyqInput: { height: 46, borderWidth: 1, borderRadius: 12, paddingHorizontal: 12, fontSize: 14, fontWeight: '700' },
   catRow: { flexDirection: 'row', gap: 10 },
   catBtn: { flex: 1, height: 44, borderRadius: 12, alignItems: 'center', justifyContent: 'center' },
   catText: { fontSize: 14, fontWeight: '700' },
