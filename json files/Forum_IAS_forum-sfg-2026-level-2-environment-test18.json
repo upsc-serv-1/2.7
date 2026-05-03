@@ -1,0 +1,1830 @@
+{
+  "id": "forum-sfg-2026-level-2-environment-test18",
+  "title": "Test 18- L2 SFG 2026 - Sectional - Environment",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions.",
+        "Statement II: Silica-bearing clay is mixed with limestone while manufacturing cement.",
+        "Statement III: Limestone is converted into lime during clinker production for cement manufacturing.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Studies indicate that carbon dioxide emissions from cement industry account for more than 5% of global carbon emissions. Statement II: Silica-bearing clay is mixed with limestone while manufacturing cement. Statement III: Limestone is converted into lime during clinker production for cement manufacturing. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The cement industry is a significant source of carbon dioxide emissions due to both the chemical reactions involved in producing clinker (the main ingredient of cement) and the burning of fossil fuels to power the production process.\nSpecifically, calcining limestone (a primary ingredient) to produce lime (CaO) releases CO2, and burning fossil fuels to heat the kilns also contributes to emissions.\nStatement I is correct: Global cement manufacturing produced 1.6 billion metric tonnes of CO2 in 2022, the latest year for which there are figures – that’s about 8% of the world’s total CO2 emissions.\nStatement II is correct: Silica-bearing clay is mixed with limestone while manufacturing cement. Cement production involves mixing limestone with other materials like clay, which contains silica, along with other minerals. These materials are then processed into clinker, a key component of cement.\nStatement III is correct: In the process of making cement clinker, limestone, which is primarily calcium carbonate (CaCO3), is heated to high temperatures (1450°C or 2640°F) in a kiln. This process, called calcination, decomposes the limestone into calcium oxide (CaO), commonly known as lime, and carbon dioxide (CO2). The lime then reacts with other raw materials like clay and silica to form the clinker, which is the main ingredient in cement.\nBoth Statement II and Statement III are correct but only one of them (i.e. Statement III) explains Statement I:\n- Statement I discusses the environmental impact (carbon emissions) of the cement industry.\n- Statement III explains why the cement industry has significant carbon emissions (as mentioned in Statement I), due to the conversion of limestone to lime releasing CO2.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Which of the following is/are anthropogenic sources of mercury pollution?",
+        "I. Artisanal and small-scale gold mining",
+        "II. Volcanic eruptions",
+        "III. Coal-fired power plants",
+        "IV. Burning of municipal and medical waste",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Which of the following is/are anthropogenic sources of mercury pollution? I. Artisanal and small-scale gold mining II. Volcanic eruptions III. Coal-fired power plants IV. Burning of municipal and medical waste Select the correct answer using the code given below.",
+      "options": {
+        "a": "I and III only",
+        "b": "II only",
+        "c": "I, III, and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option I is correct: Artisanal and small-scale gold mining: Artisanal and small-scale gold mining releases mercury during the amalgamation process. In the process, mercury is used to extract gold and later vaporized into the atmosphere.\nAs per report by UNEP, Artisanal mining accounts for 20 per cent of the global supply of gold and generates approximately US$30 billion annually. Artisanal and small-scale gold mining emits over 2,000 tonnes of mercury per year. This includes emissions to air from heating amalgams, as well as direct losses of mercury to land and water Option II is incorrect: Volcanic eruptions: Volcanic eruptions are natural sources of mercury, releasing it from the Earth’s crust into the atmosphere along with other gases and particulates. It is not an anthropogenic source.\nOption III is correct: Coal-fired power plants: Coal-fired power plants emit mercury as coal contains trace amounts of mercury, which is released during combustion into the atmosphere.\nOption IV is correct: Waste incineration: Many consumer products (batteries, thermometers, switches) and medical devices contain mercury. When waste is incinerated scrubbing technology, the mercury is released.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to microplastics, consider the following statements:",
+        "I. These are defined as shreds of plastic less than 5 millimeters in length",
+        "II. All microplastics presently come from the slow disintegration of larger plastic products.",
+        "III. Recent studies, in humans, showed that microplastics can cross placental barriers, which would disrupt the normal fetal growth and development.",
+        "IV. As per the recent WHO guidelines, in drinking water, microplastics up to 10,000 particles/L are considered as safe for drinking.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to microplastics, consider the following statements: I. These are defined as shreds of plastic less than 5 millimeters in length II. All microplastics presently come from the slow disintegration of larger plastic products. III. Recent studies, in humans, showed that microplastics can cross placental barriers, which would disrupt the normal fetal growth and development. IV. As per the recent WHO guidelines, in drinking water, microplastics up to 10,000 particles/L are considered as safe for drinking. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II, III and IV",
+        "c": "I, II and III",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Microplastics though encompass a wide range of materials composed of different substances, with different densities, chemical compositions, shapes and sizes. Microplastics are generally defined as shreds of plastic less than 5 millimeters in length.\nStatement II is incorrect: Microplastics are either manufactured — for instance, microbeads that are used in cosmetics and beauty products — or they are formed when larger pieces of plastic break down. The small, shiny particles advertised as cooling crystals in certain toothpastes qualify as microplastics if the ingredients of the toothpaste mention polyethylene.\nThus, here are two main types of microplastics. Some plastics are made to be small. These are known as primary microplastics, like the microbeads intentionally added to face washes and other personal care products. But most microplastics come from the slow disintegration of larger plastic products and are known as secondary microplastics.\nStatement III is correct: As per recent studies, microplastics may even cross the placental barrier, which is typically designed to protect the developing fetus from harmful substances. This penetration raises concerns about the possible effects of microplastics on fetal development and long-term health. This can disrupt normal fetal growth and development.\nStatement IV is incorrect: There is no 'acceptable' level of microplastics. As per the WHO in freshwater studies, reported microplastic particle counts ranged from around 0 to 1000 particles/L. WHO has not set any limit with respect to microplastics in drinking water and rearch for this purpose is still going on.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "'Carbosulfan' and 'Fenthion', which were seen recently in the news, are:"
+      ],
+      "questionText": "'Carbosulfan' and 'Fenthion', which were seen recently in the news, are:",
+      "options": {
+        "a": "Chemical pesticides/insecticides added to Annex III of the Rotterdam Convention.",
+        "b": "Prohibited chemical preservatives in processed foods under the Food Safety and Standards Authority of India regulations.",
+        "c": "Primary chemical markers to identify the geographical origin of Basmati rice.",
+        "d": "Bio-fertilizers approved in India for promotion of organic farming."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Carbosulfan and Fenthion are toxic chemical pesticides/insecticides which have hazardous effects on human health and the environment. They have been added in Annex III of the Rotterdam Convention, which enables prior informed consent (PIC) procedures to regulate their international trade. Annex III of the Rotterdam Convention is a list of hazardous chemicals that are subject to the Prior Informed Consent (PIC) procedure. Once a chemical is added to Annex III, any country exporting that chemical must first get the \"informed consent\" of the importing country.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "In the context of thermal pollution, as the temperature of a water body increases, the pH value of the water will generally:"
+      ],
+      "questionText": "In the context of thermal pollution, as the temperature of a water body increases, the pH value of the water will generally:",
+      "options": {
+        "a": "Increase",
+        "b": "Decrease",
+        "c": "Remain unchanged",
+        "d": "Increases initially and then decreases"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Thermal pollution occurs when industries discharge heated water into natural water bodies such as rivers and lakes.\nThis rise in temperature affects not only dissolved oxygen levels but also the chemical properties of water, including its pH. One key concept is that the self-ionization of water (H₂O ⇌ H⁺ + OH⁻) is an endothermic process, meaning it is favored at higher temperatures.As temperature rises, the ionization of water increases, producing more H⁺ ions. This results in a lower pH value. For example, while neutral pH is 7 at 25°C, it decreases to around 6.15 at 100°C,",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Phthalates are mainly used as plasticizers to increase the durability of plastics.",
+        "Statement II: Phthalates form permanent chemical bonds with polymer chains of plastic.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Phthalates are mainly used as plasticizers to increase the durability of plastics. Statement II: Phthalates form permanent chemical bonds with polymer chains of plastic. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Phthalates are mainly used as plasticizers. Plasticizers are the substances added to plastics to increase their flexibility, transparency, durability, and longevity. In a rigid polymer like Polyvinyl Chloride (PVC), the polymer chains are tightly packed. Phthalates insert themselves between these long chains, acting like a \"lubricant\" that allows the chains to slide past each other. It makes PVC softer and more workable for applications like cables, flooring, and medical devices.\nStatement II is incorrect: Phthalates are not chemically bonded to polymer chains. They are physically mixed and can migrate out over time. This non-permanent bonding is the reason for plastics to lose flexibility and release phthalates into the environment. Hence,\n\nStatement I is correct, but\n\nStatement II is not correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the World Air Quality Report 2024–25, consider the following statements:",
+        "I. Delhi has been ranked as the most polluted national capital in the world in terms of air quality.",
+        "II. Byrnihat city in Meghalaya is the cleanest city in India in terms of air quality.",
+        "III. The report uses PM2.5 as the primary metric for air quality reporting.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the World Air Quality Report 2024–25, consider the following statements: I. Delhi has been ranked as the most polluted national capital in the world in terms of air quality. II. Byrnihat city in Meghalaya is the cleanest city in India in terms of air quality. III. The report uses PM2.5 as the primary metric for air quality reporting. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The World Air Quality Report is released by the Swiss organization, IQAir which provides a comprehensive look at global air pollution trends.\nStatement I is correct: The World Air Quality Report 2024–25 recorded an annual average PM2.5 concentration for Delhi that is approximately 18 times higher than the World Health Organization (WHO) annual safety guideline.\nFor the seventh consecutive year, New Delhi has been ranked as the most polluted capital city in the world.\n\nStatement II is incorrect: Byrnihat, located on the Assam-Meghalaya border, was ranked as the most polluted city in India. It is the most polluted city in India due to industrial and transport emissions. The annual average PM2.5 concentration in Byrnihat was 128.2 micrograms per cubic m (μg/m3), many times the World Health Organization’s annual air quality guideline of 5 μg/m3.\nStatement III is correct: The report uses PM2.5 concentration as the key indicator for assessing air quality. PM2.5 is considered the most hazardous air pollutant to human health because its tiny size allows it to bypass the nose and throat, penetrating deep into the lungs and even entering the bloodstream.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "In the context of India, consider the following statements:",
+        "Statement I: As per National Ambient Air Quality Standards, unlike some other pollutants, tropospheric ozone levels are monitored in an eight-hour or one-hour average period, instead of annual or 24-hour averages.",
+        "Statement II: Tropospheric Ozone is highly reactive.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of India, consider the following statements: Statement I: As per National Ambient Air Quality Standards, unlike some other pollutants, tropospheric ozone levels are monitored in an eight-hour or one-hour average period, instead of annual or 24-hour averages. Statement II: Tropospheric Ozone is highly reactive. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is incorrect.",
+        "d": "Statement I is incorrect but Statement II is correct."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: The ambient air quality standards for Ozone (O3) i.e. Tropospheric Ozone, have been notified by the Central Pollution Control Board (CPCB) as one of the twelve (12) pollutants under the National Ambient Air Quality Standard (NAAQS), 2009. The ambient air quality standards for Ozone (O3) is prescribed as 100 μg/m3 for 8-hourly monitored value and 180 μg/m3 for 1-hourly monitored value for industrial, residential, rural and ecologically sensitive areas. The time-weighted average level of Tropospheric Ozone is 8 hours or 1 hour unlike 24 hours or annual average for other pollutants. Also, carbon monoxide level is monitored in an 8 hours or 1 hour average period As per the NAAQS, the method of measurement of Ozone (O3) in ambient air is UV photometric, Chemiluminescence, and Chemical method.\nStatement II is correct: Tropospheric (or ground-level) ozone is a short-lived climate pollutant that remains in the atmosphere for only hours to weeks. Tropospheric ozone is a highly reactive oxidant. It is highly reactive because it contains weak oxygen bonds that easily break in the presence of sunlight, releasing a single, highly unstable oxygen atom.\nStatement II explains Statement I: Due to its reactive nature, O 3 levels are monitored in an eight-hour average period, instead of 24-hour averages, unlike other pollutants. The prescribed ozone standard for an eight-hour period is 100 micrograms/cubic metre as per the National Ambient Air Quality Standards (NAAQ).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q09",
+      "questionNumber": 9,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The National Level Pollution Response Exercise (NATPOLREX) is conducted by:"
+      ],
+      "questionText": "The National Level Pollution Response Exercise (NATPOLREX) is conducted by:",
+      "options": {
+        "a": "Central Pollution Control Board.",
+        "b": "National Environmental Engineering Research Institute (NEERI).",
+        "c": "Indian Coast Guard.",
+        "d": "Ministry of Environment, Forest and Climate Chang"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The National Level Pollution Response Exercise (NATPOLREX) is a major biennial exercise conducted by the Indian Coast Guard (ICG). The primary objective of the exercise is to evaluate the preparedness and response capabilities of the Indian Coast Guard and other stakeholders in handling large-scale marine oil spills and chemical pollution in Indian waters.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the Wassenaar Arrangement, consider the following statements:",
+        "I. It is a multilateral export control regime headquartered in Hague, Netherlands.",
+        "II. It promotes transparency and greater responsibility in the transfer of conventional arms and dual-use goods and technologies between member countries.",
+        "III. India is a member of the Arrangement.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Wassenaar Arrangement, consider the following statements: I. It is a multilateral export control regime headquartered in Hague, Netherlands. II. It promotes transparency and greater responsibility in the transfer of conventional arms and dual-use goods and technologies between member countries. III. India is a member of the Arrangement. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II and III",
+        "c": "I and III",
+        "d": "II only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: Wassenaar Arrangement is a multilateral export control regime, established in 1996 and headquartered in Vienna, Austria. The arrangement succeeded the Cold War-era Coordinating Committee for Multilateral Export Controls (COCOM).\nStatement II is correct: The arrangement promotes transparency and greater responsibility in the transfer of conventional arms and dual-use goods and technologies between member countries. Its broader objective is to prevent any exports or activities that could threaten or destabilize international peace and security.\nStatement III is correct: The arrangement currently has 42 member countries, with India being the most recent to join in 2017. Following its admission, India integrated the arrangement’s control lists into its Special Chemicals, Organisms, Materials, Equipment, and Technologies (SCOMET) framework.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Agricultural soils release nitrogen oxides into the environment.",
+        "2. Cattle release ammonia into the environment.",
+        "3. Poultry industry releases reactive nitrogen compounds into environment.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Agricultural soils release nitrogen oxides into the environment. 2. Cattle release ammonia into the environment. 3. Poultry industry releases reactive nitrogen compounds into environment. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 and 3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement 1 is correct: Agricultural soils release nitrogen oxides (NOx) into the environment through the process of nitrification and denitrification, which convert nitrogen in fertilizers and manure into nitrate and nitrous oxide.\nNitrous oxide is a powerful greenhouse gas that contributes to global warming and ozone depletion.\n\nStatement 2 is correct: Cattle release ammonia (NH3) into the environment through their urine and feces. Ammonia is a common by-product of animal waste due to the often-inefficient conversion of feed nitrogen into animal product. Ammonia is harmful to the environment because it contributes to air pollution, acid rain, eutrophication, and biodiversity loss.\nStatement 3 is correct: Poultry industry releases reactive nitrogen compounds (RNCs) such as ammonia, nitrous oxide, and nitrogen dioxide into the environment through the use of synthetic fertilizers, manure management, and poultry feed. These compounds are released through the use of nitrogen-rich fertilizers and manure management practices. The release of these compounds contributes to air pollution and can cause respiratory problems.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2019,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to biomining and biocapping, consider the following statements:",
+        "I. Biomining involves using microorganisms to degrade waste and recover useful materials.",
+        "II. Biocapping involves covering waste dumps with layers of soil to prevent the release of pollutants.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to biomining and biocapping, consider the following statements: I. Biomining involves using microorganisms to degrade waste and recover useful materials. II. Biocapping involves covering waste dumps with layers of soil to prevent the release of pollutants. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Biomining is a scientific method used to remediate \"legacy waste\" (old, accumulated garbage) in landfills. It involves using microorganisms to break down and stabilize the organic components of the waste.\nAfter stabilization, the waste is mechanically screened to recover useful materials such as recyclables (plastic, glass) and bio-earth (soil-like material), which helps in reclaiming the land.\nStatement II is correct: Biocapping is a containment strategy used for the scientific closure of waste dumps. It involves covering the waste with multiple layers of soil, clay, or synthetic liners. The goal is to prevent water from entering the waste (reducing leachate) and to stop the release of pollutants.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The Global Outlook Council on Water Investments is an initiative associated with:"
+      ],
+      "questionText": "The Global Outlook Council on Water Investments is an initiative associated with:",
+      "options": {
+        "a": "International Water Management Institute",
+        "b": "World Bank",
+        "c": "G20",
+        "d": "Wetland International"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Global Outlook Council on Water Investments is an initiative of the G20. It serves as a high-level platform designed to mobilize both public and private capital for the water sector. The council focuses on developing sustainable financing models and promoting international cooperation to bridge the global investment gap in water-related infrastructure.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q14",
+      "questionNumber": 14,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the Environment Protection (Management of Contaminated Sites) Rules, 2025, consider the following statements:",
+        "I. These rules have been notified under the Air (Prevention and Control of Pollution) Act, 1981",
+        "II. The rules provide a framework to identify and remediate chemically contaminated sites.",
+        "III. These rules exclude contamination of sites arising from radioactive waste.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Environment Protection (Management of Contaminated Sites) Rules, 2025, consider the following statements: I. These rules have been notified under the Air (Prevention and Control of Pollution) Act, 1981 II. The rules provide a framework to identify and remediate chemically contaminated sites. III. These rules exclude contamination of sites arising from radioactive waste. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I, II and III",
+        "d": "I and III only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: The Ministry of Environment, Forest and Climate Change notified the Environment Protection (Management of Contaminated Sites) Rules, 2025 under the Environment (Protection) Act, 1986.\nStatement II is correct. The Environment Protection (Management of Contaminated Sites) Rules, 2025, were notified to provide a comprehensive regulatory framework for the identification, investigation, and remediation of sites where soil or groundwater has been contaminated by hazardous substances.\nStatement III is correct. These rules specifically exclude contamination of sites arising from radioactive waste, which continues to be governed under the Atomic Energy Act, 1962.\nAs per the rules, contamination resulting from radioactive waste, mining operations, pollution of the sea by oil, solid waste from dump sites would not be dealt with under the provisions of these laws as they are governed by separate legislation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the Armed Forces (Special Powers) Act, 1958, which of the following authorities has/have the power to declare a region as “disturbed area”?",
+        "I. Supreme Court of India",
+        "II. Central Government",
+        "III. Governor of the concerned State",
+        "IV. High Court of the concerned State",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Armed Forces (Special Powers) Act, 1958, which of the following authorities has/have the power to declare a region as “disturbed area”? I. Supreme Court of India II. Central Government III. Governor of the concerned State IV. High Court of the concerned State Select the correct answer using the code given below:",
+      "options": {
+        "a": "III only",
+        "b": "III and IV",
+        "c": "II and III",
+        "d": "I and II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Armed Forces (Special Powers) Act, 1958 is a law passed by Parliament granting the armed forces special powers and legal immunity to maintain public order in designated “disturbed areas”.\nA disturbed area is one officially notified under Section 3 of AFSPA. Any whole or part of a state where conditions have become dangerous or disturbed, necessitating the deployment of armed forces to assist civil authorities, can be declared as such.\nThe power to declare a disturbed area lies with the Central Government, or the Governor of the concerned State, or the administrator of the Union Territory (but not with High Courts of concerned States or the Supreme Court of India).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Dissolved Oxygen (DO) in water bodies is influenced by various physical and environmental factors. In this context, consider the following statements:",
+        "I. Under similar conditions, cold water can hold more dissolved oxygen than warm water.",
+        "II. Under similar temperature and pressure conditions, freshwater can hold more dissolved oxygen than seawater.",
+        "III. Compared to lower latitudes, dissolved oxygen levels are generally higher at high altitudes due to lower temperatures.",
+        "IV. Stagnant water bodies tend to have lower dissolved oxygen compared to flowing or turbulent water bodies.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Dissolved Oxygen (DO) in water bodies is influenced by various physical and environmental factors. In this context, consider the following statements: I. Under similar conditions, cold water can hold more dissolved oxygen than warm water. II. Under similar temperature and pressure conditions, freshwater can hold more dissolved oxygen than seawater. III. Compared to lower latitudes, dissolved oxygen levels are generally higher at high altitudes due to lower temperatures. IV. Stagnant water bodies tend to have lower dissolved oxygen compared to flowing or turbulent water bodies. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I, II and IV only",
+        "c": "III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Dissolved Oxygen (DO) refers to the amount of oxygen gas present in water, typically measured in mg/L. Although only a small quantity of oxygen (about a few parts per million) dissolves in water, it is crucial for the survival of aquatic organisms such as fish, plankton, and benthic fauna. The level of DO in water bodies is controlled by several physical and biological factors such as temperature, salinity, atmospheric pressure, water movement, and biological activity.\nStatement I is correct. The solubility of gases, including oxygen, decreases with increasing temperature. For example, at 0°C, water can hold around 14–15 mg/L of oxygen, whereas at 35°C, it drops to about 7 mg/L. Thus, colder water bodies such as mountain streams tend to have higher DO levels, which supports richer aquatic life.\nStatement II is correct. The presence of salts in seawater slightly reduces the solubility of oxygen. Freshwater can hold more dissolved oxygen than saline water under similar conditions. For instance, at 0°C, freshwater holds about 14–15 ppm DO, while seawater holds only about 10–11 ppm.\nStatement III is incorrect. While lower temperatures at high altitudes favor higher oxygen solubility, atmospheric (barometric) pressure decreases with altitude, which reduces the overall solubility of oxygen in water. Hence, despite colder conditions, DO levels are generally lower at high altitudes compared to sea level.\nStatement IV is correct. Flowing or turbulent water (like rivers and streams) promotes aeration, allowing oxygen from the atmosphere to dissolve into water efficiently. In contrast, stagnant water bodies (ponds, lakes) have limited mixing. Additionally, decomposition of organic matter by bacteria consumes oxygen, further reducing DO levels, especially during summer when oxygen demand is high.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Recently, the government carried out reforms in the Disaster Management framework through the enactment of the Disaster Management (Amendment) Act,",
+        "2025. In this context, consider the following statements:",
+        "I. It empowers the state government to constitute Urban Disaster Management Authority (UDMA) in the state capital.",
+        "II. It shifts the responsibility of preparing national disaster management plans from the National Disaster Management",
+        "Authority (NDMA) to the National Executive Committee.",
+        "III. It mandates the creation of a National Disaster Database incorporating risk assessments, mitigation strategies, and real-time disaster data.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Recently, the government carried out reforms in the Disaster Management framework through the enactment of the Disaster Management (Amendment) Act, 2025. In this context, consider the following statements: I. It empowers the state government to constitute Urban Disaster Management Authority (UDMA) in the state capital. II. It shifts the responsibility of preparing national disaster management plans from the National Disaster Management Authority (NDMA) to the National Executive Committee. III. It mandates the creation of a National Disaster Database incorporating risk assessments, mitigation strategies, and real-time disaster data. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I and II only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct. The Amendment Act inserts a provision (Section 41A) empowering State Governments to constitute Urban Disaster Management Authorities (UDMAs) in State Capitals and all cities having Municipal Corporation (excluding NCT of Delhi and Union Territory of Chandigarh). These bodies are intended to address urban-specific disaster risks such as flooding, heatwaves, and infrastructure stress, which are becoming more prominent due to rapid urbanisation.\nStatement II is incorrect. The Amendment Act strengthens the role of the National Disaster Management Authority (NDMA) by assigning it the responsibility of preparing national disaster management plans. Earlier, this function was largely performed by the National Executive Committee (NEC).\nStatement III is correct. The Amendment mandates the creation of a National Disaster Database, which includes risk assessments, mitigation plans, and real-time disaster data. This is a significant step towards technology-driven and evidence-based disaster management, improving preparedness, forecasting, and response.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to pollution monitoring in India, consider the following information:",
+        "Index Implementing agency Description I.National Air Quality Monitoring Programme (NAMP) Central Pollution Control",
+        "Board It covers all the districts of India",
+        "II. National Air Quality Index (NAQI) Commission for Air Quality Management in the National",
+        "Capital Region and Adjoining Areas It communicates air quality in simple terms through One Number – One Color",
+        "– One Description.",
+        "III. System of Air Quality Forecasting and Research (SAFAR) Indian Institute of Tropical Meteorology (IITM)",
+        "Apart from forecasting air quality it also provides forecasts on weather, emissions and UV radiation.",
+        "In which of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to pollution monitoring in India, consider the following information: Index Implementing agency Description I.National Air Quality Monitoring Programme (NAMP) Central Pollution Control Board It covers all the districts of India II. National Air Quality Index (NAQI) Commission for Air Quality Management in the National Capital Region and Adjoining Areas It communicates air quality in simple terms through One Number – One Color – One Description. III. System of Air Quality Forecasting and Research (SAFAR) Indian Institute of Tropical Meteorology (IITM) Apart from forecasting air quality it also provides forecasts on weather, emissions and UV radiation. In which of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Row I is incorrect. The Central Pollution Control Board is executing a nation-wide programme of ambient air quality monitoring known as National Air Quality Monitoring Programme (NAMP). Under NAMP, four air pollutants, viz, Sulphur Dioxide (SO2), Oxides of Nitrogen as NO2, Respirable Suspended Particulate Matter (RSPM / PM10) and Fine Particulate Matter (PM2.5) have been identified for regular monitoring at 966 operating stations in 419 cities/towns in 28 states and 7 Union Territories. It does not cover all the districts of India.\nRow II is incorrect. The AQI in India is developed and implemented by the Central Pollution Control Board (CPCB), not by the Commission for Air Quality Management (CAQM). It is a tool to communicate real-time air quality in simple terms—\"One Number – One Color – One Description\". It ranks air quality from 0–500 across six categories, ranging from \"Good\" to \"Severe,\" to indicate potential health impacts based on eight key pollutants (PM10, PM2.5, NO2, SO2, CO, O3, NH3, and Pb).\nRow III is correct. SAFAR is implemented under the MoES but is implemented by IITM, an autonomous institution of the MoES based in Pune, and the Indian Meteorological Department (IMD). It provides real-time air quality data and forecasts, and monitors a wide range of pollutants including PM1, PM10, PM2.5, O3, NO2, NO, NOx, CO, Organic Carbon (OC) and Black Carbon (BC), Hg, Benzene, Toulene, Xylene. It provides forecasting information on air quality and not simply monitors the quality of air. It now also provides forecasts on weather, emissions and UV radiation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q19",
+      "questionNumber": 19,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "In the context of Environmental Impact Assessment (EIA) rules in India, consider the following projects/activities:",
+        "I. Starting a petroleum refining project",
+        "II. Construction of highway projects of strategic importance, which are within 100 km from the Line of Control.",
+        "III. Development of a coal-based thermal power plant with a capacity of 600 MW.",
+        "Which of the above projects are most likely to require prior environmental clearance?"
+      ],
+      "questionText": "In the context of Environmental Impact Assessment (EIA) rules in India, consider the following projects/activities: I. Starting a petroleum refining project II. Construction of highway projects of strategic importance, which are within 100 km from the Line of Control. III. Development of a coal-based thermal power plant with a capacity of 600 MW. Which of the above projects are most likely to require prior environmental clearance?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Environmental Impact Assessment (EIA) is a statutory process under the Environment (Protection) Act, 1986, used to evaluate the likely environmental consequences of proposed projects before granting approval. Under the EIA Notification, 2006 (as amended), certain categories of projects mandatorily require prior Environmental Clearance (EC)\n\nStatement I is correct. As per the EIA framework, the petroleum refining industry requires mandated Environmental clearance.\nStatement II is incorrect. As per recent amendments to EIA rules, highway projects of strategic and defence importance within 100 km of the Line of Control (LoC) are specifically exempted from the requirement of prior EC.\nThis exemption is granted to facilitate faster execution of critical infrastructure projects in sensitive border areas.\n\nStatement III is correct. Thermal power plants above 500 MW capacity for coal/lignite-based plants are classified under Category A and mandatorily require prior Environmental Clearance. Thus, a coal-based thermal plant with 600 MW capacity will require prior environmental clearance from the appropriate authority.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Which of the following best describes the objective of “Operation Black Forest”, recently seen in the news?"
+      ],
+      "questionText": "Which of the following best describes the objective of “Operation Black Forest”, recently seen in the news?",
+      "options": {
+        "a": "An initiative aimed at reducing black carbon emissions by controlling large-scale forest fires.",
+        "b": "A programme focused on improving livelihood opportunities for Denotified Tribes.",
+        "c": "A coordinated drive to remove invasive plant species from Indian forest ecosystems.",
+        "d": "A specialised anti-Naxal military operation conducted by Indian security forces."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Operation Black Forest is the largest anti-Naxal operation conducted on the Karregutta hill, located along the Chhattisgarh–Telangana border. It was a joint operation of the Central Reserve Police Force (CRPF), Chhattisgarh Police, District Reserve Guard (DRG), and Commando Battalion for Resolute Action (CoBRA) The joint forces succeeded in destroying a major Naxal base camp, including their material dumps and supply chains on Karreguttalu hill. The security forces neutralized 27 dreaded Maoists",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Carbon dioxide (CO 2 ) emissions in India are less than 0.5 t CO 2 /capita.",
+        "II. In terms of CO 2 emissions from fuel combustion, India ranks second in the Asia-Pacific region.",
+        "III. Electricity and heat producers are the largest sources of CO 2 emissions in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. Carbon dioxide (CO 2 ) emissions in India are less than 0.5 t CO 2 /capita. II. In terms of CO 2 emissions from fuel combustion, India ranks second in the Asia-Pacific region. III. Electricity and heat producers are the largest sources of CO 2 emissions in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is incorrect: In 2022, India’s per capita emissions were 1.89 t CO2 per person. Per capita carbon dioxide (CO2) emissions in India have soared in recent decades, climbing from 0.4 metric tons per person in 1970 to a high of 2.07 metric tons per person in 2023.\nStatement II is correct: India ranks second in the Asia-Pacific region in terms of CO2 emissions from fuel combustion. China ranks first in the region, and India is second with 2,516.967 Mt CO2 emissions, according to data from the International Energy Agency (IEA).\nStatement III is correct: In India, electricity and heat production are the largest source of CO2 emissions. Specifically, the power sector, which is heavily reliant on coal, contributes significantly to the nation’s overall CO2 emissions, which directly impact climate change. In 2019, the power sector was responsible for about 70% of India’s total CO2 emissions, making it the single largest contributor.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q22",
+      "questionNumber": 22,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "Plastic pollution has a negative health impact because the pollutants in plastic pollution can be:",
+        "I. Carcinogenic",
+        "II. Neurotoxicant",
+        "III. Endocrine disruptor",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: Plastic pollution has a negative health impact because the pollutants in plastic pollution can be: I. Carcinogenic II. Neurotoxicant III. Endocrine disruptor Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The non-biodegradable character of plastics is a serious challenge. There are health impacts at each stage of the plastics life cycle. Plastics have thousands of hazardous additives (including carcinogens, neurotoxicants, endocrine disruptors) that can leach from products and waste, and persist in the environment, threatening humans and ecosystems. Studies also proved that plastics have affected reproductive abilities in animals.\nSome of the compounds associated with plastic life cycle include are: vinyl chloride, dioxins, benzene and bisphenol-A.\n\nStatement I is correct: Plastic pollution poses a significant, growing carcinogenic risk due to toxic additives like BPA and phthalates, and the ingestion of microplastics, which can lead to chronic inflammation and cancer. Thus, they are considered carcinogenic.\nStatement II is correct: Plastic pollution introduces neurotoxic chemicals, including phthalates and BPA, that threaten both marine and human health. Research indicates that microplastics can cross the blood-brain barrier and cause behavioral changes and oxidative damage.\nStatement III is correct: The plastics in our lives are not chemically neutral. They often contain Endocrine Disruptor Chemicals such as: Bisphenol A (BPA) and Bisphenol-S (BPS): Used in water bottles, food containers, and thermal paper. Phthalates (e.g., DEHP, DBP): Used to soften plastics and found in cosmetics, toys and IV tubing.\n- PFAS (Per-and polyfluoroalkyl substances): Found in food packaging and non-stick cookware.\nThese chemicals mimic or block natural hormones such as estrogen, testosterone, thyroid hormones, and cortisol. They interfere with receptor binding, disrupt gene expression in reproductive organs, and induce oxidative stress, inflammation, and apoptosis (cell death).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q23",
+      "questionNumber": 23,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "A contaminated industrial site contains complex pollutants that cannot be effectively degraded by the indigenous microbial population. To enhance the cleanup process, genetically modified bacteria are introduced into the soil to accelerate detoxification.",
+        "Which one of the following techniques is best described in the above scenario?"
+      ],
+      "questionText": "A contaminated industrial site contains complex pollutants that cannot be effectively degraded by the indigenous microbial population. To enhance the cleanup process, genetically modified bacteria are introduced into the soil to accelerate detoxification. Which one of the following techniques is best described in the above scenario?",
+      "options": {
+        "a": "Biosparging",
+        "b": "Bioaugmentation",
+        "c": "Bioventing",
+        "d": "Bioslurping"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Bioremediation involves the use of microorganisms to degrade pollutants in contaminated soil and water. Depending on site conditions and the capability of native microbes, different in-situ techniques such as biosparging, bioventing, bioaugmentation, and natural attenuation are used.\nOption a is incorrect. Biosparging involves injecting air or oxygen into the saturated zone (below water table) to increase oxygen availability and stimulate native microorganisms for degradation. It is mainly used for petroleum hydrocarbons like diesel and jet fuels.\nOption b is correct. Bioaugmentation refers to the introduction of specific or genetically modified microorganisms into a contaminated site to degrade pollutants that indigenous microbes cannot handle. For instance, genetically engineered bacteria like Pseudomonas species are introduced to degrade oil spills or toxic industrial chemicals.\nOption c is incorrect. Bioventing is an in-situ method where air is supplied to the unsaturated zone (above water table) to stimulate aerobic degradation by native microbes. It is commonly used for volatile organic compounds (VOCs) and petroleum hydrocarbons. For example, supplying oxygen to soil contaminated with gasoline vapors.\nOption d is incorrect. Bioslurping is the technique of vacuum-enhanced dewatering technology for the remediation of hydrocarbon-contaminated sites. It is the combination of two bioremedial processes, bioventing and vacuum-enhanced free-product recovery from groundwater and soil. The bioventing process stimulates the aerobic bioremediation of hydrocarbon-contaminated soils in situ. Vacuum-enhanced free-product recovery extracts light non-aqueous phase liquids (LNAPLs) from the capillary fringe and the water table.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to pollutants, their sources, and associated health impacts, consider the following information:",
+        "Pollutant Source Associated Health Disorder",
+        "I. Arsenic Coal-based Thermal power plants Knock-knee syndrome",
+        "II. Nitrates Untreated sewage Blue Baby Syndrome",
+        "III. Uranium Phosphate fertilizers Itai-Itai disease",
+        "IV. Fluoride Aluminium smelting Skeletal Fluorosis In which of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to pollutants, their sources, and associated health impacts, consider the following information: Pollutant Source Associated Health Disorder I. Arsenic Coal-based Thermal power plants Knock-knee syndrome II. Nitrates Untreated sewage Blue Baby Syndrome III. Uranium Phosphate fertilizers Itai-Itai disease IV. Fluoride Aluminium smelting Skeletal Fluorosis In which of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Row I is incorrect. Coal mining and coal combustion in thermal power plants (TPPs) are the major anthropogenic sources of arsenic (As) contamination in many different industrial regions. Arsenic exposure causes skin lesions, cancers, and arsenicosis, not knock-knees syndrome. Knock-knees are typically linked with fluoride toxicity.\nRow II is correct. Nitrates commonly enter water bodies through untreated sewage, agricultural runoff, and fertilizers. High nitrate levels in drinking water can cause Blue Baby Syndrome (methemoglobinemia) in infants, where oxygen transport in blood is impaired, leading to a bluish discoloration of the skin.\nRow III is incorrect. Trace amounts of uranium may be present in phosphate fertilizers but Itai-Itai disease is caused by cadmium poisoning, not uranium. Uranium is mainly associated with kidney damage and carcinogenic risks. Row IV is correct. Fluoride can be released from industrial activities such as aluminium smelting, and excessive fluoride intake leads to skeletal fluorosis, characterized by joint stiffness, bone deformities, and in severe cases, knock-knees.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen-carrying capacity, leading to suffocation and may cause even death?"
+      ],
+      "questionText": "Which one of the following air pollutants combines with the haemoglobin of human blood and reduces its oxygen-carrying capacity, leading to suffocation and may cause even death?",
+      "options": {
+        "a": "Chlorofluorocarbon",
+        "b": "Fly ash",
+        "c": "Carbon monoxide",
+        "d": "Sulphur dioxide"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The air pollutant that combines with the haemoglobin of human blood and reduces its oxygen carrying capacity, leading to suffocation and potential death is Carbon monoxide. Carbon monoxide can combine with the haemoglobin of human blood and form carboxyhaemoglobin, which reduces the oxygen-carrying capacity of the blood. This can lead to hypoxia, which is a condition where the tissues and organs do not receive enough oxygen.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q26",
+      "questionNumber": 26,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "In the context of global environmental pollution, the term “Grasshopper Effect” refers to:"
+      ],
+      "questionText": "In the context of global environmental pollution, the term “Grasshopper Effect” refers to:",
+      "options": {
+        "a": "Rapid biodegradation of pollutants in tropical regions.",
+        "b": "Accumulation of pollutants in soil due to agricultural practices.",
+        "c": "Long-range transport of persistent pollutants through repeated evaporation and condensation cycles.",
+        "d": "The sudden increase in local pollutant concentration due to the migratory patterns of insects."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Also known as global distillation, the Grasshopper Effect is a geochemical process where certain pollutants (specifically, Persistent Organic Pollutants (POPs) like DDT and PCBs) are transported over long distances from warmer tropical and temperate regions to colder polar regions. These chemicals are semi-volatile, meaning they evaporate into the atmosphere in warm climates. They are then carried by air currents toward the poles. When they encounter colder temperatures, they condense and settle back to the Earth’s surface through rain, snow, or dust.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q27",
+      "questionNumber": 27,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to fly ash, consider the following statements:",
+        "I. Its composition includes silicon dioxide (SiO 2 ), calcium oxide (CaO), and aluminum oxide (Al",
+        "2 O 3 ).",
+        "II. ASHTRACK is a web portal and app for better management of fly ash produced by thermal power plants.",
+        "III. It can be utilized as a soil conditioner to improve the water-holding capacity of soils.",
+        "IV. Fly ash bricks manufacturing units in India are listed under the red category of Industries as per the Central",
+        "Pollution Control Board classification of industries based on Pollution index.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to fly ash, consider the following statements: I. Its composition includes silicon dioxide (SiO 2 ), calcium oxide (CaO), and aluminum oxide (Al 2 O 3 ). II. ASHTRACK is a web portal and app for better management of fly ash produced by thermal power plants. III. It can be utilized as a soil conditioner to improve the water-holding capacity of soils. IV. Fly ash bricks manufacturing units in India are listed under the red category of Industries as per the Central Pollution Control Board classification of industries based on Pollution index. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Fly ash is a fine, powdery residue generated as a by-product of coal combustion in thermal power plants. The term \"fly ash\" includes all ash generated such as Electrostatic Precipitator (ESP) ash, dry fly ash, bottom ash, pond ash and mound ash. Its composition, rich in silicon dioxide (SiO2), calcium oxide (CaO), and aluminum oxide (Al2O3).\nStatement II is correct: ASHTRACK is a mobile application and web portal launched by the Ministry of Power for better management of fly ash produced by thermal power plants by providing an interface between fly ash producers (Thermal Power Plants) and potential ash users such as – road contractors, cement plants etc.\nStatement III is correct: In agriculture, fly ash is effectively utilized as a soil conditioner. It helps improve the water-holding capacity of the soil and enhances its aeration and texture. Additionally, it provides essential micronutrients like iron, magnesium, and potassium to the crops.\nStatement IV is incorrect: As per the Central Pollution Control Board classification of industries based on the pollution index, fly ash brick manufacturing units without boilers in India are listed under green and manufacturing units with boilers are classified under orange category.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q28",
+      "questionNumber": 28,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to Chromium, consider the following statements:",
+        "I. The leather tanning industry is a major source of chromium pollution.",
+        "II. Chromium contamination in agricultural soil reduces soil microbial activity.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Chromium, consider the following statements: I. The leather tanning industry is a major source of chromium pollution. II. Chromium contamination in agricultural soil reduces soil microbial activity. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Chromium compounds, especially hexavalent chromium, are extensively used in leather tanning processes. Effluents from tanning industries are a major contributor to chromium contamination in water and soil. This leads to severe groundwater and soil contamination.\nStatement II is correct: Chromium contamination adversely affects soil microorganisms by disrupting enzymatic activity and metabolic functions. This leads to reduced microbial population and activity, impairing soil fertility and nutrient cycling. High concentrations of chromium inhibit the growth of essential soil bacteria and fungi.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q29",
+      "questionNumber": 29,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Under the E-Waste (Management) Amendment Rules, 2024, who among the following shall fix the highest and lowest price for exchange of extended producer responsibility (EPR) certificates on the platform for exchange or transfer of EPR certificates?"
+      ],
+      "questionText": "Under the E-Waste (Management) Amendment Rules, 2024, who among the following shall fix the highest and lowest price for exchange of extended producer responsibility (EPR) certificates on the platform for exchange or transfer of EPR certificates?",
+      "options": {
+        "a": "Bureau of Indian Standards (BIS)",
+        "b": "Securities and Exchange Board of India (SEBI)",
+        "c": "Central Pollution Control Board (CPCB)",
+        "d": "The Energy and Resources Institute (TERI)"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Option c is the correct answer.: As per the E-Waste (Management) Amendment Rules, 2024, the Central Government may, by order, establish one or more platforms for the exchange or transfer of Extended Producer Responsibility (EPR) certificates. The operation of these platforms is regulated in accordance with the recommendations of the Central Pollution Control Board (CPCB).\nThe CPCB is responsible for the technical framework, including the generation, verification, and audit of these certificates. The Central Pollution Control Board shall fix the highest (100%) and lowest price (30%) for exchange of extended producer responsibility certificates of the environmental compensation for non-fulfilment of the extended producer responsibility obligation under the E-Waste (Management) Amendment Rules, 2024",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements regarding the World Food Programme (WFP):",
+        "I. Food and Agriculture Organization was instrumental in the establishment of the World Food Programme.",
+        "II It is one of the agencies of the United Nations.",
+        "III. Its operations are entirely funded through the voluntary contributions from donors.",
+        "IV. It was awarded the Nobel Peace Prize in 2020.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the World Food Programme (WFP): I. Food and Agriculture Organization was instrumental in the establishment of the World Food Programme. II It is one of the agencies of the United Nations. III. Its operations are entirely funded through the voluntary contributions from donors. IV. It was awarded the Nobel Peace Prize in 2020. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I, II and III only",
+        "c": "II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** India recently launched a new collaborative initiative with the support of the UN World Food Programme to strengthen Rice Fortification and Supply Chain Management in Nepal. This initiative is part of India-UN Global Capacity Building Initiative.\nStatement I is correct. WFP was established in 1961 by the United Nations General Assembly & Food and Agriculture Organization (FAO).\n\nStatement II is correct. The World Food Programme (WFP) is a UN agency dedicated to ending hunger, achieving food security, and improving nutrition.\nWorld Food Programme (WFP) is an international organization within the United Nations (UN) that provides food assistance worldwide. The World Food Programme aims to eradicate hunger and malnutrition.\nIt is an executive member of the United Nations Sustainable Development Group, with a priority to achieve SDG 2, “zero hunger”, by 2030. It is headquartered in Rome and has offices in 87 countries.\nStatement III is correct. Its operations are entirely funded through the voluntary contributions of donor governments, institutions, corporations and individuals.\nStatement IV is correct. The World Food Programme (WFP) was awarded the Nobel Peace Prize in 2020.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q31",
+      "questionNumber": 31,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Which of the following is/are the possible consequence/s of heavy sand mining in river beds?",
+        "1. Decreased salinity in the river",
+        "2. Pollution of groundwater",
+        "3. Lowering of the water table",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following is/are the possible consequence/s of heavy sand mining in river beds? 1. Decreased salinity in the river 2. Pollution of groundwater 3. Lowering of the water table Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Option 1 is incorrect: Decreased salinity is not a likely consequence of heavy sand mining in riverbeds. In fact, heavy sand mining can actually increase the salinity of rivers by removing sand, which acts as a natural filter.\nOption 2 is correct: Pollution of groundwater is a very likely consequence of heavy sand mining in riverbeds. Sand mining can disturb and pollute groundwater aquifers, especially in areas with shallow aquifers. This can lead to contamination of drinking water supplies with heavy metals, chemicals, and other pollutants.\nOption 3 is correct: Lowering of water table is also a very likely consequence of heavy sand mining in riverbeds. Sand mining can lower the water table by removing sand, which acts as a sponge that stores water. This can lead to water shortages and other problems for communities that rely on groundwater for drinking and irrigation.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q32",
+      "questionNumber": 32,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements with respect to the C-FLOOD:",
+        "I. It is a web-based platform that provides two days' advance inundation forecasts up to the village level.",
+        "II. It provides information about storage levels of water in important reservoirs in the country.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to the C-FLOOD: I. It is a web-based platform that provides two days' advance inundation forecasts up to the village level. II. It provides information about storage levels of water in important reservoirs in the country. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: C-FLOOD (Coastal Flood Warning System) a web-based platform. It provides two days' advance inundation forecasts up to village level in the form of inundation maps and water level predictions. Some of its features are:\n- C-Flood integrates flood inundation output information derived from advanced 2D hydrodynamic modelling with extent and depth information.\n- It has been designed to serve as a unified inundation information system integrating flood modelling outputs from national and regional agencies for all river basins as per their respective action plans. It covers inundation forecasts for the Godavari, Tapi and Mahanadi River Basins in the initial phase.\nStatement II is incorrect: Central Water Commission (CWC) monitors the live storage position of 161 important reservoirs spread all over the country and issues bulletins regarding the same every Thursday.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q33",
+      "questionNumber": 33,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "In the context of global risk management, which of the following best describes a ‘Grey Rhino’ event?"
+      ],
+      "questionText": "In the context of global risk management, which of the following best describes a ‘Grey Rhino’ event?",
+      "options": {
+        "a": "A highly improbable event that has massive impacts and is rationalized in hindsight.",
+        "b": "A highly probable, high-impact threat which was ignored despite visible warning signs.",
+        "c": "A gradual and insignificant risk that has minimal long-term impact.",
+        "d": "A sudden, localized surge in pollution levels in an area due to industrial accidents."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A ‘Grey Rhino’ event refers to a highly probable and high-impact threat that is obvious and visible, yet neglected or insufficiently addressed by decision-makers. Unlike unexpected “Black Swan” events, Grey Rhino risks are known dangers. Ex: climate change. It contrasts with “black swan events” (rare, unpredictable) and focuses on obvious but ignored risks. This framework emphasizes that disasters can be averted through proactive risk management, strict environmental regulations, and acting on ecological reports before they become catastrophes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q34",
+      "questionNumber": 34,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following pollutants:",
+        "I. Sulphur dioxide (SO₂)",
+        "II. Nitrogen oxides (NOₓ)",
+        "III. Methane (CH₄)",
+        "IV. Ammonia (NH₃)",
+        "Which of the pollutants given above are included under the Gothenburg Protocol which aims at reducing long-range transboundary air pollution?"
+      ],
+      "questionText": "Consider the following pollutants: I. Sulphur dioxide (SO₂) II. Nitrogen oxides (NOₓ) III. Methane (CH₄) IV. Ammonia (NH₃) Which of the pollutants given above are included under the Gothenburg Protocol which aims at reducing long-range transboundary air pollution?",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Gothenburg Protocol is a multi-pollutant protocol adopted in 1999 under the framework of the Convention on Long-Range Transboundary Air Pollution (CLRTAP), overseen by the United Nations Economic Commission for Europe (UNECE). It aims to control and reduce emissions of air pollutants that cause:\n- Acidification of soils and water bodies-Eutrophication of ecosystems (due to excess nitrogen)\n- Formation of ground-level ozone (smog)\nPollutants Targeted Under the Protocol: 1. Sulphur Dioxide (SO₂) – major cause of acid rain. 2. Nitrogen Oxides (NOₓ) – contributes to both acid rain and smog.\n3. Ammonia (NH₃) – contributes to eutrophication and formation of fine particulate matter (PM2.5). 4. Volatile Organic Compounds (VOCs) – precursors of ground-level ozone.\nMethane (CH₄) is not covered under the Gothenburg Protocol.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to Chemical Oxygen Demand (COD), consider the following statements:",
+        "I. It is a measure of the oxygen equivalent required to chemically oxidize total organic matter present in water.",
+        "II. COD values are generally lower than Biological Oxygen Demand (BOD) values for the same water sample.",
+        "III. In distilled water, the COD value is zero or nearly zero.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Chemical Oxygen Demand (COD), consider the following statements: I. It is a measure of the oxygen equivalent required to chemically oxidize total organic matter present in water. II. COD values are generally lower than Biological Oxygen Demand (BOD) values for the same water sample. III. In distilled water, the COD value is zero or nearly zero. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "III only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. Chemical Oxygen Demand (COD) is an important indicator of water quality and pollution level. It measures the total oxygen required to chemically oxidize all oxidizable substances in water, including both biodegradable and non-biodegradable organic matter.\nStatement II is incorrect. COD values are always higher than BOD values for a given sample because COD includes oxidation of both biodegradable and non-biodegradable substances, whereas BOD measures only biodegradable organic matter.\nStatement III is correct. Distilled water is free from organic pollutants and most inorganic reducing substances. Since COD depends on the presence of oxidizable material, pure distilled water shows negligible or zero COD. This is why distilled water is often used as a blank sample in COD experiments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q36",
+      "questionNumber": 36,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The 'Global Drought Outlook, 2025' report was released by which of the following organizations?"
+      ],
+      "questionText": "The 'Global Drought Outlook, 2025' report was released by which of the following organizations?",
+      "options": {
+        "a": "United Nations Convention to Combat Desertification (UNCCD)",
+        "b": "World Meteorological Organization (WMO)",
+        "c": "Organisation for Economic Cooperation and Development (OECD)",
+        "d": "Food and Agriculture Organization (FAO)"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The ‘Global Drought Outlook, 2025’ is released by the Organisation for Economic Co-operation and Development (OECD). It provides a comprehensive, evidence-based assessment of how drought trends and impacts are evolving under climate change and identifies policy responses for effective adaptation. According to the report, countries like India, Australia, etc. may face water-related disruptions in the operations of hydroelectric power stations. Crop yields can decline by up to 22% in India. There will be 3%\n- 7.5% annual increase in the economic cost of an average drought event in countries like India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q37",
+      "questionNumber": 37,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to Methane, consider the following statements:",
+        "I. It is a short-lived climate pollutant.",
+        "II. It is the second-largest contributor to global warming after carbon dioxide.",
+        "III. The Global Methane Pledge targets a minimum 60% reduction in global methane emissions from 2020 levels by",
+        "2030.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Methane, consider the following statements: I. It is a short-lived climate pollutant. II. It is the second-largest contributor to global warming after carbon dioxide. III. The Global Methane Pledge targets a minimum 60% reduction in global methane emissions from 2020 levels by 2030. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Methane is a potent greenhouse gas that plays a critical role in the Earth's climate system.\nStatement I is correct: Methane is much more effective at trapping heat than carbon dioxide; its Global Warming Potential (GWP) is over 80 times that of CO2 over a 20-year period. However, it has a much shorter atmospheric lifespan (approximately 12 years) compared to carbon dioxide, which can persist for centuries.\nStatement II is correct: Methane is the second-largest contributor to global warming after carbon dioxide. Methane is the second most abundant anthropogenic greenhouse gas after carbon dioxide (CO2). It is responsible for approximately 30% (nearly one-third) of the rise in global temperatures since the Industrial Revolution.\nStatement III is incorrect: Launched at COP26, the Global Methane Pledge is a voluntary international initiative aimed at cutting global methane emissions by at least 30% from 2020 levels by 2030. India, the world’s third-largest methane emitter.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following substances:",
+        "I. Chlorofluorocarbons (CFCs).",
+        "II. Hydrochlorofluorocarbons (HCFCs).",
+        "III. Hydrofluorocarbons (HFCs).",
+        "IV. Carbon tetrachloride.",
+        "How many of the above are major Ozone Depleting Substances (ODS)?"
+      ],
+      "questionText": "Consider the following substances: I. Chlorofluorocarbons (CFCs). II. Hydrochlorofluorocarbons (HCFCs). III. Hydrofluorocarbons (HFCs). IV. Carbon tetrachloride. How many of the above are major Ozone Depleting Substances (ODS)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option I is correct: Chlorofluorocarbons are highly stable chemicals that do not break down in the lower atmosphere. Once they reach the stratosphere, ultraviolet radiation dissociates them, releasing chlorine atoms that destroy ozone molecules. They are characterized by a high Ozone Depletion Potential (ODP).\nOption II is correct: Hydrochlorofluorocarbons contain hydrogen, which makes them less stable. A significant portion breaks down in the lower atmosphere before reaching the ozone layer. Hence, they have a much lower ODP (0.01 to 0.1).\nOption III is incorrect: Hydrofluorocarbons contain no chlorine or bromine atoms, which are the primary catalysts for ozone destruction. As they do not participate in the chemical reactions that deplete the ozone layer, their Ozone Depletion Potential is near zero.\nOption IV is correct: Carbon tetrachloride is a powerful ozone-depleting substance that was widely used as a solvent. Like CFCs, it is very stable and releases large amounts of chlorine into the stratosphere. It has a high Ozone Depletion Potential (ODP).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q39",
+      "questionNumber": 39,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The term 'LICOMK++', which was recently in the news, is best described as which of the following?"
+      ],
+      "questionText": "The term 'LICOMK++', which was recently in the news, is best described as which of the following?",
+      "options": {
+        "a": "A high-performance supercomputing cluster for weather forecasting in the Himalayan region.",
+        "b": "A high-resolution global ocean simulation system used for studying ocean dynamics.",
+        "c": "An AI-based platform for predicting monsoon variability in tropical regions.",
+        "d": "A deep-sea exploration vehicle designed for mapping ocean floors."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Chinese researchers have recently developed a high-resolution ocean simulation system called LICOMK++ to better study ocean and climate patterns. LICOMK++ is a high-resolution global ocean general circulation model (OGCM). It is a high-resolution global ocean circulation model used for studying ocean dynamics, heat transport, and climate interactions. It is primarily used in climate research and numerical simulations of ocean processes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Area of conflict mentioned in News Country where it is located",
+        "I. Deir el-Balah Sudan",
+        "II. Khartoum Somalia",
+        "III. Donetsk Ukraine",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Area of conflict mentioned in News Country where it is located I. Deir el-Balah Sudan II. Khartoum Somalia III. Donetsk Ukraine How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is incorrect. Deir al-Balah is a city of Gaza, Palestine. The United Nations has declared a famine in Gaza in August 2025, as nearly 500,000 people are at risk of starvation. Pair II is incorrect. Khartoum is in Sudan. Sudan descended into civil war in April 2023 due to a violent power struggle between the national army and the paramilitary Rapid Support Force (RSF).\nPair III is correct. Donetsk is an industrial city in Ukraine. Parts of Donetsk are now controlled by Russia.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q41",
+      "questionNumber": 41,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to ‘Direct Air Capture’, an emerging technology, which of the following statements is/are correct?",
+        "I. It can be used as a way of carbon sequestration.",
+        "II. It can be a valuable approach for plastic production and in food processing.",
+        "III. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "With reference to ‘Direct Air Capture’, an emerging technology, which of the following statements is/are correct? I. It can be used as a way of carbon sequestration. II. It can be a valuable approach for plastic production and in food processing. III. In aviation, it can be a source of carbon for combining with hydrogen to create synthetic low-carbon fuel. Select the correct answer using the code given below.",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I, II and III",
+        "d": "None of the above statements is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Direct air capture (DAC) is a method that can be used for carbon sequestration, also known as direct air carbon capture and sequestration (DACCS). DACCS involves extracting carbon dioxide (CO2) directly from the atmosphere using chemical or physical processes, followed by the long-term storage of that captured CO2, effectively removing it from the atmosphere.\nStatement II is correct: Direct air capture (DAC) can be a valuable approach for certain aspects of plastic production and food processing by utilizing captured CO2. DAC extracts CO2 from the atmosphere, which can then be used as a feedstock for producing some types of plastics and in food production processes.\nStatement III is correct: Direct air capture (DAC) technology can be used in aviation to create synthetic low-carbon fuels. DAC extracts carbon dioxide (CO2) from the atmosphere. This captured CO2 can then be combined with hydrogen, which can be produced through renewable energy sources, to create synthetic fuels like e-fuels",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q42",
+      "questionNumber": 42,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The “Global Alliance to Eliminate Lead Paint” is established by:"
+      ],
+      "questionText": "The “Global Alliance to Eliminate Lead Paint” is established by:",
+      "options": {
+        "a": "United Nations Environment Programme (UNEP) and the World Health Organization (WHO)",
+        "b": "United Nations Development Programme (UNDP) and World Bank (WB)",
+        "c": "Food and Agriculture Organization (FAO) and United Nations Environment Programme (UNEP)",
+        "d": "World Bank (WB) and United Nations Environment Programme (UNEP)"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Global Alliance to Eliminate Lead Paint (Lead Paint Alliance) is a global voluntary partnership established to prevent human exposure to lead from paints. This partnership was formed jointly by the United Nations Environment Programme (UNEP) and the World Health Organization (WHO). The primary objective of the alliance is to promote the phase-out of the manufacture and sale of paints containing lead and to eliminate the health risks associated with lead exposure, particularly for children and workers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q43",
+      "questionNumber": 43,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to Photochemical smog, consider the following statements:",
+        "Statement I: It is generally more prevalent during the summer months compared to winter.",
+        "Statement II: It is oxidising in nature.",
+        "Statement III: The increased solar radiation and high temperatures during the summer months drive the necessary chemical reaction for its formation.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Photochemical smog, consider the following statements: Statement I: It is generally more prevalent during the summer months compared to winter. Statement II: It is oxidising in nature. Statement III: The increased solar radiation and high temperatures during the summer months drive the necessary chemical reaction for its formation. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Photochemical smog occurs in warm, dry, and sunny climates. Thus the photochemical smog is more prevalent during the summer months compared to winter.\nStatement II is correct: Photochemical smog is characterized by a high concentration of oxidizing agents, primarily ozone (O3), peroxyacetyl nitrate (PAN), and nitric acid. Because these components are capable of oxidizing other substances, the smog is fundamentally oxidizing in nature.\nStatement II does not explain Statement I: Being oxidizing or reducing does not explain why the photochemical smogs are prevalent during the summer.\nStatement III is correct: Photochemical smog formation is highly dependent on two key factors: intense sunlight and high temperatures. The summer months provide both conditions optimally. The increased solar radiation drives the necessary chemical reactions, such as the photolysis of nitrogen dioxide, more vigorously. Higher temperatures also accelerate the reaction rates, leading to faster and greater accumulation of ground-level ozone and other secondary pollutants.\nStatement III explains Statement I: Photochemical Smog is generally more prevalent during the summer months compared to winter. This is because intense solar radiation is a necessary catalyst for the chemical reactions between primary pollutants, such as nitrogen oxides (NOx) and volatile organic compounds (VOCs).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q44",
+      "questionNumber": 44,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the possible effects of Acid Rain, consider the following statements:",
+        "I. The leaching of essential plant nutrients such as calcium and magnesium from the soil.",
+        "II. The destruction of beneficial nitrogen-fixing bacteria in the soil, thereby hindering plant growth.",
+        "III. Enhancing dissolved organic carbon (DOC) levels in lakes, thereby reducing UV penetration.",
+        "IV. Deterioration of exposed limestone and marble-based structures.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the possible effects of Acid Rain, consider the following statements: I. The leaching of essential plant nutrients such as calcium and magnesium from the soil. II. The destruction of beneficial nitrogen-fixing bacteria in the soil, thereby hindering plant growth. III. Enhancing dissolved organic carbon (DOC) levels in lakes, thereby reducing UV penetration. IV. Deterioration of exposed limestone and marble-based structures. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I and II only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Acid rain increases the acidity of the soil, which triggers a process where essential nutrients such as calcium, magnesium, and potassium are leached (washed away) from the topsoil.\nStatement II is correct: High acidity in the soil can kill or inhibit beneficial microorganisms, including nitrogen-fixing bacteria.\n\nStatement III is incorrect: Acid rain actually decreases the concentration of dissolved organic carbon (DOC) in lakes. Because DOC acts as a natural \"sunscreen\" that blocks harmful radiation, its reduction leads to increased UV penetration deeper into the water.\nStatement IV is correct: Acid rain is highly damaging to marble and limestone structures. It reacts with the calcium carbonate in the stone to form gypsum, which is soluble and flakes off easily. This causes corrosion and discoloration of monuments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Which one of the following is the best description of “INS Udayagiri” and “INS Himgiri” which were seen recently in the news?"
+      ],
+      "questionText": "Which one of the following is the best description of “INS Udayagiri” and “INS Himgiri” which were seen recently in the news?",
+      "options": {
+        "a": "Nuclear-powered submarine",
+        "b": "Torpedo launch and recovery vehicle",
+        "c": "Coastal surveillance vessels",
+        "d": "Stealth guided-missile frigates"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** INS Udayagiri and INS Himgiri are the latest Project 17A (P-17A) multi-mission stealth frigates commissioned by the Indian Navy at Naval Base Visakhapatnam. The P-17A class represents a major technological upgrade over the earlier P17 Shivalik-class, featuring enhanced stealth shaping, an improved hull design, and upgraded weapon and sensor suites. A total of seven frigates are being constructed under Project 17A such as INS Nilgiri, Udayagiri, Himgiri, Taragiri, Mahendragiri, Dunagiri, and Vindhyagiri, all of which will join the Eastern Fleet, strengthening India’s maritime power projection across the Indian Ocean Region (IOR).\nThese frigates use a modern CODOG propulsion system (Combined Diesel or Gas), enabling high-speed manoeuvrability and long-range endurance. They are equipped with an Integrated Platform Management System, advanced indigenous weapons and sensors, and are capable of performing the full spectrum of maritime operations in blue-water conditions, including anti-air, anti-surface, and anti-submarine warfare.\nWith around 75% indigenous content, supported extensively by Indian MSMEs, Project 17A is a major milestone in advancing Aatmanirbhar Bharat in defence manufacturing.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "How many times do the hour hand and the minute hand form a right angle in a clock between 1:00 p.m. and 5:00 p.m. (same day)?"
+      ],
+      "questionText": "How many times do the hour hand and the minute hand form a right angle in a clock between 1:00 p.m. and 5:00 p.m. (same day)?",
+      "options": {
+        "a": "6 times",
+        "b": "7 times",
+        "c": "8 times",
+        "d": "9 times"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** For the hands of a clock to form a right angle, the angle between them must be: 90° or 270° Let the time be h : m, where h is the hour and m is the minutes.\nThen:\n- Angle made by the hour hand = 30h + 0.5m-Angle made by the minute hand = 6m So the angle difference is: |30h − 5.5m| For a right angle: |30h − 5.5m| = 90 This gives: 30h − 5.5m = 90 or 30h − 5.5m = −90 Now check the interval from 1:00 p.m. to 5:00 p.m.\nBetween 1 and 2: Two right angles occur. Between 2 and 3: One right angle occurs before 3:00, and one occurs exactly at 3:00. Between 3 and 4: One new right angle occurs after 3:00. Between 4 and 5: Two right angles occur. So total number of times = 2 + 1 + 1 + 1 + 2 = 7",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q47",
+      "questionNumber": 47,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The total cost of 5 proteins, 8 creatines and 10 aminos is equal to three times the total cost of 1 protein, 3 creatines and 2 aminos. In this context consider the following statements:",
+        "I. The total cost of 5 proteins, 4 creatines and 12 aminos is equal to the total cost of 3 proteins, 5 creatines and 8 aminos.",
+        "II. The total cost of 1 creatine and 4 aminos is equal to the cost of 2 proteins.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "The total cost of 5 proteins, 8 creatines and 10 aminos is equal to three times the total cost of 1 protein, 3 creatines and 2 aminos. In this context consider the following statements: I. The total cost of 5 proteins, 4 creatines and 12 aminos is equal to the total cost of 3 proteins, 5 creatines and 8 aminos. II. The total cost of 1 creatine and 4 aminos is equal to the cost of 2 proteins. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Let the cost of:\n- 1 protein = p-1 creatine = c-1 amino = a Given: 5p + 8c + 10a = 3(p + 3c + 2a) 5p + 8c + 10a = 3p + 9c + 6a 5p − 3p + 8c − 9c + 10a − 6a = 0 2p − c + 4a = 0 So the relation is: 2p − c + 4a = 0 or 2p + 4a = c\nStatement I is correct: 5p + 4c + 12a = 3p + 5c + 8a Take the difference: (5p + 4c + 12a) − (3p + 5c + 8a) = 2p − c + 4a But from the given relation: 2p − c + 4a = 0 So both sides are equal.\nStatement II is incorrect: c + 4a = 2p But from the relation obtained: 2p − c + 4a = 0 This gives: 2p + 4a = c Or c = 2p + 4a This is not the same as: c + 4a = 2p",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "125⁴ + 25⁷ is divisible by"
+      ],
+      "questionText": "125⁴ + 25⁷ is divisible by",
+      "options": {
+        "a": "11",
+        "b": "17",
+        "c": "65",
+        "d": "19"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** First express both terms as powers of 5: 125⁴ = (5³)⁴ = 5¹² 25⁷ = (5²)⁷ = 5¹⁴ So, 125⁴ + 25⁷ = 5¹² + 5¹⁴ Take 5¹² common:\n125⁴ + 25⁷ = 5¹²(1 + 5²) = 5¹²(1 + 25) = 5¹² × 26 = 5¹² × 2 × 13 So the expression is divisible by: 5 × 13 = 65",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q49",
+      "questionNumber": 49,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 India’s rural economy continues to be shaped by the uncertainties of water availability. While large irrigation projects often dominate public discourse, nearly 52 per cent of the country’s gross cropped area remains rainfed. In this context, watershed development deserves renewed attention as a central pillar of India’s strategy for sustainable rural growth. Structures such as check dams, farm ponds, contour bunds and percolation tanks have been associated with rises in groundwater levels, expansion of irrigated area and increases in cropping intensity often ranging from 10-20 percentage points. Such improvements allow farmers to diversify into horticulture, pulses and other higher value crops. The economic impact of watershed development extends beyond crop output. Improved water availability often stimulates investments in livestock, agro processing and small rural enterprises. Watershed programmes also interact closely with rural infrastructure development. Increased water security encourages the creation of farm level assets, minor irrigation channels and storage facilities. Taken together, these outcomes demonstrate that managing water at the micro catchment level can generate macro economic dividends.",
+        "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 India’s rural economy continues to be shaped by the uncertainties of water availability. While large irrigation projects often dominate public discourse, nearly 52 per cent of the country’s gross cropped area remains rainfed. In this context, watershed development deserves renewed attention as a central pillar of India’s strategy for sustainable rural growth. Structures such as check dams, farm ponds, contour bunds and percolation tanks have been associated with rises in groundwater levels, expansion of irrigated area and increases in cropping intensity often ranging from 10-20 percentage points. Such improvements allow farmers to diversify into horticulture, pulses and other higher value crops. The economic impact of watershed development extends beyond crop output. Improved water availability often stimulates investments in livestock, agro processing and small rural enterprises. Watershed programmes also interact closely with rural infrastructure development. Increased water security encourages the creation of farm level assets, minor irrigation channels and storage facilities. Taken together, these outcomes demonstrate that managing water at the micro catchment level can generate macro economic dividends. Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+      "options": {
+        "a": "Watershed development contributes to increased water availability by groundwater recharge mechanisms.",
+        "b": "Local level interventions are needed to resolve the problem of water scarcity in rural India.",
+        "c": "Efficient micro-level water management can generate tangible and sustained economic gains for the rural economy.",
+        "d": "Watershed development reduces the dependence of agricultural output on uncertain rainfall."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. The passage states “Structures such as check dams, farm ponds, contour bunds and percolation tanks have been associated with rises in groundwater levels”. However, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it focuses on only one part of the passage.\nStatement b is incorrect. While the passage talks about watershed development as a measure to resolve the problem of water scarcity in rural India, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it does not talk about watershed development.\nStatement c is correct. It best reflects the most logical and rational inference that can be drawn from the passage as it highlights the role of watershed development in resolving the problem of water scarcity in rural India It is mentioned in the passage as “managing water at the micro catchment level can generate macro economic dividends.” Statement d is incorrect. The passage states “While large irrigation projects often dominate public discourse, nearly 52 per cent of the country’s gross cropped area remains rainfed. In this context, watershed development deserves renewed attention”. However, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it focuses on only one part of the passage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test18-q50",
+      "questionNumber": 50,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. Rural India is experiencing severe water scarcity due to declining groundwater levels.",
+        "II. Large scale irrigation projects cannot solve the problem of water scarcity in rural India.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. Rural India is experiencing severe water scarcity due to declining groundwater levels. II. Large scale irrigation projects cannot solve the problem of water scarcity in rural India. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage states “India’s rural economy continues to be shaped by the uncertainties of water availability”, it does not attribute water scarcity specifically to declining groundwater levels. Therefore, assumption made in\n\nstatement I is incorrect.\nStatement II is incorrect. Though the passage states that large irrigation projects often dominate public discourse and that nearly 52 per cent of the country’s gross cropped area remains rainfed, it does not discuss the status of their (large irrigation projects) implementation or their efficiency. Therefore, assumption made in\n\nstatement II is incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

@@ -1,0 +1,1883 @@
+{
+  "id": "forum-sfg-2026-level-2-science-test13",
+  "title": "Test 13- L2 SFG 2026 - Sectional - Science   Technology",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q01",
+      "questionNumber": 1,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "What is the reason for Non-Metals to be a bad conductor of electricity?"
+      ],
+      "questionText": "What is the reason for Non-Metals to be a bad conductor of electricity?",
+      "options": {
+        "a": "High melting point at normal temperature",
+        "b": "Excessive free protons around nucleus",
+        "c": "Absence of readily available free electrons",
+        "d": "Low resistance to external factors"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Conduction takes place due to the movement of the electrons. Most of the metals are considered as good conductors of electricity. This is because when metal atoms combine with each other, the outermost electrons lose contact with their parent atoms. The remaining positively charged atomic centers form an ordered structure while the outer electrons move freely around the whole sample. On the other hand, in case of non-metals the conduction electrons are held tightly by the nucleus. So, they cannot move easily which means they do not have readily available free electrons. Hence, the non-metals are not good conductors of electricity.\nHowever, non-metals can also become good conductors of electricity if external energy is applied to them, which makes the conduction electrons feasible. Therefore, Non-metals are considered as insulators because they have extremely high resistance to the flow of charge through them. The atoms hold onto their electrons tightly and so they cannot conduct electricity.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q02",
+      "questionNumber": 2,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Generally, the girls have a high-pitched voice, whereas boys have a deep voice.",
+        "Statement II: Generally, the larynx or voice box in boys is smaller than in girls.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Generally, the girls have a high-pitched voice, whereas boys have a deep voice. Statement II: Generally, the larynx or voice box in boys is smaller than in girls. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct and\n\nStatement II is incorrect: At puberty, the voice box or the larynx begins to grow. Boys develop larger voice boxes. The growing voice box in boys can be seen as a protruding part of the throat called Adam’s apple. While in girls, the larynx is hardly visible from the outside because of its small size.\nThus, generally, the girls have a high pitched voice, whereas boys have a deep voice.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/hesc107.pdf (Page 81-82"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q03",
+      "questionNumber": 3,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The boiling point of water generally decreases with increasing altitude.",
+        "Statement II: With increasing altitude, the atmospheric pressure generally decreases.",
+        "Statement III: The atmospheric temperature generally decreases with increase in altitude.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The boiling point of water generally decreases with increasing altitude. Statement II: With increasing altitude, the atmospheric pressure generally decreases. Statement III: The atmospheric temperature generally decreases with increase in altitude. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+        "c": "Only one of the Statement II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The concept of boiling point is closely linked with atmospheric pressure. A liquid boils when its vapour pressure becomes equal to the surrounding pressure. Therefore, any change in external pressure directly affects the temperature at which boiling occurs.\nStatement I is correct. At higher altitudes, water boils at a lower temperature. The boiling point of water generally decreases with increasing altitude. This happens because the surrounding atmospheric pressure is less. As a result, the vapour pressure of water matches the external pressure at a lower temperature, leading to an early boiling point.\nStatement II is correct. Atmospheric pressure decreases with altitude. This is because the density of air reduces as we go higher, and there is less weight of air pressing down.\nStatement III is correct. Temperature generally decreases with increase in altitude due to expansion and cooling of rising air. Only Statement II explains Statement I. The decrease in boiling point is directly due to the reduction in atmospheric pressure. Lower pressure means the liquid requires less temperature to boil. Although temperature is lower at higher altitudes, it does not control the boiling point. The boiling point depends on pressure, not on the surrounding temperature.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q04",
+      "questionNumber": 4,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "A γ-rays (Gamma-rays) can be deflected:"
+      ],
+      "questionText": "A γ-rays (Gamma-rays) can be deflected:",
+      "options": {
+        "a": "By a magnetic field.",
+        "b": "By an electric field.",
+        "c": "By both electric and magnetic fields.",
+        "d": "Neither by electric field nor by magnetic field."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Alpha and beta radiations are charged in nature. Alpha is positively charged and beta is negatively charged. Hence, these are deflected in an electric or magnetic field whereas gamma radiations are uncharged particles and therefore cannot deflect in an electric or magnetic field. The γ-rays are high energy radiations like X-rays, are neutral in nature and do not consist of particles. Gamma rays are unaffected by a magnetic field which shows gamma rays are uncharged as they do not experience a force when passing through the lines of a magnetic field. Gamma rays are highly energetic waves with no charge.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kech102.pdf (Page 33-34)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q05",
+      "questionNumber": 5,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Sublimation is the direct transition of a substance from solid state to vapour state. In this context, consider the following substances:",
+        "I. Iodine",
+        "II. Naphthalene",
+        "III. Camphor",
+        "IV. Dry Ice",
+        "How many of the above substances undergo sublimation on heating?"
+      ],
+      "questionText": "Sublimation is the direct transition of a substance from solid state to vapour state. In this context, consider the following substances: I. Iodine II. Naphthalene III. Camphor IV. Dry Ice How many of the above substances undergo sublimation on heating?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The change from solid state to vapour state without passing through the liquid state is called sublimation, and the substance is said to sublime. During the sublimation process both the solid and vapour states of a substance coexist in thermal equilibrium. This happens in substances where particles can escape directly into the gaseous phase due to relatively weak intermolecular forces.\nOption I is correct. Iodine, when heated, changes directly from solid to violet vapours without forming a liquid phase. This is a classic laboratory example of sublimation.\nOption II is correct. Naphthalene balls, commonly used in cupboards, slowly disappear over time. This happens because they sublime at room temperature, turning directly into vapour.\nOption III is correct. Camphor also undergoes sublimation. It is often used in religious practices, where it burns and vaporises directly without leaving residue.\nOption IV is correct. Dry ice is solid carbon dioxide. At normal atmospheric pressure, it does not melt into liquid. Instead, it directly changes into gas, producing a smoky effect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=1-12 - Chapter 1 - Matter in Our Surroundings - Can Matter Change its State? - Page 8; https://egyankosh.ac.in/bitstream/123456789/83867/3/Unit-9.pdf - Unit 9 - Polynuclear Aromatic Hydrocarbons - Properties and Uses - Page 25 https://ncert.nic.in/textbook/pdf/kech106.pdf - Unit 6 - Equilibrium - Solid – Vapour Equilibrium – Page 170 https://indianexpress.com/article/lifestyle/life-style/what-is-dry-ice-blood-health-risks-experts-9196113/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q06",
+      "questionNumber": 6,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "In which of the below conditions the rate of evaporation of a liquid increases, keeping the other factors constant?",
+        "I. Increasing the surface area of the liquid",
+        "II. Raising the temperature of the liquid.",
+        "III. Increasing the humidity of the atmosphere surrounding the liquid",
+        "IV. Increase in atmospheric pressure surrounding the liquid.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In which of the below conditions the rate of evaporation of a liquid increases, keeping the other factors constant? I. Increasing the surface area of the liquid II. Raising the temperature of the liquid. III. Increasing the humidity of the atmosphere surrounding the liquid IV. Increase in atmospheric pressure surrounding the liquid. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and II only",
+        "c": "III and IV only",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Evaporation is a surface phenomenon in which molecules with higher kinetic energy escape from the surface of a liquid and convert into vapour at temperatures below the boiling point. The rate of evaporation depends on factors such as surface area, temperature, humidity, wind speed and pressure.\nOption I is correct. Since evaporation occurs only at the surface, increasing the surface area exposes more particles to the surroundings, allowing a greater number of molecules to escape simultaneously. Thus, evaporation becomes faster when surface area increases.\nOption II is correct. With an increase in temperature, more particles gain higher kinetic energy, enabling them to overcome intermolecular forces and escape into the vapour phase. Thus, evaporation becomes faster at higher temperatures.\nOption III is incorrect. Humidity refers to the amount of water vapour already present in the air. When humidity is high, the air cannot accommodate more vapour easily, thereby slowing down evaporation.\nOption IV is incorrect. Higher atmospheric pressure exerts greater force on the liquid surface, making it more difficult for particles to escape into the vapour state. Therefore, increased pressure reduces evaporation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=1-12 (Pg: 9)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q07",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "In tropical climates like India, cotton clothing is preferred over synthetic materials during the summer. Which of the following best explains the primary reason for this preference?"
+      ],
+      "questionText": "In tropical climates like India, cotton clothing is preferred over synthetic materials during the summer. Which of the following best explains the primary reason for this preference?",
+      "options": {
+        "a": "Cotton is a superior conductor of heat, allowing rapid loss of body heat to the surroundings.",
+        "b": "Cotton absorbs sweat efficiently and facilitates its evaporation, producing a cooling effect on the body.",
+        "c": "Cotton reflects sunlight more effectively than synthetic fabrics, preventing heat absorption.",
+        "d": "Cotton has significantly higher thermal capacity, which allows it to store external heat and prevent it from reaching the skin."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In tropical climates like India, the body regulates temperature mainly through perspiration and evaporation. When sweat evaporates, it absorbs heat from the body (latent heat of vaporisation), producing a cooling effect. The choice of clothing significantly affects how efficiently this cooling mechanism works. Cotton is a good absorber of water, so it absorbs sweat from the body and exposes it to air, allowing faster evaporation. During evaporation, heat is drawn from the body, leading to a cooling sensation, which makes cotton ideal for hot climates.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=1-12 (Pg: 10)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q08",
+      "questionNumber": 8,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to adulteration of milk, consider the following statements:",
+        "I. If iodine solution is added to milk and it turns blue, it indicates the presence of starch in milk.",
+        "II. If concentrated sulphuric acid is added to milk and a blue or violet ring forms, it indicates that formalin is present in milk.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to adulteration of milk, consider the following statements: I. If iodine solution is added to milk and it turns blue, it indicates the presence of starch in milk. II. If concentrated sulphuric acid is added to milk and a blue or violet ring forms, it indicates that formalin is present in milk. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Milk adulteration is a serious public health concern, as harmful substances like starch, urea, and formalin are sometimes added to increase volume or shelf life.\nStatement I is correct. Iodine reacts with starch to produce a blue or blue-black colour, which is a standard qualitative test for starch. Since starch is sometimes added to increase the thickness of diluted milk, this colour change clearly indicates adulteration.\nStatement II is correct. When concentrated sulphuric acid is carefully added to milk, the formation of a blue or violet ring at the interface indicates the presence of formalin (formaldehyde). Formalin is sometimes used as a preservative, though it is highly toxic and unsafe.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q09",
+      "questionNumber": 9,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which of the following are examples of chemical changes observed in daily life?",
+        "I. Fireflies emitting light",
+        "II. Melting of ice",
+        "III. Digestion of food in the human stomach",
+        "IV. Rusting of an iron nail",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following are examples of chemical changes observed in daily life? I. Fireflies emitting light II. Melting of ice III. Digestion of food in the human stomach IV. Rusting of an iron nail Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, III and IV only",
+        "b": "III and IV only",
+        "c": "I and II only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A chemical change involves a transformation in which one or more substances are converted into new substances with different chemical properties. These changes are usually irreversible. In contrast, physical changes do not produce new substances.\nStatement I is correct. Fireflies produce light through a biochemical reaction called bioluminescence. In this process, substances react and give off light.\nStatement II is incorrect. When ice melts, it changes from solid to liquid, but no new substance is formed (it remains water (H₂O)). The change is reversible, so it is not a chemical change.\nStatement III is correct. During digestion, complex food molecules are broken down into simpler substances through enzymatic and chemical reactions, forming new substances that the body can absorb. Hence, it is classified as a chemical change.\nStatement IV is correct. Iron reacts with oxygen and moisture to form iron oxide (rust), which is a completely new substance. This process is irreversible under normal conditions. Hence, it is classified as a chemical change.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=2-12 page 19 https://ncert.nic.in/textbook.php?gecu1=5-12 page 62, 63, 65, 66 https://egyankosh.ac.in/bitstream/123456789/31251/3/Unit-4.pdf page 60"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q10",
+      "questionNumber": 10,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to Crocodilian Species of India, consider the following pairs:",
+        "Crocodilian Species IUCN Red List Status",
+        "I. Gharial (Gavialis gangeticus) Critically Endangered",
+        "II. Saltwater Crocodile (Crocodylus porosus) Least Concern",
+        "III. Mugger Crocodile (Crocodylus palustris) Vulnerable",
+        "How many of the above pairs are correctly matched?"
+      ],
+      "questionText": "With reference to Crocodilian Species of India, consider the following pairs: Crocodilian Species IUCN Red List Status I. Gharial (Gavialis gangeticus) Critically Endangered II. Saltwater Crocodile (Crocodylus porosus) Least Concern III. Mugger Crocodile (Crocodylus palustris) Vulnerable How many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Pair 1 is correct: Gharial (Gavialis gangeticus) – Critically Endangered-Habitat: Strictly riverine; found mainly in the Chambal, Girwa, and Gandak rivers.\n- Threats: Loss of nesting sites due to damming, sand mining, riverbank erosion, depletion of fish (primary diet) and entanglement in fishing nets.\n- IUCN Status: Critically Endangered. Pair 2 is correct: Saltwater Crocodile (Crocodylus porosus) – Least Concern-Habitat: Largest living reptile; inhabits estuaries, mangroves, and tidal rivers; found in Sundarbans, Bhitarkanika (Odisha), etc.\n- Threats: Earlier decline due to hunting for skin and loss of mangrove habitats; now stable due to legal protection.\n- IUCN Status: Least Concern.\nPair 3 is correct: Mugger Crocodile (Crocodylus palustris) – Vulnerable-Habitat: Freshwater species inhabiting rivers, lakes, reservoirs, and marshes across the Indian subcontinent.\n- Threats: Habitat loss due to agricultural expansion, urbanization, human-wildlife conflict and accidental killings.\n- IUCN Status: Vulnerable",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q11",
+      "questionNumber": 11,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which one of the following principles of physics is primarily used in sonography, a medical diagnostic process?"
+      ],
+      "questionText": "Which one of the following principles of physics is primarily used in sonography, a medical diagnostic process?",
+      "options": {
+        "a": "Resonance",
+        "b": "Superposition of waves",
+        "c": "Doppler effect",
+        "d": "Standing wave"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** When we approach a stationary source of sound with high speed, the pitch of the sound heard appears to be higher than that of the source. As the observer recedes away from the source, the observed pitch (or frequency) becomes lower than that of the source. This motion-related frequency change is called the Doppler effect.\nSonography is a non-invasive imaging technique that uses high-frequency sound waves to create real-time, detailed images of internal organs, tissues, and blood flow. It employs the Doppler effect to perform imaging of the movement of tissues and body fluids (usually blood), and their relative velocity to the probe.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q12",
+      "questionNumber": 12,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Mass number is defined as the sum of the total number of protons and neutrons present in the nucleus of an atom.",
+        "Statement II: Electrons do not possess any mass.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Mass number is defined as the sum of the total number of protons and neutrons present in the nucleus of an atom. Statement II: Electrons do not possess any mass. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Protons and neutrons are collectively called nucleons. The mass number (A) is defined as the sum of the total number of protons and neutrons in the nucleus of an atom.\nStatement II is incorrect: Electrons do possess mass, but it is extremely small. The mass of an electron is considered to be about 1/2000th times that of a hydrogen atom (or a proton).\nHence,\n\nStatement I is correct but\n\nstatement II is not correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=4-12 Pg: 44,46 https://egyankosh.ac.in/bitstream/123456789/76290/1/Unit-4.pdf Pg:23"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q13",
+      "questionNumber": 13,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The magnitude of an object's average velocity is equal to its average speed under",
+        "which one of the following conditions?"
+      ],
+      "questionText": "The magnitude of an object's average velocity is equal to its average speed under which one of the following conditions?",
+      "options": {
+        "a": "When the object moves with uniform acceleration in any direction.",
+        "b": "When the object moves along a straight line in a single, constant direction.",
+        "c": "When the object moves in a circular path with constant speed.",
+        "d": "When the object changes direction but maintains constant speed."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Average speed is the total distance travelled divided by total time, whereas the magnitude of average velocity is the displacement divided by total time.\nAverage speed is a measure of the total ground covered, while average velocity focuses only on the straight-line gap between where the journey started and where it ended. These two numbers are identical only if one moves in a perfectly straight line.\nThe moment one takes a curve or changes direction, the total distance becomes longer than that straight-line gap, which makes the average speed higher than the magnitude of the average velocity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=7-12 Pg:76"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q14",
+      "questionNumber": 14,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "In atomic physics, the term “isobars” is best described as",
+        "which one of the following?"
+      ],
+      "questionText": "In atomic physics, the term “isobars” is best described as which one of the following?",
+      "options": {
+        "a": "Atoms of the same element having the same atomic number but different mass numbers.",
+        "b": "Atoms having the same number of neutrons but different atomic numbers.",
+        "c": "Atoms of different elements have the same mass number but different atomic numbers.",
+        "d": "Atoms with identical atomic and mass numbers but different energy states."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Isobars are defined based on mass number, i.e., atoms that have the same total number of protons and neutrons but differ in atomic number. Hence, atoms of different elements with different atomic numbers, which have the same mass number, are known as isobars.\nFor Example: Argon, Potassium, and Calcium have a mass number of 40, but their atomic numbers vary with Argon (18): 18 protons and 22 neutrons. Potassium (19): 19 protons and 21 neutrons. Calcium (20): 20 protons and 20 neutrons.\nKnowledge Base:\n- Isotopes are defined as the atoms of the same element, having the same atomic number but different mass numbers. The three isotopes of hydrogen atom are namely protium, deuterium and tritium.\n- Isotones are atoms that possess the same number of neutrons but different numbers of protons and different atomic masses Example – Oxygen 16 8 O , Nitrogen 15 7 N and Carbon 14 6 C have same number of neutrons, i.e., 8.\n- Atoms with identical atomic and mass numbers but different energy states are known as nuclear isomers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=4-12 Pg:45"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q15",
+      "questionNumber": 15,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to international environmental conventions, consider the following information:",
+        "Convention Purpose India’s Status",
+        "I. Basel Convention To control transboundary movement of hazardous waste between nations.",
+        "India has not ratified the Convention",
+        "II. Rotterdam Convention To protect human health and the environment from Persistent Organic Pollutants (POPs)",
+        "India is a Party",
+        "III. Stockholm Convention To promote informed decision- making regarding the trade of hazardous chemicals through the",
+        "Prior Informed Consent (PIC) procedure India is a Party In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to international environmental conventions, consider the following information: Convention Purpose India’s Status I. Basel Convention To control transboundary movement of hazardous waste between nations. India has not ratified the Convention II. Rotterdam Convention To protect human health and the environment from Persistent Organic Pollutants (POPs) India is a Party III. Stockholm Convention To promote informed decision- making regarding the trade of hazardous chemicals through the Prior Informed Consent (PIC) procedure India is a Party In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Information in row I is incorrectly matched: Basel Convention Purpose: Correct\n\nThe Basel Convention was adopted in 1989 and entered into force in 1992.\n- Its main objective is to control and reduce the transboundary movement of hazardous wastes between nations and to ensure that such wastes are managed and disposed of in an environmentally sound manner.\n- It arose because developed countries were shipping hazardous waste to less-developed countries.\nIndia’s Status: Incorrect\n\nIndia ratified the Basel Convention in 1992 and has been an active Party ever since. Information in row II is incorrectly matched: Rotterdam Convention Purpose: Incorrect\n\nThe Rotterdam Convention was adopted in 1998 and came into force in 2004.\n- It was created to ensure that international trade in certain hazardous chemicals and pesticides occurs only with the ‘Prior Informed Consent’ (PIC) of the importing country.\n- In other words, it gives countries the right to refuse or accept the import of listed hazardous chemicals.\n- The purpose given in the question “protects human health and the environment from Persistent Organic Pollutants (POPs)” is incorrect, because protection from POPs is the purpose of the Stockholm Convention, not the Rotterdam Convention.\nIndia’s Status: Correct\n\nIndia ratified the Rotterdam Convention in 2006 and participates in the PIC procedure. Information in row III is incorrectly matched: Stockholm Convention Purpose: Incorrect\n\nThe Stockholm Convention was adopted in 2001 and entered into force in 2004.\n- Its main purpose is to protect human health and the environment from Persistent Organic Pollutants (POPs); chemicals such as DDT, PCBs and dioxins that persist in the environment, accumulate in living organisms and are harmful to health.\n- The convention requires its Parties to eliminate, restrict or manage the production and use of listed POPs.\n- The purpose given in the question “promotes informed decision-making regarding the trade of hazardous chemicals through the PIC procedure” is incorrect, because the PIC procedure is the hallmark of the Rotterdam Convention, not the Stockholm Convention.\nIndia’s Status: Correct\n\nIndia ratified the Stockholm Convention in 2006 and has taken measures to phase out or control several POPs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q16",
+      "questionNumber": 16,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Why upon adding a pinch of salt to water, the water level remains the same?"
+      ],
+      "questionText": "Why upon adding a pinch of salt to water, the water level remains the same?",
+      "options": {
+        "a": "Salt particles occupy the intermolecular spaces present between water molecules.",
+        "b": "Water molecules shrink in size to accommodate the salt particles.",
+        "c": "Salt particles convert into liquid and merge chemically with water.",
+        "d": "The mass of water decreases, preventing a rise in level."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Matter is made up of extremely small particles. These particles are not tightly packed. There exists space between particles of matter.\nWhen salt is added to water, it does not disappear. The salt breaks down into tiny particles. These particles spread uniformly throughout the water. This process is known as dissolution.\nThe idea here is the presence of intermolecular spaces in water. When salt is added, its particles enter these empty spaces. Because of this, the total volume does not increase significantly. Therefore, the water level remains almost unchanged.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=1-12 - Chapter 1 - Matter in Our Surroundings - Page 1-2"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q17",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: A human body weighs more at the poles than at the equator.",
+        "Statement II: The radius of the earth is greater at the equator than at the poles.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: A human body weighs more at the poles than at the equator. Statement II: The radius of the earth is greater at the equator than at the poles. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is incorrect.",
+        "d": "Statement I is incorrect but Statement II is correct."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. The weight of a human body is not the same everywhere on Earth. Because the pull of gravity is stronger at the poles than at the equator, the human body would weigh slightly more at the North or South Pole and slightly less at the equator.\nStatement II is correct. The Earth is an oblate spheroid, meaning it bulges at the equator and is flattened at the poles. As a result, the radius at the equator is greater than at the poles. This specific shape is what causes the acceleration due to gravity (g) to be higher at the poles.\nStatement II explains statement I. The acceleration due to gravity (g) is inversely proportional to the square of the distance from the Earth's centre (g∝1/R2). Since the poles are closer to the Earth's centre due to its flattened shape, the gravitational pull (g) is stronger there. Because weight is directly determined by g, this higher gravity at the poles results in a body reaching its maximum weight there.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=9-12 (Pg: 103-105) https://nios.ac.in/media/documents/SrSec312NEW%5C312_E_book1.pdf#:~:text=This%20acceleration%2C,also%2 0learn%20about%20gravitational%20potential (page 124) https://egyankosh.ac.in/bitstream/123456789/28406/1/Unit- 1.pdf#:~:text=Hence%2C%20the%20maximum%20effect%20of,in%20the%20latitude%20of%20place. (page 13)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q18",
+      "questionNumber": 18,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "The escape velocity of an object from the surface of a celestial body (like Earth) depends on:",
+        "I. The mass of the celestial body.",
+        "II. The radius of the celestial body.",
+        "III. The mass of the object being launched.",
+        "How many of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: The escape velocity of an object from the surface of a celestial body (like Earth) depends on: I. The mass of the celestial body. II. The radius of the celestial body. III. The mass of the object being launched. How many of the statements given above are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Escape velocity is the minimum speed an object must reach to break away from the gravitational pull of the earth and fly off into space without ever falling back down.\nStatement I is correct. The speed required to break away from a planet's gravity depends directly on the mass of that celestial body. A heavier planet has a stronger gravitational \"grip,\" so an object must travel much faster to escape it compared to a lighter body like the Moon.\nStatement II is correct. Escape velocity also depends on the radius of the celestial body. Because gravity is stronger the closer an object is to the planet's center, an object on the surface of a smaller, denser planet would need a higher velocity to escape than one on a planet with a larger radius of the same mass.\nStatement III is incorrect. The mass of the object being launched (whether it is a tiny satellite or a massive rocket) has no effect on the escape velocity. The required speed is a property of the celestial body itself and remains the same for any object trying to leave its surface.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q19",
+      "questionNumber": 19,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. In any medium as the temperature is increased, the speed of sound increases.",
+        "II. Sound waves cannot travel in vacuum.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. In any medium as the temperature is increased, the speed of sound increases. II. Sound waves cannot travel in vacuum. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Sound propagates through a medium at a finite speed. The speed of sound depends on the properties of the medium through which it travels. The speed of sound in a medium depends on the temperature of the medium. In any medium the temperature is increased, the speed of sound increases. Sound is a mechanical wave that travels by colliding particles. At higher temperatures, molecules have more kinetic energy and vibrate faster. This allows the disturbance (the sound wave) to be passed from one molecule to the next more quickly. For example, the speed of sound in air is 331 m s –1 at 0ºC and 344 m s –1 at 22 ºC.\nStatement II is correct: Sound waves cannot travel in a vacuum. Because sound is a mechanical wave that requires a material medium (like air, water, or solids) to transmit vibrations, it cannot propagate through empty space where no particles are present.\nThe speed of sound decreases when we go from solid to gaseous state. The speed of sound depends heavily on the elasticity of the medium. The gas molecules are far apart, and this makes it harder for sound to travel",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=11-12 (page 133) https://ncert.nic.in/textbook/pdf/kech102.pdf (Page 38)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q20",
+      "questionNumber": 20,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The Central Pollution Control Board (CPCB) has recently introduced the “Blue Category” of industries for essential environmental services with moderate pollution potential. In this context, consider the following industries:",
+        "I. Sewage Treatment Plants (STPs)",
+        "II. Waste-to-Energy (WTE) incinerators",
+        "III. Material Recovery Facilities (MRFs)",
+        "IV. Composting units",
+        "V. Compressed Biogas plants based on industrial waste",
+        "How many of the above industries are included in the ‘Blue Category’?"
+      ],
+      "questionText": "The Central Pollution Control Board (CPCB) has recently introduced the “Blue Category” of industries for essential environmental services with moderate pollution potential. In this context, consider the following industries: I. Sewage Treatment Plants (STPs) II. Waste-to-Energy (WTE) incinerators III. Material Recovery Facilities (MRFs) IV. Composting units V. Compressed Biogas plants based on industrial waste How many of the above industries are included in the ‘Blue Category’?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Central Pollution Control Board (CPCB) has recently revised the classification of industries to better reflect their environmental impact. A key feature of this revision is the introduction of the “Blue Category”, which covers essential environmental service industries with moderate pollution potential.\nIt includes facilities responsible for managing waste from domestic or household activities such as Sewage Treatment Plants (STPs), Composting units, Biogas plants (based on domestic waste), Material Recovery Facilities (MRFs), and Waste-to-Energy (WTE) incinerators.\nHowever, Compressed Biogas (CBG) plants based on industrial or process waste are not part of the Blue Category.\n- Such plants are classified under the Red Category due to their higher pollution potential arising from industrial/process waste.\n- Only CBG plants handling household/domestic waste fall under the Blue Category. Therefore, 4 out of the 5 industries (except the Compressed Biogas plants based on industrial waste) are part of the Blue Category.\nKnowledge Base: Classification of Industries by CPCB Category Pollution Index (PI) Examples of Industries Red PI > 80 Cement, automobile manufacturing, distilleries Orange 55 ≤ PI < 80 Brick manufacturing, dry cell battery units, coal washeries Green 25 ≤ PI < 55 CD/DVD manufacturing, chilling plants White PI < 25 Assembly of air coolers, cardboard manufacturing, medical oxygen units Blue (newly introduced) Based on CPCB formula for essential environmental services Municipal Solid Waste Management Facilities, Sewage Treatment Plants (STPs),etc.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q21",
+      "questionNumber": 21,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Ball bearings are used in bicycles, cars, etc., because:"
+      ],
+      "questionText": "Ball bearings are used in bicycles, cars, etc., because:",
+      "options": {
+        "a": "The actual area of contact between the wheel and axle is increased.",
+        "b": "The effective area of contact between the wheel and axle is increased.",
+        "c": "The effective area of contact between the wheel and axle is reduced.",
+        "d": "None of the above statements is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** A ball bearing is a type of rolling-element bearing that serves three main functions while it facilitates motion: it carries loads, reduces friction and positions moving machine parts. Ball bearings are used in bicycles, cars, etc., because the effective area of contact between the wheel and axle is reduced, this reduces friction.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2013,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2013"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q22",
+      "questionNumber": 22,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following indicators and their colours in acidic medium:",
+        "Indicator Colour of the indicator in Acidic Medium",
+        "I. Litmus Red",
+        "II. Phenolphthalein Colourless",
+        "III. Methyl orange Yellow",
+        "IV. Turmeric Reddish brown",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following indicators and their colours in acidic medium: Indicator Colour of the indicator in Acidic Medium I. Litmus Red II. Phenolphthalein Colourless III. Methyl orange Yellow IV. Turmeric Reddish brown How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** An acid is a substance which furnishes hydrogen ions (H+) when dissolved in water. Acids taste sour and are corrosive to metals. Example: Hydrochloric acid (HCl) in gastric juice, Carbonic acid (H2CO3) in soft drinks etc.\nPair I is correct: Litmus is a natural indicator. Litmus solution is a purple dye, which is extracted from lichen, a plant belonging to the division Thallophyta, and is commonly used as an indicator. When the litmus solution is neither acidic nor basic, its colour is purple. Acids change the colour of blue litmus to red, whereas, bases change the colour of the red litmus to blue.\nPair II is correct: Phenolphthalein is a widely used pH indicator that is colorless in acidic or neutral solutions and turns pink in alkaline (basic) solutions.\nPair III is incorrect: Methyl orange is a synthetic pH indicator that changes colour based on the solution’s acidity. It transitions to red in acidic solutions, is orange in neutral solutions and turns yellow in basic solutions.\nPair IV is incorrect: Turmeric acts as a natural pH indicator, remaining bright yellow in acidic and neutral solutions while changing to a reddish-brown color in basic solutions due to the curcumin pigment reacting with alkali.\nKnowledge Base: A base is a substance which furnishes hydroxide ions (OH– ) when dissolved in water. Bases taste bitter and feel slippery or soapy. Example: Sodium hydroxide (NaOH) or caustic soda used in washing soaps, Potassium hydroxide (KOH) or potash used in bathing soaps etc. The term ‘alkali’ is often used for water soluble bases.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/jesc102.pdf (Pg. 17) https://www.nios.ac.in/media/documents/secscicour/English/Chapter-8.pdf (Pg. 156)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q23",
+      "questionNumber": 23,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which one of the following best explains the mechanism by which sugar acts as a preservative in food items?"
+      ],
+      "questionText": "Which one of the following best explains the mechanism by which sugar acts as a preservative in food items?",
+      "options": {
+        "a": "It inhibits oxidation by preventing the entry of air into the food.",
+        "b": "It increases the acidity of the food items, making it inhospitable to pathogens.",
+        "c": "It acts as a physical barrier by reducing the contact of microorganisms with the food.",
+        "d": "It prevents microbial growth by reducing the water activity in the food item through osmosis, or dehydration."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Sugar is used for preservation in foods such as jams, jellies, murabbas and squashes. In pickles and chutney also, sugar is added to these foods not only for taste but also as a preservative. The proportion of sugar has to be correct to protect such foods from spoiling. Sugar dissolves in the water in the food item. This results in less water being available for the growth of microorganisms. Thus, it prevents microbial growth by reducing the water activity in the food item through osmosis, or dehydration.\nKnowledge Base: Other natural preservatives:\n- Salt: Due to the presence of salt in the food, osmosis takes place. As a result, water comes out of the food.\nWhen there is no or less water in the food, the microorganisms are not able to grow and the food becomes safe. Salt also reduces the activity of enzymes, thus preventing the food from getting spoilt.\n- Acids: Sour food items are used as preservatives. These are lemon juice, vinegar and citric acid. Vinegar is used to preserve onions and tomato ketchup; lemon juice is used in pickles; citric acid is used in squashes.\nAcids increase the acidic content of food items, thus preventing the growth and activity of micro-organisms.\n- Oils and spices: These are used as preservatives in pickles. Spices such as mustard powder, turmeric and red chilies are commonly used as preservatives. These prevent the growth of microorganisms, thus preventing spoilage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q24",
+      "questionNumber": 24,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The pH level of an acidic aqueous solution would decrease if:"
+      ],
+      "questionText": "The pH level of an acidic aqueous solution would decrease if:",
+      "options": {
+        "a": "The solution is diluted with distilled water.",
+        "b": "Concentration of hydrogen ion in the solution increases.",
+        "c": "Concentration of hydroxide ion in the solution increases.",
+        "d": "Decreasing the temperature of the solution."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption b is correct: pH scale is used for denoting the concentration of hydrogen ions. pH notation was devised by the Danish biochemist Soren Sorensen in 1909. The term pH means “power of hydrogen”. pH is a measure of hydrogen ion concentration in an aqueous solution. pH decreases as hydrogen ion (H+) concentration increases and increases when hydrogen ions (H+) decreases.\nKnowledge Base: The pH level of an aqueous solution generally increases when the temperature is decreased, and decreases when the temperature rises. Lower temperatures reduce the ionization of water, resulting in fewer ions, which corresponds to a higher pH value.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q25",
+      "questionNumber": 25,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the Competition Act, 2002, the term “Predatory Pricing”, recently in the news, refers to which of the following practices?"
+      ],
+      "questionText": "With reference to the Competition Act, 2002, the term “Predatory Pricing”, recently in the news, refers to which of the following practices?",
+      "options": {
+        "a": "Charging higher prices to exploit consumers in monopolistic markets.",
+        "b": "Selling goods or services below cost to undermine competition or eliminate rivals.",
+        "c": "Imposing sudden price hikes during emergencies to take undue advantage of consumers.",
+        "d": "Engaging in territorial price discrimination to block market entry for competitors."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Predatory Pricing refers to the practice where a dominant firm deliberately sells goods or services below their cost of production with the aim of driving competitors out of the market or undermining competition.\n- Once rivals are weakened or eliminated, the dominant firm can raise prices later to exploit its market power. Legal Basis:\n- Under Section 4(2) of the Competition Act, 2002, predatory pricing by a dominant enterprise is considered an abuse of dominant position.\n- The Competition Commission of India (CCI) monitors and acts against such practices to ensure fair competition and consumer welfare.\n-\n\nKnowledge Base: Competition Commission of India (CCI)\n- Established: 2003 under the Competition Act, 2002.\n- Type: Statutory body under the Ministry of Corporate Affairs.\n- Objective: To promote fair competition, prevent anti-competitive practices, and protect consumer interests.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q26",
+      "questionNumber": 26,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Application Type of Mirror Used",
+        "I. Periscope Plane Mirror",
+        "II. Rear view mirrors in motor cars Convex Mirror",
+        "III. Reflective Telescope Concave Mirror",
+        "How many pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Application Type of Mirror Used I. Periscope Plane Mirror II. Rear view mirrors in motor cars Convex Mirror III. Reflective Telescope Concave Mirror How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Pair I is correct: A plane mirror always forms an erect image of the same size as the object. A plane mirror is used in looking glasses, in construction of kaleidoscope, telescope, sextant, and periscope etc., for seeing round the corners, as deflector of light etc.\nPair II is correct: A spherical mirror which has a reflecting surface that curves outwards is called a convex mirror. A convex mirror is used as a rear view mirror in motor cars, buses and scooters, as safety viewers at dangerous corners and on upper decks of double decker buses etc.\nPair III is correct: A spherical mirror, which has a reflecting surface that curves inwards, is called a concave mirror. Concave minor is used as a reflector in searchlight, head light of motor cars and projectors etc., for converging solar radiation in solar cookers, in flood lights to obtain a divergent beam of light to illuminate buildings, in reflecting telescopes etc.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/hecu110.pdf (Pg. 154, 156)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q27",
+      "questionNumber": 27,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "When a person standing in a bus tends to fall backward as the bus suddenly starts moving, this phenomenon is best explained by",
+        "which one of the following laws?"
+      ],
+      "questionText": "When a person standing in a bus tends to fall backward as the bus suddenly starts moving, this phenomenon is best explained by which one of the following laws?",
+      "options": {
+        "a": "Newton’s First Law of Motion",
+        "b": "Newton’s Second Law of Motion",
+        "c": "Newton’s Third Law of Motion",
+        "d": "Law of Conservation of Momentum"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Newton’s First Law of Motion states that an object remains in a state of rest or of uniform motion in a straight line unless compelled to change that state by an applied force. This tendency of undisturbed objects to stay at rest or keep moving with the same velocity is called Inertia. When the bus suddenly starts, the lower part of the body moves with the bus while the upper part tends to remain at rest, causing the person to fall backward. This is explained by Newton’s First Law of Motion i.e. law of inertia.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=8-12 Pg: 89-90"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q28",
+      "questionNumber": 28,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to \"Infrasound,\" consider the following statements:",
+        "I. These are sound waves with frequencies higher than 20,000 Hz, making them inaudible to humans.",
+        "II. They are characterized by long wavelengths and can travel long distances with minimal energy loss.",
+        "III. It can be produced both by a natural as well as artificial phenomenon.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to \"Infrasound,\" consider the following statements: I. These are sound waves with frequencies higher than 20,000 Hz, making them inaudible to humans. II. They are characterized by long wavelengths and can travel long distances with minimal energy loss. III. It can be produced both by a natural as well as artificial phenomenon. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III",
+        "c": "I and III",
+        "d": "II only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. Sound waves with frequencies higher than 20,000 Hz are called ultrasound. Infrasound consists of very low-frequency sounds—below 20 Hz, which are so deep that they are below the range of what the human ear can naturally detect.\nStatement II is correct. Because these waves have such low frequencies, they have very long wavelengths. This allows them to travel for thousands of kilometres across the globe because they aren't easily \"soaked up\" or blocked by the atmosphere or obstacles in their path, unlike high-pitched sounds that fade away very quickly. This prevents energy loss. Thus, Infrasound are characterized by long wavelengths and can travel long distances with minimal energy loss.\nStatement III is correct. Infrasound is produced by high-energy natural phenomena such as passing meteors, volcanic eruptions, earthquakes, and storms. It is also generated by human activities like nuclear explosions or the operation of industrial machinery.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q29",
+      "questionNumber": 29,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The carbon-12 isotope is used as the standard reference for measuring atomic masses.",
+        "Statement II: The mass of one atom of carbon-12 is considered as one atomic mass unit.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The carbon-12 isotope is used as the standard reference for measuring atomic masses. Statement II: The mass of one atom of carbon-12 is considered as one atomic mass unit. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The standardization of atomic masses is based on a reference isotope to ensure uniform comparison across elements. The Carbon-12 isotope was universally accepted in 1961 as the standard reference for measuring atomic masses. The carbon-12 isotope is chosen because of its stability and well-defined mass, and all atomic masses of all elements are expressed relative to it.\nStatement II is incorrect: The definition of atomic mass unit is based on a fraction of the mass of a carbon-12 atom, not its total mass. One atomic mass unit is defined as a mass unit exactly equal to one-twelfth (1/12th) the mass of one atom of carbon-12.\nHence,\n\nStatement I is correct but\n\nstatement II is not correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=3-12 Pg: 30"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q30",
+      "questionNumber": 30,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "In the Vanashakti vs Union of India case, the Supreme Court struck down which of the following as illegal and unconstitutional?"
+      ],
+      "questionText": "In the Vanashakti vs Union of India case, the Supreme Court struck down which of the following as illegal and unconstitutional?",
+      "options": {
+        "a": "Grant of retrospective environmental clearances to projects already operational.",
+        "b": "Waiver of corporate liability for ecological damage caused by industrial accidents.",
+        "c": "Blanket exemption of small-scale industries from environmental impact assessments.",
+        "d": "Substitution of environmental audits with voluntary self-disclosure by companies."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** In Vanashakti vs Union of India, the Supreme Court struck down the practice of granting retrospective (ex-post facto) environmental clearances to projects that had already begun construction or operations without prior approval.\n- The Court held that such retrospective clearances are illegal, arbitrary, and violate Articles 14 and 21 of the Constitution, which guarantee equality before the law and the right to a healthy environment.\n- It quashed the 2017 Environmental Amnesty Notification and the 2021 Office Memorandum, both of which allowed retrospective approvals.\n- The Court also barred the Centre from issuing new retrospective ECs, though existing clearances under the earlier policies remain valid.\n- The judgment reinforced the Precautionary Principle and reaffirmed constitutional duties under Articles 48A (protection and improvement of the environment), 51A(g) (fundamental duty to protect the environment), and the right to a clean environment under Article 21.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q31",
+      "questionNumber": 31,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them,",
+        "which one of the following statements is not correct?",
+        "(a) Gravity is the strongest of the four",
+        "(b) Electromagnetism acts only on particles with an electric charge",
+        "(c) Weak nuclear force causes radioactivity",
+        "(d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
+      ],
+      "questionText": "The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct? (a) Gravity is the strongest of the four (b) Electromagnetism acts only on particles with an electric charge (c) Weak nuclear force causes radioactivity (d) Strong nuclear force holds protons and neutrons inside the nucleus of an atom",
+      "options": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** There are four fundamental forces in nature which are Gravitational force, Strong nuclear force, Weak nuclear force and Electromagnetic force. These forces prevent the drifting of matter in the universe and help keep it together.\n- Gravitational force (Gravity) is the weakest force but has an infinite range.\n- Strong nuclear force: This force holds the nucleus of an atom together. It is the strongest of the forces, but it is very short ranged.\n- Weak nuclear Force: This force is weak compared to the strong nuclear force as the name implies and has the shortest range.\n- Electromagnetic Force: This is the second strongest force after the strong nuclear force and it acts on electrically charged particles.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2013,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2013"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q32",
+      "questionNumber": 32,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the electromagnetic spectrum, consider the following waves:",
+        "I. X-rays",
+        "II. Ultraviolet",
+        "III. Microwave",
+        "IV. Radio Waves",
+        "Which of the following is the correct sequence of the above waves in the increasing order of their wavelength?"
+      ],
+      "questionText": "With reference to the electromagnetic spectrum, consider the following waves: I. X-rays II. Ultraviolet III. Microwave IV. Radio Waves Which of the following is the correct sequence of the above waves in the increasing order of their wavelength?",
+      "options": {
+        "a": "I – II – III – IV",
+        "b": "II – I – IV – III",
+        "c": "IV – III – II – I",
+        "d": "III – IV – I – II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The electromagnetic spectrum is arranged based on wavelength and frequency, which are inversely related. This means shorter wavelength corresponds to higher frequency and energy, and vice versa. This means wavelength increases as we move from high-energy waves to low-energy waves in the electromagnetic spectrum.\nOption I. X-rays are high-energy electromagnetic waves with very short wavelengths. They are produced when high-speed electrons suddenly decelerate. Due to their extremely small wavelength, they can penetrate materials like human tissue, which is why they are used in medical imaging. X-rays have shorter wavelength than ultraviolet rays, making them one of the shortest among the given options.\nOption II. Ultraviolet rays have wavelengths slightly longer than X-rays but shorter than visible light. They are emitted by the Sun and are responsible for effects like sunburn and tanning.\nOption III. Microwaves have much longer wavelengths compared to ultraviolet rays. They are used in communication systems (like satellites and radars) and in microwave ovens for heating food.\nOption IV. Radio waves have the longest wavelengths in the electromagnetic spectrum. They are used in radio broadcasting, television transmission, and wireless communication. Among all the given options, radio waves have the maximum wavelength.\nTherefore, the correct order on the basis of increasing wavelength is: X-rays < Ultraviolet < Microwave < Radio waves.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Compared to soaps, detergents are more effective cleansing agents in hard water.",
+        "Statement II: Detergents form insoluble compounds with calcium and magnesium ions present in hard water.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Compared to soaps, detergents are more effective cleansing agents in hard water. Statement II: Detergents form insoluble compounds with calcium and magnesium ions present in hard water. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The effectiveness of cleaning agents depends on how they behave in different types of water. Hard water contains dissolved calcium and magnesium ions, which interfere with the cleaning action of certain substances.\nStatement I is correct. Detergents work efficiently in both soft and hard water. They are designed in such a way that they do not get affected by calcium and magnesium ions. Therefore, they continue to produce lather and remove dirt effectively, even in hard water.\nStatement II is incorrect. Detergents do not form insoluble compounds with calcium and magnesium ions. Instead, their salts remain soluble in water, which allows them to function properly. It is soaps that form insoluble precipitates with these ions, reducing their effectiveness.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q34",
+      "questionNumber": 34,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the applications of bleaching powder, consider the following:",
+        "I. It is used for making wool unshrinkable.",
+        "II. It is used as a disinfectant for sterilizing drinking water.",
+        "III. It is used as an oxidising agent in chemical industries.",
+        "IV. It is used as a fertilizer to enhance soil nitrogen content.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the applications of bleaching powder, consider the following: I. It is used for making wool unshrinkable. II. It is used as a disinfectant for sterilizing drinking water. III. It is used as an oxidising agent in chemical industries. IV. It is used as a fertilizer to enhance soil nitrogen content. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Bleaching is a process of removing colour from a cloth to make it whiter. Bleaching powder has been used for this purpose for a long time. Chemically, it is calcium oxychloride and its formula is CaOCl2.\nOption I is correct. Bleaching powder is used in the textile industry to treat wool fibres. Normally, wool shrinks when washed because its fibres have a scaly surface structure that tends to interlock.\nBleaching powder works as a mild oxidising agent and modifies the outer surface of wool fibres. This reduces the tendency of fibres to interlock, thereby preventing shrinkage. In simple terms, it smoothens the fibre surface, making wool more stable during washing.\nOption II is correct. Bleaching powder releases chlorine when added to water. This chlorine acts as a powerful disinfectant. It kills harmful microorganisms such as: Bacteria, Viruses, Protozoa. This is why bleaching powder is commonly used in Municipal water treatment and Rural water purification. The key idea is that chlorine destroys germs by oxidation, making water safe for consumption.\nOption III is correct. Bleaching powder has a strong oxidising property, meaning it can add oxygen or remove electrons from other substances. Because of this, it is used in Chemical reactions requiring oxidation and Manufacturing processes (like chloroform production).\nOption IV is incorrect. Bleaching powder is not a fertilizer. Fertilisers are substances that provide essential nutrients like: Nitrogen (N), Phosphorus (P), Potassium (K).\nBleaching powder does not supply any of these nutrients. Instead, its strong chemical nature can even be harmful to soil microorganisms if misused.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q35",
+      "questionNumber": 35,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements regarding the International Crops Research Institute for the Semi-Arid",
+        "Tropics (ICRISAT):",
+        "I. It is an agency of the United Nations that conducts agricultural research for development in Asia and sub-Saharan",
+        "Africa.",
+        "II. It is headquartered in Nairobi, Kenya.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT): I. It is an agency of the United Nations that conducts agricultural research for development in Asia and sub-Saharan Africa. II. It is headquartered in Nairobi, Kenya. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Recently, ICRISAT, in collaboration with Research and Information System for Developing Countries (RIS), has set up the ICRISAT Centre of Excellence for South-South Cooperation (ISSCA). ICRISAT also signed an MoU with DAKSHIN to promote development partnerships and capacity building.\nStatement I is incorrect: ICRISAT is not an agency of the United Nations.\n- It is an independent, non-profit, and non-political international organization.\n- It works for agricultural research and development in the semi-arid tropics of Asia and sub-Saharan Africa.\n- ICRISAT is part of the CGIAR Consortium, a global partnership of 15 research centres working on agricultural innovation for a food-secure future.\nStatement II is incorrect: The headquarters of ICRISAT is in Hyderabad, Telangana, India, not in Nairobi, Kenya.\n- While it has regional hubs and offices across sub-Saharan Africa, its main headquarters remains in Hyderabad.\nKnowledge Base: Extra facts:\n- ICRISAT has played a key role in promoting dryland crops like pulses, chickpeas, and millets, helping smallholder farmers adapt to climate change, reduce poverty, and improve food security.\n- It won the 2021 Africa Food Prize for enhancing food security and resilience in 13 sub-Saharan African countries.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q36",
+      "questionNumber": 36,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "When sunlight (white light) falls on a triangular glass prism, a band of colours called a spectrum is obtained.",
+        "Which one among the following represents this effect appropriately?"
+      ],
+      "questionText": "When sunlight (white light) falls on a triangular glass prism, a band of colours called a spectrum is obtained. Which one among the following represents this effect appropriately?",
+      "options": {
+        "a": "Reflection",
+        "b": "Diffraction",
+        "c": "Refraction",
+        "d": "Dispersion"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Sunlight, or white light, is not a single color but a mixture of different colors. Dispersion is defined as the spreading of white light into its full spectrum of wavelengths. More technically, dispersion occurs whenever the propagation of light depends on wavelength. When sunlight (white light) passes through a triangular glass prism, it undergoes dispersion, splitting into its constituent colors",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q37",
+      "questionNumber": 37,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to Ham Radio (Amateur Radio), consider the following statements:",
+        "I. It is a licensed radio service that uses radio waves to establish communication.",
+        "II. In space, it was used for the first time by astronauts of the Axiom-4 mission to establish communication between space and Earth.",
+        "III. It serves as an effective alternative means of communication during natural disasters such as earthquakes, cyclones, and floods.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Ham Radio (Amateur Radio), consider the following statements: I. It is a licensed radio service that uses radio waves to establish communication. II. In space, it was used for the first time by astronauts of the Axiom-4 mission to establish communication between space and Earth. III. It serves as an effective alternative means of communication during natural disasters such as earthquakes, cyclones, and floods. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Ham radio represents a resilient and decentralised communication system, which becomes particularly important when conventional communication networks fail. It operates on dedicated frequencies and requires trained, licensed operators.\nStatement I is correct. Ham radio is a licensed communication service. Individuals must obtain official permission to operate it, and it uses radio waves to transmit signals over short or long distances. This makes it fundamentally different from internet-based or wired communication systems.\nStatement II is incorrect. Amateur radio was first used on a space shuttle to establish communication between space and Earth in 1983. The ISS also has a ham radio, known as the Amateur Radio on the International Space Station (ARISS), which is often used to organise astronaut-student interactions. The objective of such interactions is to inspire the young generation. The amateur radio organisations along with the space agencies in the United States, Russia, Canada, Japan and Europe support this educational opportunity by providing equipment and operational support.\nStatement III is correct. Ham radio has repeatedly proven its value as a reliable backup communication system during disasters. Events such as earthquakes, floods, and cyclones often disrupt mobile networks and internet services. In such scenarios, ham radio continues to function because it is independent of large infrastructure.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q38",
+      "questionNumber": 38,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which of the following phenomena works on the principles of Bernoulli’s principle?",
+        "I. The upward lift of an aircraft wing during takeoff.",
+        "II. The swing of a spinning cricket ball moving through the air.",
+        "III. Two ships moving parallel in the same direction close to each other are attracted.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following phenomena works on the principles of Bernoulli’s principle? I. The upward lift of an aircraft wing during takeoff. II. The swing of a spinning cricket ball moving through the air. III. Two ships moving parallel in the same direction close to each other are attracted. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "I, II and III",
+        "d": "II and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Bernoulli’s Principle states that when a fluid (liquid or gas) flows faster, its pressure decreases, and when it flows slower, its pressure increases.\nStatement I is correct: An airplane wing is shaped to make air move faster over the top than the bottom. According to Bernoulli’s Principle, when air moves quickly over the top of an airplane wing and more slowly below it, the pressure above is lower than below. This pressure difference creates lift.\nStatement II is correct: When a ball spins, it drags a layer of air with it. On one side of the ball, the spin direction matches the airflow (increasing speed), and on the other, it opposes it (decreasing speed). The side with higher velocity has lower pressure. This pressure difference (Bernoulli’s Principle) pushes the ball to the side, causing it to \"swing\" through the air.\nStatement III is correct: This is explained by Bernoulli's Principle. Two ships moving parallel in the same direction close to each other are attracted and risk colliding because the water between them flows faster than the water outside. According to Bernoulli's principle, this increased velocity lowers the pressure between the ships, allowing the higher pressure outside to push them together.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/keph202.pdf (page 189-190) https://ncert.nic.in/textbook/pdf/iesc108.pdf (page 95-96)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q39",
+      "questionNumber": 39,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The non-rechargeable batteries commonly used in transistor radios and wall clocks are classified as:"
+      ],
+      "questionText": "The non-rechargeable batteries commonly used in transistor radios and wall clocks are classified as:",
+      "options": {
+        "a": "Secondary cells",
+        "b": "Primary cells",
+        "c": "Fuel cells",
+        "d": "Electrolytic cells"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In primary cells, the chemical reaction occurs only once, and after being used for a period of time, the battery becomes \"dead\" and cannot be recharged or reused. The most common example of this type is the dry cell, which is used extensively in portable devices like transistor radios and wall clocks. In contrast, secondary cells can be recharged and used multiple times.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lech102.pdf#:~:text=primary%20and%20secondary%20batteries,used%20to%20 produce%20electrical%20energy%2C (page 54)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q40",
+      "questionNumber": 40,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the climatic requirements for the cultivation of Asafoetida (Heeng) in India,",
+        "which one of the following statements is not correct?"
+      ],
+      "questionText": "With reference to the climatic requirements for the cultivation of Asafoetida (Heeng) in India, which one of the following statements is not correct?",
+      "options": {
+        "a": "It thrives in cold, arid climates and enters a dormant phase during extremely dry and cold conditions to ensure survival.",
+        "b": "It grows best in regions with annual rainfall of about 800–1,000 mm.",
+        "c": "It grows well in sandy, well-drained soils with low moisture content.",
+        "d": "It grows well in temperatures ranging from 10–20°C but can tolerate highs of 40°C and winter lows of –4°C."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Asafoetida (Heeng) is an herbaceous, perennial plant belonging to the Apiaceae (Umbelliferae) family, cultivated mainly for its oleo-gum resin extracted from the roots after about five years of plantation. Recently, after about five years of efforts, IHBT Palampur successfully recorded the first flowering and seed formation of Heeng (asafoetida). Statement a is correct: Asafoetida naturally grows in cold, arid, semi-arid climates.\n- The plant enters a dormant phase during extremely dry and cold periods to conserve energy and survive harsh conditions.\n- This adaptation is key for its successful cultivation in regions like Lahaul-Spiti (Himachal Pradesh) and Uttarkashi\n(Uttarakhand). Statement b is incorrect: Asafoetida requires very low rainfall, ideally 200 mm or less, though it can tolerate up to 300 mm in cultivated areas. High rainfall (800–1,000 mm) causes excess soil moisture, which damages its roots and hinders resin production.\nStatement c is correct: Asafoetida is highly sensitive to waterlogging. It grows best in sandy, light-textured, well-drained soils with low moisture because these conditions prevent fungal infections and root rot.\nStatement d is correct: The optimal temperature for active growth is 10–20°C. Asafoetida can withstand summer highs up to 40°C and winter lows down to –4°C, making it suitable for cultivation in high-altitude semi-arid regions.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q41",
+      "questionNumber": 41,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements about the microphone and the speaker of a mobile phone:",
+        "1. The microphone converts sound to a mechanical signal.",
+        "2. The microphone converts sound to an electrical signal.",
+        "3. The speaker converts a mechanical signal to sound.",
+        "4. The speaker converts an electrical signal to sound.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements about the microphone and the speaker of a mobile phone: 1. The microphone converts sound to a mechanical signal. 2. The microphone converts sound to an electrical signal. 3. The speaker converts a mechanical signal to sound. 4. The speaker converts an electrical signal to sound. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3",
+        "b": "1 and 4",
+        "c": "2 and 3",
+        "d": "2 and 4"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement 1 is incorrect-The primary function of a microphone in a mobile phone is to convert sound waves (mechanical energy) into an electrical signal. This electrical signal can then be processed and transmitted by the phone’s circuits.\nStatement 2 is correct-Microphones use transducers, such as condenser or dynamic elements, to convert sound waves into electrical signals.\n\nStatement 3 is incorrect-Speakers convert electrical signals into sound waves. The electrical signal passes through the speaker’s voice coil, which interacts with a permanent magnet, causing the coil to vibrate and produce sound waves.\nStatement 4 is correct-The speaker’s main purpose is to convert electrical signals into audible sound. The electrical signal passing through the voice coil of the speaker causes vibrations that generate sound waves, which can be heard by the user.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q42",
+      "questionNumber": 42,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The material used as fuse wire must possess which of the following characteristics?"
+      ],
+      "questionText": "The material used as fuse wire must possess which of the following characteristics?",
+      "options": {
+        "a": "Low melting point and High electrical conductivity.",
+        "b": "Low melting point and Low electrical conductivity.",
+        "c": "High melting point and High electrical conductivity.",
+        "d": "High melting point and Low electrical conductivity."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A fuse wire is designed to melt quickly when excess current flows, thereby breaking the circuit. Hence, it must have a low melting point so that it melts easily during overload conditions. The fuse wire should heat up sufficiently when excess current flows; hence, it must have relatively high resistance (i.e., low electrical conductivity) to facilitate quick melting. A higher resistance ensures that the heat produced is concentrated at the fuse itself. If the fuse had very high conductivity like a thick copper wire, it would not generate enough heat to melt quickly during a moderate overload, potentially allowing the rest of the circuit to overheat first.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "NCERT Science Class X: Chapter 12: Electricity Pg: 218–219 https://egyankosh.ac.in/bitstream/123456789/9327/3/Unit-13.pdf Pg: 13, 14 https://egyankosh.ac.in/bitstream/123456789/110542/1/Unit-10.pdf Pg:402"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the rusting of iron, consider the following statements:",
+        "I. It is an example of the oxidation of iron.",
+        "II. The presence of oxygen and water is essential for the formation of rust.",
+        "III. Galvanization helps in preventing rusting of iron.",
+        "IV. Salt water makes iron more vulnerable to rusting.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the rusting of iron, consider the following statements: I. It is an example of the oxidation of iron. II. The presence of oxygen and water is essential for the formation of rust. III. Galvanization helps in preventing rusting of iron. IV. Salt water makes iron more vulnerable to rusting. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I, II and IV only",
+        "c": "II, III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: Rusting is a chemical process involving oxidation, where iron reacts with oxygen to form hydrated iron oxide. This represents loss of electrons by iron, hence it is an oxidation reaction.\nStatement II is correct: The mechanism of rusting requires both oxygen and moisture. Water acts as an electrolyte, facilitating electrochemical reactions on the iron surface.\nStatement III is correct: Galvanization involves coating iron with zinc, which acts as a protective barrier and also provides sacrificial protection by oxidizing preferentially. This prevents rusting of iron.\nStatement IV is correct: Salt water increases the conductivity of the medium, enhancing electrochemical reactions and accelerating rusting. Thus, iron corrodes faster in saline conditions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "NCERT Science Class VII: Chapter 5: Physical and Chemical Changes Pg: 53-54 https://egyankosh.ac.in/bitstream/123456789/28645/1/Unit-10.pdf Pg: 73, 74"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q44",
+      "questionNumber": 44,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to optical fibres, consider the following statements:",
+        "I. They operate on the principle of total internal reflection.",
+        "II. Even if the fibre is bent, light can still travel through it from one end to the other.",
+        "III. For the effective working of an optical fibre the refractive index of the material of the core of the fibre should be lower than that of the outer cover surrounding the core.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to optical fibres, consider the following statements: I. They operate on the principle of total internal reflection. II. Even if the fibre is bent, light can still travel through it from one end to the other. III. For the effective working of an optical fibre the refractive index of the material of the core of the fibre should be lower than that of the outer cover surrounding the core. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct:Optical fibres are thin strands of high-quality glass or quartz designed so that light entering at one end undergoes repeated total internal reflections along the length of the fibre until it emerges at the other end.\nStatement II is correct:Light can move through the fibre even when it is not straight. It keeps traveling inside the fibre by reflecting within it. So, it still reaches from one end to the other even if the fibre is bent.\nStatement III is incorrect: The Optical fibre has a thin inner core made of glass or plastic that carries light through it. Each fibre consists of a core and cladding i.e. material surrounding the core. The refractive index of the material of the core is higher than that of the cladding then only Total internal reflection will work.\nWhen a ray of light enters from a denser medium to a rarer medium, it bends away from the normal. As the angle of incidence increases, so does the angle of refraction. At a particular angle of incidence the angle of reflection becomes 90 0 . That particular value of angle of incidence in the denser medium is called critical angle. When the angle of incidence becomes greater than the critical angle then the light ray reflects back totally to the denser medium following the laws of reflection. This phenomenon is known as total internal reflection. Thus the necessary condition for Total Internal reflection is Light must travel from denser to rarer medium. Which is opposite to what is given in the statement.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leph201.pdf#:~:text=(ii)%20Optical%20fibres%3A%20Nowadays%20optical,phen omenon%20of%20total%20internal%20reflection. (page 231-232) https://digital.nios.ac.in/content/216en/Home%20Science%20%28Eng%29%20Ch-10.pdf p-66"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q45",
+      "questionNumber": 45,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The report titled “Global Trade Outlook and Statistics 2025”, which projects trends in global merchandise and services trade, has been released by:"
+      ],
+      "questionText": "The report titled “Global Trade Outlook and Statistics 2025”, which projects trends in global merchandise and services trade, has been released by:",
+      "options": {
+        "a": "International Monetary Fund (IMF)",
+        "b": "World Economic Forum (WEF)",
+        "c": "World Trade Organization (WTO)",
+        "d": "United Nations Conference on Trade and Development (UNCTAD)"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The World Trade Organization (WTO) released the Global Trade Outlook and Statistics 2025.\n- The report projects that global merchandise trade volume will decline by 0.2% in 2025, with North America’s exports falling the most at 12.6%.\n- It highlights risks from reciprocal tariffs and policy uncertainty.\n- For the first time, the report provides a forecast for services trade alongside merchandise projections, projecting a 4.0% growth in services trade volume in 2025.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q46",
+      "questionNumber": 46,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 India generates enormous volumes of compostable organic waste every day. Much of this waste is burned, dumped, or left to decompose without being productively utilised, resulting in the loss of a valuable natural fertiliser resource.",
+        "The organic fraction of this waste provides an excellent feedstock for producing high-quality compost. Waste streams such as kitchen refuse, vegetable market waste, flower market residues, and food-processing by-products together supply the raw material required for a composting infrastructure that could be developed rapidly. When processed properly, these diverse organic inputs produce compost rich in microbial life, humic acids, and slow-release nutrients, making it an invaluable natural fertiliser. Developing systems to compost these materials at scale could transform a mounting waste problem into a significant waste-to-wealth opportunity.",
+        "Which one of the following statements best reflects the most logical and rational inferences that can be drawn from the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 India generates enormous volumes of compostable organic waste every day. Much of this waste is burned, dumped, or left to decompose without being productively utilised, resulting in the loss of a valuable natural fertiliser resource. The organic fraction of this waste provides an excellent feedstock for producing high-quality compost. Waste streams such as kitchen refuse, vegetable market waste, flower market residues, and food-processing by-products together supply the raw material required for a composting infrastructure that could be developed rapidly. When processed properly, these diverse organic inputs produce compost rich in microbial life, humic acids, and slow-release nutrients, making it an invaluable natural fertiliser. Developing systems to compost these materials at scale could transform a mounting waste problem into a significant waste-to-wealth opportunity. Which one of the following statements best reflects the most logical and rational inferences that can be drawn from the passage?",
+      "options": {
+        "a": "By converting organic waste into natural fertilizer, the demand for chemical fertilizers in food production can be reduced.",
+        "b": "India must devise innovative technologies to expand the large-scale conversion of organic waste into natural fertilizers.",
+        "c": "Producing organic fertilizers from waste would reduce the amount of waste sent to landfills.",
+        "d": "India’s waste crisis could be mitigated by producing natural fertilizers from its abundant organic wast"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Statement a is incorrect. While the passage discusses converting organic waste into natural fertilizers, it does not mention that this would reduce the demand for chemical fertilizers. Therefore, statement a does not best reflect the most logical and rational inferences that can be drawn from the passage.\nStatement b is incorrect. The passage states “Developing systems to compost these materials (organic waste) at scale could transform a mounting waste problem into a significant waste-to-wealth opportunity.” However, statement b does not best reflect the most logical and rational inferences that can be drawn from the passage as it does not highlight the implications of converting organic waste into natural fertilizer.\nStatement c is incorrect. While the idea is mentioned in the passage, it is narrower than option d as it does not highlight the problem of mounting waste. Therefore, statement c does not best reflect the most logical and rational inferences that can be drawn from the passage.\nStatement d is correct. It best reflects the most logical and rational inferences that can be drawn from the passage as it comprehensively highlights the problem of mounting waste and how it could be resolved by converting organic waste into natural fertilizer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q47",
+      "questionNumber": 47,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. Natural fertilizers produced from organic waste always support and protect soil health.",
+        "II. Natural fertilizers should replace chemical fertilizers as they offer a cost-competitive alternative.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. Natural fertilizers produced from organic waste always support and protect soil health. II. Natural fertilizers should replace chemical fertilizers as they offer a cost-competitive alternative. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage states “When processed properly, these diverse organic inputs produce compost rich in microbial life, humic acids, and slow-release nutrients, making it an invaluable natural fertiliser”, it does not anywhere discusses that it will always support and protect soil health. Therefore, the assumption is outside the scope of the passage and thus incorrect.\nStatement II is incorrect. While the passage states that organic component of waste can be transformed into natural fertilizers, it does not suggest replacing chemical fertilizers with natural fertilizers. Therefore, the assumption is outside the scope of the passage and thus incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q48",
+      "questionNumber": 48,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Let t be a real number between 0 and",
+        "1. Which of the following statements is/are correct?",
+        "I. t³ > t⁴",
+        "II. 1/t < 1/t²",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let t be a real number between 0 and 1. Which of the following statements is/are correct? I. t³ > t⁴ II. 1/t < 1/t² Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Given: 0 < t < 1 So t is a positive fraction. For any number between 0 and 1:\n- multiplying by t makes it smaller-higher positive powers become smaller-reciprocals become larger\nStatement I Compare: t³ and t⁴ Now: t⁴ = t³ × t Since 0 < t < 1, multiplying t³ by t makes it smaller. So: t⁴ < t³ Therefore: t³ > t⁴ So\n\nStatement I is correct.\nStatement II Compare: 1/t and 1/t² Since 0 < t < 1, squaring t makes it smaller: t² < t Now take reciprocals on both sides. When positive numbers are compared, taking reciprocals reverses the inequality:\n1/t² > 1/t So: 1/t < 1/t² Therefore,\n\nStatement II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q49",
+      "questionNumber": 49,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The difference between any two natural numbers is",
+        "13. What can be said about the natural numbers which are divisible by 6 and lie between these two numbers?"
+      ],
+      "questionText": "The difference between any two natural numbers is 13. What can be said about the natural numbers which are divisible by 6 and lie between these two numbers?",
+      "options": {
+        "a": "There is only one such number.",
+        "b": "There are exactly two such numbers.",
+        "c": "There can be more than two such numbers.",
+        "d": "No such number exists."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Let the two natural numbers be: x and x + 13 Then the numbers lying strictly between them are: x + 1, x + 2, x + 3, ..., x + 12 So there are exactly 12 consecutive integers between the two numbers.\nUse the divisibility pattern of 6 Multiples of 6 occur at regular intervals: ..., 6, 12, 18, 24, 30, ... So after every 6 numbers, one multiple of 6 appears.\nSince the interval contains 12 consecutive integers, and 12 ÷ 6 = 2 this interval will always contain exactly 2 multiples of 6. Example 1: Take the numbers 1 and 14 Numbers between them: 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13 Multiples of 6: 6, 12 So there are 2 such numbers.\nExample 2: Take the numbers 6 and 19 Numbers between them: 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18 Multiples of 6: 12, 18 Again, there are 2 such numbers.\nExample 3: Take the numbers 4 and 17 Numbers between them: 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 Multiples of 6: 6, 12 Again, there are 2 such numbers.\nIn every case, there are exactly 2 natural numbers divisible by 6 lying between the given two numbers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test13-q50",
+      "questionNumber": 50,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "There are 7 terminals P, Q, R, S, T, U and V in a server facility connected by various cables PQ, PR, RS, ST, QU,",
+        "TV, and UV. P is 9 m south of Q. P is 12 m west of R. S is 8 m east of T. R is 9 m north of S. U is 12 m west of Q. U is 18 m north of",
+        "V. A data packet travels from S to U through these cables. What is the distance covered by the packet?"
+      ],
+      "questionText": "There are 7 terminals P, Q, R, S, T, U and V in a server facility connected by various cables PQ, PR, RS, ST, QU, TV, and UV. P is 9 m south of Q. P is 12 m west of R. S is 8 m east of T. R is 9 m north of S. U is 12 m west of Q. U is 18 m north of V. A data packet travels from S to U through these cables. What is the distance covered by the packet?",
+      "options": {
+        "a": "40 m",
+        "b": "45 m",
+        "c": "43 m",
+        "d": "42 m"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Place the terminals using the given directions. Take P = (0, 0) Fix the positions-P is 9 m south of Q-So Q = (0, 9)\n- P is 12 m west of R-So R = (12, 0)\n- R is 9 m north of S-So S = (12, −9)\n- S is 8 m east of T-So T = (4, −9)\n- U is 12 m west of Q-So U = (−12, 9)\n- U is 18 m north of V-So V = (−12, −9) Use the cable connections The packet must travel from S to U through the given cables.\nS → R → P → Q → U Distances:\n- SR = 9 m-RP = 12 m-PQ = 9 m-QU = 12 m Total distance: 9 + 12 + 9 + 12 = 42 m",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

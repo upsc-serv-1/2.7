@@ -1,0 +1,1473 @@
+{
+  "id": "forum-sfg-2026-level-1-csat-test27",
+  "title": "Test 27- L1 SFG 2026 - Sectional - CSAT",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 80,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q01",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two Statements I and",
+        "II. Consider the Question and the Statements and mark the correct option.",
+        "Question: In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match?",
+        "Statement I: Team P scored 4 goals in the last 10 minutes.",
+        "Statement II: Team Q scored a total of 4 goals in the match.",
+        "Which one of the following is correct in respect of the above Question and the Statements? statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option. Question: In a football match, team P playing against Q was behind by 3 goals with 10 minutes remaining. Does team P win the match? Statement I: Team P scored 4 goals in the last 10 minutes. Statement II: Team Q scored a total of 4 goals in the match. Which one of the following is correct in respect of the above Question and the Statements? statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered using any of the Statements."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Team P was behind by 3 goals with 10 minutes remaining. Did P win?**Statement I: P scored 4 goals in the last 10 minutes. ** P’s final score = Initial score + 4.  However, we don’t know how many goals Q scored in the last 10 minutes. If Q scored ≥1 goal, P might not win.  Conclusion: Statement I alone is insufficient.**Statement II: Q scored a total of 4 goals in the match. ** Q’s total = 4 goals.  But we don’t know Q’s goals in the last 10 minutes or P’s final score.  Conclusion: Statement II alone is insufficient. Combining Both Statements:  Let Q’s goals in the last 10 minutes = y.  Total Q goals: Qinitial +y=4 .  Initial deficit: Qinitial − Pinitial =3.  P’s final score: Pinitial +4.  Possible scenarios: o If y=0: Qinitial =4, Pinitial =1. Final score: P = 5, Q = 4 → P wins. o If y=1: Qinitial =3, Pinitial =0. Final score: P = 4, Q = 4 → Draw. **Result**: P could win or draw. We cannot definitively answer \"yes\" or \"no.\"**The Question cannot be answered even using any of the Statements.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q02",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. P is younger than Q but older than R.",
+        "2. S is of the same age as Q.",
+        "3. U is younger than everyone except R.",
+        "4. R is not the oldest.",
+        "5. T is younger than S but older than P.",
+        "How many statements given above are required to determine the oldest person/persons?"
+      ],
+      "questionText": "Consider the following statements: 1. P is younger than Q but older than R. 2. S is of the same age as Q. 3. U is younger than everyone except R. 4. R is not the oldest. 5. T is younger than S but older than P. How many statements given above are required to determine the oldest person/persons?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All five"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** There are six persons P,Q,R,S,T,U From\n\nstatement 1: P is younger than Q but older than R Q> P>R……………….(a) From statement 2:\nS is of the same age as Q S=Q………………….(b) Combining (a) and (b) S=Q>P>R ………………….(c) From statement 3: U is younger than everyone except R Means U is second youngest and R is the youngest or U and R are of same age, means _>_>_>_>U>R or _>_>_>_>U=R………………….(d) From statement 4:\nR is not the oldest This is already known from the statement 1 which says P is older than R Thus there is no need for this statement. From statement 5: T is younger than S but older than P S>T>P………………….(e) Combining (c), (d) and (e) S=Q>T>P>U>R or S=Q>T>P>U=R Thus, S and Q are the oldest.\nThus only four statements 1,2,3 and 5 are required to determine the oldest person/persons.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q03",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "Consider the following including the Question and the Statements:",
+        "There are six members in a family: A, B, C, D, E and F.",
+        "Question : What is the relation of F to B?",
+        "Statements 1 : B is the only brother of C.",
+        "Statements 2 : A is the mother of D and is married to B.",
+        "Statements 3 : E is the sister of D but is not the daughter of B.",
+        "Statements 4 : F is the son of E.",
+        "Which one of the following is correct in respect of the above Question and Statements?"
+      ],
+      "questionText": "Consider the following including the Question and the Statements: There are six members in a family: A, B, C, D, E and F. Question : What is the relation of F to B? Statements 1 : B is the only brother of C. Statements 2 : A is the mother of D and is married to B. Statements 3 : E is the sister of D but is not the daughter of B. Statements 4 : F is the son of E. Which one of the following is correct in respect of the above Question and Statements?",
+      "options": {
+        "a": "Statement-1, Statement-2 and Statement-3 are sufficient to answer the Question.",
+        "b": "Statement-1, Statement-3 and Statement-4 are sufficient to answer the Question.",
+        "c": "All four statements together are sufficient to answer the Question.",
+        "d": "All four statements are not sufficient to answer the Question."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** From statement 1: B is the only brother of C Means, B and C are siblings B is male and C’s gender is not known yet.\nFrom statement 2: A is the mother of D and is married to B Means, A(female) is wife of B(male) and D is their child (gender is unknown) From statement 3:\nE is the sister of D but is not the daughter of B As per the statement 2, D is the child of B But this statement says that E is not the daughter of B. So E must be the daughter of A from another relationship.\nFrom statement 4: F is the son of E From statement 3 and 4: F is grandson of A, but not of B Combining all the statements, F is the step-grandson of B.\nThus all four statements together are sufficient to answer the Question.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q04",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Classification",
+      "statementLines": [
+        "Choose the group which is different from the others :"
+      ],
+      "questionText": "Choose the group which is different from the others :",
+      "options": {
+        "a": "26, 39, 52, 65",
+        "b": "34, 51, 68, 85",
+        "c": "38, 57, 76, 95",
+        "d": "42, 84, 105, 126"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer ** When we check all the groups Group a: All numbers are consecutive multiples of 13 (multiplied by 2,3,4,and 5 consecutively) 26=13*2, 39=13*3, 52=13*4, 65=13*5 Group b: All numbers are consecutive multiples of 17 (multiplied by 2,3,4,and 5 consecutively) 34=17*2, 51=17*3, 68=17*4, 85=17*5 Group c: All numbers are consecutive multiples of 19 (multiplied by 2,3,4,and 5 consecutively) 38=19*2, 57=19*3, 76=19*4, 95=19*5 Group d: All numbers are multiples of 21 but not in consecutive order like other groups 42=21*2, 84=21*4, 105=21*5, 126=21*6 Thus group d is different from others.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q05",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Calendar",
+      "statementLines": [
+        "If today is Wednesday, then which day is it exactly on 9²⁵th day?"
+      ],
+      "questionText": "If today is Wednesday, then which day is it exactly on 9²⁵th day?",
+      "options": {
+        "a": "Friday",
+        "b": "Sunday",
+        "c": "Monday",
+        "d": "Tuesday"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer ** Today is Wednesday, which repeats after 7 days The 9²⁵th day will be calculated by dividing 9²⁵ by 7.\n9²⁵/7 As 9 is bigger than 7, thus in rule of division, first 9¹ is divided by 7 9¹/7, remainder = 2 Now, 2²⁵ will be divided by 7 We know that powers of 2 have a cyclicity of 4 2¹=2, 2²=4, 2³=8 2⁴=16(unit digit=6) 2⁵=32(unit digit=2, same as 2¹) Now, 25/4, remainder = 2 2/7, remainder= 2 Thus, 9²⁵/7 gives the remainder of 2 Thus on 9²⁵th day, the day will be Wednesday+2, which is Friday",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC NDA",
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "nda",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "UPSC NDA Prelims None"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q06",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Seating Arrangement",
+      "statementLines": [
+        "There are 36 seats arranged in a circular hall, numbered 1 to 36 clockwise. A marker is initially placed on Seat-1.",
+        "The marker is moved clockwise. In the first move, it advances 2 seats. In the second move, it advances 4 seats. In the third move, it advances 6 seats and so on, increasing by 2 seats each time. After how many moves (including the starting position) will the marker again be on Seat-1?"
+      ],
+      "questionText": "There are 36 seats arranged in a circular hall, numbered 1 to 36 clockwise. A marker is initially placed on Seat-1. The marker is moved clockwise. In the first move, it advances 2 seats. In the second move, it advances 4 seats. In the third move, it advances 6 seats and so on, increasing by 2 seats each time. After how many moves (including the starting position) will the marker again be on Seat-1?",
+      "options": {
+        "a": "6",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer ** Total seat = 36 Starting from seat 1 Moving pattern : First move = 2 seats Second move = 4 seats Third move = 6 seats And so on…..\nMove number Steps ahead Total steps 1 2 2 2 4 6 3 6 12 4 8 20 5 10 30 6 12 42 7 14 56 8 16 72 36 seats = 1 round 72 seats = 2 rounds Means, after 8 moves, the marker is back at seat 1.\nTotal moves (including the starting position ) = 8+1 = 9",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q07",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "What is the middle term of the sequence A,B,B,C,C,C,D,E,E,F,F,F,G,H,H,I,I,I,… ,Z ?"
+      ],
+      "questionText": "What is the middle term of the sequence A,B,B,C,C,C,D,E,E,F,F,F,G,H,H,I,I,I,… ,Z ?",
+      "options": {
+        "a": "L",
+        "b": "M",
+        "c": "N",
+        "d": "O"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** The given sequence follows the following pattern : Every three letters from the alphabet, 1st letter repeats 1 time, 2nd repeats 2 times, and third repeats 3 times.\nA repeats 1 time B repeats 2 times, and C repeats 3 times. Total letters A+B+B+C+C+C = 6 This pattern follows till X, which means there are 8 groups (ABC, DEF, GHI, JKL, MNO, PQR, STU, VWX) and YZ Y will again repeats 1 time and Z will repeats 2 times = 3letters (YZZ) So total letters = 8 groups*6 + 3 = 51 Thus the middle term will be the 26th letter of the sequence.\nUp to L, there are 4 groups = 24 letters M repeats 1time = 25th N repeats 2 times = 26th letter Thus, the middle term will be N.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q08",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "Consider the following :",
+        "I. A # B means A is neither greater nor equal to B",
+        "II. A @ B means A is not smaller than B",
+        "III. A $ B means A is neither smaller nor greater than B",
+        "IV. A ! B means A is not greater than B Statement : M @ N, N ! P, P # Q, Q $ R Conclusion-1 : M @ P",
+        "Conclusion-2 : R # M",
+        "Which one of the following is correct in respect of the above statement and the conclusions ?"
+      ],
+      "questionText": "Consider the following : I. A # B means A is neither greater nor equal to B II. A @ B means A is not smaller than B III. A $ B means A is neither smaller nor greater than B IV. A ! B means A is not greater than B Statement : M @ N, N ! P, P # Q, Q $ R Conclusion-1 : M @ P Conclusion-2 : R # M Which one of the following is correct in respect of the above statement and the conclusions ?",
+      "options": {
+        "a": "Only conclusion 1 follows from the statement",
+        "b": "Only conclusion 2 follows from the statement",
+        "c": "Both conclusion 1 and conclusion 2 follow from the statement",
+        "d": "Neither conclusion 1 nor conclusion 2 follows from this statement"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer ** First decode the symbols A # B means A<B A @ B means A≥B A $ B means A=B A ! B means A≤B Now decode the statement M @ N = M≥N N ! P = N≤P P # Q = P<Q Q $ R = Q=R Combining these M≥N≤P<Q=R………………..(1) Now check the conclusion 1 that says, M @ P or M≥P As per equation 1, Conclusion 1 cannot be established.\nNow cheque the conclusion 2 that says R # M or R<M As per the equation 1, Conclusion 2 also cannot be established. Thus neither conclusion 1 nor conclusion 2 follows from this statement",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q09",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "Consider the sequence AB_BCD_ _EDEFE_GFGH that follows a certain pattern.",
+        "Which one of the following completes the sequence?"
+      ],
+      "questionText": "Consider the sequence AB_BCD_ _EDEFE_GFGH that follows a certain pattern. Which one of the following completes the sequence?",
+      "options": {
+        "a": "BCDE",
+        "b": "CCDF",
+        "c": "CCDD",
+        "d": "DEFF"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer ** First count the total number of letters. There are total 18 letters Now divide these 18 letters into 3*6 or 6*3 Means 6 groups of 3 letters or 3 groups of 6 letters.\nFirst let’s try six groups of three letters AB_ BCD _ _E DEF E_G FGH The sequence follows a pattern The second group starts from the second letter of previous group Similarly the third group starts from the second letter of second group Thus the complete sequence will be ABC BCD CDE DEF EFG FGH Thus, the letters C, C, D and F will complete the sequence.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q10",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "Consider the following statements in respect of five employees A, B, C, D and E. Three statements are true and one is false.",
+        "True Statement : Exactly one of A and B, attended the meeting.",
+        "True Statement : At least two among C, D and E attended the meeting.",
+        "True Statement : At most three persons attended the meeting.",
+        "False Statement : D did not attend the meeting.",
+        "Which of the following conclusions can be drawn ?",
+        "1. D attended the meeting.",
+        "2. C attended the meeting.",
+        "Select the correct answer using the code given below :"
+      ],
+      "questionText": "Consider the following statements in respect of five employees A, B, C, D and E. Three statements are true and one is false. True Statement : Exactly one of A and B, attended the meeting. True Statement : At least two among C, D and E attended the meeting. True Statement : At most three persons attended the meeting. False Statement : D did not attend the meeting. Which of the following conclusions can be drawn ? 1. D attended the meeting. 2. C attended the meeting. Select the correct answer using the code given below :",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer ** The false statement : D did not attend the meeting Means, D attended the meeting…………..(a) This directly supports the Conclusion 1 Now, the 2nd true statement : At least two among C, D and E attended the meeting.\nFrom (a), we know that D attended the meeting So, at least one of C or E must have attended the meeting…………….(b) Now the third true statement : At most three persons attended the meeting.\nNow count the confirmed attendees From statement 1 exactly one of a or b = 1 person From (a), D attended = 1 person From (b), either C or E = 1 person, means, it is not confirmed whether C attended the meeting or E Thus, conclusion 2 cannot be drawn",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q11",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Logical Puzzles",
+      "statementLines": [
+        "Seven books P, Q, R, S, T, U and V are placed side by side. R, Q and T have blue covers and other books have red covers. Only S and U are new books and the rest are old. P, R and S are law reports; the rest are Gazetteers. Books of old Gazetteers with blue covers are"
+      ],
+      "questionText": "Seven books P, Q, R, S, T, U and V are placed side by side. R, Q and T have blue covers and other books have red covers. Only S and U are new books and the rest are old. P, R and S are law reports; the rest are Gazetteers. Books of old Gazetteers with blue covers are",
+      "options": {
+        "a": "Q and R",
+        "b": "Q and U",
+        "c": "Q and T",
+        "d": "T and U"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. ** The given information is represented in below table: From the given table, we can see that Books of old Gazetteers with blue covers are Q and T.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q12",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "The letters of the word \"INCOMPREHENSIBILITIES\" are arranged in a way that all vowels are placed first, in alphabetical order, then all consonants are placed, also in alphabetical order. How many positions of the letter/letters will remain unchanged?"
+      ],
+      "questionText": "The letters of the word \"INCOMPREHENSIBILITIES\" are arranged in a way that all vowels are placed first, in alphabetical order, then all consonants are placed, also in alphabetical order. How many positions of the letter/letters will remain unchanged?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer ** Word \"INCOMPREHENSIBILITIES\" = 21 letters (9 vowels and 12 consonants) Arranging all letters in alphabetical order, first vowels and then consonants.\nE E E I I I I I O B C H L M N N P R S S T Now compare the positions of these letters with letters of original word E I E N E C I O I M I P I R I E O H B E C N H S L I M B N I N L P I R T S I S E T S There is no such letter whose position is unchanged.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q13",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "For five athletes, their ages are in increasing order and form an arithmetic sequence with a constant difference of 3 years.",
+        "Question : What is the age of the youngest athlete ?",
+        "Statement–1 : The age of the youngest athlete is one–sixth of the total age of all five athletes.",
+        "Statement–2 : The average age of the athletes is less than 40 years.",
+        "Which one of the following is correct in respect of the above Question and the Statements ?",
+        "Statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "For five athletes, their ages are in increasing order and form an arithmetic sequence with a constant difference of 3 years. Question : What is the age of the youngest athlete ? Statement–1 : The age of the youngest athlete is one–sixth of the total age of all five athletes. Statement–2 : The average age of the athletes is less than 40 years. Which one of the following is correct in respect of the above Question and the Statements ? Statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even by using both the Statement together."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer ** Assume the age of youngest athlete = x Then, ages of five athletes = x, x+3, x+6, x+9, x+12 Total age = 5x+30 Now using statement 1 alone The age of the youngest athlete is one–sixth of the total age of all five athletes.\nx = (5x+30)/6 6x = 5x+30 x = 30 Thus, statement 1 alone is sufficient to answer the question Now using statement 2 alone The average age of the athletes is less than 40 years.\n(x + x+3+ x+6 + x+9 + x+12)/5 < 40 5x+30 <200 5x < 170 x < 170/5 x< 34 The value of x can be any value less than 34 Thus, statement 2 alone is not sufficient.\nThe question can be answered by using one of the statements alone, but cannot be answered using the other statement alone.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q14",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two statements I and",
+        "II. Consider the Question and the Statements and mark the correct option.",
+        "Question : How is M related to T?",
+        "Statement I : M is the only son of N and N is the father of L.",
+        "Statement II : The husband of L is the maternal uncle of T.",
+        "Which one of the following is correct in respect of the above Question and the Statements ?",
+        "Statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option. Question : How is M related to T? Statement I : M is the only son of N and N is the father of L. Statement II : The husband of L is the maternal uncle of T. Which one of the following is correct in respect of the above Question and the Statements ? Statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even by using both the Statement together."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** Using statement 1 alone M is the only son of N and N is the father of L. Means, L is sister of M There is no information regarding T.\nThus statement 1 alone is not sufficient. Using statement 2 alone The husband of L is the maternal uncle of T. Means, L’s husband is the brother of T’s mother.\nWe still do not know how M is related to L. Thus statement 2 alone is not sufficient. Using both statements together L is sister of M and L is maternal aunt of T Thus M is maternal uncle of T The question can be answered by using both the statements together, but cannot be answered using either statement alone.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q15",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two statements I and",
+        "II. Consider the Question and the Statements and mark the correct option.",
+        "Question : In a hockey match, Team X was trailing Team Y by 5 goals with 15 minutes remaining.",
+        "Did Team X win the match?",
+        "Statement I : In the last 15 minutes, Team X scored twice as many goals as Team Y.",
+        "Statement II : The total number of goals scored by both teams in the match was 13.",
+        "Which one of the following is correct in respect of the above Question and the Statements ?",
+        "Statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is given followed by two statements I and II. Consider the Question and the Statements and mark the correct option. Question : In a hockey match, Team X was trailing Team Y by 5 goals with 15 minutes remaining. Did Team X win the match? Statement I : In the last 15 minutes, Team X scored twice as many goals as Team Y. Statement II : The total number of goals scored by both teams in the match was 13. Which one of the following is correct in respect of the above Question and the Statements ? Statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even by using both the Statement together."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** Before 15 minutes Y was 5 goals ahead of X Possibilities, X = 0, Y = 5 X = 1 Y = 6…..so on Let assume minimum X = 0 and Y = 5 Using statement 1 alone In the last 15 minutes, Team X scored twice as many goals as Team Y.\nLet team Y scores = k Team X scores = 2k Net gain by team X = 2k-k = k Initially, team X was trailing Team Y by 5 goals Without the value of k, we cannot confirm if team X overcame this deficit or not.\nThus statement 1 alone is not sufficient. Using statement 2 alone The total number of goals scored by both teams in the match was 13. There is no information regarding the distribution of goals between the teams in the last 15 minutes. Thus statement 2 alone is not sufficient.\nUsing both statements together Before 15 minutes Y was 5 goals ahead of X Possibilities, X = 0, Y = 5 X = 1 Y = 6…..so on Let assume minimum X = 0 and Y = 5………………(a) In last 15 minutes X scored twice goals than Y Mean if Y scored 1 then X scores 2 (Y = 6 and X = 2) If Y scored 2 then X scores 4 (Y = 7 and X = 4) Then Y have already surpassed the half goals of total 13 Thus, X cannot win the match.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q16",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two statements, I and",
+        "II. Examine the question and the statements and determine",
+        "which of the statements is sufficient to answer the question.",
+        "The ages of X and Y are two-digit integers. The age of Y is obtained by reversing the digits of the age of",
+        "X. Both X and Y are older than 20 years but younger than 90 years.",
+        "What is the age of X?",
+        "Statement I: The product of the digits of X’s age is a prime number.",
+        "Statement II: The absolute difference between the ages of X and Y is equal to three times the sum of the digits of X’s age.",
+        "Which one of the following is correct in with respect to the above question and statements? statement alone. statement alone."
+      ],
+      "questionText": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question. The ages of X and Y are two-digit integers. The age of Y is obtained by reversing the digits of the age of X. Both X and Y are older than 20 years but younger than 90 years. What is the age of X? Statement I: The product of the digits of X’s age is a prime number. Statement II: The absolute difference between the ages of X and Y is equal to three times the sum of the digits of X’s age. Which one of the following is correct in with respect to the above question and statements? statement alone. statement alone.",
+      "options": {
+        "a": "The question can be answered by using one of the statements alone, but cannot be answered using the other",
+        "b": "The question can be answered by using either statement alone.",
+        "c": "The question can be answered by using both the statements together, but cannot be answered using either",
+        "d": "The question cannot be answered even by using both the statements together."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Given Information **- Let the age of X be a two-digit number written as: - X = 10a + b-where a is the tens digit and b is the units digit. - The age of Y is obtained by reversing the digits of X: - Y = 10b + a-Both X and Y are greater than 20 and less than 90.**Statement I Analysis **Statement I:**The product of the digits of X’s age is a prime number. - The product of the digits is a × b. - A prime number has exactly two positive factors. - Therefore, one of the digits must be 1 and the other must be a prime digit (2, 3, 5, or 7). - Since X is greater than 20, the tens digit cannot be 1. Hence: - b = 1-a ∈ {3, 5, 7} Possible values of X: - 31-51-71 Since more than one value of X is possible,**Statement I alone is not sufficient**.**Statement II Analysis **Statement II:**The absolute difference between the ages of X and Y is equal to three times the sum of the digits of X’s age. Absolute difference between X and Y: |X − Y| = |(10a + b) − (10b + a)| = |9a − 9b| = 9|a − b| According to the statement: 9|a − b| = 3(a + b) Dividing both sides by 3: 3|a − b| = a + b**Case: a > b **3(a − b) = a + b 2a = 4b a = 2b Possible digit pairs: - a = 4, b = 2 → X = 42-a = 6, b = 3 → X = 63-a = 8, b = 4 → X = 84 All satisfy the given conditions. Since multiple values of X are possible,**Statement II alone is not sufficient**.**Combined Analysis of Statements I and II **- From Statement I, possible values of X are: - 31, 51, 71-From Statement II, possible values of X are: - 42, 63, 84 There is no common value between the two sets. Therefore,**even using both statements together, the age of X cannot be determined**.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q17",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two statements, I and",
+        "II. Examine the question and the statements and determine",
+        "which of the statements is sufficient to answer the question.",
+        "Four persons P, Q, R and S appeared in a test. Is P’s score greater than Q’s score?",
+        "Statement I: P’s score is greater than R’s score, and the sum of the scores of P and S is equal to the sum of the scores of Q and R.",
+        "Statement II: Q’s score is less than S’s score, and the sum of the scores of P and R is equal to the sum of the scores of",
+        "Q and S.",
+        "Which one of the following is correct with respect to the question and statements given above?",
+        "Statement alone Statement alone"
+      ],
+      "questionText": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question. Four persons P, Q, R and S appeared in a test. Is P’s score greater than Q’s score? Statement I: P’s score is greater than R’s score, and the sum of the scores of P and S is equal to the sum of the scores of Q and R. Statement II: Q’s score is less than S’s score, and the sum of the scores of P and R is equal to the sum of the scores of Q and S. Which one of the following is correct with respect to the question and statements given above? Statement alone Statement alone",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Let the scores of P, Q, R and S be represented by p, q, r and s respectively.**Statement I Analysis **Given: - p > r-p + s = q + r From the second condition: p − q = r − s We do not know the relationship between r and s. Hence, p − q can be positive, zero, or negative. Therefore,**it cannot be determined whether p > q**. Statement I alone is**not sufficient**.**Statement II Analysis **Given: - q < s-p + r = q + s From the second condition: p − q = s − r Since we are not given the relation between s and r, the sign of s − r is unknown. Hence,**p may be greater than, equal to, or less than q**. Statement II alone is**not sufficient**.**Combined Analysis of Statement I and II **From Statement I: p − q = r − s From Statement II: p − q = s − r Equating both: r − s = s − r 2r = 2s r = s Substitute r = s into p − q = r − s: p − q = 0 p = q Thus,**P’s score is not greater than Q’s score**. A definite answer is obtained. The Question can be answered by using both the Statements together but cannot be answered using either Statement alone.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q18",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is given followed by two statements, I and",
+        "II. Examine the question and the statements and determine",
+        "which of the statements is sufficient to answer the question.",
+        "What is the exact area of a rectangular plot of land?",
+        "Statement I: The distance between the two most distant points on the perimeter of the rectangular plot is exactly 100 meters.",
+        "Statement II: The perimeter of the rectangular plot is exactly 280 meters.",
+        "Which one of the following options is correct with respect to the question and statements give above? statement alone."
+      ],
+      "questionText": "A question is given followed by two statements, I and II. Examine the question and the statements and determine which of the statements is sufficient to answer the question. What is the exact area of a rectangular plot of land? Statement I: The distance between the two most distant points on the perimeter of the rectangular plot is exactly 100 meters. Statement II: The perimeter of the rectangular plot is exactly 280 meters. Which one of the following options is correct with respect to the question and statements give above? statement alone.",
+      "options": {
+        "a": "The question can be answered by using only one of the statements alone, but not the other Statement alone.",
+        "b": "The question can be answered by using either statement alone.",
+        "c": "The question can be answered by using both the statements together, but cannot be answered by using either",
+        "d": "The question cannot be answered even by using both the statements together."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Let Length = L Breadth = B**Statement I:**In a rectangle, the**two most distant points on the perimeter are opposite corners**. Distance between opposite corners = diagonal. So, Diagonal = 100 Using Pythagoras: L² + B² = 100² L² + B² = 10000 This is**one equation with two unknowns**→ infinitely many solutions. Area = L × B**cannot be uniquely determined**Statement II:**Perimeter = 280 2(L + B) = 280 L + B = 140 Again,**one equation with two unknowns**→ infinitely many solutions. Area = L × B**cannot be uniquely determined**Using Both Statements Together **From Statement II: L + B = 140 Square both sides: (L + B)² = 140² L² + B² + 2LB = 19600 From Statement I: L² + B² = 10000 Substitute: 10000 + 2LB = 19600 2LB = 9600 LB = 4800 Area = L × B =**4800 square meters**The area is**uniquely determined**only when**both statements are used together**.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q19",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "If 'BRIGHT' is written as 'UIHJSC', then how is 'CANDLE' written?"
+      ],
+      "questionText": "If 'BRIGHT' is written as 'UIHJSC', then how is 'CANDLE' written?",
+      "options": {
+        "a": "FMEOAD",
+        "b": "FMEMBD",
+        "c": "FMEOBD",
+        "d": "FNEOBD"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **Here the pattern being followed is**Reverse the word and replace each letter with its next letter in the alphabet. ** Reverse of BRIGHT is THGIRB Replace each letter in THGIRB with next one T = U H = I G = H I = J R = S B = C Thus, BRIGHT is written as UIHJSC Now the word CANDLE Reverse of CANDLE is ELDNAC Replace each letter in ELDNAC with next one E = F L = M D = E N =O A = B C = D Thus, CANDLE is written as FMEOBD",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q20",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "What comes at X and Y, respectively in the following sequence?",
+        "January, February, December, March, X, April, Y"
+      ],
+      "questionText": "What comes at X and Y, respectively in the following sequence? January, February, December, March, X, April, Y",
+      "options": {
+        "a": "November, October",
+        "b": "October, January",
+        "c": "November, February",
+        "d": "October, December"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Assign numerical values to the months according to their calendar positions: January = 1, February = 2, …, December = 12.**Step **Current Month **Month **Number **Operation **Applied **Resulting Month **1 January 1 +1 February (2) 2 February 2 −2 December (12) 3 December 12 +3 March (3) 4 March 3 −4 November (11) 5 November 11 +5 April (4) 6 April 4 −6 October (10)**Pattern Identified **1. The sequence alternates between addition and subtraction. 2. The number added or subtracted increases by 1 at each step: 3. +1, −2, +3, −4, +5, −6. 4. Month values follow a cyclical count from 1 to 12.**Conclusion **-**X = November**-**Y = October**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q21",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Seating Arrangement",
+      "statementLines": [
+        "A is 16th from the left end in a row or boys and V is 18th from the right end. G is 11th from A towards the right and",
+        "3rd from V towards the right end. How many boys are there in the row?"
+      ],
+      "questionText": "A is 16th from the left end in a row or boys and V is 18th from the right end. G is 11th from A towards the right and 3rd from V towards the right end. How many boys are there in the row?",
+      "options": {
+        "a": "40",
+        "b": "41",
+        "c": "42",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Given; A is 16th from the left end. V is 18th from the right end. Q is 11th from A towards the right.\nQ is 3rd from V towards the right end. Since A’s position from the left and V’s position from the right don’t directly give us the total number of boys, we need to use the positions of Q relative to A and V to find it.\nQ is 11th from A towards the right. This means Q is at 16+11=27 from the left end. Q is 3rd from V towards the right end. This means Q is at 18−3=15 from the right end.\nNow, let’s determine the total number of boys in the row: From the position of Q from the left end (27th position), we know there are 26 boys to the left of Q From the position of Q from the right end (15th position), we know there are 14 boys to the right of Q Therefore, the total number of boys in the row is:\n26 (left of Q) +1 (Q) +14 (right of Q) = 41 So, there are 41 boys in the row.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q22",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "If 2 * 3 = ∛(35) and 1 * 4 = ∛(65) then what is the value of 3 * 5 ?"
+      ],
+      "questionText": "If 2 * 3 = ∛(35) and 1 * 4 = ∛(65) then what is the value of 3 * 5 ?",
+      "options": {
+        "a": "∛(98)",
+        "b": "∛(152)",
+        "c": "∛(216)",
+        "d": "∛(123)"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The symbol * represents a non-standard mathematical operation. The rule governing this operation must be deduced from the given relations.**Analysing the first given expression **2 * 3 = ∛(35) Calculate cubes of the numbers: - 2³ = 2 × 2 × 2 = 8-3³ = 3 × 3 × 3 = 27 Add the cubes: - 8 + 27 = 35 Taking cube root: - ∛(8 + 27) = ∛(35) Thus, 2 * 3 = ∛(2³ + 3³)**Verifying the rule using the second expression **1 * 4 = ∛(65) Calculate cubes: - 1³ = 1-4³ = 4 × 4 × 4 = 64 Add the cubes: - 1 + 64 = 65 Taking cube root: - ∛(1 + 64) = ∛(65) This confirms the same rule.**Defining the operation **From the above verification, the operation is defined as: a * b = ∛(a³ + b³)**Applying the rule to the required expression **3 * 5 Calculate cubes: - 3³ = 27-5³ = 125 Add the cubes: - 27 + 125 = 152 Apply cube root: - 3 * 5 = ∛(152) 3 * 5 = ∛**(152)**Therefore, Option b is the correct answer **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q23",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. If M > N ≥ O ≠ P > Q = R, then N is always greater than Q.",
+        "II. If W ≮ X ≤ Y ≯ Z, then W is always greater than or equal to Z.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. If M > N ≥ O ≠ P > Q = R, then N is always greater than Q. II. If W ≮ X ≤ Y ≯ Z, then W is always greater than or equal to Z. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Each statement is examined independently to check whether the conclusion**always**follows from the given conditions.**Statement I **Given:**M > N ≥ O ≠ P > Q = R**To check:**Is N always greater than Q?**Breaking down the given relations **- M > N → N is less than M-N ≥ O → N is greater than or equal to O-O ≠ P → O and P are unequal, but no order is given-P > Q → P is greater than Q-Q = R**Identifying the critical ambiguity**The relation**O ≠ P**does not indicate whether: - O > P, or-O < P Hence, no definite order can be established between O and P.**Testing both possible cases **Case 1: O > P**- N ≥ O and O > P > Q-Therefore, N > Q-Conclusion holds in this case**Case 2: O < P**- Choose values: - O = 1, P = 5-N = 1 (since N ≥ O) - Q = 4 (since P > Q) - Then N = 1 and Q = 4-N is not greater than Q**Conclusion for Statement I **Since N is not greater than Q in all possible cases, the conclusion does**not always**follow.**\n\nStatement I is incorrect.**Statement II **Given:**W ≮ X ≤ Y ≯ Z**To check:**Is W always greater than or equal to Z?**Interpreting the symbols **- W ≮ X means W is not less than X → W ≥ X-X ≤ Y-Y ≯ Z means Y is not greater than Z → Y ≤ Z**Combining the relations **- From X ≤ Y and Y ≤ Z, we get X ≤ Z-We are also given W ≥ X Thus, the known relations are: W ≥ X and X ≤ Z**Checking whether W ≥ Z necessarily follows **W ≥ X and X ≤ Z does**not**imply W ≥ Z.**Providing a counterexample **Choose values: - W = 5-X = 4-Y = 10-Z = 12 Check conditions: - W ≥ X → 5 ≥ 4 - - - - valid-X ≤ Y → 4 ≤ 10 - - - - valid-Y ≯ Z → 10 ≤ 12 - - - - valid But: - W = 5 < Z = 12 So, W is**not**greater than or equal to Z.**Conclusion for Statement II **Since the conclusion does not hold in all cases:**\n\nStatement II is incorrect.**Neither Statement I nor Statement II is correct.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q24",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "Consider the following Statement and Conclusions:",
+        "Statement: In the last decade, Company Alpha’s annual expenditure on employee wellness programs has increased by",
+        "500%, while the average number of sick days taken per employee has decreased by half.",
+        "Conclusion – I: The wellness programs are the primary reason for the improvement in employee health at Company",
+        "Alpha.",
+        "Conclusion – II: The total number of sick days taken by the entire workforce last year was lower than the total number of sick days taken ten years ago.",
+        "Which one of the following is correct?"
+      ],
+      "questionText": "Consider the following Statement and Conclusions: Statement: In the last decade, Company Alpha’s annual expenditure on employee wellness programs has increased by 500%, while the average number of sick days taken per employee has decreased by half. Conclusion – I: The wellness programs are the primary reason for the improvement in employee health at Company Alpha. Conclusion – II: The total number of sick days taken by the entire workforce last year was lower than the total number of sick days taken ten years ago. Which one of the following is correct?",
+      "options": {
+        "a": "Only Conclusion I follows",
+        "b": "Only Conclusion II follows",
+        "c": "Both Conclusion I and Conclusion II follow",
+        "d": "Neither Conclusion I nor Conclusion II follows"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Let us analyze each of the conclusions after having read the statement. Conclusion I: **- The statement only establishes a**correlation**between increased spending on wellness programs and reduced average sick days. - It does not provide evidence of a**cause–effect relationship**. - Other factors (changes in workforce demographics, work-from-home practices, improved healthcare access, etc.) could also explain the reduction. - Hence, it cannot be concluded that the wellness programs are the**primary reason**for improved employee health. Conclusion I does not follow. **Conclusion II: **- The statement refers only to the**average number of sick days per employee**, not the**total number of sick days**. - The total number of sick days depends on the**size of the workforce**, which may have increased or decreased over the decade. - Without information on changes in the number of employees, no definite conclusion can be drawn about total sick days.**Conclusion II does not follow.**Neither of the conclusions logically follows from the given statement. ** Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q25",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "Select the number from among the given options that can replace the question mark (?) in the following series.",
+        "1, 730, 218, 561, ?, 470"
+      ],
+      "questionText": "Select the number from among the given options that can replace the question mark (?) in the following series. 1, 730, 218, 561, ?, 470",
+      "options": {
+        "a": "365",
+        "b": "345",
+        "c": "291",
+        "d": "384"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **After analyzing the pattern we get the following: The sequence follows the**alternating addition and subtraction of decreasing consecutive cubes**, starting from 9³. 1. Start with 1 and add 9³ (729): 2. 1 + 729 = 730 3. Subtract 8³ (512) from the result: 4. 730-512 = 218 5. Add 7³ (343) to the result: 6. 218 + 343 = 561 7. Subtract 6³ (216) from the result: 8. 561-216 = 345 9. Add 5³ (125) to the result: 10. 345 + 125 = 470 Therefore, Option b is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q26",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "If P = +,Q = −, R = ×,S = ÷, insert the proper notations between the successive numbers in the equation:",
+        "16 _ 4 _ 2 _ 10 _ 5 = 13",
+        "Which one of the following options gives the correct sequence of operations?"
+      ],
+      "questionText": "If P = +,Q = −, R = ×,S = ÷, insert the proper notations between the successive numbers in the equation: 16 _ 4 _ 2 _ 10 _ 5 = 13 Which one of the following options gives the correct sequence of operations?",
+      "options": {
+        "a": "SPRQ",
+        "b": "SQRP",
+        "c": "SRPQ",
+        "d": "RQSP"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The numbers must be operated**strictly in the given order**, applying**BODMAS / order of operations**. Option (a): SPRQ S = ÷, P = +, R = ×, Q = − Expression: 16 ÷ 4 + 2 × 10 − 5 Calculation: - 16 ÷ 4 = 4-2 × 10 = 20 Now: 4 + 20 − 5 = 19 Result ≠ 13 Option (a) is incorrect. Option (b): SQRP S = ÷, Q = −, R = ×, P = + Expression: 16 ÷ 4 − 2 × 10 + 5 Calculation: - 16 ÷ 4 = 4-2 × 10 = 20 Now: 4 − 20 + 5 = −11 Result ≠ 13 Option (b) is incorrect. Option (c): SRPQ S = ÷, R = ×, P = +, Q = − Expression: 16 ÷ 4 × 2 + 10 − 5 Calculation: - 16 ÷ 4 = 4-4 × 2 = 8 Now: 8 + 10 − 5 = 13 Result = 13 Option (c) is correct. Option (d): RQSP R = ×, Q = −, S = ÷, P = + Expression: 16 × 4 − 2 ÷ 10 + 5 Calculation: - 16 × 4 = 64-2 ÷ 10 = 0.2 Now: 64 − 0.2 + 5 = 68.8 Result ≠ 13 Option (d) is incorrect.**Therefore, Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q27",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Logical Puzzles",
+      "statementLines": [
+        "Three teams X, Y, and Z participated in a tournament in which each team played every other team exactly once.",
+        "The scoring system was as follows. A win gives 2 points, a draw gives 1 point and a loss gives 0 points. Each team scored exactly 2 goals in the entire tournament. Team X scored 3 points. Team Y scored 2 points. Team Z scored 1 point.",
+        "Based on the above information, consider the following statements:",
+        "I. The match between Team X and Team Y ended in a 2–2 draw.",
+        "II. Team Z lost its match against Team X with a score of 1–2.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Three teams X, Y, and Z participated in a tournament in which each team played every other team exactly once. The scoring system was as follows. A win gives 2 points, a draw gives 1 point and a loss gives 0 points. Each team scored exactly 2 goals in the entire tournament. Team X scored 3 points. Team Y scored 2 points. Team Z scored 1 point. Based on the above information, consider the following statements: I. The match between Team X and Team Y ended in a 2–2 draw. II. Team Z lost its match against Team X with a score of 1–2. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.  The problem must be solved by simultaneously satisfying**points distribution**and**goal constraints**. Analysing the points obtained by each team Each team plays two matches. -**Team X (3 points)**- Only possible combination:**1 win (2 points) + 1 draw (1 point)**-**Team Y (2 points)**- Possible combinations: - 1 win + 1 loss, or-2 draws -**Team Z (1 point)**- Only possible combination:**1 draw + 1 loss**Determining match outcomes using logical consistency Since: - Team X has**1 win and 1 draw**- Team Z has**1 draw and 1 loss**Consider possibilities: - If X drew with Z, then Z’s loss would be against Y. - This would require Y to win one match, giving Y at least 2 points, but X already has a draw and needs a win — leading to contradiction. Therefore: -**X must have defeated Z**-**X must have drawn with Y**- The remaining match**Y vs Z**must be a**draw**Thus, match results are fixed as: - X vs Y → Draw-Y vs Z → Draw-X vs Z → X wins Applying the goal constraint (each team scored exactly 2 goals) Now assign scores consistent with: - Match outcomes above-Total goals per team = 2 Try feasible distributions: Final consistent score distribution: -**X vs Y**: 0 – 0 (Draw) -**Y vs Z**: 2 – 2 (Draw) -**X vs Z**: 2 – 0 (X wins) Check totals: - Team X: 0 + 2 =**2 goals**- Team Y: 0 + 2 =**2 goals**- Team Z: 2 + 0 =**2 goals**All conditions are satisfied.**Statement I:**- Claims X vs Y ended**2–2**- Actual result:**0–0**- Incorrect**Statement II:**- Claims Z lost to X**1–2**- Actual result:**0–2**- Incorrect Neither of the given statements is correct.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q28",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Blood Relations",
+      "statementLines": [
+        "A family consists of P, Q, R, S, T, U. P is the father of Q and the brother of R. S is the sister of T. T is the child of",
+        "U. U is the spouse of P. Q is the niece of R.",
+        "How many of the following statements are definitely true?",
+        "I. S is Q’s aunt.",
+        "II. U is R’s mother.",
+        "III. T is Q’s sibling.",
+        "IV. R is T’s aunt.",
+        "V. U is S’s sister-in-law.",
+        "VI. Q is female."
+      ],
+      "questionText": "A family consists of P, Q, R, S, T, U. P is the father of Q and the brother of R. S is the sister of T. T is the child of U. U is the spouse of P. Q is the niece of R. How many of the following statements are definitely true? I. S is Q’s aunt. II. U is R’s mother. III. T is Q’s sibling. IV. R is T’s aunt. V. U is S’s sister-in-law. VI. Q is female.",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "Only four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **After analyzing the given data we can create the following relationship diagram. Statement I S is Q’s aunt**- S and Q are siblings-A sibling cannot be an aunt**False**Statement II**U is R’s mother**- R is the sibling of P-U is P’s spouse, not P’s sibling-No information that U is parent of R**False**Statement III**T is Q’s sibling**- Both T and Q are children of U (and P)**True**Statement IV**R is T’s aunt**- R is P’s sibling-P is T’s parent-So R is T’s**aunt or uncle**- Gender of R is not specified**Not definitely true**Statement V**U is S’s sister-in-law**- U is S’s parent-A parent cannot be a sister-in-law**False**Statement VI**Q is female**- Q is stated to be a**niece**- “Niece” implies female**True**Final Count of Definitely True Statements-Statement III-Statement VI**Number of statements that are definitely true = 2**Therefore, Option b is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q29",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "If P means “not less than”, Q means “greater than”, R means “equal to”, S means “not greater than”, and T means",
+        "“less than”, then consider the following statements:",
+        "1. If 3x (S) 2y and 4y (R) 3z, then 2x (S) z.",
+        "2. If x (T) y and y (S) z, then x (T) z.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "If P means “not less than”, Q means “greater than”, R means “equal to”, S means “not greater than”, and T means “less than”, then consider the following statements: 1. If 3x (S) 2y and 4y (R) 3z, then 2x (S) z. 2. If x (T) y and y (S) z, then x (T) z. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Statement 1 Given: 3x (S) 2y ⟹ 3x ≤ 2y 4y (R) 3z ⟹ 4y = 3z From 3x ≤ 2y: x ≤ (2/3)y From 4y = 3z: y = (3/4)z Substituting y in x ≤ (2/3)y: x ≤ (2/3) × (3/4)z x ≤ (1/2)z Multiplying both sides by 2: 2x ≤ z This is exactly 2x (S) z. ∴**\n\nStatement 1 is correct.**Statement 2 Given: x (T) y ⟹ x < y y (S) z ⟹ y ≤ z From the transitive property of inequalities: x < y and y ≤ z ⇒ x < z This is exactly x (T) z. ∴**\n\nStatement 2 is correct.** Both Statement 1 and Statement 2 are correct. Therefore, Option c is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q30",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "A Main Statement is followed by four statements labelled P, Q, R, and S. You are required to choose the ordered pair(s) of statements such that the first statement logically implies the second, and both statements are logically consistent with the Main Statement.",
+        "Main Statement Whenever the stock market crashes, gold prices increase.",
+        "Statements ● P: Gold prices increased.",
+        "● Q: The stock market crashed.",
+        "● R: The stock market did not crash.",
+        "● S: Gold prices did not increase.",
+        "Which of the following is/are correct?"
+      ],
+      "questionText": "A Main Statement is followed by four statements labelled P, Q, R, and S. You are required to choose the ordered pair(s) of statements such that the first statement logically implies the second, and both statements are logically consistent with the Main Statement. Main Statement Whenever the stock market crashes, gold prices increase. Statements ● P: Gold prices increased. ● Q: The stock market crashed. ● R: The stock market did not crash. ● S: Gold prices did not increase. Which of the following is/are correct?",
+      "options": {
+        "a": "QP only",
+        "b": "RS only",
+        "c": "Both QP and SQ",
+        "d": "Both QP and RS"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Translating the Main Statement into logical form we get Let: - M = “The stock market crashes” - G = “Gold prices increase” Main Statement: M → G This means: - If the market crashes, gold prices must increase. - The converse (G → M) is**not stated**. - The negation of M does**not**determine G. Analysing each ordered pair Option (a): QP Q: The stock market crashed (M) P: Gold prices increased (G) - Logical implication: - M → G-Consistency with Main Statement: Fully consistent**QP is valid.**Option (b): RS R: The stock market did not crash (¬M) S: Gold prices did not increase (¬G) - Logical implication: - ¬M → ¬G (this does NOT follow from M → G) - Although ¬M and ¬G are**not inconsistent**with the Main Statement, - the required implication is missing.**RS is invalid.**Option (c): QP and SQ SQ: S: Gold prices did not increase (¬G) Q: The stock market crashed (M) - This implies ¬G → M which is invalid-This directly contradicts the Main Statement, since M → G. - Hence, SQ is logically inconsistent.**Option (c) is invalid.**Option (d): QP and RS-QP is valid (already established). - RS is invalid (no logical implication).**Option (d) is invalid.**Only the ordered pair**QP**satisfies both conditions: - The first statement implies the second. - Both are logically consistent with the Main Statement. Therefore, Option a is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q31",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Problems on Ages",
+      "statementLines": [
+        "Ena was born 4 years after her parents’ marriage. Her mother is three years younger than her father and 24 years older than Ena, who is 13 years old. At what age did Ena’s father get married?"
+      ],
+      "questionText": "Ena was born 4 years after her parents’ marriage. Her mother is three years younger than her father and 24 years older than Ena, who is 13 years old. At what age did Ena’s father get married?",
+      "options": {
+        "a": "22 years",
+        "b": "23 years",
+        "c": "24 years",
+        "d": "25 years"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Present age of Ena=13 years Present age of Ena’s Mother= 13+24=37 years Present age of Ena’s Father= 37+3=40 years Now as Ena was born 4 years after her parents’ marriage and her present age is 13. So, her parents’ marriage occurred 13+4=17 years ago.\nEna’s father’s present age is 40. So, his age 17 years ago would be 40-17=23 years.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q32",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Direction Sense",
+      "statementLines": [
+        "A person starts at Point A and walks 120 m North. He turns 45∘ to their right and walk 100 m. From there, he takes a 225∘ turn counter-clockwise and walks another 120 m. Finally, he turns 135∘ to his left and walks for some distance reaching F. In which direction is he facing now?"
+      ],
+      "questionText": "A person starts at Point A and walks 120 m North. He turns 45∘ to their right and walk 100 m. From there, he takes a 225∘ turn counter-clockwise and walks another 120 m. Finally, he turns 135∘ to his left and walks for some distance reaching F. In which direction is he facing now?",
+      "options": {
+        "a": "East",
+        "b": "South-West",
+        "c": "North-East",
+        "d": "South-East"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **After mapping out the position and movement of person A we can create the following diagram **We find that F point in the North East directions **Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q33",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Calendar",
+      "statementLines": [
+        "A man has a calendar for the year",
+        "2023. He observes that the same calendar can be reused for the months of January and February in a future year. Which of the following is the earliest year for which this is possible?"
+      ],
+      "questionText": "A man has a calendar for the year 2023. He observes that the same calendar can be reused for the months of January and February in a future year. Which of the following is the earliest year for which this is possible?",
+      "options": {
+        "a": "2028",
+        "b": "2029",
+        "c": "2031",
+        "d": "2034"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Key principle**- For January–February to match in two different years: - Both years must be**non-leap years**, and-The**total number of odd days**between the two years must be a**multiple of 7**. - Odd days: - Normal year =**1 odd day**- Leap year =**2 odd days**Identify the base year-2023 is a**non-leap year**- Hence, we count odd days from 2023 onwards until the total becomes a multiple of 7. Count odd days year-wise-2023 → 1-2024 (leap year) → 2-2025 → 1-2026 → 1-2027 → 1-2028 (leap year) → 2-2029 → 1**Total till 2029 = 1 + 2 + 1 + 1 + 1 + 2 + 1 = 9**- 9 is**not**a multiple of 7 → No match. Extend the count to the next cycle-2030 → 1-2031 → 1-2032 (leap year) → 2-2033 → 1 Now calculate total odd days from**2023 to 2033**: 1(2023) + 2(2024) + 1(2025) + 1(2026) + 1(2027) + 2(2028) + 1(2029) + 1(2030) + 1(2031) + 2(2032) + 1(2033) =**14**- 14 is a**multiple of 7**- Hence,**1 January 2034**falls on the**same weekday**as**1 January **2023-20**34 is also a **non-leap year**\nTherefore, **January and February calendars match exactly**. The earliest year in which the calendar of **January and February 2023** can be reused is **2034**.\n**Therefore, Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC NDA",
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "nda",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "UPSC NDA Prelims None"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q34",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "Consider the following statements regarding unit conversions:",
+        "1. 1 g/cm³ = 1000 kg/m³",
+        "2. 90 km/h = 25 m/s",
+        "3. 1 foot = 30.48 cm",
+        "4. 1 metric ton = 10 quintals",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding unit conversions: 1. 1 g/cm³ = 1000 kg/m³ 2. 90 km/h = 25 m/s 3. 1 foot = 30.48 cm 4. 1 metric ton = 10 quintals Which of the statements given above are correct?",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "2 and 4 only",
+        "c": "1, 2, and 4 only",
+        "d": "1, 2, 3, and 4"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Let us analyze each statement for its veracity. **Statement 1:**- 1 g = 10⁻³ kg and 1 cm³ = 10⁻⁶ m³-Therefore, 1 g/cm³ = (10⁻³ kg)/(10⁻⁶ m³) = 10³ kg/m³ = 1000 kg/m³ -**\n\nStatement 1 is correct.**Statement 2:**- 1 km/h = 5/18 m/s-Hence, 90 km/h = 90 × (5/18) = 25 m/s -**\n\nStatement 2 is correct.**Statement 3:**- By standard length conversion, 1 foot = 30.48 cm -**\n\nStatement 3 is correct.**Statement 4:**- 1 metric ton = 1000 kg-1 quintal = 100 kg-Therefore, 1 metric ton = 10 quintals -**\n\nStatement 4 is correct.** Therefore, all the given statements are correct. Therefore, Option d is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q35",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "Consider the following sequence:",
+        "W X _ Z Y _ W X _ Z W _ Y Z W _ X _ Z which follows a particular pattern.",
+        "Which one of the following options correctly completes the sequence?"
+      ],
+      "questionText": "Consider the following sequence: W X _ Z Y _ W X _ Z W _ Y Z W _ X _ Z which follows a particular pattern. Which one of the following options correctly completes the sequence?",
+      "options": {
+        "a": "Y, Z, Y, X, X, Y",
+        "b": "Y, X, Y, X, X, Y",
+        "c": "Z, X, Y, W, Z, X",
+        "d": "Y, Z, Y, X, W, Y"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Identification of the basic pattern**- The letters follow a cyclic order: - W → X → Y → Z-The sequence is constructed using repeating blocks of four letters.**Rule of progression**- Each successive 4-letter block is obtained by a rotation of**two positions forward**from the previous block.**Reconstruction of the sequence into blocks**- Block 1: W X Y Z-Block 2: Y Z W X-Block 3: W X Y Z-Block 4: Y Z W X**Determination of missing letters**- Filling the blanks according to the above blocks, the missing letters in order are: - Y, Z, Y, X, X, Y**Therefore, Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q36",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "On 1st January 2024, Alex started a savings plan. He saved an amount N dollars on the first day, where N is the smallest integer greater than 100 that leaves a remainder of 3 when divided by",
+        "7. Each subsequent day in January, Alex increased his daily savings by 5 dollars over the previous day. On the completion of a certain day D in January, Alex observed that his total accumulated savings was a perfect square, and its square root was a palindrome number. On which day did this first occur?"
+      ],
+      "questionText": "On 1st January 2024, Alex started a savings plan. He saved an amount N dollars on the first day, where N is the smallest integer greater than 100 that leaves a remainder of 3 when divided by 7. Each subsequent day in January, Alex increased his daily savings by 5 dollars over the previous day. On the completion of a certain day D in January, Alex observed that his total accumulated savings was a perfect square, and its square root was a palindrome number. On which day did this first occur?",
+      "options": {
+        "a": "7th January",
+        "b": "8th January",
+        "c": "9th January",
+        "d": "11th January"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **After having analyzed the given data we need to first determine the value of N. Determining the value of N We require N such that: - N > 100-N leaves a remainder of 3 when divided by 7. Checking: - 101 ÷ 7 leaves remainder 3 Therefore, N =**101**Identifying the nature of daily savings Daily savings form an arithmetic progression (AP): - First term, a = 101-Common difference, d = 5 Savings on day k = 101 + (k − 1) × 5 Sum of first k terms of an AP: Total savings = k/2 × [2a + (k − 1)d] = k/2 × [2(101) + 5(k − 1)] = k/2 × (202 + 5k − 5) = k(5k + 197)/2 Checking for the first perfect square which is also a palindrome Evaluate the sum for increasing values of k: For k = 9: Total savings = 9(5×9 + 197)/2 = 9(45 + 197)/2 = 9 × 242 / 2 =**1089**Now: - 1089 = 33² → perfect square-33 reads the same forwards and backwards → palindrome This is the**first occurrence**satisfying both conditions. The total accumulated savings first becomes a**palindromic perfect square**on the**9th day of January**.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q37",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Non-Verbal Reasoning",
+      "statementLines": [
+        "Images of consonants of the English alphabet (Capitals) are observed in a mirror. What is the number of images of these which do not look like their original shapes?"
+      ],
+      "questionText": "Images of consonants of the English alphabet (Capitals) are observed in a mirror. What is the number of images of these which do not look like their original shapes?",
+      "options": {
+        "a": "13",
+        "b": "14",
+        "c": "15",
+        "d": "16"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** B, C, D, F, G, H, J, K, L, M, N, P, Q, R, S, T, V, W, X, Y, and Z are consonants in the alphabet.\n- Total 21\nAlphabets whose original shapes and mirror images are same are H, M, T, V, W, X and Y.\n- Total 7\nSo, number of images which do not look like their original shapes would be 21-7= 14.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q38",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Clocks",
+      "statementLines": [
+        "Between 11:00 a.m. Monday and 1:00 p.m. Tuesday, how many times do the hour hand and the minute hand of a clock form a straight line?"
+      ],
+      "questionText": "Between 11:00 a.m. Monday and 1:00 p.m. Tuesday, how many times do the hour hand and the minute hand of a clock form a straight line?",
+      "options": {
+        "a": "47",
+        "b": "42",
+        "c": "50",
+        "d": "49"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Let us first understand meaning of “Straight Line” on a Clock On a clock, the hour hand and minute hand form a**straight line**in**two distinct situations**:**1. Coincidence (0 degrees)**- Both hands lie exactly on top of each other.**2. Opposition (180 degrees)**- Both hands lie exactly opposite to each other. Hence, Total straight-line positions = Coincidences + Oppositions. Standard Frequency Rules Because the two hands move at different speeds, these positions do not occur once every hour. a) Coincidences - In every**12-hour period**, the hands coincide**11 times**. - Reason: The coincidence at 12:00 is counted only once for the entire 12-hour cycle. b) Oppositions - In every**12-hour period**, the hands are opposite**11 times**. - Reason: The opposition at 6:00 is common to two adjoining hours and is counted once. Total Time Interval From**11:00 a.m. Monday**to**1:00 p.m. Tuesday**: - From 11:00 a.m. Monday to 11:00 a.m. Tuesday = 24 hours-From 11:00 a.m. Tuesday to 1:00 p.m. Tuesday = 2 hours Total duration =**26 hours**. Number of Coincidences In 24 hours - There are two complete 12-hour cycles. - Coincidences = 11 × 2 = 22. In the remaining 2 hours (11:00 a.m. to 1:00 p.m.) - The hands coincide**once**, exactly at**12:00 noon**. Total Coincidences 22 + 1 =**23 times**. Number of Oppositions In 24 hours - There are two complete 12-hour cycles. - Oppositions = 11 × 2 = 22. In the remaining 2 hours - Between**11:00 a.m. and 12:00 noon**, the hands are opposite once (approximately at 11:27). - Between**12:00 noon and 1:00 p.m.**, the hands are opposite once (approximately at 12:33). These are independent events and not boundary cases. Total Oppositions 22 + 2 =**24 times**. Therefore, Total number of times the hands form a straight line = Coincidences + Oppositions = 23 + 24 =**47 times**The hour hand and the minute hand form a straight line 47 times between 11:00 a.m. Monday and 1:00 p.m. **Tuesday.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q39",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Direction Sense",
+      "statementLines": [
+        "An athlete starts a morning run from their house. They run 400 m in a straight line, turn left and run 200 m, then turn left again and run 600 m. From there, they turn right and run 300 m, and finally turn right one last time and run 200 m to reach a park. If the park is located exactly South of their house, in which direction did the athlete initially start running?"
+      ],
+      "questionText": "An athlete starts a morning run from their house. They run 400 m in a straight line, turn left and run 200 m, then turn left again and run 600 m. From there, they turn right and run 300 m, and finally turn right one last time and run 200 m to reach a park. If the park is located exactly South of their house, in which direction did the athlete initially start running?",
+      "options": {
+        "a": "West",
+        "b": "North",
+        "c": "South",
+        "d": "East"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **To find the initial direction of running we first draw the path traced by the athletes as per the instructions given and then we orient the compass such that it aligns with condition given i.e the park likes to the south of the park in order to finally find out the initial direction of running. After drawing the instructions given in the question we get the above figure and we orient the compass accordingly as shown. Now we can infer that the initaly direction of running is towards the west as can be seen.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test27-q40",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "A delivery person travels from Point A to Point C, passing through Point B. There are 3 distinct routes from A to",
+        "B. There are 4 distinct routes from B to",
+        "C. On the return journey from C back to A (via B), the delivery person does not reuse any road segment that was used during the onward journey from A to",
+        "C. How many total possible ways can the delivery person complete the round trip?"
+      ],
+      "questionText": "A delivery person travels from Point A to Point C, passing through Point B. There are 3 distinct routes from A to B. There are 4 distinct routes from B to C. On the return journey from C back to A (via B), the delivery person does not reuse any road segment that was used during the onward journey from A to C. How many total possible ways can the delivery person complete the round trip?",
+      "options": {
+        "a": "144",
+        "b": "72",
+        "c": "12",
+        "d": "48"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Given data: **Number of Ways for the Onward Journey (A → B → C) - From A to B: 3 choices-From B to C: 4 choices Total ways for onward journey = 3 × 4 =**12 ways**Understanding the Restriction on the Return Journey-The return journey must be**via B**, i.e., C → B → A. - The delivery person**cannot use any road segment**used during the onward journey. Thus: - If one specific route was used from B to C while going, it**cannot**be used from C to B while returning. - Similarly, if one specific route was used from A to B while going, it**cannot**be used from B to A while returning. Number of Ways for the Return Journey (C → B → A) From C to B - Total routes between B and C = 4-One route already used during onward journey-Available routes on return = 4 − 1 =**3**From B to A - Total routes between A and B = 3-One route already used during onward journey-Available routes on return = 3 − 1 =**2**Total ways for return journey = 3 × 2 =**6 ways**Total Number of Round Trips Total round trips = (Ways for onward journey) × (Ways for return journey) = 12 × 6 =**72**The delivery person can complete the round trip in 72 different ways.**Therefore Option b is the correct answer.**Scan to Register for**Open Class**Comprehensive Coverage:**We cover not just**The Hindu**but also**PIB**,**ToI**,**Indian Express**,**EPW, Yojana, Kurukshetra**and other trusted sources, so you do not miss any important topic.**FIRST 3 CLASSES OPEN TO ALL**st**st**th**31 **Jan, 1** Feb & 7 **Feb ADVANTAGE in Prelims**2026**Get the **UNFAIR**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

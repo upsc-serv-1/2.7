@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dr. UPSC</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+</head>
+<body>
+    <div class="boot-overlay" id="bootOverlay" aria-live="polite">
+        <div class="boot-shell">
+            <div class="boot-panel">
+                <div class="boot-emblem">
+                    <lottie-player
+                        src="https://lottie.host/3f30ae93-47f4-4fe1-a7c2-855b5b6bab86/7FyzpCELte.json"
+                        background="transparent"
+                        speed="1.2"
+                        style="width: 120px; height: 120px;"
+                        loop
+                        autoplay>
+                    </lottie-player>
+                </div>
+                <h1 class="boot-title">Dr. UPSC is preparing your probiotic capsule</h1>
+                <p class="boot-copy">Preparing your test library and syncing your workspace...</p>
+                <div class="boot-progress" aria-label="Loading progress">
+                    <div class="boot-progress-bar"><span class="boot-progress-fill" style="width:0%"></span></div>
+                    <p class="boot-progress-text boot-progress-numbers"></p>
+                </div>
+                <div class="boot-spinner-wheel" aria-hidden="true"></div>
+                <div class="boot-status-dots">
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                    <span class="dot"></span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+</body>
+</html>

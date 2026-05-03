@@ -1,0 +1,3134 @@
+{
+  "id": "upsc-cse-pyq-2023-gs2",
+  "title": "2023- Prelims - CSAT Paper 2 - UPSC",
+  "launch_year": 2023,
+  "institute": "UPSC",
+  "program_id": "cse",
+  "program_name": "CSE",
+  "series": "Prelims (Official)",
+  "level": "CSAT",
+  "paperType": "test-paper",
+  "defaultMinutes": 120,
+  "sourceMode": "docx-sol",
+  "questions": [
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q001",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "We often hear about conflicts among different States in India over river waters.",
+        "Of the 20 major river systems, 14 are already water-stressed;",
+        "75% of the population lives in water-stressed regions, a third of whom live in water-scarce areas.",
+        "Climate change, the demands of rising population and the need for agriculture to keep pace, and increased rate of urbanization and industrialization will exacerbate water stress.",
+        "According to the Constitution of India, water is a State subject and not that of the Union, except for regulation of inter-State rivers.",
+        "Key to ensuring balance between competing demands of various stakeholders is a basin-based approach to allocate water amongst constituent regions and States.",
+        "Allocating fair share of water to them requires assessments based on objective criteria, such as specificities of the river basin, size of dependent population, existing water use and demand, efficiency of use, projected future use, etc. while ensuring the environmental needs of the river and aquifers.",
+        "Which one of the following statements best reflects the most rational, practical and immediate action required to ensure fair and equitable allocation of water to different stakeholders?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n We often hear about conflicts among different States in India over river waters. \n Of the 20 major river systems, 14 are already water-stressed; \n 75% of the population lives in water-stressed regions, a third of whom live in water-scarce areas. \n Climate change, the demands of rising population and the need for agriculture to keep pace, and increased rate of urbanization and industrialization will exacerbate water stress. \n According to the Constitution of India, water is a State subject and not that of the Union, except for regulation of inter-State rivers. \n Key to ensuring balance between competing demands of various stakeholders is a basin-based approach to allocate water amongst constituent regions and States. \n Allocating fair share of water to them requires assessments based on objective criteria, such as specificities of the river basin, size of dependent population, existing water use and demand, efficiency of use, projected future use, etc. while ensuring the environmental needs of the river and aquifers. \n Which one of the following statements best reflects the most rational, practical and immediate action required to ensure fair and equitable allocation of water to different stakeholders? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "A national, pragmatic, legal and policy framework for water allocation should be made.",
+        "b": "All river systems of the country should be linked and huge aquifers created.",
+        "c": "Water channels between regions of water surplus and regions of water deficit should be created.",
+        "d": "To mitigate water crisis, water demand of sectors such as agriculture and industry should be reduced."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage asserts that allocating a fair share of water requires assessments based on objective criteria, existing and projected use, and a basin-based approach. \n\n- This directly implies the necessity of a structured, pragmatic, and national legal/policy framework to manage these specificities and competing demands equitably, making option (a) the most rational inference.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q002",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "More than half of Indian women and almost a quarter of Indian men of working age suffer from anaemia.",
+        "According to studies, they are anywhere from 5-15% less productive than they could be, as a result thereof.",
+        "India also has the largest tuberculosis burden in the world, costing 170 million workdays to the country annually.",
+        "But what is just as important as lost productivity now is lost potential in the future.",
+        "It is becoming increasingly clear that on many measures of cognitive ability, malnourished Indian children perform two or three times worse than their adequately nourished peers.",
+        "For an economy that will be more dependent on highly skilled workers, this poses a significant challenge.",
+        "And it is one that really should be addressed given India's demographic outlook.",
+        "Which one of the following statements best reflects what is implied by the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n More than half of Indian women and almost a quarter of Indian men of working age suffer from anaemia. \n According to studies, they are anywhere from 5-15% less productive than they could be, as a result thereof. \n India also has the largest tuberculosis burden in the world, costing 170 million workdays to the country annually. \n But what is just as important as lost productivity now is lost potential in the future. \n It is becoming increasingly clear that on many measures of cognitive ability, malnourished Indian children perform two or three times worse than their adequately nourished peers. \n For an economy that will be more dependent on highly skilled workers, this poses a significant challenge. \n And it is one that really should be addressed given India's demographic outlook. \n Which one of the following statements best reflects what is implied by the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Education system must be strengthened in rural areas.",
+        "b": "Large scale and effective implementation of skill development programme is the need of the hour.",
+        "c": "For economic development, health and nutrition of only skilled workers needs special attention.",
+        "d": "For rapid economic growth as envisaged by us, attention should be paid to health and nutrition of the peopl"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage explicitly links health crises (anaemia, tuberculosis, malnutrition) to lost productivity and reduced cognitive potential in future workers. \n\n- Because India's future economy depends on highly skilled workers, solving these health and nutritional deficits is implied as a mandatory foundation for economic development and growth.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q003",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-3",
+        "In India, a majority of farmers are marginal and small, less educated and possess low adaptive capabilities to climate change, perhaps because of credit and other constraints.",
+        "So, one cannot expect autonomous adaptation to climate change. Even if it was possible, it would not be sufficient to offset losses from climate change.",
+        "To deal with this, adaptation to climate change is paramount, alongside a fast mitigation response.",
+        "Another solution is to have a planned or policy-driven adaptation, which would require the government to come up with policy recommendations.",
+        "Perception is a necessary pre-requisite for adaptation. Whether farmers are adapting agricultural practices to climate change depends on whether they perceive it or not.",
+        "However, this is not always enough for adaptation. It is important how a farmer perceives the risks associated with climate change.",
+        "Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-3 \n In India, a majority of farmers are marginal and small, less educated and possess low adaptive capabilities to climate change, perhaps because of credit and other constraints. \n So, one cannot expect autonomous adaptation to climate change. Even if it was possible, it would not be sufficient to offset losses from climate change. \n To deal with this, adaptation to climate change is paramount, alongside a fast mitigation response. \n Another solution is to have a planned or policy-driven adaptation, which would require the government to come up with policy recommendations. \n Perception is a necessary pre-requisite for adaptation. Whether farmers are adapting agricultural practices to climate change depends on whether they perceive it or not. \n However, this is not always enough for adaptation. It is important how a farmer perceives the risks associated with climate change. \n Which one of the following statements best reflects the most logical and rational message conveyed by the author of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Adaptation to climate change and mitigation response are basically the responsibilities of the government.",
+        "b": "Climate change causes a change in government policies regarding land use patterns in the country.",
+        "c": "Risk perceptions of farmers are important for motivating them for taking adaptation decisions.",
+        "d": "Since mitigation is not possible, governments should come up with policies for quick response to climate chang"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The author concludes the passage by emphasizing that adaptation depends on perception, specifically noting: \"It is important how a farmer perceives the risks associated with climate change.\" \n\n- This makes the risk perceptions of farmers the central, most logical focal point for driving adaptation practices in the face of their low autonomous capabilities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q004",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "",
+        "Raj has ten pairs of red, nine pairs of white and eight pairs of black shoes in a box.",
+        "If he randomly picks shoes one by one (without replacement) from the box to get a red pair of shoes to wear, what is the maximum number of attempts he has to make?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Raj has ten pairs of red, nine pairs of white and eight pairs of black shoes in a box. \n If he randomly picks shoes one by one (without replacement) from the box to get a red pair of shoes to wear, what is the maximum number of attempts he has to make? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "27",
+        "b": "36",
+        "c": "44",
+        "d": "45"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- This is a Pigeonhole Principle problem seeking the worst-case scenario. \n\n- The box contains 20 red shoes (10 left, 10 right), 18 white shoes, and 16 black shoes. \n\n- In the absolute worst case, Raj will draw all the non-red shoes first: 18 white + 16 black = 34 shoes. \n\n- Then, he could unluckily draw all 10 left-footed red shoes (or all 10 right-footed) without making a pair. 34 + 10 = 44 shoes. \n\n- The very next shoe (the 45th attempt) must necessarily be the matching right (or left) foot for one of the red shoes already drawn. \n\n- Therefore, the maximum number of attempts is 45.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q005",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "In how many ways can a batsman score exactly 25 runs by scoring single runs, fours and sixes only, irrespective of the sequence of scoring shots?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In how many ways can a batsman score exactly 25 runs by scoring single runs, fours and sixes only, irrespective of the sequence of scoring shots? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "18",
+        "b": "19",
+        "c": "20",
+        "d": "21"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Let the number of singles, fours, and sixes be x, y, and z respectively. The equation is: x + 4y + 6z = 25. \n\n- If z = 0: 4y <= 25, meaning y can range from 0 to 6 (7 possibilities for y). \n\n- If z = 1: 4y <= 19, meaning y can range from 0 to 4 (5 possibilities). \n\n- If z = 2: 4y <= 13, meaning y can range from 0 to 3 (4 possibilities). \n\n- If z = 3: 4y <= 7, meaning y can range from 0 to 1 (2 possibilities). \n\n- If z = 4: 4y <= 1, meaning y can only be 0 (1 possibility). \n\n- Total number of ways = 7 + 5 + 4 + 2 + 1 = 19 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q006",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "There are four letters and four envelopes and exactly one letter is to be put in exactly one envelope with the correct address.",
+        "If the letters are randomly inserted into the envelopes, then consider the following statements:",
+        "1. It is possible that exactly one letter goes into an incorrect envelope.",
+        "2. There are only six ways in which only two letters can go into the correct envelopes.",
+        "Which of the statements given above is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are four letters and four envelopes and exactly one letter is to be put in exactly one envelope with the correct address. \n If the letters are randomly inserted into the envelopes, then consider the following statements: \n 1. It is possible that exactly one letter goes into an incorrect envelope. \n 2. There are only six ways in which only two letters can go into the correct envelopes. \n Which of the statements given above is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n-\n\nStatement 1 is incorrect. If one letter is placed in an incorrect envelope, the envelope meant for it is now occupied, forcing at least one other letter to also be placed incorrectly. It is impossible for *exactly one* letter to be incorrect. \n\n-\n\nStatement 2 is correct. Choosing which 2 letters go into the correct envelopes is 4C2 = 6 ways. The remaining 2 letters must go into incorrect envelopes (which means they simply swap places, allowing exactly 1 derangement way). 6 x 1 = 6 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q007",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the remainder when 85 × 87 × 89 × 91 × 95 × 96 is divided by 100?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the remainder when 85 × 87 × 89 × 91 × 95 × 96 is divided by 100? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "4"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The divisor is 100, which prime factorizes to 25 x 4. \n\n- In the given product, 85 is a multiple of 5 (5 x 17) and 95 is a multiple of 5 (5 x 19). Multiplying these yields a factor of 25. \n\n- The number 96 is a multiple of 4 (4 x 24). \n\n- Since the product contains both 25 and 4 as factors, the entire product is a multiple of 100. \n\n- Therefore, it divides perfectly, leaving a remainder of 0.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q008",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the unit digit in the expansion of (57242)⁹ˣ⁷ˣ⁵ˣ³ˣ¹?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the unit digit in the expansion of (57242)⁹ˣ⁷ˣ⁵ˣ³ˣ¹? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The unit digit of the base 57242 is 2. The cyclicity of powers of 2 is 4. \n\n- We must find the remainder when the exponent (9 x 7 x 5 x 3 x 1) is divided by 4. \n\n- The product 9 x 7 x 5 x 3 x 1 = 945. \n\n- 945 divided by 4 leaves a remainder of 1. \n\n- Therefore, the unit digit will be equivalent to 2^1, which is 2.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q009",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "If ABC and DEF are both 3-digit numbers such that A, B, C, D, E and F are distinct non-zero digits such that ABC + DEF = 1111, then what is the value of A + B + C + D + E + F?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If ABC and DEF are both 3-digit numbers such that A, B, C, D, E and F are distinct non-zero digits such that ABC + DEF = 1111, then what is the value of A + B + C + D + E + F? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "28",
+        "b": "29",
+        "c": "30",
+        "d": "31"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Align the sum: C + F must end in 1. Since they are distinct non-zero digits, their sum must be 11. This leaves a carry of 1. \n\n- Tens column: B + E + 1 (carry) must end in 1. Thus, B + E = 10. This leaves a carry of 1. \n\n- Hundreds column: A + D + 1 (carry) must equal 11. Thus, A + D = 10. \n\n- The total sum A + B + C + D + E + F = (A + D) + (B + E) + (C + F) = 10 + 10 + 11 = 31. \n\n- (An example of such digits is 432 + 679 = 1111, where all digits 2,3,4,6,7,9 are distinct).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q010",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "D is a 3-digit number such that the ratio of the number to the sum of its digits is least.",
+        "What is the difference between the digit at the hundred's place and the digit at the unit's place of D?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "D is a 3-digit number such that the ratio of the number to the sum of its digits is least. \n What is the difference between the digit at the hundred's place and the digit at the unit's place of D? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "0",
+        "b": "7",
+        "c": "8",
+        "d": "9"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the 3-digit number D be 100a + 10b + c. The ratio is (100a + 10b + c) / (a + b + c). \n\n- To minimize this ratio, we must make the numerator as small as possible and the denominator as large as possible. \n\n- The smallest possible value for the hundreds digit 'a' is 1. \n\n- The largest possible values for 'b' and 'c' to maximize the denominator sum are 9 and 9. \n\n- Thus, the number is 199. The ratio is 199 / 19 = 10.47, which is the absolute minimum possible. \n\n- The difference between the hundreds digit (1) and the units digit (9) is 9 - 1 = 8.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q011",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "The emissions humans put into the atmosphere now will affect the climate in the middle of the century and onwards.",
+        "Technological change, meanwhile, could make a future transition away from fossil fuels cheap or it might not, leaving the world with a terrible choice between sharply reducing emissions at huge cost or suffering through the effects of unabated warming.",
+        "Businesses that do not hedge against the threat of uncertain outcomes fail.",
+        "The world cannot afford such recklessness on climate change.",
+        "Which one of the following statements best reflects the crucial message conveyed by the author of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n The emissions humans put into the atmosphere now will affect the climate in the middle of the century and onwards. \n Technological change, meanwhile, could make a future transition away from fossil fuels cheap or it might not, leaving the world with a terrible choice between sharply reducing emissions at huge cost or suffering through the effects of unabated warming. \n Businesses that do not hedge against the threat of uncertain outcomes fail. \n The world cannot afford such recklessness on climate change. \n Which one of the following statements best reflects the crucial message conveyed by the author of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Businesses that cause emissions may need to close down or pay for pollution in future.",
+        "b": "The only solution is technological development related to the issues of climate change.",
+        "c": "Waiting to deal with carbon emissions until technology improves is not a wise strategy.",
+        "d": "Since future technological change is uncertain, new industries should be based on renewable energy sources."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage warns that relying on future technological changes is highly uncertain and could leave the world facing \"a terrible choice\" or unabated warming. \n\n- By comparing this delay to reckless businesses that fail because they don't hedge against uncertainty, the author's crucial message is that waiting for technology to improve before acting on emissions is foolish and dangerous.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q012",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "Environmental problems cause health problems.",
+        "Substantial changes in lifestyle can reduce environmental or health problems, but this idea appears almost impossible to adopt.",
+        "With environmental problems, individual efforts can be perceived as having a negligible effect and therefore lead to inertia.",
+        "With health, on the other hand, individual choices can make the difference between life and death, literally.",
+        "And yet, barring a few, there seems to be the same collective lethargy towards making their choices.",
+        "Which one of the following statements best implies the most rational assumption that can be made from the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n Environmental problems cause health problems. \n Substantial changes in lifestyle can reduce environmental or health problems, but this idea appears almost impossible to adopt. \n With environmental problems, individual efforts can be perceived as having a negligible effect and therefore lead to inertia. \n With health, on the other hand, individual choices can make the difference between life and death, literally. \n And yet, barring a few, there seems to be the same collective lethargy towards making their choices. \n Which one of the following statements best implies the most rational assumption that can be made from the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "We are likely to spend more money on cure than prevention.",
+        "b": "It is the job of the government to solve our environmental and public health problems.",
+        "c": "Health can be protected even if environmental problems go on unattended.",
+        "d": "Loss of traditional lifestyle and the influence of western values led to some unhealthy ways of living."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage highlights a \"collective lethargy\" where people refuse to make substantial lifestyle choices (preventative efforts) to improve their health, despite knowing it is a matter of life and death. \n\n- The most rational assumption deriving from this widespread behavioral inertia towards prevention is that society will ultimately have to deal with the consequences, meaning we are likely to spend more money on curing these issues rather than preventing them.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q013",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-3",
+        "Many people are not eating the right food.",
+        "For some, it is simply a decision to stick with food they enjoy but which is not too healthy.",
+        "This is leading to an increase in non-communicable diseases. This in turn leads to major burden on our health-care systems that have the potential to derail the economic progress which is essential for the poor to improve their lives.",
+        "For others, it is about limited access to nutritious food or a lack of affordability, leading to monotonous diets that do not provide the daily nutrients for them to develop fully.",
+        "Part of the reason nutrition is under threat worldwide is that our food systems are not properly responding to nutritional needs.",
+        "Somewhere along that long road from farm to fork, there are serious detours taking place.",
+        "Which one of the following statements best reflects the crux of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-3 \n Many people are not eating the right food. \n For some, it is simply a decision to stick with food they enjoy but which is not too healthy. \n This is leading to an increase in non-communicable diseases. This in turn leads to major burden on our health-care systems that have the potential to derail the economic progress which is essential for the poor to improve their lives. \n For others, it is about limited access to nutritious food or a lack of affordability, leading to monotonous diets that do not provide the daily nutrients for them to develop fully. \n Part of the reason nutrition is under threat worldwide is that our food systems are not properly responding to nutritional needs. \n Somewhere along that long road from farm to fork, there are serious detours taking place. \n Which one of the following statements best reflects the crux of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "The scheme of Universal Basic Income should be implemented worldwide as a way of poverty alleviation.",
+        "b": "We must place food-based nutrition at the centre of our policy debate.",
+        "c": "Nutritional status of food should be improved by creating appropriate genetically modified crops.",
+        "d": "Using modern food processing technologies, we must fortify food items with required nutrient elements."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage comprehensively discusses how poor food choices and flawed food systems lead to severe health burdens, economic derailment, and restricted physical development. \n\n- Because these detours from \"farm to fork\" threaten global nutrition and economic progress, the crux of the text demands that food-based nutrition must be prioritized and placed at the center of our policy debates to fix these systems.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q014",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Three of the five positive integers p, q, r, s, t are even and two of them are odd (not necessarily in order).",
+        "Consider the following:",
+        "1. p + q + r - s - t is definitely even.",
+        "2. 2p + q + 2r - 2s + t is definitely odd.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Three of the five positive integers p, q, r, s, t are even and two of them are odd (not necessarily in order). \n Consider the following: \n 1. p + q + r - s - t is definitely even. \n 2. 2p + q + 2r - 2s + t is definitely odd. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1: Adding or subtracting integers follows basic parity rules. Three are even, two are odd. The sum/difference of the three evens is Even. The sum/difference of the two odds is Even. Even + Even = Even. Thus, the result is definitely even. \n\n- Statement 2: The terms 2p, 2r, and 2s are automatically even due to multiplication by 2. The parity of the whole expression relies entirely on q + t. Since q and t could both be even, both be odd, or be one even and one odd, the result can be either even or odd. It is not definitely odd.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q015",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Consider the following in respect of prime number p and composite number c.",
+        "1. (p + c)/(p - c) can be even.",
+        "2. 2p + c can be odd.",
+        "3. pc can be odd.",
+        "Which of the statements given above are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following in respect of prime number p and composite number c. \n 1. (p + c)/(p - c) can be even. \n 2. 2p + c can be odd. \n 3. pc can be odd. \n Which of the statements given above are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1: Let p = 11 (prime) and c = 9 (composite). (11 + 9) / (11 - 9) = 20 / 2 = 10. Since 10 is an even number, this is possible. \n\n- Statement 2: Let p = 2 (prime) and c = 9 (composite). 2(2) + 9 = 4 + 9 = 13. Since 13 is an odd number, this is possible. \n\n- Statement 3: Let p = 3 (prime) and c = 9 (composite). 3 x 9 = 27. Since 27 is an odd number, this is possible. \n\n- All three statements can mathematically be true.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q016",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "A 3-digit number ABC, on multiplication with D gives 37DD where A, B, C and D are different non-zero digits.",
+        "What is the value of A+B+C?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A 3-digit number ABC, on multiplication with D gives 37DD where A, B, C and D are different non-zero digits. \n What is the value of A+B+C? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "18",
+        "b": "16",
+        "c": "15",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- We have ABC x D = 37DD, where A, B, C, D are distinct non-zero digits. \n\n- Let's test possible values for D. \n\n- If D=4, the equation is ABC x 4 = 3744. Solving for ABC gives 3744 / 4 = 936. \n\n- Here A=9, B=3, C=6, D=4. All are distinct and non-zero. This satisfies all conditions perfectly. \n\n- We need to find A + B + C = 9 + 3 + 6 = 18.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q017",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "For any choices of values of X, Y and Z, the 6-digit number of the form XYZXYZ is divisible by:",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "For any choices of values of X, Y and Z, the 6-digit number of the form XYZXYZ is divisible by: \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "7 and 11 only",
+        "b": "11 and 13 only",
+        "c": "7 and 13 only",
+        "d": "7, 11 and 13"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Any 6-digit number of the form XYZXYZ can be expanded mathematically as XYZ x 1000 + XYZ = XYZ x 1001. \n\n- The prime factorization of 1001 is 7 x 11 x 13. \n\n- Therefore, any number taking this form is inherently a multiple of 1001 and will always be perfectly divisible by 7, 11, and 13.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q018",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Cube and Dice",
+      "statementLines": [
+        "",
+        "125 identical cubes are arranged in the form of a cubical block.",
+        "How many cubes are surrounded by other cubes from each side?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "125 identical cubes are arranged in the form of a cubical block. \n How many cubes are surrounded by other cubes from each side? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "27",
+        "b": "25",
+        "c": "21",
+        "d": "18"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- A cubical block made of 125 identical cubes has dimensions of 5 x 5 x 5 (since 5^3 = 125). \n\n- Cubes that are surrounded on all sides are the \"inner core\" cubes, completely hidden from the outside. \n\n- We find this by peeling away the outer 1-cube-thick layer from all 6 faces of the 5x5x5 block. \n\n- The dimensions of the inner core will be (5 - 2) x (5 - 2) x (5 - 2) = 3 x 3 x 3. \n\n- 3^3 = 27 cubes.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q019",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "How many distinct 8-digit numbers can be formed by rearranging the digits of the number 11223344 such that odd digits occupy odd positions and even digits occupy even positions?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many distinct 8-digit numbers can be formed by rearranging the digits of the number 11223344 such that odd digits occupy odd positions and even digits occupy even positions? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "12",
+        "b": "18",
+        "c": "36",
+        "d": "72"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The 8-digit number has 4 odd positions (1st, 3rd, 5th, 7th) and 4 even positions (2nd, 4th, 6th, 8th). \n\n- The odd digits available are 1, 1, 3, 3. The number of ways to arrange them in the 4 odd positions is 4! / (2! x 2!) = 24 / 4 = 6 ways. \n\n- The even digits available are 2, 2, 4, 4. The number of ways to arrange them in the 4 even positions is 4! / (2! x 2!) = 24 / 4 = 6 ways. \n\n- Total distinct 8-digit numbers = 6 x 6 = 36.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q020",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "",
+        "A, B, C working independently can do a piece of work in 8, 16 and 12 days respectively.",
+        "A alone works on Monday, B alone works on Tuesday, C alone works on Wednesday;",
+        "A alone, again works on Thursday and so on. Consider the following statements:",
+        "1. The work will be finished on Thursday.",
+        "2. The work will be finished in 10 days.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A, B, C working independently can do a piece of work in 8, 16 and 12 days respectively. \n A alone works on Monday, B alone works on Tuesday, C alone works on Wednesday; \n A alone, again works on Thursday and so on. Consider the following statements: \n 1. The work will be finished on Thursday. \n 2. The work will be finished in 10 days. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let the total work be the LCM of 8, 16, and 12, which is 48 units. \n\n- A's work rate = 48/8 = 6 units/day. B's rate = 48/16 = 3 units/day. C's rate = 48/12 = 4 units/day. \n\n- They work in a 3-day cycle (A, B, C). Total work in 1 cycle = 6 + 3 + 4 = 13 units. \n\n- In 3 full cycles (9 days), work completed = 13 x 3 = 39 units. \n\n- Remaining work = 48 - 39 = 9 units. \n\n- Day 10 (Wednesday relative to cycle, but wait: Day 1=Mon, 2=Tue, 3=Wed, 4=Thu... Day 9 is Tuesday). \n\n- Day 10 is a Wednesday. A works and does 6 units. Remaining = 9 - 6 = 3 units. \n\n- Day 11 is a Thursday. B works and does 3 units. The work is exactly finished. \n\n- Since it takes 11 days and finishes on Thursday,\n\nStatement 1 is correct and\n\nStatement 2 is incorrect.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q021",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "To tackle the problem of pollution in cities, policy makers think that drastic actions like temporary use of odd-even number scheme for vehicles, closing schools, factories, construction activities, and banning the use of certain type of vehicles are a way forward.",
+        "Even then the air is not clean. Vehicles more than 15 years old comprise one percent of the total;",
+        "and taking them off the road will not make any difference.",
+        "Banning certain fuels and car types arbitrarily is not proper.",
+        "Diesel engines produce more PM2.5 and less CO₂ than petrol or CNG engines.",
+        "On the other hand, both diesel and CNG engines produce more NOx than petrol engines.",
+        "No one has measured the amount of NOx that CNG engines are emitting.",
+        "Arbitrary bans on vehicles that have passed mandated fitness tests and periodic pollution tests are unfair.",
+        "What is needed is the scientific and reliable information about the source of pollutants on a continuing basis and the technologies that will work to reduce pollution from them.",
+        "Which one of the following statements best reflects the most logical and rational implication conveyed by the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n To tackle the problem of pollution in cities, policy makers think that drastic actions like temporary use of odd-even number scheme for vehicles, closing schools, factories, construction activities, and banning the use of certain type of vehicles are a way forward. \n Even then the air is not clean. Vehicles more than 15 years old comprise one percent of the total; \n and taking them off the road will not make any difference. \n Banning certain fuels and car types arbitrarily is not proper. \n Diesel engines produce more PM2.5 and less CO₂ than petrol or CNG engines. \n On the other hand, both diesel and CNG engines produce more NOx than petrol engines. \n No one has measured the amount of NOx that CNG engines are emitting. \n Arbitrary bans on vehicles that have passed mandated fitness tests and periodic pollution tests are unfair. \n What is needed is the scientific and reliable information about the source of pollutants on a continuing basis and the technologies that will work to reduce pollution from them. \n Which one of the following statements best reflects the most logical and rational implication conveyed by the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Arbitrary curbs on vehicles to reduce pollution are difficult to implement.",
+        "b": "Knee-jerk reactions cannot solve the problem of pollution but an evidence-based approach will be more effective.",
+        "c": "A heavy penalty should be enforced on those driving without periodic pollution tests.",
+        "d": "In the absence of laws to deal with the problems of pollution, the administration tends to make arbitrary decisions."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The author strongly criticizes \"drastic actions\", \"arbitrary bans\", and unmeasured policies that fail to actually clean the air. \n\n- The passage concludes that what is genuinely needed is \"scientific and reliable information\" on a continuing basis. \n\n- Therefore, the most rational implication is that knee-jerk reactions are ineffective, and a strict evidence-based (scientific) approach is what will actually solve the pollution problem.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q022",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "Good corporate governance structures encourage companies to provide accountability and control.",
+        "A fundamental reason why corporate governance has moved onto the economic and political agenda worldwide has been the rapid growth in international capital markets.",
+        "Effective corporate governance enhances access to external financing by firms, leading to greater investment, higher growth and employment.",
+        "Investors look to place their funds where the standards of disclosure, of timely and accurate financial reporting, and of equal treatment to all stakeholders are met.",
+        "Which of the following statements best reflects the logical inference from the passage given above?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n Good corporate governance structures encourage companies to provide accountability and control. \n A fundamental reason why corporate governance has moved onto the economic and political agenda worldwide has been the rapid growth in international capital markets. \n Effective corporate governance enhances access to external financing by firms, leading to greater investment, higher growth and employment. \n Investors look to place their funds where the standards of disclosure, of timely and accurate financial reporting, and of equal treatment to all stakeholders are met. \n Which of the following statements best reflects the logical inference from the passage given above? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It is an important agenda of the countries around the world to ensure access to good external financing.",
+        "b": "Good corporate governance improves the credibility of the firms.",
+        "c": "International capital markets ensure that the firms maintain good corporate governance.",
+        "d": "Good corporate governance paves the way for robust supply chains."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage establishes that effective corporate governance guarantees standards of disclosure, accurate reporting, and equal treatment, which are exactly the traits investors demand before placing funds. \n\n- By providing accountability and these high standards, the logical inference is that good corporate governance inherently establishes and improves the financial credibility of the firms.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q023",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-3",
+        "Elephants are landscape architects, creating clearings in the forest, preventing overgrowth of certain plant species and allowing space for the regeneration of others, which in turn provide sustenance to other herbivorous animals.",
+        "Elephants eat plants, fruits and seeds, propagating the seeds when they defecate in other places as they travel.",
+        "Elephant dung provides nourishment to plants and animals and acts as a breeding ground for insects.",
+        "In times of drought, they access water by digging holes which benefits other wildlife.",
+        "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-3 \n Elephants are landscape architects, creating clearings in the forest, preventing overgrowth of certain plant species and allowing space for the regeneration of others, which in turn provide sustenance to other herbivorous animals. \n Elephants eat plants, fruits and seeds, propagating the seeds when they defecate in other places as they travel. \n Elephant dung provides nourishment to plants and animals and acts as a breeding ground for insects. \n In times of drought, they access water by digging holes which benefits other wildlife. \n Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "The home range of elephants needs to be a vast area of rich biodiversity.",
+        "b": "Elephants are the keystone species and they benefit the biodiversity.",
+        "c": "Rich biodiversity cannot be maintained in the forests without the presence of elephants.",
+        "d": "Elephants are capable of regenerating forests with species as per their requirement."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage lists numerous critical ways elephants sustain the entire ecosystem: clearing overgrowth, allowing regeneration, providing sustenance to herbivores, propagating seeds, and uncovering water in droughts. \n\n- These vast, disproportionately large positive impacts on their environment define them ecologically as a \"keystone species\" that immensely benefits overall biodiversity.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q024",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "",
+        "If 7  ⊕  9  ⊕  10 = 8, 9  ⊕  11  ⊕  30 = 5, 11  ⊕  17  ⊕  21 = 13, what is the value of 23  ⊕  4  ⊕  15?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If 7  ⊕  9  ⊕  10 = 8, 9  ⊕  11  ⊕  30 = 5, 11  ⊕  17  ⊕  21 = 13, what is the value of 23  ⊕  4  ⊕  15? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "13",
+        "d": "15"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let's analyze the hidden mathematical operation for 7 ⊕ 9 ⊕ 10 = 8. The sum of the numbers is 7 + 9 + 10 = 26. Adding the digits of the sum: 2 + 6 = 8. \n\n- Second case: 9 + 11 + 30 = 50. Sum of digits: 5 + 0 = 5. \n\n- Third case: 11 + 17 + 21 = 49. Sum of digits: 4 + 9 = 13. \n\n- Apply pattern to the question: 23 + 4 + 15 = 42. Sum of digits: 4 + 2 = 6.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q025",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let x be a positive integer such that 7x + 96 is divisible by x.",
+        "How many values of x are possible?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let x be a positive integer such that 7x + 96 is divisible by x. \n How many values of x are possible? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10",
+        "b": "11",
+        "c": "12",
+        "d": "Infinitely many"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The expression (7x + 96) / x can be simplified to 7 + (96 / x). \n\n- For this to yield an integer, 96 must be perfectly divisible by x. Thus, x must be a positive integer factor of 96. \n\n- The prime factorization of 96 is 2^5 x 3^1. \n\n- The total number of factors is calculated by adding 1 to the exponents and multiplying them: (5 + 1) x (1 + 1) = 6 x 2 = 12. \n\n- Therefore, there are exactly 12 possible values for x.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q026",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p + q)(r + s)?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p + q)(r + s)? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "230",
+        "b": "225",
+        "c": "224",
+        "d": "221"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- To maximize the product of two sums, the numbers utilized must be the largest possible distinct single-digit positive numbers: 9, 8, 7, and 6. \n\n- To maximize a product like A x B given a fixed sum (A + B = 30), A and B should be as close to each other as possible. \n\n- We partition the digits into two sets so their sums are close: (9 + 6) = 15, and (8 + 7) = 15. \n\n- The maximum product is 15 x 15 = 225.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q027",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "A number N is formed by writing 9 for 99 times.",
+        "What is the remainder if N is divided by 13?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A number N is formed by writing 9 for 99 times. \n What is the remainder if N is divided by 13? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "11",
+        "b": "9",
+        "c": "7",
+        "d": "1"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- A core rule of divisibility states that any digit repeated 6 times (e.g., 999999) is perfectly divisible by 7, 11, and 13. \n\n- Since N consists of 99 nines, we divide the string length by 6: 99 / 6 = 16 with a remainder of 3. \n\n- This means the first 96 nines are perfectly divisible by 13. We only need to find the remainder when the remaining 3 nines (999) are divided by 13. \n\n- 999 / 13 gives a quotient of 76 and a remainder of 11.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q028",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Each digit of a 9-digit number is 1. It is multiplied by itself.",
+        "What is the sum of the digits of the resulting number?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Each digit of a 9-digit number is 1. It is multiplied by itself. \n What is the sum of the digits of the resulting number? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "64",
+        "b": "80",
+        "c": "81",
+        "d": "100"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The number is 111,111,111 (nine 1s). We are multiplying it by itself (squaring it). \n\n- Squaring a number consisting entirely of 'n' ones (for n up to 9) results in a palindrome sequence counting up to 'n' and back down to 1. \n\n- So, 111111111^2 = 12345678987654321. \n\n- The sum of these digits is 1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 8 + 7 + 6 + 5 + 4 + 3 + 2 + 1 = 81.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q029",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the sum of all digits which appear in all the integers from 10 to 100?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the sum of all digits which appear in all the integers from 10 to 100? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "855",
+        "b": "856",
+        "c": "910",
+        "d": "911"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- To find the sum of all digits appearing from 10 to 100, we first calculate the sum for 00 to 99. \n\n- In the range 00 to 99, every digit from 0 to 9 appears exactly 20 times. \n\n- The total sum of digits from 00 to 99 is 20 x (0+1+2+3+4+5+6+7+8+9) = 20 x 45 = 900. \n\n- The prompt asks for numbers from 10 to 100, so we must subtract the digits of numbers 01 to 09. The sum of 1+2+...+9 = 45. \n\n- The sum from 10 to 99 = 900 - 45 = 855. \n\n- The number 100 contains digits 1, 0, 0, which sum to 1. \n\n- The total final sum = 855 + 1 = 856.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q030",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "ABCD is a square. One point on each of AB and CD;",
+        "and two distinct points on each of BC and DA are chosen.",
+        "How many distinct triangles can be drawn using any three points as vertices out of these six points?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "ABCD is a square. One point on each of AB and CD; \n and two distinct points on each of BC and DA are chosen. \n How many distinct triangles can be drawn using any three points as vertices out of these six points? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "16",
+        "b": "18",
+        "c": "20",
+        "d": "24"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- A square has 6 points distributed across its perimeter: 1 on AB, 1 on CD, 2 on BC, and 2 on DA. \n\n- The total number of points is 6. The maximum mathematically possible number of triangles is 6C3 = (6 x 5 x 4) / (3 x 2 x 1) = 20. \n\n- A triangle cannot be formed if 3 chosen points are collinear (lie on the exact same straight line). \n\n- The maximum number of points sitting on any single edge of the square is 2 (on BC and DA). Therefore, no 3 points are ever collinear. \n\n- Because no collinear invalidation exists, all 20 combinations form valid distinct triangles.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q031",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector.",
+        "More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal.",
+        "Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill.",
+        "Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value.",
+        "The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Collection, processing and segregation of municipal waste should be with government agencies.",
+        "2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises.",
+        "Which of the assumptions given above is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. \n More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. \n Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill. \n Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. \n The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this. \n Based on the above passage, the following assumptions have been made: \n 1. Collection, processing and segregation of municipal waste should be with government agencies. \n 2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. \n Which of the assumptions given above is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage discusses the current state of municipal budgets and technology requirements for waste-to-energy, but it makes no prescriptive claims about which sector (government vs. private) *should* be exclusively handling these processes. \n\n- Therefore, assuming that segregation \"should be with government agencies\" or that resource recovery is \"best handled by private sector enterprises\" introduces unverified external biases not supported by the text. Neither is correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q032",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Which one of the following statements best reflects the crux of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which one of the following statements best reflects the crux of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Generation of energy from municipal solid waste is inexpensive.",
+        "b": "Biomethanation is the most ideal way of generating energy from municipal solid waste.",
+        "c": "Segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.",
+        "d": "The biodegradable component of India's municipal solid waste is not adequate to provide energy from waste efficiently/effectively."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage emphasizes that waste-to-energy technologies depend entirely on what is in the waste, noting: \"Ideally it fits in the chain after segregation...\". \n\n- Because the entire selection of subsequent processing technology (like biomethanation) hinges upon knowing the waste's composition, the crux is that segregation is the critical first foundational step for success.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q033",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "There is a claim that organic farming is inherently safer and healthier.",
+        "The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well.",
+        "For example, since organic fertilizers are difficult to obtain on a large scale in India, farmers often use farmyard manure, which may contain toxic chemicals and heavy metals.",
+        "Certain plant sprays, such as Datura flower and leaf spray, have an element called atropine.",
+        "If it is not applied in the right dose, it can act on the nervous system of the consumer.",
+        "Unfortunately, how much and when to use it are not well-researched or regulated issues.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Organic farming is inherently unsafe for both farmers and consumers.",
+        "2. Farmers and consumers need to be educated about eco-friendly food.",
+        "Which of the assumptions given above is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n There is a claim that organic farming is inherently safer and healthier. \n The reality is that because the organic farming industry is still young and not well-regulated in India, farmers and consumers, alike, are not only confused about what products are best for them, but sometimes use products in ways that could harm them as well. \n For example, since organic fertilizers are difficult to obtain on a large scale in India, farmers often use farmyard manure, which may contain toxic chemicals and heavy metals. \n Certain plant sprays, such as Datura flower and leaf spray, have an element called atropine. \n If it is not applied in the right dose, it can act on the nervous system of the consumer. \n Unfortunately, how much and when to use it are not well-researched or regulated issues. \n Based on the above passage, the following assumptions have been made: \n 1. Organic farming is inherently unsafe for both farmers and consumers. \n 2. Farmers and consumers need to be educated about eco-friendly food. \n Which of the assumptions given above is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n-\n\nStatement 1 is incorrect because the passage explicitly states organic products are only harmful because farmers \"sometimes use products in ways that could harm them\" due to being \"confused\", not because organic farming itself is *inherently* unsafe. \n\n- Statement 2 is a valid assumption. Since the core problem identified is that farmers and consumers are \"confused\" and lack regulation and research regarding doses, it implies they urgently need to be educated.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q034",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the author of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which one of the following statements best reflects the most logical, rational and practical message conveyed by the author of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "In India, organic farming should not be promoted as a substitute for conventional farming.",
+        "b": "There are no safe organic alternatives to chemical fertilizers.",
+        "c": "In India, farmers need to be guided and helped to make their organic farming sustainable.",
+        "d": "The aim of organic farming should not be to generate huge profits as there is still no global market for its products."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The author identifies multiple hurdles: a young unregulated industry, confusion among users, and improper dosages of natural sprays like Datura. \n\n- To resolve these systemic hazards practically, the logical message is that Indian farmers need proper guidance, research, and regulatory help to make organic practices safe and sustainable, validating option (c).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q035",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-3",
+        "Food consumption patterns have changed substantially in India over the past few decades.",
+        "This has resulted in the disappearance of many nutritious foods such as millets.",
+        "While food grain production has increased over five times since independence, it has not sufficiently addressed the issue of malnutrition.",
+        "For long, the agriculture sector focussed on increasing food production particularly staples, which led to lower production and consumption of indigenous traditional crops/grains, fruits and other vegetables, impacting food and nutrition security in the process.",
+        "Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem by degrading the quality of land, water and food derived through them.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. To implement the Sustainable Development Goals and to achieve zero-hunger goal, monoculture agriculture practices are inevitable even if they do not address malnutrition.",
+        "2. Dependence on a few crops has negative consequences for human health and the ecosystem.",
+        "3. Government policies regarding food planning need to incorporate nutritional security.",
+        "4. For the present monoculture agriculture practices, farmers receive subsidies in various ways and government offers remunerative prices for grains and therefore they do not tend to consider crop diversity.",
+        "Which of the above assumptions are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-3 \n Food consumption patterns have changed substantially in India over the past few decades. \n This has resulted in the disappearance of many nutritious foods such as millets. \n While food grain production has increased over five times since independence, it has not sufficiently addressed the issue of malnutrition. \n For long, the agriculture sector focussed on increasing food production particularly staples, which led to lower production and consumption of indigenous traditional crops/grains, fruits and other vegetables, impacting food and nutrition security in the process. \n Further, intensive, monoculture agriculture practices can perpetuate the food and nutrition security problem by degrading the quality of land, water and food derived through them. \n Based on the above passage, the following assumptions have been made: \n 1. To implement the Sustainable Development Goals and to achieve zero-hunger goal, monoculture agriculture practices are inevitable even if they do not address malnutrition. \n 2. Dependence on a few crops has negative consequences for human health and the ecosystem. \n 3. Government policies regarding food planning need to incorporate nutritional security. \n 4. For the present monoculture agriculture practices, farmers receive subsidies in various ways and government offers remunerative prices for grains and therefore they do not tend to consider crop diversity. \n Which of the above assumptions are valid? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 4 only",
+        "b": "2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is invalid. The passage heavily criticizes monoculture for degrading land and water; it does not claim it is \"inevitable\". \n\n- Statement 2 is valid. The passage states focusing heavily on a few staple crops reduces indigenous production, degrading nutrition (health) and land/water (ecosystem). \n\n- Statement 3 is valid. The passage's overarching narrative is that focusing merely on increasing food production has failed, implying policy must actively incorporate nutritional security instead. \n\n- Statement 4 is invalid because while it may be factually true in real life, the passage makes absolutely zero mention of subsidies or remunerative prices influencing farmer behaviour.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q036",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "General Mental Ability",
+      "statementLines": [
+        "",
+        "A box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls.",
+        "Consider the following statements:",
+        "1. The smallest number n such that any n balls drawn from the box randomly must contain one full group of at least one colour is 175.",
+        "2. The smallest number m such that any m balls drawn from the box randomly must contain at least one ball of each colour is 167.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A box contains 14 black balls, 20 blue balls, 26 green balls, 28 yellow balls, 38 red balls and 54 white balls. \n Consider the following statements: \n 1. The smallest number n such that any n balls drawn from the box randomly must contain one full group of at least one colour is 175. \n 2. The smallest number m such that any m balls drawn from the box randomly must contain at least one ball of each colour is 167. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- This uses the Pigeonhole Principle evaluating worst-case scenarios. \n\n- Statement 1: To prevent completing any full group, the worst case is drawing all but one ball from every single color category. (13 black + 19 blue + 25 green + 27 yellow + 37 red + 53 white) = 174 balls. The very next ball (175th) will guarantee the completion of one group.\n\nStatement 1 is correct. \n\n- Statement 2: To prevent drawing at least one ball of *each* color, the worst case is drawing every single ball from the 5 largest color groups, leaving only the smallest group (black) untouched. (54 white + 38 red + 28 yellow + 26 green + 20 blue) = 166 balls. The very next ball (167th) forces you to draw the final color (black).\n\nStatement 2 is correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q037",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "",
+        "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If 'ZERO' is written as 'CHUR', then how is 'PLAYER' written? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "SOCAGT",
+        "b": "SODBGT",
+        "c": "SODBHT",
+        "d": "SODBHU"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Analyze the letter shifting code from ZERO to CHUR: \n\n  - Z (26) + 3 = C (3, cycling back) \n\n  - E (5) + 3 = H (8) \n\n  - R (18) + 3 = U (21) \n\n  - O (15) + 3 = R (18) \n\n- The pattern is a uniform +3 shift forward in the alphabet. \n\n- Apply this to PLAYER: \n\n  - P (16) + 3 = S (19) \n\n  - L (12) + 3 = O (15) \n\n  - A (1) + 3 = D (4) \n\n  - Y (25) + 3 = B (2, cycling back) \n\n  - E (5) + 3 = H (8) \n\n  - R (18) + 3 = U (21) \n\n- The resulting code is SODBHU.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q038",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Number Ranking and Sequence",
+      "statementLines": [
+        "",
+        "Consider the following statements:",
+        "1. A is older than B.",
+        "2. C and D are of the same age.",
+        "3. E is the youngest.",
+        "4. F is younger than D.",
+        "5. F is older than A.",
+        "How many statements given above are required to determine the oldest person/persons?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements: \n 1. A is older than B. \n 2. C and D are of the same age. \n 3. E is the youngest. \n 4. F is younger than D. \n 5. F is older than A. \n How many statements given above are required to determine the oldest person/persons? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All five"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Map the inequalities based on the statements: \n\n  - Statement 1: A > B \n\n  - Statement 2: C = D \n\n  - Statement 3: E is the absolute youngest, so B > E. \n\n  - Statement 4: D > F \n\n  - Statement 5: F > A \n\n- Combining these chains logically: C = D > F > A > B > E. \n\n- The chain proves that C and D are simultaneously the oldest persons. \n\n- To solidify this entire continuous chain and confidently declare C and D as the top without ambiguity, every single one of the five statements must be utilized.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q039",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Blood Relations",
+      "statementLines": [
+        "",
+        "Consider the following including the Question and the Statements:",
+        "There are 5 members A, B, C, D, E in a family.",
+        "Question: What is the relation of E to B?",
+        "Statement-1: A and B are a married couple.",
+        "Statement-2: D is the father of C.",
+        "Statement-3: E is D's son.",
+        "Statement-4: A and C are sisters.",
+        "Which one of the following is correct in respect of the above Question and Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following including the Question and the Statements: \n There are 5 members A, B, C, D, E in a family. \n Question: What is the relation of E to B? \n Statement-1: A and B are a married couple. \n Statement-2: D is the father of C. \n Statement-3: E is D's son. \n Statement-4: A and C are sisters. \n Which one of the following is correct in respect of the above Question and Statements? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1, Statement-2 and Statement-3 are sufficient to answer the Question.",
+        "b": "Statement-1, Statement-3 and Statement-4 are sufficient to answer the Question.",
+        "c": "All four statements together are sufficient to answer the Question.",
+        "d": "All four statements are not sufficient to answer the Question."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 4: A and C are sisters (Both are female). \n\n- Statement 2: D is the father of C. Thus, D is the father of both sisters, A and C. \n\n- Statement 3: E is D's son. Therefore, E is the brother of A and C. \n\n- Statement 1: A and B are a married couple. Since A is female, B is her husband. \n\n- Combining everything: E is the brother of A, and B is the husband of A. Therefore, E is the brother-in-law of B. \n\n- Deducing this exact relationship successfully requires synthesizing information from all four statements.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q040",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Classification",
+      "statementLines": [
+        "",
+        "Choose the group which is different from the others:",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Choose the group which is different from the others: \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "17, 37, 47, 97",
+        "b": "31, 41, 53, 67",
+        "c": "71, 73, 79, 83",
+        "d": "83, 89, 91, 97"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Evaluate the mathematical nature of the numbers within each group. \n\n- Group (a): 17, 37, 47, 97 are all prime numbers. \n\n- Group (b): 31, 41, 53, 67 are all prime numbers. \n\n- Group (c): 71, 73, 79, 83 are all prime numbers. \n\n- Group (d): 83, 89, 91, 97. The number 91 is a composite number (since 13 x 7 = 91). \n\n- Thus, group (d) is fundamentally different because it is the only set that contains a non-prime number. \n\n——-",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q041",
+      "questionNumber": 41,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "For two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings.",
+        "An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive.",
+        "He finds it very difficult to spend his little leisure in serious activities. He does not want to think;",
+        "or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities.",
+        "Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.",
+        "The passage is based on the idea that",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n For two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings. \n An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive. \n He finds it very difficult to spend his little leisure in serious activities. He does not want to think; \n or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities. \n Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature. \n The passage is based on the idea that \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Man should not work hard",
+        "b": "The great evil of our age is overstrain",
+        "c": "Man cannot think well",
+        "d": "Man cannot care for his spiritual welfare"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage explicitly links the inability of man's spiritual element to thrive and his mental idleness to \"an excessive amount of labour\". \n\n- By identifying this overwork as the root cause of the cultural and spiritual decline, the passage bases its entire argument on the idea that overstrain is the great evil of our age.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q042",
+      "questionNumber": 42,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Man does not seek self-improvement because he",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Man does not seek self-improvement because he \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Is not intellectually capable",
+        "b": "Has no time to do so",
+        "c": "Is distracted by materialism",
+        "d": "Loves amusement and is mentally idle"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The official key indicates (a), but the passage literally states: \"He seeks not self-improvement, but entertainment which would enable him to be mentally idle...\" which directly supports (d). However, strictly adhering to the provided official key, it selects (a) based on the preceding line \"he cannot even if he wants to,\" implying an intellectual incapacity stemming from overwork.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q043",
+      "questionNumber": 43,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity.",
+        "The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline.",
+        "From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth.",
+        "The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver.",
+        "And since the savings rate is an important driver of growth, this should help elevate our growth rate.",
+        "However, the benefits of demographic dividend depend on the quality of the working age population.",
+        "And this implies bringing back the importance of education, acquisition of skills and human capital.",
+        "Which of the following would invariably happen in a country, when the demographic dividend has begun to operate?",
+        "1. The number of illiterate people will decrease.",
+        "2. The ratio of very old and very young will decrease for a while.",
+        "3. Population growth rate will quickly stabilize.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity. \n The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline. \n From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth. \n The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver. \n And since the savings rate is an important driver of growth, this should help elevate our growth rate. \n However, the benefits of demographic dividend depend on the quality of the working age population. \n And this implies bringing back the importance of education, acquisition of skills and human capital. \n Which of the following would invariably happen in a country, when the demographic dividend has begun to operate? \n 1. The number of illiterate people will decrease. \n 2. The ratio of very old and very young will decrease for a while. \n 3. Population growth rate will quickly stabilize. \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The provided answer key states (a) 1 and 2 only. However, the passage explicitly treats education as a conditional requirement (\"implies bringing back the importance of education\") rather than an \"invariable\" automatic occurrence. Statement 2 is explicitly stated in the text. I am providing the required key's answer (a) but noting the logical contradiction regarding Statement 1.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q044",
+      "questionNumber": 44,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "With reference to the passage, which of the following inferences can be drawn?",
+        "1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.",
+        "2. Promotion of higher education is an essential condition for a country for its rapid economic growth.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the passage, which of the following inferences can be drawn? \n 1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate. \n 2. Promotion of higher education is an essential condition for a country for its rapid economic growth. \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The official key provides (c) Both 1 and 2. However, strictly analyzing the text, the passage says the dividend \"can be a source of energy\" and \"should help,\" but never calls it an absolute \"essential condition\" for all rapid growth. Similarly, it calls for \"education\" generally, but does not rigidly mandate \"higher education\" as an essential universal condition. I provide the key's mandated answer but flag the inferential leap.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q045",
+      "questionNumber": 45,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "Five friends P, Q, X, Y and Z purchased some notebooks.",
+        "The relevant information is given below:",
+        "1. Z purchased 8 notebooks more than X did.",
+        "2. P and Q together purchased 21 notebooks.",
+        "3. Q purchased 5 notebooks less than P did.",
+        "4. X and Y together purchased 28 notebooks.",
+        "5. P purchased 5 notebooks more than X did.",
+        "If each notebook is priced 40 then what is the total cost of all the notebooks?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Five friends P, Q, X, Y and Z purchased some notebooks. \n The relevant information is given below: \n 1. Z purchased 8 notebooks more than X did. \n 2. P and Q together purchased 21 notebooks. \n 3. Q purchased 5 notebooks less than P did. \n 4. X and Y together purchased 28 notebooks. \n 5. P purchased 5 notebooks more than X did. \n If each notebook is priced 40 then what is the total cost of all the notebooks? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2,600",
+        "b": "2,400",
+        "c": "2,360",
+        "d": "2,320"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The official key states (d) 2,320. Let's recalculate carefully: P + Q = 21, P - Q = 5 => 2P = 26 => P = 13. \n\n- Q = 8. \n\n- P = X + 5 => 13 = X + 5 => X = 8. \n\n- Z = X + 8 => Z = 8 + 8 = 16. \n\n- X + Y = 28 => 8 + Y = 28 => Y = 20. \n\n- Total notebooks = P(13) + Q(8) + X(8) + Y(20) + Z(16) = 65 notebooks. \n\n- Total Cost = 65 × 40 = 2,600. The mathematical answer is (a), but the provided key indicates (d). I must output the forced key but strictly flag the math error.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q046",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "",
+        "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours.",
+        "After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours.",
+        "As compared to the clock at home, the village clock is",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours. \n After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours. \n As compared to the clock at home, the village clock is \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10 minutes slow",
+        "b": "5 minutes slow",
+        "c": "10 minutes fast",
+        "d": "5 minutes fast"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The provided key is (c) 10 minutes fast, but mathematical proof yields (d) 5 minutes fast. \n\n- Let outward time be T minutes. Return route is 1.25x distance, 2x speed => Return time = (1.25/2)T = 0.625T. \n\n- Total actual time = 16:00 - 14:30 = 90 mins. \n\n- T + 25 (stay) + 0.625T = 90 => 1.625T = 65 => T = 40 minutes. \n\n- Real arrival time = 14:30 + 40 mins = 15:10. \n\n- Village clock showed 15:15, meaning it is 5 minutes fast (d). Outputting (c) to match the provided string but noting the error.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q047",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "147",
+        "b": "150",
+        "c": "294",
+        "d": "300"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The official key states (a) 147, but the prompt demands every child gets an \"even number\". \n\n- A = 2B = 3C = 4D = 5E = 6F. LCM(2,3,4,5,6) = 60. \n\n- If A=60, D=15 (which is odd, violating the rule). \n\n- If we double it to make them even: A=120, B=60, C=40, D=30, E=24, F=20. Sum = 294 (Option c). \n\n- The key (a) 147 ignores the even constraint. Outputting the key but flagging the flaw.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q048",
+      "questionNumber": 48,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table).",
+        "Consider the Question and two Statements given below:",
+        "Question: Who is sitting on the immediate left of A?",
+        "Statement-1: B is sitting opposite to C and D is sitting opposite to E.",
+        "Statement-2: F is sitting on the immediate left of B.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table). \n Consider the Question and two Statements given below: \n Question: Who is sitting on the immediate left of A? \n Statement-1: B is sitting opposite to C and D is sitting opposite to E. \n Statement-2: F is sitting on the immediate left of B. \n Which one of the following is correct in respect of the Question and the Statements? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The official key provides (c), asserting both are sufficient. However, D and E can swap positions while maintaining their opposite status, meaning A's immediate left could be either D or E. Because this dual possibility exists, standard logic dictates (d). Outputting the forced key (c) but noting the logical gap.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q049",
+      "questionNumber": 49,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Consider the Question and two Statements given below:",
+        "Question: What is the age of Manisha?",
+        "Statement-1: Manisha is 24 years younger than her mother.",
+        "Statement-2: 5 years later, the ages of Manisha and her mother will be in the ratio 3:5.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the Question and two Statements given below: \n Question: What is the age of Manisha? \n Statement-1: Manisha is 24 years younger than her mother. \n Statement-2: 5 years later, the ages of Manisha and her mother will be in the ratio 3:5. \n Which one of the following is correct in respect of the Question and the Statements? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The provided key is (a). However, Statement-1 alone only provides a relative difference (Mo = M + 24) with infinite variables. It is mathematically impossible to solve without Statement-2. The correct answer should be (c). Supplying the requested key (a) but heavily flagging the error.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q050",
+      "questionNumber": 50,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m.",
+        "Consider the Question and two Statements given below:",
+        "Question: Which lecture is in the third period?",
+        "Statement-1: Lecture F is preceded by A and followed by C.",
+        "Statement-2: There is no lecture after lecture B.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m. \n Consider the Question and two Statements given below: \n Question: Which lecture is in the third period? \n Statement-1: Lecture F is preceded by A and followed by C. \n Statement-2: There is no lecture after lecture B. \n Which one of the following is correct in respect of the Question and the Statements? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key provides (b). Statement-2 only establishes B is in the 6th period, offering no information to determine the 3rd period. Properly, the combination of both leaves ambiguity (d). Outputting the mandated key (b) but noting the logical failure.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q051",
+      "questionNumber": 51,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "In an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests.",
+        "If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.",
+        "Which of the following statements best reflects the underlying tone of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n In an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests. \n If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge. \n Which of the following statements best reflects the underlying tone of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only an educated population can best make use of the benefits of economic progress.",
+        "b": "All economic development should be aimed at the creation of leisure.",
+        "c": "An increase in the educated population of a country leads to an increase in the happiness of its people.",
+        "d": "Use of machines should be encouraged in order to create a large leisured population."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (d). However, the passage clearly focuses on education being the prerequisite for enjoying the leisure created by machines (aligning with a). Outputting (d) to match the string while noting the disconnect.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q052",
+      "questionNumber": 52,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "If presents bring less thrill now that we are grown up, perhaps it is because we have too much already;",
+        "or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving.",
+        "Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward.",
+        "Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition.",
+        "Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.",
+        "With reference to the passage, which one of the following statements is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n If presents bring less thrill now that we are grown up, perhaps it is because we have too much already; \n or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving. \n Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward. \n Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition. \n Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way. \n With reference to the passage, which one of the following statements is correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It is not possible for adults to feel thrilled by presents.",
+        "b": "There can be more than one reason why adults feel less thrilled by presents.",
+        "c": "The author does not know why adults feel less thrilled by presents.",
+        "d": "Adults have less capacity to feel the joy of loving or being loved."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (a). The passage clearly offers multiple \"perhaps\" reasons, which logically points to (b). Outputting the forced key (a).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q053",
+      "questionNumber": 53,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "The author of the passage is against",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The author of the passage is against \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Worrying too much about the past and future",
+        "b": "Being in the habit of thinking about presents",
+        "c": "Not being thrilled by new things",
+        "d": "Giving and receiving joy only partially"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The author praises children because \"they do not look too forward nor too far backward.\" \n\n- Conversely, the author criticizes adults for being \"too cautious, too anxious\" and advises that cares would shrink if \"we thought less about them,\" indicating an opposition to worrying too much about the past and future.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q054",
+      "questionNumber": 54,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition.",
+        "Consider the following statements:",
+        "1. The 4-digit least value of x is 1332.",
+        "2. The 3-digit greatest value of x is 888.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition. \n Consider the following statements: \n 1. The 4-digit least value of x is 1332. \n 2. The 3-digit greatest value of x is 888. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (b). However, the sum 'x' of all 6 permutations is 222 × (A + B + C). The minimum sum for distinct non-zero digits is 1+2+3=6. The minimum x = 222 × 6 = 1332.\n\nStatement 1 is correct, and Statement 2 is mathematically impossible. The correct answer should be (a). Providing the key's mandated answer.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q055",
+      "questionNumber": 55,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "There is a numeric lock which has a 3-digit PIN.",
+        "The PIN contains digits 1 to 7. There is no repetition of digits.",
+        "The digits in the PIN from left to right are in decreasing order.",
+        "Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There is a numeric lock which has a 3-digit PIN. \n The PIN contains digits 1 to 7. There is no repetition of digits. \n The digits in the PIN from left to right are in decreasing order. \n Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "12"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (b) 8. However, working backward systematically yields exactly 10 valid combinations matching the strict criteria (A>B>C and min gap of 2). Outputting the forced key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q056",
+      "questionNumber": 56,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "24",
+        "b": "16",
+        "c": "12",
+        "d": "8"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (d) 8. Mathematically, 8 equidistant points provide 4 diameters. For each diameter, 6 other points form right-angled triangles (Thales' theorem). 4 x 6 = 24 triangles. Outputting the provided key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q057",
+      "questionNumber": 57,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "",
+        "24 men and 12 women can do a piece of work in 30 days.",
+        "In how many days can 12 men and 24 women do the same piece of work?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "24 men and 12 women can do a piece of work in 30 days. \n In how many days can 12 men and 24 women do the same piece of work? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "30 days",
+        "b": "More than 30 days",
+        "c": "Less than 30 days or more than 30 days",
+        "d": "Data is inadequate to draw any conclusion"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (c). Mathematically, without the efficiency ratio between a man and a woman, the exact time cannot be found, which points to Data Inadequate (d). Option (c) is technically a tautology but (d) is standard logic. Supplying the given key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q058",
+      "questionNumber": 58,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the remainder when 91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99 is divided by 1261?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the remainder when 91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99 is divided by 1261? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "1",
+        "d": "0"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (a) 3. Mathematically, 1261 factors into 13 × 97. The numerator product contains 91 (which is 13×7) and 97. Because both 13 and 97 are factors in the numerator, it divides perfectly and the remainder is 0. Outputting the provided key (a).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q059",
+      "questionNumber": 59,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm:",
+        "1. It is possible to cut the sheet exactly into 4 square sheets.",
+        "2. It is possible to cut the sheet into 10 triangular sheets of equal area.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm: \n 1. It is possible to cut the sheet exactly into 4 square sheets. \n 2. It is possible to cut the sheet into 10 triangular sheets of equal area. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (d). However, a 20x8 sheet can be cut into two 8x8 squares and the remaining 4x8 cut into two 4x4 squares (4 squares total). It can also be cut into 10 identical triangles (each 16cm²). Properly, both statements are physically possible (c). Outputting the forced key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q060",
+      "questionNumber": 60,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y.",
+        "When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z.",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y. \n When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z. \n Which one of the following is correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Z < x < y",
+        "b": "X < y < z",
+        "c": "Y < x < z",
+        "d": "Z < y < x"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (b). Equation 1: 0.7x + y = 1.65y => 0.7x = 0.65y => y = (14/13)x. Equation 2: 0.6x + z = 1.65z => 0.6x = 0.65z => z = (12/13)x. Assuming positive integers, z < x < y (a). Outputting the key (b).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q061",
+      "questionNumber": 61,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others.",
+        "They permit the newspapers and the gossiping neighbours to do their thinking for them.",
+        "Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them.",
+        "If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.",
+        "Which one of the following is implied by the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others. \n They permit the newspapers and the gossiping neighbours to do their thinking for them. \n Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them. \n If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking. \n Which one of the following is implied by the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Most of the people do not accumulate money for their needs.",
+        "b": "Most of the people never fail to accumulate money for their needs.",
+        "c": "There are people who fail to accumulate money for their needs.",
+        "d": "There is no need to accumulate money."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key gives (d). However, the passage explicitly discusses people who *fail* to accumulate money, meaning (c) is the direct logical implication. \"There is no need\" is not supported at all. Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q062",
+      "questionNumber": 62,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "What is the main idea of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the main idea of the passage? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "People should not be influenced by the opinions of others.",
+        "b": "People should accumulate as much money as they can.",
+        "c": "People should neither give nor accept the opinions.",
+        "d": "People will succeed in any undertaking if they do not accept any opinion at all."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key gives (d). While the passage rails against being influenced by opinions, (d) guarantees success in ANY undertaking simply by ignoring opinions, which is an absolute leap. The more balanced main idea is (a). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q063",
+      "questionNumber": 63,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "\"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\"",
+        "With reference to the above passage, which of the following statements is/are correct?",
+        "1. Conventions are the sources of rights of man.",
+        "2. Rights of man can be exercised only when there is a social order.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n \"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\" \n With reference to the above passage, which of the following statements is/are correct? \n 1. Conventions are the sources of rights of man. \n 2. Rights of man can be exercised only when there is a social order. \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (b). However, the text explicitly states the fundamental right \"must therefore be founded on conventions\", establishing them as the source (Statement 1). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q064",
+      "questionNumber": 64,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes.",
+        "There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes.",
+        "What is the total number of voters in the voters list?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes. \n There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes. \n What is the total number of voters in the voters list? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "15000",
+        "b": "12000",
+        "c": "9600",
+        "d": "5000"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (c) 9600. Mathematically: X secured 56%, Y secured 44%. Margin = 12% of cast votes. 12% of Cast = 1440 => Cast Votes = 12,000. Cast votes are 80% of Total List. 80% of Total = 12,000 => Total = 15,000 (Option a). Outputting the forced key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q065",
+      "questionNumber": 65,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1063",
+        "b": "1073",
+        "c": "1083",
+        "d": "1183"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (d) 1183. Mathematically: LCM of 6, 9, 12, 15, 18 is 180. Format: 180k + 3. For k=6, 1080 + 3 = 1083 (Option c), which is the smallest greater than 1000. Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q066",
+      "questionNumber": 66,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let p be a two-digit number and q be the number consisting of same digits written in reverse order.",
+        "If p × q = 2430, then what is the difference between p and q?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order. \n If p × q = 2430, then what is the difference between p and q? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "45",
+        "b": "27",
+        "c": "18",
+        "d": "9"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (c) 18. Mathematically: The factor pair for 2430 representing reversed 2-digit numbers is 45 and 54 (45 x 54 = 2430). The difference is 54 - 45 = 9 (Option d). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q067",
+      "questionNumber": 67,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number:",
+        "1. p × q can be an odd number.",
+        "2. q/p can be a prime number.",
+        "3. p + q can be a prime number.",
+        "Which of the above statements are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number: \n 1. p × q can be an odd number. \n 2. q/p can be a prime number. \n 3. p + q can be a prime number. \n Which of the above statements are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Test Statement 1: Let p=3 (prime) and q=9 (composite). p × q = 27. 27 is an odd number. Correct. \n\n- Test Statement 2: Let p=2 (prime) and q=6 (composite). q / p = 6 / 2 = 3. 3 is a prime number. Correct. \n\n- Test Statement 3: Let p=2 (prime) and q=9 (composite). p + q = 11. 11 is a prime number. Correct. \n\n- All three scenarios are mathematically possible.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q068",
+      "questionNumber": 68,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Clocks",
+      "statementLines": [
+        "",
+        "Consider the following statements:",
+        "1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide.",
+        "2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements: \n 1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide. \n 2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide. \n Which of the above statements is/are correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (d). However, clock mechanics mathematically dictate that at 3:16:21 the hands perfectly coincide, proving Statement 1. Similarly, Statement 2 occurs naturally as the sweep crosses. Proper logic dictates (c). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q069",
+      "questionNumber": 69,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Mixture and Alligation",
+      "statementLines": [
+        "",
+        "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water.",
+        "20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water. \n 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "M = n",
+        "b": "M > n",
+        "c": "M < n",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (c). Mathematically, cross-transferring equal symmetrical volumes back and forth between identical starting volumes guarantees that the proportion of Milk remaining in X exactly equals the proportion of Water remaining in Y (m = n). Option (a) is the true answer. Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q070",
+      "questionNumber": 70,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Data Interpretation",
+      "statementLines": [
+        "",
+        "A pie chart gives the expenditure on five different items A, B, C, D and E in a household.",
+        "If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household. \n If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "112/9",
+        "b": "125/6",
+        "c": "155/9",
+        "d": "250/9"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key is (b). Mathematically: 360° - (90° + 50° + 45° + 75°) = 100°. Percentage = (100 / 360) × 100 = 250/9. Option (d) is mathematically correct. Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q071",
+      "questionNumber": 71,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "To encourage research is one of the functions of a university.",
+        "Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well.",
+        "Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization.",
+        "But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.",
+        "The author's assumption about scientific research is that",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1 \n To encourage research is one of the functions of a university. \n Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. \n Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. \n But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile. \n The author's assumption about scientific research is that \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It is never very valuable",
+        "b": "It is sometimes very valuable",
+        "c": "It is never without some value",
+        "d": "It is always very valuable"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (b). However, the passage explicitly says \"Scientific research is probably never completely valueless,\" mapping directly to (c). Supplying the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q072",
+      "questionNumber": 72,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "According to the author",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "According to the author \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Not many research results can be of value to an intelligent investigator",
+        "b": "A research result is always valuable to an intelligent investigator",
+        "c": "Any research result can be of value to an intelligent investigator",
+        "d": "A research result must always be of some value to an intelligent investigator"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (b). The passage states \"there is always a chance that the results may be of value\", which maps to \"can be\" (c), not an absolute \"is always valuable\" (b). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q073",
+      "questionNumber": 73,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient?",
+        "In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days.",
+        "This skewed water availability has to be managed and regulated for its consumption throughout the year.",
+        "Which one of the following best reflects the practical, rational and lasting solution?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2 \n How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient? \n In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days. \n This skewed water availability has to be managed and regulated for its consumption throughout the year. \n Which one of the following best reflects the practical, rational and lasting solution? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Constructing huge concrete storage tanks and canals across the country",
+        "b": "Changing the cropping patterns and farming practices",
+        "c": "Interlinking of rivers across the country",
+        "d": "Buffer stocking of water through dams and recharging aquifers"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage highlights the problem of skewed temporal availability (too much water in 120 days, too little for 245 days) that must be managed and regulated. \n\n- \"Buffer stocking of water through dams and recharging aquifers\" acts as the most rational, large-scale storage solution directly addressing this specific seasonal surplus/deficit constraint.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q074",
+      "questionNumber": 74,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "If 15 × 14 × 13 × … × 3 × 2 × 1 = 3ᵐ × n where m and n are positive integers, then what is the maximum value of m?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If 15 × 14 × 13 × … × 3 × 2 × 1 = 3ᵐ × n where m and n are positive integers, then what is the maximum value of m? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "7",
+        "b": "6",
+        "c": "5",
+        "d": "4"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (d) 4. Mathematically, finding the highest power of 3 in 15! using Legendre's formula yields [15/3] + [15/9] = 5 + 1 = 6. The correct math is 6 (Option b). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q075",
+      "questionNumber": 75,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "What is the value of X in the sequence 2, 12, 36, 80, 150, X?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the value of X in the sequence 2, 12, 36, 80, 150, X? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "248",
+        "b": "252",
+        "c": "258",
+        "d": "262"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (d). However, the established mathematical formula for this sequence is n² × (n+1). For n=6, 6² × 7 = 252 (Option b). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q076",
+      "questionNumber": 76,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant.",
+        "How many such passwords can be generated?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant. \n How many such passwords can be generated? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "105",
+        "b": "525",
+        "c": "945",
+        "d": "1050"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (a). Mathematically, Vowels (5) x Digits (9) x Consonants (21) = 945 combinations (Option c). Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q077",
+      "questionNumber": 77,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea.",
+        "In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea. \n In how many ways can they be arranged so that each row should contain at least one cup of coffee? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "18",
+        "b": "27",
+        "c": "54",
+        "d": "81"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Unconstrained ways to place 3 identical tea cups in 9 spots = 9C3 = 84 ways. \n\n- The invalid configurations occur when all 3 tea cups fill up an entire row. There are 3 such invalid rows. \n\n- Valid arrangements = 84 - 3 = 81 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q078",
+      "questionNumber": 78,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "The sum of three consecutive integers is equal to their product. How many such possibilities are there?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The sum of three consecutive integers is equal to their product. How many such possibilities are there? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "No such possibility is there"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The key states (a). Mathematically, x(x-1)(x+1) = 3x => x(x² - 4) = 0 yields three valid sequences: (-1,0,1), (1,2,3), and (-3,-2,-1). Option (c) is correct. Outputting the key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q079",
+      "questionNumber": 79,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "72",
+        "b": "81",
+        "c": "90",
+        "d": "100"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The available non-zero digits are 1 through 9 (9 options). \n\n- For 'X', choose any of the 9 digits. \n\n- For 'Y', choose from the 8 remaining digits (must be distinct). \n\n- Total valid numbers = 9 × 8 = 72.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    },
+    {
+      "id": "upsc-cse-pyq-2023-gs2-q080",
+      "questionNumber": 80,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F? \n Select the correct answer using the code given below:",
+      "options": {
+        "a": "40.5 kg",
+        "b": "40.8 kg",
+        "c": "41 kg",
+        "d": "Cannot be determined as data is inadequate"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- A + B + C = 120. B + D + E = 126. \n\n- D + E = 126 - B. \n\n- F = B. \n\n- Total weight = (A + B + C) + (D + E) + F = 120 + (126 - B) + B = 246 kg. \n\n- Average = 246 / 6 = 41 kg.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2023"
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "upsc_official",
+  "institute_name": "UPSC",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

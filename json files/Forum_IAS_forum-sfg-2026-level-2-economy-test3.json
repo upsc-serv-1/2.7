@@ -1,0 +1,1813 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test3",
+  "title": "Test 3- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax.",
+        "Statement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax",
+        "Act, 1961.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax. Statement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect: Under Section 10(1) of the Income Tax Act, 1961, agricultural income is exempt from tax. This includes income from cultivating and selling agricultural produce, sale of agricultural land, and compensation received from the government for acquisition of agricultural land. However, income from allied agricultural activities— such as dairy farming, poultry, or fisheries—is not treated as agricultural income under the Act and is subject to tax by the central government.\nStatement II is correct: According to Section 2(1A) of the Income Tax Act, rural agricultural land is not classified as a capital asset. As a result, any rental income from such land or income earned from growing and selling produce on it is not taxable.\nHence option d is the correct answer:\n\nStatement I is not correct but\n\nStatement II is correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which among the following is the largest source of financing the fiscal deficit of the Union Government of India as per the revised estimate for the FY 2025-26?"
+      ],
+      "questionText": "Which among the following is the largest source of financing the fiscal deficit of the Union Government of India as per the revised estimate for the FY 2025-26?",
+      "options": {
+        "a": "State Provident Funds",
+        "b": "External Debt",
+        "c": "Securities against Small Savings",
+        "d": "Market Borrowings (G-sec)"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Fiscal deficit is the gap between the Government’s total expenditure and its total non-borrowed receipts, indicating the amount the government needs to borrow to meet its expenditure. As per the Revised Budget Estimates (BE)**2025-26**, the fiscal deficit for FY 2025–26 is estimated at ₹15,58,492 lakh crore, which is 4.4% of GDP.\nOption d is correct: The largest component of financing the fiscal deficit is Market Borrowings (G-sec). Net market borrowings through dated securities are estimated at about ₹10.40 lakh crore, forming the dominant share of deficit financing. These are long-term government bonds issued in domestic financial markets and constitute the primary instrument used by the Government to raise funds.\nOption a is incorrect: State Provident Fund: Their contribution is very small (₹3800 crore) compared to dated securities; hence not the largest source.\nOption b is incorrect: External borrowing forms a very small fraction (₹20,462 crore) of total financing. India primarily finances its deficit domestically to reduce exchange rate risk and external vulnerability. Therefore, external debt is not the major source.\nOption c is incorrect: These include borrowings from National Small Savings Fund (NSSF) through schemes like PPF, NSC, Sukanya Samriddhi, etc.\nThough it is the second largest source (₹3.72 lakh crore), it is still far lower than market borrowings via dated securities. Therefore, it is not the largest source.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The Fiscal Health Index (FHI), which assesses the fiscal health of Indian States, is released by which of the following?"
+      ],
+      "questionText": "The Fiscal Health Index (FHI), which assesses the fiscal health of Indian States, is released by which of the following?",
+      "options": {
+        "a": "Union Ministry of Finance",
+        "b": "NITI Aayog",
+        "c": "Reserve Bank of India",
+        "d": "Comptroller and Auditor General of India"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**The Fiscal Health Index (FHI) is released by NITI Aayog to develop a comprehensive understanding of the fiscal health of Indian States. The Fiscal Health Index 2025 is based on a comprehensive set of indicators that are grouped into five broad categories: (1) Revenue Generation and Mobilization, (2) Expenditure Management and Prioritization, (3) Debt Management, (4)Fiscal Deficit Management, and (5) Overall Fiscal Sustainability-The index covers eighteen major states that drive the Indian economy in terms of their contribution to India’s GDP, demography, public expenditure, revenue generation and overall fiscal stability. - The first edition of the index was released in 2025 and is prepared using data sourced from the Comptroller and Auditor General of India (CAG) for the Financial Year**2022-23**.\n- According to the report, Odisha ranks first in fiscal health, followed by Chhattisgarh, Goa, Jharkhand and Gujarat.\n\nKnowledge Base: Ranks and performance of various states as per the Fiscal Health Index (2025): Top Achievers (Scores): In the Achievers (Top-5) category, Odisha (67.8) ranked first, followed by Chhattisgarh (55.2), Goa (53.6), Jharkhand (51.6) and Gujarat (50.5) on the composite Fiscal Health Index",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Insurance and Pension",
+      "statementLines": [
+        "With reference to the Union Government of India Budget, consider the following expenditures:",
+        "I. Salaries and pensions of government employees",
+        "II. Interest payments on public debt",
+        "III. Expenditure on the construction of a national highway",
+        "IV. Subsidies on food and fertilisers",
+        "V. Repayment of the principal amount of public debt",
+        "How many of the above are part of Revenue Expenditure?"
+      ],
+      "questionText": "With reference to the Union Government of India Budget, consider the following expenditures: I. Salaries and pensions of government employees II. Interest payments on public debt III. Expenditure on the construction of a national highway IV. Subsidies on food and fertilisers V. Repayment of the principal amount of public debt How many of the above are part of Revenue Expenditure?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Union Government Budget of India is the annual financial statement presented under Article 112 of the Constitution of India. It contains the estimated receipts and expenditures of the Government of India for a financial year (1 April to 31 March).\nFor fiscal analysis and examination purposes, government expenditure is broadly classified into: 1. Revenue Expenditure 2. Capital Expenditure Revenue Expenditure:\nRevenue expenditure refers to expenditure that:\n- Does not create any asset, and-Does not reduce any liability of the government.\nIt includes routine administrative expenses, interest payments, subsidies, pensions, and grants for day-to-day functioning. These are generally recurring in nature and are necessary for maintaining government operations and public services.\nOption I is correct: Salaries and pensions of government employees: These are routine administrative expenses incurred for the day-to-day functioning of government departments. They are recurring in nature and do not lead to creation of any physical or financial asset, therefore classified as revenue expenditure.\nOption II is correct: Interest payments on public debt: Interest payments are mandatory financial obligations arising from past borrowings of the government. Such payments only service existing debt and do not create assets or reduce liabilities, hence treated as revenue expenditure.\nOption III is incorrect: Expenditure on the construction of a national highway: Expenditure on building highways results in creation of durable infrastructure assets that generate long-term economic benefits. Since it leads to asset formation and enhances productive capacity, it is classified as capital expenditure.\nOption IV is correct: Subsidies on food and fertilisers: Subsidies are transfer payments provided to reduce prices for consumers or support producers. They are recurring fiscal support measures and do not create government assets, therefore included under revenue expenditure.\nOption V is incorrect: Repayment of the principal amount of public debt: Repayment of the principal amount reduces the government’s outstanding debt liabilities. Since capital expenditure includes spending that leads to reduction of liabilities, principal repayment is classified as capital expenditure.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://nios.ac.in/media/documents/SrSec318NEW/318_Economics_Eng/318_Economics_Eng_Lesson29.pdf Page: 293. https://ncert.nic.in/textbook/pdf/leec105.pdf Page: 69,70"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q05",
+      "questionNumber": 5,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "In the context of Indian Polity, consider the following statements:",
+        "Statement I: Recently, the Supreme Court ruled that domicile-based reservations for postgraduate medical courses are unconstitutional.",
+        "Statement II: The Supreme Court held that domicile-based reservations violate Article 14 of the Indian Constitution.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Indian Polity, consider the following statements: Statement I: Recently, the Supreme Court ruled that domicile-based reservations for postgraduate medical courses are unconstitutional. Statement II: The Supreme Court held that domicile-based reservations violate Article 14 of the Indian Constitution. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: In the 2025 case Tanvi Behl v. Shrey Goel and Others, the Supreme Court of India ruled that domicile-based reservations in postgraduate medical admissions are unconstitutional.\n- The Court emphasized that admissions to postgraduate medical courses should be purely merit-based, conducted through NEET (National Eligibility cum Entrance Test), and should not be distorted by state-specific domicile requirements.\n- However, the ruling will not affect past admissions that were already granted under the domicile-based reservations.\nStatement II is correct: The Supreme Court ruled that providing reservation based on domicile for postgraduate medical courses violates Article 14 (Right Equality), which guarantees equality before the law and equal protection of the laws.\nStatement-II explains Statement-I:\n- Statement-I says that domicile-based reservations are unconstitutional.\n- Statement-II provides the reason for that unconstitutionality: they violate the principle of equality under\nArticle 14.\n- Therefore, Statement-II explains the basis for the ruling mentioned in Statement-I.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The SNA SPARSH, recently seen in the news is related to:"
+      ],
+      "questionText": "The SNA SPARSH, recently seen in the news is related to:",
+      "options": {
+        "a": "Digital platform for clearance of environmental projects.",
+        "b": "Facilitating effective cash management in Centrally Sponsored schemes.",
+        "c": "Electronic trading platform to facilitate the sale of agricultural products.",
+        "d": "Facilitating investment in Government Securities by individual investors."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Central Government has undertaken a major public financial management reform by shifting to a Just-in-Time (JIT) fund release system to improve cash management, reduce idle balances, enhance transparency, and strengthen expenditure efficiency.\nSNA-SPARSH (Single Nodal Account-Samyochit Pranali Ekikrit Shighra Hastantaran) was introduced to facilitate effective cash management in Centrally Sponsored Schemes with the aim of achieving the goal of “Just–in–time” fund flow from both the Centre and State Consolidated Funds through an integrated network of State IFMIS, e-kuber of RBI.\n\nKnowledge Base: Public Financial Management System (PFMS) is a web-based online transaction system for fund management and e-payment to implementing agencies and other beneficiaries.\nGovernment has mandated PFMS as a single platform for payment, accounting & reconciliation of government transactions and DBT, while integrating various existing standalone systems. Several cash management modules have been introduced on PFMS for better fund management, including Single Nodal Agency (SNA), Treasury Single Account (TSA), Central Nodal Agency (CNA) and Single Nodal Agency Samyochit Pranali Ekikrit Shighra Hastantaran (SNA SPARSH).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Union Budget 2026-27, consider the following statements:",
+        "Between the FY 2020-21 and 2024-25:",
+        "I. the Fiscal deficit as a percent of GDP of India has steadily decreased.",
+        "II. the Revenue deficit as a percent of GDP of India has steadily decreased",
+        "III. the Primary deficit as a percent of GDP of India has remained constant.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Union Budget 2026-27, consider the following statements: Between the FY 2020-21 and 2024-25: I. the Fiscal deficit as a percent of GDP of India has steadily decreased. II. the Revenue deficit as a percent of GDP of India has steadily decreased III. the Primary deficit as a percent of GDP of India has remained constant. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**Statement I is correct: Fiscal Deficit = Total Expenditure – Total Receipts (excluding borrowings) Fiscal deficit trend-9.2% (FY**2020-21**), declined to 6.7% (FY**2021-22**), which further declined to 6.5% (FY**2022-23**) to 5.5% (FY**2023-24**) and reached to 4.8% (FY**2024-25**). Thus it has been steadily declining. Statement II is correct: Revenue Deficit = Revenue Expenditure – Revenue Receipts Revenue deficit declining trend: 7.33% (FY**2020-21**) to 4.4.% (FY**2021-22**) further declined to 4.0% (FY**2022-23**) to 2.5% (FY**2023-24**) and reached 1.7 % (FY**2024-25**). Thus it has been steadily declining. Statement III is incorrect: Primary Deficit = Fiscal Deficit – Interest Payments Primary deficit declining trend: 5.7% (FY**2020-21**) to 3.3.% (FY**2021-22**) further to 3.0% (FY**2022-23**) to 2.0% (FY**2023-24**) and reached 1.3 % (FY**2024-25**). Thus it has not remained constant.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of public finance, the term Fiscal Glide Path refers to:"
+      ],
+      "questionText": "In the context of public finance, the term Fiscal Glide Path refers to:",
+      "options": {
+        "a": "A government’s policy of increasing public expenditure and reducing taxes during economic downturns to stimulate aggregate demand.",
+        "b": "A government’s policy to gradually reduce the fiscal deficit over a specified period through calibrated fiscal consolidation measures.",
+        "c": "A government’s strategy of increasing public borrowing to finance capital expenditure for infrastructure expansion.",
+        "d": "A government’s policy of automatic transition towards complete capital account convertibility upon reaching import cover of 12 months."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption b is correct: A Fiscal Glide Path refers to a strategy adopted by the government to gradually reduce its fiscal deficit over time through calibrated fiscal consolidation measures. It aims to prevent the negative impacts of unsustainable budget deficits on long-term economic growth.\nInstead of undertaking abrupt expenditure cuts or sharp tax increases, the government reduces the fiscal deficit in a phased and structured manner over several financial years.\n- In the Indian context, the fiscal glide path was first proposed by the NK Singh Committee on FRBM Review, which suggested a gradual reduction of the fiscal deficit and a medium-term debt target framework.\n- The committee's plan aimed to gradually bring down the deficit to 3% of GDP by FY20, to 2.8% by FY21, and eventually to 2.5% by FY23.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following description of a hypothetical tax system:",
+        "A government introduces a tax structure in which the tax rate increases uniformly for every additional ₹10 Lakhs of income between ₹10 Lakhs and ₹1 Crore. However, for all individuals earning above ₹1 Crore, a flat tax rate of 25% is applied irrespective of further increases in income.",
+        "Which one of the following best describes the nature of this tax system?"
+      ],
+      "questionText": "Consider the following description of a hypothetical tax system: A government introduces a tax structure in which the tax rate increases uniformly for every additional ₹10 Lakhs of income between ₹10 Lakhs and ₹1 Crore. However, for all individuals earning above ₹1 Crore, a flat tax rate of 25% is applied irrespective of further increases in income. Which one of the following best describes the nature of this tax system?",
+      "options": {
+        "a": "Regressive Tax",
+        "b": "Proportional Tax",
+        "c": "Progressive Tax",
+        "d": "Digressive Tax"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: A digressive tax system is one in which the tax rate increases progressively up to a certain level of income, but after that level, the rate becomes constant (proportional).\nIn the given case:\n- Between ₹10 Lakhs and ₹1 Crore:\n- The tax rate increases uniformly for every additional ₹10 Lakhs earned. This reflects a progressive element, as higher income within this slab attracts a higher rate.\n- Above ₹1 Crore:\n- A flat tax rate of 25% is applied regardless of further increases in income. This reflects a proportional element, since the rate no longer rises with income.\nThus, the system is progressive only up to a certain income threshold and proportional thereafter. Such a structure is best described as a Digressive Tax.\nOption a is incorrect: Regressive Tax In a regressive tax system, the effective tax rate decreases as income increases, meaning lower-income groups bear a relatively higher burden.\nOption b is incorrect: Proportional Tax A proportional tax system (also called a flat tax system) applies the same rate of tax across all income levels.\nHere, the tax rate varies between ₹10 Lakhs and ₹1 Crore. Since the rate is not uniform across all incomes, it is not proportional.\n\nOption c is incorrect: Progressive Tax In a purely progressive tax system, the tax rate continues to increase as income increases, without any upper cap.\nIn this case, progressivity stops after ₹1 Crore and becomes a flat 25%. Therefore, the system is not purely progressive.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q10",
+      "questionNumber": 10,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to the Indo-Pacific Oceans Initiative (IPOI), which of the following statements is/are correct?",
+        "I. It is a non-treaty-based, voluntary framework aimed at promoting a free, open, and rules-based Indo-Pacific region.",
+        "II. The initiative was launched during the East Asia summit held in 2019.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Indo-Pacific Oceans Initiative (IPOI), which of the following statements is/are correct? I. It is a non-treaty-based, voluntary framework aimed at promoting a free, open, and rules-based Indo-Pacific region. II. The initiative was launched during the East Asia summit held in 2019. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The Indo-Pacific Oceans Initiative (IPOI) is indeed a non-treaty-based voluntary framework. It aims to promote cooperation for a free, open, and rules-based Indo-Pacific region. The initiative emphasizes collaboration among like-minded nations through practical and inclusive maritime partnerships.\nStatement II is correct: India launched Indo-Pacific Oceans Initiative (IPOI) in November 2019 at the East Asia Summit (EAS) in Bangkok.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?",
+        "1. Acquiring new technology is capital expenditure.",
+        "2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct? 1. Acquiring new technology is capital expenditure. 2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement 1 is correct: Capital expenditures (CapEx) are funds used by a company to acquire, upgrade, and maintain physical assets such as property, plants, buildings, technology, or equipment.\nStatement 2 is incorrect: When a company borrows money to be paid back at a future date with interest it is known as debt financing. Repayment of loan is an example of capital expenditure. Equity financing is the process of raising capital through the sale of shares.It is an example of non-debt capital receipts. Capital receipts are receipts that create liabilities or reduce financial assets. They also refer to incoming cash flows. Examples of non-debt capital receipts:Recovery of loans and advances, disinvestment, issue of bonus shares, etc.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Monetisation of Deficit in the context of Indian public finance, consider the following",
+        "statements:",
+        "I. It refers to the subscribing of the primary issues of government securities by the Reserve Bank of India.",
+        "II. It would lead to the crowding-out of private investments in the economy.",
+        "III. It generally leads to an increase in inflationary pressures in the economy.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Monetisation of Deficit in the context of Indian public finance, consider the following statements: I. It refers to the subscribing of the primary issues of government securities by the Reserve Bank of India. II. It would lead to the crowding-out of private investments in the economy. III. It generally leads to an increase in inflationary pressures in the economy. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Monetised deficit is the monetary support the Reserve Bank of India (RBI) extends to the Centre as part of the government's borrowing programme. In other words, the term refers to the purchase of government bonds by the central bank to finance the spending needs of the government.\nStatement I is correct: Monetisation of deficit refers to the financing of the government’s fiscal deficit through the direct purchase of government securities (subscribing to the primary issue of securities) by the Central Bank. In India, this function is performed by the Reserve Bank of India. When the central bank buys government bonds directly, it creates new money (high-powered money), thereby expanding the monetary base.\nAs per the FRBM Act 2003, RBI could subscribe to primary issues of Central Government securities only up to 31st March 2006. According to Section 5 (1) of the Act, the Central Government shall not borrow from the RBI except by way of Ways and Means advances to meet temporary cash requirements.\nStatement II is incorrect: The crowding-out effect occurs when the government borrows heavily from the open market, increasing demand for loanable funds and pushing up interest rates, which discourages private investment. However, under monetisation of the deficit, the government borrows directly from the central bank rather than from the market. Therefore, it does not reduce the pool of market funds available for private investors. Since no market borrowing is involved, it does not directly increase the crowding-out effect.\nStatement III is correct: When the RBI buys bonds directly, it increases the high powered money in the economy. This expansion of the money supply without a corresponding increase in the production of goods and services typically leads to \"too much money chasing too few goods,\" resulting in inflation.\nThis is the primary reason why the FRBM Act (Fiscal Responsibility and Budget Management Act), 2003 prescribes that the RBI should not buy government bonds, except under exceptional circumstances.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which of the following is/are generally the short-run impacts of an Expansionary Fiscal Policy?",
+        "I. Increase in aggregate output",
+        "II. Rise in the general price level",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following is/are generally the short-run impacts of an Expansionary Fiscal Policy? I. Increase in aggregate output II. Rise in the general price level Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Expansionary fiscal policy refers to a macroeconomic policy in which the government increases its expenditure and/or reduces taxes in order to stimulate aggregate demand in the economy. It is generally adopted during periods of recession, economic slowdown, or high unemployment to boost output, income, and employment levels.\nOption I is correct: Increase in aggregate output In the short run, an expansionary fiscal policy increases aggregate demand through higher government expenditure or tax reductions.\n- Higher disposable income raises consumption, while increased public spending directly adds to demand in the economy.\n- As firms experience greater demand for goods and services, they expand production, leading to higher output and income levels.\nTherefore, aggregate output rises in the short run. Option II is correct: Rise in the general price level When aggregate demand increases due to expansionary fiscal measures, the economy may begin to operate closer to its full productive capacity.\nIf supply does not expand proportionately, the excess demand creates upward pressure on prices. This phenomenon is known as demand-pull inflation.\nHence, a rise in the general price level is a likely short-run consequence of expansionary fiscal policy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to Sixteenth Finance Commission, consider the following statements:",
+        "I. The Commission has recommended to retain the States’ share at 41 per cent of the net proceeds (divisible pool) of",
+        "Union taxes.",
+        "II. It has not recommended any State‑specific grants.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Sixteenth Finance Commission, consider the following statements: I. The Commission has recommended to retain the States’ share at 41 per cent of the net proceeds (divisible pool) of Union taxes. II. It has not recommended any State‑specific grants. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The Sixteenth Finance Commission has recommended to retain the States’ share at 41 per cent of the net proceeds (divisible pool) of Union taxes. The Commission has recommended that to bring in more transparency about the divisible pool and the actual devolution every year, the Union Government disclose the data pertaining to net proceeds as certified by CAG under Article 279 of the Constitution of India.\nStatement II is correct: The Sixteenth Finance Commission has not recommended revenue deficit grants to States. The Commission has not recommended any sector‑specific or State‑specific grants. The Commission has observed that State finances in general, and that of tax revenues, committed expenditure and discretionary expenditures in particular shows that there is significant scope of increasing revenues and rationalising expenditure.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "Consider the following activities:",
+        "I. Production of crude oil",
+        "II. Refining, storage and distribution of petroleum",
+        "III. Marketing and sale of petroleum products",
+        "IV. Production of natural gas",
+        "How many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?"
+      ],
+      "questionText": "Consider the following activities: I. Production of crude oil II. Refining, storage and distribution of petroleum III. Marketing and sale of petroleum products IV. Production of natural gas How many of the above activities are regulated by the Petroleum and Natural Gas Regulatory Board in our country?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Petroleum and Natural Gas Regulatory Board (PNGRB) was constituted under the Petroleum and Natural Gas Regulatory Board Act, 2006. The Act provides for the establishment of a Petroleum and Natural Gas Regulatory Board to protect the interests of consumers and entities engaged in specified activities relating to petroleum, petroleum products and natural gas and to promote competitive markets.\nOnly options II and III are correct. As per the Petroleum and Natural Gas Regulatory Board Act, the board has been mandated to regulate the refining, processing, storage, transportation, distribution, marketing and sale of petroleum, petroleum products and natural gas excluding production of crude oil and natural gas. It thus aims to ensure uninterrupted and adequate supply of petroleum, petroleum products and natural gas in all parts of the country. Production of crude oil and natural gas in India is regulated by Director General of hydrocarbons",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The proportional income tax in an economy acts as an automatic stabiliser.",
+        "Statement II: The proportional income tax makes the disposable income less sensitive to fluctuations in GDP.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The proportional income tax in an economy acts as an automatic stabiliser. Statement II: The proportional income tax makes the disposable income less sensitive to fluctuations in GDP. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Automatic stabilizers are a built-in tax or expenditure mechanism that automatically increases aggregate demand when regression occurs and reduces aggregate demand when there is inflation in the economy without any special deliberate actions on the part of the government.\nStatement I is correct: Under proportional income tax system, the tax rate increases as income rises and decreases as income falls. Proportional income tax acts as automatic stabilizers during different phases of the economy.\nDuring a recession, when national income, output, and employment decline, tax collections automatically fall more than proportionately without changing the tax rate. Similarly, during a boom, rising income leads to higher tax payments, but disposable income increases by less than the rise in national income.\nStatement II is correct and explains Statement I: The proportional income tax acts as a shock absorber because it makes disposable income, and thus consumer spending, less sensitive to fluctuations in GDP.\nWhen GDP rises, disposable income also rises but by less than the rise in GDP because a part of it is collected by the government as taxes. This helps limit the upward fluctuation in consumption spending. During a recession when GDP falls, disposable income falls less sharply, and consumption does not drop as much as it otherwise would have fallen had the tax liability been fixed. This reduces the fall in aggregate demand and stabilises the economy. The proportional income tax, thus, acts as an automatic stabiliser.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec105.pdf (page 77)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Each year in India alongwith the Finance Minister’s Budget Speech, certain other documents are presented. In this context,",
+        "which one of the following documents sets out the three year rolling targets for specific fiscal indicators in relation to GDP at market prices, namely Fiscal Deficit, Revenue Deficit, Primary Deficit, Tax Revenue, Non-tax",
+        "Revenue and Central Government Debt?"
+      ],
+      "questionText": "Each year in India alongwith the Finance Minister’s Budget Speech, certain other documents are presented. In this context, which one of the following documents sets out the three year rolling targets for specific fiscal indicators in relation to GDP at market prices, namely Fiscal Deficit, Revenue Deficit, Primary Deficit, Tax Revenue, Non-tax Revenue and Central Government Debt?",
+      "options": {
+        "a": "Output Outcome Monitoring Framework",
+        "b": "Macro-Economic Framework Statement",
+        "c": "Medium-term Expenditure Framework Statement",
+        "d": "Medium-Term Fiscal Policy cum Fiscal Policy Strategy Statement"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**Option a is incorrect: The “Output Outcome Monitoring Framework” has clearly defined outputs and outcomes for various Central Sector Schemes and Centrally Sponsored Schemes with measurable indicators against them and specific targets for FY**2026-27**(in the Union Budget**2026-27**).\nOption b is incorrect: A macro-economic framework statement is presented before Parliament at the time of Union Budget presentation as per Section 3(5) of the Fiscal Responsibility and Budget Management (FRBM) Act, 2003. The statement contains an overview of the economy. This includes an assessment regarding the GDP growth rate, fiscal balance of the central government and the external sector balance of the economy.\nOption c is incorrect: Medium-term Expenditure Framework Statement was introduced through the FRBM (Amendment) Rules, 2012. Also, it is not presented alongwith the Finance Minister’s speech, as mandated under the FRBM, act, 2003.\n- The MTEF sets forth a three-year rolling target for the expenditure indicators with specification of underlying assumptions and risks involved.\n- The MTEF is essentially a vertical expansion of the aggregates of the expenditure projections in the fiscal framework presented along with the Annual Financial Statement and Demands for Grants.\nOption d is correct: The Medium-Term Fiscal Policy Statement cum Fiscal Policy Strategy Statement is presented to Parliament under Section 3 of the Fiscal Responsibility and Budget Management Act, 2003. It sets out the three year rolling targets for specific fiscal indicators in relation to GDP at market prices, namely (i) Fiscal Deficit, (ii) Revenue Deficit, (iii) Primary Deficit (iv) Tax Revenue (v) Non-tax Revenue and (vi) Central Government Debt. The Statement includes the underlying assumptions, an assessment of the balance between revenue receipts and revenue expenditure and the use of capital receipts including market borrowings for the creation of productive assets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Indian Economy, consider the following statements about Ways and Means Advances (WMA):",
+        "I. It is governed under the Reserve Bank of India Act, 1934.",
+        "II. It is a long term borrowing instrument.",
+        "III. The Reserve Bank of India in consultation with the Government of India has the authority to revise the limits of advances.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Indian Economy, consider the following statements about Ways and Means Advances (WMA): I. It is governed under the Reserve Bank of India Act, 1934. II. It is a long term borrowing instrument. III. The Reserve Bank of India in consultation with the Government of India has the authority to revise the limits of advances. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In pursuance of the agreement between the Reserve Bank and the Central Government signed in March, 1997, Ways and Means advances were introduced to meet temporary mismatches between receipts and expenditure of Central Government.\nStatement I is correct: Ways and Means Advance is governed by Section 17(5) of the Reserve Bank of India Act, 1934. This legal provision forms the basis for RBI’s role as the banker to the government in extending short-term credit to ensure smooth cash management.\nStatement II is incorrect: Ways and Means Advances (WMA) are short-term advances extended by the Reserve Bank of India (RBI) to the Central Government, State Governments, and Union Territories to bridge temporary mismatches between their receipts and expenditure. Thus, they are short-term borrowing instruments and not long term borrowing instruments.\nStatement III is correct: The size and cost of Ways and Means Advances (WMA) are determined on the basis of mutual agreement between the Reserve Bank of India (RBI) and the concerned government.\nThe Reserve Bank of India has the flexibility to revise the limits at any time, in consultation with the Government of India, taking into consideration the prevailing circumstances.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the Indian Economy, which of the following best explains the ‘Rule of Lapse’?"
+      ],
+      "questionText": "With reference to the Indian Economy, which of the following best explains the ‘Rule of Lapse’?",
+      "options": {
+        "a": "The government may reallocate unspent funds from one ministry to another without prior parliamentary approval.",
+        "b": "The funds sanctioned for a scheme remain available for use until the scheme is formally discontinued.",
+        "c": "All appropriations granted by Parliament expire at the end of the financial year.",
+        "d": "Budgetary appropriations granted to ministries automatically expire when the ruling government is dissolved."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In the context of the Union Budget in India, the Rule of Lapse means that all appropriations granted by Parliament expire at the end of the financial year. The unspent budget is not available for meeting demands in the next financial year.\nThe operation of this rule often leads to a rush of expenditure towards the end of the year. However, it has the merit of enforcing parliamentary sanction, which is always granted for an amount for a specific period, after which fresh approval must be obtained. This implies that if the funds voted are not used by the end of the financial year, the unspent balance lapses.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q20",
+      "questionNumber": 20,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "Consider the following statements regarding the imposition of President's Rule in Indian states:",
+        "I. The proclamation of President’s Rule must be approved by both Houses of Parliament through a special majority.",
+        "II. President's Rule can be extended beyond three years if the Election Commission certifies that it is necessary due to difficulties in conducting elections to the State Legislature.",
+        "III. Laws made by Parliament on State subjects during the President's Rule continue to remain in force even after the end of the President’s rule.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the imposition of President's Rule in Indian states: I. The proclamation of President’s Rule must be approved by both Houses of Parliament through a special majority. II. President's Rule can be extended beyond three years if the Election Commission certifies that it is necessary due to difficulties in conducting elections to the State Legislature. III. Laws made by Parliament on State subjects during the President's Rule continue to remain in force even after the end of the President’s rule. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II and III",
+        "c": "I and III",
+        "d": "III only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Article 356 of the Indian Constitution deals with the imposition of President's Rule in a state or Union Territory.\nStatement I is incorrect: As per Article 356, the proclamation of President’s Rule must be approved by both Houses of Parliament within 2 months of its issuance.\n- This approval requires a simple majority (i.e., majority of more than 50% of the members present and voting), not a special majority.\n- Once approved, the President's Rule is initially valid for 6 months and can be extended every 6 months, up to a maximum of 3 years, with parliamentary approval.\nStatement II is incorrect: According to the 44th Constitutional Amendment Act, extension of President’s Rule beyond one year (not three) is allowed only if two conditions are met:\n1. A Proclamation of National Emergency is in force in whole of India, or in the whole or part of the state; and 2. The Election Commission of India certifies that elections to the State Legislature cannot be held due to difficulties.\nEven when these conditions are fulfilled, the President's Rule can be extended only up to a maximum of three years—not beyond that, and extension beyond three years requires a constitutional amendment.\nStatement III is correct: When the President's Rule is imposed in a state, the Parliament assumes the power to make laws on matters in the State List for that particular state.\n- These laws do not cease to operate once the President’s Rule ends. Instead, they continue to remain in force beyond the duration of President’s Rule.\n- Hence, the validity of these laws is not restricted to the period of President’s Rule-However, once the President's rule ends, the State Legislature gains the authority to repeal, modify, or re-enact such laws as it deems appropriate.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "With reference to ‘Financial Stability and Development Council’, consider the following statements:",
+        "1. It is an organ of NITI Aayog.",
+        "2. It is headed by the Union Finance Minister.",
+        "3. It monitors macro-prudential supervision of the economy.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to ‘Financial Stability and Development Council’, consider the following statements: 1. It is an organ of NITI Aayog. 2. It is headed by the Union Finance Minister. 3. It monitors macro-prudential supervision of the economy. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement 1 is incorrect. Financial Stability and Development Council is an apex-level body constituted by the government of India. It is not an organ of NITI Aayog.\nStatement 2 is correct. FSDC is headed by the Union Finance Minister. The secretariat of the council would be in the Department of Economic Affairs, Ministry of Finance.\nStatement 3 is correct. Financial Stability and Development Council (FSDC) functions to promote inter-regulatory coordination along with monitoring macro-prudential regulation of the economy.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2016,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the Indian economy, consider the following statements regarding Central Sector Schemes",
+        "(CSs) and Centrally Sponsored Schemes (CSSs) in India:",
+        "I. In case of CSs, the government of India bears 100 percent of the cost while in case of CSSs, the scheme expenditure is shared in a predefined ratio between the central and the state governments.",
+        "II. As per the Union Budget 2026-27, all the CSSs and CSs for the first time will have a sunset date and will have an outcome review before the start of 17th Finance Commission cycle.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Indian economy, consider the following statements regarding Central Sector Schemes (CSs) and Centrally Sponsored Schemes (CSSs) in India: I. In case of CSs, the government of India bears 100 percent of the cost while in case of CSSs, the scheme expenditure is shared in a predefined ratio between the central and the state governments. II. As per the Union Budget 2026-27, all the CSSs and CSs for the first time will have a sunset date and will have an outcome review before the start of 17th Finance Commission cycle. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Central Sector Schemes (CSs) are schemes that are fully funded and directly implemented by the Central Government or its agencies whereas Centrally Sponsored Schemes (CSSs) are schemes that are funded wholly or partially by the Central Government but are implemented by the State Governments. Thus in case of CSs, the government of India bears 100 percent of the cost, in case of CSSs, the scheme expenditure is shared in a predefined ratio between the central and the state governments.\nStatement II is incorrect: The policy of evaluation of ongoing schemes and having a sunset date for each scheme was articulated by the Government of India in the Union Budget Speech of 2016, which stated that in order to improve the quality of public expenditure; every scheme will have a sunset date and an outcome review. Accordingly, the schemes have been aligned with the Finance Commission cycles and its continuation is based on the evaluation of each scheme by a third party.\nThere are 54 CSSs and 260 CSs which have their terminal date of approval till 31.03.2026 and are likely to be submitted to re-appraisal before the start of the 16th Finance Commission cycle.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements about Transfer Payments:",
+        "I. The payments for which no goods or services are received in return refers to transfer payments.",
+        "II. The interest payment made by the Government of India on 10-year government development bonds is an example of transfer payment.",
+        "III. They are excluded from the calculation of personal income in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about Transfer Payments: I. The payments for which no goods or services are received in return refers to transfer payments. II. The interest payment made by the Government of India on 10-year government development bonds is an example of transfer payment. III. They are excluded from the calculation of personal income in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "I only",
+        "c": "I and III",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Payments for which no goods or services are received in return are, therefore, termed as transfer payments. Transfer payments are payments made by the government to individuals or businesses without requiring any goods or services in return. They are a way of redistributing income and wealth in society.\nStatement II is incorrect: The government of India borrows money from a financial institutions to finance its various programs and activities. The government pays interest on these borrowings to the lenders. Interest is not the transfer payment, rather it is a factor payment.\nStatement III is incorrect: Transfer payments are excluded from National Income but included in calculation of Personal income as follows: Personal Income (PI) =National Income – Undistributed profits – Net interest payments made by households – Corporate tax + Transfer payments to the households from the government and firms.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to National Land Monetization Corporation, consider the following statements:",
+        "I. It is a 100% Government of India owned company.",
+        "II. It functions under the administrative control of the Department of Public Enterprises, Ministry of Finance.",
+        "III. It is mandated to identify Central Public Sector Enterprises for strategic disinvestment.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to National Land Monetization Corporation, consider the following statements: I. It is a 100% Government of India owned company. II. It functions under the administrative control of the Department of Public Enterprises, Ministry of Finance. III. It is mandated to identify Central Public Sector Enterprises for strategic disinvestment. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statements I and II are correct: The National Land Monetization Corporation (NLMC) is a wholly Government of India–owned (100%) Special Purpose Vehicle (SPV) established under the administrative control of the Department of Public Enterprises, Ministry of Finance.\nStatement III is incorrect: The main functions of NLMC is to carry out the monetization of non-core assets of Central Public Sector Enterprises (CPSEs) as well as other Government agencies in line with international best practices.\nNITI Aayog, has been mandated to identify CPSEs for strategic disinvestment",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q25",
+      "questionNumber": 25,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which one of the following countries is home to the world's largest hydroelectric power dam?"
+      ],
+      "questionText": "Which one of the following countries is home to the world's largest hydroelectric power dam?",
+      "options": {
+        "a": "United States",
+        "b": "India",
+        "c": "Russia",
+        "d": "China"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** China is home to the Three Gorges Dam, which is the largest hydroelectric power dam in the world in terms of installed capacity.\n- It is located on the Yangtze River in Hubei province.\n- The dam has an installed capacity of 22,500 megawatts, making it a major contributor to China's renewable energy supply.\nAdditionally, China has recently approved the construction of the Tsangpo Dam, which is set to become the world’s largest hydropower project by surpassing the Three Gorges Dam.\n- It will be built on the Yarlung Tsangpo River (known as the Brahmaputra in India) in the Tibet Autonomous Region.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Off-Budget Borrowings in India, consider the following statements:",
+        "Statement I: The off-budget borrowing is counted in the calculation of fiscal deficit of the government.",
+        "Statement II: The repayment obligations of such borrowings are effectively guaranteed or serviced by government.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Off-Budget Borrowings in India, consider the following statements: Statement I: The off-budget borrowing is counted in the calculation of fiscal deficit of the government. Statement II: The repayment obligations of such borrowings are effectively guaranteed or serviced by government. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Off-budget borrowings are loans that are taken not by the Centre directly, but by another public institution which borrows on the directions of the central government. Such borrowings are used to fulfil the government’s expenditure needs.\nStatement I is incorrect: Such borrowings are a way for the Centre to finance its expenditures while keeping the debt off the books — so that it is not counted in the calculation of fiscal deficit. This practice distorts the true fiscal picture and leads to fiscal opacity, hidden debt accumulation, and weakened public financial management.\nStatement II is correct: Even though the borrowing is done \"off-budget\" by another entity, the ultimate liability for servicing (paying principal and interest) falls on the Central Government. The government provides budgetary support in subsequent years to repay these loans. Thus such borrowings repayment obligations is effectively guaranteed or serviced by government.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "As per the Domar Condition of Debt Sustainability, public debt of a country will be considered sustainable if:"
+      ],
+      "questionText": "As per the Domar Condition of Debt Sustainability, public debt of a country will be considered sustainable if:",
+      "options": {
+        "a": "The nominal interest rate is higher than the nominal GDP growth rate.",
+        "b": "The real interest rate is higher than the real GDP growth rate.",
+        "c": "The real GDP growth rate is higher than the real interest rate.",
+        "d": "The primary deficit is continuously increasing as a proportion of GDP."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Domar Condition of Debt Sustainability, given by economist Evsey Domar, shows that public debt remains sustainable when the real GDP growth rate (g) is higher than the real interest rate (r).\n- In such a situation, the economy expands faster than the cost of servicing existing debt.\n- As a result, even if the government continues to borrow, the debt-to-GDP ratio stabilises or declines over time because the denominator (GDP) grows faster than the interest burden on debt.\n- This reduces the relative debt burden and allows governments to manage debt without requiring persistent large primary surpluses.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of the external sector of the Indian economy, increase in Debt Service Ratio (DSR) indicate?"
+      ],
+      "questionText": "In the context of the external sector of the Indian economy, increase in Debt Service Ratio (DSR) indicate?",
+      "options": {
+        "a": "An increase in the burden of gross external debt service payment relative to external current receipts.",
+        "b": "An increase in gross long term external debt service payment relative to the short term external debt service payment.",
+        "c": "A decrease in the share of external debt in the total public debt.",
+        "d": "An increase in the foreign exchange reserves relative to the gross external debt service payment."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**The debt service ratio is measured by the proportion of gross external debt service payments (principal and interest) to external current receipts. It indicates the extent of pre-emption of forex resources for the purposes of repayment of principal and interest on the stock of foreign debt. India’s external debt service payments increased by 6.6 per cent to USD 67.4 billion in**2024-25**over the level of USD 63.2 billion during the previous year. Principal repayments increased by 2.6 per cent to USD 37.1 billion. Interest repayments increased by 12 per cent to USD 30.3 billion during**2024-25**.\nKnowledge Base: Debt-to-GDP ratio is defined as the ratio of the total outstanding external debt at the end of the year to annual GDP for that year",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "As per the Union Budget 2026–27, for the financial Year 2026-27,",
+        "which one of the following is expected to constitute the largest source of receipts for the Union Government?"
+      ],
+      "questionText": "As per the Union Budget 2026–27, for the financial Year 2026-27, which one of the following is expected to constitute the largest source of receipts for the Union Government?",
+      "options": {
+        "a": "Borrowings and Other Liabilities",
+        "b": "Income Tax",
+        "c": "Good and Services Tax",
+        "d": "Non-Debt Capital Receipts"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Every Union Budget has two sides i.e. expenditure and receipts. While public attention often focuses on spending announcements, it is equally important to understand how the government mobilises resources to finance that expenditure.\nThe Union Government’s receipts are broadly classified into:\n- Revenue Receipts (such as taxes),\n- Capital Receipts (such as borrowings and disinvestment).\nBorrowings and other liabilities constitute the largest component of the Union Government’s receipts in Budget 2026–27 with 24% Share. When total expenditure exceeds total revenue receipts, the gap is financed through borrowing. In simple terms, the government raises funds from the market to bridge the fiscal deficit. The magnitude of this component is higher than any individual tax source. Hence, it is the single largest source of funds for the Union Government.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q30",
+      "questionNumber": 30,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to the provisions regarding the vacation of the seat of a Member of Parliament,",
+        "which one of the following statements is incorrect?"
+      ],
+      "questionText": "With reference to the provisions regarding the vacation of the seat of a Member of Parliament, which one of the following statements is incorrect?",
+      "options": {
+        "a": "A Member of Parliament may resign by submitting a letter to the Presiding Officer of the respective house.",
+        "b": "If a person is elected to both the Parliament and the state legislature, and does not resign from the state legislature within the prescribed period, his/her seat in Parliament becomes vacant.",
+        "c": "If a Member of Parliament remains absent from all meetings of the House for 60 consecutive days without permission, the House has the authority to declare the seat vacant.",
+        "d": "If a person is elected to both Houses of Parliament and does not resign from one within the prescribed period, he/she loses membership of the Lok Sabha."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption a is correct: Article 101(3) of the Indian Constitution provides that a Member of Parliament can resign by writing under his/her hand addressed to the Presiding Officer of the respective house, i.e. Speaker (for Lok Sabha) or the Chairman (for Rajya Sabha).\n- The resignation must be voluntary and genuine, and the Presiding Officer may make inquiries before accepting it.\n- However, the Chairman/ Speaker may not accept the resignation if he/she is satisfied that it is not voluntary or genuine.\nOption b is correct: A person cannot be a member of both the Parliament and the state legislature at the same time.\n- As per Article 101(2) of the Constitution, if a person is elected to both Parliament and a State Legislature and does not resign from the State Legislature within the prescribed period (14 days), his/her seat in Parliament becomes vacant.\nOption c is correct: As per Article 101(4) of the Constitution, if a member of either House is absent from all meetings for a period of 60 days without the permission of the House, the House may declare the seat vacant.\n- However, this 60-day period does not include any time when the House is prorogued or adjourned for more than four consecutive days. Notably, no MP’s seat has ever been vacated under Article 101(4) to date.\nOption d is incorrect: As per the provisions of the Representation of the People Act, 1951, if a person is elected to both the houses of Parliament, i.e. Lok Sabha and the Rajya Sabha and does not resign from one within the prescribed period (10 days), his Rajya Sabha seat becomes vacant—not Lok Sabha.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Population of the year 2011 was first introduced in the tax devolution formula for sharing Union tax revenue with the States by:"
+      ],
+      "questionText": "Population of the year 2011 was first introduced in the tax devolution formula for sharing Union tax revenue with the States by:",
+      "options": {
+        "a": "Thirteenth Finance Commission",
+        "b": "Fifteenth Finance Commission",
+        "c": "Fourteenth Finance Commission",
+        "d": "Twelfth Finance Commission"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Finance Commission recommends how the Union’s tax revenue should be shared between the Centre and the States. One of the important factors used in deciding each state’s share is population.\nTraditionally, the 1971 population data was used for this purpose. This was done to avoid penalising states that had taken strong steps to control population growth.\nHowever, the Fourteenth Finance Commission was the first to introduce the 2011 population figures into the tax devolution formula. It did so along with the 1971 data, using a mix of both to balance equity and efficiency. The aim was to reflect current demographic realities while still respecting earlier population control efforts.\nThe Fifteenth Finance Commission later increased the weight given to the 2011 population, but it was not the first to introduce it.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2024,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "As per the Companies Act 2013, the Government Company refers to any company in which:"
+      ],
+      "questionText": "As per the Companies Act 2013, the Government Company refers to any company in which:",
+      "options": {
+        "a": "Not less than 51% of the paid-up share capital is held by the Central Government, or by any State Government or Governments or partly by the Central Government and partly by one or more State Governments.",
+        "b": "Not less than 76% of the paid-up share capital is held by the Central Government, or by any State Government or Governments or partly by the Central Government and partly by one or more State Governments",
+        "c": "Not less than 26% of the paid-up share capital is held by the Central Government, or by any State Government or Governments or partly by the Central Government and partly by one or more State Governments",
+        "d": "Wholly 100% of the paid-up share capital is held by the Central Government, or by any State Government or Governments or partly by the Central Government and partly by one or more State Governments"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**‘Government Company’ is defined under Section 2 (45) of the Companies Act, 2013 as “ Any company in which not less than fifty-one per cent of the paid-up share capital is held by the Central Government, or by any State Government or Governments, or partly by the Central Government and partly by one or more State Governments, and includes a company which is a subsidiary company of such a Government company. As per the Economic Survey**2025-26**, the receipts from equity monetisation can be strengthened by selectively reducing Government equity in certain CPSEs beyond the minimum public shareholding norms. As effective control requires only about a 26 per cent stake, the Government could consider amending the definition of “Government Company” under the Companies Act, limited to listed entities, to allow them to remain as government companies with a minimum of 26 per cent ownership, thereby retaining special resolution rights, while enabling the government to monetise its stake.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following parameters:",
+        "I. Per Capita GSDP distance",
+        "II. Contribution to GDP",
+        "III. Area",
+        "IV. Tax/Fiscal Effort",
+        "How many of the above parameters are used for the horizontal devolution of taxes among States by 16th Finance",
+        "Commission of India?"
+      ],
+      "questionText": "Consider the following parameters: I. Per Capita GSDP distance II. Contribution to GDP III. Area IV. Tax/Fiscal Effort How many of the above parameters are used for the horizontal devolution of taxes among States by 16th Finance Commission of India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Horizontal devolution refers to the distribution of the States’ share in central taxes among different states. While the vertical share determines how much of the divisible pool goes to states collectively, the horizontal formula decides how that share is divided among them. The Finance Commission uses specific criteria with assigned weightages to ensure equity, efficiency and balanced development. The 16th Finance Commission has retained certain parameters from the earlier Commission while also introducing a significant change.\nOption I is correct. Per Capita GSDP Distance is aimed at correcting for differences in fiscal capacity among States by devolving more to States with lower per capita GSDP. Most of the past Finance Commissions have set the benchmark per capita GSDP, from which the distance is measured, equal to the average per capita GSDP of the State with the highest average per capita GSDP among the large States. 16th Finance Commission use average per capita income of states over 2018‑19 to 2023‑24 excluding the COVID‑19 year of 2020‑21.\nOption II is correct. The 16th Finance Commission introduced Contribution to GDP as a new criterion. It accounts for the contribution made by each state to the national GDP. This replaces the earlier “tax and fiscal effort” parameter used by the 15th Finance Commission.\nOption III is correct. Area remains part of the formula. However, the weightage assigned to the area has been reduced compared to the previous Commission. The inclusion recognises administrative and geographical considerations.\nOption IV is incorrect. The Tax and Fiscal Effort parameter is not part of the 16th Finance Commission’s formula. The earlier 15th Finance Commission had used this criterion to reward states with better tax collection efficiency.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to Government of India, consider the following:",
+        "I. Proceeds collected by Government through disinvestment of public sector undertaking.",
+        "II. Recovery of loans and advances given to State Governments and Union Territories with Legislature.",
+        "III. Market borrowings raised through issuance of government bonds",
+        "How many of the above are examples of Non-Debt Capital Receipts (NDCR)?"
+      ],
+      "questionText": "With reference to Government of India, consider the following: I. Proceeds collected by Government through disinvestment of public sector undertaking. II. Recovery of loans and advances given to State Governments and Union Territories with Legislature. III. Market borrowings raised through issuance of government bonds How many of the above are examples of Non-Debt Capital Receipts (NDCR)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Government receipts are broadly classified into Revenue Receipts and Capital Receipts. Capital receipts are further divided into debt-creating and non-debt creating receipts.\nNon-Debt Capital Receipts (NDCR) are those capital receipts that do not create any future repayment obligation for the government. They mainly arise from recovery of loans and advances or from the sale of government assets such as disinvestment of public sector enterprises.\nOption I is correct. Disinvestment refers to the sale of the government’s shareholding in public sector enterprises. When the government sells its equity stake, it receives funds without creating any repayment liability. Such proceeds fall under miscellaneous capital receipts and form a major component of NDCR.\nOption II is correct. When the government recovers loans that were previously given to states, UTs, PSUs, or foreign governments, it is merely receiving back its own money. No new liability is created. Hence, recoveries of loans and advances are classified as NDCR.\nOption III is incorrect. Market borrowings are debt-creating capital receipts. The government is required to repay these amounts in the future along with interest.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q35",
+      "questionNumber": 35,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "In context to the financial market, which of the following statements correctly indicates the utility of the",
+        "‘Information Ratio’?"
+      ],
+      "questionText": "In context to the financial market, which of the following statements correctly indicates the utility of the ‘Information Ratio’?",
+      "options": {
+        "a": "It is a ratio that indicates the current share price of a company relative to its earnings.",
+        "b": "It is a metric that shows the ability of a company to pay the interest on its debts.",
+        "c": "It is a ratio that evaluates the performance of a company, relative to its market capitalization.",
+        "d": "It is a metric for measuring how a portfolio or financial asset fares relative to a benchmark considering the volatility of its returns."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Information Ratio (IR) is an established financial ratio to measure the return of any mutual fund scheme portfolio.\nIt is often used as a measure of a portfolio manager’s level of skill and ability to generate excess returns, relative to a benchmark. It is a metric that evaluates how a portfolio or a financial asset performs relative to a benchmark, considering the volatility of its returns.\nThe information ratio helps investors analyse whether a fund manager has achieved superior risk adjusted return on a consistent basis. If the ratio is higher, it indicates the superior performance of the fund manager with respect to others of comparable schemes. In other words, a higher IR also means better chances of achieving consistent returns.\nRecently, the Securities and Exchange Board of India (SEBI) asked the mutual fund houses to disclose Information Ratio for their schemes on a daily basis.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following statements regarding the Post Devolution Revenue Deficit (PDRD) Grant in India:",
+        "I. These are provided uniformly to all the states by the Union Government to supplement their revenue resources.",
+        "II. They were introduced for the first time on the recommendation of the Fifteenth Finance Commission.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Post Devolution Revenue Deficit (PDRD) Grant in India: I. These are provided uniformly to all the states by the Union Government to supplement their revenue resources. II. They were introduced for the first time on the recommendation of the Fifteenth Finance Commission. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Under Article 275 of the Constitution, Parliament may provide grants-in-aid to States in need of assistance. One important category of such grants is the Revenue Deficit Grant. This grant is meant to bridge the gap between a State’s revenue expenditure and revenue receipts after accounting for tax devolution. It is a constitutional mechanism that has existed across successive Finance Commissions. Each Finance Commission only determines the eligibility and amount for its award period.\nStatement I is incorrect. The Post Devolution Revenue Deficit Grant is not given to all States. It is a need-based grant. Only those States that continue to face a revenue deficit after receiving their share of central taxes are eligible.\nFor example, during 2022–23, only 14 States were recommended to receive this grant and so on.\n\nStatement II is incorrect. The PDRD Grant was not introduced by the Fifteenth Finance Commission. Revenue Deficit Grants have been part of the Finance Commission framework under Article 275 of the Indian Constitution.\nThe Fifteenth Finance Commission merely recommended the eligible States and the quantum of grant for the period 2020–21 to 2025–26. The recommended grant is released by the Department of Expenditure to the recommended States in 12 equated monthly installments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following statements regarding the Scheme for Special Assistance to States for Capital Expenditure",
+        "(SASCI):",
+        "I. Under the Scheme, financial assistance is provided to the State Governments in the form of 50-year interest free loan for capital investment projects.",
+        "II. A certain portion of the financial assistance under the scheme is provided to the states for carrying out reforms under various sectors.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Scheme for Special Assistance to States for Capital Expenditure (SASCI): I. Under the Scheme, financial assistance is provided to the State Governments in the form of 50-year interest free loan for capital investment projects. II. A certain portion of the financial assistance under the scheme is provided to the states for carrying out reforms under various sectors. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** A major boost to States’ fiscal capacity in recent years has come from the Central Government’s Scheme for Special Assistance to States for Capital Expenditure (SASCI). Launched in October 2020 in the wake of the pandemic.\nStatement I is correct. The scheme provides 50-year interest-free loans to States specifically for capital expenditure. The underlying objective is to recognise the high multiplier effect of capital spending and its role in crowding in private investment. By offering long-term, interest-free assistance, the Union Government ensures that States can maintain capital outlay even when their revenue accounts are under stress. This has helped prevent a pro-cyclical reduction in public investment, which could otherwise slow down economic growth.\nStatement II is correct. The scheme strikes a balance between a flexible and a reform-oriented approach. For example in FY26, out of the allotted ₹150,000 crore, around ₹68,000 crore has been allocated as untied assistance, enabling States and UTs to undertake priority capital projects of their choice, while ₹80,000 crore is earmarked for reform-linked and sector-specific investments.\nThus under some parts of the scheme, incentive is provided to States for carrying out reforms in different sectors-mining sector reforms, scraping of old vehicles etc.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "If a government follows a counter-cyclical fiscal policy during an economic boom period, which of the following measures is it most likely to adopt?",
+        "I. Increasing tax rates",
+        "II. Reducing government expenditure",
+        "III. Expanding welfare spending and subsidies",
+        "IV. Launching a large infrastructure stimulus package",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If a government follows a counter-cyclical fiscal policy during an economic boom period, which of the following measures is it most likely to adopt? I. Increasing tax rates II. Reducing government expenditure III. Expanding welfare spending and subsidies IV. Launching a large infrastructure stimulus package Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and III",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A counter-cyclical fiscal policy requires the government to move in the opposite direction of the business cycle.\nDuring a boom, economic activity is already strong. Demand is high, corporate profits are rising, and inflationary pressures may build up. In such a situation, the government must cool the economy, not stimulate it further. This is done through contractionary fiscal measures.\nOption I is correct. Higher tax rates reduce disposable income of households and limit excess consumption. It further reduces retained profits of firms, thereby moderating investment demand. Such a measure helps contain inflation during expansion.\nOption II is correct. If the government continues high spending during a boom, it may worsen inflationary pressures. Reducing expenditure limits demand injection into the economy. This aligns perfectly with counter-cyclical policy in a boom phase.\nOption III is incorrect. Increasing welfare expenditure raises purchasing power and boosts demand. This is appropriate during a recession, not during a boom. In an expansion phase, such a step may lead to increased inflation causing instability in the economy.\nOption IV is incorrect. Launching large Infrastructure stimulus packages increase government spending and inject additional demand into the economy. Such measures are suitable during economic slowdown but contradict counter-cyclical discipline in a boom.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "If the primary deficit of the Government is zero, then which of the following best describes its fiscal position?"
+      ],
+      "questionText": "If the primary deficit of the Government is zero, then which of the following best describes its fiscal position?",
+      "options": {
+        "a": "The current revenues of the Government are sufficient to meet its non-interest expenditures.",
+        "b": "The revenue receipts of the Government are sufficient to meet its revenue expenditures.",
+        "c": "The total amount of borrowing by the government is zero.",
+        "d": "The Government is undertaking fresh borrowings only for the creation of capital assets."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Primary Deficit (PD) is the difference between Fiscal Deficit (FD) and Interest Payments. Primary Deficit is the difference between the current year’s fiscal deficit and the interest paid on the borrowings of the past.\nA zero primary deficit means the government’s current revenues are sufficient to meet its non-interest expenditure. The Government is borrowing only to service past debt. Thus, if the primary deficit is zero, it means that the Government is borrowing only to meet the interest payable on previous loans.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q40",
+      "questionNumber": 40,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Judiciary",
+      "statementLines": [
+        "With reference to the Armed Forces Tribunal (AFT) in India,",
+        "which one of the following statements is correct?"
+      ],
+      "questionText": "With reference to the Armed Forces Tribunal (AFT) in India, which one of the following statements is correct?",
+      "options": {
+        "a": "It functions under the administrative control of the Ministry of Home Affairs (MHA).",
+        "b": "It does not have the authority to grant bail to any person accused of an offence under its jurisdiction.",
+        "c": "All proceedings before the Tribunal are conducted in the English language.",
+        "d": "It is responsible for adjudicating disputes related to both the Defence Forces and the Central Armed Police Forces (CAPFs)."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption a is incorrect: The Armed Forces Tribunal (AFT) was established under the Armed Forces Tribunal Act, 2007, and it functions under the administrative control of the Ministry of Defence (MoD).\n- Its purpose is to adjudicate service-related matters and appeals from courts-martial for personnel subject to the\nArmy Act, 1950, the Navy Act, 1957, and the Air Force Act, 1950.\n- The Ministry of Home Affairs (MHA) deals with internal security, including police and CAPFs, but not with the armed forces.\nOption b is incorrect: The AFT does have the power to grant bail to any person accused of an offence and held in military custody.\n- As per the Armed Forces Tribunal Act, 2007, the Tribunal can grant bail with or without conditions if it deems necessary.\n- This is an important function of the Tribunal, especially for military personnel facing courts-martial.\nOption c is correct: As per the Armed Forces Tribunal (Procedure) Rules, 2008, all proceedings before the AFT are conducted in English.\n- This ensures consistency across different regional benches and aligns with practices followed in other higher judicial bodies such as the High Courts and the Supreme Court.\n- Additionally, the ATF follows the procedure as is practiced in the High Courts of India.\nOption d is incorrect: The AFT’s jurisdiction is limited to the Armed Forces, i.e., the Army, Navy, and Air Force, and pertains to issues like commission, appointment, enrolment, service conditions, and appeals from courts-martial.\n- The Central Armed Police Forces (CAPFs) such as CRPF, BSF, ITBP, CISF, and SSB fall under the Ministry of Home Affairs, and do not come under the jurisdiction of the ATF.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which one of the following is responsible for the preparation and presentation of the Union Budget to the",
+        "Parliament?"
+      ],
+      "questionText": "Which one of the following is responsible for the preparation and presentation of the Union Budget to the Parliament?",
+      "options": {
+        "a": "Department of Revenue",
+        "b": "Department of Economic Affairs",
+        "c": "Department of Financial Services",
+        "d": "Department of Expenditure"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Department of Economic Affairs, which is a part of the Ministry of Finance, is responsible for the preparation and presentation of the Union Budget to the Parliament. It plays a crucial role in formulating the government’s fiscal policies and ensuring sound economic management for the country.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2010,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2010"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of the Union Budget 2026–2027, consider the following sectors:",
+        "I. Transport",
+        "II. Defence",
+        "III. Education",
+        "IV. Health What is the correct descending order of the above sectors in terms of major expenditure allocation by the",
+        "Government of India in the FY 2026-27?"
+      ],
+      "questionText": "In the context of the Union Budget 2026–2027, consider the following sectors: I. Transport II. Defence III. Education IV. Health What is the correct descending order of the above sectors in terms of major expenditure allocation by the Government of India in the FY 2026-27?",
+      "options": {
+        "a": "II – IV – III – I",
+        "b": "IV – I – II – III",
+        "c": "I – II – III – IV",
+        "d": "III – IV – I – II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Union Budget reflects the developmental and strategic priorities of the Government of India. Expenditure allocation shows where the government places its fiscal emphasis.\nOption I. Transport receives the total allocation of ₹5,98,520 crore which is the highest allocation among the four sectors listed. Option II. Defence receives the second-highest allocation of ₹5,94,585 crore in the given list. Option III. Education stands third in the ranking of the list with allocation of ₹1,39,289 crore.\nOption IV. Health receives the lowest allocation of ₹1,04,599 crore, among the four listed sectors.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Consider the following statements regarding the Self-Reliant India (SRI) Fund:",
+        "I. It was set up to provide equity support to MSMEs to help them expand and enhance their growth potential.",
+        "II. It is managed by the Small Industries Development Bank of India (SIDBI).",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Self-Reliant India (SRI) Fund: I. It was set up to provide equity support to MSMEs to help them expand and enhance their growth potential. II. It is managed by the Small Industries Development Bank of India (SIDBI). Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** India’s MSME sector often struggles not just because of lack of loans, but because of inadequate equity capital.\nExcessive dependence on debt weakens balance sheets and restricts expansion. To address this structural gap, the Government launched the Self-Reliant India (SRI) Fund under the Aatmanirbhar Bharat initiative.\nStatement I is correct. The primary purpose of the SRI Fund is to provide equity support to MSMEs. The objective was to strengthen MSMEs through equity infusion rather than traditional credit. It operates through a Mother Fund–Daughter Fund structure. The idea is to channel investments into viable MSMEs so that they can expand operations, adopt better technology, and improve competitiveness.\nStatement II is incorrect. The management structure of the SRI Fund does not place SIDBI as the managing entity. The operational framework involves a Mother Fund–Daughter Fund model, where NSIC Venture Capital Fund Limited functions as the Mother Fund and SBI Venture Capital Limited acts as the Investment Manager.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Suppose the Finance Minister of India presents the Annual Financial Statement (Union Budget) in the Parliament for the Financial Year 2027-",
+        "28. The Receipts of the Union Budget will include which among the following?",
+        "I. Budget Estimates (BE) of receipts for the financial year 2027–28.",
+        "II. Revised Estimates (RE) of receipts for the financial year 2026–27.",
+        "III. Actuals of receipts for the financial year 2025–26.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Suppose the Finance Minister of India presents the Annual Financial Statement (Union Budget) in the Parliament for the Financial Year 2027- 28. The Receipts of the Union Budget will include which among the following? I. Budget Estimates (BE) of receipts for the financial year 2027–28. II. Revised Estimates (RE) of receipts for the financial year 2026–27. III. Actuals of receipts for the financial year 2025–26. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I, II and III",
+        "d": "II and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**Example of Union Budget**2026-27** Option I is correct: Budget Estimates (BE) represent the government’s projected receipts and expenditure for the upcoming financial year. These estimates form the basis of the budget proposals placed before Parliament.\nThus, when the Union Budget for FY 2027–28 is presented, it will include the BE for FY 2027–28, which outlines the government’s expected revenue and planned spending for that year.\nOption II is correct: Revised Estimates (RE) refer to the updated estimates of receipts and expenditure for the ongoing financial year. They are prepared by revising the earlier Budget Estimates after considering:\n- Actual revenue collections-Expenditure trends during the year-Changing macroeconomic conditions Therefore, when the Budget for FY 2027–28 is presented, the government will provide RE for FY 2026–27, reflecting the most realistic estimate of fiscal performance for the current year.\nOption III is correct: Actuals represent the final audited figures of receipts and expenditure for the previous financial year. These figures are based on the accounts compiled by the Controller General of Accounts and provide the most accurate record of government finances.\nThus, in the FY 2027–28 budget, the Actuals for FY 2025–26 will be presented.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q45",
+      "questionNumber": 45,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which of the following benefits will most possibly accrue to the people due to implementation of the",
+        "‘Swavalambini’ initiative of the Government of India?"
+      ],
+      "questionText": "Which of the following benefits will most possibly accrue to the people due to implementation of the ‘Swavalambini’ initiative of the Government of India?",
+      "options": {
+        "a": "Women will be encouraged to conduct research in areas of science and engineering.",
+        "b": "Forest-dwelling women will get empowered as they will be equipped to sustainably manage forest resources.",
+        "c": "Pregnant women will get access to a minimum package of antenatal care services in their 2nd and 3rd trimesters of pregnancy.",
+        "d": "Cultivate an entrepreneurial mindset among female students, making them aware of the resources and networks essential for pursuing entrepreneurship as a career."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Swavalambini ,Women Entrepreneurship Programme, is an initiative empowering female students in Higher Education Institutions (HEIs) by providing them with the necessary entrepreneurial mindset, resources, and mentorship to successfully build and scale their ventures. Swavalambini aims to establish a structured and stage-wise entrepreneurial journey for young women. It covers key aspects like awareness-building, skill development, training, mentorship, policy support, and funding assistance. It has been launched by the Ministry of Skill Development and Entrepreneurship (MSDE), in collaboration with NITI Aayog.\nIt will be implemented by the National Institute for Entrepreneurship and Small Business Development (NIESBUD).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q46",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage - 1 Across cultures and throughout history, societies have upheld a strong sense of moral responsibility toward the larger community as an enduring virtue. People who embody empathy, integrity and social responsibility are admired.",
+        "However, when materialism begins to dominate, these virtues do not merely become secondary, they risk becoming subordinate. Money itself is not inherently harmful and, in moderate measure, is essential for stability and dignity. The real concern arises when wealth becomes the sole measure of success, dictating and defining all other aspects of life.",
+        "In such circumstances, its pursuit can become limitless unless individuals consciously choose to set boundaries.",
+        "Which one of the following statements best reflects the critical message conveyed by the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage - 1 Across cultures and throughout history, societies have upheld a strong sense of moral responsibility toward the larger community as an enduring virtue. People who embody empathy, integrity and social responsibility are admired. However, when materialism begins to dominate, these virtues do not merely become secondary, they risk becoming subordinate. Money itself is not inherently harmful and, in moderate measure, is essential for stability and dignity. The real concern arises when wealth becomes the sole measure of success, dictating and defining all other aspects of life. In such circumstances, its pursuit can become limitless unless individuals consciously choose to set boundaries. Which one of the following statements best reflects the critical message conveyed by the passage?",
+      "options": {
+        "a": "The contemporary world measures success in terms of material wealth.",
+        "b": "A person needs to have some material possessions to ensure a decent standard of living.",
+        "c": "Material wealth should not be acquired at the cost of personal and social values.",
+        "d": "Materialistic tendencies prioritize money above all other aspects of lif"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage states “The real concern arises when wealth becomes the sole measure of success, dictating and defining all other aspects of life”. However, statement a does not best reflect the critical message conveyed by the passage as it does not highlight what are the consequences of viewing success in terms of material success.\nStatement b is incorrect. The passage mentions “Money itself is not inherently harmful and, in moderate measure, is essential for stability and dignity”. However, statement b does not best reflect the critical message conveyed by the passage as it highlights only one side of the passage.\nStatement c is correct. It best reflects the critical message conveyed by the passage as it highlights the main idea of the passage. It is reflected in the lines “. Money itself is not inherently harmful and, in moderate measure, is essential for stability and dignity. The real concern arises when wealth becomes the sole measure of success, dictating and defining all other aspects of life. In such circumstances, its pursuit can become limitless unless individuals consciously choose to set boundaries.” Statement d is incorrect. The passage states that ‘when materialism begins to dominate, these virtues do not merely become secondary, they risk becoming subordinate.’ However, statement d does not best reflect the critical message of the passage as it fails to emphasize the need for individuals to set boundaries while acquiring material wealth.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q47",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage - 2 The Amazon rainforest is often described as the lungs of the planet because of its role in carbon cycling, but it also functions as a powerful engine of atmospheric water movement. Scientific research shows that a significant portion of the rainfall that sustains the Amazon is generated by the forest itself through a process known as moisture recycling.",
+        "This begins when winds carry humid air from the tropical Atlantic Ocean into the Amazon Basin. The rainforest captures this moisture, releases it back into the atmosphere through evapotranspiration, and redistributes it across the continent in repeated cycles of rainfall. Through this process, the forest sustains its own hydrological balance while influencing rainfall patterns far beyond its boundaries. These effects support ecosystems, agriculture, and regional climate stability across South America.",
+        "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?"
+      ],
+      "questionText": "Passage - 2 The Amazon rainforest is often described as the lungs of the planet because of its role in carbon cycling, but it also functions as a powerful engine of atmospheric water movement. Scientific research shows that a significant portion of the rainfall that sustains the Amazon is generated by the forest itself through a process known as moisture recycling. This begins when winds carry humid air from the tropical Atlantic Ocean into the Amazon Basin. The rainforest captures this moisture, releases it back into the atmosphere through evapotranspiration, and redistributes it across the continent in repeated cycles of rainfall. Through this process, the forest sustains its own hydrological balance while influencing rainfall patterns far beyond its boundaries. These effects support ecosystems, agriculture, and regional climate stability across South America. Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+      "options": {
+        "a": "The Amazon rainforest is vital for maintaining climatic stability both within and beyond its ecosystem.",
+        "b": "Degradation of the Amazon rainforest may significantly disturb rainfall patterns across South America.",
+        "c": "The Amazon rainforest plays a crucial role in supporting agricultural productivity across South America.",
+        "d": "While the Amazon rainforest’s role as the “lungs of the planet” is widely recognised, its importance in moisture recycling is often overlooked."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statement a is correct. It best reflects the most logical and rational inference as it highlights the role of rainforests of Amazon in maintaining not only its own ecosystem but beyond too. It is mentioned in the passage as “the forest sustains its own hydrological balance while influencing rainfall patterns far beyond its boundaries”.\nStatement b is incorrect. While the passage states that rainforests of Amazon regulate rainfall in South America, it does not highlight the role of the forest in maintaining its own hydrological balance. Therefore, it does not best reflect the most logical and rational inference.\nStatement c is incorrect. While the passage states that rainforests of Amazon are vital for agricultural systems in South America, it does not comprehensively highlight the role of Amazon rainforests in maintaining climatic stability. Therefore, it does not best reflect the most logical and rational inference.\nStatement d is incorrect. It does not best reflect the most logical and rational inference as it is not the main idea of the passage and does not highlight the role of Amazon rainforests in maintaining climatic stability.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q48",
+      "questionNumber": 48,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Conclusion",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: If M > N ≥ O = P ≤ Q < R, then M is always greater than Q.",
+        "Statement II: If X ≤ Y < Z and Z > W ≥ V, then Y is always greater than V.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: Statement I: If M > N ≥ O = P ≤ Q < R, then M is always greater than Q. Statement II: If X ≤ Y < Z and Z > W ≥ V, then Y is always greater than V. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Analysis of Statement I We are given: M > N ≥ O = P ≤ Q < R We are asked: Is M always greater than Q?\n- The inequalities allow N, O, P, Q to take values in between M and R, as long as the relations hold.\n- For example, consider: M = 10, N = 9, O = 9, P = 9, Q = 9, R = 11 o Here, M = 10 and Q = 9 → M > Q-Another example: M = 10, N = 9, O = 8, P = 8, Q = 10, R = 11 o Here, Q = 10 → M = Q, not M > Q Conclusion: M is not always greater than Q.\n- Statement I is false. Analysis of Statement II We are given: X ≤ Y < Z and Z > W ≥ V We are asked: Is Y always greater than V?\n- Consider the possible values: o Y can be just less than Z, and W can be equal to V. o There is no restriction that prevents Y from being less than or equal to V.\n- Example: X = 1, Y = 2, Z = 3; W = 2, V = 2 o Then Y = 2 and V = 2 → Y is not greater than V Conclusion: Y is not always greater than V.\n- Statement II is false. Therefore, Neither I nor II is correct. Therefore, Option d is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q49",
+      "questionNumber": 49,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "A group of 7 men and 8 robots working together can complete a job in 70% less time than it takes for 3 men and",
+        "2 robots to complete the same job. If 6 robots can finish the entire job in 4 days on their own, what is the number of days it would take for 3 men working alone to complete the job?"
+      ],
+      "questionText": "A group of 7 men and 8 robots working together can complete a job in 70% less time than it takes for 3 men and 2 robots to complete the same job. If 6 robots can finish the entire job in 4 days on their own, what is the number of days it would take for 3 men working alone to complete the job?",
+      "options": {
+        "a": "13 days",
+        "b": "18 days",
+        "c": "12 days",
+        "d": "15 days"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Given: a) 7 men + 8 robots working together complete a job in 70% less time than 3 men + 2 robots.\nb) 6 robots can finish the job in 4 days. c) We are asked: Number of days required by 3 men to finish the same job alone. Express times in terms of work rates Let:\n- Work done by 1 man in 1 day = M units/day-Work done by 1 robot in 1 day = R units/day-Total work = 1 job = 1 unit Time for 6 robots to finish the job:\na) 6R × 4 days = 1 job b) So, 6 × R × 4 = 1 ⇒ 24R = 1 ⇒ R = 1/24 So, 1 robot’s 1-day work = 1/24 of the job. Now, Let T₁ = time taken by 7 men + 8 robots Work done per day by 7 men + 8 robots = 7M + 8R Time to complete job = 1 ÷ (7M + 8R) = T₁ Let T₂ = time taken by 3 men + 2 robots Work done per day = 3M + 2R Time to complete job = 1 ÷ (3M + 2R) = T₂ Given: T₁ = 30% of T₂ (because 70% less) So, T₁ = 0.3 × T₂ In terms of rates:\n1 ÷ (7M + 8R) = 0.3 × (1 ÷ (3M + 2R)) Take reciprocals: 7M + 8R = (3M + 2R) ÷ 0.3 = (3M + 2R) × (10/3) Simplify: 7M + 8R = (10/3)(3M + 2R) = 10M + (20/3)R Bring all terms to one side:\n10M – 7M + (20/3)R – 8R = 0 3M + (20/3 – 8)R = 0 Compute the coefficient of R: 20/3 – 8 = 20/3 – 24/3 = –4/3 So: 3M – (4/3)R = 0 ⇒ 3M = 4/3 R ⇒ M = (4/9) R Find man’s work rate We already know R = 1/24-So M = (4/9) × (1/24) = 4 / 216 = 1 / 54-So 1 man does 1/54 of the job per day.\nFind time taken by 3 men-Work done per day by 3 men = 3 × (1/54) = 1/18 per day-Time required = 1 ÷ (1/18) = 18 days Number of days required by 3 men to complete the job alone = 18 Therefore, Option b is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test3-q50",
+      "questionNumber": 50,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "If the day before yesterday was Monday, when will Friday be?"
+      ],
+      "questionText": "If the day before yesterday was Monday, when will Friday be?",
+      "options": {
+        "a": "Today",
+        "b": "Tomorrow",
+        "c": "Day after tomorrow",
+        "d": "Two days after tomorrow"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Day before yesterday= Monday => Yesterday= Tuesday =>Today= Wednesday =>Tomorrow= Thursday So, Day after Tomorrow= Friday",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

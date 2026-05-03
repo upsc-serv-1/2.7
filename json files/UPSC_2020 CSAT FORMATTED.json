@@ -1,0 +1,3107 @@
+{
+  "id": "upsc-cse-pyq-2020-gs2",
+  "title": "2020- Prelims - CSAT Paper 2 - UPSC",
+  "launch_year": 2020,
+  "institute": "UPSC",
+  "program_id": "cse",
+  "program_name": "CSE",
+  "series": "Prelims (Official)",
+  "level": "CSAT",
+  "paperType": "test-paper",
+  "defaultMinutes": 120,
+  "sourceMode": "docx-sol",
+  "questions": [
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q001",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "In India, the current focus on the right to privacy is based on some new realities of the digital age. A right is a substantive right only if it works in all situations, and for everyone. A right to free expression for an individual about her exploitation, for instance, is meaningless without actual availability of security that guarantees that private force cannot be used to thwart this right. The role of the State, therefore, is not just to abstain from preventing rightful free expression, but also to actively ensure that private parties are not able to block it.",
+        "",
+        "Which one of the following is best implied in the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In India, the current focus on the right to privacy is based on some new realities of the digital age. A right is a substantive right only if it works in all situations, and for everyone. A right to free expression for an individual about her exploitation, for instance, is meaningless without actual availability of security that guarantees that private force cannot be used to thwart this right. The role of the State, therefore, is not just to abstain from preventing rightful free expression, but also to actively ensure that private parties are not able to block it.\n \n Which one of the following is best implied in the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Strong measures need to be taken to reduce the rural to urban migration of labour.",
+        "b": "The working condition in construction and unregistered manufacturing needs to be improved.",
+        "c": "Service sector has been reducing the problem of unemployment.",
+        "d": "Increased social sector spending is imperative for large- scale job creation."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The options provided in the source text for this question belong to a completely different passage regarding economics and employment. The passage provided is about the right to privacy and the State's role in securing free expression. The official UPSC key is (d), but this aligns with the original exam's actual options for this passage (which were about the State ensuring digital safety), not the garbled options present in the text.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q002",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "On the basis of the above passage, the following assumptions have been made:",
+        "1. State should have some institutions to ensure its appropriate role in a digital society.",
+        "2. State should ensure that private parties do not violate the citizens' right to privacy.",
+        "3. Digital economy is not compatible with the idea of not violating the citizens' privacy.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "On the basis of the above passage, the following assumptions have been made:\n 1. State should have some institutions to ensure its appropriate role in a digital society.\n 2. State should ensure that private parties do not violate the citizens' right to privacy.\n 3. Digital economy is not compatible with the idea of not violating the citizens' privacy.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2",
+        "b": "3 only",
+        "c": "1 and 3",
+        "d": "2 only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid as the passage explicitly argues that the role of the State is to \"actively ensure that private parties are not able to block\" rights in the digital age, assuming the need for institutional mechanisms to enforce this.\n\n- Statement 2 is valid as the passage emphasizes that security must guarantee private force cannot thwart rights, meaning the state must ensure private parties do not violate privacy.\n\n- Statement 3 is invalid as there is no implication that the digital economy is inherently incompatible with privacy, only that new protections are required.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q003",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Wetlands are the kidneys of the earth. They purify water, recharge aquifers, and provide habitat for countless species. Yet, they are being drained, filled, and built upon at an alarming rate. The value of wetlands is not just in the water they hold, but in the myriad ecosystem services they provide. They act as natural sponges, absorbing flood waters and reducing the impact of storms. They are also critical for carbon sequestration. The loss of wetlands is not just a loss of biodiversity; it is a loss of a vital natural infrastructure that supports human well-being.",
+        "",
+        "Which one of the following is the most logical and rational inference that can be made from the above passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Wetlands are the kidneys of the earth. They purify water, recharge aquifers, and provide habitat for countless species. Yet, they are being drained, filled, and built upon at an alarming rate. The value of wetlands is not just in the water they hold, but in the myriad ecosystem services they provide. They act as natural sponges, absorbing flood waters and reducing the impact of storms. They are also critical for carbon sequestration. The loss of wetlands is not just a loss of biodiversity; it is a loss of a vital natural infrastructure that supports human well-being.\n \n Which one of the following is the most logical and rational inference that can be made from the above passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Rivers and other wetlands should be protected under Ramsar Convention.",
+        "b": "Engineering water systems should be modernized and further augmented.",
+        "c": "Wetlands need to be reinforced as more than just open sources of water.",
+        "d": "Water supply should not be free of cost so as to prevent its misuse or overus"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage explicitly states, \"The value of wetlands is not just in the water they hold, but in the myriad ecosystem services they provide\" (like acting as sponges, carbon sequestration, and vital infrastructure).\n\n- Therefore, the most logical inference is that wetlands must be valued and reinforced for these extensive ecosystem services, not merely treated as open sources of water.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q004",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Asset allocation is the most important investment decision we will ever make, and sadly, most of us do not give that decision the importance it deserves. We are adamant about seeking predictability with our future. We tend to think of investing in risky assets as extremely volatile and value eroding. We also dislike fluctuating returns and the loss of control of investment. We think our money is best left idle, unproductive but safe. There is no asset that is risk- free. We could lose our jobs, our homes can lose value, our banks can go bankrupt, our bonds can default, the government can collapse and companies we chose fondly may cease to exist. But we cannot live life assuming that all these extreme events are waiting to happen, and all at the same time. All these extreme forms of risks we know will not manifest at the same time.",
+        "",
+        "Which one of the following statements best implies the suggestion given by the author of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Asset allocation is the most important investment decision we will ever make, and sadly, most of us do not give that decision the importance it deserves. We are adamant about seeking predictability with our future. We tend to think of investing in risky assets as extremely volatile and value eroding. We also dislike fluctuating returns and the loss of control of investment. We think our money is best left idle, unproductive but safe. There is no asset that is risk- free. We could lose our jobs, our homes can lose value, our banks can go bankrupt, our bonds can default, the government can collapse and companies we chose fondly may cease to exist. But we cannot live life assuming that all these extreme events are waiting to happen, and all at the same time. All these extreme forms of risks we know will not manifest at the same time.\n \n Which one of the following statements best implies the suggestion given by the author of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Distribute your wealth across different kinds of assets so that your risks would be minimized.",
+        "b": "Risk- taking behaviour should be a necessary component of your personality if you want to generate wealth.",
+        "c": "While making investments, find a trustworthy asset management organization which would manage your wealth for you.",
+        "d": "You should know that investing your money is a risky business."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The author opens by stressing that \"Asset allocation is the most important investment decision\". \n\n- By listing various isolated risks (banks going bankrupt, bonds defaulting, etc.) and noting that they \"will not manifest at the same time,\" the author implies that allocating/distributing wealth across different asset classes minimizes the impact of any single catastrophic event.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q005",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "Although most of the Genetically Modified (GM) crops cultivated now are genetically engineered for a single trait, in future, crops genetically engineered for more than one trait will be the norm. Thus, biotechnology's role in agriculture and the regulation of the same cannot be understood solely in the context of the current generation of GM crops. Instead, there is a need to take a comprehensive look, taking into account various aspects, including socio- economic impacts, so that the potential of the technology can be harnessed while minimizing negative impacts. Given the importance of biotechnology in developing varieties that can help in climate change mitigation and adaptation, not using biotechnology as a part of the climate change action plan cannot be an option. Domestic regulation of biotechnology cannot be viewed in isolation of trade policy and obligations under various international treaties and conventions.",
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Biotechnology regulation is an evolving process.",
+        "2. Participation of people is needed in policy decisions regarding biotechnology regulation.",
+        "3. Biotechnology regulation should take into account socio-economic aspects in decision-making.",
+        "4. Wider involvement of political executive in biotechnology regulation improves its effectiveness in dealing with the country's trade policies and international obligations.",
+        "Which of the above assumptions are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Although most of the Genetically Modified (GM) crops cultivated now are genetically engineered for a single trait, in future, crops genetically engineered for more than one trait will be the norm. Thus, biotechnology's role in agriculture and the regulation of the same cannot be understood solely in the context of the current generation of GM crops. Instead, there is a need to take a comprehensive look, taking into account various aspects, including socio- economic impacts, so that the potential of the technology can be harnessed while minimizing negative impacts. Given the importance of biotechnology in developing varieties that can help in climate change mitigation and adaptation, not using biotechnology as a part of the climate change action plan cannot be an option. Domestic regulation of biotechnology cannot be viewed in isolation of trade policy and obligations under various international treaties and conventions.\n \n With reference to the above passage, the following assumptions have been made:\n 1. Biotechnology regulation is an evolving process.\n 2. Participation of people is needed in policy decisions regarding biotechnology regulation.\n 3. Biotechnology regulation should take into account socio-economic aspects in decision-making.\n 4. Wider involvement of political executive in biotechnology regulation improves its effectiveness in dealing with the country's trade policies and international obligations.\n Which of the above assumptions are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 4 only",
+        "b": "1 and 3 only",
+        "c": "2, 3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid as the passage emphasizes moving from single-trait to multi-trait crops in the future, establishing that regulation must adapt to these advancements rather than strictly focusing on current generations.\n\n- Statement 3 is valid as it is a direct paraphrase from the text: \"...taking into account various aspects, including socio-economic impacts...\"\n\n- Statements 2 and 4 make unsupported extrapolations about the \"participation of people\" and the \"involvement of political executive\", which are entirely absent from the passage.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q006",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Which one of the following statements best implies the crux of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which one of the following statements best implies the crux of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Precautionary principle is not given importance in current debate on developing GM crops.",
+        "b": "Biotechnology is not currently used in climate change mitigation and adaptation mechanisms.",
+        "c": "Biotechnology's role is not confined to the current priorities of developing GM crops.",
+        "d": "The negative impacts of biotechnology are not properly understood."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The core argument of the passage is introduced early: \"biotechnology's role in agriculture and the regulation of the same cannot be understood solely in the context of the current generation of GM crops.\"\n\n- The author argues that its role expands into future multi-trait advancements, socio-economic impacts, climate change mitigation, and international trade, thereby confirming its role is not confined to current, limited GM priorities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q007",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "How many zeroes are there at the end of the following product?",
+        "1 × 5 × 10 × 15 × 20 × 25 × 30 × 35 × 40 × 45 × 50 × 55 × 60",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many zeroes are there at the end of the following product?\n 1 × 5 × 10 × 15 × 20 × 25 × 30 × 35 × 40 × 45 × 50 × 55 × 60\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "14",
+        "d": "15"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The number of trailing zeroes is determined by the number of pairs of prime factors (2 and 5) in the product. We must count the total 2s and 5s in the prime factorization of these numbers.\n\n- The numbers are: 1, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60.\n\n- Let's count the number of 5s: 5(1), 10(1), 15(1), 20(1), 25(2), 30(1), 35(1), 40(1), 45(1), 50(2), 55(1), 60(1). Total 5s = 14.\n\n- Let's count the number of 2s: 10(1), 20(2), 30(1), 40(3), 50(1), 60(2). Total 2s = 10.\n\n- Because zeroes are formed by pairs of (2,5), the limiting factor is the number of 2s. There are 10 pairs.\n\n- Thus, there are 10 trailing zeroes.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q008",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let XYZ be a three-digit number, where (X + Y + Z) is not a multiple of 3. Then (XYZ + YZX + ZXY) is not divisible by",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let XYZ be a three-digit number, where (X + Y + Z) is not a multiple of 3. Then (XYZ + YZX + ZXY) is not divisible by\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "3",
+        "b": "9",
+        "c": "37",
+        "d": "(X + Y + Z)"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Any three digit number XYZ can be written as 100X + 10Y + Z. \n\n- The sum of the cyclic permutations is: (100X + 10Y + Z) + (100Y + 10Z + X) + (100Z + 10X + Y) = 111X + 111Y + 111Z = 111(X + Y + Z).\n\n- The prime factorization of 111 is 3 × 37. So the sum equals 3 × 37 × (X + Y + Z).\n\n- This means the sum is always divisible by 3, 37, and (X + Y + Z).\n\n- To be divisible by 9, the expression 3 × 37 × (X + Y + Z) must contain at least another factor of 3. This would require (X + Y + Z) to be a multiple of 3. \n\n- The prompt explicitly states (X + Y + Z) is NOT a multiple of 3. Therefore, the total sum is definitely not divisible by 9.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q009",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let p, q, r and s be natural numbers such that",
+        "p - 2016 = q + 2017 = r - 2018 = s + 2019",
+        "Which one of the following is the largest natural number?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let p, q, r and s be natural numbers such that\n p - 2016 = q + 2017 = r - 2018 = s + 2019\n Which one of the following is the largest natural number?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "P",
+        "b": "Q",
+        "c": "R",
+        "d": "S"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the entire equation equal a constant value, k.\n\n- p = k + 2016\n\n- q = k - 2017\n\n- r = k + 2018\n\n- s = k - 2019\n\n- Comparing the four terms, (k + 2018) is the largest mathematical value. Therefore, r is the largest natural number.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q010",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "How many five-digit prime numbers can be obtained by using all the digits 1, 2, 3, 4 and 5 without repetition of digits?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many five-digit prime numbers can be obtained by using all the digits 1, 2, 3, 4 and 5 without repetition of digits?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Zero",
+        "b": "One",
+        "c": "Nine",
+        "d": "Ten"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- To determine if a number is prime, check the sum of its digits for divisibility by 3.\n\n- The sum of the digits 1 + 2 + 3 + 4 + 5 = 15.\n\n- Since 15 is perfectly divisible by 3, any 5-digit number formed using these exact digits will always be divisible by 3.\n\n- Consequently, it is mathematically impossible to form a prime number. The answer is zero.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q011",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "In the sum",
+        "① + 1① + 5① + ①① + ①① = 1①①",
+        "for which digit does the symbol ① stand?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the sum\n ① + 1① + 5① + ①① + ①① = 1①①\n for which digit does the symbol ① stand?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> There is a typographical error in the provided source text document. The last term on the left side of the equation is mistakenly written as `①①` instead of the original UPSC question's `①1` (meaning x1). \n\n- Correcting to the standard pattern: x + (10+x) + (50+x) + (10x+x) + (10x+1) = 100+10x+x.\n\n- Summing the left side: 3x + 60 + 20x + x + 1 = 24x + 61.\n\n- Right side: 100 + 11x.\n\n- 24x + 61 = 100 + 11x => 13x = 39 => x = 3.\n\n- Testing 3 in the original logic: 3 + 13 + 53 + 33 + 31 = 133. This satisfies the equation perfectly.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q012",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "If you have two straight sticks of length 7.5 feet and 3.25 feet, what is the minimum length can you measure?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If you have two straight sticks of length 7.5 feet and 3.25 feet, what is the minimum length can you measure?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "0.05 foot",
+        "b": "0.25 foot",
+        "c": "1 foot",
+        "d": "3.25 feet"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The minimum positive length that can be measured using two unmarked lengths is the Highest Common Factor (HCF) of the two lengths.\n\n- Convert the lengths into fractions for easier calculation: 7.5 = 750/100, and 3.25 = 325/100.\n\n- We need the HCF of 750/100 and 325/100. \n\n- HCF of numerators (750 and 325) = 25.\n\n- HCF = 25 / 100 = 0.25 feet.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q013",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "A simple mathematical operation in each number of the sequence 14, 18, 20, 24, 30, 32, ... results in a sequence with respect to prime numbers.",
+        "Which one of the following is the next number in the sequence?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A simple mathematical operation in each number of the sequence 14, 18, 20, 24, 30, 32, ... results in a sequence with respect to prime numbers.\n Which one of the following is the next number in the sequence?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "34",
+        "b": "36",
+        "c": "38",
+        "d": "40"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Analyze the sequence: 14, 18, 20, 24, 30, 32...\n\n- Notice their relation to the prime number sequence starting from 13: (13, 17, 19, 23, 29, 31...).\n\n- The simple mathematical operation is adding 1 to each consecutive prime number: \n  13 + 1 = 14\n  17 + 1 = 18\n  19 + 1 = 20\n  23 + 1 = 24\n  29 + 1 = 30\n  31 + 1 = 32\n\n- The next prime number after 31 is 37.\n\n- Applying the operation: 37 + 1 = 38.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q014",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "One page is torn from a booklet whose pages are numbered in the usual manner starting from the first page as",
+        "1. The sum of the numbers on the remaining pages is 195. The torn page contains which of the following numbers?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "One page is torn from a booklet whose pages are numbered in the usual manner starting from the first page as 1. The sum of the numbers on the remaining pages is 195. The torn page contains which of the following numbers?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "5, 6",
+        "b": "7, 8",
+        "c": "9, 10",
+        "d": "11, 12"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The sum of 'n' consecutive pages is given by the formula n(n+1)/2.\n\n- Since the remaining sum is 195, let's find an 'n' where the total sum is slightly higher than 195. \n\n- If n = 20 pages, the total sum = 20(21)/2 = 210.\n\n- The difference between the total sum and the remaining sum is the sum of the torn pages: 210 - 195 = 15.\n\n- A physical leaf of a book has consecutive page numbers (x and x+1).\n\n- x + (x + 1) = 15 => 2x = 14 => x = 7.\n\n- Therefore, the torn leaf contains pages 7 and 8. (\n\nNote: if n=21, sum is 231. 231-195=36. 2x+1=36 => 2x=35, not an integer, confirming n=20 is the only valid state).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q015",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "Consider the following arrangement that has some missing letters:",
+        "abab_b_bcb_dcdcded_d",
+        "The missing letters which complete the arrangement are",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following arrangement that has some missing letters:\n abab_b_bcb_dcdcded_d\n The missing letters which complete the arrangement are\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "A, b, c, d",
+        "b": "A, b, d, e",
+        "c": "A, c, c, e",
+        "d": "B, c, d, e"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- This sequence is structured into four distinct grouped blocks of 6 letters each. \n\n- Let's substitute option (c) 'a, c, c, e' into the blanks: \n  abab(a)b _ (c)bcb(c)d _ cdcded(e)d\n\n- Breaking it down into groups of six reveals perfect repetition clusters:\n  Group 1: a b a b a b\n  Group 2: c b c b c b\n  Group 3: c d c d c d\n  Group 4: e d e d e d\n\n- This perfectly matches the progressive oscillating symmetry typical of such puzzles.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q016",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let A3BC and DE2F be four-digit numbers where each letter represents a different digit greater than 3. If the sum of the numbers is 15902, then what is the difference between the values of A and D?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let A3BC and DE2F be four-digit numbers where each letter represents a different digit greater than 3. If the sum of the numbers is 15902, then what is the difference between the values of A and D?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1",
+        "b": "2",
+        "c": "3",
+        "d": "4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Align the addition: A3BC + DE2F = 15902. (All letters > 3, meaning they can only be 4, 5, 6, 7, 8, 9).\n\n- Units column: C + F ends in 2. Given they must be different and > 3, the only valid pair is 4 and 8 (4+8=12). This leaves a carry of 1.\n\n- Tens column: B + 2 + 1 (carry) ends in 0. So, B + 3 = 10 => B = 7. Carry 1.\n\n- Hundreds column: 3 + E + 1 (carry) ends in 9. So, E + 4 = 9 => E = 5. No carry.\n\n- Thousands column: A + D = 15.\n\n- The digits used so far are B=7, E=5, and the pair C/F uses 4 and 8. The only available digits left for A and D (to sum to 15) are 6 and 9.\n\n- The difference between A and D is |6 - 9| = 3.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q017",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Two Statements S1 and S2 are given below followed by a Question:",
+        "S1: There are not more than two figures on any page of a 51- page book.",
+        "S2: There is at least one figure on every page.",
+        "Question: Are there more than 100 figures in that book?",
+        "Which one of the following is correct in respect of the above Statements and the Question?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements S1 and S2 are given below followed by a Question:\n S1: There are not more than two figures on any page of a 51- page book.\n S2: There is at least one figure on every page.\n Question: Are there more than 100 figures in that book?\n Which one of the following is correct in respect of the above Statements and the Question?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Both S1 and S2 are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to answer the Question.",
+        "b": "S1 alone is sufficient to answer the Question.",
+        "c": "S1 and S2 together are not sufficient to answer the Question.",
+        "d": "S2 alone is sufficient to answer the Question."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- From S1, the maximum possible number of figures is 51 pages × 2 figures/page = 102 figures.\n\n- From S2, the minimum possible number of figures is 51 pages × 1 figure/page = 51 figures.\n\n- Taking both statements together, the total number of figures falls strictly in the range of 51 to 102. \n\n- Because the actual number could be 90 (which is not more than 100) or it could be 102 (which is more than 100), it is impossible to definitively answer \"Yes\" or \"No\" to the question. Both statements together are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q018",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "Consider the following data:",
+        "Average marks in English | Average marks in Hindi",
+        "Girls | 9 | 8",
+        "Boys | 8 |",
+        "7",
+        "Overall average marks | 8.8 | x",
+        "What is the value of x in the above table?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following data:\n Average marks in English | Average marks in Hindi\n Girls | 9 | 8\n Boys | 8 |\n 7\n Overall average marks | 8.8 | x\n What is the value of x in the above table?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "7.8",
+        "b": "7.6",
+        "c": "7.4",
+        "d": "7.2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let the number of girls be G and the number of boys be B.\n\n- Set up the English average equation: (9G + 8B) / (G + B) = 8.8\n- 9G + 8B = 8.8G + 8.8B\n- 0.2G = 0.8B => G = 4B. This establishes that the ratio of girls to boys is 4:1.\n\n- Set up the Hindi average equation to find x: x = (8G + 7B) / (G + B).\n\n- Substitute G = 4B into the equation: x = [8(4B) + 7B] / (4B + B) = (32B + 7B) / 5B = 39B / 5B.\n\n- x = 39 / 5 = 7.8.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q019",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Blood Relations",
+      "statementLines": [
+        "",
+        "A family of two generations consisting of six members P, Q, R, S, T and U has three males and three females.",
+        "There are two married couples and two unmarried siblings. U is P's daughter and Q is R's mother-in-law.",
+        "T is an unmarried male and S is a male. Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A family of two generations consisting of six members P, Q, R, S, T and U has three males and three females.\n There are two married couples and two unmarried siblings. U is P's daughter and Q is R's mother-in-law.\n T is an unmarried male and S is a male. Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "R is U's husband.",
+        "b": "R is S's wife.",
+        "c": "S is unmarried.",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Identify gender targets: 3 Males, 3 Females. \n\n- Known females: U (daughter), Q (mother-in-law). Known males: T (male), S (male). \n\n- Two married couples exist across two generations. Since Q is a mother-in-law, she belongs to Generation 1 and must be married. Let Q be married to P. \n\n- This means P is a Male (fulfilling our 3 Male quota: P, T, S). Consequently, the remaining member, R, MUST be Female. (Quota met: Q, U, R).\n\n- P and Q have children. \"U is P's daughter\" maps U to Generation 2. T is an unmarried sibling. S is male. \n\n- Q is R's mother-in-law, meaning R (Female) is married to Q's son. S is the only available son to be married to R. \n\n- Couples: (P & Q) and (S & R). Siblings: U, T, S. \n\n- Evaluating the options: Option (b) \"R is S's wife\" aligns perfectly with the deduced logical structure.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q020",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Calendar",
+      "statementLines": [
+        "",
+        "If in a particular year 12th January is a Sunday, then which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If in a particular year 12th January is a Sunday, then which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "15th July is a Sunday if the year is a leap year.",
+        "b": "15th July is a Sunday if the year is not a leap year.",
+        "c": "12th July is a Sunday if the year is a leap year.",
+        "d": "12th July is not a Sunday if the year is a leap year."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Assume the year is a leap year (February has 29 days). \n\n- Calculate total odd days elapsed from Jan 12 to July 15: \n  Jan (31 - 12 = 19 days)\n  Feb (29 days)\n  Mar (31 days)\n  Apr (30 days)\n  May (31 days)\n  Jun (30 days)\n  Jul (15 days)\n- Total days = 19 + 29 + 31 + 30 + 31 + 30 + 15 = 185 days.\n- 185 divided by 7 leaves a remainder of 3. \n- Therefore, July 15th is Sunday + 3 days = Wednesday. Options (a) and (b) are false.\n\n- Let's determine July 12th. If July 15th is Wednesday, tracking back 3 days means July 12th is a Sunday. \n- Thus, option (c) is definitively correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q021",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "Private investment in general is volatile. Foreign private investment is more volatile because the available investment avenues are significantly greater (i.e., the entire world). Therefore, the responsibility of providing employment cannot be left to Foreign Direct Investment (FDI). The current FDI inflows are volatile over time and across sectors and regions, which is a necessary consequence of their search for the highest returns. The adverse consequences are unstable employment and an accentuation of income and regional inequalities. A probable positive consequence of foreign investment is the inflow of new technology and its subsequent diffusion. However, the technology diffusion is not at all certain because the existing state of physical and human capital in India may prove inadequate for the diffusion.",
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Relying on foreign investment in the long run is not an economically sound policy.",
+        "2. Policies must be undertaken to reduce volatility in foreign private investment.",
+        "3. Policies must be undertaken to strengthen domestic private investment.",
+        "4. Public investment should be given priority over private investment.",
+        "5. Substantial public investment in education and health should be undertaken.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Private investment in general is volatile. Foreign private investment is more volatile because the available investment avenues are significantly greater (i.e., the entire world). Therefore, the responsibility of providing employment cannot be left to Foreign Direct Investment (FDI). The current FDI inflows are volatile over time and across sectors and regions, which is a necessary consequence of their search for the highest returns. The adverse consequences are unstable employment and an accentuation of income and regional inequalities. A probable positive consequence of foreign investment is the inflow of new technology and its subsequent diffusion. However, the technology diffusion is not at all certain because the existing state of physical and human capital in India may prove inadequate for the diffusion.\n \n With reference to the above passage, the following assumptions have been made:\n 1. Relying on foreign investment in the long run is not an economically sound policy.\n 2. Policies must be undertaken to reduce volatility in foreign private investment.\n 3. Policies must be undertaken to strengthen domestic private investment.\n 4. Public investment should be given priority over private investment.\n 5. Substantial public investment in education and health should be undertaken.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 4",
+        "b": "1, 3 and 5",
+        "c": "2, 4 and 5",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid as the passage emphasizes FDI is volatile, exacerbates inequality, and cannot be relied upon for employment.\n\n- Statement 3 is valid as a logical corollary: if foreign investment is unreliable, domestic private investment must be strengthened as the alternative.\n\n- Statement 5 is valid as the passage laments that existing \"human capital\" is inadequate for technology diffusion, assuming heavy public investment in education and health is needed to fix this.\n\n- Statement 2 is invalid because the passage notes FDI volatility is a \"necessary consequence of their search for the highest returns\", implying domestic policy cannot easily tame global market mechanics.\n\n- Statement 4 makes an absolute, unwarranted jump against private investment entirely.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q022",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Many opportunities to harness the highly skewed, seasonal and spatial distribution of monsoon flows, which occur in a four- month period from June to September annually, have been lost. Since these few months account for most of the rainfall and consequent freshwater availability, the need for holding rainwater in reservoirs, for subsequently releasing it for use over the year, is a necessity nobody can afford to overlook. Climate change will continue to affect weather conditions and create water shortages and excesses. While millions suffer from droughts and floods, the solution lies in better management of our water resources.",
+        "",
+        "With reference to the above passage, which of the following could be the most rational and practical implications for India?",
+        "1. Inter-linking of rivers should be undertaken.",
+        "2. A network of dams and canals should be built across the country for proper distribution of water.",
+        "3. Farmers should be provided easy loans for digging borewells.",
+        "4. Usage of water for agriculture should be regulated by law.",
+        "5. Distribution of river water among regions should be regulated by the Union Government.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Many opportunities to harness the highly skewed, seasonal and spatial distribution of monsoon flows, which occur in a four- month period from June to September annually, have been lost. Since these few months account for most of the rainfall and consequent freshwater availability, the need for holding rainwater in reservoirs, for subsequently releasing it for use over the year, is a necessity nobody can afford to overlook. Climate change will continue to affect weather conditions and create water shortages and excesses. While millions suffer from droughts and floods, the solution lies in better management of our water resources.\n \n With reference to the above passage, which of the following could be the most rational and practical implications for India?\n 1. Inter-linking of rivers should be undertaken.\n 2. A network of dams and canals should be built across the country for proper distribution of water.\n 3. Farmers should be provided easy loans for digging borewells.\n 4. Usage of water for agriculture should be regulated by law.\n 5. Distribution of river water among regions should be regulated by the Union Government.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2",
+        "b": "2, 4 and 5",
+        "c": "1, 3 and 4",
+        "d": "2, 3 and 5"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage emphasizes the absolute necessity of \"holding rainwater in reservoirs\" and \"subsequently releasing it for use\" to mitigate spatial and seasonal monsoon limits.\n\n- Statements 1 and 2 (building dams, canals, and inter-linking rivers) are the direct practical infrastructural implications required to capture this water in reservoirs and distribute it spatially to prevent floods and droughts.\n\n- Statements 3, 4, and 5 deal with groundwater depletion, legal regulation, and federal jurisdiction, which are not directly supported by this text.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q023",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "People will invest in education whenever they are granted the economic freedom to fully enjoy its benefits. Again, this is for the obvious reason that the return on education increases as the level of economic freedom rises. When people, thanks to lower tax rates, are allowed to retain most of the higher income that they gain from each incremental level of education, it makes eminent sense to invest in education. On the other hand, when the government decides to tax the higher income of educated individuals at even higher rates, it makes very little sense to invest in educating oneself further. The same incentives apply to parents who decide on whether to invest in their children's education.",
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Lower tax rates in a country invariably translate into greater investments in higher education.",
+        "2. Investment in the education of children ensures their economic freedom.",
+        "3. Economic freedom has a positive impact on building up human capital.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "People will invest in education whenever they are granted the economic freedom to fully enjoy its benefits. Again, this is for the obvious reason that the return on education increases as the level of economic freedom rises. When people, thanks to lower tax rates, are allowed to retain most of the higher income that they gain from each incremental level of education, it makes eminent sense to invest in education. On the other hand, when the government decides to tax the higher income of educated individuals at even higher rates, it makes very little sense to invest in educating oneself further. The same incentives apply to parents who decide on whether to invest in their children's education.\n \n With reference to the above passage, the following assumptions have been made:\n 1. Lower tax rates in a country invariably translate into greater investments in higher education.\n 2. Investment in the education of children ensures their economic freedom.\n 3. Economic freedom has a positive impact on building up human capital.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 3 is valid as the passage clearly ties \"economic freedom\" (like lower tax rates) to making it sensible to \"invest in education\" (building human capital).\n\n- Statement 1 uses the extreme word \"invariably,\" which assumes a flawless universal guarantee not supported by the conditional text.\n\n- Statement 2 presents reversed logic; the passage argues economic freedom encourages education investment, not that education magically ensures economic freedom.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q024",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Our urban bodies cannot possibly ensure sustainable delivery of water in our cities unless financing mechanisms are put in place. Water delivery requires heavy investment in collecting it from a natural source, treating it to make it potable, and laying a distribution network of pipes for delivery to the users. It also requires investments in sewerage infrastructure and sewage treatment plants so that the sewers can carry the wastewater to these plants to ensure that no untreated sewage is discharged into water bodies. Without recovering the costs through user charges, urban local bodies will not be able to sustain water delivery.",
+        "",
+        "What is the most logical and crucial message conveyed by the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Our urban bodies cannot possibly ensure sustainable delivery of water in our cities unless financing mechanisms are put in place. Water delivery requires heavy investment in collecting it from a natural source, treating it to make it potable, and laying a distribution network of pipes for delivery to the users. It also requires investments in sewerage infrastructure and sewage treatment plants so that the sewers can carry the wastewater to these plants to ensure that no untreated sewage is discharged into water bodies. Without recovering the costs through user charges, urban local bodies will not be able to sustain water delivery.\n \n What is the most logical and crucial message conveyed by the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Urban local bodies must recover costs through user charges.",
+        "b": "Urban local bodies are not efficient enough to meet the water requirements of our cities.",
+        "c": "Water shortage in our cities is a perennial problem that cannot be solved.",
+        "d": "In view of the water crisis in our cities, there is an urgent need to limit the population of cities by adopting an upper limit of population siz"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The entire passage builds up the immense financial costs associated with collecting, treating, and distributing water, concluding with a definitive conditional statement: \"Without recovering the costs through user charges, urban local bodies will not be able to sustain water delivery.\"\n\n- Therefore, the crucial, actionable message is that cost recovery through user charges is absolutely mandatory.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q025",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Rich cities only can ensure sustainable delivery of water.",
+        "2. Sustainable delivery of water in cities means much more than supplying water to households.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made:\n 1. Rich cities only can ensure sustainable delivery of water.\n 2. Sustainable delivery of water in cities means much more than supplying water to households.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 2 is valid as the passage details that sustainable water delivery includes \"investments in sewerage infrastructure and sewage treatment plants,\" showing the scope spans far beyond mere supply.\n\n- Statement 1 is invalid because the text states that cost recovery via user charges (not inherent city wealth) is the determining factor for sustainable delivery.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q026",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "In India, agriculture still engages about half of its workforce, and about 85 per cent of its farms are small and marginal. Compared to China and Vietnam, which have experienced fast structural and rural transformation, India's story is of slow transformation. As a result, poverty reduction in India was at a much slower pace during 1988- 2014, compared to China and Vietnam. India's poverty reduction was slow during 1988- 2005, but during 2005- 2012, it accelerated dramatically- almost three times faster than during the earlier period. What did India do during this period? Research reveals that the relative price scenario changed significantly (by more than 50%) in favour of agriculture in the wake of rising global prices. This boosted private investments in agriculture by more than 50%. As a result, agri- GDP growth touched 4.1% during 2007- 2012 as against 2.4% during 2002- 2007. The net surplus of agri- trade touched $25 billion in 2013- 2014; real farm wages rose by 7% per annum. All this led to unprecedented fall in poverty.",
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Structural and rural transformation is impossible when farms are mainly small and marginal.",
+        "2. A good price incentive can trigger investments in agriculture.",
+        "3. India needs to build value chains for high-value agri-products like livestock and horticulture.",
+        "4. Higher global prices of agricultural commodities are essential for India's poverty reduction.",
+        "Which of the above assumptions are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In India, agriculture still engages about half of its workforce, and about 85 per cent of its farms are small and marginal. Compared to China and Vietnam, which have experienced fast structural and rural transformation, India's story is of slow transformation. As a result, poverty reduction in India was at a much slower pace during 1988- 2014, compared to China and Vietnam. India's poverty reduction was slow during 1988- 2005, but during 2005- 2012, it accelerated dramatically- almost three times faster than during the earlier period. What did India do during this period? Research reveals that the relative price scenario changed significantly (by more than 50%) in favour of agriculture in the wake of rising global prices. This boosted private investments in agriculture by more than 50%. As a result, agri- GDP growth touched 4.1% during 2007- 2012 as against 2.4% during 2002- 2007. The net surplus of agri- trade touched $25 billion in 2013- 2014; real farm wages rose by 7% per annum. All this led to unprecedented fall in poverty.\n \n With reference to the above passage, the following assumptions have been made:\n 1. Structural and rural transformation is impossible when farms are mainly small and marginal.\n 2. A good price incentive can trigger investments in agriculture.\n 3. India needs to build value chains for high-value agri-products like livestock and horticulture.\n 4. Higher global prices of agricultural commodities are essential for India's poverty reduction.\n Which of the above assumptions are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 3",
+        "b": "2 and 4",
+        "c": "2 and 3",
+        "d": "3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 2 is valid, perfectly aligning with the passage: \"relative price scenario changed significantly... This boosted private investments in agriculture\".\n\n- Statement 3 is practically inferred; since India lacks \"structural and rural transformation,\" pushing into high-value agri-products is standard transformational economic logic implicitly lacking in the slow period.\n\n- Statement 1 uses the extreme word \"impossible\", which contradicts the fact that India DID see an unprecedented fall in poverty despite still having 85% small farms.\n\n- Statement 4 incorrectly assumes global prices are \"essential\" permanently, ignoring domestic pricing policies and other means of boosting agriculture.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q027",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Which one of the following statements best reflects the critical message of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which one of the following statements best reflects the critical message of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "India should create large-scale off-farm rural employment to reduce poverty in the near future.",
+        "b": "India should create a large number of farmer producer companies.",
+        "c": "Private investment in agriculture should be given priority over public investment.",
+        "d": "Inclusive agricultural growth is key to reduce poverty in the near futur"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The entire passage tracks how an increase in agri-GDP growth and real farm wages directly \"led to unprecedented fall in poverty\". \n\n- Therefore, the central critical message is that boosting inclusive, robust agricultural growth is the primary lever for reducing poverty rapidly.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q028",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Two Statements S1 and S2 are given below with regard to four numbers P, Q, R and S followed by a Question:",
+        "S1: R is greater than P as well as Q.",
+        "S2: S is not the largest one.",
+        "Question: Among four numbers P, Q, R and S which one is the largest?",
+        "Which one of the following is correct in respect of the above Statements and the Question?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements S1 and S2 are given below with regard to four numbers P, Q, R and S followed by a Question:\n S1: R is greater than P as well as Q.\n S2: S is not the largest one.\n Question: Among four numbers P, Q, R and S which one is the largest?\n Which one of the following is correct in respect of the above Statements and the Question?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "S1 alone is sufficient to answer the Question.",
+        "b": "S2 alone is sufficient to answer the Question.",
+        "c": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to answer the Question.",
+        "d": "S1 and S2 together are not sufficient to answer the Question."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- S1 establishes that R > P and R > Q. However, it gives no information about where S ranks (S could be the largest). So S1 alone is insufficient.\n\n- S2 establishes that S is not the largest, but gives no relations between P, Q, and R. So S2 alone is insufficient.\n\n- Combining S1 and S2: R beats P and Q. S is ruled out from being the largest. By elimination, R must be the largest number among the four. Both together are necessary and sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q029",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Two Statements S1 and S2 are given below followed by a Question:",
+        "S1: n is a prime number.",
+        "S2: n leaves a remainder of 1 when divided by 4.",
+        "Question: If n is a unique natural number between 10 and 20, then what is n?",
+        "Which one of the following is correct in respect of the above Statements and the Question?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements S1 and S2 are given below followed by a Question:\n S1: n is a prime number.\n S2: n leaves a remainder of 1 when divided by 4.\n Question: If n is a unique natural number between 10 and 20, then what is n?\n Which one of the following is correct in respect of the above Statements and the Question?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "S1 alone is sufficient to answer the Question.",
+        "b": "S2 alone is sufficient to answer the Question.",
+        "c": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to answer the Question.",
+        "d": "S1 and S2 together are not sufficient to answer the Question."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- From the prompt, 'n' lies between 10 and 20.\n\n- Let's apply S1: Prime numbers between 10 and 20 are 11, 13, 17, and 19. (Not unique, S1 alone insufficient).\n\n- Let's apply S2: Numbers between 10 and 20 that leave a remainder of 1 when divided by 4 are 13 and 17. (Not unique, S2 alone insufficient).\n\n- Let's combine S1 and S2: The set narrows down to 13 and 17. Since there are still two possible candidates, 'n' is not a unique number. Therefore, both statements together are still not sufficient to answer the question.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q030",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Two Statements S1 and S2 are given below with regard to two numbers followed by a Question:",
+        "S1: Their product is 21.",
+        "S2: Their sum is 10.",
+        "Question: What are the two numbers?",
+        "Which one of the following is correct in respect of the above Statements and the Question?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements S1 and S2 are given below with regard to two numbers followed by a Question:\n S1: Their product is 21.\n S2: Their sum is 10.\n Question: What are the two numbers?\n Which one of the following is correct in respect of the above Statements and the Question?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "S1 alone is sufficient to answer the Question.",
+        "b": "S2 alone is sufficient to answer the Question.",
+        "c": "S1 and S2 together are sufficient to answer the Question, but neither S1 alone nor S2 alone is sufficient to answer the Question.",
+        "d": "S1 and S2 together are not sufficient to answer the Question."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- From S1 alone: Let the numbers be x and y. x * y = 21. The numbers could be (3, 7), (1, 21), or decimal/negative variants. Insufficient.\n\n- From S2 alone: x + y = 10. The numbers could be (1, 9), (2, 8), (5, 5), etc. Insufficient.\n\n- Combining S1 and S2: We have the system of equations x * y = 21 and x + y = 10. Solving these algebraically yields roots 3 and 7. The question asks \"What are the two numbers?\", and the combination definitively yields the set {3, 7}. Both are sufficient together.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q031",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Direction Sense",
+      "statementLines": [
+        "",
+        "A man walks down the backside of his house straight 25 metres, then turns to the right and walks 50 metres again; then he turns towards left and again walks 25 metres. If his house faces to the East, what is his direction from the starting point?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A man walks down the backside of his house straight 25 metres, then turns to the right and walks 50 metres again; then he turns towards left and again walks 25 metres. If his house faces to the East, what is his direction from the starting point?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "South-East",
+        "b": "South-West",
+        "c": "North-East",
+        "d": "North-West"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- If the house faces East, its backside faces West.\n\n- The man walks out the backside, meaning he walks 25m West.\n\n- He turns right (facing North) and walks 50m.\n\n- He turns left (facing West) and walks 25m.\n\n- His final displacement relative to the starting point is 50m West (25m + 25m) and 50m North. \n\n- Therefore, his net direction from the starting origin is North-West.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q032",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "",
+        "Two Statements are given followed by two Conclusions:",
+        "Statements:",
+        "All numbers are divisible by 2.",
+        "All numbers are divisible by 3.",
+        "Conclusion- I: All numbers are divisible by 6.",
+        "Conclusion- II: All numbers are divisible by 4.",
+        "Which of the above Conclusions logically follows/follow from the two given Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements are given followed by two Conclusions:\n Statements:\n All numbers are divisible by 2.\n All numbers are divisible by 3.\n Conclusion- I: All numbers are divisible by 6.\n Conclusion- II: All numbers are divisible by 4.\n Which of the above Conclusions logically follows/follow from the two given Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only Conclusion- I",
+        "b": "Only Conclusion- II",
+        "c": "Neither Conclusion- I nor Conclusion- II",
+        "d": "Both Conclusion- I and Conclusion- II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The premises establish a hypothetical scenario where every number is divisible by 2 and 3.\n\n- A mathematical rule states that if a number is divisible by two coprime numbers (like 2 and 3), it must be divisible by their product (2 × 3 = 6). Thus, Conclusion I logically follows.\n\n- Divisibility by 2 does not guarantee divisibility by 4 (for example, the number 6 is divisible by 2 and 3, but not 4). Thus, Conclusion II does not logically follow.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q033",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "",
+        "Two Statements are given followed by two Conclusions:",
+        "Statements:",
+        "All cats are dogs.",
+        "All cats are black.",
+        "Conclusion- I: All dogs are black.",
+        "Conclusion- II: Some dogs are not black.",
+        "Which of the above Conclusions logically follows/follow from the two given Statements, disregarding commonly known facts?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements are given followed by two Conclusions:\n Statements:\n All cats are dogs.\n All cats are black.\n Conclusion- I: All dogs are black.\n Conclusion- II: Some dogs are not black.\n Which of the above Conclusions logically follows/follow from the two given Statements, disregarding commonly known facts?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only Conclusion- I",
+        "b": "Only Conclusion- II",
+        "c": "Neither Conclusion- I nor Conclusion- II",
+        "d": "Both Conclusion- I and Conclusion- II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The premises state: Cats are a subset of Dogs, and Cats are a subset of Black things.\n\n- This means there is an intersection between Dogs and Black things (the Cats).\n\n- Conclusion I claims \"All dogs are black.\" This is false because the \"Dogs\" set could easily extend far beyond the \"Cats\" subset into non-black areas.\n\n- Conclusion II claims \"Some dogs are not black.\" This is also false because it's entirely possible in Venn diagram logic that the Dog set and the Black set are perfectly identical, meaning there wouldn't be any non-black dogs.\n\n- Since neither conclusion is guaranteed 100% of the time, neither follows.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q034",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "Consider the following sequence of numbers:",
+        "51473985726315863852243496",
+        "How many odd numbers are followed by the odd number in the above sequence?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following sequence of numbers:\n 51473985726315863852243496\n How many odd numbers are followed by the odd number in the above sequence?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- We must scan the sequence to find instances of (Odd digit) -> (Odd digit). \n\n- Scanning left to right: \n  (5, 1) -> Valid [1]\n  (7, 3) -> Valid [2]\n  (3, 9) -> Valid [3]\n  (5, 7) -> Valid [4]\n  (3, 1) -> Valid [5]\n  (1, 5) -> Valid [6]\n- All other odd numbers are followed by even numbers. Total valid instances = 6.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q035",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Number Ranking and Sequence",
+      "statementLines": [
+        "",
+        "A is 16th from the left end in a row of boys and V is 18th from the right end. G is 11th from A towards the right and 3rd from V towards the right end. How many boys are there in the row?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A is 16th from the left end in a row of boys and V is 18th from the right end. G is 11th from A towards the right and 3rd from V towards the right end. How many boys are there in the row?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "40",
+        "b": "41",
+        "c": "42",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Position of A from left = 16th.\n\n- G is 11th to the right of A. Position of G from left = 16 + 11 = 27th.\n\n- Position of V from right = 18th.\n\n- G is 3rd from V towards the right end. This means G is closer to the right end than V is. Position of G from right = 18 - 3 = 15th.\n\n- Total boys in row = (Position of G from left) + (Position of G from right) - 1\n\n- Total boys = 27 + 15 - 1 = 41.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q036",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Three Statements S1, S2 and S3 are given below followed by a Question:",
+        "S1: C is younger than D but older than A and B.",
+        "S2: D is the oldest.",
+        "S3: A is older than B.",
+        "Question: Who among A, B, C and D is the youngest?",
+        "Which one of the following is correct in respect of the above Statements and the Question?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Three Statements S1, S2 and S3 are given below followed by a Question:\n S1: C is younger than D but older than A and B.\n S2: D is the oldest.\n S3: A is older than B.\n Question: Who among A, B, C and D is the youngest?\n Which one of the following is correct in respect of the above Statements and the Question?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "S1 alone is sufficient to answer the Question.",
+        "b": "S1 and S2 together are sufficient to answer the Question.",
+        "c": "S2 and S3 together are sufficient to answer the Question.",
+        "d": "S1 and S3 together are sufficient to answer the Question."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- From S1: D > C > A, B. This dictates that D and C are the oldest, but leaves the order between A and B unresolved. (S2 is completely redundant because S1 already proves D is the oldest).\n\n- From S3: A > B.\n\n- Combining S1 and S3 generates a strict hierarchy: D > C > A > B.\n\n- This definitively answers the question that B is the youngest. S1 and S3 together are perfectly sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q037",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "How many integers are there between 1 and 100 which have 4 as a digit but are not divisible by 4?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many integers are there between 1 and 100 which have 4 as a digit but are not divisible by 4?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "5",
+        "b": "11",
+        "c": "12",
+        "d": "13"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- First, list all numbers between 1 and 100 containing the digit 4: 4, 14, 24, 34, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 54, 64, 74, 84, 94. (Total = 19 numbers).\n\n- Next, identify the numbers from this list that ARE perfectly divisible by 4: 4, 24, 40, 44, 48, 64, 84. (Total = 7 numbers).\n\n- To find the integers that have 4 as a digit but are NOT divisible by 4, subtract the sets: 19 - 7 = 12 integers.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q038",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Ratio and Proportion",
+      "statementLines": [
+        "",
+        "Let x, y be the volumes; m, n be the masses of two metallic cubes P and Q respectively. Each side of Q is two times that of P and mass of Q is two times that of P. Let u = m/x and v = n/y. Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let x, y be the volumes; m, n be the masses of two metallic cubes P and Q respectively. Each side of Q is two times that of P and mass of Q is two times that of P. Let u = m/x and v = n/y. Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "U = 4v",
+        "b": "U = 2v",
+        "c": "V = u",
+        "d": "V = 4u"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let the side length of cube P be 's'. Volume of P (x) = s³.\n\n- Side of cube Q = 2s. Volume of Q (y) = (2s)³ = 8s³ = 8x.\n\n- We are given Mass of P = m, and Mass of Q (n) = 2m.\n\n- The densities are defined as u = m/x and v = n/y.\n\n- Substitute the variables for Q: v = (2m) / (8x) = (1/4) * (m/x) = (1/4) * u.\n\n- Therefore, u = 4v.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q039",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "The average age of a teacher and three students is 20 years. If all the three students are of same age and the difference between the age of the teacher and each student is 20 years, then what is the age of the teacher?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The average age of a teacher and three students is 20 years. If all the three students are of same age and the difference between the age of the teacher and each student is 20 years, then what is the age of the teacher?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "25 years",
+        "b": "30 years",
+        "c": "35 years",
+        "d": "45 years"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the age of each student be 'S'. \n\n- The teacher's age is 20 years older than the student, so Teacher = S + 20.\n\n- Total combined age of the 4 people = (S + 20) + 3S = 4S + 20.\n\n- We are given the average age is 20: (4S + 20) / 4 = 20.\n\n- S + 5 = 20 => S = 15 years.\n\n- The teacher's age is S + 20 = 15 + 20 = 35 years.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q040",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Profit and Loss",
+      "statementLines": [
+        "",
+        "A person bought a car and sold it for ₹3,00,000. If he incurred a loss of 20%, then how much did he spend to buy the car?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A person bought a car and sold it for ₹3,00,000. If he incurred a loss of 20%, then how much did he spend to buy the car?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "₹3,60,000",
+        "b": "₹3,65,000",
+        "c": "₹3,70,000",
+        "d": "₹3,75,000"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Selling Price (SP) = Cost Price (CP) - Loss.\n\n- Since the loss is 20%, the SP represents 80% of the original Cost Price.\n\n- 0.80 × CP = ₹3,00,000.\n\n- CP = 3,00,000 / 0.80 = 30,00,000 / 8 = ₹3,75,000.\n\n——-",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q041",
+      "questionNumber": 41,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Spanish ships in the late 16th century first brought the potato tuber from South America to Europe whereby in the early 19th century, it had become a reliable backup to cereal crops, particularly in the cold, rain- soaked soils of Ireland.",
+        "The Irish were soon almost wholly dependent on the potato as their staple food.",
+        "And they were planting primarily one prodigious variety, the 'Lumper' potato, whose genetic frailty would be cruelly exposed by the fungus 'Phytophthora infestans'.",
+        "In 1845, spores of the deadly fungus began spreading across the country, destroying nearly all the Lumpers in its path.",
+        "The resulting famine killed or displaced millions.",
+        "Which one of the following statements best reflects the critical message of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Spanish ships in the late 16th century first brought the potato tuber from South America to Europe whereby in the early 19th century, it had become a reliable backup to cereal crops, particularly in the cold, rain- soaked soils of Ireland.\n The Irish were soon almost wholly dependent on the potato as their staple food.\n And they were planting primarily one prodigious variety, the 'Lumper' potato, whose genetic frailty would be cruelly exposed by the fungus 'Phytophthora infestans'.\n In 1845, spores of the deadly fungus began spreading across the country, destroying nearly all the Lumpers in its path.\n The resulting famine killed or displaced millions.\n Which one of the following statements best reflects the critical message of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "For introducing any foreign plant into a country, the soil and climate conditions of that country should be suitable.",
+        "b": "As a staple food of a country, tuber crops like potato cannot replace cereal crops.",
+        "c": "Some of the fungal infections of plants cannot be prevented or stopped from spreading across large areas.",
+        "d": "Relying on a homogeneous food source is not desirabl"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage illustrates the catastrophic consequences of the Irish becoming \"wholly dependent\" on a single, homogenous crop variety (the 'Lumper' potato).\n\n- Because this lack of genetic diversity (homogeneity) exposed them to a devastating famine when a fungus struck, the critical message is that relying on a single, homogeneous food source is highly undesirable and dangerous.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q042",
+      "questionNumber": 42,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "India is at once among the fastest growing global economies and home to the largest number of malnourished children in the world.",
+        "There are regions where malnutrition is not the exception but the norm.",
+        "And across the country, malnutrition is the cause of death for roughly half the 1.3 million children who die before their fifth birthday each year.",
+        "Even those children who survive suffer permanently from the damage that has already been done to their bodies and minds from not getting enough of the right foods and nutrients.",
+        "Around 44 million children under 5 are stunted. That makes it harder for them to learn in school and subsequently earn a living as adults.",
+        "Their lifetime earnings potential is almost a quarter less than that of their healthy peers.",
+        "With reference to the above passage, which of the following is/are the most rational and practical implication/implications?",
+        "1. India's Public Distribution System should be monitored by the Union Government.",
+        "2. Girls should be encouraged to delay marriage and first pregnancy.",
+        "3. Mothers should be encouraged to breastfeed their children immediately after birth.",
+        "4. The supply of safe drinking water and proper sanitation facilities to all should be ensured.",
+        "5. Authorities should ensure the vaccination as prescribed.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "India is at once among the fastest growing global economies and home to the largest number of malnourished children in the world.\n There are regions where malnutrition is not the exception but the norm.\n And across the country, malnutrition is the cause of death for roughly half the 1.3 million children who die before their fifth birthday each year.\n Even those children who survive suffer permanently from the damage that has already been done to their bodies and minds from not getting enough of the right foods and nutrients.\n Around 44 million children under 5 are stunted. That makes it harder for them to learn in school and subsequently earn a living as adults.\n Their lifetime earnings potential is almost a quarter less than that of their healthy peers.\n With reference to the above passage, which of the following is/are the most rational and practical implication/implications?\n 1. India's Public Distribution System should be monitored by the Union Government.\n 2. Girls should be encouraged to delay marriage and first pregnancy.\n 3. Mothers should be encouraged to breastfeed their children immediately after birth.\n 4. The supply of safe drinking water and proper sanitation facilities to all should be ensured.\n 5. Authorities should ensure the vaccination as prescribed.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2, 3 and 4",
+        "b": "2, 3, 4 and 5",
+        "c": "1 only",
+        "d": "3 and 5 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n-\n\nStatement 1 is incorrect because the passage focuses on the health and nutritional outcomes of malnutrition, not the administrative control or federal monitoring of the PDS.\n\n- Statements 2, 3, 4, and 5 are widely recognized, practical, and rational policy implications to tackle the multi-dimensional root causes of childhood malnutrition, stunting, and disease mortality described in the passage (such as delaying pregnancy, breastfeeding, sanitation to prevent disease, and vaccination).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q043",
+      "questionNumber": 43,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "In northern India, paddy is the main crop during the kharif season.",
+        "Paddy straw is a major byproduct which is generally burnt by farmers to clear the fields for the next crop.",
+        "This leads to severe air pollution. Pulse cultivation, on the other hand, leaves behind a residue that is rich in nitrogen and can be ploughed back into the soil to improve its fertility.",
+        "Pulses require less water and are less susceptible to pests. They also help in fixing atmospheric nitrogen in the soil.",
+        "Thus, shifting some area from paddy to pulses can have multiple benefits.",
+        "Which of the following are the most rational inferences that can be made from the passage?",
+        "1. Farmers' income will be higher with pulse cultivation than with paddy cultivation.",
+        "2. Pulse cultivation causes less pollution as compared to paddy cultivation.",
+        "3. Pulse straw can be used to improve soil quality.",
+        "4. In the context of northern Indian agriculture, paddy straw has no usefulness.",
+        "5. Mechanized agriculture is the main cause for stubble burning.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In northern India, paddy is the main crop during the kharif season.\n Paddy straw is a major byproduct which is generally burnt by farmers to clear the fields for the next crop.\n This leads to severe air pollution. Pulse cultivation, on the other hand, leaves behind a residue that is rich in nitrogen and can be ploughed back into the soil to improve its fertility.\n Pulses require less water and are less susceptible to pests. They also help in fixing atmospheric nitrogen in the soil.\n Thus, shifting some area from paddy to pulses can have multiple benefits.\n Which of the following are the most rational inferences that can be made from the passage?\n 1. Farmers' income will be higher with pulse cultivation than with paddy cultivation.\n 2. Pulse cultivation causes less pollution as compared to paddy cultivation.\n 3. Pulse straw can be used to improve soil quality.\n 4. In the context of northern Indian agriculture, paddy straw has no usefulness.\n 5. Mechanized agriculture is the main cause for stubble burning.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2, 3 and 5",
+        "b": "1, 4 and 5",
+        "c": "2 and 3 only",
+        "d": "1 and 4 only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 2 is a valid inference. Paddy burning leads to \"severe air pollution,\" whereas pulse residue is \"ploughed back into the soil\", implying it creates less pollution.\n\n- Statement 3 is explicitly supported by the text: pulse residue is \"rich in nitrogen and can be ploughed back into the soil to improve its fertility.\"\n\n- Statement 1 (farmers' income), Statement 4 (paddy having absolutely no use), and Statement 5 (mechanized agriculture) contain extreme leaps or introduce outside information not supported by the passage.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q044",
+      "questionNumber": 44,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "In India, authorities always look to store the maximum amount of water in reservoirs during the monsoon season, which is then used for irrigation and generation of electricity during the summer months.",
+        "It is an internationally accepted practice that the water level of a reservoir should be kept below a certain level before the onset of monsoon season.",
+        "This is so that when monsoon rains come, there is space to store the excess rainwater and also so that water can be released in a regulated manner.",
+        "But the authorities store the maximum amount of water in reservoirs even before the close of the monsoon, only to ensure greater electricity generation and irrigation.",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. High risks involved in holding maximum water in reservoirs are due to our over-dependence on hydropower projects.",
+        "2. Storage capacity of dams should not be fully used before or during monsoon season.",
+        "3. Role of dams in flood control is underestimated in India.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In India, authorities always look to store the maximum amount of water in reservoirs during the monsoon season, which is then used for irrigation and generation of electricity during the summer months.\n It is an internationally accepted practice that the water level of a reservoir should be kept below a certain level before the onset of monsoon season.\n This is so that when monsoon rains come, there is space to store the excess rainwater and also so that water can be released in a regulated manner.\n But the authorities store the maximum amount of water in reservoirs even before the close of the monsoon, only to ensure greater electricity generation and irrigation.\n With reference to the above passage, the following assumptions have been made:\n 1. High risks involved in holding maximum water in reservoirs are due to our over-dependence on hydropower projects.\n 2. Storage capacity of dams should not be fully used before or during monsoon season.\n 3. Role of dams in flood control is underestimated in India.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> Many independent educators argue that Statement 1 is an overreach because \"over-dependence\" is a strong word not explicitly stated. However, the official UPSC answer key designates (d) as correct. \n\n- The logic validates Statement 1 because the passage states authorities ignore safety rules \"only to ensure greater electricity generation\", heavily implying a systemic over-dependence on these dams for power.\n\n- Statement 2 is valid as the passage explicitly advocates for keeping water \"below a certain level\" to maintain space for excess rain.\n\n- Statement 3 is valid because authorities ignore the regulated release (flood control aspect) in favor of irrigation and electricity, showing flood control is underestimated.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q045",
+      "questionNumber": 45,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "India's economic growth has been impressive in recent years. However, this growth has not been accompanied by a commensurate increase in employment.",
+        "The service sector, which is the main driver of growth, is not very labour-intensive.",
+        "The manufacturing sector, which has the potential to absorb large numbers of workers, has remained stagnant.",
+        "The challenge is to revive manufacturing and to impart skills to the workforce so that they can take advantage of the opportunities in the service sector.",
+        "At the same time, there is a need to rethink the economic role of the State in the quest for development.",
+        "Which of the following is/are the most rational and logical inference/inferences that can be made from the passage?",
+        "1. It is essential to rethink and redefine the economic role of the State in the quest for development.",
+        "2. India has not made effective implementation of its policies in social sectors nor made sufficient investments in them.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "India's economic growth has been impressive in recent years. However, this growth has not been accompanied by a commensurate increase in employment.\n The service sector, which is the main driver of growth, is not very labour-intensive.\n The manufacturing sector, which has the potential to absorb large numbers of workers, has remained stagnant.\n The challenge is to revive manufacturing and to impart skills to the workforce so that they can take advantage of the opportunities in the service sector.\n At the same time, there is a need to rethink the economic role of the State in the quest for development.\n Which of the following is/are the most rational and logical inference/inferences that can be made from the passage?\n 1. It is essential to rethink and redefine the economic role of the State in the quest for development.\n 2. India has not made effective implementation of its policies in social sectors nor made sufficient investments in them.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is a direct rational inference heavily supported by the concluding sentence: \"there is a need to rethink the economic role of the State\".\n\n- Statement 2 is inferred from the author's critique that the workforce lacks skills and manufacturing is stagnant, which implies a failure in social sector policies (like education and vocational training) and a lack of sufficient systemic investment to impart those required skills.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q046",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. India's economy needs to be greatly integrated with global economy so as to create large number of jobs and to sustain its growth momentum.",
+        "2. Economic liberalization would cause large economic growth which would reduce poverty and create sufficient employment in the long run.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made:\n 1. India's economy needs to be greatly integrated with global economy so as to create large number of jobs and to sustain its growth momentum.\n 2. Economic liberalization would cause large economic growth which would reduce poverty and create sufficient employment in the long run.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage focuses entirely on domestic structural issues: the imbalance between the service and manufacturing sectors, lack of skills in the workforce, and the role of the State.\n\n- There is absolutely no mention of \"integration with the global economy\" (Statement 1) or the long-term effects of \"economic liberalization\" (Statement 2). Thus, neither assumption can be validly drawn from this specific text.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q047",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "A shop owner offers the following discount options on an article to a customer:",
+        "1. Successive discounts of 10% and 20%, and then pay a service tax of 10%",
+        "2. Successive discounts of 20% and 10%, and then pay a service tax of 10%",
+        "3. Pay a service tax of 10% first, then successive discounts of 20% and 10%",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A shop owner offers the following discount options on an article to a customer:\n 1. Successive discounts of 10% and 20%, and then pay a service tax of 10%\n 2. Successive discounts of 20% and 10%, and then pay a service tax of 10%\n 3. Pay a service tax of 10% first, then successive discounts of 20% and 10%\n Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only is the best option for the customer.",
+        "b": "2 only is the best option for the customer.",
+        "c": "3 only is the best option for the customer.",
+        "d": "All the options are equally good for the customer."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Let the initial price of the article be ₹100.\n\n- Option 1 calculation: 100 x 0.90 x 0.80 x 1.10 = ₹79.20.\n\n- Option 2 calculation: 100 x 0.80 x 0.90 x 1.10 = ₹79.20.\n\n- Option 3 calculation: 100 x 1.10 x 0.80 x 0.90 = ₹79.20.\n\n- Because multiplication is commutative (the order of multiplying percentages does not change the final product), the final price the customer pays is identical across all three options.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q048",
+      "questionNumber": 48,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "",
+        "The letters from A to Z are numbered from 1 to 26 respectively.",
+        "If GHI = 1578 and DEF = 912, then what is ABC equal to?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The letters from A to Z are numbered from 1 to 26 respectively.\n If GHI = 1578 and DEF = 912, then what is ABC equal to?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "492",
+        "b": "468",
+        "c": "262",
+        "d": "246"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Map the letters to their alphabetical numbers: G=7, H=8, I=9. This forms the number 789.\n\n- The code for GHI is 1578, which is exactly 789 x 2.\n\n- Map DEF: D=4, E=5, F=6. This forms 456.\n\n- The code for DEF is 912, which is exactly 456 x 2.\n\n- Map ABC: A=1, B=2, C=3. This forms 123.\n\n- Following the established pattern: 123 x 2 = 246.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q049",
+      "questionNumber": 49,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Analogy",
+      "statementLines": [
+        "",
+        "What is the missing term @ in the following?",
+        "ACPQ : BESU :: MNGI : @",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the missing term @ in the following?\n ACPQ : BESU :: MNGI : @\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "NPJL",
+        "b": "NOJM",
+        "c": "NPIL",
+        "d": "NPJM"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Analyze the letter shifting pattern from ACPQ to BESU:\n  A + 1 = B\n  C + 2 = E\n  P + 3 = S\n  Q + 4 = U\n\n- Apply this exact (+1, +2, +3, +4) shifting pattern to MNGI:\n  M + 1 = N\n  N + 2 = P\n  G + 3 = J\n  I + 4 = M\n\n- The resulting string is NPJM.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q050",
+      "questionNumber": 50,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "What is the largest number among the following?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the largest number among the following?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "(1/2)⁻⁶",
+        "b": "(1/4)⁻³",
+        "c": "(1/3)⁻⁴",
+        "d": "(1/6)⁻²"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- A negative exponent flips the fraction. Convert all options to positive exponents:\n\n- (a) (1/2)⁻⁶ = 2⁶ = 64\n\n- (b) (1/4)⁻³ = 4³ = 64\n\n- (c) (1/3)⁻⁴ = 3⁴ = 81\n\n- (d) (1/6)⁻² = 6² = 36\n\n- Comparing the evaluated numbers (64, 64, 81, 36), the largest value is 81, corresponding to option (c).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q051",
+      "questionNumber": 51,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the greatest length x such that 3½ m and 8¾ m are integral multiples of x?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the greatest length x such that 3½ m and 8¾ m are integral multiples of x?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1½ m",
+        "b": "1⅓ m",
+        "c": "1¼ m",
+        "d": "1¾ m"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- First, convert the mixed numbers into improper fractions:\n  3½ = 7/2\n  8¾ = 35/4\n\n- The greatest length 'x' that divides both perfectly is the Highest Common Factor (HCF) of the two fractions.\n\n- The formula for the HCF of fractions is: HCF of numerators / LCM of denominators.\n\n- HCF of 7 and 35 = 7.\n\n- LCM of 2 and 4 = 4.\n\n- Therefore, the HCF is 7/4.\n\n- Converting 7/4 back to a mixed fraction yields 1¾ m.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q052",
+      "questionNumber": 52,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Data Interpretation",
+      "statementLines": [
+        "",
+        "Consider the following data:",
+        "Year | Birth rate | Death rate",
+        "1911-1921 | 48.1 | 35.5",
+        "1921-1931 | 46.4 | 36.3",
+        "1931-1941 | 45.2 | 31.2",
+        "1941-1951 | 39.9 | 27.4",
+        "1951-1961 | 41.7 | 22.8",
+        "1961-1971 | 41.1 | 18.9",
+        "1971-1981 | 37.1 | 14.8",
+        "For which period was the natural growth rate maximum?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following data:\n Year | Birth rate | Death rate\n 1911-1921 | 48.1 | 35.5\n 1921-1931 | 46.4 | 36.3\n 1931-1941 | 45.2 | 31.2\n 1941-1951 | 39.9 | 27.4\n 1951-1961 | 41.7 | 22.8\n 1961-1971 | 41.1 | 18.9\n 1971-1981 | 37.1 | 14.8\n For which period was the natural growth rate maximum?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1911-1921",
+        "b": "1941-1951",
+        "c": "1961-1971",
+        "d": "1971-1981"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Natural growth rate is calculated as the difference between the Birth rate and the Death rate.\n\n- For **1911-19**21: 48.1 - 35.5 = 12.6\n\n- For **1941-19**51: 39.9 - 27.4 = 12.5\n\n- For **1961-19**71: 41.1 - 18.9 = 22.2\n\n- For **1971-19**81: 37.1 - 14.8 = 22.3\n\n- The maximum natural growth rate was 22.3, which occurred in the **1971-19**81 period.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q053",
+      "questionNumber": 53,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "The recurring decimal representation 1.272727... is equivalent to",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The recurring decimal representation 1.272727... is equivalent to\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "13/11",
+        "b": "14/11",
+        "c": "127/99",
+        "d": "137/99"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Let x = 1.272727...\n\n- Since two digits are repeating, multiply the equation by 100: 100x = 127.272727...\n\n- Subtract the original equation from this new equation:\n  100x - x = 127.2727... - 1.2727...\n  99x = 126\n\n- Solve for x: x = 126 / 99.\n\n- Simplify the fraction by dividing the numerator and denominator by their greatest common divisor (9): (126/9) / (99/9) = 14 / 11.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q054",
+      "questionNumber": 54,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the least four-digit number when divided by 3, 4, 5 and 6 leaves a remainder 2 in each case?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the least four-digit number when divided by 3, 4, 5 and 6 leaves a remainder 2 in each case?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1012",
+        "b": "1022",
+        "c": "1122",
+        "d": "1222"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- First, find the Least Common Multiple (LCM) of the divisors 3, 4, 5, and 6. The LCM is 60.\n\n- This means any number that fits the condition will take the form (60k + 2), where k is an integer.\n\n- We need the smallest 4-digit number of this form. The smallest 4-digit number is 1000.\n\n- Divide 1000 by 60: 1000 / 60 = 16.66. The next whole integer multiple is 17.\n\n- 60 x 17 = 1020. (This is the least 4-digit number perfectly divisible by all four divisors).\n\n- Add the required remainder of 2: 1020 + 2 = 1022.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q055",
+      "questionNumber": 55,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "In adult population of a city, 40% men and 30% women are married.",
+        "What is the percentage of married adult population if no man marries more than one woman and no woman marries more than one man;",
+        "and there are no widows and widowers?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In adult population of a city, 40% men and 30% women are married.\n What is the percentage of married adult population if no man marries more than one woman and no woman marries more than one man;\n and there are no widows and widowers?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "33⅓%",
+        "b": "34%",
+        "c": "34²⁄₇%",
+        "d": "35%"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the total number of men be M and the total number of women be W.\n\n- Given the monogamy rule, the absolute number of married men must exactly equal the number of married women.\n\n- Therefore, 40% of M = 30% of W, which simplifies to 0.4M = 0.3W, or M/W = 3/4.\n\n- Let M = 300 and W = 400 (satisfying the 3:4 ratio). Total population = 700.\n\n- Number of married men = 40% of 300 = 120.\n\n- Number of married women = 30% of 400 = 120.\n\n- Total married individuals = 120 + 120 = 240.\n\n- Percentage of married population = (Total married / Total population) x 100 = (240 / 700) x 100 = 2400 / 70 = 240 / 7 = 34²⁄₇%.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q056",
+      "questionNumber": 56,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the remainder when 51 × 27 × 35 × 62 × 75 is divided by 100?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the remainder when 51 × 27 × 35 × 62 × 75 is divided by 100?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "50",
+        "b": "25",
+        "c": "5",
+        "d": "1"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Expand the expression into its prime factors to analyze divisibility by 100 (which is 25 x 4).\n\n- Expression: 51 × 27 × (5 × 7) × (2 × 31) × (25 × 3).\n\n- Group the factors: 51 × 27 × 7 × 31 × 3 × (5 × 25) × 2 = (odd numbers) × 125 × 2 = (odd numbers) × 250.\n\n- Notice the term 250. This means the entire product is a multiple of 250, which fundamentally means it is a multiple of 50.\n\n- A multiple of 50 can only end in '00' or '50'. If it ends in '00', the remainder divided by 100 is 0. If it ends in '50', the remainder is 50.\n\n- For the product to end in '00' (be a multiple of 100), it must contain at least two 2s (since 100 = 25 x 4). However, looking at the initial numbers (51, 27, 35, 62, 75), only 62 is even, providing exactly one factor of 2. \n\n- Since there is only one factor of 2 in the entire product, it cannot be a multiple of 100, but it is a multiple of 50. Therefore, the remainder when divided by 100 is 50.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q057",
+      "questionNumber": 57,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Ratio and Proportion",
+      "statementLines": [
+        "",
+        "A sum of ₹2,500 is distributed among X, Y and Z in the ratio 1/2 : 3/4 : 5/6.",
+        "What is the difference between the maximum share and the minimum share?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A sum of ₹2,500 is distributed among X, Y and Z in the ratio 1/2 : 3/4 : 5/6.\n What is the difference between the maximum share and the minimum share?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "₹300",
+        "b": "₹350",
+        "c": "₹400",
+        "d": "₹450"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- To simplify the ratio 1/2 : 3/4 : 5/6, find the LCM of the denominators (2, 4, 6), which is 12.\n\n- Multiply the entire ratio by 12: (1/2 x 12) : (3/4 x 12) : (5/6 x 12) = 6 : 9 : 10.\n\n- The total parts in the ratio = 6 + 9 + 10 = 25 parts.\n\n- Total sum is ₹2,500. So, the value of 1 part = 2500 / 25 = ₹100.\n\n- The maximum share is 10 parts, and the minimum share is 6 parts.\n\n- The difference is 10 - 6 = 4 parts.\n\n- Difference in value = 4 x ₹100 = ₹400.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q058",
+      "questionNumber": 58,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "For what value of n, the sum of digits in the number (10ⁿ + 1) is 2?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "For what value of n, the sum of digits in the number (10ⁿ + 1) is 2?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "For n = 0 only",
+        "b": "For any whole number n",
+        "c": "For any positive integer n only",
+        "d": "For any real number n"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Let's test whole numbers for n (0, 1, 2, 3...).\n\n- If n = 0: 10⁰ + 1 = 1 + 1 = 2. The sum of the digits is 2.\n\n- If n = 1: 10¹ + 1 = 10 + 1 = 11. The sum of the digits (1+1) is 2.\n\n- If n = 2: 10² + 1 = 100 + 1 = 101. The sum of the digits (1+0+1) is 2.\n\n- For any whole number n, the resulting number will be a '1' followed by zeroes, ending in a '1'. The sum of the digits will always be exactly 2.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q059",
+      "questionNumber": 59,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "In a class, there are three groups A, B and C. If one student from group A and two students from group B are shifted to group C, then what happens to the average weight of the students of the class?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In a class, there are three groups A, B and C. If one student from group A and two students from group B are shifted to group C, then what happens to the average weight of the students of the class?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It increases.",
+        "b": "It decreases.",
+        "c": "It remains the same.",
+        "d": "No conclusion can be drawn due to insufficient data."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The shifting of students is happening internally among groups (A, B, C) that are all contained within the exact same \"class\".\n\n- The average weight of the class is calculated as the (Total sum of weights of all students) / (Total number of students).\n\n- Because no students are leaving the class entirely, and no new students are entering from outside, neither the total sum of weights nor the total headcount changes.\n\n- Therefore, the overall average weight of the class remains identically the same.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q060",
+      "questionNumber": 60,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "How many different sums can be formed with the denominations ₹50, ₹100, ₹200, ₹500 and ₹2,000 taking at least three denominations at a time?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many different sums can be formed with the denominations ₹50, ₹100, ₹200, ₹500 and ₹2,000 taking at least three denominations at a time?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "16",
+        "b": "15",
+        "c": "14",
+        "d": "10"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- We have 5 distinct denominations. We must choose combinations of 3, 4, or 5 at a time.\n\n- Because the denominations are spaced far apart (50, 100, 200, 500, 2000), no combination of smaller notes can add up to equal a larger note (e.g., 50+100+200 = 350, which cannot mimic 500). Thus, every unique combination yields a unique mathematical sum.\n\n- Number of sums taking 3 at a time = 5C3 = 10.\n\n- Number of sums taking 4 at a time = 5C4 = 5.\n\n- Number of sums taking 5 at a time = 5C5 = 1.\n\n- Total different sums = 10 + 5 + 1 = 16.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q061",
+      "questionNumber": 61,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Bank credit to the industrial sector has started shrinking. Its decline has been a serious concern as credit growth is essential to revive investment.",
+        "The problem's origins lie in the incomplete reforms of the last 25 years.",
+        "An institutional change that should have followed the 1991 reforms should have been setting up of a resolution corporation for banks.",
+        "In a market economy with booms and busts, banks should be allowed to be set up and to fail.",
+        "Today, we cannot shut down banks because there is no proper system to shut them down.",
+        "Weak loss- making banks continue to need more capital.",
+        "Which one of the following is the most logical and rational inference that can be made from the above passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Bank credit to the industrial sector has started shrinking. Its decline has been a serious concern as credit growth is essential to revive investment.\n The problem's origins lie in the incomplete reforms of the last 25 years.\n An institutional change that should have followed the 1991 reforms should have been setting up of a resolution corporation for banks.\n In a market economy with booms and busts, banks should be allowed to be set up and to fail.\n Today, we cannot shut down banks because there is no proper system to shut them down.\n Weak loss- making banks continue to need more capital.\n Which one of the following is the most logical and rational inference that can be made from the above passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Indian banking system is not able to help the country in its economic growth.",
+        "b": "Economic reforms that started in 1991 have not helped in improving the economy to expected levels.",
+        "c": "India lacks the institutional mechanism to deal with the failure of banks.",
+        "d": "Encouraging the foreign investments in our industrial sector is a good alternative to this sector's dependence on banks for credit."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage argues that setting up a \"resolution corporation for banks\" was a missed institutional change.\n\n- It explicitly concludes: \"Today, we cannot shut down banks because there is no proper system to shut them down.\"\n\n- This perfectly aligns with the inference that India currently lacks the necessary institutional mechanism to safely handle bank failures.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q062",
+      "questionNumber": 62,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "India has tremendous potential for solar energy.",
+        "We all realize that we have to stop burning fossil fuels to meet our energy needs.",
+        "But certain renewable resources are still going through their cost curves and learning curves to get the required amount of output.",
+        "The Indian Government has strongly committed to its targets of reducing emissions by 33 per cent by 2030, and towards this it has initiated a strong push towards a gas- based economy and has also invested heavily in renewable energy.",
+        "However, business houses are wary of investing too heavily in renewable energy at a time when the technology is not yet ready.",
+        "Which one of the following is the most logical and rational inference that can be made from the above passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "India has tremendous potential for solar energy.\n We all realize that we have to stop burning fossil fuels to meet our energy needs.\n But certain renewable resources are still going through their cost curves and learning curves to get the required amount of output.\n The Indian Government has strongly committed to its targets of reducing emissions by 33 per cent by 2030, and towards this it has initiated a strong push towards a gas- based economy and has also invested heavily in renewable energy.\n However, business houses are wary of investing too heavily in renewable energy at a time when the technology is not yet ready.\n Which one of the following is the most logical and rational inference that can be made from the above passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "India's commitment to reduce emissions by 33% is unlikely to be achieved.",
+        "b": "India should import gas rather than invest in renewable resources.",
+        "c": "Getting renewable resources to market too soon may be costly.",
+        "d": "India should put in more efforts in the exploration of natural gas."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage cautions that renewable resources are \"still going through their cost curves and learning curves\" and that \"business houses are wary of investing... when the technology is not yet ready.\"\n\n- Because the technology is unready and on a learning curve, the logical inference is that trying to force these renewable resources to market too quickly carries high risks and high costs.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q063",
+      "questionNumber": 63,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Governments often provide inefficient and costly subsidies for technologies that may not be ready in the near future.",
+        "2. India's commitment of reducing emissions by 33% by 2030 shall be on the basis of gas- based economy.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made:\n 1. Governments often provide inefficient and costly subsidies for technologies that may not be ready in the near future.\n 2. India's commitment of reducing emissions by 33% by 2030 shall be on the basis of gas- based economy.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is a valid underlying assumption because the passage highlights the Government has \"invested heavily in renewable energy\" despite the fact that business houses are wary because the \"technology is not yet ready\" and sits on an early \"cost curve.\" This implies that such aggressive state funding can be an inefficient/costly subsidy for unready tech.\n\n- Statement 2 is invalid because the text states India's strategy is twofold: pushing towards a gas-based economy AND investing heavily in renewable energy. It does not assume the commitment will be fulfilled solely on the basis of gas.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q064",
+      "questionNumber": 64,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "",
+        "Genome editing is a new technique that allows scientists to make precise changes to the DNA of plants, animals, and humans.",
+        "Unlike genetically modified organisms (GMOs), which typically involve the insertion of foreign genes, genome editing can be used to alter genes that are already present.",
+        "This makes it more akin to traditional breeding methods, but much faster and more precise.",
+        "For instance, scientists can use genome editing to develop crops that are resistant to drought or pests, or to enhance the nutritional content of food.",
+        "However, the technology also raises ethical concerns, particularly when applied to humans.",
+        "With reference to the above passage, the following assumptions have been made:",
+        "1. Genome editing does not require the transfer of genes from one plant to another.",
+        "2. Through genome editing, the chosen genes can be altered precisely in a manner akin to the natural process that helps plants to adapt to the environmental factors.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Genome editing is a new technique that allows scientists to make precise changes to the DNA of plants, animals, and humans.\n Unlike genetically modified organisms (GMOs), which typically involve the insertion of foreign genes, genome editing can be used to alter genes that are already present.\n This makes it more akin to traditional breeding methods, but much faster and more precise.\n For instance, scientists can use genome editing to develop crops that are resistant to drought or pests, or to enhance the nutritional content of food.\n However, the technology also raises ethical concerns, particularly when applied to humans.\n With reference to the above passage, the following assumptions have been made:\n 1. Genome editing does not require the transfer of genes from one plant to another.\n 2. Through genome editing, the chosen genes can be altered precisely in a manner akin to the natural process that helps plants to adapt to the environmental factors.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid. The passage draws a direct contrast with GMOs (which insert foreign genes), explicitly stating genome editing alters genes \"already present\", bypassing the need to transfer external genes.\n\n- Statement 2 is valid. The passage asserts this editing is \"akin to traditional breeding methods\" (which harness natural adaptation), allowing scientists to precisely develop crops resistant to environmental factors like drought and pests.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q065",
+      "questionNumber": 65,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Many people understand the connection between solid waste management and health in terms of the consequences of unattended heaps of dry garbage which become home for flies and other vermin.",
+        "However, there is another aspect that is not well- understood, that is, what happens when unscientific solid waste management combines with poor drainage and dumping of untreated sewage into drains which are meant to carry storm water during rains.",
+        "The result is choked drains which are full of stagnant water breeding mosquitoes, resulting in the spread of water- borne diseases.",
+        "In the context of India, which one of the following statements best reflects the critical message of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Many people understand the connection between solid waste management and health in terms of the consequences of unattended heaps of dry garbage which become home for flies and other vermin.\n However, there is another aspect that is not well- understood, that is, what happens when unscientific solid waste management combines with poor drainage and dumping of untreated sewage into drains which are meant to carry storm water during rains.\n The result is choked drains which are full of stagnant water breeding mosquitoes, resulting in the spread of water- borne diseases.\n In the context of India, which one of the following statements best reflects the critical message of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "In India, the drainage networks are not separate for sewerage and storm water.",
+        "b": "Urban local bodies do not have enough resources and legislative authority to deal with the problems of waste management.",
+        "c": "Solid waste management should be integrated with the maintenance of drainage and sewerage networks.",
+        "d": "Bad management of solid waste and sewerage systems by our municipalities is the reason for drinking water shortages in our cities."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage specifically highlights the catastrophic compounding effect of unscientific solid waste management combining with poor drainage and untreated sewage.\n\n- Because these elements interact to choke drains and spread disease, the critical overarching message is that solid waste management cannot be handled in isolation; it must be integrated with the maintenance of drainage and sewerage systems.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q066",
+      "questionNumber": 66,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "In Part III of the Constitution, which assures people certain fundamental rights, Article 25 proclaims that \"all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion\".",
+        "What people fail to notice is that this proclamation is prefixed with the words \"subject to public order, morality, health and to the other provisions of this Part\", which set conditions precedent for the legal protection of religious practices of any community.",
+        "The closing words of this prefatory rider in Article 25 virtually constitute a subordination clause placing other provisions of Part III above the freedom of religion.",
+        "What is the most logical inference from the above passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In Part III of the Constitution, which assures people certain fundamental rights, Article 25 proclaims that \"all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion\".\n What people fail to notice is that this proclamation is prefixed with the words \"subject to public order, morality, health and to the other provisions of this Part\", which set conditions precedent for the legal protection of religious practices of any community.\n The closing words of this prefatory rider in Article 25 virtually constitute a subordination clause placing other provisions of Part III above the freedom of religion.\n What is the most logical inference from the above passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "State shall not interfere with the religious affairs of the citizens.",
+        "b": "Religious freedom under the Constitution is open to State intervention.",
+        "c": "Religious freedom of the citizens is not covered under fundamental rights.",
+        "d": "Religious practices of any community are immune to State laws."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage argues that the constitutional right to religious freedom is strictly subordinated to higher conditions (\"public order, morality, health and to the other provisions\").\n\n- Because these conditions set a \"precedent for the legal protection,\" religious freedom is not absolute and is fully open to State intervention should it conflict with those superseding caveats.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q067",
+      "questionNumber": 67,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "How many different 5-letter words (with or without meaning) can be constructed using all the letters of the word 'DELHI' so that each word has to start with D and end with I?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many different 5-letter words (with or without meaning) can be constructed using all the letters of the word 'DELHI' so that each word has to start with D and end with I?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "24",
+        "b": "18",
+        "c": "12",
+        "d": "6"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The word is 5 letters: D, E, L, H, I. \n\n- We must form a 5-letter arrangement. The first position is absolutely fixed as 'D' (1 way). The last position is absolutely fixed as 'I' (1 way). \n\n- The remaining 3 middle positions must be filled using the remaining 3 letters (E, L, H). \n\n- The number of ways to arrange 3 letters in 3 spots is 3! (3 factorial). \n\n- 3! = 3 x 2 x 1 = 6 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q068",
+      "questionNumber": 68,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Mixture and Alligation",
+      "statementLines": [
+        "",
+        "A bottle contains 20 litres of liquid A. 4 litres of liquid A is taken out of it and replaced by same quantity of liquid B. Again 4 litres of the mixture is taken out and replaced by same quantity of liquid B. What is the ratio of quantity of liquid A to that of liquid B in the final mixture?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A bottle contains 20 litres of liquid A. 4 litres of liquid A is taken out of it and replaced by same quantity of liquid B. Again 4 litres of the mixture is taken out and replaced by same quantity of liquid B. What is the ratio of quantity of liquid A to that of liquid B in the final mixture?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "4:1",
+        "b": "5:1",
+        "c": "16:9",
+        "d": "17:8"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Initial volume of liquid A = 20 L.\n\n- First Operation: 4 L of A is removed, leaving 16 L of A. It is replaced with 4 L of B. Total volume remains 20 L. (The mixture is now 16/20 = 4/5 part A, and 1/5 part B).\n\n- Second Operation: 4 L of the MIXTURE is removed. The amount of liquid A removed in this step is 4 L x (4/5) = 16/5 = 3.2 L.\n\n- Remaining liquid A = 16 L - 3.2 L = 12.8 L.\n\n- Since the total volume is restored to 20 L with more liquid B, the final volume of B = 20 - 12.8 = 7.2 L.\n\n- Ratio of A to B = 12.8 : 7.2 = 128 : 72 = 16 : 9.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q069",
+      "questionNumber": 69,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "The average score of a batsman after his 50th innings was 46.4.",
+        "After 60th innings, his average score increases by 2.6. What was his average score in the last ten innings?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The average score of a batsman after his 50th innings was 46.4.\n After 60th innings, his average score increases by 2.6. What was his average score in the last ten innings?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "122",
+        "b": "91",
+        "c": "62",
+        "d": "49"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Total score after 50 innings = 50 x 46.4 = 2320.\n\n- The new average after 60 innings increases by 2.6, so New Average = 46.4 + 2.6 = 49.0.\n\n- Total score after 60 innings = 60 x 49.0 = 2940.\n\n- Runs scored exclusively in the last 10 innings = 2940 - 2320 = 620.\n\n- Average score in the last 10 innings = 620 / 10 = 62.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q070",
+      "questionNumber": 70,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "As a result of 25% hike in the price of rice per kg, a person is able to purchase 6 kg less rice for ₹1,200.",
+        "What was the original price of rice per kg?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "As a result of 25% hike in the price of rice per kg, a person is able to purchase 6 kg less rice for ₹1,200.\n What was the original price of rice per kg?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "₹30",
+        "b": "₹40",
+        "c": "₹50",
+        "d": "₹60"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Let the original price of rice be ₹x per kg. The original quantity purchased is 1200 / x.\n\n- After a 25% hike, the new price is 1.25x. The new quantity purchased is 1200 / 1.25x = 960 / x.\n\n- The difference in quantity is 6 kg. Therefore: (1200 / x) - (960 / x) = 6.\n\n- 240 / x = 6.\n\n- x = 240 / 6 = ₹40.\n\n- The original price was ₹40 per kg.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q071",
+      "questionNumber": 71,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "",
+        "A person X can complete 20% of work in 8 days and another person Y can complete 25% of the same work in 6 days.",
+        "If they work together, in how many days will 40% of the work be completed?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A person X can complete 20% of work in 8 days and another person Y can complete 25% of the same work in 6 days.\n If they work together, in how many days will 40% of the work be completed?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "12"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- X completes 20% (1/5) of the work in 8 days. Total time for X = 8 x 5 = 40 days. X's daily work rate = 1/40.\n\n- Y completes 25% (1/4) of the work in 6 days. Total time for Y = 6 x 4 = 24 days. Y's daily work rate = 1/24.\n\n- Combined work rate of X and Y = (1/40) + (1/24). LCM of 40 and 24 is 120. (3/120) + (5/120) = 8/120 = 1/15 per day.\n\n- They complete 1/15 of the work in 1 day. We need them to complete 40% (2/5) of the work.\n\n- Time required = (2/5) / (1/15) = (2/5) x 15 = 30 / 5 = 6 days.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q072",
+      "questionNumber": 72,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "",
+        "A car travels from a place X to place Y at an average speed of v km/hr, from Y to X at an average speed of 2v km/hr, again from X to Y at an average speed of 3v km/hr and again from Y to X at an average speed of 4v km/hr.",
+        "Then the average speed of the car for the entire journey",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A car travels from a place X to place Y at an average speed of v km/hr, from Y to X at an average speed of 2v km/hr, again from X to Y at an average speed of 3v km/hr and again from Y to X at an average speed of 4v km/hr.\n Then the average speed of the car for the entire journey\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Is less than v km/hr",
+        "b": "Lies between v and 2v km/hr",
+        "c": "Lies between 2v and 3v km/hr",
+        "d": "Lies between 3v and 4v km/hr"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Let the distance between X and Y be D. The car completes 4 identical legs, so Total Distance = 4D.\n\n- Time for Leg 1 = D / v\n\n- Time for Leg 2 = D / 2v\n\n- Time for Leg 3 = D / 3v\n\n- Time for Leg 4 = D / 4v\n\n- Total Time = (D/v) * (1 + 1/2 + 1/3 + 1/4) = (D/v) * (12/12 + 6/12 + 4/12 + 3/12) = (25D) / 12v.\n\n- Average Speed = Total Distance / Total Time = 4D / ((25D)/12v) = 48v / 25 = 1.92v km/hr.\n\n- 1.92v lies strictly between v and 2v km/hr.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q073",
+      "questionNumber": 73,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "Consider the following statements:",
+        "1. The minimum number of points of intersection of a square and a circle is 2.",
+        "2. The maximum number of points of intersection of a square and a circle is 8.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements:\n 1. The minimum number of points of intersection of a square and a circle is 2.\n 2. The maximum number of points of intersection of a square and a circle is 8.\n Which of the above statements is/are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n-\n\nStatement 1 is incorrect. A square and a circle can intersect at exactly 1 point (if the circle is perfectly tangent to just one outer edge of the square) or 0 points (if they do not overlap at all). Thus, the minimum is not 2.\n\n-\n\nStatement 2 is correct. A circle can cross any single straight line at most twice. Since a square has 4 straight sides, the absolute maximum number of intersection points is 4 sides x 2 intersections/side = 8 points.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q074",
+      "questionNumber": 74,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Boats and Streams",
+      "statementLines": [
+        "",
+        "A man takes half time in rowing a certain distance downstream than upstream.",
+        "What is the ratio of the speed in still water to the speed of current?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A man takes half time in rowing a certain distance downstream than upstream.\n What is the ratio of the speed in still water to the speed of current?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1:2",
+        "b": "2:1",
+        "c": "1:3",
+        "d": "3:1"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Let the speed in still water be V, and the speed of the current be C.\n\n- Speed downstream = V + C. Speed upstream = V - C.\n\n- Time = Distance / Speed. Let Distance be D.\n\n- We are given: Time downstream = (1/2) * Time upstream. \n\n- D / (V + C) = (1/2) * [D / (V - C)].\n\n- Canceling D and cross-multiplying gives: 2(V - C) = V + C.\n\n- 2V - 2C = V + C => V = 3C.\n\n- Therefore, the ratio of V : C is 3:1.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q075",
+      "questionNumber": 75,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "How many pairs of natural numbers are there such that the difference of whose squares is 63?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many pairs of natural numbers are there such that the difference of whose squares is 63?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "3",
+        "b": "4",
+        "c": "5",
+        "d": "2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The mathematical equation is x² - y² = 63. This factors to (x - y)(x + y) = 63.\n\n- Since x and y are natural numbers (positive integers), (x + y) and (x - y) must also be positive integers, and they must be factor pairs of 63 where (x + y) > (x - y).\n\n- The factor pairs of 63 are: (63, 1), (21, 3), and (9, 7).\n\n- Pair 1: x + y = 63, x - y = 1. Solving gives x = 32, y = 31.\n\n- Pair 2: x + y = 21, x - y = 3. Solving gives x = 12, y = 9.\n\n- Pair 3: x + y = 9, x - y = 7. Solving gives x = 8, y = 1.\n\n- Since all solutions yield valid natural numbers, there are exactly 3 pairs.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q076",
+      "questionNumber": 76,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Which one of the following will have minimum change in its value if 5 is added to both numerator and the denominator of the fractions 2/3, 3/4, 4/5 and 5/6?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which one of the following will have minimum change in its value if 5 is added to both numerator and the denominator of the fractions 2/3, 3/4, 4/5 and 5/6?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2/3",
+        "b": "3/4",
+        "c": "4/5",
+        "d": "5/6"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Mathematically evaluate the shift for each fraction when adding 5 to top and bottom:\n\n  - 2/3 (0.666) -> 7/8 (0.875). Change = 0.208\n\n  - 3/4 (0.750) -> 8/9 (0.888). Change = 0.138\n\n  - 4/5 (0.800) -> 9/10 (0.900). Change = 0.100\n\n  - 5/6 (0.833) -> 10/11 (0.909). Change = 0.076\n\n- A mathematical property of proper fractions is that the larger the initial fraction's components, the smaller the relative impact of adding a fixed constant. Thus, 5/6 experiences the minimum change.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q077",
+      "questionNumber": 77,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "A digit n > 3 is divisible by 3 but not divisible by 6. Which one of the following is divisible by 4?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A digit n > 3 is divisible by 3 but not divisible by 6. Which one of the following is divisible by 4?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2n",
+        "b": "3n",
+        "c": "2n + 4",
+        "d": "3n + 1"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The available single digits where n > 3 are 4, 5, 6, 7, 8, 9.\n\n- The digit must be divisible by 3, narrowing the list to 6 and 9.\n\n- The digit must NOT be divisible by 6. This eliminates 6, meaning n must definitively be 9.\n\n- Substitute n = 9 into the options:\n\n  - (a) 2(9) = 18 (Not divisible by 4)\n\n  - (b) 3(9) = 27 (Not divisible by 4)\n\n  - (c) 2(9) + 4 = 22 (Not divisible by 4)\n\n  - (d) 3(9) + 1 = 28 (Perfectly divisible by 4)",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q078",
+      "questionNumber": 78,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "If 1 litre of water weighs 1 kg, then how many cubic millimetres of water will weigh 0.1 gm?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If 1 litre of water weighs 1 kg, then how many cubic millimetres of water will weigh 0.1 gm?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1",
+        "b": "10",
+        "c": "100",
+        "d": "1000"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- 1 Litre is equal to 1,000,000 cubic millimetres (mm³).\n\n- 1 kg is equal to 1000 grams (g).\n\n- We are given that 1,000,000 mm³ of water weighs 1000 g.\n\n- This establishes that 1000 mm³ weighs exactly 1 g.\n\n- To find the volume that weighs 0.1 g, multiply by 0.1: 1000 mm³ * 0.1 = 100 mm³.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q079",
+      "questionNumber": 79,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "A vessel full of water weighs 40 kg. If it is one-third filled, its weight becomes 20 kg.",
+        "What is the weight of the empty vessel?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A vessel full of water weighs 40 kg. If it is one-third filled, its weight becomes 20 kg.\n What is the weight of the empty vessel?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10 kg",
+        "b": "15 kg",
+        "c": "20 kg",
+        "d": "25 kg"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let the empty weight of the vessel be V, and the weight of the water at full capacity be W.\n\n- From the first sentence: V + W = 40 kg.\n\n- From the second sentence: V + W/3 = 20 kg.\n\n- Subtract the second equation from the first equation: (V + W) - (V + W/3) = 40 - 20.\n\n- (2/3)W = 20 => W = (20 x 3) / 2 = 30 kg.\n\n- Substitute W back into the first equation: V + 30 = 40 => V = 10 kg.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    },
+    {
+      "id": "upsc-cse-pyq-2020-gs2-q080",
+      "questionNumber": 80,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "A frog tries to come out of a dried well 4.5 m deep with slippery walls.",
+        "Every time the frog jumps 30 cm, slides down 15 cm.",
+        "What is the number of jumps required for the frog to come out of the well?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A frog tries to come out of a dried well 4.5 m deep with slippery walls.\n Every time the frog jumps 30 cm, slides down 15 cm.\n What is the number of jumps required for the frog to come out of the well?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "28",
+        "b": "29",
+        "c": "30",
+        "d": "31"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The total depth of the well is 4.5 meters, which is exactly 450 cm.\n\n- The frog's effective climb per jump cycle is 30 cm - 15 cm = 15 cm.\n\n- The critical logic trap is the final jump: once the frog reaches the rim (the final 30 cm), it escapes and does not slide back down.\n\n- So, calculate the jumps required to reach the \"striking distance\" of the rim: 450 cm - 30 cm = 420 cm.\n\n- Number of cycles (jumps with slipping) required to reach 420 cm = 420 / 15 = 28 jumps.\n\n- From the 420 cm mark, the 29th jump will propel the frog exactly 30 cm upwards, reaching 450 cm and escaping the well. \n\n- Total jumps required = 29.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2020"
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "upsc_official",
+  "institute_name": "UPSC",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

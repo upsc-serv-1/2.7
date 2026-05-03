@@ -1,0 +1,46 @@
+{
+  "id": "test-multiple-explanations",
+  "title": "Test Multiple Explanations",
+  "provider": "Test Provider",
+  "subject": "Test Subject",
+  "questions": [
+    {
+      "id": "q1",
+      "questionNumber": 1,
+      "questionText": "What is the capital of India?",
+      "options": {
+        "a": "Mumbai",
+        "b": "New Delhi",
+        "c": "Kolkata",
+        "d": "Chennai"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\nNew Delhi is the capital of India.",
+      "explanations": [
+        {
+          "source": "Prisma IAS",
+          "markdown": "**Exp) Option b is the correct answer.**\nNew Delhi is the capital of India. It was made the capital in 1911 when the British shifted their capital from Kolkata."
+        },
+        {
+          "source": "Forum IAS",
+          "markdown": "**Exp) Option b is the correct answer.**\nNew Delhi is the capital of India. It is a union territory and serves as the seat of all three branches of the Government of India."
+        }
+      ],
+      "availableSources": ["Prisma IAS", "Forum IAS"],
+      "selectedSource": "Prisma IAS"
+    },
+    {
+      "id": "q2",
+      "questionNumber": 2,
+      "questionText": "What is the largest ocean on Earth?",
+      "options": {
+        "a": "Atlantic Ocean",
+        "b": "Indian Ocean",
+        "c": "Pacific Ocean",
+        "d": "Arctic Ocean"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\nThe Pacific Ocean is the largest ocean on Earth."
+    }
+  ]
+}

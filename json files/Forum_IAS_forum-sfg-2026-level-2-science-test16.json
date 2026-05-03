@@ -1,0 +1,1828 @@
+{
+  "id": "forum-sfg-2026-level-2-science-test16",
+  "title": "Test 16- L2 SFG 2026 - Sectional - Science   Technology",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q01",
+      "questionNumber": 1,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In the context of electric vehicle batteries, consider the following elements:",
+        "I. Cobalt",
+        "II. Graphite",
+        "III. Lithium",
+        "IV. Nickel",
+        "How many of the above usually make up battery cathodes?"
+      ],
+      "questionText": "In the context of electric vehicle batteries, consider the following elements: I. Cobalt II. Graphite III. Lithium IV. Nickel How many of the above usually make up battery cathodes?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Most electric vehicles use lithium-ion batteries. These batteries have two key electrodes:\n- Cathode (positive electrode): This is where lithium ions are stored when the battery is discharged.\n- Anode (negative electrode): This is where lithium ions move during charging.\nThe cathode material determines the battery’s energy capacity, lifespan, and safety. Option I is correct: Cobalt – Used in Cathode Cobalt is commonly used in EV battery cathodes, particularly in chemistries like Nickel Manganese Cobalt Oxide (NMC) and Nickel Cobalt Aluminum Oxide (NCA). It enhances energy density and stability.\nOption II is incorrect: Graphite – Used in Anode Graphite is the most common material used for the anode (the negative electrode) in lithium-ion batteries, not the cathode.\nOption III is correct: Lithium – Used in Cathode Lithium is a fundamental element in lithium-ion batteries, and it is present in the cathode material (e.g., lithium cobalt oxide, lithium iron phosphate, lithium nickel manganese cobalt oxide). The movement of lithium ions between the cathode and anode is how the battery stores and releases energy.\nOption IV is correct: Nickel – Used in Cathode Nickel is a key element in many high-energy density EV battery cathodes, such as NMC and NCA. It contributes to higher energy density and allows for longer driving ranges.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q02",
+      "questionNumber": 2,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements with respect to the Synthetic Human Genome Project:",
+        "I. It was launched by the World Health Organization (WHO).",
+        "II. It will, for the first time, enable scientists to read the whole sequence of the human genome.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to the Synthetic Human Genome Project: I. It was launched by the World Health Organization (WHO). II. It will, for the first time, enable scientists to read the whole sequence of the human genome. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect: The Synthetic Human Genome Project was launched by scientific research groups and academic consortia, not by intergovernmental bodies like WHO. It is a private-public consortium rather than an initiative of a global health body like the WHO. Recently a UK-based laboratory started the Synthetic Human Genome Project initiative to construct human DNA from scratch.\nStatement II is incorrect: In 1990, a group of scientists began to work on determining the whole sequence of the human genome under the Human Genome Project. The process of whole-genome sequencing, made possible by the Human Genome Project, now facilitates the reading of a person’s individual genome to identify differences from the average human genome. These differences or mutations can tell us about each human’s susceptibility or future vulnerability to a disease, their reaction or sensitivity to a particular stimulus, and so on. The 1990 project was a read only. In 2016 another project, called the Human Genome Project–write (HGP-write) was launched to synthesise a human genome from scratch. The Synthetic Human Genome Project builds on the Human Genome Project, where the new goal goes further: not just to read, but to build sections of DNA — and eventually entire chromosomes — from scratch. By assembling artificial chromosomes in the lab, scientists hope to explore how genes govern repair, development, and illness. They believes this could help unlock new treatments for genetic disorders and age-related diseases.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q03",
+      "questionNumber": 3,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In the context of biotechnology and genetics, which of the following best describes the process of 'DNA",
+        "Methylation'?"
+      ],
+      "questionText": "In the context of biotechnology and genetics, which of the following best describes the process of 'DNA Methylation'?",
+      "options": {
+        "a": "Permanent alteration in the DNA sequence leading to genetic mutations.",
+        "b": "Chemical modification to DNA that acts like switches to regulate gene expression.",
+        "c": "Amplification of a single copy of DNA into millions of copies for forensic analysis.",
+        "d": "Exchange of genetic material between homologous chromosomes."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** DNA methylation is a primary mechanism of epigenetics. It involves the addition of a methyl group to the DNA molecule, which acts as a \"biochemical switch.\" This modification suppresses gene expression by preventing transcription machinery from accessing the gene, thereby switching genes off. It is reversible and plays a key role in development, cell differentiation, and disease regulation.\nThus, DNA methylation refers to chemical modifications to DNA that act like switches to turn genes on and off. Environmental factors can influence these switches and change how genes function, affecting aging and disease risk over time. Measuring these changes through epigenetic clocks can strongly predict age-related disease risk and lifespan.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q04",
+      "questionNumber": 4,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the 'GauSort' technology, which has been recently seen in the news, which of the following best describes its primary objective?"
+      ],
+      "questionText": "With reference to the 'GauSort' technology, which has been recently seen in the news, which of the following best describes its primary objective?",
+      "options": {
+        "a": "To ensure availability of sex sorted semen of cattle, to increase the probability of producing female calves.",
+        "b": "To ensure availability of detailed genetic mapping of indigenous bovine breeds of India to identify their vulnerability to Lumpy skin disease.",
+        "c": "To provide a sorted blockchain-based database for tracking the pedigree of milch animals.",
+        "d": "To develop a low-cost, high-protein synthetic fodder for cattle in drought-prone regions."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** GauSort is an indigenous, cutting-edge sexed-sorted semen technology developed in India to revolutionize the dairy industry and address the problem of stray male cattle. GauSort technology is based on sex-sorting of sperm, where X-and Y-chromosome bearing sperm are separated before artificial insemination. This increases the probability of producing female calves, which are economically more valuable in dairy farming. The aim is to improve herd productivity and reduce the burden of unproductive male cattle.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q05",
+      "questionNumber": 5,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to world geography, consider the following pairs:",
+        "Major Mountain peak Associated Continent",
+        "I. Denali South America",
+        "II. Vinson Antarctica",
+        "III. Aconcagua Asia",
+        "IV. Kilimanjaro Africa",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to world geography, consider the following pairs: Major Mountain peak Associated Continent I. Denali South America II. Vinson Antarctica III. Aconcagua Asia IV. Kilimanjaro Africa How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Pair 1 is incorrect: Denali, also known as Mount McKinley, is the highest peak of North America at 6,194 m, not South America. Pair 2 is correct: Mount Vinson, standing at 4,892 m, is the tallest mountain in Antarctica. Pair 3 is incorrect: Aconcagua, with an elevation of 6,962 m, is the highest peak of South America, located in the Andes range of Argentina,not Asia.\nPair 4 is correct: Mount Kilimanjaro with the height of 5,892 m, is the highest peak of Africa, located in Tanzania.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q06",
+      "questionNumber": 6,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Presently, there is no cure for Duchenne Muscular Dystrophy (DMD).",
+        "Statement II: Duchenne Muscular Dystrophy (DMD) is an autoimmune disease.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Presently, there is no cure for Duchenne Muscular Dystrophy (DMD). Statement II: Duchenne Muscular Dystrophy (DMD) is an autoimmune disease. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Duchenne Muscular Dystrophy (DMD) is a genetic disorder caused by mutation in the dystrophin gene, leading to progressive muscle degeneration. It is the most common and fatal type of muscular dystrophy, marked by progressive muscle degeneration and weakness due to alterations of a protein called \"dystrophin\" that helps keep muscle cells intact.\nPresently, there is no known cure for Duchenne Muscular Dystrophy and treatment is centred on therapy, prevention of contractures, and medical care of the heart and respiratory function.\nStatement II is incorrect: DMD is not an autoimmune disease, but a hereditary disorder linked to the X chromosome. In an autoimmune disease, the immune system mistakenly attacks healthy cells. In DMD, the muscles break down due to a structural mechanical defect caused by faulty DNA.\nHence,\n\nStatement I is correct but\n\nstatement II is not correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo117.pdf Pg: 227 https://www.thehindu.com/sci- tech/science/indian-researchers-developing-treatment-for-rare-genetic-disorder-duchenne-muscular- dystrophy/article66352754.ece https://indianexpress.com/article/lifestyle/health-specials/duchenne-muscular- dystrophy-what-this-rare-disorder-shown-in-kajols-salaam-venky-means-8315746/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q07",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the Genetically Modified (GM) Crops and Gene-Edited (GE) Crops, consider the following",
+        "statements:",
+        "I. GM crops involve the insertion of foreign genes into the plant genome, whereas GE crops involve modifications in the plant’s DNA without necessarily introducing foreign genes.",
+        "II. DRR Dhan 100 and Pusa DST Rice 1 are the first gene-edited crops approved for cultivation in India.",
+        "III. Bt Cotton is the only genetically modified crop approved for commercial cultivation in India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Genetically Modified (GM) Crops and Gene-Edited (GE) Crops, consider the following statements: I. GM crops involve the insertion of foreign genes into the plant genome, whereas GE crops involve modifications in the plant’s DNA without necessarily introducing foreign genes. II. DRR Dhan 100 and Pusa DST Rice 1 are the first gene-edited crops approved for cultivation in India. III. Bt Cotton is the only genetically modified crop approved for commercial cultivation in India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: Genetically Modified (GM) Crops are transgenic. They involve the insertion of \"foreign\" DNA from a different species (like a bacterium or another plant) into the host plant's genome to provide new traits. Gene-Edited (GE) Crops are non-transgenic. Technologies like CRISPR-Cas9 are used to make targeted changes within the organism’s own genome without necessarily adding external genes.\nStatement II is correct: DRR Dhan 100 and Pusa DST Rice 1 were developed using gene-editing techniques and approved for cultivation, marking India’s first such GE crops approved. DRR Dhan 100 (Kamla): Engineered for higher grain density and a 20-day shorter maturity period, which significantly reduces methane emissions and water usage. Pusa DST Rice 1: Developed for salt and alkaline soil tolerance, showing a yield increase of up to 30.4% in climate-stressed regions.\nStatement III is correct: In India, Bt Cotton remains the only GM crop approved for commercial cultivation, despite other GM crops being developed and tested.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q08",
+      "questionNumber": 8,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Which of the following statements about Exercise MILAN 2026 are correct?",
+        "I. It is a multilateral maritime exercise conducted by the Indian Navy.",
+        "II. The theme of this year was ‘Camaraderie, Cooperation, Collaboration’.",
+        "III. The closing ceremony of the exercise was conducted onboard India’s aircraft carrier, INS Vikramaditya.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements about Exercise MILAN 2026 are correct? I. It is a multilateral maritime exercise conducted by the Indian Navy. II. The theme of this year was ‘Camaraderie, Cooperation, Collaboration’. III. The closing ceremony of the exercise was conducted onboard India’s aircraft carrier, INS Vikramaditya. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statements I and II are correct: Exercise Milan is the Indian Navy's flagship biennial multilateral maritime exercise. The 13th edition of Milan (Exercise Milan 2026) was held under the theme \"Camaraderie, Cooperation, Collaboration\".\nThe operational component of the exercise will focus on large-scale multilateral maritime operations, providing participating forces with experience in operating as a coordinated and cohesive maritime grouping. It was initiated by the Indian Navy in 1995, which began with the participation of four regional countries—Indonesia, Singapore, Sri Lanka, and Thailand. The inaugural edition was held at Port Blair in the Andaman and Nicobar Islands.\nStatement III is incorrect: The closing ceremony of the exercise was conducted onboard India’s indigenous aircraft carrier, INS Vikrant, off the coast of Visakhapatnam.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q09",
+      "questionNumber": 9,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "In the context of India’s defence sector, consider the following pairs:",
+        "Defence Equipment Description",
+        "I. Bhargavastra Indigenous counter-drone system",
+        "II. Anant Shastra Indigenous hybrid Vertical Take- Off and Landing (VTOL) drone",
+        "III. Rudrastra Indigenous Quick Reaction surface-to-air missile system",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "In the context of India’s defence sector, consider the following pairs: Defence Equipment Description I. Bhargavastra Indigenous counter-drone system II. Anant Shastra Indigenous hybrid Vertical Take- Off and Landing (VTOL) drone III. Rudrastra Indigenous Quick Reaction surface-to-air missile system How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is correct: Bhargavastra is an indigenous counter-drone (anti-UAS) system, designed to detect and neutralize hostile drones using electronic and kinetic means. It has been designed and developed by Solar Defence and Aerospace Limited (SDAL), which would help in countering the escalating threat of drone swarms.\nPair II is incorrect: Anant Shastra is an indigenously developed surface-to-air missile system by DRDO. It is designed to provide mobile, short-range air defence against aerial threats such as drones, aircraft, and missiles.\nPair III is incorrect: Rudrastra is an indigenous Vertical Take-Off and Landing (VTOL) hybrid drone. It combines the hovering capabilities of a helicopter with the high-speed forward flight of a fixed-wing aircraft. It is used for advanced aerial surveillance and deep-penetration precision strikes using airburst munitions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q10",
+      "questionNumber": 10,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Kannadippaya, a traditional tribal handicraft, that has been awarded the Geographical Indication (GI) tag recently, belongs to which of the following Indian states?"
+      ],
+      "questionText": "Kannadippaya, a traditional tribal handicraft, that has been awarded the Geographical Indication (GI) tag recently, belongs to which of the following Indian states?",
+      "options": {
+        "a": "Arunachal Pradesh",
+        "b": "Tamil Nadu",
+        "c": "Kerala",
+        "d": "Madhya Pradesh"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Kannadippaya which is a unique traditional tribal handicraft from Kerala, has been awarded the Geographical Indication (GI) tag.\nThe term “Kannadippaya,” meaning ‘mirror mat’, derives from its distinctive reflective design. It is woven from the soft inner layers of reed bamboo, giving it unique thermal properties—providing warmth in winter and a cooling effect in summer.\nThis craft is primarily produced by tribal communities such as the Oorali, Mannan, Muthuva, Malayan, and Kadar, along with Ulladan, Malayarayan, and Hill Pulaya artisans, predominantly in the Idukki, Thrissur, Ernakulam, and Palakkad districts. Kannadippaya is notable for being the first tribal handicraft from Kerala to receive a GI tag.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q11",
+      "questionNumber": 11,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Biofilms can form on medical implants within human tissues.",
+        "2. Biofilms can form on food and food processing surfaces.",
+        "3. Biofilms can exhibit antibiotic resistance.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Biofilms can form on medical implants within human tissues. 2. Biofilms can form on food and food processing surfaces. 3. Biofilms can exhibit antibiotic resistance. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Biofilms are a collective of one or more types of microorganisms that can grow on many different surfaces.\nMicroorganisms that form biofilms include bacteria, fungi and protists.\n\nStatement 1 is correct: Biofilms are ubiquitous and they form on virtually all surfaces immersed in a natural aqueous environment, e.g., water pipes, living tissue, tooth surface, implanted medical devices, dental implants, etc.\nStatement 2 is correct: Diverse microorganisms are able to grow on food matrixes and along food industry infrastructures. Thus biofilm can form on food and food processing surfaces. For example escherichia coli, Salmonella enterica etc. Salmonella enterica contaminates a food pipeline biofilm, may induce massive outbreaks and even death in children and elderly.\nStatement 3 is correct: A biofilm is a structured consortium of bacteria embedded in a self-produced polymer matrix consisting of polysaccharide, protein and DNA. Bacterial biofilms show increased tolerance to antibiotics and disinfectant chemicals as well as resisting phagocytosis and other components of the body’s defence system. Thus they cause chronic infections.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q12",
+      "questionNumber": 12,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Recently, the terms HELIOS, Mk-II(A) and DragonFire were seen in the news. They are:"
+      ],
+      "questionText": "Recently, the terms HELIOS, Mk-II(A) and DragonFire were seen in the news. They are:",
+      "options": {
+        "a": "Satellite-based surveillance and reconnaissance systems",
+        "b": "Advanced nuclear fusion reactor projects",
+        "c": "Direct Energy Weapons (DEWs) Systems",
+        "d": "Anti-ballistic missile defence shield systems"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: HELIOS, Mk-II(A) and DragonFire are Direct Energy Weapon (DEW) Systems. DEWs use concentrated light to disable or destroy targets at the speed of light, thus offering near-instant engagement at a relatively very low cost per shot when compared with conventional missiles.\n- High-Energy Laser with Integrated Optical Dazzler and Surveillance (HELIOS) system is a 60kW+ class shipborne laser weapon of the USA to track and destroy drones, small boats, and missiles at the speed of light. Unlike other anti drone weapon systems, HELIOS uses lasers to strike on its opponents.\n- The Mk-II(A) system is an indigenously developed Direct Energy Weapon (DEW) of the Defence Research and\nDevelopment Organisation (DRDO). It is designed to physically destroy threats, including disabling missiles, drones and smaller projectiles. It is one of the most potent counter-drone systems due to its lightning speed of engagement, precision, and lethal action within a few seconds.\n- DragonFire system is the United Kingdom programme to deliver a high-energy laser directed-energy weapon.\nThis laser system was designed to provide short-range air defence and close-in protection for naval vessels. The programme aims to provide a cost-effective, rapid response against aerial threats.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q13",
+      "questionNumber": 13,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "With reference to the Agni-Prime (Agni-P) missile, consider the following statements:",
+        "I. It is a two-stage canisterised liquid propellant ballistic missile.",
+        "II. It is capable of striking targets at ranges exceeding 10,000 kilometres.",
+        "III. It can be launched from road and rail-based mobile platforms.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Agni-Prime (Agni-P) missile, consider the following statements: I. It is a two-stage canisterised liquid propellant ballistic missile. II. It is capable of striking targets at ranges exceeding 10,000 kilometres. III. It can be launched from road and rail-based mobile platforms. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Agni-Prime (Agni-P) is a next-generation ballistic missile indigenously developed by the Defence Research and Development Organisation (DRDO). It is capable of striking targets at ranges of up to 2,000 kilometers.\nStatement I is incorrect: ‘Agni Prime’ is a two-stage canisterized solid propellant nuclear-capable ballistic missile. It is not fueled by liquid propellant.\nStatement II is incorrect: Agni-P is a new generation advanced variant of Agni class of missiles. It is a canisterized missile with range capability between 1,000 and 2,000 kms (and not for a range exceeding 10,000 kms). Agni-V is an intercontinental ballistic missile (ICBM) with a range of 5,000–8,000 km.\nAgni-VI under deployment expected range of 8,000–10,000 km.\n\nStatement III is correct: One of the key features of Agni-Prime is its mobility i.e. it can be launched from road and rail-based mobile platforms.\nKnowledge Base: The Agni series of missiles are part of the Integrated Guided Missile Development Project (IGMDP) initiated by the Ministry of Defence in 1982.\n- The Agni series includes Agni-1 (with a range of 700 km), Agni-2 (with a range of 2,000 km), Agni-3 (with a range of\n2,500 km), Agni-4 (with a range of 3,500 km), and Agni-5, which can strike targets up to 5,000 km away.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q14",
+      "questionNumber": 14,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following statements in the context of hypersonic missiles:",
+        "I. All hypersonic missiles are cruise missiles.",
+        "II. These missiles tend to follow a fixed and unchanged trajectory.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements in the context of hypersonic missiles: I. All hypersonic missiles are cruise missiles. II. These missiles tend to follow a fixed and unchanged trajectory. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** A hypersonic missile is a weapon system that flies at least at the speed of Mach 5 i.e. five times the speed of sound and is manoeuvrable.\nStatement I is incorrect: While many hypersonic weapons are designed as hypersonic cruise missiles (HCMs) using scramjet engines, they are not all cruise missiles. The two types of hypersonic weapons systems are Hypersonic Glide Vehicles (HGV) and Hypersonic Cruise Missiles. The HGV are launched from a rocket before gliding to the intended target while the hypersonic cruise missile is powered by air-breathing high-speed engines or ‘scramjets’ after acquiring their target.\nStatement II is incorrect: The manoeuvrability of the hypersonic missile is what sets it apart from a ballistic missile as the latter follows a set course or a ballistic trajectory. Thus, unlike ballistic missiles, hypersonic missiles do not follow a fixed and unchanged trajectory and can be manoeuvred to the intended target.\nKnowledge Base: Advantage of Hypersonic Missile:\n- Hypersonic cruise missiles are capable of flying at speeds exceeding Mach 5 — more than five times the speed of sound, or over 6,100 km per hour — for extended durations. Such performance is enabled by cutting-edge air-breathing scramjet engines that utilise supersonic combustion, allowing sustained hypersonic flight.\n- Hypersonic weapons can enable responsive, long range strike options against distant, defended or time critical threats (such as road mobile missiles) when other forces are unavailable, denied access or not preferred.\n- It is very difficult to intercept them. The range of hypersonic missiles can be up to 5000 kilometers. These missiles fly low and attack so fast that the enemy does not get a chance to detect and destroy it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q15",
+      "questionNumber": 15,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which of the following best describes the Golden Dome project seen recently in the news?"
+      ],
+      "questionText": "Which of the following best describes the Golden Dome project seen recently in the news?",
+      "options": {
+        "a": "A cybersecurity initiative to protect national digital infrastructure in the United Kingdom.",
+        "b": "The restoration of the golden dome of the Golden Temple in India.",
+        "c": "A multilayered air defence system developed by the United States of America to defend against various missile threats.",
+        "d": "A United Nations green project aimed at balancing the Earth’s heat budget by reducing greenhouse gas emission."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Golden Dome Project was recently announced by United States President with a proposed budget of $175 billion.\nIt is a next-generation missile defence system inspired by Israel’s Iron Dome but designed to be far more ambitious. It aims to protect the entire United States using multiple layers capable of intercepting a wide range of threats, including ballistic missiles, hypersonic missiles, cruise missiles, and space-launched missiles.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q16",
+      "questionNumber": 16,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Recently in the news, the 3 by 35 Initiative is primarily related to which of the following objectives?",
+        "2035."
+      ],
+      "questionText": "Recently in the news, the 3 by 35 Initiative is primarily related to which of the following objectives? 2035.",
+      "options": {
+        "a": "Ensuring that all children of below 3 years of age in the world receive essential life-saving vaccines by the year",
+        "b": "Reducing the global prevalence of the three major diseases i.e. HIV/AIDS, Tuberculosis, and Malaria by 50% by the year 2035.",
+        "c": "Increasing the real prices of any or all of the three unhealthy products i.e. tobacco, alcohol, and sugary drinks, by at least 50% in a country by 2035 through tax increases.",
+        "d": "Mobilizing 3% of the global GDP annually to fund the treatment of genetic disorders by the year 2035."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The WHO's “3 by 35” Initiative integrates preventive healthcare with fiscal policy, leveraging health taxes to combat Non-Communicable Diseases (NCDs).\nThe 3 by 35 Initiative is a bold global effort to increase the real prices of any or all of three unhealthy products – tobacco, alcohol, and sugary drinks by at least 50% by 2035 through tax increases, while taking into account each country’s unique context. This effort is expected to reduce consumption of harmful products while mobilizing an additional US$ 1 trillion in public revenue globally over the next decade.\nKnowledge Base: The 3 by 35 Initiative has three key actions: Mobilizing countries – WHO and partners will engage heads of state, finance and health ministries, and civil society to build political momentum. Countries participating in the Initiative will benefit from peer learning, strategic support, and global recognition.\nSupporting country-led policies – Countries requesting assistance will receive direct support to develop tailored, evidence-based health tax policies. Others will benefit from a shared knowledge platform offering guidance, tools, and best practices. Building commitment and partnerships – Through inclusive dialogue and collaboration, the Initiative seeks to shift public and political perceptions, foster cross-sector alliances, and strengthen the role of civil society in advocating for sustainable health financing.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q17",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the PRITHVI (PRITHvi VIgyan) Scheme, consider the following statements:",
+        "I. It is an initiative of the Ministry of Earth Sciences.",
+        "II. It aims to improve the understanding of all five components of the Earth system, namely atmosphere, hydrosphere, geosphere, cryosphere and biosphere",
+        "III. Research, Education, Training and Outreach (REACHOUT) is one of the five sub-schemes under it.",
+        "Which of the above statements are correct?"
+      ],
+      "questionText": "With reference to the PRITHVI (PRITHvi VIgyan) Scheme, consider the following statements: I. It is an initiative of the Ministry of Earth Sciences. II. It aims to improve the understanding of all five components of the Earth system, namely atmosphere, hydrosphere, geosphere, cryosphere and biosphere III. Research, Education, Training and Outreach (REACHOUT) is one of the five sub-schemes under it. Which of the above statements are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. The PRITHVI (PRITHvi VIgyan) Scheme is an integrated and overarching initiative of the Ministry of Earth Sciences.\nStatement II is correct. The PRITHVI scheme holistically addresses all five components of earth system namely atmosphere, hydrosphere, geosphere, cryosphere and biosphere to improve the understating of the Earth System Sciences and to provide reliable services for the country\n\nStatement III is correct. Research, Education, Training and Outreach (REACHOUT) is one of the five sub-schemes under PRITHVI, along with ACROSS, O-SMART, PACER, and SAGE.\nThe PRITHVI scheme encompasses five on-going sub-schemes namely:\n- a) Atmosphere & Climate Research-Modelling Observing Systems & Services (ACROSS).\nb) Ocean Services, Modelling Application, Resources and Technology (O-SMART). c) Polar Science and Cryosphere Research (PACER). d) Seismology and Geosciences (SAGE). e) Research, Education, Training and Outreach (REACHOUT).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q18",
+      "questionNumber": 18,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "India has been certified disease-free by the World Health Organization for which of the following diseases?",
+        "I. Yaws",
+        "II. Polio",
+        "III. Measles",
+        "IV. Guinea Worm disease",
+        "V. Malaria",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "India has been certified disease-free by the World Health Organization for which of the following diseases? I. Yaws II. Polio III. Measles IV. Guinea Worm disease V. Malaria Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and IV",
+        "c": "II, IV and V",
+        "d": "II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Option I is correct. India has been declared yaws-free by WHO after successfully interrupting its transmission. Yaws is a neglected tropical disease affecting mainly remote and underserved populations, and India became one of the first countries to eliminate it Option II is correct. India was certified polio-free in 2014 by WHO after decades of intensive vaccination campaigns under initiatives like the Universal Immunization Programme (UIP) and the Global Polio Eradication Initiative.\nOption III is incorrect. India has not yet been certified measles-free by WHO. Although significant progress has been made in reducing cases through vaccination, complete elimination has not yet been achieved.\nOption IV is correct. India was certified Guinea worm disease free in 2000 by WHO. Guinea worm disease is caused by a large nematode, Dracunculus medinensis, which passes its life cycle in two hosts i.e. Man and Cyclops.\nOption V is incorrect. India has not been declared malaria-free. While there has been a substantial decline in malaria cases due to national programmes, the disease still exists.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q19",
+      "questionNumber": 19,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "Apart from deuterium’s well-known use in nuclear reactors for moderation and cooling, which of the following are the applications of deuterium?",
+        "I. In refineries, deuterium is widely used as a catalyst in petroleum refining processes.",
+        "II. In nutritional science, deuterium is used to estimate body composition, including fat and fat-free mass.",
+        "III. In telecommunications, deuterium is used in optical fibre production to reduce signal loss due to water absorption.",
+        "IV. In infant health studies, deuterium helps in measuring breastmilk intake by infants.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Apart from deuterium’s well-known use in nuclear reactors for moderation and cooling, which of the following are the applications of deuterium? I. In refineries, deuterium is widely used as a catalyst in petroleum refining processes. II. In nutritional science, deuterium is used to estimate body composition, including fat and fat-free mass. III. In telecommunications, deuterium is used in optical fibre production to reduce signal loss due to water absorption. IV. In infant health studies, deuterium helps in measuring breastmilk intake by infants. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and III only",
+        "b": "II, III and IV only",
+        "c": "II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Deuterium is a stable isotope of hydrogen, which, unlike “normal” hydrogen atoms, or protium, also contains a neutron.\nStatement I is incorrect. Deuterium is not used as a catalyst in petroleum refining. Zeolites are widely used as catalysts in the refining of crude oil into finished petroleum products.\nStatement II is correct. In nutritional science, deuterium is used in the deuterium dilution technique to measure body composition. By tracking how deuterium-labelled water distributes in the body, scientists can accurately estimate fat mass and fat-free mass.\nStatement III is correct. In telecommunications, deuterium gas is used in the manufacturing of optical fibres. It helps reduce transmission losses caused by water absorption, thereby improving efficiency and increasing the lifespan of fibre optic cables.\nStatement IV is correct. In infant health studies, deuterium is used in the dose-to-mother technique to measure how much breastmilk an infant consumes and to verify exclusive breastfeeding practices. This provides reliable data for improving child nutrition programmes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q20",
+      "questionNumber": 20,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "Which of the following is not included in UNESCO’s Memory of the World Register from India?"
+      ],
+      "questionText": "Which of the following is not included in UNESCO’s Memory of the World Register from India?",
+      "options": {
+        "a": "Rigveda",
+        "b": "Manuscript Collection of Bhagavadgītā",
+        "c": "The Archives of the Dutch East India Company",
+        "d": "Kautilya's Arthashastra"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Memory of the World Programme, launched by UNESCO in 1992, aims to safeguard and preserve valuable documentary heritage, particularly rare and endangered collections, while ensuring their wider accessibility to the public.\nOption a is correct: The Rigveda manuscript is among the oldest literary texts, comprising hymns, myths, and rituals that form the foundation of Vedic science, Ayurveda, yoga, and Sanskrit traditions. It was inscribed in the Memory of the World Register in 2007\n\nOption b is correct: The Manuscript Collection of Bhagavadgītā which was embedded in the Bhīṣma-parva of the Mahabharata is a dialogue between Lord Krishna and Arjuna composed around the 2nd or 1st century BCE. It contains 700 verses across 18 chapters, and is revered globally as a spiritual and philosophical guide. Its manuscript has been inscribed on UNESCO’s Memory of the World register in 2025\n\nOption c is correct: The Archives of the Dutch East India Company, inscribed in the Memory of the World Register in 2013. They were jointly nominated by India, the Netherlands, Indonesia, South Africa, and Sri Lanka. Preserved in the National Archives of India, New Delhi, and in regional repositories, this vast collection (1602–1795 CE) records trade, treaties, and governance. The Indian segment from Tamil Nadu offers valuable insights into colonial commerce and political interactions during that period.\nOption d is incorrect: Kautilya’s Arthashastra, though an important ancient Indian treatise on statecraft and economics, has not been inscribed in UNESCO’s Memory of the World Register.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q21",
+      "questionNumber": 21,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "Consider the following statements:",
+        "DNA Barcoding can be a tool to:",
+        "1. Assess the age of a plant or animal.",
+        "2. Distinguish among species that look alike.",
+        "3. Identify undesirable animal or plant materials in processed foods.",
+        "Which of the statements given above is/are correct"
+      ],
+      "questionText": "Consider the following statements: DNA Barcoding can be a tool to: 1. Assess the age of a plant or animal. 2. Distinguish among species that look alike. 3. Identify undesirable animal or plant materials in processed foods. Which of the statements given above is/are correct",
+      "options": {
+        "a": "1 only",
+        "b": "3 only",
+        "c": "1and 2 only",
+        "d": "2 and 3 only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** DNA barcoding is a molecular technology that allows the identification of any biological species by amplifying, sequencing and querying the information from genic and/or intergenic standardized target regions belonging to the extranuclear genomes Option 1 is incorrect: Geologists use the radiometric dating of uranium and the isotopes of other radioactive elements, combined with observations of fossils and sediment layers, to chart the course of Earth’s natural history and the evolution of life. To measure the age of plant and animal remains from the more recent past, scientists use a radioactive isotope of carbon, called carbon-14, as their clock. As carbon-14 decays, with a half-life of about 5,730 years, it becomes nitrogen-14. Using this clock, they have dated bones, campfires and other objects as old as 60,000 years, and in some cases even older.\nOption 2 is correct: DNA barcodes allow non-experts to objectively identify species – even from small, damaged, or industrially processed material. Just as the unique pattern of bars in a universal product code (UPC) identifies each consumer product, a “DNA barcode” is a unique pattern of DNA sequence that can potentially identify each living thing.\nOption 3 is correct. cpDNA and mtDNA barcoding protocols are being used more and more in the food industry and food supply chains for food labeling, not only to support food safety but also to uncover food piracy in freshly commercialized and technologically processed products. DNA barcoding helps to identify undesirable animal or plant materials in processed foods.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q22",
+      "questionNumber": 22,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "The species of which of the following organism(s) naturally use CRISPR-Cas systems as an adaptive immune mechanism to defend against invading viruses?",
+        "I. Bacteria",
+        "II. Fungi",
+        "III. Protozoa",
+        "IV. Archaea",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "The species of which of the following organism(s) naturally use CRISPR-Cas systems as an adaptive immune mechanism to defend against invading viruses? I. Bacteria II. Fungi III. Protozoa IV. Archaea Select the correct answer using the code given below.",
+      "options": {
+        "a": "I and IV only",
+        "b": "I only",
+        "c": "II, III and IV",
+        "d": "I and II only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Option I is correct: Bacteria: CRISPR-Cas system is a prokaryotic adaptive immune mechanism present in bacteria. It works by integrating fragments of viral DNA into the bacterial genome, which are later used to recognize and cleave invading viral genetic material. This provides heritable and sequence-specific immunity against bacteriophages.\nOption II is incorrect: Fungi: Fungi are eukaryotic organisms, and CRISPR-Cas systems are absent in eukaryotes. Their defense relies on mechanisms like RNA interference and innate immunity, not sequence-based adaptive systems. Therefore, they do not naturally use CRISPR for antiviral defense.\nOption III is incorrect: Protozoa: Protozoa are also unicellular eukaryotes and lack CRISPR-Cas systems. Their cellular organization does not support this prokaryotic immune mechanism, and they depend on other biochemical defense strategies.\nOption IV is correct:Archaea; Archaea (microbes similar to bacteria) use CRISPR-Cas systems as an adaptive immune system to fight off viruses and foreign DNA. It works like a molecular \"memory\" system: they take snippets of DNA from invaders, store them in their own genome, and use these markers to identify and destroy the same enemy if it attacks again.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q23",
+      "questionNumber": 23,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Auramine O and Rhodamine B are discussed in the context of:"
+      ],
+      "questionText": "Auramine O and Rhodamine B are discussed in the context of:",
+      "options": {
+        "a": "Food-grade preservatives used to prevent the growth of toxic molds in stored grains.",
+        "b": "Synthetic dyes used illegally as food coloring agents.",
+        "c": "Veterinary antibiotics to prevent bacterial infections in the livestock population.",
+        "d": "Harmful bleaching agents, particularly in the skin-lightening products"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Auramine O is a synthetic, yellow fluorescent dye primarily used in industries for dyeing leather, jute, cotton, and paper, as well as in the manufacturing of inks and paints. Recently, it has been in the news because it is illegally used as a food adulterant to impart a bright yellow color to food items (such as sweets, turmeric powder, and sauces) to make them look more appealing. It is highly toxic and strictly banned in the food industry due to its harmful effects on the liver and kidneys, along with its potential carcinogenic properties.\nRhodamine B is also a synthetic dye used in cotton candy and curry masala to impart colour to it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q24",
+      "questionNumber": 24,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the optical phenomenon of 'Birefringence', which of the following statements best describes its primary characteristic?"
+      ],
+      "questionText": "With reference to the optical phenomenon of 'Birefringence', which of the following statements best describes its primary characteristic?",
+      "options": {
+        "a": "The ability of a material to change its color when viewed from different angles.",
+        "b": "The total internal reflection of light within a dense liquid medium.",
+        "c": "The splitting of a single ray of light into two rays in a medium.",
+        "d": "The dispersion of white light into its constituent seven colors through a prism."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Birefringence, also commonly known as double refraction, is an optical phenomenon where a single incident ray of unpolarized light splits into two distinct rays when it passes through certain materials (such as calcite crystals, ice, or certain plastics). This splitting occurs because the internal structure of the material is highly ordered but directionally dependent (anisotropic). As a result, the material possesses two different refractive indices. When light enters, it is divided into an \"ordinary ray\" and an \"extraordinary ray,\" each traveling at a different speed and bending at a different angle, creating a double image.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q25",
+      "questionNumber": 25,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The Gender Budgeting Knowledge Hub, a dedicated digital platform aimed at strengthening gender-responsive planning across India, was launched by:"
+      ],
+      "questionText": "The Gender Budgeting Knowledge Hub, a dedicated digital platform aimed at strengthening gender-responsive planning across India, was launched by:",
+      "options": {
+        "a": "NITI Aayog",
+        "b": "Ministry of Finance",
+        "c": "Ministry of Women and Child Development",
+        "d": "Prime Minister’s Office"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Gender Budgeting Knowledge Hub is a digital platform launched by the Ministry of Women and Child Development to support gender-responsive planning across India. It is designed to serve a wide range of stakeholders, including central and state government bodies, policymakers, researchers, and civil society organizations. The hub provides resources, tools, and knowledge to facilitate effective gender budgeting and decision-making.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q26",
+      "questionNumber": 26,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The Miller-Urey hypothesis is discussed in the context of:"
+      ],
+      "questionText": "The Miller-Urey hypothesis is discussed in the context of:",
+      "options": {
+        "a": "Emission of gravitational waves.",
+        "b": "Origins of life on Earth.",
+        "c": "Quantum behavior of subatomic particles.",
+        "d": "Mechanism of Natural Selection"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Miller–Urey hypothesis is one of the earliest scientific attempts to explain the origin of life on Earth. Proposed through an experiment conducted in 1952 by Stanley Miller and Harold Urey, it demonstrated that organic molecules (like amino acids) could form from inorganic gases such as methane, ammonia, hydrogen, and water vapour under early Earth conditions when energy like lightning was applied. This provided a scientific basis for how life’s building blocks may have originated.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q27",
+      "questionNumber": 27,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: A nuclear fusion reactor produces significantly less, shorter-lived radioactive waste compared to a nuclear fission reactor.",
+        "Statement II: During the process of nuclear fusion, heavy radioactive nuclei like Uranium-235 are split into smaller, stable helium atoms that do not undergo further decay.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: A nuclear fusion reactor produces significantly less, shorter-lived radioactive waste compared to a nuclear fission reactor. Statement II: During the process of nuclear fusion, heavy radioactive nuclei like Uranium-235 are split into smaller, stable helium atoms that do not undergo further decay. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Nuclear reactions are of two main types: nuclear fission and nuclear fusion. Fission involves the splitting of heavy nuclei like uranium, while fusion involves the combining of light nuclei such as hydrogen isotopes to form heavier elements like helium.\nStatement I is correct. Nuclear fission power plants have the disadvantage of generating unstable nuclei; some of these are radioactive for millions of years.\nFusion on the other hand does not create any long-lived radioactive nuclear waste. A fusion reactor produces helium, which is an inert gas. Nuclear fusion can produce much more energy for a given weight of fuel than any other available energy technology and no greenhouse gas emissions. The fusion process produces far less radioactive material than fission reactors, and the by-products generated are less damaging biologically.\nStatement II is incorrect. Uranium is not used in fusion; fusion typically uses light isotopes of hydrogen, like Deuterium and tritium, to form Helium. Also, fusion does not involve splitting of nuclei, rather, fusion joins two light elements, forming a heavier element.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q28",
+      "questionNumber": 28,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to mRNA (messenger RNA) vaccines, consider the following statements:",
+        "I. It introduces a piece of the genetic material that corresponds to a viral protein, which is typically a small piece of a protein that is found on the virus’s outer membrane.",
+        "II. It does not expose individuals to the virus itself.",
+        "III. One of its advantages is to quickly update vaccines to emerging variants of the virus.",
+        "IV. The first mRNA vaccines authorised for use in humans were to protect against COVID-19.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to mRNA (messenger RNA) vaccines, consider the following statements: I. It introduces a piece of the genetic material that corresponds to a viral protein, which is typically a small piece of a protein that is found on the virus’s outer membrane. II. It does not expose individuals to the virus itself. III. One of its advantages is to quickly update vaccines to emerging variants of the virus. IV. The first mRNA vaccines authorised for use in humans were to protect against COVID-19. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I, II, III and IV",
+        "c": "III and IV only",
+        "d": "I, II and IV only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statements I and II are correct: Unlike traditional vaccines that inject a weakened virus or a piece of a protein, mRNA vaccines only introduce a piece of the genetic material that corresponds to a viral protein. This is usually a protein found on the membrane of the virus and is called spike protein. Similar to other vaccines, the mRNA vaccine also attempts to activate the immune system to produce antibodies that help counter an infection from a live virus. While most vaccines use weakened or dead bacteria or viruses to evoke a response from the immune system, the mRNA vaccine does not expose individuals to the virus itself.\nStatement III is correct: A major advantage of mRNA and DNA vaccines is that because they only need the genetic code, it is possible to quickly update vaccines to emerging variants and even use them for a variety of diseases.\nA challenge with mRNA vaccines is that they need to be frozen from-90 degree Celsius to-50 degree Celsius. They can be stored for up to two weeks in commercial freezers and need to be thawed at 2 degrees Celsius to 8 degrees Celsius at which they can remain for a month.\nStatement IV is correct: The COVID-19 mRNA vaccines (such as those from Pfizer-BioNTech and Moderna) were the first mRNA-based vaccines to be authorized for human use.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q29",
+      "questionNumber": 29,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which one among the following biotechnologies is applied to manufacture pharmaceutical products such as insulin, antibiotics and vaccines?"
+      ],
+      "questionText": "Which one among the following biotechnologies is applied to manufacture pharmaceutical products such as insulin, antibiotics and vaccines?",
+      "options": {
+        "a": "White Biotechnology",
+        "b": "Red Biotechnology",
+        "c": "Green Biotechnology",
+        "d": "Blue Biotechnology"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Biotechnology is the application of biological systems, organisms, or processes to develop products and technologies for human benefit. It is classified into various branches based on the area of application: Red, White, Green, and Blue Biotechnology. Red biotechnology refers to the application of biotechnology in medicine and healthcare. It includes the development of pharmaceutical products such as insulin (via recombinant DNA technology), antibiotics, monoclonal antibodies, and vaccines (like mRNA COVID-19 vaccines). It also encompasses gene therapy, regenerative medicine, and diagnostic tools. This branch is directly responsible for many medical breakthroughs and therapeutic advancements.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2024,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Map-Based Relevance (Trade Routes, Ports, Countries, etc.)",
+      "statementLines": [
+        "The Vizhinjam International Seaport, India’s first deepwater container transshipment port, is located in:"
+      ],
+      "questionText": "The Vizhinjam International Seaport, India’s first deepwater container transshipment port, is located in:",
+      "options": {
+        "a": "Tamil Nadu",
+        "b": "Karnataka",
+        "c": "Andhra Pradesh",
+        "d": "Kerala"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Vizhinjam International Seaport was inaugurated by Prime Minister Narendra Modi in May 2025, marking a major milestone in strengthening India’s maritime infrastructure.\n- It is India’s first deepwater container transshipment port, capable of handling some of the largest container ships in the world.\n- Location: Situated at Vizhinjam, near Thiruvananthapuram in Kerala, the port lies just 10 nautical miles from the busy east–west international shipping route that connects Europe, the Persian Gulf, and East Asia, giving it a key strategic advantage.\n- Development Model: o It has been developed under the Landlord Model through a Public–Private Partnership (PPP), and implemented on a Design, Build, Finance, Operate, and Transfer (DBFOT) basis.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q31",
+      "questionNumber": 31,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "‘Microsatellite DNA’ is used in the case of",
+        "which one of the following?"
+      ],
+      "questionText": "‘Microsatellite DNA’ is used in the case of which one of the following?",
+      "options": {
+        "a": "Studying evolutionary relationships among various species of fauna.",
+        "b": "Stimulating stem cells transform into diverse functional tissues.",
+        "c": "Promoting clonal propagation of horticultural plant.",
+        "d": "Assessing the efficacy of drugs by conducting series of drug trials in a population."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Microsatellite DNA, also known as short tandem repeats (STRs), is a type of genetic marker that consists of repeating sequences of DNA. It is commonly used in genetic studies, including population genetics and phylogenetic analysis, to study relationships among different species of fauna.\nMicrosatellites are highly polymorphic and vary in length due to differences in the number of repeat units. By analyzing the variations in microsatellite DNA sequences among individuals or populations, researchers can assess genetic diversity, population structure, and evolutionary relationships within and between species.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q32",
+      "questionNumber": 32,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements with reference to Peptide therapy:",
+        "I. In this, peptides are used as medicines designed to influence particular biological pathways in the body.",
+        "II. One of its advantages is that it can send targeted instructions to certain cells, unlike some conventional drugs.",
+        "III. As these therapies can influence hormonal pathways their improper use may lead to metabolic disturbances.",
+        "IV. Recently, the Government of India banned the use of GLP-1 drugs in India because of its misuse as weight loss drugs.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to Peptide therapy: I. In this, peptides are used as medicines designed to influence particular biological pathways in the body. II. One of its advantages is that it can send targeted instructions to certain cells, unlike some conventional drugs. III. As these therapies can influence hormonal pathways their improper use may lead to metabolic disturbances. IV. Recently, the Government of India banned the use of GLP-1 drugs in India because of its misuse as weight loss drugs. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and III",
+        "c": "II and III only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Peptides are very small chains of amino acids, the basic building blocks of proteins in the body. They naturally act as messengers that regulate functions such as hormone release, metabolism, immune responses and tissue repair.\nStatement I is correct: In Peptide therapy, peptide molecules are used as medicines that mimic the body’s natural signals and send targeted instructions to certain cells. Because they can bind to specific receptors, peptides can be designed to influence particular biological pathways with precision.\nStatement II is correct: Since they resemble substances already produced by the body, they often act in a more targeted manner and are generally better tolerated than some conventional drugs. Unlike some traditional medicines that may affect many systems at once, peptide-based treatments are developed to act on specific targets.\nMany peptide medicines are given through injections because they can be broken down in the digestive system if taken by mouth.\n\nStatement III is correct: Because peptides can bind to specific receptors, they can be designed to influence particular biological pathways with precision. However, since peptides can influence hormonal pathways, improper use may lead to metabolic disturbances, endocrine imbalance or cardiovascular risks.\nStatement IV is incorrect: GLP-1 (glucagon-like peptide-1) drugs mimic a natural gut hormone to regulate blood sugar, and suppress appetite, making them effective for both diabetes management and weight loss. The Government of India recently issued an advisory that GLP-1 drugs in India are approved only for prescription by endocrinologists and internal medicine specialists, and by cardiologists for certain indications. The misuse of weight loss drugs without clinical oversight can lead to severe health complications. People are advised to use such medications only under the guidance of qualified medical practitioners. Thus, GLP-1 drugs are not banned in India.\nKnowledge Base: Applications of Peptide Therapy:\n- In oncology, peptides can target tumour receptors or deliver drugs directly to cancer cells.\n- In endocrinology, these therapies are used for conditions such as infertility, growth disorders and thyroid disease.\n- Peptides that influence immune responses are also being studied for viral infections and inflammatory diseases.\n- In regenerative medicine, experimental peptides are being explored for their potential to stimulate tissue repair in muscles, tendons and nerves.\n- Peptides are also being studied in dermatology, wound healing, osteoporosis and cardiovascular diseases.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Repeated heating of edible oils can make them harmful for human consumption.",
+        "Statement II: Repeated reheating of edible oil can lead to the accumulation of Total Polar Compounds (TPC) in oil.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Repeated heating of edible oils can make them harmful for human consumption. Statement II: Repeated reheating of edible oil can lead to the accumulation of Total Polar Compounds (TPC) in oil. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statements I and II are correct: The repeated heating of vegetable oils triggers chemical reactions—oxidation, hydrolysis, and polymerization—that generate Total Polar Compounds (TPCs). Repeatedly heating cooking oil triggers a chemical chain reaction, breaking down triglycerides and forming harmful compounds like aldehydes. These byproducts can bind to proteins and DNA, leading to oxidative stress and inflammation.\n- When oil is heated again and again, triglycerides, the molecules that make up most edible oils, begin to split. The double bonds in unsaturated fats oxidize, and the oil forms polar compounds, peroxides, and aldehydes.\n- Polyunsaturated oils like sunflower, soybean, or safflower are particularly vulnerable because their structure is more open to oxidation.\n- These aldehydes are biologically active, meaning they don’t just pass through the body. They can bind to proteins and DNA, triggering oxidative stress and inflammation.\nStatement II explains Statement I: Repeated heating of oil reduces the natural antioxidant level. Regular consumption of foods prepared using reheated oil can compromise the antioxidant defence system in the body.\nAccording to the Food Safety and Standards Authority of India (FSSAI), repeated frying of oil leads to changes in physiochemical, nutritional and sensory properties of edible oil and the toxicity of Total Polar Compounds (TPCs) is associated with several diseases such as hypertension, atherosclerosis, Alzheimer’s disease and liver diseases. Thus, repeated using and frying of edible oil leads to the formation of TPC which renders it unfit for human consumption.\nKnowledge Base: Level of TPCs permitted by FSSAI:\n- As per the Food Safety and Standards (Licensing and Registration) First Amendment Regulation 2017, the oil used for frying should not be used for any form of cooking if the Total Polar Compounds (TPC), a benchmark for measuring the degradation of the oil when heated, is beyond 25%. Also, used oil should not be topped with fresh oil.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q34",
+      "questionNumber": 34,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Eight Anti-Submarine Warfare Shallow Water Craft (ASW SWCs) are to be indigenously designed and built by",
+        "India. The first three have been delivered to the Indian Navy, and they have been named after some historic places. In this context, consider the following pairs:",
+        "ASW SWCs Named After",
+        "I. INS Arnala Historic fort ‘Arnala’ located off the coast of Karwar, Karnataka",
+        "II. INS Anjadip Anjadip Island located off the coast of Vasai, Maharashtra",
+        "III. INS Androth Androth, the northernmost island of the Andaman and Nicobar group",
+        "How many pairs given above are correctly matched?"
+      ],
+      "questionText": "Eight Anti-Submarine Warfare Shallow Water Craft (ASW SWCs) are to be indigenously designed and built by India. The first three have been delivered to the Indian Navy, and they have been named after some historic places. In this context, consider the following pairs: ASW SWCs Named After I. INS Arnala Historic fort ‘Arnala’ located off the coast of Karwar, Karnataka II. INS Anjadip Anjadip Island located off the coast of Vasai, Maharashtra III. INS Androth Androth, the northernmost island of the Andaman and Nicobar group How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** INS Arnala, Androth and Anjadip are three out of eight Anti-Submarine Warfare Shallow Water Craft (ASW SWC), indigenously designed and built by Garden Reach Shipbuilders and Engineers (GRSE), Kolkata. Pair I is incorrect: INS Arnala is named after the historic fort ‘Arnala’ located off Vasai, Maharashtra, a reflection of India’s rich maritime heritage.\nPair II is incorrect: INS Anjadip derives its name from Anjadip Island located off the coast of Karwar, Karnataka, underscoring India’s commitment to safeguarding its expansive maritime domain.\nPair III is incorrect: INS Androth has been named after Androth, the northernmost island of the Lakshadweep group, known for its historical and strategic importance in India’s maritime domain.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Alternative Investment Funds (AIFs) are privately pooled investment vehicles regulated by SEBI and are divided into three categories: I, II, and",
+        "III. In this context, consider the following investments:",
+        "I. Angel Funds",
+        "II. Social Venture Funds",
+        "III. Hedge Funds",
+        "IV. Real Estate Funds",
+        "How many of the above fall under Category I of Alternative Investment Funds (AIFs)?"
+      ],
+      "questionText": "Alternative Investment Funds (AIFs) are privately pooled investment vehicles regulated by SEBI and are divided into three categories: I, II, and III. In this context, consider the following investments: I. Angel Funds II. Social Venture Funds III. Hedge Funds IV. Real Estate Funds How many of the above fall under Category I of Alternative Investment Funds (AIFs)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Alternative Investment Funds (AIFs) are privately pooled investment vehicles regulated by SEBI under the SEBI (AIF) Regulations, 2012. They collect funds from sophisticated investors (Indian or foreign) to invest as per a defined investment policy for the benefit of investors. AIFs are classified into three categories: Category I, II and III.\nOption I is correct: Angel Funds – Category I AIF-These are a sub-category of Venture Capital Funds.\n- They pool capital from angel investors, typically high-net-worth individuals or experienced entrepreneurs.\n- The aim is to invest in start-ups and early-stage businesses that have high growth potential but lack access to traditional funding.\nOption II is correct: Social Venture Funds – Category I AIF-These funds invest in businesses or projects that create a positive social impact, such as in education, healthcare, clean energy, rural development, and financial inclusion.\n- The goal is to achieve both financial returns and measurable social benefits.\nOption III is incorrect: Hedge Funds – Category III AIF-These funds use complex trading strategies such as short-selling, derivatives trading, and leverage to maximize returns.\n- They often aim for short-to medium-term capital gains rather than long-term developmental investment.\nOption IV is incorrect: Real Estate Funds – Category II AIF-These funds invest primarily in real estate projects; residential, commercial, or industrial.\n- They typically provide long-term capital for development but do not use leverage for trading strategies.\nKnowledge Base: Categories of AIFs: 1. Category I-These invest in start-ups, early-stage ventures, SMEs, social ventures, or infrastructure projects; sectors considered socially or economically desirable by the government.\n- The focus is on promoting entrepreneurship and development.\n- Examples: Venture Capital Funds such as Angel Funds, Social Venture Funds, SME Funds, Infrastructure Funds. 2. Category II-These include funds not falling under Category I or III.\n- They generally invest in equity or debt of companies and do not use leverage, except for day-to-day operations.\n- Examples: Real Estate Funds, Private Equity Funds, Debt Funds, Distressed Asset Funds. 3. Category III-These funds employ complex trading strategies and may use leverage to generate returns in the short term.\n- Examples: Hedge Funds, PIPE (Private Investment in Public Equity) Funds.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q36",
+      "questionNumber": 36,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The terms 'Central Tolerance' and 'Peripheral Tolerance' are frequently discussed in the context of which of the following biological processes?"
+      ],
+      "questionText": "The terms 'Central Tolerance' and 'Peripheral Tolerance' are frequently discussed in the context of which of the following biological processes?",
+      "options": {
+        "a": "The mechanism by which the body prevents the development of autoimmune diseases.",
+        "b": "The process of neutralizing viral pathogens before they enter the bloodstream.",
+        "c": "The gene editing methods to remove certain targeted genetic diseases.",
+        "d": "The combination of regulating specific genes that dictate cellular morphology and function."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Nobel Prize for 2025 in Physiology or Medicine was awarded to U.S.\n- based researchers, Mary E. Brunkow and\nFred Ramsdell, and Japan’s Shimon Sakaguchi. They were chosen for their “discoveries concerning peripheral immune tolerance.” Their discovery enabled a fundamental understanding of how the immune system works — how it is regulated and kept in check.\nThe immune system has built-in mechanisms to stop attacks from bacteria and viruses without harming the body's own healthy tissues. Central Tolerance occurs in the primary lymphoid organs (such as the thymus and bone marrow). Here, developing immune cells (T cells and B cells) are tested. If they strongly react to the body's own proteins, they are eliminated or altered before they are allowed to enter the bloodstream.\nPeripheral Tolerance acts as a secondary backup system in the rest of the body (the periphery). If any self-reactive immune cells manage to escape the central screening process, peripheral tolerance mechanisms suppress, deactivate, or destroy them before they can cause harm.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q37",
+      "questionNumber": 37,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "“These are small pockets of sound that are generally not disturbed by surrounding noise. They are designed to deliver sounds that only specific persons can hear, even if they are in a crowd.”",
+        "The above statement best describes:"
+      ],
+      "questionText": "Consider the following statements: “These are small pockets of sound that are generally not disturbed by surrounding noise. They are designed to deliver sounds that only specific persons can hear, even if they are in a crowd.” The above statement best describes:",
+      "options": {
+        "a": "Acoustic Shadowing",
+        "b": "Acoustic Diffusion Zone",
+        "c": "Audible Enclaves",
+        "d": "Infrasonic Resonance"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Audible enclaves are small pockets of sound that are generally not disturbed by surrounding noise. They are produced by new technologies designed to deliver sounds that only one specific person can hear, even if they are in a crowd. They refer to localized zones where sound is precisely directed and contained using specialized directional acoustic technology (such as audio spotlights or parametric speakers). It provides an immersive auditory experience without the need for cumbersome headphones and without creating noise pollution that disturbs the surrounding environment.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q38",
+      "questionNumber": 38,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following missiles:",
+        "I. Prithvi-II",
+        "II. BrahMos",
+        "III. SCALP (Storm Shadow)",
+        "Which of the above is/are ballistic missiles?"
+      ],
+      "questionText": "Consider the following missiles: I. Prithvi-II II. BrahMos III. SCALP (Storm Shadow) Which of the above is/are ballistic missiles?",
+      "options": {
+        "a": "I and II only",
+        "b": "I only",
+        "c": "III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A ballistic missile is a rocket-propelled missile that follows a suborbital trajectory to deliver one or more warheads to a predetermined target. It is powered mainly during the initial phase of flight and then relies on gravity to reach its target.\nA cruise missile is a self-propelled, guided missile that maintains a constant speed and flies at low altitudes within the Earth's atmosphere.\nOption I is correct: Prithvi-II: Prithvi-II is an indigenously developed Surface-to-Surface Missile Short-Range Ballistic Missile (SRBM), which has a range of around 350km and can carry a one tonne payload. Prithvi-II missile has been an integral part of India’s nuclear deterrence.\nOption II is incorrect: BrahMos: BrahMos is a supersonic cruise missile, which flies within the atmosphere using jet propulsion and does not follow a ballistic trajectory.\nOption III is incorrect: SCALP (Storm Shadow): SCALP, also known as Storm Shadow, is a long-range, air-launched cruise missile designed for deep-precision strikes. These missiles were used during Operation Sindoor and were fired from Rafale fighter jets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q39",
+      "questionNumber": 39,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Dimethyl Ether (DME), consider the following statements:",
+        "I. It can be produced synthetically from methanol.",
+        "II. It burns cleaner than conventional fuels, emitting no greenhouse gases.",
+        "III. It can be used as an alternative to Liquefied Petroleum Gas, which is used as a cooking fuel without much modification in the current cooking fuel infrastructure.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Dimethyl Ether (DME), consider the following statements: I. It can be produced synthetically from methanol. II. It burns cleaner than conventional fuels, emitting no greenhouse gases. III. It can be used as an alternative to Liquefied Petroleum Gas, which is used as a cooking fuel without much modification in the current cooking fuel infrastructure. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: DME or Dimethyl ether is produced synthetically from methanol, which can be obtained from dry biomass, coal or even captured carbon dioxide.\nStatement II is incorrect: The thermal efficiency of DME is comparable to conventional fuels, making it suitable for both domestic and industrial applications. It is known for its clean combustion characteristics, emitting very low levels of soot, nitrogen oxides (NOx), sulphur oxides (SOx) and particulate matter. So, though it is cleaner than conventional fuels, but it emits a certain amount of greenhouse gases.\nStatement III is correct: Liquified Petroleum Gas, a fuel used in most Indian households and industries, is stored in cylinders and primarily consists of propane and butane. DME can serve as an indigenous, sustainable and eco-friendly alternative to LPG. Substituting LPG with DME does not require any change in the existing infrastructure such as cylinders, gaskets, regulators, hoses or burners. Presently, standards for blending DME with LPG have already been established by the Bureau of Indian Standards (BIS) for domestic, commercial and industrial applications.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "With reference to the recently launched Tropical Forest Forever Facility (TFFF) during CoP 30 climate summit,",
+        "consider the following statements:",
+        "I. It aims to create a $125 billion investment fund to provide financial incentives for the conservation of tropical and subtropical moist broadleaf forests.",
+        "II. To be eligible for funding, a country must maintain a zero rate of deforestation.",
+        "III. India is one of the founding members and a lead endorser of this facility.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the recently launched Tropical Forest Forever Facility (TFFF) during CoP 30 climate summit, consider the following statements: I. It aims to create a $125 billion investment fund to provide financial incentives for the conservation of tropical and subtropical moist broadleaf forests. II. To be eligible for funding, a country must maintain a zero rate of deforestation. III. India is one of the founding members and a lead endorser of this facility. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The TFFF features the creation of a $125 billion Tropical Forest Investment Fund (TFIF) using market instruments, involving both public ($25 billion) and private ($100 billion) investment.\nStatement II is incorrect: One of the key conditions to receive money from the TFFF is that the recipient country's deforestation rate should be below 0.5% not zero.\nStatement III is incorrect: India is currently an observer, not a lead endorser or founding member of the facility.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q41",
+      "questionNumber": 41,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:",
+        "1. RTGs are miniature fission reactors.",
+        "2. RTGs are used for powering the onboard systems of spacecrafts.",
+        "3. RTGs can use Plutonium-238, which is a by-product of weapons development.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements: 1. RTGs are miniature fission reactors. 2. RTGs are used for powering the onboard systems of spacecrafts. 3. RTGs can use Plutonium-238, which is a by-product of weapons development. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Radioisotope thermoelectric generators (RTGs) convert heat from radioactive decay into electricity using thermocouples. They power spacecraft and remote installations, providing reliable energy for decades. RTGs are crucial for missions where solar power is impractical, such as deep space exploration, due to their longevity and durability in harsh environments.\nStatement 1 is incorrect. RTGs are not miniature fission reactors. Instead, they rely on the natural radioactive decay of plutonium-238 to generate heat, which is then converted into electricity using thermocouples. No nuclear fission occurs in RTGs.\nStatement 2 is correct. RTGs provide electrical power for spacecraft, especially in situations where solar power is impractical or insufficient. They have been used in more than two dozen U.S. space missions since 1961.\nStatement 3 is correct: As per the given combination of options RTGs can use Plutonium-238, which is a byproduct of weapons development.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q42",
+      "questionNumber": 42,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "The 'Greenwald limit', a term frequently mentioned in the context of advanced physics, is primarily related to",
+        "which of the following?"
+      ],
+      "questionText": "The 'Greenwald limit', a term frequently mentioned in the context of advanced physics, is primarily related to which of the following?",
+      "options": {
+        "a": "The maximum efficiency of a hydrogen fuel cell before it reaches thermal instability.",
+        "b": "The maximum density of plasma that can be stably confined in a tokamak fusion reactor.",
+        "c": "The critical temperature below which a dilute gas of bosons undergoes a transition into a Bose–Einstein condensate.",
+        "d": "The critical mass required to initiate a self-sustaining chain reaction in a thorium-based nuclear reactor."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In the reactors designed to sustain fusion reactions, scientists measure success using the triple product: the density multiplied by the temperature multiplied by the confinement time. All three numbers need to be very high for engineers to reach ignition, a state in which a fusion reaction sustains itself. Density is the number of fuel particles that can be squeezed into the reactor. More density means more collisions and more fusion.\nBut there is a limit to how much the reactor can hold the superhot plasma. This is Greenwald limit. The Greenwald limit is the maximum plasma density that can be stably confined in a tokamak fusion reactor.\nExceeding this limit leads to plasma instability and disruption, affecting sustained nuclear fusion. Recently, China’s EAST fusion reactor team has reported it had achieved stable plasmas at densities 1.3x to 1.65x of the limit.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which of the following statements is/are correct about antibiotics?",
+        "I. It can be naturally obtained from microorganisms like bacteria and fungi.",
+        "II. It can be effectively used to treat viral diseases like chickenpox.",
+        "III. Penicillin and Ofloxacin are examples of antibiotics.",
+        "Select the correct answer from the code given below:"
+      ],
+      "questionText": "Which of the following statements is/are correct about antibiotics? I. It can be naturally obtained from microorganisms like bacteria and fungi. II. It can be effectively used to treat viral diseases like chickenpox. III. Penicillin and Ofloxacin are examples of antibiotics. Select the correct answer from the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Antibiotics are fundamentally chemical substances produced by living organisms—primarily bacteria (like Streptomyces) and fungi (like Penicillium)—that inhibit the growth of or destroy other harmful microorganisms. While many modern antibiotics are now \"semi-synthetic\" (chemically modified in labs), their origins are biological.\nStatement II is incorrect: Antibiotics are specifically designed to target bacterial structures (like cell walls or bacterial ribosomes) that viruses do not possess. Chickenpox is caused by a virus. Therefore, antibiotics are ineffective against it. Using antibiotics for viral infections is a major cause of \"antibiotic resistance.\"\n\nStatement III is correct:\n- Penicillin: The first naturally produced antibiotic, discovered by Alexander Fleming from a fungus Penicillium notatum.\n- Ofloxacin: A synthetic antibiotic belonging to the fluoroquinolone class. It is widely used to treat bacterial infections of the skin, lungs, and urinary tract.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://nios.ac.in/media/documents/SrSec313NEW/313_LG_E/313_LG_E_L30.pdf https://ncert.nic.in/textbook/pdf/hecu103.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q44",
+      "questionNumber": 44,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "With reference to RNA interference (RNAi) technology, consider the following statements:",
+        "I. It can be used to deliver drugs to specific targeted cells.",
+        "II. It can be used to stimulate the innate immune response in humans.",
+        "III. It can be used for specific gene silencing therapies.",
+        "IV. It can be used by plants to develop cellular defense systems against parasite attacks.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to RNA interference (RNAi) technology, consider the following statements: I. It can be used to deliver drugs to specific targeted cells. II. It can be used to stimulate the innate immune response in humans. III. It can be used for specific gene silencing therapies. IV. It can be used by plants to develop cellular defense systems against parasite attacks. Which of the statements given above are correct?",
+      "options": {
+        "a": "III and IV only",
+        "b": "I, II, III and IV",
+        "c": "I, II and III only",
+        "d": "II and IV only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: RNAi can be used in drug delivery systems, especially in the context of targeting specific cells for the treatment of diseases like cancer. The RNAi mechanism can selectively silence genes in targeted cells, which can facilitate the delivery of therapeutics to those cells.\nStatement II is correct: RNA interference (RNAi) can help activate the body’s natural defense system, known as the innate immune response. This system is responsible for protecting us from infections. When the body detects a virus or infection, certain molecules are released to trigger an immune response. RNAi can encourage the body to recognize and respond to infections more effectively, leading to stronger protection against harmful invaders.\nStatement III is correct: RNA interference (RNAi) is considered a highly specific approach for gene silencing and holds tremendous potential for treatment of various pathologic conditions such as cardiovascular diseases, viral infections, and cancer.\nFor instance, RNA interference method involves silencing of a specific mRNA due to a complementary dsRNA molecule that binds to and prevents translation of the mRNA (silencing).\nStatement IV is correct: RNA interference technology can be used as a method of cellular defence against parasite attack. For instance, the phenomenon of RNAi has been successfully used to suppress essential genes of plant parasitic nematodes involved in parasitism, nematode development and mRNA metabolism.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to the \"Guggul\" plant, recently in news related to its international trade regulation under CITES,",
+        "consider the following statements:",
+        "I. It is a thorny tree primarily found in the arid regions of Rajasthan and Gujarat.",
+        "II. India supported the European Union's proposal to list Guggul in CITES Appendix II to ban its international trade.",
+        "III. The tree releases a resin, which is widely used in the perfume industry, Ayurvedic medicine, and for making incense sticks.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the \"Guggul\" plant, recently in news related to its international trade regulation under CITES, consider the following statements: I. It is a thorny tree primarily found in the arid regions of Rajasthan and Gujarat. II. India supported the European Union's proposal to list Guggul in CITES Appendix II to ban its international trade. III. The tree releases a resin, which is widely used in the perfume industry, Ayurvedic medicine, and for making incense sticks. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Guggul is a thorny tree found in semi-arid and arid regions, specifically in Rajasthan and Gujarat.\n\nStatement II is incorrect: India opposed the European Union's proposal to list guggul in CITES Appendix II. Appendix II allows trade under controlled circumstances, but India likely opposed it to protect local trade interests.\nStatement III is correct: Guggul is valued for the resin it releases, which is widely used in the perfume industry, Ayurvedic medicine, and for making incense sticks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q46",
+      "questionNumber": 46,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements in respect of the product P = x × y × z, where x, y and z are distinct odd prime numbers each less than 15:",
+        "I. The unit digit of P can be 1.",
+        "II. The unit digit of P can be 7.",
+        "III. The unit digit of P can be 9.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements in respect of the product P = x × y × z, where x, y and z are distinct odd prime numbers each less than 15: I. The unit digit of P can be 1. II. The unit digit of P can be 7. III. The unit digit of P can be 9. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The odd prime numbers less than 15 are:: 3, 5, 7, 11, 13 Since x, y, z must be distinct, we check possible products of three distinct primes.\n5 cannot be one of the prime number as it will give the unit gift has 5 in all the cases.\n\nStatement I is correct: Take: 3 × 7 × 11 = 231 The unit digit is 1. So\n\nStatement I is correct.\nStatement II is incorrect: Take: Try: 3 × 11 × 13 = 429 The unit digit is 9, not 7. Try: 7 × 11 × 13 = 1001 The unit digit is 1, not 7. Now observe all possible triples systematically:\n- 3 × 7 × 11 = 231 → unit digit 1-3 × 7 × 13 = 273 → unit digit 3-3 × 11 × 13 = 429 → unit digit 9-7 × 11 × 13 = 1001 → unit digit 1 From this list, the unit digit 7 does not occur.\nStatement III is correct: Take: 3 × 11 × 13 = 429 The unit digit is 9.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q47",
+      "questionNumber": 47,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Two investors M and N fund a startup. M puts ₹18,000 more than N, but M has invested for 10 months and N has invested for 1 year. If M's share is ₹1,000 more than N's share out of the total profit of ₹9,000, what is the total capital contributed by both investors combined?"
+      ],
+      "questionText": "Two investors M and N fund a startup. M puts ₹18,000 more than N, but M has invested for 10 months and N has invested for 1 year. If M's share is ₹1,000 more than N's share out of the total profit of ₹9,000, what is the total capital contributed by both investors combined?",
+      "options": {
+        "a": "₹90,000",
+        "b": "₹54,000",
+        "c": "₹36,000",
+        "d": "₹72,000"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Let N’s investment = ₹x Then: M’s investment = ₹(x + 18,000) Profit is divided in the ratio of capital × time.\nSo the profit-sharing ratio is: M : N = (x + 18,000) × 10 : x × 12 = 5(x + 18,000) : 6x Find the ratio of profit shares Total profit = ₹9,000 M’s share is ₹1,000 more than N’s share. Let N’s share = ₹y Then:\nM’s share = ₹(y + 1,000) Now: y + (y + 1,000) = 9,000, so y = 4,000 So: N’s share = ₹4,000 M’s share = ₹5,000 Thus, the ratio of profit shares is: M : N = 5,000 : 4,000 = 5 : 4 Equate the two ratios From investment × time:\n5(x + 18,000) : 6x = 5 : 4 Upon solving, we get, x = 36,000 N’s investment = ₹36,000 M’s investment = ₹36,000 + ₹18,000 = ₹54,000 Total capital = ₹36,000 + ₹54,000 = ₹90,000",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q48",
+      "questionNumber": 48,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "X's production is 28% higher than Y's production, which is 25% higher than Z's production. By what percentage is Z's production lower than X's production?"
+      ],
+      "questionText": "X's production is 28% higher than Y's production, which is 25% higher than Z's production. By what percentage is Z's production lower than X's production?",
+      "options": {
+        "a": "32.50%",
+        "b": "35.25%",
+        "c": "37.50%",
+        "d": "60.00%"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Let Z’s production = 100 units. Find Y’s production Y’s production is 25% higher than Z’s production.\nSo: Y = 100 + 25% of 100 = 125 units Find X’s production X’s production is 28% higher than Y’s production. So: X = 125 + 28% of 125 So X’s production = 160 units Compare Z with X Now: X = 160, Z = 100 So Z’s production is 60 units lower than X’s production.\nFind percentage by which Z is lower than X (Difference / X) × 100 = (60 / 160) × 100 = 37.5%",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q49",
+      "questionNumber": 49,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 Volatile organic compounds (VOCs) were long believed to accumulate primarily as a result of human activities such as vehicular emissions, power generation, and industrial processes. However, scientific evidence now shows that certain trees also emit VOCs naturally, particularly under conditions of strong sunlight and high temperatures. These are known as biogenic volatile organic compounds (BVOCs). In the presence of heat and sunlight, these compounds react in the atmosphere to form ground-level ozone, a hazardous air pollutant and potent greenhouse gas. This pollutant poses serious risks to human health and can also reduce agricultural productivity. This makes it important to look beyond the thermometer in the coming summer. The sky may appear blue and the air may seem clear, unlike the smog-laden winter, but this clarity can be deceptive. Under the invisible interplay of heat and sunlight, ozone levels can quietly and persistently rise, leading to tangible consequences for public health.",
+        "Which one of the following statements best reflects the most logical and rational inferences that can be drawn from the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 Volatile organic compounds (VOCs) were long believed to accumulate primarily as a result of human activities such as vehicular emissions, power generation, and industrial processes. However, scientific evidence now shows that certain trees also emit VOCs naturally, particularly under conditions of strong sunlight and high temperatures. These are known as biogenic volatile organic compounds (BVOCs). In the presence of heat and sunlight, these compounds react in the atmosphere to form ground-level ozone, a hazardous air pollutant and potent greenhouse gas. This pollutant poses serious risks to human health and can also reduce agricultural productivity. This makes it important to look beyond the thermometer in the coming summer. The sky may appear blue and the air may seem clear, unlike the smog-laden winter, but this clarity can be deceptive. Under the invisible interplay of heat and sunlight, ozone levels can quietly and persistently rise, leading to tangible consequences for public health. Which one of the following statements best reflects the most logical and rational inferences that can be drawn from the passage?",
+      "options": {
+        "a": "Emissions of volatile organic compounds are more prominent during the summer season.",
+        "b": "The rise in volatile organic compound (VOC) emissions results from both natural processes and human activities.",
+        "c": "Ground-level ozone pollution associated with volatile organic compounds is often overlooked as clear summer weather suggests clean air.",
+        "d": "Planting tree species that do not emit volatile organic compounds may help reduce overall air pollution."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage mentions the idea, statement a does not best reflect the most logical and rational inferences that can be drawn from the passage as it only talks about VOCs and does not highlight pollution caused by ground level ozone.\nStatement b is incorrect. The passage states “Volatile organic compounds (VOCs) were long believed to accumulate primarily as a result of human activities.” “However, scientific evidence now shows that certain trees also emit VOCs naturally”. Yet, statement b does not best reflect the most logical and rational inferences that can be drawn from the passage as it does not highlight the result of rising VOCs.\nStatement c is correct. It best reflects the most logical and rational inferences that can be drawn from the passage as it highlights the main idea of the passage. It emphasizes that while the atmosphere may seem to be clean during summers, pollution due to ground level ozone is high.\nStatement d is incorrect. While the passage states that some trees emit BVOCs, it does not suggest that species which do not emit such compounds (BVOCs) should be planted. Therefore, statement d does not best reflect the most logical and rational inferences that can be drawn from the passage",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test16-q50",
+      "questionNumber": 50,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. Rising temperatures due to climate change are increasing pollution from biogenic volatile organic compounds.",
+        "II. Clear summer skies do not necessarily indicate the absence of harmful air pollution.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. Rising temperatures due to climate change are increasing pollution from biogenic volatile organic compounds. II. Clear summer skies do not necessarily indicate the absence of harmful air pollution. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage states “that certain trees also emit VOCs naturally, particularly under conditions of strong sunlight and high temperatures”, it does not explicitly mention that temperatures are rising as a result of climate change. Therefore, the assumption is outside the scope of the passage and thus incorrect.\nStatement II is correct. The passage states “The sky may appear blue and the air may seem clear, unlike the smog-laden winter, but this clarity can be deceptive. Under the invisible interplay of heat and sunlight, ozone levels can quietly and persistently rise, leading to tangible consequences for public health.” Therefore, we can conclude that the assumption made in\n\nstatement II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

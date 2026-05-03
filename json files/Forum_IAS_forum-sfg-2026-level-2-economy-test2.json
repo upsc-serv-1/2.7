@@ -1,0 +1,1853 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test2",
+  "title": "Test 2- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.",
+        "Statement II: Bondholders are lenders to a company whereas stockholders are its owners.",
+        "Statement III: For repayment purposes, bondholders are prioritized over stockholders by a company.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: As regards returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders. Statement II: Bondholders are lenders to a company whereas stockholders are its owners. Statement III: For repayment purposes, bondholders are prioritized over stockholders by a company. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement I explains Statement II",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Companies raise long-term funds either by issuing bonds or by selling stocks. When a company issues bonds, it is essentially borrowing money from investors, who are known as bondholders. On the other hand, when a company issues stocks, it is selling ownership shares to investors called stockholders (or shareholders).\nRegarding returns from an investment in a company, generally, bondholders are considered to be relatively at lower risk than stockholders.\n\nStatement II is correct: A stockholder is considered as the owner of the company with equity rights, while a bondholder is a creditor who lends money and holds no ownership in the company.\nStatement III is correct: Bondholders are given repayment priority over stockholders because bonds are issued for a fixed term with a predetermined interest rate and are repayable at maturity. In contrast, capital from shares is not typically returned during the company’s lifetime, and returns to stockholders vary based on the company’s profits.\nThus bondholders are considered as the relatively lower risk than stockholders because bondholders are with no ownership stake, they have a legal right to fixed repayments and are prioritized over stockholders who are the owners of the company and receive returns based on the profit of the company.\nHence\n\nOption a is correct: Both Statement II and Statement III are correct and both of them explain Statement I.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "What would be the impact on the economy if people start holding more currency in hand and withdraw more money from bank savings and time deposits?",
+        "I. Money multiplier decreases",
+        "II. Currency deposit ratio decreases",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What would be the impact on the economy if people start holding more currency in hand and withdraw more money from bank savings and time deposits? I. Money multiplier decreases II. Currency deposit ratio decreases Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Option I is correct: When people start holding more cash and withdraw money from banks savings and time deposits, the currency–deposit ratio increases. As a result, banks are left with fewer reserves to give loans. This weakens the ability of the banking system to expand the money supply and provide credit to consumers and businesses. Since banks have fewer deposits, their capacity to lend and create new demand deposits is reduced. This results in a decrease in money multiplier in the economy.\nOption II is incorrect: If people hold more currency in hand and withdraw money from bank deposits, the currency-deposit ratio (CDR) increases. The currency deposit ratio is defined as the proportion of money the public holds as cash/currency versus the amount deposited in banks. A higher CDR indicates a preference for cash while a lower ratio indicates higher deposits with the banks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which one of the following statements best describes the term ‘liquidity overhang’ in an economy?"
+      ],
+      "questionText": "Which one of the following statements best describes the term ‘liquidity overhang’ in an economy?",
+      "options": {
+        "a": "A situation where banks face a shortage of cash due to a sudden increase in credit demand.",
+        "b": "Adverse economic conditions where expansionary monetary policy fails to stimulate credit growth and economic activity.",
+        "c": "A situation in which excess money supply in the banking system poses a potential risk of fuelling inflation.",
+        "d": "A situation where commercial banks maintain higher statutory reserves, reducing the availability of credit in the economy."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: Liquidity overhang refers to an excess supply of money or cash within an economy (or banking system) that exceeds the current demand for it, often causing inflationary pressure or indicating a liquidity trap where monetary policy cannot easily spur further growth. It occurs when central banks pump in liquidity that remains stagnant rather than being spent or invested.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following scenario:",
+        "‘Suppose an IT professional spends Rs. 100 on fruits. The fruit seller now buys clothes using that money. And, then the cloth retailer feels the need to upgrade her IT system—so returns that Rs. 100 back to the IT professional. In the process, business worth Rs. 300 ends up getting generated by the same Rs. 100 note.’",
+        "In an economy the above scenario reflects:"
+      ],
+      "questionText": "Consider the following scenario: ‘Suppose an IT professional spends Rs. 100 on fruits. The fruit seller now buys clothes using that money. And, then the cloth retailer feels the need to upgrade her IT system—so returns that Rs. 100 back to the IT professional. In the process, business worth Rs. 300 ends up getting generated by the same Rs. 100 note.’ In an economy the above scenario reflects:",
+      "options": {
+        "a": "Velocity of circulation of money",
+        "b": "Liquidity Ratio",
+        "c": "Price Elasticity",
+        "d": "Neutrality of Money"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The number of times a unit of money changes hands during the unit period is called the velocity of circulation of money. It is the number of times money moves from one agent to another. It also refers to how much a unit of currency is used in a given period of time. Broadly speaking, it stands for the amount of GDP that a single rupee is able to generate. For instance, suppose an IT professional spends Rs. 100 on fruits. The fruit seller now buys clothes using that money. And, then the cloth retailer feels the need to upgrade her IT system—so returns that Rs. 100 back to the IT professional. In the process, business worth Rs. 300 ends up getting generated by the same Rs.100 note.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec103.pdf (Pg. 44) https://www.financialexpress.com/opinion/velocity-of-money-demonetisation-exercise-is-partial-heres- why/447606/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Statutory Liquidity Ratio (SLR), consider the following statements:",
+        "I. It is the reserve which banks have to maintain with the Reserve Bank of India as a certain percentage of their total net demand and time liabilities.",
+        "II. It is used to control the expansion of the bank credit and ensure solvency of commercial banks.",
+        "III. Cash Management Bills (CMBs) are considered eligible liquid assets for SLR requirements.",
+        "IV. State Co-operative Banks are exempted from mandatorily maintaining SLR.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Statutory Liquidity Ratio (SLR), consider the following statements: I. It is the reserve which banks have to maintain with the Reserve Bank of India as a certain percentage of their total net demand and time liabilities. II. It is used to control the expansion of the bank credit and ensure solvency of commercial banks. III. Cash Management Bills (CMBs) are considered eligible liquid assets for SLR requirements. IV. State Co-operative Banks are exempted from mandatorily maintaining SLR. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I, III and IV",
+        "d": "II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: The ratio of liquid assets to demand and time liabilities in India is known as the Statutory Liquidity Ratio (SLR). It is the minimum percentage of deposits that the commercial bank maintains through gold, cash and Government securities. However, these deposits are maintained by the banks themselves and not with the Reserve Bank of India (RBI).\nThe cash reserve ratio refers to the cash which banks have to maintain with the Reserve Bank of India as a certain percentage of their demand and time liabilities.\nStatement II is correct: The main objectives for maintaining the SLR are as follows:\n- SLR is maintained in order to control the expansion of the bank credit; by changing the level of SLR, RBI can increase or decrease bank credit expansion.\n- SLR ensures the solvency of commercial banks; by determining SLR, RBI in a way compels the commercial banks to invest in government securities and government bonds.\n- The RBI can increase the SLR to contain inflation, suck liquidity in the market to tighten the measures to safeguard the customers money.\nStatement III is correct: Cash Management Bills (CMBs) are reckoned as an eligible investment in Government Securities (G-Secs) by banks for SLR purpose under Section 24 of the Banking Regulation Act, 1949. CMBs are issued at a discount and redeemed at face value on maturity.\nStatement IV is incorrect: As per the Banking Regulation Act 1949, the State Co-operative Banks (SCBs) and the District Central Co-operative Banks (DCCBs) are required to maintain assets as part of the SLR requirement in cash, gold or unencumbered investment in approved securities. DCCBs are allowed to meet their SLR requirement by maintaining cash balances with their respective State Co-operative Bank.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "Consider the following statements with reference to money multiplier:",
+        "Statement I: In a fractional reserve banking system in an economy, the money multiplier is always less than 1.",
+        "Statement II: The banks in a fractional reserve system have to hold a fraction of their deposits as reserves.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements with reference to money multiplier: Statement I: In a fractional reserve banking system in an economy, the money multiplier is always less than 1. Statement II: The banks in a fractional reserve system have to hold a fraction of their deposits as reserves. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Money multiplier (MM) refers to how a deposit can lead to an increase in the total effect of the money supply.\nStatement I is not correct: In a functional economy based on a fractional reserve banking system, the money multiplier is greater than 1. This is because, in a standard, active banking system, commercial banks are only required to hold a fraction of their deposits as reserves (the reserve ratio) and are able to lend out the remainder. If the reserve requirement is less than 100%, the multiplier is necessarily greater than 1. When a bank lends out money, that money is eventually redeposited into the banking system, allowing the cycle to repeat.\nStatement II is correct: The commercial banks in an economy operate on the basis of a fractional reserve system. The bank have to hold a fraction of their deposit as reserves. Eg. In India, for example, the cash reserve ratio and statutory liquidity ratio (SLR).\nFor example, if someone deposits ₹10 lakh in a bank, the bank keeps a fraction of the deposit as reserves and lends out the remaining amount as loans. These loans are subsequently redeposited in the banking system, leading to multiple expansion of deposits. As a result, the total money supply becomes greater than the initial deposit.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://egyankosh.ac.in/bitstream/123456789/97880/1/Unit-15.pdf (page 240) https://ncert.nic.in/textbook/pdf/leec103.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "Under the Fiscal Responsibility and Budget Management (FRBM) Act, 2003, the Reserve Bank of India may subscribe to the primary issues of Central Government securities under which of the following exceptional circumstances?",
+        "I. To meet temporary mismatches in cash receipts and payments of government.",
+        "II. During a state of war or a national security emergency.",
+        "III. When the fiscal deficit of the government exceeds the target by more than 10% in a single financial year.",
+        "IV. During structural reforms in the economy with unanticipated fiscal implications.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Under the Fiscal Responsibility and Budget Management (FRBM) Act, 2003, the Reserve Bank of India may subscribe to the primary issues of Central Government securities under which of the following exceptional circumstances? I. To meet temporary mismatches in cash receipts and payments of government. II. During a state of war or a national security emergency. III. When the fiscal deficit of the government exceeds the target by more than 10% in a single financial year. IV. During structural reforms in the economy with unanticipated fiscal implications. Select the correct answer using the code given below:",
+      "options": {
+        "a": "II, III and IV only",
+        "b": "II and IV only",
+        "c": "III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Option I is incorrect: As per the Fiscal Responsibility and Budget Management (FRBM) Act, 2003, the Central Government may borrow from the Reserve Bank of India by way of advances to meet temporary excess of cash disbursement over cash receipts during any financial year in accordance with the agreements which may be entered into by that Government with the Reserve Bank. In this case, the borrowing is done through Ways and Means Advances (WMA), and not through the subscription of the primary issues of the Central Government securities.\nOptions II and IV are correct: As per Section 4(2) of the FRBM Act, 2003, RBI may subscribe to the primary issues of Central Government securities under following exceptional circumstances:\nExceeding annual fiscal deficit target due to ground or grounds of national security, act of war, national calamity, collapse of agriculture severely affecting farm output and incomes, structural reforms in the economy with unanticipated fiscal implications, decline in real output growth of a quarter by at least three per cent points below its average of the previous four quarters, may be allowed for the purposes of this section.\nOption III is incorrect: FRBM Act does not allow RBI to subscribe to the primary issue of Central Government securities when the fiscal deficit of the government exceeds the target by more than 10% in a single financial year.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to the Merchant Discount Rate, consider the following statements:",
+        "I. It is a fee that banks charge merchants for processing payments in real time",
+        "II. Presently, no merchant discount rate is levied on BHIM-UPI transactions.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Merchant Discount Rate, consider the following statements: I. It is a fee that banks charge merchants for processing payments in real time II. Presently, no merchant discount rate is levied on BHIM-UPI transactions. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Merchant Discount Rate (alternatively referred to as the Transaction Discount Rate or TDR) is a rate charged to a merchant for the payment processing of debit and credit card transactions. Thus MDR is a fee that banks charge merchants for processing payments in real time.\nStatement II is correct: To promote digital transactions, MDR was made zero from 2020 for RuPay debit cards and BHIM-UPI transactions through amendments in Section 10A of the Payments and Settlement Systems Act, 2007 and Section 269SU of the Income Tax Act, 1961.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT), consider the following statements:",
+        "I. Unlike NEFT, which processes transactions individually and instantly, RTGS transactions are collected and settled in batches.",
+        "II. Unlike in NEFT, there is a minimum amount below which money cannot be remitted through RTGS.",
+        "III. Unlike NEFT, RTGS can be used to transfer funds abroad.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT), consider the following statements: I. Unlike NEFT, which processes transactions individually and instantly, RTGS transactions are collected and settled in batches. II. Unlike in NEFT, there is a minimum amount below which money cannot be remitted through RTGS. III. Unlike NEFT, RTGS can be used to transfer funds abroad. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "I and II",
+        "c": "III only",
+        "d": "II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Real Time Gross Settlement (RTGS) is a system where there is continuous and real-time settlement of fund-transfers, individually on a transaction-by-transaction basis (without netting). 'Real Time' means the processing of instructions at the time they are received; 'Gross Settlement' means that the settlement of funds transfer instructions occurs individually. On the other hand, National Electronic Funds Transfer (NEFT) is a nation-wide centralised payment system owned and operated by the Reserve Bank of India (RBI).\nStatement I is incorrect: NEFT is an electronic fund transfer system in which the transactions received up to a particular time are processed in batches.\nContrary to this, in RTGS, the transactions are processed continuously on a transaction-by-transaction basis throughout the day.\n\nStatement II is correct: There is no limit imposed by the RBI for funds transfer through the NEFT system. However, a member bank may place amount limits based on its own risk perception with the approval of its Board. The RTGS system is primarily meant for large value transactions. The minimum amount to be remitted through RTGS is ₹ 2,00,000/\n- with no upper or maximum ceiling.\nStatement III is incorrect: The outbound remittances through the NEFT system are permitted only to Nepal under the Indo-Nepal Remittance Facility (INRF) Scheme. Under this Scheme, the remitter can transfer funds from any of the NEFT-enabled bank branches in India to Nepal, irrespective of whether the beneficiary in Nepal maintains an account with a bank branch in Nepal or not. The beneficiary would receive funds in Nepalese Rupees. Other than the Indo-Nepal Remittance Facility (INRF) Scheme, NEFT is a domestic fund transfer system.\nRTGS is a domestic fund transfer system in India. It can only be used for transferring funds within the country.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q10",
+      "questionNumber": 10,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "The Chairperson and Members of Lokpal of India are appointed by the President of India on the recommendation of a selection committee. In this context, consider the following:",
+        "I. Prime Minister of India",
+        "II. Chairman of the Rajya Sabha",
+        "III. Union Home Minister",
+        "IV. Leader of opposition in the Lok Sabha",
+        "V. Speaker of Lok Sabha",
+        "How many of the above are part of the selection committee that recommends appointments to the Lokpal?"
+      ],
+      "questionText": "The Chairperson and Members of Lokpal of India are appointed by the President of India on the recommendation of a selection committee. In this context, consider the following: I. Prime Minister of India II. Chairman of the Rajya Sabha III. Union Home Minister IV. Leader of opposition in the Lok Sabha V. Speaker of Lok Sabha How many of the above are part of the selection committee that recommends appointments to the Lokpal?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Lokpal of India is a statutory body established under the Lokpal and Lokayuktas Act, 2013.\nIt serves as an independent authority to inquire into allegations of corruption against certain categories of public functionaries, including the Prime Minister, Ministers, Members of Parliament, and officials of the central government.\nComposition of Lokpal: Lokpal consists of a Chairperson and up to eight Members. Of these:\n- 50% must be Judicial Members.\n- At least 50% of the members must be from Scheduled Castes (SC), Scheduled Tribes (ST), Other Backward Classes (OBC), minorities, or women.\nThe Chairperson can be:\n- A former Chief Justice of India, or-A former Judge of the Supreme Court, or-An eminent person with prescribed qualifications.\nAppointment Process: The Chairperson and Members of the Lokpal are appointed by the President of India, but only on the recommendation of a high-level Selection Committee.\nAs per Section 4 of the Lokpal and Lokayuktas Act, 2013, the Selection Committee consists of: 1. Prime Minister (Chairperson) 2. Speaker of the Lok Sabha 3. Leader of Opposition in the Lok Sabha 4. Chief Justice of India or a Judge of the Supreme Court nominated by him 5. One eminent jurist, as nominated by the President based on the recommendation of the other four members Hence, out of the given options, the Chairman of the Rajya Sabha and Union Home Minister are not part of the selection committee.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following?",
+        "1. Lending to trade and industry bodies when they fail to borrow from other sources.",
+        "2. Providing liquidity to the banks having a temporary crisis.",
+        "3. Lending to governments to finance budgetary deficits.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "In India, the central bank’s function as the ‘lender of last resort’ usually refers to which of the following? 1. Lending to trade and industry bodies when they fail to borrow from other sources. 2. Providing liquidity to the banks having a temporary crisis. 3. Lending to governments to finance budgetary deficits. Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A lender of last resort is an institution, usually a country’s central bank, that offers loans to banks or other eligible institutions that are experiencing financial difficulty or are considered highly risky or near collapse.\nThe lender of last resort functions to protect individuals who have deposited funds and to prevent customers from withdrawing out of panic from banks with temporary limited liquidity. Commercial banks usually try not to borrow from the lender of last resort because such action indicates that the bank is experiencing a financial crisis.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following statements about a joint-stock company.",
+        "1. It has a legal existence.",
+        "2. There is limited liability of shareholders.",
+        "3. It has a democratic management.",
+        "4. It has collective ownership.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements about a joint-stock company. 1. It has a legal existence. 2. There is limited liability of shareholders. 3. It has a democratic management. 4. It has collective ownership. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 3 only",
+        "c": "3 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement 1 is correct-A joint-stock company has a separate legal existence from its shareholders, meaning it can own property, enter into contracts, and sue or be sued in its own name.\nStatement 2 is correct-The joint-stock company has limited liability for its shareholders. This means that the personal liability of shareholders is limited to the amount they have invested in the company. In case of company debts or legal obligations, shareholders are not personally responsible beyond their investment.\nStatement 3 is correct-Joint-stock companies typically operate under a system of democratic management, where major decisions are made collectively by the shareholders. Shareholders usually have voting rights and elect a board of directors to oversee the company’s operations and make important decisions on their behalf.\nStatement 4 is correct-A joint-stock company is collectively owned by its shareholders, who contribute capital to the company in exchange for shares.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2019,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "Consider the following statements regarding the Digital Rupee (e₹):",
+        "I. It is a liability of the Reserve Bank of India.",
+        "II. It is available in the same denominations as physical currency.",
+        "III. No interest is paid to the customers on the digital rupee balances in the e₹ wallet.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Digital Rupee (e₹): I. It is a liability of the Reserve Bank of India. II. It is available in the same denominations as physical currency. III. No interest is paid to the customers on the digital rupee balances in the e₹ wallet. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "II and III only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Digital Rupee or e₹, is India's Central Bank Digital Currency (CBDC). It is the digital form of India's physical currency, the Rupee (₹). e₹ is issued by the Reserve Bank of India (RBI) in digital form and e₹ is at par with the physical currency, offering features similar to physical cash like convenience of use, guarantee of RBI, finality of settlement, etc. e₹ is stored in the user's digital wallet.\nStatement I is correct: As per Section 26 of the Reserve Bank of India (RBI) Act, 1934, every e₹ bank note shall be legal tender at any place in India in payment or on account for the amount expressed therein and is guaranteed by the Central Government. e₹, being a digital form of the ₹ bank note, is legal tender and is the liability of the Reserve Bank of India.\nStatement II is correct: For ease of use, e₹ is available in the same denominations as physical currency. This provides the users with the same familiarity and convenience as with usage of physical currency notes.\nStatement III is correct: Given the cash-like features of e₹, there is no interest payable on the e-wallet balances that is used to store the digital rupee.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "With reference to Payments Regulatory Board, consider the following statements:",
+        "I. It is established under the Reserve Bank of India Act of 1934.",
+        "II. The Union Finance Minister is the ex-officio chairperson of the board.",
+        "III. It is responsible for the regulation of both domestic and cross-border payment systems in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Payments Regulatory Board, consider the following statements: I. It is established under the Reserve Bank of India Act of 1934. II. The Union Finance Minister is the ex-officio chairperson of the board. III. It is responsible for the regulation of both domestic and cross-border payment systems in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II and III",
+        "c": "III only",
+        "d": "I and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The amendments to the Payment and Settlement Systems Act, 2007 came into force in May 2025. Pursuant to this notification, the earlier Board for Regulation and Supervision of Payment and Settlement Systems (BPSS), which functioned as a committee of the Central Board of the RBI, has been replaced by the Payments Regulatory Board with effect from the same date.\nStatement I is incorrect: Payments Regulatory Board is a statutory body established based on the Payment and Settlement Systems (PSS) Act of 2007 (not established under RBI Act of 1934,)\n\nStatement II is incorrect: Payments Regulatory Board is a six-members board led by RBI Governor as Chairman (not Union Finance Minister). The other members include the Deputy Governor, RBI, in charge of Payment & Settlement Systems; Executive Director, RBI, in charge of Payment & Settlement Systems; Secretary Department of Financial Services; Secretary Ministry of Electronics and Information Technology and Aruna Sundararajan, IAS (Retd).\nStatement III is correct: The Board is responsible for the regulation and supervision of all payment systems including electronic and non-electronic, domestic and cross-border systems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "In India, which of the following can trade in Corporate Bonds and Government Securities?",
+        "1. Insurance Companies",
+        "2. Pension Funds",
+        "3. Retail Investors",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In India, which of the following can trade in Corporate Bonds and Government Securities? 1. Insurance Companies 2. Pension Funds 3. Retail Investors Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** All three categories listed (Insurance Companies, Pension Funds and Retail Investors) can trade in corporate bonds and government securities in India.\nInsurance Companies: Insurance companies are major players in the Indian bond market. They invest a significant portion of the premiums they collect from policyholders into fixed-income instruments like corporate bonds and government securities. Pension Funds: Pension funds also invest in corporate bonds and government securities to generate returns and ensure stability for the pension payouts. Pension funds are permitted to invest in corporate bonds or securities rated ‘A’ or higher, or their equivalent on the relevant rating scale. However, investments in bonds rated between ‘A’ and ‘AA\n- ’ are limited to 10% of the pension fund’s total corporate bond portfolio.\nRetail Investors: In recent years, the Indian government has made efforts to increase retail investor participation in the bond market. Retail investors can now invest in both corporate bonds and government securities directly or indirectly.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "As per the Economic Survey 2025-26, which of the following are likely to cause a decrease in the long-term interest rates in an economy?",
+        "I. Increase in the Current Account Surplus",
+        "II. Rise in the Government’s debt levels",
+        "III. Increase in gross domestic product (GDP) growth rates",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "As per the Economic Survey 2025-26, which of the following are likely to cause a decrease in the long-term interest rates in an economy? I. Increase in the Current Account Surplus II. Rise in the Government’s debt levels III. Increase in gross domestic product (GDP) growth rates Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "I and III",
+        "c": "II and III",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**Statement I is correct. According to the Economic Survey**2025-26**, a study suggests that a one percentage point improvement in a country's Current Account Balance leads to a 2.8 basis point reduction in interest rates in the long run.\nA higher current account surplus implies net capital inflows or excess domestic savings. This typically adds to loanable funds, easing liquidity conditions. This greater availability of funds generally reduces long-term interest rates.\nStatement II is incorrect. Higher government borrowing increases demand for funds in financial markets. When the government needs more money, it borrows from the financial market by issuing bonds or treasury bills. This increases the overall demand for funds in the market. Because the supply of money is limited, higher demand pushes interest rates up.\nStatement III is incorrect. Faster economic growth raises investment demand and credit appetite. When the economy grows faster, businesses see more opportunities to expand. So they want to invest more. For this, they borrow more money, raising demand for credit. Higher demand pushes interest rates up.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "When the Reserve Bank of India reduces the Cash Reserve Ratio by 100 basis points, which of the following is likely to happen?"
+      ],
+      "questionText": "When the Reserve Bank of India reduces the Cash Reserve Ratio by 100 basis points, which of the following is likely to happen?",
+      "options": {
+        "a": "The Government borrowing from commercial banks will drastically reduce.",
+        "b": "Foreign Institutional Investors will bring more capital into the country",
+        "c": "Scheduled Commercial Banks may cut their lending rates.",
+        "d": "It will reduce inflation in the economy."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Cash Reserve Ratio (CRR) is a percentage of a bank's deposits that must be kept with the RBI as reserves.\nThe cut in CRR would release primary liquidity to the banking system. Besides providing durable liquidity, it will reduce the cost of funding of the banks, thereby helping in monetary policy transmission to the credit market. Thus, scheduled Commercial Banks may cut their lending rates.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "With reference to Indian Economy, Reserve Bank of India implements the market stabilization scheme primarily through"
+      ],
+      "questionText": "With reference to Indian Economy, Reserve Bank of India implements the market stabilization scheme primarily through",
+      "options": {
+        "a": "Open Market Operations",
+        "b": "Repo operations",
+        "c": "Reverse Repo operations",
+        "d": "Retail Direct Auction"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Market Stabilization Scheme (MSS) was introduced by the RBI in April 2004 as an additional instrument to absorb excess liquidity from the system. Under this scheme, the Government issues Treasury Bills (T-Bills) and dated securities over and above its normal borrowing requirements. The funds raised are kept in a separate account known as the Market Stabilization Scheme Account and are not used for regular government expenditure. The securities issued under this scheme, commonly referred to as MSS bonds, are issued by the RBI through Open Market Operation on behalf of the Government specifically to withdraw surplus liquidity when regular open market operations are insufficient. These securities generally have short-term maturities, often less than six months, though the tenure may vary depending on liquidity conditions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "With reference to transactions carried out through the Unified Payments Interface (UPI), consider the following:",
+        "I. A customer scanning a QR code at a grocery store to make payment.",
+        "II. An e-commerce platform sends a collect request to a user’s UPI application for payment of an order.",
+        "III. A user enters a mobile number or UPI ID and transfers money to another person.",
+        "Which of the above is/are example(s) of ‘Push Transactions’ under the UPI framework?"
+      ],
+      "questionText": "With reference to transactions carried out through the Unified Payments Interface (UPI), consider the following: I. A customer scanning a QR code at a grocery store to make payment. II. An e-commerce platform sends a collect request to a user’s UPI application for payment of an order. III. A user enters a mobile number or UPI ID and transfers money to another person. Which of the above is/are example(s) of ‘Push Transactions’ under the UPI framework?",
+      "options": {
+        "a": "II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** ‘Push’ transactions in the UPI framework is where customers initiate payments by scanning QR codes or using other secure methods. It reduces the risk of fraudulent merchants pulling money from users’ accounts without proper verification. On the other hand, a ‘collect call’ transaction, also known as a pull payment, allows merchants to request payments from customers, who then approve the transaction via their UPI app.\nOption I is correct: When a customer scans a QR code at a grocery store to pay for items purchased, the payment is initiated by the customer. S/he enters the amount or confirms the pre-filled amount and authorizes the transaction using UPI PIN. Since the transfer of funds is directly triggered by the payer, it is classified as a push transaction.\nOption II is incorrect: When an e-commerce platform sends a “collect request,” it is asking the user to approve a payment. The merchant initiates the request, and the user only authorizes it. Since the payee (merchant) triggers the payment request, it is treated as a collect call, and not a push transaction. A UPI pull transaction, also called a collect request, is a type of payment where the recipient starts the transaction instead of the sender.\nOption III is correct: When a user manually enters a mobile number or UPI ID and transfers money to a friend, the entire transaction is initiated and executed by the payer. The payer selects the recipient and authorizes the payment using UPI PIN. Hence, it is an example of a push transaction.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q20",
+      "questionNumber": 20,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Governance and Policies",
+      "statementLines": [
+        "The national motto of India, Satyameva Jayate, inscribed below the Lion Capital of Ashoka, is derived from which of the following ancient texts?"
+      ],
+      "questionText": "The national motto of India, Satyameva Jayate, inscribed below the Lion Capital of Ashoka, is derived from which of the following ancient texts?",
+      "options": {
+        "a": "Rigveda",
+        "b": "Mundaka Upanishad",
+        "c": "Bhagavad Gita",
+        "d": "Brihadaranyaka Upanishad"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The phrase Satyameva Jayate (सत्यमेव जयते), meaning \"Truth alone triumphs,\" is derived from the Mundaka Upanishad. This Upanishad is one of the principal Upanishads and forms part of the Atharvaveda, one of the four Vedas in Hindu philosophy.\n- Satyameva Jayate was adopted as the National Motto of India on 26 January 1950.\n- It is written in Devnagari script and is inscribed below the Lion Capital of Ashoka, which serves as the official State emblem of India.\n- The phrase signifies India's commitment to truth, righteousness, and justice in governance and public life.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "The term ‘Core Banking Solution’ is sometimes seen in the news. Which of the following statements best describes/ describe this term?",
+        "1. It is a networking of a bank’s branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts.",
+        "2. It is an effort to increase RBI’s control over commercial banks through computerization.",
+        "3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "The term ‘Core Banking Solution’ is sometimes seen in the news. Which of the following statements best describes/ describe this term? 1. It is a networking of a bank’s branches which enables customers to operate their accounts from any branch of the bank on its network regardless of where they open their accounts. 2. It is an effort to increase RBI’s control over commercial banks through computerization. 3. It is a detailed procedure by which a bank with huge non-performing assets is taken over by another bank. Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Core Banking Solution: (CBS) is networking of branches, which enables Customers to operate their accounts, and avail banking services from any branch of the Bank on CBS network, regardless of where he maintains his account. CBS is that all CBS branches are inter-connected with each other.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2016,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Credit Rating Agencies (CRAs) in India, consider the following statements:",
+        "I. They are regulated by the Securities and Exchange Board of India (SEBI).",
+        "II. They assess the ability and willingness of the entity for timely payment of interest and principal of debt instrument issued by the entity.",
+        "III. Instruments rated in the speculative grade are considered to have a higher probability of default compared to instruments rated in the investment grade.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Credit Rating Agencies (CRAs) in India, consider the following statements: I. They are regulated by the Securities and Exchange Board of India (SEBI). II. They assess the ability and willingness of the entity for timely payment of interest and principal of debt instrument issued by the entity. III. Instruments rated in the speculative grade are considered to have a higher probability of default compared to instruments rated in the investment grade. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "I, II, and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: Credit rating agencies are regulated by the Securities and Exchange Board of India (SEBI). The SEBI (Credit Rating Agencies) Regulations, 1999 govern the credit rating agencies and provide for eligibility criteria for registration of credit rating agencies, monitoring and review of ratings, requirements for a proper rating process, avoidance of conflict of interest and inspection of rating agencies by SEBI, amongst other things.\nStatement II is correct: A credit rating agency is an entity which assesses the ability and willingness of the issuer company for timely payment of interest and principal on a debt instrument.\nStatement III is correct: An investment grade rating signifies the rating agency’s belief that the rated instrument is likely to meet its payment obligations. In the Indian context, debt instruments rated 'BBB\n- ' and above are classified as investment grade ratings. Instruments that are rated ‘BB‘ and below are classified as speculative grade category ratings in which case the ability to meet the payment obligations is considered to be “speculative”. Instruments rated in the speculative grade are considered to carry materially higher risk and a higher probability of default compared to instruments rated in the investment grade.\nKnowledge Base: Several Credit Rating Agencies operate in India after obtaining registration from SEBI. Prominent examples include CRISIL, ICRA Limited, and CARE Ratings, which provide credit ratings for corporate bonds, debentures, bank facilities, and other financial instruments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Consider the following financial institutions in India:",
+        "I. National Bank for Agriculture and Rural Development (NABARD)",
+        "II. National Housing Bank (NHB)",
+        "III. Small Industries Development Bank of India (SIDBI)",
+        "IV. Export-Import Bank of India (Exim Bank) Presently,",
+        "how many of the above institutions are wholly owned by the Government of India?"
+      ],
+      "questionText": "Consider the following financial institutions in India: I. National Bank for Agriculture and Rural Development (NABARD) II. National Housing Bank (NHB) III. Small Industries Development Bank of India (SIDBI) IV. Export-Import Bank of India (Exim Bank) Presently, how many of the above institutions are wholly owned by the Government of India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option I is correct. National Bank for Agriculture and Rural Development (NABARD) is India’s apex development bank, established in 1982 under an Act of Parliament to promote sustainable and equitable agriculture and rural development.\nNABARD was initially set up with shareholding from both the Reserve Bank of India and the Government of India. However, the entire shareholding of the RBI was later transferred to the Government of India. At present, NABARD is wholly owned by the Government of India.\nOption II is correct. National Housing Bank (NHB) is an apex agency established to operate as the principal agency to promote housing finance institutions in India. NHB was earlier a wholly owned subsidiary of the RBI. Subsequently in 2019, the RBI divested its shareholding to the Government of India. Therefore, NHB is now wholly owned by the Government of India.\nOption III is incorrect. Small Industries Development Bank of India (SIDBI) set up on 2nd April 1990 under an Act of Indian Parliament, acts as the Principal Financial Institution for Promotion,Financing and Development of the Micro, Small and Medium Enterprise (MSME) sector as well as for co-ordination of functions of institutions engaged in similar activities. SIDBI is not wholly owned by the Government of India.\nOption IV is correct. The Export-Import Bank of India (Exim Bank) was established as a corporation under the Export-Import Bank of India Act, 1981 and is wholly owned by the Government of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Urban Co-operative Banks (UCBs) in India, consider the following statements:",
+        "I. An urban cooperative bank, is required to obtain a licence from the Reserve Bank of India, under the provisions of",
+        "Banking Regulation Act, 1949 for commencing banking business.",
+        "II. Presently, they are allowed to lend money only for non-agricultural purposes.",
+        "III. The National Urban Co-operative Finance and Development Corporation (NUCFDC) for these banks has been established with the objective to accelerate the digitization of cooperative banks.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Urban Co-operative Banks (UCBs) in India, consider the following statements: I. An urban cooperative bank, is required to obtain a licence from the Reserve Bank of India, under the provisions of Banking Regulation Act, 1949 for commencing banking business. II. Presently, they are allowed to lend money only for non-agricultural purposes. III. The National Urban Co-operative Finance and Development Corporation (NUCFDC) for these banks has been established with the objective to accelerate the digitization of cooperative banks. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Urban Co-operative Banks (UCBs) have long been under dual regulation by the state Registrar of Societies and the RBI. As a result, these banks have escaped scrutiny despite failures and frauds. The changes to The Banking Regulation Act approved by Parliament in September 2020, brought cooperative banks under the direct supervision of the RBI.\nStatement I is correct. The Urban Banks Department of the Reserve Bank of India is vested with the responsibility of regulating and supervising primary (urban) cooperative banks, which are popularly known as Urban Cooperative Banks (UCBs). For commencing banking business, an urban cooperative bank, as in the case of commercial bank, is required to obtain a licence from the Reserve Bank of India, under the provisions of Section 22 of the Banking Regulation Act, 1949 (As Applicable to Cooperative Societies).\nStatement II is incorrect. Till 1996, Urban Cooperative Banks were allowed to lend money only for non-agricultural purposes. This distinction does not hold today. Urban Co-operative Banks (UCBs) in India, traditionally focused on non-agricultural lending in urban/semi-urban areas, are now actively involved in supporting agriculture through Priority Sector Lending (PSL). While they primarily serve small borrowers, they are mandated to meet PSL targets, including agriculture activities.\nStatement III is correct. The Umbrella Organization named National Urban Co-operative Finance and Development Corporation (NUCFDC) for urban co-operative banks has been established with the objective to accelerate the digitization of cooperative banks by leveraging collective strengths, fostering collaboration, promoting innovation, and ensuring that member banks are well-prepared to navigate the complexities of the digital era effectively. NUCFDC will play the role of National level Umbrella organization (UO) for the UCB sector in India and undertake fund based and non-fund-based activities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q25",
+      "questionNumber": 25,
+      "subject": "International Relations",
+      "sectionGroup": "Global Institutions & Agreements",
+      "microTopic": "Global Groupings and Agreements (FTA, Paris Agreement, NPT, QUAD, etc.)",
+      "statementLines": [
+        "Consider the following statements with reference to the WHO Framework Convention on Tobacco Control",
+        "(WHO FCTC):",
+        "I. It is the first international treaty negotiated under the auspices of the World Health Organization.",
+        "II. Once a country ratifies the treaty, it becomes legally binding on that country.",
+        "III. India has not yet ratified the treaty.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to the WHO Framework Convention on Tobacco Control (WHO FCTC): I. It is the first international treaty negotiated under the auspices of the World Health Organization. II. Once a country ratifies the treaty, it becomes legally binding on that country. III. India has not yet ratified the treaty. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "I only",
+        "c": "I and III",
+        "d": "II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The World Health Organization (WHO) is commemorating the 20th anniversary of the entry into force of the Framework Convention on Tobacco Control (WHO FCTC)—a landmark treaty that came into effect on February 27, 2005.\nStatement I is correct: The WHO Framework Convention on Tobacco Control (WHO FCTC) is indeed the first global public health treaty negotiated under the framework of the WHO.\na) It represents a landmark in international public health cooperation and is aimed at combating the global tobacco epidemic. b) It is a comprehensive, evidence-based treaty that reaffirms the right of all people to attain the highest standard of health. c) The treaty was adopted by the World Health Assembly on May 21, 2003, and came into force on February 27, 2005.\nStatement II is correct: Once a country ratifies the WHO FCTC, the treaty becomes legally binding on that country. This means the state is obligated to implement the treaty’s provisions and comply with its requirements.\nStatement III is incorrect: India ratified the WHO FCTC in 2004, becoming one of the early parties to the treaty. Since then, India has taken several legislative and policy measures in line with the treaty’s provisions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "With reference to Indian Banking system, consider the following statements about Marginal Standing",
+        "Facility(MSF):",
+        "I. MSF rate is the penal rate at which banks can borrow, on an overnight basis, from the Reserve Bank of India.",
+        "II. Banks can avail loans under MSF without providing any collateral.",
+        "III. MSF rate serves as the upper bound/ ceiling of the Liquidity Adjustment Facility (LAF) corridor",
+        "IV. There is no limit on the amount a bank can borrow under the MSF.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Indian Banking system, consider the following statements about Marginal Standing Facility(MSF): I. MSF rate is the penal rate at which banks can borrow, on an overnight basis, from the Reserve Bank of India. II. Banks can avail loans under MSF without providing any collateral. III. MSF rate serves as the upper bound/ ceiling of the Liquidity Adjustment Facility (LAF) corridor IV. There is no limit on the amount a bank can borrow under the MSF. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "II, III and IV",
+        "c": "I and III only",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Marginal Standing Facility (MSF) Rate is the penal rate at which banks can borrow, on an overnight basis, from the Reserve Bank of India. It was introduced by the RBI in May 2011. This provides a safety valve against unanticipated liquidity shocks to the banking system.\nMSF rate is the rate at which banks borrow funds overnight from the Reserve Bank of India (RBI) against approved government securities when there is an acute cash shortage or acute asset-liability mismatch.\nStatement II is incorrect: Under the Marginal Standing Facility (MSF), banks can borrow funds overnight from the RBI by pledging their excess Statutory Liquidity Ratio (SLR) securities as collateral.\nStatement III is correct: The MSF rate is fixed at 25 basis points above the policy repo rate. Within the Liquidity Adjustment Facility (LAF) corridor, the MSF rate serves as the upper bound (ceiling), the Standing Deposit Facility (SDF) rate forms the lower bound (floor), and the policy repo rate remains at the centre of the corridor.\nStatement IV is incorrect: The banks are allowed to borrow under the Marginal Standing Facility (MSF) up to 2% of their Net Demand and Time Liabilities (NDTL) by dipping into their SLR holdings. Further, to help banks meet the liquidity requirements of mutual funds under the RBI’s Special Repo Window (announced in July, 2013), this limit was temporarily increased to 2.5% of NDTL. The additional 0.5% borrowing was permitted only for transactions under the Special Repo Window.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following financial market instruments:",
+        "I. Commercial Papers",
+        "II. Inter Corporate Deposits",
+        "III. Treasury bills",
+        "IV. Indian Depository Receipt (IDRs)",
+        "How many of the above given are considered as the Money Market instruments?"
+      ],
+      "questionText": "Consider the following financial market instruments: I. Commercial Papers II. Inter Corporate Deposits III. Treasury bills IV. Indian Depository Receipt (IDRs) How many of the above given are considered as the Money Market instruments?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The money market is a market for short-term funds, which deals in financial assets whose period of maturity is up to one year. The money market does not deal in cash or money as such but simply provides a market for credit instruments such as bills of exchange, promissory notes, commercial paper, treasury bills, etc.\nOption I is correct: Commercial Paper (CP) is a short-term money market instrument and an unsecured promissory note issued by companies for meeting the working capital requirements of companies. Introduced in 1990, Commercial Paper provides an alternative source of financing for corporate borrowers. It can be issued for maturities ranging from 15 days to one year. CPs are negotiable instruments and are transferable by endorsement and delivery. Generally, financially sound and highly reputed companies, particularly blue-chip companies, are the primary participants in the commercial paper market.\nOption II is correct: Inter Corporate Deposits are types of Money market instruments that are unsecured short-term deposits made by a company with another company. ICD market is used for short-term cash management of a large corporation. As per the RBI guidelines, the minimum period of ICDs is 7 days which can be extended to one year Option III is correct: Treasury Bill is a money market instrument and is a promissory note issued by the RBI to meet the short-term requirement of funds. Treasury bills are highly liquid instruments, that means, at any time the holder of treasury bills can transfer or get it discounted from RBI. These bills are secured instruments and are issued for a period of not exceeding 364 days such as 91 days, 182 days.\nOption IV is incorrect: An Indian Depository Receipt is a capital market instrument denominated in Indian Rupees in the form of a Depository Receipt. It is created by an Indian Depository to enable a foreign company to raise funds from the Indian securities market. The IDR is a specific Indian version of the similar global depository receipts.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://nios.ac.in/media/documents/SrSec319NEW/319_Bus_Studies_Eng/319_Bus_Studies_Eng_Lesson18.pdf - Page no 177 https://ncert.nic.in/textbook/pdf/kebs108.pdf - Page no 189, 191"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "In the context of Priority Sector Lending(PSL) consider the following categories Banks:",
+        "I. Regional Rural Banks (RRBs)",
+        "II. Small Finance Banks (SFBs)",
+        "III. Payments Banks",
+        "How many of the above categories of banks are required to extend at least 75% of their Adjusted Net Bank Credit",
+        "(ANBC) towards Priority Sector Lending (PSL)?"
+      ],
+      "questionText": "In the context of Priority Sector Lending(PSL) consider the following categories Banks: I. Regional Rural Banks (RRBs) II. Small Finance Banks (SFBs) III. Payments Banks How many of the above categories of banks are required to extend at least 75% of their Adjusted Net Bank Credit (ANBC) towards Priority Sector Lending (PSL)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Priority Sector means those sectors which Government and RBI consider important for the country's development and are to be given priority over other sectors like agriculture, micro enterprises etc.\nAs per the Reserve Bank of India guidelines on Priority Sector Lending (PSL), domestic Scheduled Commercial Banks and Foreign Banks with 20 branches and above are mandated to allocate 40 per cent of their Adjusted Net Bank Credit (ANBC) or the Credit Equivalent of Off-Balance Sheet Exposures (CEOBE), whichever is higher, as of the preceding March 31, towards priority sector lending.\nOption I is correct: Regional Rural Banks are required to maintain a target of 75 per cent of their outstanding advances for Priority Sector Lending, along with sub-sector targets.\nOption II is incorrect: Initially, Small Finance Banks were required to extend 75% of their ANBC or Credit Equivalent of Off-Balance Sheet Exposures (CEOBE) to sectors eligible for classification under PSL. However, in July 2025, the RBI relaxed the norm and reduced the total PSL target to 60 per cent of ANBC or CEOBE, whichever is higher.\nOption III is incorrect: Payments Banks are not permitted to undertake lending activities and therefore are not subject to PSL targets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of Indian Economy, consider the following statements:",
+        "The Bond yield is likely to decrease when,",
+        "I. the price of the bond falls.",
+        "II. the demand for the bond increases.",
+        "III. the Indian rupee weakens against the dollar.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the context of Indian Economy, consider the following statements: The Bond yield is likely to decrease when, I. the price of the bond falls. II. the demand for the bond increases. III. the Indian rupee weakens against the dollar. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III",
+        "b": "II and III",
+        "c": "II only",
+        "d": "I and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** A bond is a type of loan made by an investor to a borrower such as a company or an institution for a fixed period of time in return for regular interest payments. The yield on bond is the return an investor expects to receive each year over its term to maturity Option I is incorrect: In India, government bonds are issued through auctions conducted by the Reserve Bank of India. In the secondary market, bond prices fluctuate based on factors such as interest rates, inflation expectations, liquidity conditions, and economic outlook. Bond prices and bond yields are inversely related. When bond prices rise, yields fall; when bond prices decline, yields rise. Thus, a fall in bond price leads to an increase (not decrease) in bond yield.\nOption II is correct: When demand for bonds increases, bond prices rise. Due to the inverse relationship between price and yield, this leads to a decline in bond yield.\nOption III is incorrect: When the Indian rupee weakens against the dollar, foreign investors may withdraw capital due to exchange rate risk. Reduced foreign demand for bonds lowers bond prices, which results in higher bond yields.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Mission 300, recently launched by the World Bank and African Development Bank Group, primarily aims to:"
+      ],
+      "questionText": "Mission 300, recently launched by the World Bank and African Development Bank Group, primarily aims to:",
+      "options": {
+        "a": "Provide electricity access to 300 million people in Sub-Saharan Africa.",
+        "b": "Provide clean drinking water to 300 million people in Sub-Saharan Africa.",
+        "c": "Plant 300 million trees in the Sahara region of Africa to combat deforestation.",
+        "d": "Supply 300 million tons of food aid annually to combat hunger in sub-Saharan Africa."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Mission 300 is a large-scale electrification initiative jointly launched by the World Bank and the African Development Bank Group. a) It aims to provide electricity access to 300 million people in Sub-Saharan Africa by 2030.\nb) The program seeks to accelerate electrification in the region while ensuring a shift towards cleaner, more diverse energy sources. c) This is expected to support economic growth, meet rising energy demands, and create employment opportunities. Key partners in this initiative include:\n- The Rockefeller Foundation-Global Energy Alliance for People and Planet (GEAPP)\n- Sustainable Energy for All (SE4ALL)\n- Energy Sector Management Assistance Program (ESMAP) This mission aligns with broader goals of sustainable development and energy equity across Africa.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statements - I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.",
+        "Statements - II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statements - I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable. Statements - II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement – I and Statement – II are correct and Statement – II is the correct explanation for Statement – I",
+        "b": "Both Statement – I and Statement – II are correct and Statement – II is not the correct explanation for Statement – I",
+        "c": "Statement –I is correct but Statement – II is incorrect",
+        "d": "Statement – I is incorrect but Statement – II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**Statement I is incorrect: InvITs are investment vehicles that pool funds from investors to invest in infrastructure projects. InvITs are pass-through entities, which means that the income and expenses of the InvIT are passed through to the unitholders. Under the budget**2023-24**, all income distributed by InvITs, including interest income, dividend income, and rental income, will be taxable in the hands of unitholders. This is a change from the previous tax regime, under which only dividend income from InvITs was taxable. The reason for this change is to widen the tax base and to ensure that all income from InvITs is taxed, regardless of its source. This will help to ensure that all investors in InvITs pay their fair share of taxes. It is important to note that this change will only affect income distributed by InvITs. Income distributed by other types of trusts, such as real estate investment trusts (REITs), will not be affected. Therefore, the given statement is incorrect.\nStatement II is correct: InvITs are classified as borrowers under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act). The SARFAESI Act provides a legal framework for the securitization of financial assets and enables the enforcement of security interests in case of default.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "With reference to derivative contracts traded in financial markets, consider the following:",
+        "I. Futures Contract",
+        "II. Options Contract In which of the above contract(s) is/are the buyer under an obligation to buy and the seller is obliged to sell, on a specific date?"
+      ],
+      "questionText": "With reference to derivative contracts traded in financial markets, consider the following: I. Futures Contract II. Options Contract In which of the above contract(s) is/are the buyer under an obligation to buy and the seller is obliged to sell, on a specific date?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A Derivative is a financial instrument whose value is based upon the value of an underlying asset like equities, currency or commodities or other financial assets. Most common types of derivative instruments are forwards, futures, options, and swaps.\nOption I is correct: A futures contract is an agreement between the buyer and the seller, entered on a Stock Exchange, to buy or sell a specified amount of an underlying asset, at a certain time in the future, for a price that is agreed today. The buyer enters into an obligation to buy and the seller is obliged to sell, on a specific date. Futures are standardized in terms of size, quantity, grade and time, so that each contract traded on the stock exchange has the same specification.\nOption II is incorrect: Options contract is a type of derivatives contract that gives the buyer/holder of the contract the right (but not the obligation) to buy/sell the underlying asset at a predetermined price within or at the end of a specified period. Options are also traded on the stock exchange. SEBI regulates the derivatives market in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following statements regarding Exchange Traded Funds (ETFs):",
+        "I. They generally have higher daily liquidity and lower fees than mutual funds.",
+        "II. Their trading value depends on the net asset value of the underlying assets that they represent.",
+        "III. Similarly to mutual funds, they can be bought and sold in fractional units on stock exchanges.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding Exchange Traded Funds (ETFs): I. They generally have higher daily liquidity and lower fees than mutual funds. II. Their trading value depends on the net asset value of the underlying assets that they represent. III. Similarly to mutual funds, they can be bought and sold in fractional units on stock exchanges. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Exchange Traded Funds (ETFs) are funds that track indices such as Sensex, Nifty, etc. When one buys units of an ETF, s/he actually buys units of a portfolio that tracks the performance of the index. ETFs just reflect the performance of the index they track.\nStatement I is correct: Unlike regular mutual funds, ETFs trade like a common stock on the stock exchange and the price of an ETF changes as per the trading in the market takes place. ETFs, generally, have higher daily liquidity and lower fees than mutual fund schemes.\nStatement II is correct: ETFs are a mix of open-ended and close-ended schemes. ETFs, like close-ended schemes, are listed and traded on a stock exchange on a daily basis, but the price is usually very close to its Net Assets Value (NAV), or the underlying assets, like gold ETFs.\nStatement III is incorrect: The ETFs cannot be bought or sold in fractions unlike mutual fund units. Additionally, there are additional costs to consider, such as brokerage fees charged by stockbrokers when buying or selling ETFs, and demat charges, if applicable.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to Alternative Investment Funds (AIFs) in India, consider the following statements:",
+        "I. They are privately pooled investment vehicles which collect funds from Indian as well as foreign investors.",
+        "II. Venture capital funds, angel funds and hedge funds are examples of AIFs.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Alternative Investment Funds (AIFs) in India, consider the following statements: I. They are privately pooled investment vehicles which collect funds from Indian as well as foreign investors. II. Venture capital funds, angel funds and hedge funds are examples of AIFs. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Alternative Investment Fund (AIF) means any fund established or incorporated in India which is a privately pooled investment vehicle which collects funds from investors, whether Indian or foreign, for investing it in accordance with a defined investment policy for the benefit of its investors.\nStatement II is correct: Under the SEBI (Alternative Investment Funds) Regulations, 2012, AIFs are classified into three categories:\n- Category I AIF: AIFs which invest in start-up or early stage ventures or social ventures or SMEs or infrastructure or other sectors or areas which the government or regulators consider as socially or economically desirable and shall include venture capital funds (including angel funds), SME Funds, social venture funds, infrastructure funds and such other Alternative Investment Funds as may be specified.\n- Category II AIFs: AIFs which do not fall in Category I and III and which do not undertake leverage or borrowing other than to meet day-to-day operational requirements and as permitted in the SEBI (Alternative\nInvestment Funds) Regulations, 2012. Various types of funds such as real estate funds, private equity funds (PE funds), funds for distressed assets, etc. are registered as Category II AIFs.\n- Category III AIFs: AIFs which employ diverse or complex trading strategies and may employ leverage including through investment in listed or unlisted derivatives. Various types of funds such as hedge funds, PIPE Funds, etc. are registered as Category III AIFs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q35",
+      "questionNumber": 35,
+      "subject": "International Relations",
+      "sectionGroup": "Global Institutions & Agreements",
+      "microTopic": "International Organizations (UN, IMF, World Bank, ASEAN, BRICS, etc.)",
+      "statementLines": [
+        "INTERPOL is an intergovernmental organization that facilitates international police cooperation. One of its key functions is the issuance of notices, which are international alerts used by member countries to share critical crime- related information. In this context, consider the following pairs:",
+        "INTERPOL Notice Purpose",
+        "I. Red Notice To request the location and arrest of a person wanted for prosecution or to serve a sentence.",
+        "II. Blue Notice To collect additional information about a person’s identity or activities in relation to a criminal investigation.",
+        "III. Yellow Notice To locate a missing person, often minors, or to identify persons unable to identify themselves.",
+        "IV. Silver Notice To warn of an event, a person, an object or a process representing a serious and imminent threat to public safety.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "INTERPOL is an intergovernmental organization that facilitates international police cooperation. One of its key functions is the issuance of notices, which are international alerts used by member countries to share critical crime- related information. In this context, consider the following pairs: INTERPOL Notice Purpose I. Red Notice To request the location and arrest of a person wanted for prosecution or to serve a sentence. II. Blue Notice To collect additional information about a person’s identity or activities in relation to a criminal investigation. III. Yellow Notice To locate a missing person, often minors, or to identify persons unable to identify themselves. IV. Silver Notice To warn of an event, a person, an object or a process representing a serious and imminent threat to public safety. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** INTERPOL is an inter-governmental organisation that was founded in 1923 as International Criminal Police Commission in Vienna, Austria. INTERPOL Notices are international requests for cooperation or alerts allowing police in member countries to share critical crime-related information.\nPair I is correct: Red Notice: The Red Notice is the most well-known of all INTERPOL notices. It is issued to request the location and arrest of a person who is wanted either for prosecution or to serve a sentence. Pair II is correct: Blue Notice: A Blue Notice is issued to collect additional information about a person’s identity, location, or activities in relation to a crime. It is used when authorities are investigating someone but require further intelligence to complete their case.\nPair III is correct: Yellow Notice: The Yellow Notice is issued to help locate missing persons, especially minors, or to identify persons who are unable to identify themselves due to conditions like mental illness or amnesia. It is frequently used in cases of child abduction, trafficking, or missing elderly persons.\nPair IV is incorrect: Silver Notice: a) The Silver Notice is a recent and experimental category of notice introduced by INTERPOL and is currently in a pilot phase.\nb) Its purpose is to identify and trace criminal assets, not to warn about threats to public safety. c) Recently, the first Silver Notice was issued by INTERPOL as part of a 52-country pilot project, which includes India. The purpose described in the pair—warning about a threat to public safety—is actually served by the Orange Notice, which is used to warn about an event, object, or person posing an imminent threat to public safety.\nKnowledge Base: Additional key facts about INTERPOL:\n- Headquarters: Lyon, France-Membership: 196 member countries, making it the world's largest international police organization-Mandate: INTERPOL is the only organization with the legal mandate and technical infrastructure to share police information globally in real time-National Central Bureau (NCB): Each member country maintains an NCB which acts as the national liaison with the INTERPOL General Secretariat and other countries-India’s NCB: In India, the Central Bureau of Investigation (CBI) functions as the designated NCB for coordination with INTERPOL",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "What is the primary function of the Agency Banks of the Reserve Bank of India (RBI)?"
+      ],
+      "questionText": "What is the primary function of the Agency Banks of the Reserve Bank of India (RBI)?",
+      "options": {
+        "a": "To manage government-related banking transactions on behalf of the RBI.",
+        "b": "To manage the foreign exchange reserves and currency chests on behalf of the Central Government.",
+        "c": "To regulate the monetary policy and credit flow for Small Finance Banks and Payments Banks.",
+        "d": "To supervise and inspect cooperative banks on behalf of the RBI."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Agency banks are commercial banks that act on behalf of the RBI to carry out government banking work. This includes receipts such as taxes and payments such as pensions and subsidies. They ensure proper accounting of government transactions, especially during financial year closing.\nThey are appointed under Section 45 of the RBI Act, 1934. A network consisting of the Government Banking Divisions of RBI and designated branches of these agency banks handles government receipts and payments. At present, all Public Sector Banks and some Private Sector Banks function as RBI’s agents. However, only selected and authorised branches conduct this business. There are 33 agency banks in India as of now which are authorised to handle such transactions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Non-Banking Financial Companies (NBFCs), which of the following statements is/are correct?",
+        "I. It can commence or carry on business of a non-banking financial institution only after obtaining a certificate of registration from the Reserve Bank of India.",
+        "II. The interest rate charged by the NBFCs to their borrowers cannot be more than the Bank rate.",
+        "III. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation is available to depositors of deposit taking NBFCs.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to Non-Banking Financial Companies (NBFCs), which of the following statements is/are correct? I. It can commence or carry on business of a non-banking financial institution only after obtaining a certificate of registration from the Reserve Bank of India. II. The interest rate charged by the NBFCs to their borrowers cannot be more than the Bank rate. III. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation is available to depositors of deposit taking NBFCs. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Non-Banking Financial Companies (NBFCs) are entities that provide financial services similar to banks. However, they do not hold a banking licence. They cannot accept demand deposits and they are regulated by the RBI under the RBI Act, 1934.\nStatement I is correct. In terms of Section 45-IA of the RBI Act, 1934, no company can commence or carry on business of a non-banking financial institution without obtaining a certificate of registration from the Reserve Bank.\nEvery NBFC is required to obtain a Certificate of Registration from the Reserve Bank of India before commencing or carrying on financial business.\nHowever, the Reserve Bank of India does not regulate all financial companies. Depending upon the nature of activities, the financial companies may fall under the regulatory purview of other Regulators like SEBI, IRDAI, Government, etc.\nStatement II is incorrect. Reserve Bank of India has deregulated interest rates to be charged to borrowers by NBFCs. The rate of interest to be charged by the company is governed by the terms and conditions of the loan agreement entered into between the borrower and the NBFCs. Thus, the interest rate charged by the NBFCs to their borrowers is not linked to the Bank rate.\nStatement III is incorrect. Deposit insurance facility of Deposit Insurance and Credit Guarantee Corporation (DICGC) is not available to depositors of deposit taking NBFCs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to Indian Banking system, consider the following statements:",
+        "Statement I: In India, banks can only lend money that they receive as time deposits from their customers.",
+        "Statement II: Time deposits are deposits kept with banks for a fixed period.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Indian Banking system, consider the following statements: Statement I: In India, banks can only lend money that they receive as time deposits from their customers. Statement II: Time deposits are deposits kept with banks for a fixed period. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct, and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** A bank is a financial institution and a financial intermediary that accepts deposits. A bank is an institution which deals in money. Banks accept surplus money from those who are not needing it immediately and lend it to those who need it and earn profit.\nStatement I is incorrect: The customers of the bank deposit their money in their specific accounts and then the bank utilizes this money for providing money as loan to business and individuals. The banks have to keep a percentage of the bank's total net demand and time liabilities as reserves other than that they can lend any amount. Thus, banks can use both time as well as demand deposits for providing loans.\nIn the banking system that exists today in India, also known as the fractional-reserve banking system, banks predominantly do not lend money in the form of physical cash. So the cash deposits that they receive from their customers, whether as demand deposits or as time deposits, mostly stay in their vaults.\nUnder a full-reserve banking system, banks can only lend money that they receive as time deposits from their customers.\n\nStatement II is correct: Time deposits are deposits that customers can withdraw from the bank only after a certain period of time that is agreed upon between the bank and its customers. This arrangement gives banks the time to lend these deposits to borrowers at a certain interest rate, collect repayments from the borrowers, and finally repay depositors their money along with a certain amount of interest.\nDemand deposits are deposits that customers can withdraw from the bank at any point in time without any prior notice. Hence\n\noption d is correct:\nStatement I is incorrect, but\n\nStatement II is correct",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to certain practices related to the securities market in India, which of the following are considered illegal?",
+        "I. Impact investing",
+        "II. Front Running",
+        "III. Short Selling",
+        "IV. Dabba trading",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to certain practices related to the securities market in India, which of the following are considered illegal? I. Impact investing II. Front Running III. Short Selling IV. Dabba trading Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and III only",
+        "b": "II, III and IV only",
+        "c": "II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is incorrect: Impact investing is an investment strategy that aims to generate specific beneficial social or environmental effects in addition to financial gains. It is not considered illegal in India. Under it, investors consider a company's commitment to corporate social responsibility or the duty to positively serve society. E.g., Educate Girls Development Impact Bond was launched as a proof-of-concept project in Rajasthan. It is the world’s first Development Impact Bond (DIB) for education.\nStatement II is correct: Front running is a market malpractice where a dealer, trader or fund manager, who is aware of a large upcoming share purchase order, buys the same share in advance in bulk. Such bulk orders drive up share price. The practice is not only unethical but also illegal and banned under Sebi regulations.\nStatement III is incorrect: Short selling is one of many investment strategies in which an investor bets on a stock or assets in the expectation that its price will fall in the future. Here, the investor borrows (rather than purchasing) shares of stock/ asset from a lender and sells them in the market. If the price falls, the investor can repurchase it at the lower price, return them to the original lender, and pocket the difference as profit. It is not illegal in India.\nStatement IV is correct: Dabba trading is an illegal and unregulated form of trading in securities. In dabba trading, traders place deals in securities without the trades actually being executed on any official SEBI recognized stock exchange. These trades are settled internally by the dabba operator and are outside the purview of stock exchanges and regulatory bodies. Since trades are not executed on official stock exchange platforms, investors can not avail grievances redressal mechanism of stock exchanges.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q40",
+      "questionNumber": 40,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Judiciary",
+      "statementLines": [
+        "In the context of the Indian judiciary, which of the following statements best explains the ‘Doctrine of Merger’?"
+      ],
+      "questionText": "In the context of the Indian judiciary, which of the following statements best explains the ‘Doctrine of Merger’?",
+      "options": {
+        "a": "The absorption of a lower court’s decision into a higher court’s ruling upon appeal.",
+        "b": "The principle that allows for the unification of civil and criminal courts.",
+        "c": "The legal doctrine that permits international treaties to override judicial rulings.",
+        "d": "The absorption of a law passed by the legislature into judicial interpretation."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Doctrine of Merger is a legal principle ensuring that only one binding decision exists in a judicial case.\n- When a higher court reviews a case and delivers a ruling, the lower court’s decision merges with the superior court’s ruling.\n- This applies in instances of appeal, revision, or review, preventing ambiguity regarding which order is final and enforceable.\n- The doctrine is not explicitly recognized in statutory law but is followed as a matter of judicial propriety.\n- The Supreme Court elaborated on this principle in Kunhayammed v. State of Kerala (2000), clarifying that once the higher court rules on a case, the lower court’s decision ceases to exist independently.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and",
+        "Sustainability Report (BRSR).",
+        "II. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR). II. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Business Responsibility and Sustainability Report (BRSR) is an Indian reporting framework aimed at improving the disclosure of environmental, social, and governance (ESG) performance by listed companies.It traces its origins to the ‘Voluntary Guidelines on Corporate Social Responsibility’ introduced by the Ministry of Corporate Affairs in 2009.\nStatement I is incorrect: As per SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (LODR Regulations),the Securities and Exchange Board of India (SEBI)(not RBI) requires the top 1,000 listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR). This report includes disclosures on how these companies perform in relation to the nine principles outlined in the National Guidelines on Responsible Business Conduct.\nStatement II is correct: The BRSR is a non-financial reporting framework that requires companies to disclose their performance on environmental, social, and governance (ESG) parameters based on nine principles of the National Guidelines on Responsible Business Conduct (NGRBC).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "With reference to the Foreign Currency Settlement System (FCSS) at GIFT City in India, consider the following",
+        "statements:",
+        "Statement I: It would help in reducing the settlement time of transactions in foreign currency by entities located within the GIFT city.",
+        "Statement II: It would enable the local settlement of foreign-currency transactions between International Financial",
+        "Service Centre (IFSC) banking units without routing them through overseas correspondent banks.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the Foreign Currency Settlement System (FCSS) at GIFT City in India, consider the following statements: Statement I: It would help in reducing the settlement time of transactions in foreign currency by entities located within the GIFT city. Statement II: It would enable the local settlement of foreign-currency transactions between International Financial Service Centre (IFSC) banking units without routing them through overseas correspondent banks. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Foreign Currency Settlement System (FCSS) is a payment system authorised by International Financial Services Centres Authority (IFSCA) under the Payment and Settlement Systems Act, 2007.\nStatement I is correct: The Foreign Currency Settlement System (FCSS) means that transactions in foreign currency by entities within GIFT IFSC can now be settled in real time or near real time, instead of the current delays of 36-48 hours under traditional correspondent banking.\nStatement II is correct and explains Statement I: The Foreign Currency Settlement System (FCSS), enables the local settlement of foreign-currency transactions between IFSC banking units without routing them through overseas correspondent banks. Thus substantially reducing settlement times while enhancing transaction security and cost-effectiveness.\nKnowledge Base: Initially, the Foreign Currency Settlement System will support US dollar transactions, with scope to add other foreign currencies over time.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "It is a type of a qualitative monetary policy instrument under which the central bank fixes a specific limit of credit to different sectors of the economy. The primary objective of the instrument is regulating liquidity to a particular sector in the Indian economy.",
+        "Which of the following monetary policy tools is described above?"
+      ],
+      "questionText": "It is a type of a qualitative monetary policy instrument under which the central bank fixes a specific limit of credit to different sectors of the economy. The primary objective of the instrument is regulating liquidity to a particular sector in the Indian economy. Which of the following monetary policy tools is described above?",
+      "options": {
+        "a": "Moral Suasion",
+        "b": "Direct Action",
+        "c": "Credit Rationing",
+        "d": "Margin Requirement"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption a is incorrect: Moral suasion is a qualitative monetary policy tool under which the Central Bank persuades or advises commercial banks to cooperate in achieving its desirable objectives. It does not involve fixing any quota or imposing penalties but relies on voluntary cooperation of banks.\nOption b is incorrect: Direct Action is a qualitative monetary policy tool adopted when a commercial bank does not cooperate with the central bank in achieving its desirable objectives. The Central bank can even penalize the bank by changing some rates. At last, it can even put a ban on a particular bank if it does not follow its directives.\nOption c is correct: Credit Rationing is a qualitative monetary policy tool under which the Central Bank fixes the quota of credit for various sectors of the economy. It means, it fixes a maximum limit for a sector. The objective is to restrict all liberalized loan conditions for a particular sector. For example, Priority Sector Lending (PSL) requirements are 40% of total loan. It is further divided into many sectors like agriculture, small medium enterprises, home loan, students’ loan, weaker sections etc.\nOption d is incorrect: Margin Requirement is a type of qualitative monetary policy used by RBI to control flow of money in particular sectors. Margin is the difference between the market value of a collateral security and the amount of loan that can be sanctioned by a bank against it in a particular sector.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "In the context of the financial market in India, the term “Kerb trading” refers to:"
+      ],
+      "questionText": "In the context of the financial market in India, the term “Kerb trading” refers to:",
+      "options": {
+        "a": "It is the use of unpublished price sensitive information to trade shares for personal gains.",
+        "b": "Artificially inflating a stock price using false or misleading information.",
+        "c": "Buying and selling the same security simultaneously to increase the profit.",
+        "d": "Unofficial trading in securities outside the recognized stock exchang"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Kerb trading involves transactions conducted beyond official market hours and outside authorised trading platforms such as Stock exchanges (BSE and NSE). These activities are unlawful, pose potential systemic risks to the financial market, and may mislead or exploit uninformed retail investors.\nKnowledge Base: Insider Trading: Using unpublished price sensitive information (UPSI) to trade shares for personal gain is referred to as insider trading. It is prohibited in India under SEBI (Prohibition of Insider Trading) Regulations 2015.\nPrice Rigging: Artificially inflating a stock price using false or misleading information is termed as Market Manipulation or Price Rigging. Circular trading: It is a fraudulent trading practice in which a group of market participants, usually brokers, traders, or related companies buy and sell the same securities or goods among themselves in a circular pattern to create an illusion of high trading volume or inflated market prices.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "With reference to places recently in the news, consider the following pairs:",
+        "Place in News Country",
+        "I. Bungus Valley Myanmar",
+        "II. Mount Taranaki New Zealand",
+        "III. Mount Dukono Indonesia",
+        "IV. Lake Naivasha Kenya",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to places recently in the news, consider the following pairs: Place in News Country I. Bungus Valley Myanmar II. Mount Taranaki New Zealand III. Mount Dukono Indonesia IV. Lake Naivasha Kenya How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Pair I is incorrect: Bungus Valley – India (not Myanmar)\n- Location: It is located in the Kupwara district of Jammu & Kashmir, India, near the Line of Control (LoC). It lies within the Trans-Himalayan region.\n- Ecology: Features a grassland biome at lower altitudes and dense coniferous forests (locally known as Budloo), resembling a Taiga ecosystem.\n- Why in News? The Jammu & Kashmir government has announced plans to develop Bangus Valley as an ecotourism hub. Pair II is correct: Mount Taranaki – New Zealand-Location: A volcanic mountain in New Zealand, known by its Maori name – Taranaki Maunga.\n- Geology: It is a dormant stratovolcano (also called a composite volcano) composed of alternating layers of lava and ash.\n- Significance: It is the third natural feature in New Zealand to receive this status, after Te Urewera National Park and Whanganui River.\n- Why in News? It has been granted \"legal human status\" recently Pair III is correct: Mount Dukono – Indonesia-Location: Situated on Halmahera Island, Indonesia.\n- Elevation: Stands at 1,087 meters above sea level.\n- Volcanic Activity: It is one of Indonesia’s 127 active volcanoes, frequently emitting ash and gases.\n- Why in News? It recently erupted, highlighting ongoing volcanic activity in the region. Pair IV is correct: Lake Naivasha – Kenya-Location: A shallow freshwater lake in Kenya’s southern Rift Valley.\n- Designation: Recognized as a Ramsar site, indicating its international importance as a wetland ecosystem.\n- Geology: Of relatively recent geological origin, surrounded by extinct and dormant volcanoes.\n- Hydrology: Fed by the Malewa and Gilgil Rivers, draining the Aberdare Mountains in central Kenya.\n- Why in News? The lake is facing ecological stress due to the spread of water hyacinth, an invasive species.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q46",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "The combined age of a man and his wife is 6 times the combined age of their children. Two years ago their combined age was 10 times the combined age of their children; and six years later their combined age will be 3 times the combined age of their children. How many children do they have if each child is at least 2 years old?"
+      ],
+      "questionText": "The combined age of a man and his wife is 6 times the combined age of their children. Two years ago their combined age was 10 times the combined age of their children; and six years later their combined age will be 3 times the combined age of their children. How many children do they have if each child is at least 2 years old?",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Let:\n- M = combined age of the man and his wife.\n- C = combined age of the children.\n- n = number of children. Given: M=6C Two years ago: M−4 = 10(C−2n) Six years later: M+12 = 3(C+6n) Substitute M=6C into the other equations:\nFrom the second equation: 6C−4 = 10(C−2n)\n- C−5n = −1 (Equation I) From the third equation: 6C+12=3(C+6n)\n- C=6n−4 (Equation II) By equating Equation I and II: (6n−4)−5n=−1 After solving it we’ll get; n=3 So, the number of children is 3",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q47",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "Three positive integers ‘a’, ‘b’ and ‘c’ are not less than the smallest prime number. It is also known that ab + bc =",
+        "91 and ac + ab =",
+        "51. What can be the minimum value of (a + 2b + 3c)?"
+      ],
+      "questionText": "Three positive integers ‘a’, ‘b’ and ‘c’ are not less than the smallest prime number. It is also known that ab + bc = 91 and ac + ab = 51. What can be the minimum value of (a + 2b + 3c)?",
+      "options": {
+        "a": "47",
+        "b": "45",
+        "c": "43",
+        "d": "41"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Given Three positive integers a, b, c are all greater than or equal to the smallest prime number (which is 2). It is known that:\n1. ab + bc = 91 2. ac + ab = 51 We are asked to find the minimum value of the expression: a + 2b + 3c Factor the expressions Equation 1: ab + bc = 91 Factor b from the left-hand side: b(a + c) = 91 So b multiplied by (a + c) equals 91. Now 91 can be factorized as 7 × 13 (or 13 × 7). So either:\n- b = 7 and (a + c) = 13, or-b = 13 and (a + c) = 7 Equation 2:\nac + ab = 51 Factor a from the left-hand side: a(b + c) = 51 Factorize 51 as 3 × 17 (or 17 × 3). So either:\n- a = 3 and (b + c) = 17, or-a = 17 and (b + c) = 3 Solve by cases Case I:\nTake b = 7 and (a + c) = 13 (from Equation 1) Take a = 3 and (b + c) = 17 (from Equation 2)\n- From Equation 1: a + c = 13 ⇒ 3 + c = 13 ⇒ c = 10-From Equation 2: b + c = 17 ⇒ 7 + 10 = 17\n- -\n-  (consistent)\nCompute the expression a + 2b + 3c:\n- a + 2b + 3c = 3 + 2×7 + 3×10 = 3 + 14 + 30 = 47 Case II: Take b = 13 and (a + c) = 7 (from Equation 1) Take a = 3 and (b + c) = 17 (from Equation 2)\n- From Equation 1: a + c = 7 ⇒ 3 + c = 7 ⇒ c = 4-From Equation 2: b + c = 17 ⇒ 13 + 4 = 17\n- -\n-  (consistent)\nCompute the expression a + 2b + 3c:\n- a + 2b + 3c = 3 + 2×13 + 3×4 = 3 + 26 + 12 = 41 Compare values-Case I gives 47-Case II gives 41 We are asked for the minimum value which is 41.\nMinimum value of a + 2b + 3c = 41 Therefore, Option d is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q48",
+      "questionNumber": 48,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Dr. Hooda invests his capital in three parts. He invests one-third of his total capital at 6% per annum at simple interest. From the remaining capital, he invests one-fourth at 4% per annum at simple interest, and the rest of his capital at 8% per annum at simple interest. If the total interest earned from all three investments after ‘n’ years is equal to his initial capital, what is the value of ‘n?"
+      ],
+      "questionText": "Dr. Hooda invests his capital in three parts. He invests one-third of his total capital at 6% per annum at simple interest. From the remaining capital, he invests one-fourth at 4% per annum at simple interest, and the rest of his capital at 8% per annum at simple interest. If the total interest earned from all three investments after ‘n’ years is equal to his initial capital, what is the value of ‘n?",
+      "options": {
+        "a": "10",
+        "b": "12",
+        "c": "15",
+        "d": "18"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Given-Dr. Hooda invests his capital in three parts with simple interest per annum: 1. One-third of his capital at 6% per year. 2. One-fourth of the remaining capital at 4% per year. 3. The remaining capital at 8% per year.\n- After ‘n’ years, the total interest earned from all three investments equals his initial total capital.\nAssume a convenient total capital-Let total capital = 1200 (chosen because it is divisible by 3 and 4, making calculations easier). Divide the capital according to the investment scheme First part: One-third of 1200 invested at 6% o Amount = 1200 ÷ 3 = 400 o Interest per year = 6% of 400 = 24 Remaining capital after first part: 1200 − 400 = 800 Second part: One-fourth of remaining 800 invested at 4% o Amount = 800 ÷ 4 = 200 o Interest per year = 4% of 200 = 8 Third part: Remaining capital = 800 − 200 = 600 invested at 8% o Interest per year = 8% of 600 = 48 Calculate total annual interest-Total annual interest = 24 + 8 + 48 = 80 Determine number of years-Total interest needed = initial capital = 1200-Number of years = Total interest ÷ Annual interest-n = 1200 ÷ 80 = 15 Conclusion-Therefore, the number of years required for the cumulative interest to equal the initial capital is 15 years.\nTherefore, Option c is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q49",
+      "questionNumber": 49,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage - 1 Dams, once described as the temples of modern India, are now facing mounting challenges. First, structural fatigue and ageing of mechanical systems such as gates and hoists, many of which were designed for a 50-year life. Second, reservoir sedimentation has robbed older dams of significant storage capacity, reducing their ability to manage floods or droughts. Third, extreme rainfall due to climatic change routinely exceeds the assumptions under which these dams were originally designed, increasing the risk of flooding. Fourth, as dam controlling authorities adopt digital controls and automated gates, these structures become increasingly vulnerable to cybersecurity threats. In order to address these issues, scheduled modernisation, climate-resilient design, and credible emergency action plans for downstream communities should be non-negotiable. Before a catastrophe strikes, a nationwide audit of all major dams should be urgently initiated to better understand and manage risks.",
+        "Which one of the following statements best reflects the crux of the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage - 1 Dams, once described as the temples of modern India, are now facing mounting challenges. First, structural fatigue and ageing of mechanical systems such as gates and hoists, many of which were designed for a 50-year life. Second, reservoir sedimentation has robbed older dams of significant storage capacity, reducing their ability to manage floods or droughts. Third, extreme rainfall due to climatic change routinely exceeds the assumptions under which these dams were originally designed, increasing the risk of flooding. Fourth, as dam controlling authorities adopt digital controls and automated gates, these structures become increasingly vulnerable to cybersecurity threats. In order to address these issues, scheduled modernisation, climate-resilient design, and credible emergency action plans for downstream communities should be non-negotiable. Before a catastrophe strikes, a nationwide audit of all major dams should be urgently initiated to better understand and manage risks. Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "The impacts of climate change need to be incorporated into the planning and design of dams.",
+        "b": "Dam management in India is facing critical challenges that require immediate intervention.",
+        "c": "Policymakers need to develop emergency plans to ensure community safety in the event of dam failure.",
+        "d": "Dam failure can have a devastating impact on lives, livelihood and infrastructur"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statement a is incorrect. The passage states that “extreme rainfall due to climatic change routinely exceeds the assumptions under which these dams were originally designed, increasing the risk of flooding.” However, statement a does not best reflect the crux of the passage as it highlights only one of challenge faced in dam management.\nStatement b is correct. The statement best reflects the crux of the passage as it highlights the challenges in dam management and emphasizes urgent action to address it. It is mentioned in the passage as “Dams, once described as the temples of modern India, are now facing mounting challenges.” “Before a catastrophe strikes, a nationwide audit of all major dams should be urgently initiated to better understand and manage risks.” Statement c is incorrect. The passage states “credible emergency action plans for downstream communities should be non-negotiable”. However, statement c does not best reflect the crux of the passage as it highlights only one of aspect of dam management. Statement d is incorrect. The passage talks about development of emergency plans for the safety of downstream communities. Further, it states action needs to be taken before a catastrophe strikes. However, statement d does not best reflect the crux of the passage as it only highlights the consequences of dam failure and does not provide an action oriented approach to manage risks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test2-q50",
+      "questionNumber": 50,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Critical infrastructure like dams need to be protected against cybersecurity threats.",
+        "II. Dams have failed to effectively manage floods and droughts.",
+        "III. As dams age, their structural integrity should be regularly evaluated to prevent potential failures.",
+        "Which of the above assumptions are valid?"
+      ],
+      "questionText": "Based on the above passage, the following assumptions have been made: I. Critical infrastructure like dams need to be protected against cybersecurity threats. II. Dams have failed to effectively manage floods and droughts. III. As dams age, their structural integrity should be regularly evaluated to prevent potential failures. Which of the above assumptions are valid?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct. The passage states “as dam controlling authorities adopt digital controls and automated gates, these structures become increasingly vulnerable to cybersecurity threats.” Therefore, assumption made in statement I is valid.\nStatement II is incorrect. While the passage states that the efficiency of dams to control floods and droughts have declined, it would be wrong to assume that dams have failed in controlling floods and droughts. Therefore, assumption made in statement II is invalid.\nStatement III is correct. The passage highlights the structural fatigue and ageing of mechanical systems of dam. Therefore, we can conclude that assumption made in statement III is valid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

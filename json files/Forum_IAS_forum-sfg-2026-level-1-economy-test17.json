@@ -1,0 +1,1827 @@
+{
+  "id": "forum-sfg-2026-level-1-economy-test17",
+  "title": "Test 17- L1 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Government of India, consider the following information:",
+        "Organization Some of its functions It works under",
+        "I. Directorate of Enforcement Enforcement of the Fugitive Economic Offenders Act, 2018 Internal Security",
+        "Division- I, Ministry of Home Affairs",
+        "II. Directorate of Revenue Intelligence Enforces the Provisions of the Customs Act, 1962 Department of",
+        "Revenue, Ministry of Finance",
+        "III. Directorate General of Systems and Data Management Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders",
+        "Department of Revenue, Ministry of Finance In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to the Government of India, consider the following information: Organization Some of its functions It works under I. Directorate of Enforcement Enforcement of the Fugitive Economic Offenders Act, 2018 Internal Security Division- I, Ministry of Home Affairs II. Directorate of Revenue Intelligence Enforces the Provisions of the Customs Act, 1962 Department of Revenue, Ministry of Finance III. Directorate General of Systems and Data Management Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders Department of Revenue, Ministry of Finance In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Row I is incorrect: The Directorate of Enforcement**is a multi-disciplinary agency tasked with investigating money laundering and violations of foreign exchange laws. Its**statutory functions include enforcing the Fugitive Economic **Offenders Act, 2018 (FEOA)**, aimed at preventing economic offenders from evading Indian law by staying outside the country. The Directorate currently operates under the administrative control of the**Department of Revenue, **Ministry of Finance(not under Ministry of Home Affairs), Government of India. **Row II is correct : The Directorate of Revenue Intelligence (DRI)**is India’s top agency for anti-smuggling intelligence, investigations, and operations. Its mandate includes detecting and preventing the smuggling of contraband such as drugs, illicit wildlife products, and environmentally sensitive items, as well as tackling commercial frauds and**Customs **duty evasion under the Customs Act, 1962.**The DRI functions under the**Department of Revenue**, Ministry of Finance, Government of India, and operates as part of the Central Board of Indirect Taxes and Customs (CBIC).**Row III is incorrect : The Directorate General of Systems & Data Management**functioning under the CBIC and the**Department of Revenue, Ministry of Finance.**The Directorate General of Systems & Data Management  is responsible for the design, development, programming, testing, implementation and maintenance of Customs and Central Excise automated systems, and for overseeing and managing the projects sanctioned by CBIC related to IT.  is responsible for the management of all Centrally deployed Customs and Central Excise computer facilities, hardware, software, data communications  in the automated environment, acts as a point of reference and validation concerning procedural changes in Customs and Central Excise, in addition to being a resource centre on business process issues.  is responsible for identifying and evaluating new technologies for application to automated systems within the department.  is responsible for developing and maintaining all policy and subsequently, on the implementation of centralized systems, the operational aspects of the Department's Computer Security.  Establishes requirements for computer-to-computer interfaces between the department and various trading partners and government agencies  Represents Customs and Central Excise on matters related to automated processing and systems development  Implements information resource and data management**The government has set up a new wing named the Directorate General of Analytics and Risk Management **(DGARM) under the indirect taxes body under the Central Board of Excise and Customs (CBEC) to provide **intelligence inputs and carry out big data analytics for taxmen for better policy formulation and nabbing evaders. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the impact of inflation in India, consider the following:",
+        "I. An individual who has borrowed a certain sum of money from a bank at a fixed interest rate.",
+        "II. An individual holding Treasury Bills (T-Bills).",
+        "Which of the above is/are likely to benefit from inflation in the economy?"
+      ],
+      "questionText": "With reference to the impact of inflation in India, consider the following: I. An individual who has borrowed a certain sum of money from a bank at a fixed interest rate. II. An individual holding Treasury Bills (T-Bills). Which of the above is/are likely to benefit from inflation in the economy?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct: Inflation erodes the value of money over time**. When borrowers take out loans, they agree to pay back the borrowed amount with interest. If inflation occurs, the value of the currency decreases, meaning the real value of the money they repay is less than the value of the money when they borrowed it. This** effectively reduces the **real cost of borrowing, benefiting borrowers. **\n\nStatement II is incorrect:**T-Bills are short-term government securities issued at a discount and redeemed at face value. Their returns are fixed in nominal terms at the time of issuance.**Rising inflation erodes the real yield earned **on T-Bills. Thus, T-Bill holders generally lose in real terms during inflation. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The term ‘drip pricing,’ often seen in the news, can be best explained as? customer goes through the buying process. demand."
+      ],
+      "questionText": "The term ‘drip pricing,’ often seen in the news, can be best explained as? customer goes through the buying process. demand.",
+      "options": {
+        "a": "A pricing strategy where the cost of a product decreases as a firm benefits from economies of scale.",
+        "b": "A pricing technique in which firms advertise only part of a product’s price and reveal other charges later as the",
+        "c": "A pricing technique that involves setting final prices of products based on the purchasing history of the consumer.",
+        "d": "A pricing strategy in which the firms alter prices of products dynamically in response to real time changes in"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Drip pricing is a pricing technique in which firms advertise only part of a product’s price and reveal other charges **later as the customer goes through the buying process.** The additional charges can be mandatory charges, such as hotel resort fees, or fees for optional upgrades and add-ons. Drip pricing is used by many types of firms, including internet sellers, automobile dealers, financial institutions, and rental car companies.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In an economy following progressive direct taxation policy, consider the following statements:",
+        "Statement I: Inflation can lead to an increase in income tax proceeds of the Government.",
+        "Statement II: Inflation can lead to the phenomena of bracket creep.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In an economy following progressive direct taxation policy, consider the following statements: Statement I: Inflation can lead to an increase in income tax proceeds of the Government. Statement II: Inflation can lead to the phenomena of bracket creep. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct. The combination of a progressive personal income tax with inflation can produce both **increased revenue for the government and significant changes in the distribution of the tax burden among **individuals. **As money income rises, even if real income is unchanged, taxpayers are moved upward in the tax schedule and are thus subject to higher tax rates. In addition, persons who previously were not taxed because their incomes were below the limits fixed by law may become liable to taxation. Thus,** inflation increases the nominal **value of the gross tax revenue **of the Government.**\n\nStatement II is correct and explains Statement I. **Bracket creep occurs when** inflation increases your wages into a **higher tax bracket **without a gain in real earnings. Bracket creep results in an increase in income taxes without an increase in real income. This results in an increase in income taxes without an increase in real income of the taxpayer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The basic difference between imperative and indicative planning is that: the case of indicative planning, it is looked upon as a way to improve the functioning of market system. belong to the private sector."
+      ],
+      "questionText": "The basic difference between imperative and indicative planning is that: the case of indicative planning, it is looked upon as a way to improve the functioning of market system. belong to the private sector.",
+      "options": {
+        "a": "In the case of the imperative planning the market mechanism is entirely replaced by a command hierarchy, while in",
+        "b": "In the case of indicative planning there is no need to nationalize any industry.",
+        "c": "In the case of indicative planning all economic activities belong to the public sector, while in the other type they",
+        "d": "It is easier to achieve targets in imperative type of planning."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Imperative planning replaces the market with a command hierarchy, and the government directly controls **resource allocation. Indicative planning utilizes market signals, incentives, and provides guidelines to enhance the **market system’s functioning. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 1993,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 1993"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following group of commodities classified under the Wholesale Price Index (WPI):",
+        "I. Primary Articles",
+        "II. Fuel and Power",
+        "III. Manufactured Products With reference to major groups mentioned above,",
+        "which one of the following is the correct ascending order (from low to high) of their weightage in the WPI?"
+      ],
+      "questionText": "Consider the following group of commodities classified under the Wholesale Price Index (WPI): I. Primary Articles II. Fuel and Power III. Manufactured Products With reference to major groups mentioned above, which one of the following is the correct ascending order (from low to high) of their weightage in the WPI?",
+      "options": {
+        "a": "I – II – III",
+        "b": "II– I – III",
+        "c": "II – III – I",
+        "d": "I – III – II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Wholesale Price Index**(WPI) is an index that**measures the average change in prices of goods at the wholesale **level in India**. It reflects price movements of goods traded in bulk by wholesale businesses to other businesses, and is an important indicator of inflationary trends in the economy.**Compiled and released by the Office of the Economic Adviser**, Department for Promotion of Industry and Internal Trade (DPIIT),**Ministry of Commerce and Industry**, the WPI covers three major groups;**Primary Articles, Fuel and **Power, and Manufactured Products**, each assigned a weight based on its relative importance in the economy.**Option II: Fuel and Power: **This group includes items such as mineral oils, electricity, coal, and natural gas. Fuel and Power has the**lowest weightage in the WPI (13.15 %). **Option I:Primary Articles : **This group consists of agricultural products, minerals, and other raw materials.**Primary **Articles**have a**higher weight**than Fuel and Power but lower than Manufactured Products (22.62 %). **Option III: Manufactured Products: **This is the largest and most diverse group, covering a wide range of industrial goods such as chemicals, textiles, machinery, metals, and food products. Due to their dominant share in wholesale transactions, Manufactured Products receive the**highest weightage in the WPI (64.23%). **Hence, when**arranged in ascending order of weightage (low to high), the correct sequence is: **Fuel and Power < Primary Articles < Manufactured Products. **Therefore, the** correct answer is**: (**b) II– I – III. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of Indian economy, consider the following statements:",
+        "Statement I: The Wholesale Price Index (WPI) does not directly measure the impact of fiscal policy on prices.",
+        "Statement II: The WPI excludes indirect taxes from its price calculations.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Indian economy, consider the following statements: Statement I: The Wholesale Price Index (WPI) does not directly measure the impact of fiscal policy on prices. Statement II: The WPI excludes indirect taxes from its price calculations. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**The**Wholesale Price Index**(WPI)**does not directly measure the impact of fiscal policy on **prices **because it is designed to track price changes at the wholesale level, based on a specific price concept and a limited coverage of items. As a result, many fiscal policy instruments that influence market prices are not fully captured in the WPI.**\n\nStatement II is correct and explains Statement I: WPI excludes indirect taxes from its price calculations**. Since indirect taxes are one of the most important channels through which fiscal policy affects prices, their exclusion means that changes in tax policy are not directly reflected in the WPI.**This directly explains why WPI does not measure the fiscal policy impact on prices. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "A type of inflation occurs when supply falls sharply, while demand remains unchanged, leading to an increase in prices.",
+        "Which one of the following best describes this type of inflation?"
+      ],
+      "questionText": "A type of inflation occurs when supply falls sharply, while demand remains unchanged, leading to an increase in prices. Which one of the following best describes this type of inflation?",
+      "options": {
+        "a": "Demand-pull inflation",
+        "b": "Headline inflation",
+        "c": "Bottleneck inflation",
+        "d": "Creeping inflation"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect: Demand-pull inflation**occurs when aggregate demand increases faster than aggregate supply. In the given situation, prices rise due to supply constraints, not because of higher consumer or investment demand.**\n\nOption b is incorrect: Headline Inflation**refers to the change in value of all goods in the basket. It is the raw (overall) inflation figure on the basis of the Consumer Price Index (CPI). The headline inflation ratio figure is not adjusted for seasonality or for the often en-volatile elements. In India, Consumer Price Index – Combined (CPI-C) represents Headline Inflation.**\n\nOption c is correct:**The situation described clearly points to** bottleneck inflation**, which arises**when supply falls **sharply while demand remains unchanged, leading to an increase in prices. **This type of Inflation is known as Structural Inflation. In this type of Inflation, supply falls suddenly and demand remains at the same level. Example: During GST implementation, there was a sudden supply shock as the companies and others couldn’t comply with supply norms all of a sudden.**\n\nOption d is incorrect: Creeping inflation** refers to a slow, mild, and sustained increase in the general price level over time, usually considered manageable. The situation described involves a specific supply disruption–induced price rise, not gradual economy-wide inflation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which of the following best describes an inflationary gap in an economy? demand. economy. aggregate demand."
+      ],
+      "questionText": "Which of the following best describes an inflationary gap in an economy? demand. economy. aggregate demand.",
+      "options": {
+        "a": "A situation in which aggregate demand exceeds aggregate supply at full employment level in an economy.",
+        "b": "A situation where rising wages and input costs increase the general price level without any change in aggregate",
+        "c": "A situation in which aggregate supply at the full employment level of output exceeds aggregate demand in an",
+        "d": "A situation where excessive money supply in the economy leads to a rise in prices, independent of the level of"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct:**This describes the inflationary gap. **An**inflationary gap **is a type of economic gap that exists when the demand for goods and services exceeds production due to factors such as higher levels of overall employment, increased trade activities, or elevated government expenditure. In case of Demand-Pull Inflation,**aggregate demand is greater than aggregate supply of goods and services (at full employment)**. This excess demand represents an Inflation Gap. The inflationary gap results in a price rise. Prices will continue to rise till this gap exists. For example – Due to the rise in government expenditure, the purchasing power of people increases. This creates excess demand in an economy resulting in an inflationary gap.**\n\nOption b is incorrect: This describes cost-push inflation, **where prices rise due to higher wages or input costs, even when aggregate demand remains unchanged. It does not indicate excess demand at full employment.**\n\nOption c is incorrect: This represents a deflationary gap, **where aggregate demand is lower than aggregate supply at the full employment level, leading to unemployment and downward pressure on prices.**\n\nOption d is incorrect: This describes monetary inflation, **caused by an increase in money supply rather than an imbalance between aggregate demand and full-employment output.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q10",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which of the following authorities is responsible for notifying the Cost Inflation Index (CII) every year in India?"
+      ],
+      "questionText": "Which of the following authorities is responsible for notifying the Cost Inflation Index (CII) every year in India?",
+      "options": {
+        "a": "Reserve Bank of India",
+        "b": "National Statistical Office",
+        "c": "Department of Economic Affairs",
+        "d": "Central Board of Direct Taxes"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The**Cost Inflation Index**(CII) is**notified every year by the Central Board of Direct Taxes**(CBDT), which is the apex administrative body for direct taxation in India. The CBDT functions under the Department of Revenue, Ministry of Finance, and derives its authority from the**Income Tax Act, 1961**to issue statutory notifications, circulars, and rules related to income tax provisions. The Cost Inflation Index (CII) is**used by taxpayers to compute gains arising out of sale of capital assets after **adjusting inflation**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statements - I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable.",
+        "Statements - II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’.",
+        "Which one of the following is correct in respect of the above statements?",
+        "I"
+      ],
+      "questionText": "Consider the following statements: Statements - I: Interest income from the deposits in Infrastructure Investment Trusts (InvITs) distributed to their investors is exempted from tax, but the dividend is taxable. Statements - II: InvITs are recognized as borrowers under the ‘Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002’. Which one of the following is correct in respect of the above statements? I",
+      "options": {
+        "a": "Both Statement – I and Statement – II are correct and Statement – II is the correct explanation for Statement – I",
+        "b": "Both Statement – I and Statement – II are correct and Statement – II is not the correct explanation for Statement –",
+        "c": "Statement –I is correct but Statement – II is incorrect",
+        "d": "Statement – I is incorrect but Statement– II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **\n\nStatement I is incorrect: **InvITs are investment vehicles that pool funds from investors to invest in infrastructure projects. InvITs are pass-through entities, which means that the income and expenses of the InvIT are passed through to the unitholders. Under the budget**2023-24**, all income distributed by InvITs, including interest income, dividend income, and rental income, will be taxable in the hands of unitholders. This is a change from the previous tax regime, under which only dividend income from InvITs was taxable. The reason for this change is to widen the tax base and to ensure that all income from InvITs is taxed, regardless of its source. This will help to ensure that all investors in InvITs pay their fair share of taxes. It is important to note that this change will only affect income distributed by InvITs. Income distributed by other types of trusts, such as real estate investment trusts (REITs), will not be affected. Here are some additional details about the tax treatment of InvITs under the latest budget: 1. Interest income from deposits in InvITs will be taxed at the investor’s marginal income tax rate. 2. Dividend income from InvITs will be taxed at the dividend distribution tax (DDT) rate of 15%. 3. Rental income from InvITs will be taxed at the investor’s marginal income tax rate.**Therefore, the given statement is incorrect. **\n\nStatement II is correct: **InvITs are classified as borrowers under the Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002 (SARFAESI Act). The SARFAESI Act provides a legal framework for the securitization of financial assets and enables the enforcement of security interests in case of default.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In India, with reference to the different types of taxes, consider the following information:",
+        "Type of Tax Description Example",
+        "I. Progressive tax Increase in tax rate with increase in tax base Income Tax",
+        "II. Regressive tax Shifts the higher tax liability on the rich than on the poor Excise Duty",
+        "III. Ad Valorem tax Levied on goods and services on a per unit basis Property Tax In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "In India, with reference to the different types of taxes, consider the following information: Type of Tax Description Example I. Progressive tax Increase in tax rate with increase in tax base Income Tax II. Regressive tax Shifts the higher tax liability on the rich than on the poor Excise Duty III. Ad Valorem tax Levied on goods and services on a per unit basis Property Tax In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Taxes are compulsory payments **made by taxpayers (individuals or legal entities) to the government in order to generate funds for undertaking development work, finance government spending and pay for public goods/services.**Row I is correct: **A**Progressive tax rate is one in which the rate of taxation increases as the tax base increases. **The rationale is that tax should impose a relatively larger burden on the wealthy. In simple terms, the rich are taxed higher than the poor. The**best example is the income tax slab based rates**in India.**Row II is incorrect: **A**Regressive tax is one in which the rate of taxation **decreases as the tax base increases. **This is the opposite of progressive taxation. Regressive taxes tend to**reduce the tax burden of the people **with a higher ability to pay. **They shift the relative burden increasingly to those with a lower ability to pay. Indirect taxes such as Goods and Service Tax (GST), excise or customs tax are examples of regressive tax since they are same for both rich and the poor person. Thus, it**takes away a larger **proportion of a low-income person’s earnings than a high-income **person’s earnings. **Row III is incorrect:**Ad Valorem in Latin literally means “according to the value”. Hence, an**ad valorem tax is a tax based on the assessed **value of an item, property or transactions.**In contrast, a**specific tax **(and not an ad valorem tax) is levied on the goods and services on a per **unit basis.**The most common ad valorem taxes are**property taxes **levied on real estate, inheritance tax etc.. **It is usually levied as a percentage of the total value of a commodity. It is an ‘ad valorem’ tax when the tax imposed is as a percentage of the value of the product. - Excise taxes can be imposed as specific or ad valorem. Knowledge Base:**Specific Tax: **\n- Specific tax is a type of tax where specific duties are levied per physical unit of the commodity. It is a fixed amount of tax placed on a particular good.\n- It is also referred to as a per-unit tax, and the tax depends on the quantity sold (not the price). For example, it is laid as ₹ X per TV, as cloth per meter, as oil per liter, as fertilizer per tonne etc.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "This curve suggests that higher tax rates initially leads to higher tax revenue for the government but after a point, any increase in tax rates leads to decreasing tax revenue by discouraging people from working. The above paragraph talks about",
+        "which one of the following?"
+      ],
+      "questionText": "This curve suggests that higher tax rates initially leads to higher tax revenue for the government but after a point, any increase in tax rates leads to decreasing tax revenue by discouraging people from working. The above paragraph talks about which one of the following?",
+      "options": {
+        "a": "Engel Curve",
+        "b": "Laffer Curve",
+        "c": "Kuznets Curve",
+        "d": "Beveridge Curve"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nOption b is correct: Laffer curve**depicts the relationship between taxation rates and resultant tax revenue. As per this curve, the**tax **revenue increases with increasing tax rates only up to a certain **point. After this, **there is disincentive for the people to work/produce more and higher incentive for tax evasion, which leads to decreasing tax revenues. **In other terms,**lower tax rates **increase money in hand. **This stimulates more business and more revenue due to raising aggregate demands. So, according to this curve the government should optimize its tax structures in such a way that the tax slabs are neither too low nor too high. This optimal tax rate ensures that the government gets sufficient revenue to finance its activities while there is incentive for people to work hard and produce more.**\n\nOption a is incorrect:**Engel’s Law is an economic theory developed in 1857 by Ernst Engel, a German statistician. It states that the**percentage of **income allocated for food purchases decreases as income rises, even **though the total amount of food expenditure increases. **As a household’s income increases, the percentage of income spent on food decreases while the proportion spent on other goods (such as luxury goods) increases. \n\nOption c is incorrect:**Kuznets curve**(developed by American economist Simon Kuznets) demonstrates the hypothesis that**economic growth initially leads to greater inequality, followed later by the reduction of inequality. **\n\nOption d is incorrect: **The**Beveridge curve is a graphical representation of the relationship between the **unemployment rate**(the number of people unemployed divided by the total labour force)**and the job vacancy rate** (the number of job vacancies divided by the total labour force) and shows how this changes over time. It can be used to assess the current state of the labour market due to the economic cycle.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of indirect taxation in India, consider the following statements:",
+        "Statement I: Indirect taxes in India are generally considered regressive in nature.",
+        "Statement II: Indirect taxes can be easily evaded compared to direct taxes.",
+        "Statement III: Under indirect taxation, a higher tax is generally imposed on necessity goods than on luxury goods.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of indirect taxation in India, consider the following statements: Statement I: Indirect taxes in India are generally considered regressive in nature. Statement II: Indirect taxes can be easily evaded compared to direct taxes. Statement III: Under indirect taxation, a higher tax is generally imposed on necessity goods than on luxury goods. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and Statement III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **A tax is considered regressive when the tax rate does not decrease with decrease in taxpayer’s income. In indirect taxation, individuals with lower incomes tend to spend a larger proportion of their earnings on taxable goods and services. As a result, they pay a higher percentage of their income as tax compared to high-income earners, who spend a smaller proportion of their income on such goods.**Thus Indirect taxes are generally considered regressive in nature. **\n\nStatement II is incorrect: Indirect taxes are generally harder to evade because they are included in the price of **goods and services and collected at the point of transaction. **In the direct taxation, people are aware of their tax liability and therefore they would try to avoid or even evade the taxes. The practice and possibility of tax evasion and avoidance is more in direct taxes than in case of indirect taxes.**\n\nStatement III is incorrect: Indirect taxes can be made progressive by imposing heavy taxes on luxurious goods **and exempting articles of common consumption. It is not necessary in the indirect tax that a higher tax rate is levied on the necessary goods and a lower rate is levied upon the luxurious goods. This is also something that is followed presently with respect to GST as well.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The National Green Tribunal, set up to deal with the expeditious disposal of cases relating to environmental protection, was set up under the?"
+      ],
+      "questionText": "The National Green Tribunal, set up to deal with the expeditious disposal of cases relating to environmental protection, was set up under the?",
+      "options": {
+        "a": "12th Five-Year Plan",
+        "b": "11th Five-Year Plan",
+        "c": "10th Five-Year Plan",
+        "d": "9th Five-Year Plan"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer ** The National Green Tribunal (NGT) is a specialized body that was formed under the NGT Act, 2010 i.e. in 11th Five Year Plan for effective and expeditious disposal of cases that are related to the protection and conservation of the environment, forests, and other natural resources.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2018,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Taxation system in India, consider the following statements about Cess and Surcharge:",
+        "I. Both Cess and surcharge can be levied on direct as well as indirect taxes.",
+        "II. The proceeds from both cess and surcharge are credited to the Consolidated Fund of India.",
+        "III. The proceeds from both cess and surcharge are excluded from the divisible pool of taxes to be shared between the",
+        "Centre and the States.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Taxation system in India, consider the following statements about Cess and Surcharge: I. Both Cess and surcharge can be levied on direct as well as indirect taxes. II. The proceeds from both cess and surcharge are credited to the Consolidated Fund of India. III. The proceeds from both cess and surcharge are excluded from the divisible pool of taxes to be shared between the Centre and the States. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I and II only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**A**cess**is a levy imposed by the Central Government on an existing tax, applicable to**both **direct and indirect taxes**, for a**specific and earmarked purpose**; for instance,**the Health and Education Cess is **levied on income tax, while the GST Compensation Cess is imposed on GST.**A**surcharge**, on the other hand, is an**additional charge on the tax payable**by an individual or entity and is applicable**to both direct and indirect taxes. **With respect to Article 271 of the Constitution of India which talks about surcharges, it says that it will not be **levied on Goods and services tax. **Eg. Surcharge under Corporation Tax is applicable with respect to corporation tax which is a direct tax and Social **Welfare Surcharge under Customs is applicable with respect to customs duty which is an indirect tax. **\n\nStatement II is correct:**The proceeds from both**cess**and**surcharge**are credited directly to the**Consolidated Fund **of India**. However, while the collection from a cess is used for a specific purpose as determined by the Central Government, the proceeds from a surcharge can be used for any general governmental expenditure. In case of GST compensation cess, they are initially credited to the Consolidated Fund of India and then they are transferred to the GST compensation fund created in the Public Account of India.**\n\nStatement III is correct: Both cess and surcharge are excluded from the divisible pool of central taxes **and the revenue collected from them is not shared with the State Governments.\nArticle 270 of the Constitution provides that cesses and surcharges levied by the Union are excluded from the divisible pool of taxes that must be shared with the States. Accordingly, the GST Compensation Cess was not part of the divisible pool.\nThe objective of the GST Compensation Cess was to compensate States for any shortfall in their GST revenue growth below the assured annual growth rate of 14%, compared to their pre-GST tax revenues. Hence, compensation was paid only to those States whose GST revenue growth fell below 14%, and not uniformly to all States. Thus it was not part of the divisible pool of taxes which are shared with the state on the recommendation of the Finance Commission of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Minimum Alternate Tax in India, consider the following statements:",
+        "I. It is not applicable to corporate units operating in the Special Economic Zone areas which are set up under the SEZ",
+        "Act 2005.",
+        "II. It is not applicable to the foreign companies operating in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Minimum Alternate Tax in India, consider the following statements: I. It is not applicable to corporate units operating in the Special Economic Zone areas which are set up under the SEZ Act 2005. II. It is not applicable to the foreign companies operating in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The objective of introduction of Minimum Alternate Tax (MAT) is to bring into the tax net \"zero tax companies\" which in spite of having earned substantial book profits and having paid handsome dividends, do not pay any tax due to various tax concessions and incentives provided under the Income-tax Law.**\n\nStatement I is incorrect: **Minimum Alternate Tax (MAT) has been levied on developers of Special Economic Zones (SEZs) and units operating in SEZs with effect from 1st April, 2012 vide Finance Act, 2011.** Thus, corporate units located **in Special Economic Zone areas were initially exempt from MAT, but this exemption was removed in 2011, making **them liable to pay Minimum Alternate Tax.**\n\nStatement II is incorrect: Minimum Alternate Tax (MAT) is applicable to all companies operating in India**,**including **public companies, private companies, and**foreign companies.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to capital gains tax in India, consider the following statements:",
+        "I. It is governed under the provisions of the Income Tax Act, 1961.",
+        "II. Any agricultural land held by an individual in a rural area will not be considered as a capital asset.",
+        "III. An equity share listed in a recognised stock exchange in India held by an individual for more than 12 months will be considered as a long term capital asset.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to capital gains tax in India, consider the following statements: I. It is governed under the provisions of the Income Tax Act, 1961. II. Any agricultural land held by an individual in a rural area will not be considered as a capital asset. III. An equity share listed in a recognised stock exchange in India held by an individual for more than 12 months will be considered as a long term capital asset. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Capital gains refer to the profit earned from the sale of a capital asset over its purchase price. Such gain is calculated by deducting the purchase price from the sale price, and the tax levied on this gain is known as Capital Gains Tax.**\n\nStatement I is correct: Capital Gains Tax **in India is governed by the provisions of the**Income Tax Act, 1961**. This Act outlines the rules for taxing income from the sale of capital assets. The Act specifies how both short-term and long-term capital gains are taxed.**\n\nStatement II is correct:**Agricultural land is excluded from the definition of a capital asset**if it is not located within the jurisdiction of a municipality, notified area committee, town area committee, cantonment board, or similar authority having a population of at least 10,000.**Hence agricultural land in rural areas is**not treated as a capital **asset. **\n\nStatement III is correct: **Any capital asset held by the taxpayer for a period of more than 24 months immediately preceding the date of its transfer will be treated as long-term capital asset.**However, in respect of certain assets like shares (equity or preference) which are listed in a recognised stock **exchange in India, units of equity oriented mutual funds, listed securities like debentures and Government **securities, Units of UTI and Zero Coupon Bonds, the period of holding to be considered is 12 months instead of 24 **months**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The government of Country A provides production subsidies to its solar panel manufacturers, enabling them to export panels to Country B at $100 per unit, while similar panels produced domestically in Country B sell at $150 per unit. This price advantage results in losses to local manufacturers in Country B.",
+        "In this scenario, which of the following measures is most likely to be imposed by the government of Country B?"
+      ],
+      "questionText": "The government of Country A provides production subsidies to its solar panel manufacturers, enabling them to export panels to Country B at $100 per unit, while similar panels produced domestically in Country B sell at $150 per unit. This price advantage results in losses to local manufacturers in Country B. In this scenario, which of the following measures is most likely to be imposed by the government of Country B?",
+      "options": {
+        "a": "Anti-dumping duty on import of panels from Country A.",
+        "b": "Countervailing duty on import of panels from Country A.",
+        "c": "Border Adjustment tax on import of panels from Country A.",
+        "d": "Safeguard duty on import of panels from Country A."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Countervailing Duty (CVD) is an additional customs duty imposed on imported products to neutralize unfair advantages enjoyed by these products due to benefits like export subsidies and tax in the home country. In the given scenario, Country A is providing production subsidies, enabling exporters to sell solar panels in Country B at a significantly lower price ($100) than domestic producers ($150), thereby causing losses to local manufacturers in country B.**Hence, Country B is most likely to impose a countervailing duty under WTO rules. **For instance, The U.S. and the European Union have imposed countervailing duties (CVDs) on four Indian products, as a retaliation against the Remission of Duties and Taxes on Export Products (RoDTEP) scheme introduced for outbound shipments in January 2021.**\n\nKnowledge Base: **Other types of Custom duty: **Basic Customs Duty (BCD): **It is levied on most imported goods. The applicable rates may be standard or preferential, depending on the country of origin and the trade agreements India has with the exporting country.**Anti-dumping Duty: **This is a protectionist tariff imposed by the government on imports that are priced below their fair market value. Its objective is to prevent dumping, where goods are artificially cheapened and sold in the domestic market to capture local markets, thereby harming local producers. For eg. India recently imposed Anti-Dumping Duties (ADDs) on unfairly cheap imported goods, Chinese Steel, Taiwanese Plastic Machines, and Chinese Aluminum Foil.**Safeguard Duty: **Safeguard duty provides temporary protection to domestic industries when there is a sudden and sharp increase in imports that threatens the survival of domestic manufacturers. For instance, India has periodically imposed safeguard duties on the import of solar cells and modules from countries such as China, Thailand, and Vietnam.**Border Adjustment Tax (BAT):** It is a fiscal measure that taxes goods based on where they are consumed (the destination principle) rather than where they are produced.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q20",
+      "questionNumber": 20,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Goods and Services Tax (GST) Council, consider the following statements:",
+        "I. It is a constitutional body constituted by the President of India.",
+        "II. The proposals in the council are not put to vote; rather the council takes decisions through a consensus-based approach during its meetings.",
+        "III. It is responsible for recommending the date on which the goods and services tax be levied on petroleum crude.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Goods and Services Tax (GST) Council, consider the following statements: I. It is a constitutional body constituted by the President of India. II. The proposals in the council are not put to vote; rather the council takes decisions through a consensus-based approach during its meetings. III. It is responsible for recommending the date on which the goods and services tax be levied on petroleum crude. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "III only",
+        "c": "I and III",
+        "d": "I and II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct:**The**Goods and Services Tax (GST) Council**is a**constitutional body**established under**Article **279A of the Constitution**, which was inserted by the**101st Constitutional Amendment Act**and is**constituted by the **President of India**.**\n\nStatement II is incorrect: **The GST Council comprises the Union Finance Minister as the Chairperson, the Union Minister of State in charge of Revenue or Finance, and the Minister in charge of Finance or Taxation (or any other nominated Minister) from each State Government or union territory with legislature.**In general, the GST Council takes decisions through a consensus-based approach during its meetings. However, **where any proposal is put to vote,**the vote of the Central Government shall have a weightage of one-third of the total votes cast in that meeting, the votes of all the State Governments taken together shall have a weightage of two-thirds of the total votes cast in that meeting and the proposal shall be carried if the total weighted votes of the members present and voting in favour of the proposal is equal to or greater than three-fourths.**\n\nStatement III is correct: Currently, petroleum crude**, high-speed diesel, motor spirit (petrol), natural gas, and aviation turbine fuel (ATF) are not under GST, as these items continue to be taxed under the previous indirect tax regime. However,**the GST Council has the power to decide when GST should be implemented on these products. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Rise in the price of a commodity means"
+      ],
+      "questionText": "Rise in the price of a commodity means",
+      "options": {
+        "a": "Rise in the value of currency only",
+        "b": "Fall in the value of currency only",
+        "c": "Rise in the value of commodity only",
+        "d": "Fall in the value of currency and rise in the value of commodity"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **When the price of a commodity rises, it indicates a fall in the value of currency (as it takes more currency units to **buy the same amount of the commodity) and a rise in the value of the commodity (as it becomes more expensive to **purchase). **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2015,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Which of the following situations are associated with stagflation in an economy?",
+        "I. High levels of unemployment",
+        "II. Deflationary conditions",
+        "III. Sluggish or low economic growth",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following situations are associated with stagflation in an economy? I. High levels of unemployment II. Deflationary conditions III. Sluggish or low economic growth Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Stagflation **is an economic condition in which an**economy simultaneously experiences sluggish or stagnant growth, **high unemployment, and persistently high inflation. **Therefore, -**Stagflation = High Inflation + High Unemployment + Stagnant Growth. **It is particularly challenging for policymakers because measures to control inflation may further slow growth, while efforts to stimulate growth can worsen inflationary pressures.** Option I is correct:**During stagflation, economic activity remains weak and firms operate below capacity. As a result, job creation slows down or contracts**, leading to persistently high unemployment**despite rising prices.** Option II is incorrect: **Deflation implies a sustained fall in the general price level.**This is conceptually opposite to **stagflation, which is marked by continuing inflation**, often driven by supply-side constraints rather than demand expansion.** Option III is correct:**A**defining element of stagflation is stagnation or near-stagnation of real output(sluggish)**. Economic growth remains subdued even as inflation persists, making policy responses particularly challenging.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following measures:",
+        "I. Providing subsidies on key inputs such as fuel, fertilizers and electricity",
+        "II. Imposing a Minimum Export Price (MEP) on selected commodities",
+        "III. Selling government securities through Open Market Operations (OMOs)",
+        "IV. Reducing indirect taxes such as excise duty or GST on essential goods",
+        "How many of the above measures are likely to be taken by the Government or the Central Bank to reduce cost-push inflation in the economy?"
+      ],
+      "questionText": "Consider the following measures: I. Providing subsidies on key inputs such as fuel, fertilizers and electricity II. Imposing a Minimum Export Price (MEP) on selected commodities III. Selling government securities through Open Market Operations (OMOs) IV. Reducing indirect taxes such as excise duty or GST on essential goods How many of the above measures are likely to be taken by the Government or the Central Bank to reduce cost-push inflation in the economy?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Inflation**refers to a**sustained rise in the general price level in an economy**. Based on its underlying causes, inflation can broadly be classified into**demand-pull inflation**and**cost-push inflation. **Cost-push inflation**occurs when the**general price level rises due to an increase in the cost of production**, even in the**absence of excess demand. **- It is**usually triggered by higher prices of key inputs**such as fuel, power, raw materials, wages, or by supply disruptions and increased indirect taxes. - As producers face rising costs, they pass on the burden to consumers in the form of higher prices, leading to inflation. - To control cost-push inflation, governments and central banks generally rely on measures that reduce input costs, ease supply constraints, and limit the transmission of higher production costs into final prices.** Option I is correct: Providing subsidies on key inputs such as fuel, fertilizers and electricity: **Subsidies lower the cost of essential inputs used in production and transportation. This directly**reduces the cost of production for **producers**, thereby mitigating price increases arising from higher input costs, which is the core cause of cost-push inflation.** Option II is correct: Imposing a Minimum Export Price (MEP) on selected commodities: **A Minimum Export Price discourages excessive exports by making them less profitable, ensuring greater domestic availability of essential commodities. Increased domestic supply helps stabilize prices when inflation is driven by rising costs and supply-side constraints, making MEP an**effective tool against cost-push inflation. ** Option III is incorrect: Selling government securities through Open Market Operations (OMOs): **OMOs are primarily used by the central bank to regulate liquidity in the economy and influence aggregate demand. OMOs that involve selling government securities absorb liquidity from the system and reduce aggregate demand.**This tool is **primarily effective against demand-pull inflation**,**not cost-push inflation**, which is supply-side in nature.** Option IV is correct:**Reducing indirect taxes such as excise duty or GST on essential goods: **Indirect taxes form a significant part of production and distribution costs. Reducing excise duty or GST lowers the cost of inputs and final goods. This eases the cost burden on producers and helps prevent price escalation, making it an**effective measure against cost-push inflation**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following indices:",
+        "I. India Electric Mobility Index",
+        "II. Financial Inclusion Index",
+        "III. Export Preparedness Index",
+        "IV. State Energy Efficiency Index",
+        "How many of the above indices are released by NITI Aayog?"
+      ],
+      "questionText": "Consider the following indices: I. India Electric Mobility Index II. Financial Inclusion Index III. Export Preparedness Index IV. State Energy Efficiency Index How many of the above indices are released by NITI Aayog?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Option I is correct.**The National Institution for Transforming India (NITI) Aayog **releases the**India Electric **Mobility Index**. It tracks, evaluates and scores all States and UTs out of 100, across 16 indicators under three-core themes. The themes are Transport Electrification Progress to capture demand-side adoption, Charging Infrastructure Readiness to track allied charging infrastructure development and EV Research and Innovation Status.  Option II is incorrect.**The**Financial Inclusion Index **was launched in 2021 with the aim of capturing the financial inclusion across the country while representing different sectors such as banking, investment, insurance, postal and pension too**. It is released by the Reserve Bank of India. ** Option III is correct.**Export Preparedness Index (EPI) **was developed by** NITI Aayog **in partnership with the Institute for Competitiveness. EPI ranks all States and Union Territories based on their export readiness and performance. EPI is based on** four pillars: Policy, Business Ecosystem, Export Ecosystem, and Export Performance. ** Option IV is incorrect.**The Bureau of Energy Efficiency (BEE) released the State Energy Efficiency Index. **It aims to institutionalise data-driven monitoring, track energy footprints, promote best practices, and foster healthy competition amongst the States and Union territories.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q25",
+      "questionNumber": 25,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to price indices in India, consider the following pairs:",
+        "Index Coverage I.",
+        "Wholesale Price Index (WPI) Covers both domestic and imported goods.",
+        "II. Consumer Price Index (CPI-Combined) Covers both domestic and imported goods and services",
+        "III. GDP Deflator Covers only domestic goods and services",
+        "How many of the pairs given above are information correctly matched?"
+      ],
+      "questionText": "With reference to price indices in India, consider the following pairs: Index Coverage I. Wholesale Price Index (WPI) Covers both domestic and imported goods. II. Consumer Price Index (CPI-Combined) Covers both domestic and imported goods and services III. GDP Deflator Covers only domestic goods and services How many of the pairs given above are information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Pair I is correct: Wholesale Price Index (WPI) **Coverage: **The Wholesale Price Index measures**price changes at the wholesale level and covers only goods**, namely: Primary Articles, Fuel and Power, Manufactured Products.**WPI includes both domestically produced and imported goods. **Published: **WPI is**published monthly**by the Office of the Economic Adviser**under the Department for Promotion of Industry and Internal Trade (DPIIT).**Pair II is correct: Consumer Price Index (CPI–Combined) **Coverage: ** CPI–Combined**includes all goods and services consumed by households**.  It measures retail inflation by measuring the retail prices of a basket of goods and services consumed by households. **Household consumption naturally includes both domestically produced and imported goods and services**(e.g., imported food items, electronics, fuel-based services, etc.).**Published: **- CPI–Combined is** published monthly by the National Statistical Office (NSO). **Pair III is correct: GDP Deflator **Coverage: **The GDP Deflator measures price changes in all final goods and services produced within the domestic economy. Importantly,**it excludes imports, and strictly covers only domestic goods and services. **Published: **In India, the GDP Deflator is**available on a quarterly basis**, as it is derived from quarterly GDP estimates released by the National Statistical Office.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of indirect taxation in India, consider the following statements:",
+        "Statement I: Goods and Services Tax in India has helped in eliminating the cascading effect of taxes.",
+        "Statement II: Under the Goods and Services Tax regime businesses in India can claim Input Tax Credit for taxes paid on inputs across the supply chain.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of indirect taxation in India, consider the following statements: Statement I: Goods and Services Tax in India has helped in eliminating the cascading effect of taxes. Statement II: Under the Goods and Services Tax regime businesses in India can claim Input Tax Credit for taxes paid on inputs across the supply chain. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Goods and Services Tax (GST) is a comprehensive indirect tax levied on the supply of goods and services in India. GST was introduced in 2017 with the objective of removing the cascading effect of indirect taxes. Cascading of taxes refers to the phenomenon of “tax on tax”.**Statement I and Statement II are correct and Statement II explains Statement I:**GST eliminates the cascading **effect mainly through the mechanism of Input Tax Credit (ITC).**Under GST, businesses can claim credit for the tax paid on inputs and input services used in the production or supply of goods and services. This credit can be utilised to discharge GST liability on outputs, ensuring that tax is effectively levied only on value addition at each stage and preventing tax-on-tax. Thus, it ended tax cascading by allowing businesses to claim input tax credit across the supply chain, reducing overall tax burden and simplifying compliance.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "The e-Way bill is an electronic document required for transportation of goods within India. Consider the following statements regarding this e-Way bill:",
+        "I. No e-Way bills are required where the goods are being transported by a non-motorised conveyance.",
+        "II. E-way bills are mandatory for inter-State movement of goods but are not required for intra-State transportation of goods.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "The e-Way bill is an electronic document required for transportation of goods within India. Consider the following statements regarding this e-Way bill: I. No e-Way bills are required where the goods are being transported by a non-motorised conveyance. II. E-way bills are mandatory for inter-State movement of goods but are not required for intra-State transportation of goods. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The e-way bill is a document required for the movement of goods and designed to capture the details of the goods before they are transported.**\n\nStatement I is correct.**E-way bill is a document required by a person in charge of the conveyance carrying any consignment of goods of value exceeding ₹50,000, as mandated by the Government in terms of Section 68 of the Goods and Services Tax Act, read with Rule 138 of the rules framed thereunder. It is generated from the GST Common Portal for the E-Way Bill system by the registered persons or transporters who cause the movement of goods before the commencement of such movement. However as per the rule, no e-way bill is required to be generated if— (a)**where the goods are being transported by a non-motorised conveyance; **(b) where the goods are being transported from the port, airport, aircargo complex and land customs station to an inland container depot or a container freight station for clearance by Customs Also there are certain goods for which no e-way bill is required:**\n\nStatement II is incorrect. **The system did not distinguish between inter-State and intra-State movement of goods. E-way bills were introduced on**April 1, 2018**, for all**inter-State movement of goods with values exceeding ₹**50,000**.\nThey were made**mandatory for intra-State movement of goods valued at over ₹**50,000 from April 15, 2018**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "The term base effect is often referred to while calculating inflation in an economy. It refers to:"
+      ],
+      "questionText": "The term base effect is often referred to while calculating inflation in an economy. It refers to:",
+      "options": {
+        "a": "The effect of structural changes in the primary and secondary sectors on the overall economy.",
+        "b": "The effect of tax rates on the price levels in the economy.",
+        "c": "The impact of price levels in the previous period on the calculation of inflation for the current period.",
+        "d": "The impact of inflation on the population living below a certain income bas"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct:**The base effect in the context of calculating inflation refers to the influence of the price levels **from a previous period on the calculation of the current period's inflation rate. **Inflation is typically measured by comparing the current prices of goods and services to the prices of the same goods and services in a base period, often a year earlier. The base period serves as a reference point for assessing changes in price levels over time. For example:**The base effect in an economy is commonly used to understand inflation. Base effect can lead to an apparent under-or overstatement of figures if the point chosen for comparison has an unusually high or low value relative to the current period.** So choosing a base point, or base year**, that is a point earlier in time, can help understand the changes in inflation.**Currently, the base year of the Consumer Price Index (CPI) used in India is **2012.** Choosing such appropriate bases for the comparison you want to make (or at least accounting for the base effect in your comparison) can lead to a better understanding of the data.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In context to economy, which of the following statements correctly refers to the ‘Taylor Rule’? incomes. revenue. economy based on changes in inflation and other economic conditions. unemployment."
+      ],
+      "questionText": "In context to economy, which of the following statements correctly refers to the ‘Taylor Rule’? incomes. revenue. economy based on changes in inflation and other economic conditions. unemployment.",
+      "options": {
+        "a": "It is an economic principle that describes how expenditure patterns of households vary with changes in household",
+        "b": "It is a macroeconomic framework that suggests the optimal level of tax rates that maximizes the Government",
+        "c": "It is a monetary policy guideline that suggests how Central Banks should determine the right interest rate for the",
+        "d": "It is a framework for determining the optimal level of economic growth rate to ensure the lowest possible level of"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **Engel’s Law states that as income rises, the proportion of income spent on food declines, even if absolute expenditure on food increases.**\n\nOption b is incorrect. **The Laffer Curve suggests that there exists an optimal tax rate that maximizes government revenue, beyond which higher tax rates may lead to a decline in tax collections.**\n\nOption c is correct.**The Taylor Rule is a rule used by central banks to determine the right interest rate for the **economy based on changes in inflation and other economic conditions. **It was proposed by American economist John Taylor as a tool to conduct rules-based monetary policy. The Taylor rule is often proposed as a solution to the problem of discretion involved in the framing of monetary policy due to the influence of political populism. It provides a formula to determine how much a central bank should target an increase or decrease in interest rates depending on the economy’s health.It suggests that**when inflation increases by one percentage point, the central bank should **raise the nominal interest rate by more than one percentage point**.**\n\nOption d is incorrect. **Okun’s Law explains the inverse relationship between economic growth and unemployment in an economy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to the land reforms in independent India, consider the following statements:",
+        "I. The land reforms were aimed at providing ownership rights of land to the tenants.",
+        "II. The land reforms were uniformly implemented across the country.",
+        "III. The land reforms provided for the ceiling limits with respect to the maximum size of agricultural landholding a family as well as an individual can hold.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the land reforms in independent India, consider the following statements: I. The land reforms were aimed at providing ownership rights of land to the tenants. II. The land reforms were uniformly implemented across the country. III. The land reforms provided for the ceiling limits with respect to the maximum size of agricultural landholding a family as well as an individual can hold. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The initial phase of land reforms included three major efforts: abolition of intermediaries, tenancy reforms, and redistribution of land through land ceilings. The first important legislation was the abolition of the zamindari system, which removed the layer of intermediaries between cultivators and the state. This reform made nearly 2 crore tenants the owners of the land they cultivated.**\n\nStatement I is correct.**After the Zamindari Abolition Acts, the next major step was tenancy reforms. These reforms regulated rent, provided security of tenure, and**conferred ownership to tenants**. The idea was that ownership would incentivize tillers to invest in land improvements, provided they had access to sufficient capital.**\n\nStatement II is incorrect. **Land reforms were not uniformly implemented across the country, as land is a state subject. Reforms were successful in states like Kerala and West Bengal, where governments were committed to the “land to the tiller” policy. Other states lacked similar commitment, and vast inequality in landholding continues to this day.**\n\nStatement III is correct. T**he third major category of land reform laws were the Land Ceiling Acts. Land Ceiling means fixing the maximum size of landholding that an individual/family can own. The ceiling laws aimed at fixing the maximum size of land which could be owned by an individua**l. Land Ceiling laws were applied to family holdings as **well as individual holdings. ** The third major category of land reform laws was the Land Ceiling Acts. These laws fixed the maximum size of landholdings that an individual or family could own, and were applied to both family and individual holdings. The purpose was to redistribute surplus land to landless farmers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "A redistribution of income in a country can be best brought about through:"
+      ],
+      "questionText": "A redistribution of income in a country can be best brought about through:",
+      "options": {
+        "a": "Progressive taxation combined with progressive expenditure",
+        "b": "Progressive taxation combined with regressive expenditure",
+        "c": "Regressive taxation combined with regressive expenditure",
+        "d": "Regressive taxation combined with progressive expenditure"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Progressive taxation involves taxing higher income individuals at higher rates**, resulting in a more significant burden on the wealthy.**Progressive expenditure involves directing government spending towards social welfare **programs and initiatives that benefit lower-income groups**. This combination leads to a redistribution of income,**where wealth is transferred from the affluent to the less privileged, fostering a more equitable distribution of **resources. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 1996,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 1996"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to First Five year plans in post Independent India, consider the following statements:",
+        "Statement I: Agriculture was given the primary focus in the plan.",
+        "Statement II: At the time India suffered from influx of refugees leading to severe shortage of food.",
+        "Statement III: The plan was based on Mahalanobis model in which poor agricultural production was seen as a limiting factor in India’s economic development.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to First Five year plans in post Independent India, consider the following statements: Statement I: Agriculture was given the primary focus in the plan. Statement II: At the time India suffered from influx of refugees leading to severe shortage of food. Statement III: The plan was based on Mahalanobis model in which poor agricultural production was seen as a limiting factor in India’s economic development. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and Statement III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **Statements I and II are correct and Statement II explains Statement I: In the First Five-Year Plan (**1951-56**) **Agriculture was given the topmost priority. It was mainly directed towards increasing agricultural production and strengthening economic infrastructures like irrigation, power and transport after independence**.There was influx of **refugees, severe food shortage & mounting inflation confronted the country at the onset of the first five year Plan. **There was an acute food shortage in the country and to solve the food problem priority was given to increase **production of food grains. **\n\nStatement III is incorrect: The First Five-Year Plan was based on the Harrod-Domar Model, **which emphasizes capital accumulation and investment for economic growth. The model was adapted to focus on agricultural development, as India was recovering from partitioninduced food shortages and required rapid agricultural expansion to ensure food security. The**second five-year plan**was to set India on the path of industrialization. P.C. Mahalanobis was the moving spirit behind the second five-year plan (**Plan is also called Mahalanobis Plan**). The strategy of growth laid emphasis on rapid industrialization with a focus on heavy industries and capital goods. Third Five year Plan: **Based on the experience of the first two plans (agricultural production was seen as a limiting factor in India’s economic development), agriculture was given top priority to support exports and industry.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to economic plans proposed in India before Independence, consider the following information:",
+        "Plan Prepared by Main feature",
+        "I. Gandhian Plan",
+        "S. N. Agarwal Emphasised decentralised economy with self- sufficient villages and industrial development.",
+        "II. People’s Plan",
+        "M. N. Roy Based on the principles of Marxist socialism with emphasis on state-led industrialisation.",
+        "III. Sarvodaya Plan Sardar Vallabhbhai Patel Emphasised trusteeship and the upliftment of all through decentralised participatory planning.",
+        "In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to economic plans proposed in India before Independence, consider the following information: Plan Prepared by Main feature I. Gandhian Plan S. N. Agarwal Emphasised decentralised economy with self- sufficient villages and industrial development. II. People’s Plan M. N. Roy Based on the principles of Marxist socialism with emphasis on state-led industrialisation. III. Sarvodaya Plan Sardar Vallabhbhai Patel Emphasised trusteeship and the upliftment of all through decentralised participatory planning. In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Information in row I is correct: **The**Gandhian Plan was put forward by S. N. Agarwal of Wardha**and was firmly**rooted in Gandhian philosophy. **- It envisaged a**decentralised economic structure centred on self-sustaining villages and industrial **development. **- The plan stressed the**development of agriculture, cottage industries**, and**village industries**, aiming to achieve balanced growth from the bottom up. - It also differed from the Bombay Plan, which favoured heavy industries.**Information in row II is correct: The People’s Plan (1945) was prepared by M. N. Roy, **and was based on the**ideology **of Marxist Socialism. **- Its objective was to ensure basic necessities of life for all individuals. - The plan emphasised collectivisation and**state ownership of industries**, with particular focus on state-led industrialisation in the agricultural sector and consumer goods industries, reflecting a strong socialist orientation.**Information in row III is incorrect: The Sarvodaya Plan (1950) was not prepared by Sardar Vallabhbhai Patel. It was **outlined by Jayaprakash Narayan, **a prominent Gandhian thinker. - The term ‘Sarvodaya’ literally means “upliftment of all”, and the**plan was firmly rooted in Gandhian philosophy, **particularly the** ideas of trusteeship, non-violence, and constructive work. **- The plan advocated self-sufficiency by reducing dependence on foreign goods and technologies. - Its core focus was on**agricultural development, land reforms**, and**promotion of small-scale industries. **- The Sarvodaya Plan also drew inspiration from**Vinoba Bhave’s Sarvodaya movement**, reinforcing the emphasis on**community welfare over individual profit**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to taxation, ‘double dividend of tax’ refers to: achieve social benefits. power of the poor. the economy. improving environmental quality and improved social benefits."
+      ],
+      "questionText": "With reference to taxation, ‘double dividend of tax’ refers to: achieve social benefits. power of the poor. the economy. improving environmental quality and improved social benefits.",
+      "options": {
+        "a": "A tax restructuring which helps in reducing the fiscal deficit at the same time increasing public expenditure to",
+        "b": "A tax system in which decrease in indirect taxes simultaneously decreases inflation and increases the purchasing",
+        "c": "A situation where higher tax rates leads to increased government revenue but results in lower aggregate demand in",
+        "d": "A tax policy whereby green taxes are increased in proportion to a decrease in traditional taxes like income tax thus"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption d is correct: **Taxes can improve efficiency of the economy -**taxes on pollution or on smoking extend revenue **to the government and also serve broader social purposes. **This is known as the double dividend of a tax. The double dividend hypothesis means that**if the government raises green (environmental) taxes and reduces traditional taxes **like income tax by the same amount, **the total tax revenue remains unchanged. This can lead to two benefits.** First, **higher green taxes help protect the environment by reducing pollution**.**Second, lower income and labour taxes **reduce the burden on workers and employers, which can lower labour costs and increase employment. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement – I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes.",
+        "Statement – II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement – I: In the post-pandemic recent past, many Central Banks worldwide had carried out interest rate hikes. Statement – II: Central Banks generally assume that they have the ability to counteract the rising consumer prices via monetary policy means. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I",
+        "b": "Both Statement-I and Statements-II is are correct and Statement-II is not the correct explanation for Statement-II",
+        "c": "Statement-I is correct but Statement-II is incorrect",
+        "d": "Statement-I is incorrect but Statement-II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**\n\nStatement I is correct:**In the post-pandemic recent past, many central banks worldwide have indeed carried out interest rate hikes. Central banks use interest rate adjustments as one of their monetary policy tools to manage the economy. When the economy is recovering and inflationary pressures increase, central banks may choose to increase interest rates to control inflation and ensure price stability. By raising interest rates, central banks aim to reduce borrowing and spending, which can help cool down an overheating economy and prevent excessive inflation.**\n\nStatement II is correct**: Monetary policy refers to the actions taken by central banks to influence the supply of money and credit in the economy. Central banks believe that by adjusting interest rates, they can influence borrowing costs, spending patterns, and overall economic activity. When inflation rises, central banks may raise interest rates to make borrowing more expensive, thereby discouraging excessive spending and slowing down economic growth. By doing so, they aim to dampen inflationary pressures and maintain price stability.**Therefore, statement II provides the correct explanation for statement I. Central banks believe that by using **monetary policy tools, such as interest rate hikes, they can effectively counteract rising consumer prices and **control inflationary pressures in the economy**.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "‘Forward shifting of tax’ refers to a situation in which:"
+      ],
+      "questionText": "‘Forward shifting of tax’ refers to a situation in which:",
+      "options": {
+        "a": "The government borrows excessively and shifts the tax liability to future generations.",
+        "b": "The tax burden is borne by the producer due to inelastic demand in the economy.",
+        "c": "The tax payment by firms is deferred to subsequent financial years.",
+        "d": "The seller passes the tax burden onto the consumer by increasing the prices."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Shifting of tax**refers to the process of transferring the burden of a tax from one party to another. **Forward shifting of tax**occurs when the**tax burden is transferred from the producer or seller to the consumer**. In this case, the seller raises the price of goods or services to account for the tax imposed. For example, if a sales tax is imposed or increased on a product, the seller may raise the price, and the consumer ultimately bears the cost of the tax through higher prices.  This contrasts with**backward shifting of tax**, where the**tax burden is shifted from the consumer to the seller or **producer.** In this case, the seller or producer chooses to absorb the tax burden, often due to the fear of a decline in demand.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following items:",
+        "I. Indian Breads",
+        "II. Medical-grade oxygen",
+        "III. Premiums on Individual Life Insurance",
+        "IV. Study essentials like pencils and sharpeners",
+        "V. Tractors Presently,",
+        "how many of the above items are exempted/Nill GST under the Goods and Services Tax (GST) in India?"
+      ],
+      "questionText": "Consider the following items: I. Indian Breads II. Medical-grade oxygen III. Premiums on Individual Life Insurance IV. Study essentials like pencils and sharpeners V. Tractors Presently, how many of the above items are exempted/Nill GST under the Goods and Services Tax (GST) in India?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **In**September 2025**, the**GST Council approved several major reforms**aimed at providing relief to households, farmers, and the healthcare sector. These reforms focused on**making essential services and goods more affordable. ** Option I is correct: **GST reforms in 2025 cut taxes on household essentials (soaps, toothpaste, Indian breads) to 5% or Nil boosting affordability.** Products like **Ultra-High Temperature (UHT) milk, Pre-packaged and labelled chena or paneer**, all the Indian Breads will see NIL rates. Thus, Indian breads are now exempted under GST. ** Option II is incorrect: **GST has been reduced from 12% to 5% on key medical products such as anesthetics,**medical\n- **grade oxygen**, gauze, bandages, diagnostic kits, surgical gloves, glucometers, thermometers, and other appliances. This will lower the cost of healthcare delivery for hospitals, diagnostic centres, and clinics.  Option III is correct: **As per the September 2025 decisions of the GST Council,**individual health and life insurance **premiums have been fully exempted from GST**. Earlier, these premiums attracted an 18% tax rate. This reform aims to encourage insurance adoption and reduce out-of-pocket healthcare expenses for middle-income families.** Option IV is correct: **Education has become more affordable with exercise books, erasers, pencils, crayons and sharpeners moving to 0% GST. This directly supports families and students, ensuring lower costs of learning materials. Thus, Study essentials like pencils and sharpeners are now exempted from GST.** Option V is incorrect: GST on farming equipments have reduced eg. Tractors: 12% →**5%; tires and parts: 18% → 5%. Thus Tractors are not exempted from GST. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "A tax buoyancy greater than one generally indicates:"
+      ],
+      "questionText": "A tax buoyancy greater than one generally indicates:",
+      "options": {
+        "a": "Increase in tax revenue is proportionately more than the increase in GDP.",
+        "b": "Increase in tax revenue is less than the proportionate increase in tax rates.",
+        "c": "Increase in GDP growth has led to less than the proportionate increase in tax revenue.",
+        "d": "Increase in tax revenue is more than the proportionate increase in tax rates."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct: Tax buoyancy shows the relationship between tax revenue and Gross Domestic Product (GDP). **It is the response of gross tax revenue to a change in the GDP. A tax is called buoyant when it grows with the growth in GDP (without increasing the tax rates). It depends on tax base, tax compliance, simplicity and rationality of the tax system, etc. A**tax buoyancy greater than one indicates that the increase in tax revenue is proportionately more **than the increase in GDP. **\n\nOption b is incorrect: **Tax elasticity measures how much tax revenue changes when tax rates change. It reflects responsiveness of the tax system.**When increase in tax revenue is less than the proportionate increase in tax rates, **it reflects low tax elasticity. **\n\nOption c is incorrect: **Tax buoyancy measures how responsive tax revenue growth is to GDP growth in an economy.**A **buoyancy less than one indicates an increase in tax revenue is slower than the increase in GDP growth rate. **This means an increase in GDP growth has led to less than the proportionate increase in tax revenue.**\n\nOption d is incorrect: **A**tax elasticity greater than one **indicates that the**percentage increase in tax revenue is **more than the proportionate percentage increase in tax rates. **Knowledge Base:**Tax elasticity refers to changes in tax revenue in response to changes in tax rates. **In practice, it shows the relationship between tax collection/revenue and the changes made in the tax rates by the government-a tax rate increase/decrease may result in rise or fall in tax revenue. It**shows how responsive the taxpayers are to the changes **in the tax rate. **A high tax elasticity indicates that the tax system is flexible and adaptable to policy changes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Suppose a scenario in an economy:",
+        "“The headline inflation in an economy in October 2025 was 7% which decreased to 5% in November 2025 and further to 3% in December 2025.” The scenario best reflects:"
+      ],
+      "questionText": "Suppose a scenario in an economy: “The headline inflation in an economy in October 2025 was 7% which decreased to 5% in November 2025 and further to 3% in December 2025.” The scenario best reflects:",
+      "options": {
+        "a": "Skewflation",
+        "b": "Disinflation",
+        "c": "Deflation",
+        "d": "Reflation"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **\n\nOption a is incorrect: Skewflation refers to uneven or disproportionate inflation across different sectors or **categories. **\n\nOption b is correct and c is incorrect: Disinflation refers to a decrease in the rate of inflation, which means that **prices are still rising but at a slower pace than before. **While Deflation refers to falling prices or in other words, the opposite of inflation (rising prices). Disinflation does not refer to the direction of prices (as inflation and deflation do). It refers to the rate of change. It is a slowdown in the rate of inflation. For example, deflation would be an inflation rate of-1 percent, while disinflation would be a change in the inflation rate from 7 percent in one month to 5 percent in the next month and to 3 percent in the next.**\n\nOption d is incorrect: Reflation refers to a fiscal or monetary policy (or policies) aimed towards stimulating the **economy (i.e., increasing the level of economic activity) and combating deflation. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q40",
+      "questionNumber": 40,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements regarding the Central Board of Indirect Taxes and Customs (CBIC) in India:",
+        "I. It comes under the Department of Revenue, Ministry of Finance.",
+        "II. The chairman of the board is the appellate authority with respect to dealing cases of anti-profiteering under Goods and Services tax.",
+        "III. It is a statutory body established under the Central Boards of Revenue Act, 1963.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Central Board of Indirect Taxes and Customs (CBIC) in India: I. It comes under the Department of Revenue, Ministry of Finance. II. The chairman of the board is the appellate authority with respect to dealing cases of anti-profiteering under Goods and Services tax. III. It is a statutory body established under the Central Boards of Revenue Act, 1963. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. Statements I is correct: **Central Board of Indirect Taxes and Customs (erstwhile Central Board of Excise & Customs) is a part of**the Department of Revenue under the Ministry of Finance**, Government of India.**\n\nStatement II is incorrect:**The Union Government established the National Anti-Profiteering Authority (NAA) in 2017 to ensure that the benefits of GST are passed on to the consumers.**From 1st October 2024 onwards, the GST Appellate Tribunal (GSTAT) handles anti-profiteering cases. **In a notification dated 1st October 2024, the Government empowered the Principal bench of GSTAT (GST Appellate Tribunal) as the authority for anti-profiteering cases. However, the Government has notified 1st April 2025, as the sunset date for the anti-profiteering clause in the GST law. This sunset clause ended new complaints from 1st April 2025.**\n\nStatement III is correct:**CBIC is a** statutory body **established**under **the** Central Boards of Revenue Act, 1963.** The Central Board of Excise and Customs (CBEC) was renamed as the Central Board of Indirect Taxes and Customs (CBIC) in 2018 after the roll out of the Goods and Services Tax (GST).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”?",
+        "1. The government can reduce the coupon rates on its borrowing by way of IIBs.",
+        "2. IIBs provide protection to the investors from uncertainty regarding inflation.",
+        "3. The interest received as well as capital gains on IIBs are not taxable.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Indian economy, what are the advantages of “Inflation-Indexed Bonds (IIBs)”? 1. The government can reduce the coupon rates on its borrowing by way of IIBs. 2. IIBs provide protection to the investors from uncertainty regarding inflation. 3. The interest received as well as capital gains on IIBs are not taxable. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Statements 1 and 2 are correct: **Inflation-Indexed Bonds (IIBs) are bonds where the principal and interest payments are adjusted for inflation. This means that the government can offer a lower coupon rate on these bonds compared to traditional bonds because investors are protected against inflation. These instruments protect savings from inflation.**\n\nStatement 3 is incorrect: **Extant tax provisions will be applicable on interest payment and capital gains on IIBs. There will be no special tax treatment for these bonds.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following:",
+        "I. Carbon emission taxes",
+        "II. Tax imposed on alcohol manufacturing",
+        "III. Tax on plastic bags",
+        "How many of the above are examples of Pigouvian Tax?"
+      ],
+      "questionText": "Consider the following: I. Carbon emission taxes II. Tax imposed on alcohol manufacturing III. Tax on plastic bags How many of the above are examples of Pigouvian Tax?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**Pigouvian tax is a tax imposed on economic transactions which create negative externality **i.e., a cost which is borne by those who were not part of the transaction. It is named after the British economist Arthur C. Pigou (**1877-19**59).** Option I is correct: Carbon tax, fuel cesses and all environmental taxes are examples of Pigouvian tax**which are imposed as the social cost of such private transactions and are not added in the selling prices. According to Pigou, the social damage or the social cost imposed by a firm by its pollution activity on society may be neutralised by imposing a pollution tax on the firm. The**rate of the tax is equal to the marginal environmental cost or marginal social damage **by the polluting firm on society. ** Option II is correct:**Alcohol producers benefit from the sale of alcohol but do not have to pay the external costs **associated with heavy drinking. These external costs can come in the form of higher maintenance costs of the police and prisons (because of the crime associated with alcohol) and health care requirements. Therefore,**Pigou argued **that a tax on alcohol could discourage excess drinking**and more importantly raise public funds to deal with the external costs of alcohol drinking.** Option III is correct:**Pigovian tax is a tax on plastic bags,**and sometimes even paper bags. This encourages consumers to bring their own reusable bags from home to deter the use of plastic and paper.**Plastic is a byproduct of **burning fossil fuels and results in the damage of marine life, **while paper bags encourage deforestation.**Increased **public healthcare costs associated with tobacco and sugary drinks consumption are some other examples** where Pigouvian taxes are applicable.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Which one of the following statements is the best description of the concept of ‘tax inversion’? overall tax liability. residence/headquarter to a foreign country with a low tax rate."
+      ],
+      "questionText": "Which one of the following statements is the best description of the concept of ‘tax inversion’? overall tax liability. residence/headquarter to a foreign country with a low tax rate.",
+      "options": {
+        "a": "Manipulation of pricing of goods and services by a multi national company between its subsidiaries to reduce its",
+        "b": "Tax avoidance measure, where through restructuring, a multi national company shifts its legal",
+        "c": "Routing of funds by companies through its shell entities to show higher sales, often involving money laundering.",
+        "d": "The strategy by a multi national company claiming tax credits for taxes paid in multiple jurisdictions."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct: Tax inversion involves a restructuring that shifts the multinational’s legal **residence/headquarters abroad. **Generally this involves little or no shift in actual economic activity, but can substantially reduce the company’s tax bill. This is legal and is a method of tax avoidance. Multinational corporations (MNCs) keep doing this—several MNCs of US-origin shifted their headquarters to the UK, during the 1970s and 1980s. The**countries in the world which have very low tax regimes for corporations have emerged as very attractive **locations for the headquarters of big corporations. **Bermuda, Virgin Islands, etc. are such countries (popularly known as the ‘tax havens’).**\n\nOption a is incorrect: Transfer pricing**is a term of international economics via which**an MNC charges lesser prices **for its exportable to its arm in another economy where tax rates are high, **for increasing income.**\n\nOption c is incorrect:**Round tripping is a financial act under which one company sells assets to another for the **sake of generating/showing higher sales and later buys back the assets. **Such practices are normally done by individuals/companies by creating shell companies. By doing so, companies cheat investors/shareholders, tax administration and financial regulators simultaneously. It can be used for avoiding tax, money laundering and escaping capital controls. Being a case of reporting fraud, this is declared illegal across the world.**\n\nOption d is incorrect: Base Erosion and Profit Shifting (BEPS)**is a kind of corporate tax planning under which the**multinational companies ‘shift’ their profit from higher-tax countries to lower-tax countries ‘eroding the tax base’ **of the higher-tax countries. **In practice, companies make profit in one country and shift them to another which has lower tax rates and takes advantage of lower tax payments. This way the companies do not pay taxes to the country where the profit is made.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "The primary objective of the levying of the Tobin Tax is to:"
+      ],
+      "questionText": "The primary objective of the levying of the Tobin Tax is to:",
+      "options": {
+        "a": "Generate revenue for the government from cross-border trade transactions.",
+        "b": "Reduce the overall inflation rate in the economy by promoting exports.",
+        "c": "Stabilize exchange rates by discouraging short-term speculative currency flows.",
+        "d": "Discourage the consumption of products or activities deemed harmful to societies."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct:**Tobin tax**is a tax proposed by Nobel-prize-winning economist James Tobin**to discourage short\n- **term currency speculation and stabilisation of financial markets. I**t refers to a small tax imposed on all foreign exchange transactions to discourage destabilizing speculation and volatility in the foreign exchange markets. The**Securities Transaction Tax (STT) introduced in India in 2004 is considered a form of Tobin Tax, **as it's a tax on financial market transactions (securities) meant to curb excessive speculation and generate revenue.**\n\nOption a is incorrect: Custom duties or tariffs are generally levied on goods when they are transported across **international borders.**It is levied on cross-border transactions and regulates the flow of goods and service in the international markets besides being a source of revenue for the government.**\n\nOption b is incorrect: **The primary objective of Tobin tax is not to reduce the overall inflation rate in the economy by promoting exports. Generally,** policies that encourage exports do not directly target the reduction of overall **domestic inflation**through that mechanism.**\n\nOption d is incorrect: **A**sin tax is a tax levied on **specific**goods and services that are considered harmful, **costly, or otherwise undesirable**to society and individuals.** It serves a dual purpose: to discourage the consumption of products or activities deemed harmful to individuals and society, and to generate revenue for the government",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q45",
+      "questionNumber": 45,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to India’s Five -Year Plans, which of the following statements is/are correct?",
+        "1. From the Second Five -Year Plan, there was a determined thrust towards substitution of basic and capital good industries.",
+        "2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.",
+        "3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "With reference to India’s Five -Year Plans, which of the following statements is/are correct? 1. From the Second Five -Year Plan, there was a determined thrust towards substitution of basic and capital good industries. 2. The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power. 3. In the Fifth Five-Year Plan, for the first time, the financial sector was included as an integral part of the Plan. Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **\n\nStatement 1 is correct. **From the Second Five-Year Plan, there was a determined thrust towards substitution of basic and capital good industries**\n\nStatement 2 is correct. **The Fourth Five-Year Plan adopted the objective of correcting the earlier trend of increased concentration of wealth and economic power.**\n\nStatement 3 is incorrect. **For the first time in Indian planning, Financial sector became an integral part of the plan in the Ninth Five – Year Plan.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2019,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q46",
+      "questionNumber": 46,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of the Indian economy, consider the following situations:",
+        "I. Rise in market interest rates",
+        "II. Increase in public expenditure by the Government",
+        "III. Increase in global prices of crude oil",
+        "IV. Rise in nominal wages of labourers",
+        "How many of the above could lead to demand-pull inflation in the economy?"
+      ],
+      "questionText": "In the context of the Indian economy, consider the following situations: I. Rise in market interest rates II. Increase in public expenditure by the Government III. Increase in global prices of crude oil IV. Rise in nominal wages of labourers How many of the above could lead to demand-pull inflation in the economy?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Inflation refers to a general increase in the prices of products and services over a given period of time. It is a phenomenon caused by an imbalance between supply and demand of goods and services. It is of two categories-Demand Pull Inflation and Cost Push Inflation.**Demand-pull inflation**occurs when aggregate demand exceeds aggregate supply, leading to higher prices. Demand pull inflation is a result of increased spending power of consumers in an economy.**Cost Push Inflation **refers to price rise caused by an increase in the cost of production of goods and services in an economy.** Option I is incorrect. When market interest rates are increased**, the**borrowing cost would increase**and thus the**demand for goods is likely to reduce**. This would help control inflation.** Option II is correct.**The Government provides fiscal stimulus when it increases spending, cuts taxes, or both. This helps**shore up households' and businesses' demand for goods.**This results in**demand-pull inflation. ** Option III is incorrect. Rise in prices of crude oil and thus energy can lead to cost push inflation**. Increased energy costs impact various stages of the supply chain, from production to transportation**. **Higher global oil prices have a cascading effect on raw material costs in an import dependent economy like India.** Option IV is correct. A rise in nominal wages can fuel demand-pull inflation**by increasing workers' disposable income, boosting spending, and creating excess demand for goods/services.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q47",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In context to the measurement of inflation in India, consider the following pairs:",
+        "Index Compiled By",
+        "I. Consumer Price Index for Industrial Workers (CPI-IW) Ministry of Finance",
+        "II. Consumer Price Index for Agricultural Labourer (CPI- AL) Ministry of Agriculture and Farmers'",
+        "Welfare",
+        "III. All India Consumer Price Index (CPI) Ministry of Statistics and Programme Implementation",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "In context to the measurement of inflation in India, consider the following pairs: Index Compiled By I. Consumer Price Index for Industrial Workers (CPI-IW) Ministry of Finance II. Consumer Price Index for Agricultural Labourer (CPI- AL) Ministry of Agriculture and Farmers' Welfare III. All India Consumer Price Index (CPI) Ministry of Statistics and Programme Implementation How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Consumer Price Index (CPI) measures the change in the prices paid by consumers for a representative basket of goods and services. In India, CPI is a key economic indicator used to track inflation for both rural and urban consumers. In India, CPI indices are classified based on the target population covered: 1. CPI for Industrial workers (IW) 2. CPI for Agricultural Labourer (AL) 3. CPI for Rural Labourer (RL) 4. CPI (Rural, Urban, Combined)**Pair I is incorrect. **The Consumer Price Index for Industrial Workers (CPI-IW) measures the cost of living changes for industrial workers in urban areas. It is being compiled, maintained and disseminated** by the Labour Bureau, an **attached office of the Ministry of Labour & Employment. **Pair II is incorrect. **The Consumer Price Index for Agricultural Labourers (CPI-AL) monitors price changes for goods and services used by agricultural workers in rural areas.**The Labour Bureau, under the Ministry of Labour & **Employment, compiles and releases**the Consumer Price Index for Agricultural Labourers.**Pair III is correct.**The**National Statistical Office (NSO), Ministry of Statistics and Programme Implementation **(MoSPI), compiles CPI for All India and States for Rural, Urban, Combined sectors** and releases it every month. The RBI currently uses CPI as a key measure of inflation to set monetary and credit policy.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q48",
+      "questionNumber": 48,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In general, the headline inflation is more volatile than core inflation.",
+        "Statement II: Unlike the headline inflation, core inflation excludes volatile items like food and fuel.",
+        "Statement III: The core inflation reflects current prices of goods and services whereas headline inflation reflects the constant prices.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In general, the headline inflation is more volatile than core inflation. Statement II: Unlike the headline inflation, core inflation excludes volatile items like food and fuel. Statement III: The core inflation reflects current prices of goods and services whereas headline inflation reflects the constant prices. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and Statement III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Headline Inflation refers to the change in value of all goods in the basket. In contrast, core inflation refers to the long-term trend in the price level of goods and services, excluding items that are subject to volatile price movements(food and fuel). In India,**Consumer Price Index – Combined (CPI-C) represents Headline Inflation. **\n\nStatement I is correct:**The**headline inflation **figure is not adjusted for seasonality or for the often-volatile elements. It i**s generally considered more volatile than the core inflation because it contains highly fluctuating prices of food **and energy (fuel).**Since the prices of fuel and food items tend to fluctuate and create ‘noise’ in inflation computation, core inflation is less volatile than headline inflation.**Headline inflation is the raw (overall) inflation figure on the **basis of the Consumer Price Index (CPI). **\n\nStatement II is correct and explains Statement I: **Unlike the headline inflation that includes change in the value of all goods in the basket, core Inflation refers to the change in value of goods and services excluding those commodities that have extremely volatile price movements. For example: food items, energy products etc.**Core inflation is **measured by excluding food and energy items from CPI headline inflation.**It assesses the underlying price trends by**largely eliminating the impact of price volatilities**arising from transitory supply shocks. Thus, core inflation is less volatile in comparison to headline inflation. -**Core Inflation = Headline Inflation – Inflation of volatile products such as food & fuel **\n\nStatement III is incorrect: Both core inflation and headline inflation reflect current prices (and not the constant **prices)**of the goods and services in the basket. The difference between headline inflation and core inflation is that the core inflation is the retail inflation after the effect of food and fuel items is removed. Knowledge Base:**Concept of Refined Core Inflation: **- It was introduced by the Economic Survey 2022. It provides a clearer view of the underlying inflation trends by**excluding **certain volatile components such as**\"petrol for vehicle,\" \"diesel for vehicle,\" and \"lubricants & other **fuels for vehicles\". **Additionally, broader categories like \"food and beverages\" and \"fuel and light\" are also excluded from the headline retail inflation. -**Refined core inflation = Core Inflation\n- \"petrol for vehicle,\" \"diesel for vehicle,\" and \"lubricants & other fuels **for vehicles\" **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q49",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of India, consider the following:",
+        "I. Custom Duty",
+        "II. Stamps and Registration Fees",
+        "III. Securities transaction Tax",
+        "IV. Minimum Alternate Tax",
+        "How many of the above are examples of direct taxes?"
+      ],
+      "questionText": "In the context of India, consider the following: I. Custom Duty II. Stamps and Registration Fees III. Securities transaction Tax IV. Minimum Alternate Tax How many of the above are examples of direct taxes?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Direct taxes are those taxes that have to be paid by the person on whom they are levied. **In this type of tax, the impact of tax and the incidence of tax are on the same person and there is no possibility of shifting of tax. Income tax, property tax, corporation tax, etc. are direct taxes as they are imposed on and paid by the same person.** Option I is incorrect:**Custom duty is an indirect tax applicable on goods transported across international borders. **It is defined under the Customs Act, 1962. The Central Board of Excise & Customs (CBEC), a division of the Department of Revenue of the Ministry of Finance, administers the Custom duty. Import duties are not levied on a few goods including lifesaving drugs/equipment, fertilizers, food grains etc. to keep their cost at lowest possible level for the welfare of the people.**Countervailing duty, Anti-dumping duty and Safeguard duty are examples of custom **duty. ** Option II is incorrect: Stamp and Registration fees is a form of indirect tax that **the Union Government of India can levy on certain specified financial and legal transactions. **The payment of stamp duty is essential to making a document legally valid and admissible in a court of law. It also serves as a major source of revenue for governments. The Indian Stamp Act of 1899 governs the rules and regulations regarding the levy of stamp duty.** Option III is correct:**The Securities Transaction Tax is a direct tax imposed on both the purchase and sale of the **securities and is calculated as a percentage of the transaction value. The rate of STT varies depending on the type **of transaction and the category of securities involved. **Note: The government balance sheet showing receipts from taxes on income other than corporation tax, it includes Securities Transaction Tax.** Option IV is correct: **The**Minimum Alternate Tax (MAT) is a direct tax introduced specifically to target those **companies which make huge profits but pay no/minimal tax **by taking advantage (misusing) of the various deductions and exemptions allowed under the Income Tax Act. After its introduction, companies need to pay a minimum fixed percentage of their profit as MAT. MAT is payable under the Income Tax Act, 1961. MAT is**applicable to **all companies, public, private and foreign companies operating in India. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-economy-test17-q50",
+      "questionNumber": 50,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of taxation in India, consider the following scenario:",
+        "A mobile phone company has its manufacturing facility located in State",
+        "X. The company supplies mobile phones from State X to State Y, where these goods are ultimately sold to consumers. In this scenario, under the Goods and Services",
+        "Tax (GST) regime, the tax will be levied in the:"
+      ],
+      "questionText": "In the context of taxation in India, consider the following scenario: A mobile phone company has its manufacturing facility located in State X. The company supplies mobile phones from State X to State Y, where these goods are ultimately sold to consumers. In this scenario, under the Goods and Services Tax (GST) regime, the tax will be levied in the:",
+      "options": {
+        "a": "State Y, but the revenue is shared between state X and the Central government.",
+        "b": "State X, but the entire revenue is transferred to state Y.",
+        "c": "State Y, but the revenue is shared between state X and Y",
+        "d": "State Y, and the revenue is shared between the State Y and the Central Government."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The Goods and Services Tax (GST), introduced through the 101st Constitutional Amendment Act of 2016, is a unified tax system designed to replace multiple indirect taxes such as VAT, excise duty, service tax, and luxury tax.**Goods and Services Tax (GST) is a destination-based tax system. This means that the tax is levied at the place **where goods are consumed (State Y), rather than where they are produced (State X)**.In the case of inter-state trade, the tax revenue is shared between:\n- The state where the goods are consumed (destination state i.e. in this case State Y),\n- The Central Government, which collects the central component of the tax.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

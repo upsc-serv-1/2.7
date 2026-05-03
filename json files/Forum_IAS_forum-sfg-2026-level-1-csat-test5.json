@@ -1,0 +1,1448 @@
+{
+  "id": "forum-sfg-2026-level-1-csat-test5",
+  "title": "Test 5- L1 SFG 2026 - Sectional - CSAT",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 80,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q01",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage I Good corporate governance structures encourage companies to provide accountability and control. A fundamental reason why corporate governance has moved onto the economic and political agenda worldwide has been the rapid growth in international capital markets. Effective corporate governance enhances access to external financing by firms, leading to greater investment, higher growth and employment. Investors look to place their funds where the standards of disclosure, of timely and accurate financial reporting, and of equal treatment to all stakeholders are met.",
+        "Which of the following statements best reflects the logical inference from the passage given above?"
+      ],
+      "questionText": "Passage I Good corporate governance structures encourage companies to provide accountability and control. A fundamental reason why corporate governance has moved onto the economic and political agenda worldwide has been the rapid growth in international capital markets. Effective corporate governance enhances access to external financing by firms, leading to greater investment, higher growth and employment. Investors look to place their funds where the standards of disclosure, of timely and accurate financial reporting, and of equal treatment to all stakeholders are met. Which of the following statements best reflects the logical inference from the passage given above?",
+      "options": {
+        "a": "It is an important agenda of the countries around the world to ensure access to good external financing.",
+        "b": "Good corporate governance improves the credibility of the firms.",
+        "c": "International capital markets ensure that the firms maintain good corporate governance.",
+        "d": "Good corporate governance paves the way for robust supply chains."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nOption a is incorrect\n- **This option goes beyond the scope of the passage. While the passage mentions that effective corporate governance enhances access to external financing, it does not explicitly state that it is an important agenda of countries around the world. The passage focuses more on the benefits of good corporate governance for firms and investors rather than the specific agendas of countries.**\n\nOption b is correct\n- **The passage states that effective corporate governance structures encourage companies to provide accountability and control. It further explains that good corporate governance is important because it enhances access to external financing by firms, leading to greater investment, higher growth, and employment. Investors are more likely to invest in companies that meet the standards of disclosure, timely and accurate financial reporting, and equal treatment to all stakeholders.Based on this information, it can be inferred that good corporate governance improves the credibility of firms. When companies have strong governance practices in place, investors perceive them as more trustworthy and reliable. This improves the credibility of the firms in the eyes of investors, making them more attractive for investment.**\n\nOption c is incorrect\n- **This option is not supported by the passage. The passage mentions that the rapid growth in international capital markets has been a reason for corporate governance moving onto the economic and political agenda worldwide. However, it does not state that international capital markets ensure that firms maintain good corporate governance. The emphasis in the passage is on how good corporate governance enhances access to external financing and attracts investors.**\n\nOption d is incorrect\n- ** This option is not addressed in the passage. The passage primarily discusses how good corporate governance structures encourage accountability, control, and access to external financing. It does not mention anything about supply chains or how they are impacted by corporate governance.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q02",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage II The rise of autonomous vehicles has introduced complex questions of legal liability when machine-driven errors cause accidents. Unlike conventional driving, responsibility is no longer limited to human drivers but may extend to software developers, manufacturers, and data providers. While assigning liability to firms could incentivise safer design, it also risks slowing innovation. Conversely, limiting liability may leave victims inadequately compensated. The challenge lies in developing legal frameworks that ensure accountability without discouraging technological progress.",
+        "Which of the following, if true, would most appropriately strengthen the author’s argument in the passage? a sharp decline in start-ups entering the sector. existing laws. continues to be a major cause of accidents."
+      ],
+      "questionText": "Passage II The rise of autonomous vehicles has introduced complex questions of legal liability when machine-driven errors cause accidents. Unlike conventional driving, responsibility is no longer limited to human drivers but may extend to software developers, manufacturers, and data providers. While assigning liability to firms could incentivise safer design, it also risks slowing innovation. Conversely, limiting liability may leave victims inadequately compensated. The challenge lies in developing legal frameworks that ensure accountability without discouraging technological progress. Which of the following, if true, would most appropriately strengthen the author’s argument in the passage? a sharp decline in start-ups entering the sector. existing laws. continues to be a major cause of accidents.",
+      "options": {
+        "a": "Countries that imposed strict liability due to accidents by autonomous vehicles on their manufacturers witnessed",
+        "b": "Advances in technology have reduced the frequency of software-related driving errors in Autonomous vehicles.",
+        "c": "Victims of accidents involving autonomous vehicles often face difficulties in identifying responsible parties under",
+        "d": "Human error due to non availability of avenues for comprehensive training on driving autonomous vehicles"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **While it supports the concern about innovation slowing down, the passage does not suggest that there would be a sharp decline in startups entering the sector.**\n\nOption b is incorrect. **A reduction in software errors weakens the urgency of the liability dilemma rather than strengthening it as the passage is primarily premised on errors by the autonomous vehicles.**\n\nOption c is correct.**When** victims struggle to identify responsible parties under current laws**, it**directly supports **the author’s argument that existing legal frameworks are inadequate and that clearer accountability mechanisms **are required**.**\n\nOption d is incorrect.** The passage discusses the dilemma on whom to blame for accidents from among the driver or the software developers, manufacturers, and data providers. It no where concludes that human driving errors are a major cause of accidents. Also, non availability of avenues for comprehensive training on driving autonomous vehicles is discussed in the passage ans hence remains outside the scope of the passage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q03",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage II The rise of autonomous vehicles has introduced complex questions of legal liability when machine-driven errors cause accidents. Unlike conventional driving, responsibility is no longer limited to human drivers but may extend to software developers, manufacturers, and data providers. While assigning liability to firms could incentivise safer design, it also risks slowing innovation. Conversely, limiting liability may leave victims inadequately compensated. The challenge lies in developing legal frameworks that ensure accountability without discouraging technological progress.",
+        "Which of the following statements represents the most logical and rational inference that can be drawn from the passage? autonomous vehicles. individual human agency."
+      ],
+      "questionText": "Passage II The rise of autonomous vehicles has introduced complex questions of legal liability when machine-driven errors cause accidents. Unlike conventional driving, responsibility is no longer limited to human drivers but may extend to software developers, manufacturers, and data providers. While assigning liability to firms could incentivise safer design, it also risks slowing innovation. Conversely, limiting liability may leave victims inadequately compensated. The challenge lies in developing legal frameworks that ensure accountability without discouraging technological progress. Which of the following statements represents the most logical and rational inference that can be drawn from the passage? autonomous vehicles. individual human agency.",
+      "options": {
+        "a": "Legal systems must eventually prioritise technological innovation over victim compensation in the case of",
+        "b": "Assigning liability in autonomous vehicle accidents requires redefining traditional notions of responsibility beyond",
+        "c": "Autonomous vehicle technology is advancing faster than the capacity of law to regulate it effectively.",
+        "d": "Strict manufacturer liability is likely to become the dominant global model for regulating autonomous vehicles."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect.**The passage does not argue for prioritising innovation over compensation; it emphasises the need for balance.**\n\nOption b is correct.**The** passage explicitly notes that responsibility in autonomous vehicle accidents extends **beyond human drivers to software developers, manufacturers, and data providers, implying a redefinition of **traditional responsibility frameworks. **\n\nOption c is incorrect.**While the passage highlights legal complexity, it does not state or imply that technology has outpaced law beyond repair.**\n\nOption d is incorrect.** The author does not predict or advocate any single dominant regulatory model; instead, the passage remains cautious and balanced.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q04",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage III Economic ecosystems evolve through a process of ‘creative destruction’. The inefficient are weeded out over time and replaced by those that are more competent. Thus, the competitiveness of an economy is critically dependent on its ability to encourage and endure a churn despite all the disruptions it may cause in the short run. However, India exhibits a relatively low level of such dynamism, inconsistent with an economy aspiring to high innovation and risk taking. So what needs to be done? The first step should be to change a deeply ingrained social attitude that looks with suspicion at risk taking and innovation. Second, financial regulations and institutional processes must be reoriented to enable easier entry, exit and reallocation of capital. Third, excessive protection of entrenched incumbents across sectors should be curtailed. Together, these measures can go a long way in fostering greater innovation, adaptability and long term resilience in the Indian economy.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. India needs to reform its economic policies to emerge as a global leader.",
+        "II. The process of creative destruction is beneficial for the economy in the long run.",
+        "III. Despite being drivers of progress, risk taking and innovation are often perceived negatively in society.",
+        "IV. Ease of doing business would aid the process of creative destruction in the economy.",
+        "Which of the assumptions given above are valid?"
+      ],
+      "questionText": "Passage III Economic ecosystems evolve through a process of ‘creative destruction’. The inefficient are weeded out over time and replaced by those that are more competent. Thus, the competitiveness of an economy is critically dependent on its ability to encourage and endure a churn despite all the disruptions it may cause in the short run. However, India exhibits a relatively low level of such dynamism, inconsistent with an economy aspiring to high innovation and risk taking. So what needs to be done? The first step should be to change a deeply ingrained social attitude that looks with suspicion at risk taking and innovation. Second, financial regulations and institutional processes must be reoriented to enable easier entry, exit and reallocation of capital. Third, excessive protection of entrenched incumbents across sectors should be curtailed. Together, these measures can go a long way in fostering greater innovation, adaptability and long term resilience in the Indian economy. Based on the above passage, the following assumptions have been made: I. India needs to reform its economic policies to emerge as a global leader. II. The process of creative destruction is beneficial for the economy in the long run. III. Despite being drivers of progress, risk taking and innovation are often perceived negatively in society. IV. Ease of doing business would aid the process of creative destruction in the economy. Which of the assumptions given above are valid?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "II, III and IV only",
+        "c": "II and III only",
+        "d": "III and IV only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement I is invalid. **Though the passage highlights the need of economic reforms, it does not state that these are needed to emerge as a global leader. Therefore, the assumption is outside the scope of the passage and thus incorrect.**Statement II is valid. **The passage states “Economic ecosystems evolve through a process of ‘creative destruction’. The inefficient are weeded out over time and replaced by those that are more competent. Thus, the competitiveness of an economy is critically dependent on its ability to encourage and endure a churn despite all the disruptions it may cause in the short run.” From here we can conclude that the assumption is correct.**Statement III is valid. **The passage states “The first step should be to change a deeply ingrained social attitude that looks with suspicion at risk taking and innovation.” From here we can assume that the statement 3 is correct.**Statement IV is valid.** The passage states “financial regulations and institutional processes must be reoriented to enable easier entry, exit and reallocation of capital.” From here we can conclude that the assumption is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q05",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage IV The rapid rise of start-ups has reshaped traditional markets by introducing new business models, technologies, and modes of consumer engagement. By prioritising speed, scalability, and innovation, start-ups often challenge established firms that rely on stability, regulation, and incremental change. While this disruption can increase efficiency and consumer choice, it may also generate uncertainty, job displacement, and regulatory gaps. The resulting tension highlights a broader economic dilemma: how to encourage innovation-driven growth without undermining market stability and long-term institutional resilience.",
+        "Which of the following inference(s) can be correctly drawn from the passage given above?",
+        "I. Start-ups derive their competitive advantage largely from their ability to bypass conventional market constraints.",
+        "II. Market disruption driven by start-ups can produce both efficiency gains and systemic risks.",
+        "Select the correct answer using the codes given below:"
+      ],
+      "questionText": "Passage IV The rapid rise of start-ups has reshaped traditional markets by introducing new business models, technologies, and modes of consumer engagement. By prioritising speed, scalability, and innovation, start-ups often challenge established firms that rely on stability, regulation, and incremental change. While this disruption can increase efficiency and consumer choice, it may also generate uncertainty, job displacement, and regulatory gaps. The resulting tension highlights a broader economic dilemma: how to encourage innovation-driven growth without undermining market stability and long-term institutional resilience. Which of the following inference(s) can be correctly drawn from the passage given above? I. Start-ups derive their competitive advantage largely from their ability to bypass conventional market constraints. II. Market disruption driven by start-ups can produce both efficiency gains and systemic risks. Select the correct answer using the codes given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Inference I is correct. **The passage notes that start-ups challenge traditional markets through speed, scalability, and new models, implying an ability to operate beyond conventional constraints.**Inference II is correct**. The passage explicitly mentions both positive outcomes as efficiency and consumer choice and negative consequences as uncertainty, job displacement, regulatory gaps.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q06",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage V Bhopal’s “Kachra Cafe” is a unique waste management initiative that reimagines waste as a resource. The cafe collects",
+        "19 types of waste, including paper, glass, metal, plastic, e-waste, and old clothes. Citizens are encouraged to bring segregated and clean items to the cafe. Each contribution is weighed and converted into digital points, redeemable for snacks or handmade products such as tote bags, envelopes, diyas, and home decor items. The collected waste goes to the municipal corporation’s Material Recovery Facilities and is then sent to authorized recyclers, promoting a circular economy. A key feature that makes this initiative unique is the participation of women. Women create and sell snacks and handicrafts made from upcycled materials, turning waste into a livelihood opportunity. As Bhopal aims for increased cleanliness, Kachra Cafe stands out as a replicable, people driven model for sustainability.",
+        "Which of the following statements best reflects the most logical, rational and crucial message implied by the passage?"
+      ],
+      "questionText": "Passage V Bhopal’s “Kachra Cafe” is a unique waste management initiative that reimagines waste as a resource. The cafe collects 19 types of waste, including paper, glass, metal, plastic, e-waste, and old clothes. Citizens are encouraged to bring segregated and clean items to the cafe. Each contribution is weighed and converted into digital points, redeemable for snacks or handmade products such as tote bags, envelopes, diyas, and home decor items. The collected waste goes to the municipal corporation’s Material Recovery Facilities and is then sent to authorized recyclers, promoting a circular economy. A key feature that makes this initiative unique is the participation of women. Women create and sell snacks and handicrafts made from upcycled materials, turning waste into a livelihood opportunity. As Bhopal aims for increased cleanliness, Kachra Cafe stands out as a replicable, people driven model for sustainability. Which of the following statements best reflects the most logical, rational and crucial message implied by the passage?",
+      "options": {
+        "a": "Waste management practices should be modelled on the principles of circular economy.",
+        "b": "Efficient waste management can convert waste into a resource and a livelihood opportunity.",
+        "c": "Bhopal’s Kachra café model should be replicated for sustainable waste management.",
+        "d": "Active participation of communities, especially women, strengthens sustainable development efforts."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect. **While the passage states “The collected waste goes to the municipal corporation’s Material Recovery Facilities and is then sent to authorized recyclers, promoting circular economy”, statement a does not best reflect the most logical, rational and crucial message implied by the passage as it narrowly focuses only on one aspect of waste management (circular economy).**\n\nOption b is correct. **The** statement best reflects the most logical, rational and crucial message implied by the **passage as it comprehensively highlights the benefits of efficient waste **management. It is mentioned in the passage as “Bhopal’s “Kachra Cafe” is a unique waste management initiative that reimagines waste as a resource.” “A key feature that makes this initiative unique is the participation of women. Women create and sell snacks and handicrafts made from upcycled materials, turning waste into a livelihood opportunity.” \n\nOption c is incorrect. **While the passage states “As Bhopal aims for increased cleanliness, Kachra Cafe stands out as a replicable, people driven model for sustainability”, statement c does not best reflect the most logical, rational and crucial message implied by the passage as it does not highlight why the model should be replicated.**\n\nOption d is incorrect. **The passage states “A key feature that makes this initiative unique is the participation of women.” “As Bhopal aims for increased cleanliness, Kachra Cafe stands out as a replicable, people driven model for sustainability.” However, statement d does not best reflect the most logical, rational and crucial message implied by the passage as it narrowly focuses only on one aspect of waste management (public participation).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q07",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage VI Beyond spreadsheets and stock tickers, a quiet revolution is unfolding in the heart of capitalism. Environmental,",
+        "Social, and Governance (ESG) investing is not merely a new metric but a philosophical crossroads, forcing a fundamental question: what is wealth for? It challenges the long-held axiom of profit as a solitary end, proposing instead a vision where capital is a steward for the future. This shift imagines markets not as cold engines of extraction but as living ecosystems where financial return, planetary health, and social equity are intertwined roots of the same tree. The future of capitalism now hangs in the balance—between a legacy defined solely by accumulation and a new destiny written in the language of holistic value.",
+        "Based on the author's depiction, the \"living ecosystem\" view of markets is characterized by:"
+      ],
+      "questionText": "Passage VI Beyond spreadsheets and stock tickers, a quiet revolution is unfolding in the heart of capitalism. Environmental, Social, and Governance (ESG) investing is not merely a new metric but a philosophical crossroads, forcing a fundamental question: what is wealth for? It challenges the long-held axiom of profit as a solitary end, proposing instead a vision where capital is a steward for the future. This shift imagines markets not as cold engines of extraction but as living ecosystems where financial return, planetary health, and social equity are intertwined roots of the same tree. The future of capitalism now hangs in the balance—between a legacy defined solely by accumulation and a new destiny written in the language of holistic value. Based on the author's depiction, the \"living ecosystem\" view of markets is characterized by:",
+      "options": {
+        "a": "The independent pursuit of financial and social goals.",
+        "b": "The intrinsic and inseparable interconnection of various forms of value.",
+        "c": "The dominance of natural resource-based industries.",
+        "d": "The rapid evolution of financial technologies."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect. **The passage does not suggest that financial and social goals are pursued independently. Instead, it emphasizes their integration.**\n\nOption b is correct. **The**phrase “living ecosystems” is used metaphorically to convey that financial return, **planetary health, and social equity are intrinsically linked and mutually reinforcing, described as “intertwined **roots of the same tree.” **\n\nOption c is incorrect.**The passage does not associate the ecosystem metaphor with natural resource–based industries; it uses it philosophically to describe market values.**\n\nOption d is incorrect.** The passage makes no reference to financial technologies or their evolution; the focus is on values and purpose",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q08",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage VI Beyond spreadsheets and stock tickers, a quiet revolution is unfolding in the heart of capitalism. Environmental,",
+        "Social, and Governance (ESG) investing is not merely a new metric but a philosophical crossroads, forcing a fundamental question: what is wealth for? It challenges the long-held axiom of profit as a solitary end, proposing instead a vision where capital is a steward for the future. This shift imagines markets not as cold engines of extraction but as living ecosystems where financial return, planetary health, and social equity are intertwined roots of the same tree. The future of capitalism now hangs in the balance—between a legacy defined solely by accumulation and a new destiny written in the language of holistic value.",
+        "The vision of capitalism described in the latter part of the passage would be most difficult to realize if:"
+      ],
+      "questionText": "Passage VI Beyond spreadsheets and stock tickers, a quiet revolution is unfolding in the heart of capitalism. Environmental, Social, and Governance (ESG) investing is not merely a new metric but a philosophical crossroads, forcing a fundamental question: what is wealth for? It challenges the long-held axiom of profit as a solitary end, proposing instead a vision where capital is a steward for the future. This shift imagines markets not as cold engines of extraction but as living ecosystems where financial return, planetary health, and social equity are intertwined roots of the same tree. The future of capitalism now hangs in the balance—between a legacy defined solely by accumulation and a new destiny written in the language of holistic value. The vision of capitalism described in the latter part of the passage would be most difficult to realize if:",
+      "options": {
+        "a": "The metrics for measuring planetary health and social equity remain non-financial and qualitative.",
+        "b": "Short-term financial performance continues to be the dominant criterion for market success.",
+        "c": "New technologies emerge to better track corporate environmental impact.",
+        "d": "Public awareness of climate change continues to ris"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement a is incorrect. **While non-financial and qualitative metrics may pose measurement challenges, the passage does not suggest that quantification is the primary obstacle to realizing the envisioned form of capitalism.**Statement b is correct**. The**latter part of the passage contrasts a future based on holistic value with a legacy **“defined solely by accumulation.”**If short-term financial performance remains the dominant criterion, it directly undermines the shift toward integrating financial return with planetary health and social equity, making the envisioned transformation most difficult to achieve.**Statement c is incorrect.**Improved technologies for tracking environmental impact would facilitate, not hinder, the realization of the described vision.**Statement d is incorrect.** Rising public awareness of climate change would likely strengthen support for ESG-oriented capitalism rather than obstruct it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q09",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage VII Blockchain technology is emerging as a powerful tool to enhance transparency and accountability in supply chains. By recording every transaction on an immutable, decentralized ledger, blockchain enables stakeholders to trace goods, payments, and services in real time. This reduces the scope for corruption, fraud, and inefficiency that often plague traditional delivery systems. For instance, in public service delivery, blockchain can ensure that welfare benefits, subsidies, or healthcare services reach the intended recipients without middlemen or data manipulation. Similarly, in commercial supply chains, it improves product authenticity, tracks environmental compliance, and strengthens consumer trust. Therefore, by integrating blockchain into service delivery frameworks, governments and businesses can create systems characterized by greater trust, efficiency, and inclusivity.",
+        "Which of the following can be inferred from the passage regarding blockchain’s role in supply chains and service delivery? adoption by governments. stakeholders by making processes more transparent and traceable. of service and supply chains."
+      ],
+      "questionText": "Passage VII Blockchain technology is emerging as a powerful tool to enhance transparency and accountability in supply chains. By recording every transaction on an immutable, decentralized ledger, blockchain enables stakeholders to trace goods, payments, and services in real time. This reduces the scope for corruption, fraud, and inefficiency that often plague traditional delivery systems. For instance, in public service delivery, blockchain can ensure that welfare benefits, subsidies, or healthcare services reach the intended recipients without middlemen or data manipulation. Similarly, in commercial supply chains, it improves product authenticity, tracks environmental compliance, and strengthens consumer trust. Therefore, by integrating blockchain into service delivery frameworks, governments and businesses can create systems characterized by greater trust, efficiency, and inclusivity. Which of the following can be inferred from the passage regarding blockchain’s role in supply chains and service delivery? adoption by governments. stakeholders by making processes more transparent and traceable. of service and supply chains.",
+      "options": {
+        "a": "While it increases operational efficiency, blockchain also raises significant data privacy concerns that limit its",
+        "b": "Blockchain’s ability to record transactions in a decentralized and unchangeable manner builds trust among",
+        "c": "The primary advantage of blockchain lies in its ability to completely remove human intermediaries from all stages",
+        "d": "Blockchain technology is more effective in commercial supply chains than in public service delivery frameworks."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect.**The passage does not mention any data privacy concerns or limitations on government adoption; it only presents blockchain's benefits. This option introduces an external negative factor not supported by the text.**\n\nOption b is correct.**The**passage opens by stating blockchain enhances \"transparency and accountability\" through **an \"immutable, decentralized ledger\" that enables real-time traceability, which \"reduces scope for corruption\" and **\"strengthens consumer trust.\"**This directly supports the inference that its technical features build stakeholder trust by increasing transparency and traceability.**\n\nOption c is incorrect. **The passage states blockchain can ensure benefits \"reach intended recipients without middlemen\" (not \"all\" intermediaries) and does not claim complete removal of human intermediaries as the \"primary advantage.\" This overstates and misrepresents the passage's claims.**\n\nOption d is incorrect.** The passage provides examples of blockchain's benefits in both commercial supply chains and public service delivery (welfare, healthcare) without comparing their effectiveness. No hierarchy or relative effectiveness is suggested.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q10",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage VII Blockchain technology is emerging as a powerful tool to enhance transparency and accountability in supply chains. By recording every transaction on an immutable, decentralized ledger, blockchain enables stakeholders to trace goods, payments, and services in real time. This reduces the scope for corruption, fraud, and inefficiency that often plague traditional delivery systems. For instance, in public service delivery, blockchain can ensure that welfare benefits, subsidies, or healthcare services reach the intended recipients without middlemen or data manipulation. Similarly, in commercial supply chains, it improves product authenticity, tracks environmental compliance, and strengthens consumer trust. Therefore, by integrating blockchain into service delivery frameworks, governments and businesses can create systems characterized by greater trust, efficiency, and inclusivity.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Use of blockchain technology in supply chains would completely eliminate corruption from the system.",
+        "II. Incorporating blockchain into service delivery promotes good governance through greater accountability.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage VII Blockchain technology is emerging as a powerful tool to enhance transparency and accountability in supply chains. By recording every transaction on an immutable, decentralized ledger, blockchain enables stakeholders to trace goods, payments, and services in real time. This reduces the scope for corruption, fraud, and inefficiency that often plague traditional delivery systems. For instance, in public service delivery, blockchain can ensure that welfare benefits, subsidies, or healthcare services reach the intended recipients without middlemen or data manipulation. Similarly, in commercial supply chains, it improves product authenticity, tracks environmental compliance, and strengthens consumer trust. Therefore, by integrating blockchain into service delivery frameworks, governments and businesses can create systems characterized by greater trust, efficiency, and inclusivity. Based on the above passage, the following assumptions have been made: I. Use of blockchain technology in supply chains would completely eliminate corruption from the system. II. Incorporating blockchain into service delivery promotes good governance through greater accountability. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement I is invalid.**The passage states “By recording every transaction on an immutable, decentralized ledger, blockchain enables stakeholders to trace goods, payments, and services in real time. This r**educes the scope for **corruption**”. However, the use of the word ‘completely eliminate’ makes the assumption extreme and thus invalid.**Statement II is valid**. The passage mentions “**integrating blockchain into service delivery frameworks, governments **and businesses can create systems characterized by greater trust, efficiency, and inclusivity.**” From here we can assume that the assumption is valid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q11",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage VIII Only with long experience and opening of his wares on many a beach where his language is not spoken, will the merchant come to know the worth of what he carries, and what is parochial and what is universal in his choice. Such delicate goods as justice, love and honour, courtesy, and indeed all the things we care for, are valid everywhere but they are variously moulded and often differently handled, and sometimes nearly unrecognizable if you meet them in a foreign land, and the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows.",
+        "When we meet other people while we travel, we learn to differentiate between"
+      ],
+      "questionText": "Passage VIII Only with long experience and opening of his wares on many a beach where his language is not spoken, will the merchant come to know the worth of what he carries, and what is parochial and what is universal in his choice. Such delicate goods as justice, love and honour, courtesy, and indeed all the things we care for, are valid everywhere but they are variously moulded and often differently handled, and sometimes nearly unrecognizable if you meet them in a foreign land, and the art of learning fundamental common values is perhaps the greatest gain of travel to those who wish to live at ease among their fellows. When we meet other people while we travel, we learn to differentiate between",
+      "options": {
+        "a": "Imagination and understanding",
+        "b": "Communities and nationalities",
+        "c": "Local values and universal values",
+        "d": "Friends and foes"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** option c is the correct answer. **\n\nOption a is incorrect:**The passage does not discuss the differentiation between imagination and understanding in the context of encountering different cultures and values during travel. It focuses more on the universal validity and varying interpretations of values rather than on this distinction.**\n\nOption b is incorrect:**While the passage mentions encountering different cultures (\"opening of his wares on many a beach where his language is not spoken\"), it does not directly address the differentiation between communities and nationalities as a primary focus.**\n\nOption c is correct: **The passage emphasizes that delicate goods like justice, love, honor, and courtesy are universally valid but can be perceived differently across cultures (\"variously molded and often differently handled\"). It highlights the importance of discerning what is universal and what is parochial (local) when encountering these values in foreign lands.**\n\nOption d is incorrect: **The passage does not discuss the differentiation between friends and foes in the context of encountering different cultures and values during travel. It primarily emphasizes learning fundamental common values and understanding their universal applicability.\nTherefore, option c is the correct answer because it aligns with the central idea conveyed by the passage about distinguishing between local values and universal values when encountering different cultures.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q12",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage IX Businesses worldwide are increasingly making ambitious net-zero pledges. While many companies have begun taking meaningful steps toward these commitments, concerns remain due to the prevalence of greenwashing. This has prompted growing demands for stronger standards and greater corporate accountability. Therefore, these pledges must be backed by clear, verifiable transition plans that outline how targets will be achieved. Corporate management should be held accountable for implementing these plans, ensuring measurable progress. Ultimately, genuine sustainability pledges require that corporate promises translate into transparent action and measurable environmental impact.",
+        "Which of the following statements best reflects the central idea of the passage?"
+      ],
+      "questionText": "Passage IX Businesses worldwide are increasingly making ambitious net-zero pledges. While many companies have begun taking meaningful steps toward these commitments, concerns remain due to the prevalence of greenwashing. This has prompted growing demands for stronger standards and greater corporate accountability. Therefore, these pledges must be backed by clear, verifiable transition plans that outline how targets will be achieved. Corporate management should be held accountable for implementing these plans, ensuring measurable progress. Ultimately, genuine sustainability pledges require that corporate promises translate into transparent action and measurable environmental impact. Which of the following statements best reflects the central idea of the passage?",
+      "options": {
+        "a": "The corporate sector is increasingly committing to environmental sustainability goals.",
+        "b": "Greenwashing undermines the credibility and impact of corporate net-zero pledges.",
+        "c": "Sustainability pledges are meaningless without transparent action and tangible environmental impact.",
+        "d": "While businesses make ambitious sustainability pledges, they often lack a clear roadmap to achieve them."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation: Option c is the correct answer. **\n\nOption a is incorrect.**The passage states “many companies have begun taking meaningful steps toward these (environmental) commitments”. However, statement a does not best reflect the central idea of the passage as it does not highlight that these commitments often lack intent.**\n\nOption b is incorrect. **The passage highlights the issue of greenwashing, which raises concerns about the credibility of businesses’ commitments to environmental goals. However, statement b does not best reflect the central idea of the passage as it narrowly focuses on the issue of greenwashing rather than the broader idea of making an environmental impact.**\n\nOption c is correct. **The passage states “**genuine sustainability pledges require that corporate promises translate **into transparent action and measurable environmental impact**.” Therefore, statement c best reflects the central idea of the passage as it highlights the need of an action plan alongside sustainability pledges in order to have an impact on the environment.**\n\nOption d is incorrect. **Though statement d highlights the idea of a lack of roadmap for fulfilling the sustainability pledges made by the corporates, it is narrower as compared to statement c. Therefore, it does not best reflect the central idea of the passage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q13",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage X Ageing populations pose a complex challenge that goes beyond economics to include health, dignity, and intergenerational equity. While rising life expectancy reflects medical progress, many older adults suffer from chronic illness, disability, and mental health issues, often due to lack of adequate social support. Pension systems, designed for smaller retired populations, are under increasing strain. Encouraging older adults to remain productive may ease fiscal pressure, but unequal health and capacities, and persisting social constraints limit such options. Societies must therefore balance economic sustainability with ethical responsibility, ensuring that pension reforms promote inclusion, autonomy, and well-being rather than treating the elderly solely as economic contributors.",
+        "Which one of the following statements most accurately captures the dilemma mentioned by the author of the above passage? populations. societies."
+      ],
+      "questionText": "Passage X Ageing populations pose a complex challenge that goes beyond economics to include health, dignity, and intergenerational equity. While rising life expectancy reflects medical progress, many older adults suffer from chronic illness, disability, and mental health issues, often due to lack of adequate social support. Pension systems, designed for smaller retired populations, are under increasing strain. Encouraging older adults to remain productive may ease fiscal pressure, but unequal health and capacities, and persisting social constraints limit such options. Societies must therefore balance economic sustainability with ethical responsibility, ensuring that pension reforms promote inclusion, autonomy, and well-being rather than treating the elderly solely as economic contributors. Which one of the following statements most accurately captures the dilemma mentioned by the author of the above passage? populations. societies.",
+      "options": {
+        "a": "Extending the working life of the elderly can resolve the fiscal stress on pension systems.",
+        "b": "Rising life expectancy has increased economic pressure on governments without improving social outcomes.",
+        "c": "Societies must reconcile the need for sustainable pension systems with ethical obligations towards ageing",
+        "d": "Public health interventions are the most critical means and efficient ways to address the challenges of ageing"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **The passage explicitly notes that encouraging older adults to remain productive may ease fiscal pressure, but it also highlights unequal health and capacities, indicating that this cannot be a complete solution.**\n\nOption b is incorrect.**Although the passage mentions fiscal stress and health challenges, it does not argue that social outcomes have uniformly failed; rather, it emphasises the ethical complexity of responding to these challenges.**\n\nOption c is correct. **The** passage centres on the dilemma of balancing economic sustainability of pension systems **with ethical responsibilities such as dignity, autonomy, and well-being of older adults. This option best captures **the core tension identified by the author**.**\n\nOption d is incorrect**. The passage does not suggest that public health interventions are the most critical means and most efficient ways to address the challenges of ageing popultion; instead,** it calls for an integrated approach **combining economic, health, and ethical considerations of the society. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q14",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage X Ageing populations pose a complex challenge that goes beyond economics to include health, dignity, and intergenerational equity. While rising life expectancy reflects medical progress, many older adults suffer from chronic illness, disability, and mental health issues, often due to lack of adequate social support. Pension systems, designed for smaller retired populations, are under increasing strain. Encouraging older adults to remain productive may ease fiscal pressure, but unequal health and capacities, and persisting social constraints limit such options. Societies must therefore balance economic sustainability with ethical responsibility, ensuring that pension reforms promote inclusion, autonomy, and well-being rather than treating the elderly solely as economic contributors.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Pension reforms that focus only on fiscal sustainability may undermine the dignity and well-being of the older population.",
+        "II. Not all older people are equally capable of extending their working lives due to health and social constraints.",
+        "III. Improving public health outcomes among the elderly will resolve most of the financial stress on pension systems.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage X Ageing populations pose a complex challenge that goes beyond economics to include health, dignity, and intergenerational equity. While rising life expectancy reflects medical progress, many older adults suffer from chronic illness, disability, and mental health issues, often due to lack of adequate social support. Pension systems, designed for smaller retired populations, are under increasing strain. Encouraging older adults to remain productive may ease fiscal pressure, but unequal health and capacities, and persisting social constraints limit such options. Societies must therefore balance economic sustainability with ethical responsibility, ensuring that pension reforms promote inclusion, autonomy, and well-being rather than treating the elderly solely as economic contributors. Based on the above passage, the following assumptions have been made: I. Pension reforms that focus only on fiscal sustainability may undermine the dignity and well-being of the older population. II. Not all older people are equally capable of extending their working lives due to health and social constraints. III. Improving public health outcomes among the elderly will resolve most of the financial stress on pension systems. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Assumption I is valid.**The passage stresses that pension reforms must balance economic sustainability with ethical responsibility, implying that reforms focused solely on fiscal concerns may compromise dignity and well-being of the older population.**Assumption II is valid.**The passage clearly notes that unequal health conditions and capacities and persisting social constraints among older populations limit their ability to remain productive, making this assumption logically consistent with the author’s argument.**Assumption III is not valid.** The passage does not say improving public health outcomes will resolve most financial stress. It mentions health challenges as part of the problem, but financial strain on pensions is due to more retirees relative to workers; health improvements might even increase longevity, possibly raising pension costs unless retirement age changes. Hence it cannot be claimed that better health outcomes will resolve most of the financial stresses on the pension system.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q15",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XI As the world races to embrace renewable energy, lithium has become an indispensable resource. Lithium-ion batteries are the backbone of this energy transformation, enabling everything from our smartphones to the electric cars that are rapidly becoming commonplace on roads. However, the demand for lithium has significant environmental consequences. Large amounts of water are used in the processing and refining of lithium. Additionally, the mining process often leads to the contamination of local water sources with toxic chemicals. Furthermore, the construction of open-pit mines causes significant land degradation and loss of biodiversity. Also, large piles of crushed rock and mining waste leach harmful chemicals into the surrounding environment, posing long-term risks to the environment. As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify.",
+        "Which of the following statements best reflects the central idea of the passage given above? practices to avoid the problem of environmental damage. from our smartphones to the electric cars."
+      ],
+      "questionText": "Passage XI As the world races to embrace renewable energy, lithium has become an indispensable resource. Lithium-ion batteries are the backbone of this energy transformation, enabling everything from our smartphones to the electric cars that are rapidly becoming commonplace on roads. However, the demand for lithium has significant environmental consequences. Large amounts of water are used in the processing and refining of lithium. Additionally, the mining process often leads to the contamination of local water sources with toxic chemicals. Furthermore, the construction of open-pit mines causes significant land degradation and loss of biodiversity. Also, large piles of crushed rock and mining waste leach harmful chemicals into the surrounding environment, posing long-term risks to the environment. As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify. Which of the following statements best reflects the central idea of the passage given above? practices to avoid the problem of environmental damage. from our smartphones to the electric cars.",
+      "options": {
+        "a": "The process of extraction and processing of lithium is causing extensive environmental damage.",
+        "b": "Lithium is essential for the growth and expansion of the renewable energy sector in an economy.",
+        "c": "Along with the expanding lithium’s role in renewable energy, its extraction and use must follow sustainable",
+        "d": "Lithium has a wide range of applications and is the backbone of the energy transformation enabling everything"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect.**The passage states “the demand for lithium has significant environmental consequences.” It highlights that extraction, processing and refining of lithium involves a high water footprint, contamination of water and loss of biodiversity. Therefore, this statement does not best reflect the central idea of the passage, as it only highlights the problem and it misses the conclusion that sustainable methods are needed.**It misses the link to **renewable energy’s future and the implied need for change. **\n\nOption b is incorrect.**The passage mentions “As the world races to embrace renewable energy, lithium has become an indispensable resource.” However,**this statement does not best reflect the central idea of the passage**as it does not highlight the environmental costs of the use of lithium.**\n\nOption c is correct.**The passage mentions “As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify.” However,** this **statement best reflects the central idea of the passage as it highlights lithium’s expanding role in renewable **energy, the problem of environmental damage and the need for sustainable methods. **\n\nOption d is incorrect.** The passage states “Lithium-ion batteries are the backbone of this energy transformation, enabling everything from our smartphones to the electric cars.” However, this statement does not best reflect the central idea of the passage as it only highlights the uses of lithium.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q16",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XI As the world races to embrace renewable energy, lithium has become an indispensable resource. Lithium-ion batteries are the backbone of this energy transformation, enabling everything from our smartphones to the electric cars that are rapidly becoming commonplace on roads. However, the demand for lithium has significant environmental consequences. Large amounts of water are used in the processing and refining of lithium. Additionally, the mining process often leads to the contamination of local water sources with toxic chemicals. Furthermore, the construction of open-pit mines causes significant land degradation and loss of biodiversity. Also, large piles of crushed rock and mining waste leach harmful chemicals into the surrounding environment, posing long-term risks to the environment. As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. The world must explore viable alternatives to lithium, given its significant environmental costs.",
+        "II. Current technologies for lithium extraction and use may prove unsustainable in the long term.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XI As the world races to embrace renewable energy, lithium has become an indispensable resource. Lithium-ion batteries are the backbone of this energy transformation, enabling everything from our smartphones to the electric cars that are rapidly becoming commonplace on roads. However, the demand for lithium has significant environmental consequences. Large amounts of water are used in the processing and refining of lithium. Additionally, the mining process often leads to the contamination of local water sources with toxic chemicals. Furthermore, the construction of open-pit mines causes significant land degradation and loss of biodiversity. Also, large piles of crushed rock and mining waste leach harmful chemicals into the surrounding environment, posing long-term risks to the environment. As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify. Based on the above passage, the following assumptions have been made: I. The world must explore viable alternatives to lithium, given its significant environmental costs. II. Current technologies for lithium extraction and use may prove unsustainable in the long term. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement I is invalid. **While the passage highlights the negative impacts of the use of lithium on the environment, it does not explicitly mention the need for exploring alternatives for lithium. Therefore, the assumption is invalid.**Statement II is valid. **The passage states “As the demand for lithium continues to grow, it is evident that without more sustainable extraction and processing methods, these environmental impacts will only intensify.” From here we can state that the assumption is valid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q17",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XII With the increasing role of digital technologies in shaping economic activity, governance, and national security, questions of cybersecurity and digital sovereignty have gained prominence. Much of the internet’s core infrastructure such as undersea cables, cloud servers, data centres, and digital platforms is owned or controlled by a small number of private corporations, many of which operate under the legal and regulatory frameworks of foreign countries. While this globally distributed structure has enabled efficiency, innovation, and cross-border connectivity, it also exposes states to vulnerabilities such as data breaches, cyber espionage, and strategic dependence on external legal regimes.",
+        "In response, governments seek greater control over data flows and digital infrastructure in the name of national security and public interest. However, excessive state control risks fragmenting the internet, limiting innovation, and constraining individual freedoms. The central challenge lies in balancing digital sovereignty with the benefits of an open and interconnected global internet.",
+        "Which one of the following statements most accurately captures the central idea of the above passage?"
+      ],
+      "questionText": "Passage XII With the increasing role of digital technologies in shaping economic activity, governance, and national security, questions of cybersecurity and digital sovereignty have gained prominence. Much of the internet’s core infrastructure such as undersea cables, cloud servers, data centres, and digital platforms is owned or controlled by a small number of private corporations, many of which operate under the legal and regulatory frameworks of foreign countries. While this globally distributed structure has enabled efficiency, innovation, and cross-border connectivity, it also exposes states to vulnerabilities such as data breaches, cyber espionage, and strategic dependence on external legal regimes. In response, governments seek greater control over data flows and digital infrastructure in the name of national security and public interest. However, excessive state control risks fragmenting the internet, limiting innovation, and constraining individual freedoms. The central challenge lies in balancing digital sovereignty with the benefits of an open and interconnected global internet. Which one of the following statements most accurately captures the central idea of the above passage?",
+      "options": {
+        "a": "Governments must prioritise national security over innovation in managing digital infrastructure.",
+        "b": "Private corporations should be prevented from controlling critical internet infrastructure.",
+        "c": "Asserting digital sovereignty may undermine the openness and efficiency of the global internet.",
+        "d": "Cybersecurity risks can be eliminated only through complete state ownership of digital networks."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **The passage does not argue that national security should always override innovation; rather, it highlights the need for a balance between the two.**\n\nOption b is incorrect.**While the passage notes risks associated with private control, it does not advocate outright prevention of private ownership of digital infrastructure.**\n\nOption c is correct.**The passage clearly identifies a tension between greater state control for digital sovereignty and security and the advantages of an open, globally interconnected internet, including innovation and efficiency.**\n\nOption d is incorrect.** The passage explicitly warns against excessive state control, noting that it could fragment the internet and restrict freedoms.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q18",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XII With the increasing role of digital technologies in shaping economic activity, governance, and national security, questions of cybersecurity and digital sovereignty have gained prominence. Much of the internet’s core infrastructure such as undersea cables, cloud servers, data centres, and digital platforms is owned or controlled by a small number of private corporations, many of which operate under the legal and regulatory frameworks of foreign countries. While this globally distributed structure has enabled efficiency, innovation, and cross-border connectivity, it also exposes states to vulnerabilities such as data breaches, cyber espionage, and strategic dependence on external legal regimes.",
+        "In response, governments seek greater control over data flows and digital infrastructure in the name of national security and public interest. However, excessive state control risks fragmenting the internet, limiting innovation, and constraining individual freedoms. The central challenge lies in balancing digital sovereignty with the benefits of an open and interconnected global internet.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Foreign Legal control over digital infrastructure can create strategic dependencies for states.",
+        "II. Strong cybersecurity can be achieved only by restricting cross-border data flows entirely.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XII With the increasing role of digital technologies in shaping economic activity, governance, and national security, questions of cybersecurity and digital sovereignty have gained prominence. Much of the internet’s core infrastructure such as undersea cables, cloud servers, data centres, and digital platforms is owned or controlled by a small number of private corporations, many of which operate under the legal and regulatory frameworks of foreign countries. While this globally distributed structure has enabled efficiency, innovation, and cross-border connectivity, it also exposes states to vulnerabilities such as data breaches, cyber espionage, and strategic dependence on external legal regimes. In response, governments seek greater control over data flows and digital infrastructure in the name of national security and public interest. However, excessive state control risks fragmenting the internet, limiting innovation, and constraining individual freedoms. The central challenge lies in balancing digital sovereignty with the benefits of an open and interconnected global internet. Based on the above passage, the following assumptions have been made: I. Foreign Legal control over digital infrastructure can create strategic dependencies for states. II. Strong cybersecurity can be achieved only by restricting cross-border data flows entirely. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Assumption I is valid. **The passage explicitly links foreign legal and regulatory control over digital infrastructure with strategic dependence and security vulnerabilities for states.**Assumption II is not valid. **The passage does not assume that complete restriction of cross-border data flows is necessary for cybersecurity; in fact, it cautions against excessive control that could fragment the internet.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q19",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XIII Populism becomes a threat to democracy when leaders claim to represent the “true will of the people” while undermining institutional checks, independent media, and minority rights. By simplifying complex policy issues into emotionally charged narratives, populist politics often weakens deliberation and delegitimises dissent. Over time, this concentration of authority erodes accountability, replacing democratic pluralism with majoritarian dominance that functions within electoral processes but hollow outs democratic norms.",
+        "When does populism become a threat to democracy, according to the passage?"
+      ],
+      "questionText": "Passage XIII Populism becomes a threat to democracy when leaders claim to represent the “true will of the people” while undermining institutional checks, independent media, and minority rights. By simplifying complex policy issues into emotionally charged narratives, populist politics often weakens deliberation and delegitimises dissent. Over time, this concentration of authority erodes accountability, replacing democratic pluralism with majoritarian dominance that functions within electoral processes but hollow outs democratic norms. When does populism become a threat to democracy, according to the passage?",
+      "options": {
+        "a": "When it prioritises popular welfare schemes over fiscal discipline.",
+        "b": "When it mobilises mass support through electoral participation.",
+        "c": "When it undermines institutional checks and delegitimises dissent in the name of popular will.",
+        "d": "When it appeals emotionally to citizens during election campaigns."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect**. The passage does not criticise welfare policies or fiscal choices; it focuses on institutional and normative erosion.**\n\nOption b is incorrect. **Electoral participation is a democratic feature and is not portrayed as a threat in the passage.**\n\nOption c is correct.**The**passage explicitly states that populism becomes dangerous when it claims exclusive **representation of the people while undermining institutional checks, independent media, minority rights, and **dissent, thereby hollowing out democratic norms. **\n\nOption d is incorrect.** In the passage emotional appeals are mentioned, but it is not related to appealing emotionally to citizens during election campaigns. It is related to “simplifying complex policy issues into emotionally charged narratives,” which is aimed at delegitimising dissent.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q20",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XIV In today’s digital world, the rapid spread of disinformation and misinformation poses a significant and growing threat to the very foundations of democracy. False narratives corrode public trust, as manipulated information can distort perception, spread confusion, and weaken confidence in institutions. This erosion of trust fuels political polarization, social fragmentation, and deepens societal divisions, making constructive dialogue increasingly difficult. Addressing this challenge requires robust regulatory frameworks to limit the circulation of false content and hold actors accountable. Equally important is greater responsibility from social media platforms, which can actively identify, flag, and counter misleading information. Civil society organizations also play a vital role in promoting media literacy, critical thinking, and informed civic engagement. Together, these combined efforts from all can help societies resist manipulation, foster a more informed citizenry, and safeguard democratic integrity.",
+        "Which of the following statements best reflects the most logical and rational inference that can be made from the passage? platforms, and civil society organizations."
+      ],
+      "questionText": "Passage XIV In today’s digital world, the rapid spread of disinformation and misinformation poses a significant and growing threat to the very foundations of democracy. False narratives corrode public trust, as manipulated information can distort perception, spread confusion, and weaken confidence in institutions. This erosion of trust fuels political polarization, social fragmentation, and deepens societal divisions, making constructive dialogue increasingly difficult. Addressing this challenge requires robust regulatory frameworks to limit the circulation of false content and hold actors accountable. Equally important is greater responsibility from social media platforms, which can actively identify, flag, and counter misleading information. Civil society organizations also play a vital role in promoting media literacy, critical thinking, and informed civic engagement. Together, these combined efforts from all can help societies resist manipulation, foster a more informed citizenry, and safeguard democratic integrity. Which of the following statements best reflects the most logical and rational inference that can be made from the passage? platforms, and civil society organizations.",
+      "options": {
+        "a": "The internet and social media are often exploited to distort public perception and disseminate misinformation.",
+        "b": "Constructive dialogue can occur only when it is grounded in social trust.",
+        "c": "Failure to ensure accountability contributes to the unchecked spread of false and misleading information.",
+        "d": "Tackling disinformation in today’s digital word requires a coordinated effort from governments, social media"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption a is incorrect.**The passage states “In today’s digital world, the rapid spread of disinformation and misinformation poses a significant and growing threat to the very foundations of democracy.” However, statement a does not best reflect the most logical and rational inference that can be made from the passage as it does not provide a solution to the problem.**\n\nOption b is incorrect.**While the passage states “erosion of trust fuels political polarization, social fragmentation, and deepens societal divisions, making constructive dialogue increasingly difficult”, statement a does not best reflect the most logical and rational inference that can be made from the passage as it does not highlight the central idea of disinformation.**\n\nOption c is incorrect.**While the passage states “Addressing this challenge requires robust regulatory frameworks to limit the circulation of false content and hold actors accountable”, statement d does not best reflect the most logical and rational inference that can be made from the passage as it is narrower inference as compared to d.**\n\nOption d is correct.** The passage mentions “. Addressing this challenge requires robust regulatory frameworks to limit the circulation of false content and hold actors accountable. Equally important is greater responsibility from social media platforms, which can actively identify, flag, and counter misleading information. Civil society organizations also play a vital role in promoting media literacy, critical thinking, and informed civic engagement.” Therefore, statement d best reflects the most logical and rational inference that can be made from the passage as it provides a comprehensive solution to tackle the problem of misinformation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q21",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XV As inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes.",
+        "Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.",
+        "Which of the following statements best reflect the most logical and rational inference/inferences that can be made from the passage?",
+        "1. Central banks cannot bring down inflation without budgetary backing.",
+        "2. The effects of monetary policy depend on the fiscal policies pursued by the government.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage XV As inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits. Which of the following statements best reflect the most logical and rational inference/inferences that can be made from the passage? 1. Central banks cannot bring down inflation without budgetary backing. 2. The effects of monetary policy depend on the fiscal policies pursued by the government. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation: Option c is the correct answer **\n\nStatement 1 is correct**because the**passage suggests that central banks alone cannot effectively bring down **inflation without support from fiscal policies.**While central banks can increase interest rates to curb inflation, the effectiveness of this measure depends on governments implementing fiscal discipline by cutting spending or increasing taxes to stabilize debts. Without such fiscal backing, monetary policy might not achieve its intended inflation-reducing goals.**\n\nStatement 2 is correct**as well because the passage**emphasizes that the impact of monetary policy on inflation is **intertwined with the fiscal policies pursued by governments.** Higher interest rates are intended to promote fiscal austerity by encouraging responsible debt management. However, if governments fail to adjust fiscal policies accordingly (e.g., by continuing to borrow excessively), the intended disinflationary effects of monetary policy could be undermined, potentially leading to higher inflation instead.\nHence, option c is the correct answer, as both statements 1 and 2 accurately reflect the logical inferences drawn from the passage regarding the relationship between monetary policy, fiscal policy, and inflation control.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q22",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XV As inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes.",
+        "Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Fiscal policies of governments are solely responsible for higher prices.",
+        "2. Higher prices do not affect the long-term government bonds.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XV As inflation rises, even governments previously committed to budget discipline are spending freely to help households. Higher interest rates announced by central banks are supposed to help produce modest fiscal austerity, because to maintain stable debts while paying more to borrow, governments must cut spending or raise taxes. Without the fiscal backup, monetary policy eventually loses traction. Higher interest rates become inflationary, not disinflationary, because they simply lead governments to borrow more to pay rising debt-service costs. The risk of monetary unmooring is greater when public debt rises, because interest rates become more important to budget deficits. Based on the above passage, the following assumptions have been made: 1. Fiscal policies of governments are solely responsible for higher prices. 2. Higher prices do not affect the long-term government bonds. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation: Option d is the correct answer **Assumption 1 is invalid**because the**passage does not attribute higher prices (inflation) solely to fiscal policies of **governments**. It acknowledges that fiscal policies, along with monetary policies like higher interest rates, play a role in managing inflationary pressures. Therefore, assuming fiscal policies alone are responsible is an oversimplification of the factors influencing inflation.**Assumption 2 is invalid**because the passage suggests**that higher prices (inflation) do impact the management of **long-term government bonds.** It mentions that rising public debt increases the importance of interest rates in managing budget deficits, indicating a direct link between inflation and the costs associated with government bonds. Hence, option d, Neither 1 nor 2, is the correct answer as both assumptions do not accurately reflect the insights provided in the passage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q23",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XVI The shift to clean energy promises security, innovation, and sustainable growth, but carries significant costs that are not borne equally. Existing inequalities mean some individuals and businesses are better positioned to absorb these costs and access new opportunities, while others risk being left behind. This imbalance could deepen societal divides, creating clear winners and losers. Therefore, energy equity—ensuring fair, inclusive, and affordable access to modern clean energy for all—becomes essential to aligning the green transition with social justice and Sustainable",
+        "Development Goal 7.",
+        "Based on the passage, the following assumptions has been made:",
+        "I. The benefits of the green transition, such as innovation and sustainable growth, will automatically reach all sections of society.",
+        "II. Socioeconomic inequality influences how different groups experience the shift toward clean energy.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XVI The shift to clean energy promises security, innovation, and sustainable growth, but carries significant costs that are not borne equally. Existing inequalities mean some individuals and businesses are better positioned to absorb these costs and access new opportunities, while others risk being left behind. This imbalance could deepen societal divides, creating clear winners and losers. Therefore, energy equity—ensuring fair, inclusive, and affordable access to modern clean energy for all—becomes essential to aligning the green transition with social justice and Sustainable Development Goal 7. Based on the passage, the following assumptions has been made: I. The benefits of the green transition, such as innovation and sustainable growth, will automatically reach all sections of society. II. Socioeconomic inequality influences how different groups experience the shift toward clean energy. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement 1 is invalid**. The passage argues the opposite, stating that \"not everyone is equally equipped... to access the emerging benefits\" and that without equitable management, distinct losers could emerge. Therefore, the passage does not assume benefits will be automatically distributed.**Statement 2 is valid.** The entire argument is built on the foundational assumption that \"existing inequalities in income, wealth, and opportunity mean that not everyone is equally equipped to bear these costs or access the emerging benefits.\" This is a direct assertion that socioeconomic inequality shapes the experience of the energy transition",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q24",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XVII The growing discourse on de-dollarization reflects deeper shifts in the global financial order. Several countries are exploring trade settlements in local currencies and diversifying foreign exchange reserves to reduce dependence on the US dollar. While this trend signals a move toward a more multipolar financial system, the dollar continues to dominate due to its liquidity, institutional trust, and role in global markets. De-dollarization therefore represents not an abrupt replacement, but a gradual rebalancing shaped by geopolitical considerations, financial stability concerns, and evolving economic alliances.",
+        "Which of the following statements represents the most logical and rational inference that can be drawn from the passage? financial capacities. liquidity. risks."
+      ],
+      "questionText": "Passage XVII The growing discourse on de-dollarization reflects deeper shifts in the global financial order. Several countries are exploring trade settlements in local currencies and diversifying foreign exchange reserves to reduce dependence on the US dollar. While this trend signals a move toward a more multipolar financial system, the dollar continues to dominate due to its liquidity, institutional trust, and role in global markets. De-dollarization therefore represents not an abrupt replacement, but a gradual rebalancing shaped by geopolitical considerations, financial stability concerns, and evolving economic alliances. Which of the following statements represents the most logical and rational inference that can be drawn from the passage? financial capacities. liquidity. risks.",
+      "options": {
+        "a": "De-dollarization is likely to progress unevenly across countries depending on their geopolitical alignments and",
+        "b": "The dominance of the US dollar will persist only until alternative payment systems achieve comparable global",
+        "c": "A multipolar financial order will reduce the stabilising role traditionally played by the US dollar.",
+        "d": "Diversification of reserves signals a deliberate attempt by states to insulate themselves from any dollar-centric"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct. **The**passage highlights that de-dollarization is gradual, shaped by geopolitical considerations, **financial stability concerns, and evolving alliances, implying that its pace and extent will vary across countries. **\n\nOption b is incorrect. **The passage does not suggest a conditional or imminent decline of dollar dominance based on liquidity parity; instead, it emphasises continued dominance alongside gradual rebalancing.**\n\nOption c is incorrect. **The passage does not argue that a multipolar order weakens financial stability; it remains neutral on systemic stability outcomes.**\n\nOption d is incorrect.** The passage indicates risk reduction and diversification, not complete insulation from dollar-centric systems",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q25",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XVII The growing discourse on de-dollarization reflects deeper shifts in the global financial order. Several countries are exploring trade settlements in local currencies and diversifying foreign exchange reserves to reduce dependence on the US dollar. While this trend signals a move toward a more multipolar financial system, the dollar continues to dominate due to its liquidity, institutional trust, and role in global markets. De-dollarization therefore represents not an abrupt replacement, but a gradual rebalancing shaped by geopolitical considerations, financial stability concerns, and evolving economic alliances.",
+        "The Government of India, is considering expanding rupee-based trade settlements with a few partner countries to reduce exposure to the US dollar. While this could enhance financial autonomy, concerns have been raised about liquidity and international acceptance of the rupee.",
+        "As the finance secretary to the Government of India, which of the following would be your suggestion to the",
+        "Government, considering the perspectives discussed in the passage?"
+      ],
+      "questionText": "Passage XVII The growing discourse on de-dollarization reflects deeper shifts in the global financial order. Several countries are exploring trade settlements in local currencies and diversifying foreign exchange reserves to reduce dependence on the US dollar. While this trend signals a move toward a more multipolar financial system, the dollar continues to dominate due to its liquidity, institutional trust, and role in global markets. De-dollarization therefore represents not an abrupt replacement, but a gradual rebalancing shaped by geopolitical considerations, financial stability concerns, and evolving economic alliances. The Government of India, is considering expanding rupee-based trade settlements with a few partner countries to reduce exposure to the US dollar. While this could enhance financial autonomy, concerns have been raised about liquidity and international acceptance of the rupee. As the finance secretary to the Government of India, which of the following would be your suggestion to the Government, considering the perspectives discussed in the passage?",
+      "options": {
+        "a": "Replace dollar-based trade settlements entirely with rupee-based mechanisms.",
+        "b": "Expand rupee-based settlements selectively while continuing dollar-based trade for most transactions.",
+        "c": "Avoid rupee-based settlements until the dollar loses its global dominance.",
+        "d": "Peg the rupee to another major currency to reduce dollar dependenc"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect.**The passage cautions against abrupt replacement of the dollar.**\n\nOption b is correct. **A selective and gradual expansion reflects the passage’s emphasis on incremental rebalancing while managing financial risks.**\n\nOption c is incorrect.**The passage does not support postponing diversification indefinitely.**\n\nOption d is incorrect. **Pegging the rupee would create a new dependency and does not align with the passage’s balanced approach",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q26",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XVIII Contemporary debates on sustainable development are increasingly shaped by the contrasting ideas of degrowth and green growth. Degrowth thinkers argue that perpetual economic expansion strains ecological limits and advocate reduced material consumption, particularly in high-income economies. Green growth advocates, however, maintain that innovation, efficiency, and clean technologies can allow economies to grow while lowering environmental impact.",
+        "Although both perspectives aim to address environmental degradation, they diverge in their assumptions about the desirability of economic growth and the extent to which technology can reconcile growth with sustainability.",
+        "Which of the following statements best captures the central idea of the passage? mainly in their views on economic growth and technological solutions. innovation. progress or transforming it through efficiency."
+      ],
+      "questionText": "Passage XVIII Contemporary debates on sustainable development are increasingly shaped by the contrasting ideas of degrowth and green growth. Degrowth thinkers argue that perpetual economic expansion strains ecological limits and advocate reduced material consumption, particularly in high-income economies. Green growth advocates, however, maintain that innovation, efficiency, and clean technologies can allow economies to grow while lowering environmental impact. Although both perspectives aim to address environmental degradation, they diverge in their assumptions about the desirability of economic growth and the extent to which technology can reconcile growth with sustainability. Which of the following statements best captures the central idea of the passage? mainly in their views on economic growth and technological solutions. innovation. progress or transforming it through efficiency.",
+      "options": {
+        "a": "Degrowth and green growth represent fundamentally opposing responses to environmental degradation, differing",
+        "b": "Sustainable development can only be achieved either by limiting consumption or by accelerating technological",
+        "c": "The debate between degrowth and green growth centres on whether sustainability requires redefining economic",
+        "d": "Technological progress is the primary factor distinguishing successful and unsuccessful sustainability strategies."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct.**The**passage focuses on the core contrast between degrowth and green growth**—specifically their different assumptions about economic growth and the role of technology in achieving sustainability—without endorsing either approach.**\n\nOption b is incorrect.**This oversimplifies the debate by presenting the approaches as interchangeable choices rather than as distinct conceptual frameworks with deeper philosophical differences.**\n\nOption c is incorrect.**While it captures part of the contrasting viewpoints of degrowth and green growth, it narrows the debate to economic progress alone and does not fully reflect the passage’s emphasis on broader philosophical differences regarding growth, limits, and technology.**\n\nOption d is incorrect.** While technology is central to the green growth argument, the passage does not portray it as the sole distinguishing factor across sustainability strategies. It misses the Economic growth aspect of debate.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q27",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XIX Migration policy in destination countries is often shaped by the belief that stricter border controls can effectively regulate cross-border movement. Governments tighten entry rules to address security risks, manage fiscal pressures, and respond to domestic political demands. However, experience suggests that migration flows are influenced not only by enforcement, but also by economic incentives, legal pathways, and cooperation with origin countries. This raises an important question: whether policies centred mainly on restriction can manage migration effectively over time, or whether broader policy instruments are necessary.",
+        "Which of the following statements represents the most logical and rational inference that can be drawn from the passage? due to excessive interdependence and humanitarian obligations of the countries. countries as well as cooperation with origin countries."
+      ],
+      "questionText": "Passage XIX Migration policy in destination countries is often shaped by the belief that stricter border controls can effectively regulate cross-border movement. Governments tighten entry rules to address security risks, manage fiscal pressures, and respond to domestic political demands. However, experience suggests that migration flows are influenced not only by enforcement, but also by economic incentives, legal pathways, and cooperation with origin countries. This raises an important question: whether policies centred mainly on restriction can manage migration effectively over time, or whether broader policy instruments are necessary. Which of the following statements represents the most logical and rational inference that can be drawn from the passage? due to excessive interdependence and humanitarian obligations of the countries. countries as well as cooperation with origin countries.",
+      "options": {
+        "a": "Border control measures of destination countries are ineffective in regulating migration flows in present world",
+        "b": "Migration governance depends on multiple policy tools taking into account the local needs of the destination",
+        "c": "Economic incentives are the primary drivers of international migration from source to destination countries.",
+        "d": "Domestic political pressures distorts rational migration policymaking in any country."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect. **The passage does not claim that border controls are ineffective; it questions whether they are sufficient on their own. Also there is no specific discussion of humanitarian obligations of the countries in the passage.**\n\nOption b is correct.**The**passage implies that effective migration governance requires a combination of **enforcement, incentives, legal pathways, and cooperation, making this the most logical inference. **\n\nOption c is incorrect.**While economic incentives are mentioned as one of the factors influencing migration, the passage does not identify them as the primary driver.**\n\nOption d is incorrect.** Political pressures are described as contextual factors, not as distortions of rational policy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q28",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XIX Migration policy in destination countries is often shaped by the belief that stricter border controls can effectively regulate cross-border movement. Governments tighten entry rules to address security risks, manage fiscal pressures, and respond to domestic political demands. However, experience suggests that migration flows are influenced not only by enforcement, but also by economic incentives, legal pathways, and cooperation with origin countries. This raises an important question: whether policies centred mainly on restriction can manage migration effectively over time, or whether broader policy instruments are necessary.",
+        "Which of the following, if true, would most weaken the argument presented in the passage? without expanding legal entry channels. regions."
+      ],
+      "questionText": "Passage XIX Migration policy in destination countries is often shaped by the belief that stricter border controls can effectively regulate cross-border movement. Governments tighten entry rules to address security risks, manage fiscal pressures, and respond to domestic political demands. However, experience suggests that migration flows are influenced not only by enforcement, but also by economic incentives, legal pathways, and cooperation with origin countries. This raises an important question: whether policies centred mainly on restriction can manage migration effectively over time, or whether broader policy instruments are necessary. Which of the following, if true, would most weaken the argument presented in the passage? without expanding legal entry channels. regions.",
+      "options": {
+        "a": "Countries that significantly increased border enforcement experienced a sustained decline in irregular migration",
+        "b": "Migration flows tend to increase during periods of economic growth in destination countries.",
+        "c": "Cooperation agreements between origin and destination countries have reduced irregular migration in some",
+        "d": "Legal migration pathways reduce incentives for irregular border crossings."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Statement a is correct. **If stricter border enforcement alone leads to a sustained reduction in irregular migration, it directly**weakens the passage’s suggestion that restriction-centred policies may be insufficient. **Statement b is incorrect. **This supports the idea that factors beyond enforcement influence migration.**Statement c is incorrect.**This reinforces the passage’s claim that cooperation with origin countries is one of the measure to influence (reduce/increase) migration.**Statement d is incorrect. **This also supports the argument that non-enforcement tools affect migration outcomes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q29",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XX Quiet quitting happens when employees do their jobs to the best of their contractual ability, but nothing beyond that.",
+        "While quiet quitting is often a personal coping mechanism, it often has ripple effects on organizations. Productivity may shift, team dynamics can change, and morale can be affected when employees withdraw from extra responsibilities creating a conflict between employee’s overall wellbeing and organizational productivity. However, it isn’t inherently a negative trend and can inspire a more conscious approach to workplace culture. Leaders can respond by fostering supportive environments, offering flexibility, and acknowledging employees’ contributions.",
+        "Employees, too, benefit from reflection. Setting boundaries isn’t about doing less; it’s about doing better with the energy and focus available. Aligning personal values with professional expectations can transform quiet quitting from a silent protest into a strategic approach to sustainable work. Therefore, quiet quitting is steering a larger cultural shift, a re-evaluation of what it means to work, succeed, and live well.",
+        "Which one of the following statements most accurately captures the dilemma about quiet quitting mentioned by the author of the above passage? commitments at the workplace. culture."
+      ],
+      "questionText": "Passage XX Quiet quitting happens when employees do their jobs to the best of their contractual ability, but nothing beyond that. While quiet quitting is often a personal coping mechanism, it often has ripple effects on organizations. Productivity may shift, team dynamics can change, and morale can be affected when employees withdraw from extra responsibilities creating a conflict between employee’s overall wellbeing and organizational productivity. However, it isn’t inherently a negative trend and can inspire a more conscious approach to workplace culture. Leaders can respond by fostering supportive environments, offering flexibility, and acknowledging employees’ contributions. Employees, too, benefit from reflection. Setting boundaries isn’t about doing less; it’s about doing better with the energy and focus available. Aligning personal values with professional expectations can transform quiet quitting from a silent protest into a strategic approach to sustainable work. Therefore, quiet quitting is steering a larger cultural shift, a re-evaluation of what it means to work, succeed, and live well. Which one of the following statements most accurately captures the dilemma about quiet quitting mentioned by the author of the above passage? commitments at the workplace. culture.",
+      "options": {
+        "a": "Quiet quitting describes the dilemma between personal commitments towards family and professional",
+        "b": "Quiet quitting often creates a conflict between employees’ overall wellbeing and organizational productivity.",
+        "c": "Quiet quitting reflects the tension between employee disengagement and exploitative demand at the workplace.",
+        "d": "Quiet quitting highlights the dilemma between profit-driven capitalism and the pursuit of a sustainable work"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect.**While the passage highlights the Quit quitting is often a personal coping mechanism, but it is not restricted to family commitments and the passage also does not any conflict with professional committments as the passage discusses that “Quiet quitting happens when employees do their jobs to the best of their contractual ability, but nothing beyond that.” This means that the employees complete their professional commitment, but nothing beyond that.**\n\nOption b is correct.**The passage states “While quiet quitting is often a personal coping mechanism, it often has ripple effects on organizations. Productivity may shift, team dynamics can change, and morale can be affected when employees withdraw from extra responsibilities creating a conflict between employee’s overall wellbeing and organizational productivity.” Hence**this statement most accurately captures the dilemma as it describes the **dilemma in quiet quitting in the most comprehensive manner. **\n\nOption c is incorrect.**While disengagement is mentioned as a part of quiet quitting, the passage doesn’t talk about exploitative demand at the workplace. Therefore, this statement is incorrect.**\n\nOption d is incorrect. **While the passage talks about the development of sustainable work culture through quiet quitting, capitalist motives are not expressly highlighted. Therefore, this statement is incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q30",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XX Quiet quitting happens when employees do their jobs to the best of their contractual ability, but nothing beyond that.",
+        "While quiet quitting is often a personal coping mechanism, it often has ripple effects on organizations. Productivity may shift, team dynamics can change, and morale can be affected when employees withdraw from extra responsibilities creating a conflict between employee’s overall wellbeing and organizational productivity. However, it isn’t inherently a negative trend and can inspire a more conscious approach to workplace culture. Leaders can respond by fostering supportive environments, offering flexibility, and acknowledging employees’ contributions.",
+        "Employees, too, benefit from reflection. Setting boundaries isn’t about doing less; it’s about doing better with the energy and focus available. Aligning personal values with professional expectations can transform quiet quitting from a silent protest into a strategic approach to sustainable work. Therefore, quiet quitting is steering a larger cultural shift, a re-evaluation of what it means to work, succeed, and live well.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Evolution of culture of Quiet quitting is often suggested to be not good for career progression of the employees.",
+        "II. Quiet quitting arose as a reaction to the profit-centric nature of modern capitalism.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XX Quiet quitting happens when employees do their jobs to the best of their contractual ability, but nothing beyond that. While quiet quitting is often a personal coping mechanism, it often has ripple effects on organizations. Productivity may shift, team dynamics can change, and morale can be affected when employees withdraw from extra responsibilities creating a conflict between employee’s overall wellbeing and organizational productivity. However, it isn’t inherently a negative trend and can inspire a more conscious approach to workplace culture. Leaders can respond by fostering supportive environments, offering flexibility, and acknowledging employees’ contributions. Employees, too, benefit from reflection. Setting boundaries isn’t about doing less; it’s about doing better with the energy and focus available. Aligning personal values with professional expectations can transform quiet quitting from a silent protest into a strategic approach to sustainable work. Therefore, quiet quitting is steering a larger cultural shift, a re-evaluation of what it means to work, succeed, and live well. Based on the above passage, the following assumptions have been made: I. Evolution of culture of Quiet quitting is often suggested to be not good for career progression of the employees. II. Quiet quitting arose as a reaction to the profit-centric nature of modern capitalism. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Statement 1 is invalid. **The passage states “quiet quitting is steering a larger cultural shift, a re-evaluation of what it means to work, succeed, and live well. This idea in the passage makes the assumption incorrect.**Statement 2 is invalid. **The passage does not explicitly mention quite quitting as a response to profit centric nature of capitalism. Therefore, the assumption is incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q31",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXI In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Collection, processing and segregation of municipal waste should be with government agencies.",
+        "2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises.",
+        "Which of the assumptions given above is/are correct?"
+      ],
+      "questionText": "Passage XXI In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this. Based on the above passage, the following assumptions have been made: 1. Collection, processing and segregation of municipal waste should be with government agencies. 2. Resource recovery and recycling require technological inputs that can be best handled by private sector enterprises. Which of the assumptions given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Assumption 1 is incorrect\n- **The passage does not make any assumptions about who should be responsible for collection, processing, and segregation of municipal waste. It simply states that more than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. This suggests that the current system is not working very well, and that some changes need to be made. However, the passage does not say who should make these changes, or how they should be made.**Assumption 2 is incorrect\n- ** The passage also does not make any assumptions about the role of the private sector in waste management. It simply states that resource recovery and recycling require technological inputs, which might be best handled by the private sector if we think out of context. Since, the passage does not say anything about involvement of the private sector, we assume this statement as incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q32",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXI In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this.",
+        "Which one of the following statements best reflects the crux of the passage? efficiently/effectively."
+      ],
+      "questionText": "Passage XXI In India, the segregation of municipal waste at source is rare. Recycling is mostly with the informal sector. More than three-fourths of the municipal budget goes into collection and transportation, which leaves very little for processing/resource recovery and disposal. Where does waste-to-energy fit into all this? Ideally it fits in the chain after segregation (between wet waste and the rest), collection, recycling, and before getting to the landfill. Which technology is most appropriate in converting waste to energy depends on what is in the waste (that is biodegradable versus non-biodegradable component) and its calorific value. The biodegradable component of India's municipal solid waste is a little over 50 per cent, and biomethanation offers a major solution for processing this. Which one of the following statements best reflects the crux of the passage? efficiently/effectively.",
+      "options": {
+        "a": "Generation of energy from municipal solid waste is inexpensive.",
+        "b": "Biomethanation is the most ideal way of generating energy from municipal solid waste.",
+        "c": "Segregation of municipal solid waste is the first step in ensuring the success of waste-to-energy plants.",
+        "d": "The biodegradable component of India's municipal solid waste is not adequate to provide energy from Waste"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**\n\nOption a is incorrect\n- **The passage does not provide any information about the cost or expense associated with the generation of energy from municipal solid waste. It focuses more on the allocation of the municipal budget, stating that more than three-fourths of it goes into collection and transportation, leaving very little for processing/resource recovery and disposal. Therefore, there is insufficient information to support the claim that energy generation from municipal solid waste is inexpensive.**\n\nOption b is incorrect\n- **While the passage mentions that biomethanation offers a major solution for processing the biodegradable component of India's municipal solid waste, it does not explicitly state that it is the \"most ideal\" way of generating energy from municipal solid waste. The passage suggests that the choice of technology for waste-to-energy conversion depends on the composition of the waste (biodegradable versus non-biodegradable) and its calorific value. It implies that biomethanation is a viable solution for processing the biodegradable component, but it does not make a comparative assessment or declare it as the best option.**\n\nOption c is correct\n- **The passage states that the segregation of municipal waste at the source is rare in India. It also mentions that waste-to-energy fits into the waste management chain ideally after segregation (between wet waste and the rest), collection, and recycling, but before reaching the landfill. This suggests that segregation of municipal solid waste is a crucial step in the process of implementing waste-to-energy plants. By segregating the waste at the source, it becomes easier to separate the different components and identify the biodegradable portion. The passage further highlights that the biodegradable component of India's municipal solid waste is a little over 50 percent. Biomethanation is presented as a major solution for processing this biodegradable component, which indicates that separating it through segregation is an essential prerequisite for effective waste-to-energy conversion.**\n\nOption d is incorrect\n- ** The passage states that the biodegradable component of India's municipal solid waste is a little over 50 percent. It also highlights that biomethanation offers a major solution for processing this component. Nowhere does it suggest that the biodegradable component is inadequate to provide energy effectively and efficiently.\nIn fact, the passage implies that biomethanation is a significant solution for processing the biodegradable portion of the waste.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q33",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXII Advances in space technology have renewed interest in the commercial exploitation of outer space, particularly the mining of asteroids and celestial bodies. While existing international agreements prohibit national sovereignty over outer space, they remain ambiguous on the ownership of extracted resources. While the proponents of the commercial exploitation of outer space argue that commercial ownership rights over the extracted resources are necessary to incentivise private investment and innovation, the critics contend that unregulated commercialization could lead to monopolisation, conflict, and unequal access for all. This raises the fundamental question of how to reconcile commercial activity in space with the principle that outer space is a shared domain of humanity.",
+        "Which of the following statements represents the most logical and rational inference that can be drawn from the passage? resource extraction from outer space."
+      ],
+      "questionText": "Passage XXII Advances in space technology have renewed interest in the commercial exploitation of outer space, particularly the mining of asteroids and celestial bodies. While existing international agreements prohibit national sovereignty over outer space, they remain ambiguous on the ownership of extracted resources. While the proponents of the commercial exploitation of outer space argue that commercial ownership rights over the extracted resources are necessary to incentivise private investment and innovation, the critics contend that unregulated commercialization could lead to monopolisation, conflict, and unequal access for all. This raises the fundamental question of how to reconcile commercial activity in space with the principle that outer space is a shared domain of humanity. Which of the following statements represents the most logical and rational inference that can be drawn from the passage? resource extraction from outer space.",
+      "options": {
+        "a": "Commercial space mining is an inevitable reality in the near future, given technological progress.",
+        "b": "International space law lacks sufficient clarity on how to regulate the emerging commercial interest in the",
+        "c": "Private investment in commercial exploitation of outer space will undermine international cooperation.",
+        "d": "National governments should prohibit private participation in space mining."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect. **The passage discusses renewed interest in commercial space exploration, not inevitability in near future.**\n\nOption b is correct.**The**passage explicitly notes ambiguity in existing agreements regarding resource ownership, **implying that current international space law is insufficiently clear to govern new commercial activities. **\n\nOption c is incorrect. **While risks are mentioned, the passage does not conclude that private investment will necessarily undermine cooperation.**\n\nOption d is incorrect. **The passage does not advocate prohibition; it presents competing viewpoints.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q34",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXII Advances in space technology have renewed interest in the commercial exploitation of outer space, particularly the mining of asteroids and celestial bodies. While existing international agreements prohibit national sovereignty over outer space, they remain ambiguous on the ownership of extracted resources. While the proponents of the commercial exploitation of outer space argue that commercial ownership rights over the extracted resources are necessary to incentivise private investment and innovation, the critics contend that unregulated commercialization could lead to monopolisation, conflict, and unequal access for all. This raises the fundamental question of how to reconcile commercial activity in space with the principle that outer space is a shared domain of humanity.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Clear and commonly accepted rules are necessary to prevent conflict and inequitable outcomes in the commercial exploitation of outer space.",
+        "II. Allowing commercial extraction of space resources is incompatible with the idea of outer space as a shared domain of humanity.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XXII Advances in space technology have renewed interest in the commercial exploitation of outer space, particularly the mining of asteroids and celestial bodies. While existing international agreements prohibit national sovereignty over outer space, they remain ambiguous on the ownership of extracted resources. While the proponents of the commercial exploitation of outer space argue that commercial ownership rights over the extracted resources are necessary to incentivise private investment and innovation, the critics contend that unregulated commercialization could lead to monopolisation, conflict, and unequal access for all. This raises the fundamental question of how to reconcile commercial activity in space with the principle that outer space is a shared domain of humanity. Based on the above passage, the following assumptions have been made: I. Clear and commonly accepted rules are necessary to prevent conflict and inequitable outcomes in the commercial exploitation of outer space. II. Allowing commercial extraction of space resources is incompatible with the idea of outer space as a shared domain of humanity. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Assumption I is valid.**The passage highlights ambiguity in existing international agreements and concerns about monopolisation and conflict, which implies the need for clear and widely accepted rules to govern commercial space activities.**Assumption II is not valid. **The passage does not assume that commercial activity is inherently incompatible with the idea of outer space as a shared domain. Instead, it presents this as a debated issue, suggesting that reconciliation between commercial use and shared ownership is possible through appropriate governance.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q35",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXIII Advances in genetic editing technologies such as CRISPR have expanded the ability to alter human, animal, and plant genomes with unprecedented precision. While these tools hold promise for treating genetic diseases and improving food security, they also raise ethical concerns about unintended consequences, unequal access, and the limits of human intervention in biological processes. As scientific capability advances faster than regulatory consensus, societies face the challenge of determining how innovation can proceed responsibly without eroding ethical safeguards or public trust.",
+        "A national bioethics committee is advising the government on whether to permit limited clinical trials of a new genetic editing therapy aimed at correcting inherited disorders. While early results are promising, regulatory frameworks are still evolving and long-term societal impacts remain uncertain.",
+        "As the chairman of the committee what would be your advice to the government, keeping in mind the perspective presented in the passage? decision."
+      ],
+      "questionText": "Passage XXIII Advances in genetic editing technologies such as CRISPR have expanded the ability to alter human, animal, and plant genomes with unprecedented precision. While these tools hold promise for treating genetic diseases and improving food security, they also raise ethical concerns about unintended consequences, unequal access, and the limits of human intervention in biological processes. As scientific capability advances faster than regulatory consensus, societies face the challenge of determining how innovation can proceed responsibly without eroding ethical safeguards or public trust. A national bioethics committee is advising the government on whether to permit limited clinical trials of a new genetic editing therapy aimed at correcting inherited disorders. While early results are promising, regulatory frameworks are still evolving and long-term societal impacts remain uncertain. As the chairman of the committee what would be your advice to the government, keeping in mind the perspective presented in the passage? decision.",
+      "options": {
+        "a": "Approve unrestricted clinical use to avoid delaying scientific progress.",
+        "b": "Prohibit all clinical applications until comprehensive international regulations are established.",
+        "c": "Allow controlled clinical trials under strict ethical oversight and make provision for a periodic review.",
+        "d": "To take suggestions from a group of international scientists who are specialist in the matter and then arrive at a"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect**. The passage cautions against proceeding without ethical safeguards and public trust.**\n\nOption b is incorrect. **A complete prohibition is not suggested; the passage recognises the potential benefits of the technology.**\n\nOption c is correct. **A controlled, oversight-based approach reflects the passage’s emphasis on balancing innovation with ethical responsibility and adaptive regulation.**\n\nOption d is incorrect.** As a chairman of national bioethics committee, this is not a choice as any suggestion from any such group of international scientists must occur before the tendering the advice to the government.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q36",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXIII Advances in genetic editing technologies such as CRISPR have expanded the ability to alter human, animal, and plant genomes with unprecedented precision. While these tools hold promise for treating genetic diseases and improving food security, they also raise ethical concerns about unintended consequences, unequal access, and the limits of human intervention in biological processes. As scientific capability advances faster than regulatory consensus, societies face the challenge of determining how innovation can proceed responsibly without eroding ethical safeguards or public trust.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Governments must regulate genetic editing to ensure its safe and ethical use.",
+        "II. Developing humans with desired traits through genetic editing could disrupt the course of natural evolution.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XXIII Advances in genetic editing technologies such as CRISPR have expanded the ability to alter human, animal, and plant genomes with unprecedented precision. While these tools hold promise for treating genetic diseases and improving food security, they also raise ethical concerns about unintended consequences, unequal access, and the limits of human intervention in biological processes. As scientific capability advances faster than regulatory consensus, societies face the challenge of determining how innovation can proceed responsibly without eroding ethical safeguards or public trust. Based on the above passage, the following assumptions have been made: I. Governments must regulate genetic editing to ensure its safe and ethical use. II. Developing humans with desired traits through genetic editing could disrupt the course of natural evolution. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Assumption I is valid. **The passage explicitly highlights that scientific capability in genetic editing is advancing faster than regulatory consensus and stresses the need for ethical safeguards and public trust. This implies that government regulation is necessary to ensure responsible use of genetic editing technologies.**Assumption II is not valid.** While the passage raises concerns about unintended consequences and limits of human intervention, it does not specifically assume that genetic editing would disrupt the course of natural evolution. This idea goes beyond the scope of the passage and introduces a speculative consequence not required for the author’s argument.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q37",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXIV Central Bank Digital Currencies (CBDCs) blend the convenience of digital payments with state-backed trust. As central banks worldwide explore CBDCs, their emergence could reshape the global financial landscape and crypto regulation. One possibility is that CBDCs will prompt governments to impose stricter controls on decentralized cryptocurrencies to preserve monetary authority and prevent illicit activities. Increased oversight of crypto exchanges and transactions may follow. Conversely, CBDCs might legitimize and accelerate the acceptance of digital assets by familiarizing the public with digital finance. This could encourage regulators to adopt a balanced framework that promotes innovation while ensuring financial stability and consumer protection in the expanding digital economy.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. As central banks across the world adopt CBDCs, the use of crypto assets would decline.",
+        "II. The rise of CBDCs may accelerate the growth of digital finance and strengthen the digital economy.",
+        "Which of the assumptions given above is/are correct?"
+      ],
+      "questionText": "Passage XXIV Central Bank Digital Currencies (CBDCs) blend the convenience of digital payments with state-backed trust. As central banks worldwide explore CBDCs, their emergence could reshape the global financial landscape and crypto regulation. One possibility is that CBDCs will prompt governments to impose stricter controls on decentralized cryptocurrencies to preserve monetary authority and prevent illicit activities. Increased oversight of crypto exchanges and transactions may follow. Conversely, CBDCs might legitimize and accelerate the acceptance of digital assets by familiarizing the public with digital finance. This could encourage regulators to adopt a balanced framework that promotes innovation while ensuring financial stability and consumer protection in the expanding digital economy. Based on the above passage, the following assumptions have been made: I. As central banks across the world adopt CBDCs, the use of crypto assets would decline. II. The rise of CBDCs may accelerate the growth of digital finance and strengthen the digital economy. Which of the assumptions given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement I is invalid.**The passage states “CBDCs will prompt governments to impose stricter controls on decentralized cryptocurrencies to preserve monetary authority and prevent illicit activities. Increased oversight of crypto exchanges and transactions may follow.” However, the passage doesn’t state that this would definitely would. Therefore, the use of the word ‘would’ males the assumption incorrect.**Statement II is valid.** The passage states “CBDCs might legitimize and accelerate the acceptance of digital assets by familiarizing the public with digital finance. “From here we can assume that the assumption is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q38",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXV Cultural heritage does not end at monuments and collections of objects. It also includes the intangible cultural heritage comprising of traditions or living expressions inherited from our ancestors and passed on to our descendants. These include oral traditions, performing arts, social practices, rituals, festive events, knowledge and practices concerning nature and the skills to produce traditional crafts. Rooted in inclusivity and representativeness, the intangible heritage fosters a shared sense of identity and belonging within communities. It is an important factor in maintaining cultural diversity in the face of growing globalization. An understanding of the intangible cultural heritage of different communities therefore helps with intercultural dialogue, and encourages mutual respect for varied ways of life.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Homogenization through globalization is eroding the diverse cultural heritage of communities.",
+        "II. Preserving intangible cultural heritage is essential to safeguard the living traditions of humankind.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage XXV Cultural heritage does not end at monuments and collections of objects. It also includes the intangible cultural heritage comprising of traditions or living expressions inherited from our ancestors and passed on to our descendants. These include oral traditions, performing arts, social practices, rituals, festive events, knowledge and practices concerning nature and the skills to produce traditional crafts. Rooted in inclusivity and representativeness, the intangible heritage fosters a shared sense of identity and belonging within communities. It is an important factor in maintaining cultural diversity in the face of growing globalization. An understanding of the intangible cultural heritage of different communities therefore helps with intercultural dialogue, and encourages mutual respect for varied ways of life. Based on the above passage, the following assumptions have been made: I. Homogenization through globalization is eroding the diverse cultural heritage of communities. II. Preserving intangible cultural heritage is essential to safeguard the living traditions of humankind. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Statement I is invalid**. While the passage states that “It (Intangible cultural heritage) is an important factor in maintaining cultural diversity in the face of growing globalization”, it is silent on the negative effect of globalization on intangible cultural heritage. Therefore, the assumption is invalid.**Statement II is valid. **The passage states “intangible cultural heritage comprising of traditions or living expressions inherited from our ancestors and passed on to our descendants. “It is an important factor in maintaining cultural diversity in the face of growing globalization. An understanding of the intangible cultural heritage of different communities therefore helps with intercultural dialogue, and encourages mutual respect for varied ways of life.” From here we can conclude that the assumption is valid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q39",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXVI In hopeful queues, India’s youth waits—not for change, but for a hallowed government desk. Dreams shrink into answer sheets, time turns into endless preparation, and the heart learns the grammar of patience and panic. Every rank announced is a verdict on worth; every withheld roll number, a quiet corrosion of trust. What grows in this long season of waiting? Not fields, not workshops, not new ideas, not creativity; only a generation trained in the delicate art of hoping softly, while the system measures merit in marks and endless delays.",
+        "What can be inferred about the broader societal impact, as suggested by the final lines of the passage?"
+      ],
+      "questionText": "Passage XXVI In hopeful queues, India’s youth waits—not for change, but for a hallowed government desk. Dreams shrink into answer sheets, time turns into endless preparation, and the heart learns the grammar of patience and panic. Every rank announced is a verdict on worth; every withheld roll number, a quiet corrosion of trust. What grows in this long season of waiting? Not fields, not workshops, not new ideas, not creativity; only a generation trained in the delicate art of hoping softly, while the system measures merit in marks and endless delays. What can be inferred about the broader societal impact, as suggested by the final lines of the passage?",
+      "options": {
+        "a": "It leads to a lack of highly skilled professionals in the private sector in the country.",
+        "b": "It results in the systematic stifling of economic and creative productivity.",
+        "c": "It ensures a fair and transparent and effective selection of the most capable administrators.",
+        "d": "It strengthens the youth's faith in institutional processes and outcomes."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect. **While the passage hints at diverted aspirations, it does not specifically contrast public sector obsession with private sector skill shortages.**\n\nOption b is correct. **The final lines — “Not fields, not workshops, not new ideas” — clearly suggest that prolonged waiting and exam-centric aspiration divert youth energy away from productive economic activity and creative innovation, leading to a broader stifling of societal productivity.**\n\nOption c is incorrect. **The tone of the passage is critical of system efficiency and it does not suggest that the system ensures fair or effective selection.**\n\nOption d is incorrect. **On the contrary, phrases like “quiet corrosion of trust” indicate erosion, not strengthening, of faith in institutions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test5-q40",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage XXVI In hopeful queues, India’s youth waits—not for change, but for a hallowed government desk. Dreams shrink into answer sheets, time turns into endless preparation, and the heart learns the grammar of patience and panic. Every rank announced is a verdict on worth; every withheld roll number, a quiet corrosion of trust. What grows in this long season of waiting? Not fields, not workshops, not new ideas, not creativity; only a generation trained in the delicate art of hoping softly, while the system measures merit in marks and endless delays.",
+        "Which of the following statements best captures the central idea of the passage? and the nation's broader potential. candidates enter public service. stable government careers. the principle of meritocracy."
+      ],
+      "questionText": "Passage XXVI In hopeful queues, India’s youth waits—not for change, but for a hallowed government desk. Dreams shrink into answer sheets, time turns into endless preparation, and the heart learns the grammar of patience and panic. Every rank announced is a verdict on worth; every withheld roll number, a quiet corrosion of trust. What grows in this long season of waiting? Not fields, not workshops, not new ideas, not creativity; only a generation trained in the delicate art of hoping softly, while the system measures merit in marks and endless delays. Which of the following statements best captures the central idea of the passage? and the nation's broader potential. candidates enter public service. stable government careers. the principle of meritocracy.",
+      "options": {
+        "a": "The protracted pursuit of government employment is extracting a heavy socio-psychological toll on Indian youth",
+        "b": "The intense competition for government jobs in India is a necessary filter to ensure only the most dedicated",
+        "c": "India's youth are increasingly disillusioned with the private sector, leading them to seek meaning and security in",
+        "d": "The examination system for government jobs, while stressful, is a fair and transparent mechanism that upholds"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Statement a is correct.**The**passage highlights how the extended, exam-centric pursuit of government employment **imposes psychological strain, erodes trust, and diverts youthful energy away from productive and creative **activities, thereby affecting both individuals and the nation’s broader potential. **Statement b is incorrect. **The passage does not portray competition for government jobs as a necessary or beneficial filter; instead, it adopts a critical tone toward the prolonged and uncertain process.**Statement c is incorrect.**While the passage focuses on the obsession with government jobs, it does not explicitly attribute this to disillusionment with the private sector or a search for meaning there.**Statement d is incorrect. **The passage questions the system’s impact and fairness, referring to “quiet corrosion of trust,” rather than endorsing the examination process as transparent or meritocratic",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

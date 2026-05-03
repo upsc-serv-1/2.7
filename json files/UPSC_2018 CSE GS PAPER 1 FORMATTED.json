@@ -1,0 +1,3664 @@
+{
+  "id": "upsc-cse-pyq-2018-gs1",
+  "title": "2018- Prelims - GS Paper 1 - UPSC",
+  "launch_year": 2018,
+  "institute": "UPSC",
+  "program_id": "cse",
+  "program_name": "CSE",
+  "series": "Prelims (Official)",
+  "level": "GS Paper 1",
+  "paperType": "test-paper",
+  "defaultMinutes": 120,
+  "sourceMode": "docx-sol",
+  "questions": [
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q001",
+      "questionNumber": 1,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party.",
+        "2. In the Lok Sabha, a \"Leader of the Opposition\" was recognised for the first time in 1969.",
+        "3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. In the first Lok Sabha, the single largest party in the opposition was the Swatantra Party. 2. In the Lok Sabha, a \"Leader of the Opposition\" was recognised for the first time in 1969. 3. In the Lok Sabha, if a party does not have a minimum of 75 members, its leader cannot be recognised as the Leader of the Opposition. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q002",
+      "questionNumber": 2,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Natural Vegetation (Forests, Trees, Vegetation)",
+      "statementLines": [
+        "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss?",
+        "1. Hard and waxy leaves",
+        "2. Tiny leaves",
+        "3. Thorns instead of leaves",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following leaf modifications occur(s) in the desert areas to inhibit water loss? 1. Hard and waxy leaves 2. Tiny leaves 3. Thorns instead of leaves Select the correct answer using the code given below:",
+      "options": {
+        "a": "2 and 3 only",
+        "b": "2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q003",
+      "questionNumber": 3,
+      "subject": "Agriculture",
+      "sectionGroup": "Core Agriculture & Farming Practices",
+      "microTopic": "Agricultural Productivity",
+      "statementLines": [
+        "As per the NSSO 70th Round \"Situation Assessment Survey of Agricultural Households\", consider the following statements:",
+        "1. Rajasthan has the highest percentage share of agricultural households among its rural households.",
+        "2. Out of the total agricultural households in the country, a little over 60 percent belong to OBCs.",
+        "3. In Kerala, a little over 60 percent of agricultural households reported to have received maximum income from sources other than agricultural activities.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "As per the NSSO 70th Round \"Situation Assessment Survey of Agricultural Households\", consider the following statements: 1. Rajasthan has the highest percentage share of agricultural households among its rural households. 2. Out of the total agricultural households in the country, a little over 60 percent belong to OBCs. 3. In Kerala, a little over 60 percent of agricultural households reported to have received maximum income from sources other than agricultural activities. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "2 and 3 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q004",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "NGT, PCB, FSI, NBWL, other bodies, etc.",
+      "statementLines": [
+        "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)?",
+        "1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government.",
+        "2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "How is the National Green Tribunal (NGT) different from the Central Pollution Control Board (CPCB)? 1. The NGT has been established by an Act whereas the CPCB has been created by an executive order of the Government. 2. The NGT provides environmental justice and helps reduce the burden of litigation in the higher courts whereas the CPCB promotes cleanliness of streams and wells, and aims to improve the quality of air in the country. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q005",
+      "questionNumber": 5,
+      "subject": "Polity",
+      "sectionGroup": "Part XX: Amendment of the Constitution",
+      "microTopic": "Amendment and Basic Structure",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.",
+        "2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q006",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Which one of the following best describes the term \"Merchant Discount Rate\" sometimes seen in news?"
+      ],
+      "questionText": "Which one of the following best describes the term \"Merchant Discount Rate\" sometimes seen in news?",
+      "options": {
+        "a": "The incentive given by a bank to a merchant for accepting payments through debit cards pertaining to that bank.",
+        "b": "The amount paid back by banks to their customers when they use debit cards for financial transactions for purchasing goods or services.",
+        "c": "The charge to a merchant by a bank for accepting payments from his customers through the bank's debit cards.",
+        "d": "The incentive given by the Government to merchants for promoting digital payments by their customers through Point of Sale (PoS) machines and debit cards."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q007",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "What is/are the consequence/consequences of a country becoming the member of the 'Nuclear Suppliers Group'?",
+        "1. It will have access to the latest and most efficient nuclear technologies.",
+        "2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\".",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "What is/are the consequence/consequences of a country becoming the member of the 'Nuclear Suppliers Group'? 1. It will have access to the latest and most efficient nuclear technologies. 2. It automatically becomes a member of \"The Treaty on the Non-Proliferation of Nuclear Weapons (NPT)\". Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q008",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to India's decision to levy an equalization tax of 6% on online advertisement services offered by non-resident entities, which of the following statements is/are correct?",
+        "1. It is introduced as a part of the Income Tax Act.",
+        "2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the \"Double Taxation Avoidance Agreements\".",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to India's decision to levy an equalization tax of 6% on online advertisement services offered by non-resident entities, which of the following statements is/are correct? 1. It is introduced as a part of the Income Tax Act. 2. Non-resident entities that offer advertisement services in India can claim a tax credit in their home country under the \"Double Taxation Avoidance Agreements\". Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q009",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments.",
+        "2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments.",
+        "3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Fiscal Responsibility and Budget Management (FRBM) Review Committee Report has recommended a debt to GDP ratio of 60% for the general (combined) government by 2023, comprising 40% for the Central Government and 20% for the State Governments. 2. The Central Government has domestic liabilities of 21% of GDP as compared to that of 49% of GDP of the State Governments. 3. As per the Constitution of India, it is mandatory for a State to take the Central Government's consent for raising any loan if the former owes any outstanding liabilities to the latter. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q010",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "Agriculture (Schemes, APMC, MSP, Exports, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years.",
+        "2. The Government does not impose any customs duty on all the imported edible oils as a special case.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The quantity of imported edible oils is more than the domestic production of edible oils in the last five years. 2. The Government does not impose any customs duty on all the imported edible oils as a special case. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q011",
+      "questionNumber": 11,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "He wrote biographies of Mazzini, Garibaldi, Shivaji and Shrikrishna; stayed in America for some time; and was also elected to the Central Assembly. He was"
+      ],
+      "questionText": "He wrote biographies of Mazzini, Garibaldi, Shivaji and Shrikrishna; stayed in America for some time; and was also elected to the Central Assembly. He was",
+      "options": {
+        "a": "Aurobindo Ghosh",
+        "b": "Bipin Chandra Pal",
+        "c": "Lala Lajpat Rai",
+        "d": "Motilal Nehru"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q012",
+      "questionNumber": 12,
+      "subject": "Polity",
+      "sectionGroup": "Part II: Citizenship",
+      "microTopic": "Citizenship",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Aadhaar card can be used as a proof of citizenship or domicile.",
+        "2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Aadhaar card can be used as a proof of citizenship or domicile. 2. Once issued, Aadhaar number cannot be deactivated or omitted by the Issuing Authority. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q013",
+      "questionNumber": 13,
+      "subject": "Geography",
+      "sectionGroup": "World Geography",
+      "microTopic": "Rivers, Lakes",
+      "statementLines": [
+        "Which of the following has/have shrunk immensely/dried up in the recent past due to human activities?",
+        "1. Aral Sea",
+        "2. Black Sea",
+        "3. Lake Baikal",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following has/have shrunk immensely/dried up in the recent past due to human activities? 1. Aral Sea 2. Black Sea 3. Lake Baikal Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3",
+        "c": "2 only",
+        "d": "1 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q014",
+      "questionNumber": 14,
+      "subject": "International Relations",
+      "sectionGroup": "Current Events & Global Indices",
+      "microTopic": "Reports and Indices (HDI, CPI, GHI, WEO, etc.)",
+      "statementLines": [
+        "\"Rule of Law Index\" is released by which of the following?"
+      ],
+      "questionText": "\"Rule of Law Index\" is released by which of the following?",
+      "options": {
+        "a": "Amnesty International",
+        "b": "International Court of Justice",
+        "c": "The Office of UN Commissioner for Human Rights",
+        "d": "World Justice Project"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q015",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Which one of the following links all the ATMs in India?"
+      ],
+      "questionText": "Which one of the following links all the ATMs in India?",
+      "options": {
+        "a": "Indian Banks' Association",
+        "b": "National Securities Depository Limited",
+        "c": "National Payments Corporation of India",
+        "d": "Reserve Bank of India"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q016",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account-holders fail to repay dues.",
+        "2. CAR is decided by each individual bank.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Capital Adequacy Ratio (CAR) is the amount that banks have to maintain in the form of their own funds to offset any loss that banks incur if the account-holders fail to repay dues. 2. CAR is decided by each individual bank. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q017",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The identity platform 'Aadhaar' provides open \"Application Programming Interfaces (APIs)\". What does it imply?",
+        "1. It can be integrated into any electronic device.",
+        "2. Online authentication using iris is possible.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "The identity platform 'Aadhaar' provides open \"Application Programming Interfaces (APIs)\". What does it imply? 1. It can be integrated into any electronic device. 2. Online authentication using iris is possible. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q018",
+      "questionNumber": 18,
+      "subject": "International Relations",
+      "sectionGroup": "Geopolitics, Security & Strategic Issues",
+      "microTopic": "Places in News and Geopolitical Hotspots (Ukraine, Taiwan Strait, Hormuz, etc.)",
+      "statementLines": [
+        "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?"
+      ],
+      "questionText": "Very recently, in which of the following countries have lakhs of people either suffered from severe famine/acute malnutrition or died due to starvation caused by war/ethnic conflicts?",
+      "options": {
+        "a": "Angola and Zambia",
+        "b": "Morocco and Tunisia",
+        "c": "Venezuela and Colombia",
+        "d": "Yemen and South Sudan"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q019",
+      "questionNumber": 19,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Development of Press, Education",
+      "statementLines": [
+        "Regarding Wood's Dispatch, which of the following statements are true?",
+        "1. Grants-in-Aid system was introduced.",
+        "2. Establishment of universities was recommended.",
+        "3. English as a medium of instruction at all levels of education was recommended.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Regarding Wood's Dispatch, which of the following statements are true? 1. Grants-in-Aid system was introduced. 2. Establishment of universities was recommended. 3. English as a medium of instruction at all levels of education was recommended. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q020",
+      "questionNumber": 20,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?"
+      ],
+      "questionText": "With reference to the Parliament of India, which of the following Parliamentary Committees scrutinizes and reports to the House whether the powers to make regulations, rules, sub-rules, by-laws, etc. conferred by the Constitution or delegated by the Parliament are being properly exercised by the Executive within the scope of such delegation?",
+      "options": {
+        "a": "Committee on Government Assurances",
+        "b": "Committee on Subordinate Legislation",
+        "c": "Rules Committee",
+        "d": "Business Advisory Committee"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q021",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Education (NEP 2020, Skill Development)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. As per the Right to Education (RTE) Act, to be eligible for appointment as a teacher in a State, a person would be required to possess the minimum qualification laid down by the concerned State Council of Teacher Education.",
+        "2. As per the RTE Act, for teaching primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines.",
+        "3. In India, more than 90% of teacher education institutions are directly under the State Governments.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. As per the Right to Education (RTE) Act, to be eligible for appointment as a teacher in a State, a person would be required to possess the minimum qualification laid down by the concerned State Council of Teacher Education. 2. As per the RTE Act, for teaching primary classes, a candidate is required to pass a Teacher Eligibility Test conducted in accordance with the National Council of Teacher Education guidelines. 3. In India, more than 90% of teacher education institutions are directly under the State Governments. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q022",
+      "questionNumber": 22,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "National and Regional Festivals",
+      "statementLines": [
+        "Consider the following pairs:",
+        "1. Chapchar Kut festival - Mizoram",
+        "2. Khongjom Parba ballad - Manipur",
+        "3. Thang-Ta dance - Sikkim",
+        "Which of the pairs given above is/are correct?"
+      ],
+      "questionText": "Consider the following pairs: 1. Chapchar Kut festival - Mizoram 2. Khongjom Parba ballad - Manipur 3. Thang-Ta dance - Sikkim Which of the pairs given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "3 only",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q023",
+      "questionNumber": 23,
+      "subject": "Agriculture",
+      "sectionGroup": "Food Management",
+      "microTopic": "Food Security and Storage",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act, 1954.",
+        "2. The Food Safety and Standards Authority of India (FSSAI) is under the charge of Director General of Health Services in the Union Ministry of Health and Family Welfare.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Food Safety and Standards Act, 2006 replaced the Prevention of Food Adulteration Act, 1954. 2. The Food Safety and Standards Authority of India (FSSAI) is under the charge of Director General of Health Services in the Union Ministry of Health and Family Welfare. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q024",
+      "questionNumber": 24,
+      "subject": "International Relations",
+      "sectionGroup": "Geopolitics, Security & Strategic Issues",
+      "microTopic": "Places in News and Geopolitical Hotspots (Ukraine, Taiwan Strait, Hormuz, etc.)",
+      "statementLines": [
+        "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of"
+      ],
+      "questionText": "The term \"two-state solution\" is sometimes mentioned in the news in the context of the affairs of",
+      "options": {
+        "a": "China",
+        "b": "Israel",
+        "c": "Iraq",
+        "d": "Yemen"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q025",
+      "questionNumber": 25,
+      "subject": "Agriculture",
+      "sectionGroup": "Food Management",
+      "microTopic": "Food Security and Storage",
+      "statementLines": [
+        "With reference to the provisions made under the National Food Security Act, 2013, consider the following statements:",
+        "1. The families coming under the category of 'below poverty line (BPL)' only are eligible to receive subsidised food grains.",
+        "2. The eldest woman in a household, of age 18 years or above, shall be the head of the household for the purpose of issuance of a ration card.",
+        "3. Pregnant women and lactating mothers are entitled to a 'take-home ration' of 1600 calories per day during pregnancy and for six months thereafter.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the provisions made under the National Food Security Act, 2013, consider the following statements: 1. The families coming under the category of 'below poverty line (BPL)' only are eligible to receive subsidised food grains. 2. The eldest woman in a household, of age 18 years or above, shall be the head of the household for the purpose of issuance of a ration card. 3. Pregnant women and lactating mothers are entitled to a 'take-home ration' of 1600 calories per day during pregnancy and for six months thereafter. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q026",
+      "questionNumber": 26,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "GI Tags, Awards & Honours",
+      "statementLines": [
+        "India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to"
+      ],
+      "questionText": "India enacted The Geographical Indications of Goods (Registration and Protection) Act, 1999 in order to comply with the obligations to",
+      "options": {
+        "a": "ILO",
+        "b": "IMF",
+        "c": "UNCTAD",
+        "d": "WTO"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q027",
+      "questionNumber": 27,
+      "subject": "Geography",
+      "sectionGroup": "Economic Geography",
+      "microTopic": "Minerals and Resources (Coal, Iron, Bauxite, Lead, Zinc, Pyrites, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. In India, State Governments do not have the power to auction non-coal mines.",
+        "2. Andhra Pradesh and Jharkhand do not have gold mines.",
+        "3. Rajasthan has iron ore mines.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. In India, State Governments do not have the power to auction non-coal mines. 2. Andhra Pradesh and Jharkhand do not have gold mines. 3. Rajasthan has iron ore mines. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q028",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "With reference to digital payments, consider the following statements:",
+        "1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account.",
+        "2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of authentication.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to digital payments, consider the following statements: 1. BHIM app allows the user to transfer money to anyone with a UPI-enabled bank account. 2. While a chip-pin debit card has four factors of authentication, BHIM app has only two factors of authentication. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q029",
+      "questionNumber": 29,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Physiography of India (Location, Division, Physiographic Regions)",
+      "statementLines": [
+        "Among the following cities, which one lies on a longitude closest to that of Delhi?"
+      ],
+      "questionText": "Among the following cities, which one lies on a longitude closest to that of Delhi?",
+      "options": {
+        "a": "Bengaluru",
+        "b": "Hyderabad",
+        "c": "Nagpur",
+        "d": "Pune"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q030",
+      "questionNumber": 30,
+      "subject": "International Relations",
+      "sectionGroup": "Global Institutions & Agreements",
+      "microTopic": "Global Groupings and Agreements (FTA, Paris Agreement, NPT, QUAD, etc.)",
+      "statementLines": [
+        "International Labour Organization's Conventions 138 and 182 are related to"
+      ],
+      "questionText": "International Labour Organization's Conventions 138 and 182 are related to",
+      "options": {
+        "a": "Child labour",
+        "b": "Adaptation of agricultural practices to global climate change",
+        "c": "Regulation of food prices and food security",
+        "d": "Gender parity at the workplace"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q031",
+      "questionNumber": 31,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "Regarding Money Bill, which of the following statements is not correct?"
+      ],
+      "questionText": "Regarding Money Bill, which of the following statements is not correct?",
+      "options": {
+        "a": "A bill shall be deemed to be a Money Bill if it contains only provisions relating to imposition, abolition, remission, alteration or regulation of any tax.",
+        "b": "A Money Bill has provisions for the custody of the Consolidated Fund of India or the Contingency Fund of India.",
+        "c": "A Money Bill is concerned with the appropriation of moneys out of the Contingency Fund of India.",
+        "d": "A Money Bill deals with the regulation of borrowing of money or giving of any guarantee by the Government of India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q032",
+      "questionNumber": 32,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "President, Vice President, Governor",
+      "statementLines": [
+        "With reference to the election of the President of India, consider the following statements:",
+        "1. The value of the vote of each MLA varies from State to State.",
+        "2. The value of the vote of MPs of the Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the election of the President of India, consider the following statements: 1. The value of the vote of each MLA varies from State to State. 2. The value of the vote of MPs of the Lok Sabha is more than the value of the vote of MPs of the Rajya Sabha. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q033",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Nuclear Energy & Technology",
+      "microTopic": "Nuclear Technology",
+      "statementLines": [
+        "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the International Atomic Energy Agency (IAEA)?"
+      ],
+      "questionText": "In the Indian context, what is the implication of ratifying the 'Additional Protocol' with the International Atomic Energy Agency (IAEA)?",
+      "options": {
+        "a": "The civilian nuclear reactors come under IAEA safeguards.",
+        "b": "The military nuclear installations come under the inspection of IAEA.",
+        "c": "The country will have the privilege to buy uranium from the Nuclear Suppliers Group (NSG).",
+        "d": "The country automatically becomes a member of the NSG."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q034",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "International Organisations (WTO, IMF, World Bank, RCEP, FTAs, etc.)",
+      "statementLines": [
+        "Consider the following countries:",
+        "1. Australia",
+        "2. Canada",
+        "3. China",
+        "4. India",
+        "5. Japan",
+        "6. USA",
+        "Which of the above are among the 'free-trade partners' of ASEAN?"
+      ],
+      "questionText": "Consider the following countries: 1. Australia 2. Canada 3. China 4. India 5. Japan 6. USA Which of the above are among the 'free-trade partners' of ASEAN?",
+      "options": {
+        "a": "1, 2, 4 and 5",
+        "b": "3, 4, 5 and 6",
+        "c": "1, 3, 4 and 5",
+        "d": "2, 3, 4 and 6"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q035",
+      "questionNumber": 35,
+      "subject": "Agriculture",
+      "sectionGroup": "Environmental & Global Issues",
+      "microTopic": "Environmental and Global Issues (Climate Change, Drought, ZBNF, WTO, etc.)",
+      "statementLines": [
+        "With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct?",
+        "1. GACSA is an outcome of the Climate Summit held in Paris in 2015.",
+        "2. Membership of GACSA does not create any binding obligations.",
+        "3. India was instrumental in the creation of GACSA.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the 'Global Alliance for Climate-Smart Agriculture (GACSA)', which of the following statements is/are correct? 1. GACSA is an outcome of the Climate Summit held in Paris in 2015. 2. Membership of GACSA does not create any binding obligations. 3. India was instrumental in the creation of GACSA. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q036",
+      "questionNumber": 36,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Governance and Policies",
+      "statementLines": [
+        "Which of the following is/are the aim/aims of \"Digital India\" Plan of the Government of India?",
+        "1. Formation of India's own Internet companies like China did.",
+        "2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centres within our national geographical boundaries.",
+        "3. Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centres.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following is/are the aim/aims of \"Digital India\" Plan of the Government of India? 1. Formation of India's own Internet companies like China did. 2. Establish a policy framework to encourage overseas multinational corporations that collect Big Data to build their large data centres within our national geographical boundaries. 3. Connect many of our villages to the Internet and bring Wi-Fi to many of our schools, public places and major tourist centres. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q037",
+      "questionNumber": 37,
+      "subject": "International Relations",
+      "sectionGroup": "Geopolitics, Security & Strategic Issues",
+      "microTopic": "Places in News and Geopolitical Hotspots (Ukraine, Taiwan Strait, Hormuz, etc.)",
+      "statementLines": [
+        "Consider the following pairs:",
+        "1. Aleppo - Syria",
+        "2. Kirkuk - Yemen",
+        "3. Mosul - Palestine",
+        "4. Mazar-i-sharif - Afghanistan",
+        "Which of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: 1. Aleppo - Syria 2. Kirkuk - Yemen 3. Mosul - Palestine 4. Mazar-i-sharif - Afghanistan Which of the pairs given above are correctly matched?",
+      "options": {
+        "a": "1 and 2",
+        "b": "1 and 4",
+        "c": "2 and 3",
+        "d": "3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q038",
+      "questionNumber": 38,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "In the Federation established by The Government of India Act of 1935, residuary powers were given to the"
+      ],
+      "questionText": "In the Federation established by The Government of India Act of 1935, residuary powers were given to the",
+      "options": {
+        "a": "Federal Legislature",
+        "b": "Governor General",
+        "c": "Provincial Legislature",
+        "d": "Provincial Governors"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q039",
+      "questionNumber": 39,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly.",
+        "2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Speaker of the Legislative Assembly shall vacate his/her office if he/she ceases to be a member of the Assembly. 2. Whenever the Legislative Assembly is dissolved, the Speaker shall vacate his/her office immediately. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q040",
+      "questionNumber": 40,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Governance and Policies",
+      "statementLines": [
+        "Which one of the following reflects the most appropriate relationship between law and liberty?"
+      ],
+      "questionText": "Which one of the following reflects the most appropriate relationship between law and liberty?",
+      "options": {
+        "a": "If there are more laws, there is less liberty.",
+        "b": "If there are no laws, there is no liberty.",
+        "c": "If there is liberty, laws have to be made by the people.",
+        "d": "If laws are changed too often, liberty is in danger."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q041",
+      "questionNumber": 41,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "President, Vice President, Governor",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office.",
+        "2. The emoluments and allowances of the Governor of a State shall not be diminished during his term of office.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. No criminal proceedings shall be instituted against the Governor of a State in any court during his term of office. 2. The emoluments and allowances of the Governor of a State shall not be diminished during his term of office. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q042",
+      "questionNumber": 42,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "Painting",
+      "statementLines": [
+        "The well-known painting \"Bani Thani\" belongs to the"
+      ],
+      "questionText": "The well-known painting \"Bani Thani\" belongs to the",
+      "options": {
+        "a": "Bundi school",
+        "b": "Jaipur school",
+        "c": "Kangra school",
+        "d": "Kishangarh school"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q043",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "What is \"Terminal High Altitude Area Defense (THAAD)\", sometimes seen in the news?"
+      ],
+      "questionText": "What is \"Terminal High Altitude Area Defense (THAAD)\", sometimes seen in the news?",
+      "options": {
+        "a": "An Israeli radar system",
+        "b": "An American anti-missile system",
+        "c": "India's indigenous anti-missile programme",
+        "d": "A defence collaboration between Japan and South Korea"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q044",
+      "questionNumber": 44,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "Performing Arts (Dance, Drama, Music, Martial Arts)",
+      "statementLines": [
+        "With reference to cultural history of India, consider the following statements:",
+        "1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna.",
+        "2. Tyagaraja created several new ragas.",
+        "3. Annamacharya and Tyagaraja are contemporaries.",
+        "4. Annamacharya kirtanas are devotional songs in praise of Lord Venkateshwara.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to cultural history of India, consider the following statements: 1. Most of the Tyagaraja Kritis are devotional songs in praise of Lord Krishna. 2. Tyagaraja created several new ragas. 3. Annamacharya and Tyagaraja are contemporaries. 4. Annamacharya kirtanas are devotional songs in praise of Lord Venkateshwara. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 and 4 only",
+        "c": "1, 2 and 3",
+        "d": "2, 3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q045",
+      "questionNumber": 45,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Governance and Policies",
+      "statementLines": [
+        "Which of the following are regarded as the main features of the \"Rule of Law\"?",
+        "1. Limitation of powers",
+        "2. Equality before law",
+        "3. People's responsibility to the Government",
+        "4. Liberty and civil rights",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following are regarded as the main features of the \"Rule of Law\"? 1. Limitation of powers 2. Equality before law 3. People's responsibility to the Government 4. Liberty and civil rights Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 and 4 only",
+        "c": "1, 2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q046",
+      "questionNumber": 46,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "Which one of the following statements correctly describes the meaning of legal tender money?"
+      ],
+      "questionText": "Which one of the following statements correctly describes the meaning of legal tender money?",
+      "options": {
+        "a": "The money which is tendered in courts of law to defray the fee of legal cases",
+        "b": "The money which a creditor is under compulsion to accept in settlement of his claims",
+        "c": "The bank money in the form of cheques, drafts, bills of exchange, etc.",
+        "d": "The metallic money in circulation in a country"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q047",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Subsidies",
+      "statementLines": [
+        "If a commodity is provided free to the public by the Government, then"
+      ],
+      "questionText": "If a commodity is provided free to the public by the Government, then",
+      "options": {
+        "a": "The opportunity cost is zero.",
+        "b": "The opportunity cost is ignored.",
+        "c": "The opportunity cost is transferred from the consumers of the product to the tax-paying public.",
+        "d": "The opportunity cost is transferred from the consumers of the product to the Government."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q048",
+      "questionNumber": 48,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Increase in absolute and per capita real GNP do not connote a higher level of economic development, if"
+      ],
+      "questionText": "Increase in absolute and per capita real GNP do not connote a higher level of economic development, if",
+      "options": {
+        "a": "Industrial output fails to keep pace with agricultural output.",
+        "b": "Agricultural output fails to keep pace with industrial output.",
+        "c": "Poverty and unemployment increase.",
+        "d": "Imports grow faster than exports."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q049",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Education (NEP 2020, Skill Development)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Human capital formation as a concept is better explained in terms of a process which enables",
+        "1. individuals of a country to accumulate more capital.",
+        "2. increasing the knowledge, skill levels and capacities of the people of the country.",
+        "3. accumulation of tangible wealth.",
+        "4. accumulation of intangible wealth.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: Human capital formation as a concept is better explained in terms of a process which enables 1. individuals of a country to accumulate more capital. 2. increasing the knowledge, skill levels and capacities of the people of the country. 3. accumulation of tangible wealth. 4. accumulation of intangible wealth. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "2 and 4",
+        "d": "1, 3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q050",
+      "questionNumber": 50,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Despite being a high saving economy, capital formation may not result in significant increase in output due to"
+      ],
+      "questionText": "Despite being a high saving economy, capital formation may not result in significant increase in output due to",
+      "options": {
+        "a": "Weak administrative machinery",
+        "b": "Illiteracy",
+        "c": "High population density",
+        "d": "High capital-output ratio"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q051",
+      "questionNumber": 51,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Peasant & Working-Class Movements",
+      "statementLines": [
+        "After the Santhal Uprising subsided, what was/were the measure/measures taken by the colonial government?",
+        "1. The territories called 'Santhal Paraganas' were created.",
+        "2. It became illegal for a Santhal to transfer land to a non-Santhal.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "After the Santhal Uprising subsided, what was/were the measure/measures taken by the colonial government? 1. The territories called 'Santhal Paraganas' were created. 2. It became illegal for a Santhal to transfer land to a non-Santhal. Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q052",
+      "questionNumber": 52,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "Economically, one of the results of the British rule in India in the 19th century was the"
+      ],
+      "questionText": "Economically, one of the results of the British rule in India in the 19th century was the",
+      "options": {
+        "a": "Increase in the export of Indian handicrafts",
+        "b": "Growth in the number of Indian owned factories",
+        "c": "Commercialization of Indian agriculture",
+        "d": "Rapid increase in the urban population"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q053",
+      "questionNumber": 53,
+      "subject": "Polity",
+      "sectionGroup": "Part XVIII: Emergency Provisions",
+      "microTopic": "Emergency Provisions",
+      "statementLines": [
+        "If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then"
+      ],
+      "questionText": "If the President of India exercises his power as provided under Article 356 of the Constitution in respect of a particular State, then",
+      "options": {
+        "a": "The Assembly of the State is automatically dissolved.",
+        "b": "The powers of the Legislature of that State shall be exercisable by or under the authority of the Parliament.",
+        "c": "Article 19 is suspended in that State.",
+        "d": "The President can make laws relating to that Stat"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q054",
+      "questionNumber": 54,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "GI Tags, Awards & Honours",
+      "statementLines": [
+        "Consider the following pairs:",
+        "1. Puthukkuli shawls - Tamil Nadu",
+        "2. Sujni embroidery - Maharashtra",
+        "3. Uppada Jamdani saris - Karnataka",
+        "Which of the pairs given above is/are correct?"
+      ],
+      "questionText": "Consider the following pairs: 1. Puthukkuli shawls - Tamil Nadu 2. Sujni embroidery - Maharashtra 3. Uppada Jamdani saris - Karnataka Which of the pairs given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2",
+        "c": "3 only",
+        "d": "2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q055",
+      "questionNumber": 55,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In which of the following areas can GPS technology be used?",
+        "1. Mobile phone operations",
+        "2. Banking operations",
+        "3. Controlling the power grids",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In which of the following areas can GPS technology be used? 1. Mobile phone operations 2. Banking operations 3. Controlling the power grids Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q056",
+      "questionNumber": 56,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities.",
+        "2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the State Governments.",
+        "3. Treasury bills are issued at a discount from the par value.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Reserve Bank of India manages and services Government of India Securities but not any State Government Securities. 2. Treasury bills are issued by the Government of India and there are no treasury bills issued by the State Governments. 3. Treasury bills are issued at a discount from the par value. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q057",
+      "questionNumber": 57,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Origin and Evolution",
+      "microTopic": "Origin, Evolution, Geological Time Scale",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Earth's magnetic field has reversed every few hundred thousand years.",
+        "2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide.",
+        "3. When living organisms originated, they modified the early atmosphere of the Earth.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Earth's magnetic field has reversed every few hundred thousand years. 2. When the Earth was created more than 4000 million years ago, there was 54% oxygen and no carbon dioxide. 3. When living organisms originated, they modified the early atmosphere of the Earth. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q058",
+      "questionNumber": 58,
+      "subject": "International Relations",
+      "sectionGroup": "Geopolitics, Security & Strategic Issues",
+      "microTopic": "Security and Strategic Issues (Terrorism, Cyber, Maritime, Exercises, etc.)",
+      "statementLines": [
+        "The terms 'WannaCry, Petya and EternalBlue' sometimes mentioned in the news recently are related to"
+      ],
+      "questionText": "The terms 'WannaCry, Petya and EternalBlue' sometimes mentioned in the news recently are related to",
+      "options": {
+        "a": "Exoplanets",
+        "b": "Cryptocurrency",
+        "c": "Cyber attacks",
+        "d": "Mini satellites"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q059",
+      "questionNumber": 59,
+      "subject": "Agriculture",
+      "sectionGroup": "Environmental & Global Issues",
+      "microTopic": "Environmental and Global Issues (Climate Change, Drought, ZBNF, WTO, etc.)",
+      "statementLines": [
+        "With reference to the circumstances in Indian agriculture, the concept of \"Conservation Agriculture\" assumes significance. Which of the following fall under the Conservation Agriculture?",
+        "1. Avoiding the monoculture practices",
+        "2. Adopting minimum tillage",
+        "3. Avoiding the cultivation of plantation crops",
+        "4. Using crop residues to cover soil surface",
+        "5. Adopting spatial and temporal crop sequencing/crop rotations",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the circumstances in Indian agriculture, the concept of \"Conservation Agriculture\" assumes significance. Which of the following fall under the Conservation Agriculture? 1. Avoiding the monoculture practices 2. Adopting minimum tillage 3. Avoiding the cultivation of plantation crops 4. Using crop residues to cover soil surface 5. Adopting spatial and temporal crop sequencing/crop rotations Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 3 and 4",
+        "b": "2, 3, 4 and 5",
+        "c": "2, 4 and 5",
+        "d": "1, 2, 3 and 5"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q060",
+      "questionNumber": 60,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Mass Extinctions and IUCN Red List",
+      "statementLines": [
+        "The term \"sixth mass extinction/sixth extinction\" is often mentioned in the news in the context of the discussion of"
+      ],
+      "questionText": "The term \"sixth mass extinction/sixth extinction\" is often mentioned in the news in the context of the discussion of",
+      "options": {
+        "a": "Widespread monoculture practices in agriculture and large-scale commercial farming with indiscriminate use of chemicals in many parts of the world that may result in the loss of good native ecosystems.",
+        "b": "Fears of a possible collision of a meteorite with the Earth in the near future in the manner it happened 65 million years ago that caused the mass extinction of many species including those of dinosaurs.",
+        "c": "Large scale cultivation of genetically modified crops in many parts of the world and promoting their cultivation in other parts of the world which may cause the disappearance of good native crop plants and the loss of food biodiversity.",
+        "d": "Mankind's over-exploitation/misuse of natural resources, fragmentation/loss of natural habitats, destruction of ecosystems, pollution and global climate chang"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q061",
+      "questionNumber": 61,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Navigation",
+      "statementLines": [
+        "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements:",
+        "1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits.",
+        "2. IRNSS covers entire India and about 5500 sq. km beyond its borders.",
+        "3. India will have its own satellite navigation system with full global coverage by the middle of 2019.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Indian Regional Navigation Satellite System (IRNSS), consider the following statements: 1. IRNSS has three satellites in geostationary and four satellites in geosynchronous orbits. 2. IRNSS covers entire India and about 5500 sq. km beyond its borders. 3. India will have its own satellite navigation system with full global coverage by the middle of 2019. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q062",
+      "questionNumber": 62,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following phenomena:",
+        "1. Light is affected by gravity.",
+        "2. The Universe is constantly expanding.",
+        "3. Matter warps its surrounding space-time.",
+        "Which of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?"
+      ],
+      "questionText": "Consider the following phenomena: 1. Light is affected by gravity. 2. The Universe is constantly expanding. 3. Matter warps its surrounding space-time. Which of the above is/are the prediction/predictions of Albert Einstein's General Theory of Relativity, often discussed in media?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q063",
+      "questionNumber": 63,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements:",
+        "1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests.",
+        "2. GM mustard has the genes that allow the plant cross-pollination and hybridization.",
+        "3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Genetically Modified mustard (GM mustard) developed in India, consider the following statements: 1. GM mustard has the genes of a soil bacterium that give the plant the property of pest-resistance to a wide variety of pests. 2. GM mustard has the genes that allow the plant cross-pollination and hybridization. 3. GM mustard has been developed jointly by the IARI and Punjab Agricultural University. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q064",
+      "questionNumber": 64,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following pairs:",
+        "1. Belle II experiment - Artificial Intelligence",
+        "2. Blockchain technology - Digital/Cryptocurrency",
+        "3. CRISPR-Cas9 - Particle Physics",
+        "Which of the pairs given above is/are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: 1. Belle II experiment - Artificial Intelligence 2. Blockchain technology - Digital/Cryptocurrency 3. CRISPR-Cas9 - Particle Physics Which of the pairs given above is/are correctly matched?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q065",
+      "questionNumber": 65,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Which of the following statements best describes \"carbon fertilization\"?"
+      ],
+      "questionText": "Which of the following statements best describes \"carbon fertilization\"?",
+      "options": {
+        "a": "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere",
+        "b": "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere",
+        "c": "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere",
+        "d": "Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of carbon dioxide in the atmosphere"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q066",
+      "questionNumber": 66,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly.",
+        "In the context of emerging communication technologies, which one of the following terms best applies to the above scenario?"
+      ],
+      "questionText": "When the alarm of your smartphone rings in the morning, you wake up and tap it to stop the alarm which causes your geyser to be switched on automatically. The smart mirror in your bathroom shows the day's weather and also indicates the level of water in your overhead tank. After you take some groceries from your refrigerator for making breakfast, it recognises the shortage of stock in it and places an order for the supply of fresh grocery items. When you step out of your house and lock the door, all lights, fans, geysers and AC machines get switched off automatically. On your way to office, your car warns you about traffic congestion ahead and suggests an alternative route, and if you are late for a meeting, it sends a message to your office accordingly. In the context of emerging communication technologies, which one of the following terms best applies to the above scenario?",
+      "options": {
+        "a": "Border Gateway Protocol",
+        "b": "Internet of Things",
+        "c": "Internet Protocol",
+        "d": "Virtual Private Network"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q067",
+      "questionNumber": 67,
+      "subject": "Economy",
+      "sectionGroup": "Infrastructure",
+      "microTopic": "Energy",
+      "statementLines": [
+        "With reference to solar power production in India, consider the following statements:",
+        "1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units.",
+        "2. The solar power tariffs are determined by the Solar Energy Corporation of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to solar power production in India, consider the following statements: 1. India is the third largest in the world in the manufacture of silicon wafers used in photovoltaic units. 2. The solar power tariffs are determined by the Solar Energy Corporation of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q068",
+      "questionNumber": 68,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Advent of Europeans, British Expansion, Anglo Wars",
+      "statementLines": [
+        "The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were"
+      ],
+      "questionText": "The staple commodities of export by the English East India Company from Bengal in the middle of the 18th century were",
+      "options": {
+        "a": "Raw cotton, oil-seeds and opium",
+        "b": "Sugar, salt, zinc and lead",
+        "c": "Copper, silver, gold, spices and tea",
+        "d": "Cotton, silk, saltpetre and opium"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q069",
+      "questionNumber": 69,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Gandhian Phase (Post-1917 till Partition, including NCM, CDM, QIM, Simon Commission, etc.)",
+      "statementLines": [
+        "Which one of the following is a very significant aspect of the Champaran Satyagraha?"
+      ],
+      "questionText": "Which one of the following is a very significant aspect of the Champaran Satyagraha?",
+      "options": {
+        "a": "Active all-India participation of lawyers, students and women in the National Movement",
+        "b": "Active involvement of Dalit and Tribal communities of India in the National Movement",
+        "c": "Joining of peasant unrest to India's National Movement",
+        "d": "Drastic decrease in the cultivation of plantation crops and commercial crops"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q070",
+      "questionNumber": 70,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Peasant & Working-Class Movements",
+      "statementLines": [
+        "Who among the following were the founders of the \"Hind Mazdoor Sabha\" established in 1948?"
+      ],
+      "questionText": "Who among the following were the founders of the \"Hind Mazdoor Sabha\" established in 1948?",
+      "options": {
+        "a": "B. Krishna Pillai, E.M.S. Namboodiripad and K.C. George",
+        "b": "Jayaprakash Narayan, Deen Dayal Upadhyay and M.N. Roy",
+        "c": "C.P. Ramaswamy Iyer, K. Kamaraj and Veeresalingam Pantulu",
+        "d": "Ashok Mehta, T.S. Ramanujam and G.G. Mehta"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q071",
+      "questionNumber": 71,
+      "subject": "History",
+      "sectionGroup": "Ancient",
+      "microTopic": "Buddhism, Jainism & Other Philosophies",
+      "statementLines": [
+        "With reference to the religious practices in India, the \"Sthanakvasi\" sect belongs to"
+      ],
+      "questionText": "With reference to the religious practices in India, the \"Sthanakvasi\" sect belongs to",
+      "options": {
+        "a": "Buddhism",
+        "b": "Jainism",
+        "c": "Vaishnavism",
+        "d": "Shaivism"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q072",
+      "questionNumber": 72,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "Architecture",
+      "statementLines": [
+        "With reference to the cultural history of India, consider the following statements:",
+        "1. White marble was used in making Buland Darwaza and Khankah at Fatehpur Sikri.",
+        "2. Red sandstone and marble were used in making Bara Imambara and Rumi Darwaza at Lucknow.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the cultural history of India, consider the following statements: 1. White marble was used in making Buland Darwaza and Khankah at Fatehpur Sikri. 2. Red sandstone and marble were used in making Bara Imambara and Rumi Darwaza at Lucknow. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q073",
+      "questionNumber": 73,
+      "subject": "History",
+      "sectionGroup": "Medieval",
+      "microTopic": "Medieval Literature & Books",
+      "statementLines": [
+        "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?"
+      ],
+      "questionText": "Which one of the following foreign travellers elaborately discussed about diamonds and diamond mines of India?",
+      "options": {
+        "a": "Francois Bernier",
+        "b": "Jean-Baptiste Tavernier",
+        "c": "Jean de Thevenot",
+        "d": "Abbe Barthelemy Carre"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q074",
+      "questionNumber": 74,
+      "subject": "History",
+      "sectionGroup": "Ancient",
+      "microTopic": "Buddhism, Jainism & Other Philosophies",
+      "statementLines": [
+        "With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?"
+      ],
+      "questionText": "With reference to Indian history, who among the following is a future Buddha, yet to come to save the world?",
+      "options": {
+        "a": "Avalokiteshvara",
+        "b": "Lokesvara",
+        "c": "Maitreya",
+        "d": "Padmapani"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q075",
+      "questionNumber": 75,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "Which one of the following statements does not apply to the system of Subsidiary Alliance introduced by Lord Wellesley?"
+      ],
+      "questionText": "Which one of the following statements does not apply to the system of Subsidiary Alliance introduced by Lord Wellesley?",
+      "options": {
+        "a": "To maintain a large standing army at other's expense",
+        "b": "To keep India safe from Napoleonic danger",
+        "c": "To secure a fixed income for the Company",
+        "d": "To establish British paramountcy over the Indian States"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q076",
+      "questionNumber": 76,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Development of Press, Education",
+      "statementLines": [
+        "Which of the following led to the introduction of English Education in India?",
+        "1. Charter Act of 1813",
+        "2. General Committee of Public Instruction, 1823",
+        "3. Orientalist and Anglicist Controversy",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following led to the introduction of English Education in India? 1. Charter Act of 1813 2. General Committee of Public Instruction, 1823 3. Orientalist and Anglicist Controversy Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q077",
+      "questionNumber": 77,
+      "subject": "Geography",
+      "sectionGroup": "World Geography",
+      "microTopic": "Rivers, Lakes",
+      "statementLines": [
+        "Which one of the following is an artificial lake?"
+      ],
+      "questionText": "Which one of the following is an artificial lake?",
+      "options": {
+        "a": "Kodaikanal (Tamil Nadu)",
+        "b": "Kolleru (Andhra Pradesh)",
+        "c": "Nainital (Uttarakhand)",
+        "d": "Renuka (Himachal Pradesh)"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q078",
+      "questionNumber": 78,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Education (NEP 2020, Skill Development)",
+      "statementLines": [
+        "With reference to Pradhan Mantri Kaushal Vikas Yojana, consider the following statements:",
+        "1. It is the flagship scheme of the Ministry of Labour and Employment.",
+        "2. It, among other things, will also impart training in soft skills, entrepreneurship, financial and digital literacy.",
+        "3. It aims to align the competencies of the unregulated workforce of the country to the National Skill Qualification Framework.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Pradhan Mantri Kaushal Vikas Yojana, consider the following statements: 1. It is the flagship scheme of the Ministry of Labour and Employment. 2. It, among other things, will also impart training in soft skills, entrepreneurship, financial and digital literacy. 3. It aims to align the competencies of the unregulated workforce of the country to the National Skill Qualification Framework. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q079",
+      "questionNumber": 79,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "In 1920, which of the following changed its name to \"Swarajya Sabha\"?"
+      ],
+      "questionText": "In 1920, which of the following changed its name to \"Swarajya Sabha\"?",
+      "options": {
+        "a": "All India Home Rule League",
+        "b": "Hindu Mahasabha",
+        "c": "South Indian Liberal Federation",
+        "d": "Servants of India Society"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q080",
+      "questionNumber": 80,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Socio-Religious Reform Movements",
+      "statementLines": [
+        "Which among the following events happened earliest?"
+      ],
+      "questionText": "Which among the following events happened earliest?",
+      "options": {
+        "a": "Swami Dayanand established Arya Samaj.",
+        "b": "Dinabandhu Mitra wrote Neeldarpan.",
+        "c": "Bankim Chandra Chattopadhyay wrote Anandmath.",
+        "d": "Satyendranath Tagore became the first Indian to succeed in the Indian Civil Services Examination."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q081",
+      "questionNumber": 81,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Soil Pollution, Solid Waste, Land Degradation",
+      "statementLines": [
+        "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds?",
+        "1. Decreased salinity in the river",
+        "2. Pollution of groundwater",
+        "3. Lowering of the water-table",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following is/are the possible consequence/s of heavy sand mining in riverbeds? 1. Decreased salinity in the river 2. Pollution of groundwater 3. Lowering of the water-table Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q082",
+      "questionNumber": 82,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Soils of India",
+      "statementLines": [
+        "With reference to agricultural soils, consider the following statements:",
+        "1. A high content of organic matter in soil drastically reduces its water holding capacity.",
+        "2. Soil does not play any role in the sulphur cycle.",
+        "3. Irrigation over a period of time can contribute to the salinization of some agricultural lands.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to agricultural soils, consider the following statements: 1. A high content of organic matter in soil drastically reduces its water holding capacity. 2. Soil does not play any role in the sulphur cycle. 3. Irrigation over a period of time can contribute to the salinization of some agricultural lands. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q083",
+      "questionNumber": 83,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Climate Change (UNFCCC, UNEP, REDD, etc.)",
+      "statementLines": [
+        "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at"
+      ],
+      "questionText": "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries transition towards greener and more inclusive economies, emerged at",
+      "options": {
+        "a": "The Earth Summit on Sustainable Development 2002, Johannesburg",
+        "b": "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro",
+        "c": "The United Nations Framework Convention on Climate Change 2015, Paris",
+        "d": "The World Sustainable Development Summit 2016, New Delhi"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q084",
+      "questionNumber": 84,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "\"3D printing\" has applications in which of the following?",
+        "1. Preparation of confectionery items",
+        "2. Manufacture of bionic ears",
+        "3. Automotive industry",
+        "4. Reconstructive surgeries",
+        "5. Data processing technologies",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "\"3D printing\" has applications in which of the following? 1. Preparation of confectionery items 2. Manufacture of bionic ears 3. Automotive industry 4. Reconstructive surgeries 5. Data processing technologies Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 3 and 4 only",
+        "b": "2, 3 and 5 only",
+        "c": "1 and 4 only",
+        "d": "1, 2, 3, 4 and 5"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q085",
+      "questionNumber": 85,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Physiography of India (Location, Division, Physiographic Regions)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Barren Island volcano is an active volcano located in the Indian territory.",
+        "2. Barren Island lies about 140 km east of Great Nicobar.",
+        "3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Barren Island volcano is an active volcano located in the Indian territory. 2. Barren Island lies about 140 km east of Great Nicobar. 3. The last time the Barren Island volcano erupted was in 1991 and it has remained inactive since then. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3",
+        "c": "3 only",
+        "d": "1 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q086",
+      "questionNumber": 86,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Why is a plant called Prosopis juliflora often mentioned in news?"
+      ],
+      "questionText": "Why is a plant called Prosopis juliflora often mentioned in news?",
+      "options": {
+        "a": "Its extract is widely used in cosmetics.",
+        "b": "It tends to reduce the biodiversity in the area in which it grows.",
+        "c": "Its extract is used in the synthesis of pesticides.",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q087",
+      "questionNumber": 87,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Most of the world's coral reefs are in tropical waters.",
+        "2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines.",
+        "3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Most of the world's coral reefs are in tropical waters. 2. More than one-third of the world's coral reefs are located in the territories of Australia, Indonesia and Philippines. 3. Coral reefs host far more number of animal phyla than those hosted by tropical rainforests. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q088",
+      "questionNumber": 88,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Climate Change (UNFCCC, UNEP, REDD, etc.)",
+      "statementLines": [
+        "\"Momentum for Change: Climate Neutral Now\" is an initiative launched by"
+      ],
+      "questionText": "\"Momentum for Change: Climate Neutral Now\" is an initiative launched by",
+      "options": {
+        "a": "The Intergovernmental Panel on Climate Change",
+        "b": "The UNEP Secretariat",
+        "c": "The UNFCCC Secretariat",
+        "d": "The World Meteorological Organization"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q089",
+      "questionNumber": 89,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Development of Press, Education",
+      "statementLines": [
+        "With reference to educational institutions during colonial rule in India, consider the following pairs:",
+        "1. Sanskrit College at Benaras - William Jones",
+        "2. Calcutta Madarsa - Warren Hastings",
+        "3. Fort William College - Arthur Wellesley",
+        "Which of the pairs given above is/are correct?"
+      ],
+      "questionText": "With reference to educational institutions during colonial rule in India, consider the following pairs: 1. Sanskrit College at Benaras - William Jones 2. Calcutta Madarsa - Warren Hastings 3. Fort William College - Arthur Wellesley Which of the pairs given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q090",
+      "questionNumber": 90,
+      "subject": "International Relations",
+      "sectionGroup": "Geopolitics, Security & Strategic Issues",
+      "microTopic": "Places in News and Geopolitical Hotspots (Ukraine, Taiwan Strait, Hormuz, etc.)",
+      "statementLines": [
+        "Consider the following pairs:",
+        "1. Catalonia - Spain",
+        "2. Crimea - Hungary",
+        "3. Mindanao - Philippines",
+        "4. Oromia - Nigeria",
+        "Which of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: 1. Catalonia - Spain 2. Crimea - Hungary 3. Mindanao - Philippines 4. Oromia - Nigeria Which of the pairs given above are correctly matched?",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "3 and 4 only",
+        "c": "1 and 3 only",
+        "d": "2 and 4 only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q091",
+      "questionNumber": 91,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Partition & Independence",
+      "statementLines": [
+        "Consider the following events:",
+        "1. The first democratically elected communist party government formed in a State in India.",
+        "2. India's then largest bank, 'Imperial Bank of India', was renamed 'State Bank of India'.",
+        "3. Air India was nationalised and became the national carrier.",
+        "4. Goa became a part of independent India.",
+        "Which of the following is the correct chronological sequence of the above events?"
+      ],
+      "questionText": "Consider the following events: 1. The first democratically elected communist party government formed in a State in India. 2. India's then largest bank, 'Imperial Bank of India', was renamed 'State Bank of India'. 3. Air India was nationalised and became the national carrier. 4. Goa became a part of independent India. Which of the following is the correct chronological sequence of the above events?",
+      "options": {
+        "a": "4-1-2-3",
+        "b": "3-2-1-4",
+        "c": "4-2-1-3",
+        "d": "3-1-2-4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q092",
+      "questionNumber": 92,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?"
+      ],
+      "questionText": "Right to Privacy is protected as an intrinsic part of Right to Life and Personal Liberty. Which of the following in the Constitution of India correctly and appropriately imply the above statement?",
+      "options": {
+        "a": "Article 14 and the provisions under the 42nd Amendment to the Constitution",
+        "b": "Article 17 and the Directive Principles of State Policy in Part IV",
+        "c": "Article 21 and the freedoms guaranteed in Part III",
+        "d": "Article 24 and the provisions under the 44th Amendment to the Constitution"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q093",
+      "questionNumber": 93,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "Agriculture (Schemes, APMC, MSP, Exports, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "1. Areca nut",
+        "2. Barley",
+        "3. Coffee",
+        "4. Finger millet",
+        "5. Groundnut",
+        "6. Sesamum",
+        "7. Turmeric",
+        "The Cabinet Committee on Economic Affairs has announced the Minimum Support Price for which of the above?"
+      ],
+      "questionText": "Consider the following: 1. Areca nut 2. Barley 3. Coffee 4. Finger millet 5. Groundnut 6. Sesamum 7. Turmeric The Cabinet Committee on Economic Affairs has announced the Minimum Support Price for which of the above?",
+      "options": {
+        "a": "1, 2, 3 and 7 only",
+        "b": "2, 4, 5 and 6 only",
+        "c": "1, 3, 4, 5 and 6 only",
+        "d": "1, 2, 3, 4, 5, 6 and 7"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q094",
+      "questionNumber": 94,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "National Park, Wildlife Sanctuary, Biosphere Reserve",
+      "statementLines": [
+        "In which one of the following States is Pakhui Wildlife Sanctuary located?"
+      ],
+      "questionText": "In which one of the following States is Pakhui Wildlife Sanctuary located?",
+      "options": {
+        "a": "Arunachal Pradesh",
+        "b": "Manipur",
+        "c": "Meghalaya",
+        "d": "Nagaland"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q095",
+      "questionNumber": 95,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to India's satellite launch vehicles, consider the following statements:",
+        "1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites.",
+        "2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth.",
+        "3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to India's satellite launch vehicles, consider the following statements: 1. PSLVs launch the satellites useful for Earth resources monitoring whereas GSLVs are designed mainly to launch communication satellites. 2. Satellites launched by PSLV appear to remain permanently fixed in the same position in the sky, as viewed from a particular location on Earth. 3. GSLV Mk III is a four-staged launch vehicle with the first and third stages using solid rocket motors; and the second and fourth stages using liquid rocket engines. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3",
+        "c": "1 and 2",
+        "d": "3 only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q096",
+      "questionNumber": 96,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to the governance of public sector banking in India, consider the following statements:",
+        "1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade.",
+        "2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the governance of public sector banking in India, consider the following statements: 1. Capital infusion into public sector banks by the Government of India has steadily increased in the last decade. 2. To put the public sector banks in order, the merger of associate banks with the parent State Bank of India has been affected. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q097",
+      "questionNumber": 97,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following items:",
+        "1. Cereal grains hulled",
+        "2. Chicken eggs cooked",
+        "3. Fish processed and canned",
+        "4. Newspapers containing advertising material",
+        "Which of the above items is/are exempted under GST (Goods and Services Tax)?"
+      ],
+      "questionText": "Consider the following items: 1. Cereal grains hulled 2. Chicken eggs cooked 3. Fish processed and canned 4. Newspapers containing advertising material Which of the above items is/are exempted under GST (Goods and Services Tax)?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1, 2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q098",
+      "questionNumber": 98,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Forest Acts (FRA 2006, IFA 1927, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, 2006.",
+        "2. For the first time in India, Baigas have been given Habitat Rights.",
+        "3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The definition of \"Critical Wildlife Habitat\" is incorporated in the Forest Rights Act, 2006. 2. For the first time in India, Baigas have been given Habitat Rights. 3. Union Ministry of Environment, Forest and Climate Change officially decides and declares Habitat Rights for Primitive and Vulnerable Tribal Groups in any part of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q099",
+      "questionNumber": 99,
+      "subject": "Agriculture",
+      "sectionGroup": "Technology & Modernization",
+      "microTopic": "Technology in Agriculture",
+      "statementLines": [
+        "Consider the following:",
+        "1. Birds",
+        "2. Dust blowing",
+        "3. Rain",
+        "4. Wind blowing",
+        "Which of the above spread plant diseases?"
+      ],
+      "questionText": "Consider the following: 1. Birds 2. Dust blowing 3. Rain 4. Wind blowing Which of the above spread plant diseases?",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "3 and 4 only",
+        "c": "1, 2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    },
+    {
+      "id": "upsc-cse-pyq-2018-gs1-q100",
+      "questionNumber": 100,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "Agriculture (Schemes, APMC, MSP, Exports, etc.)",
+      "statementLines": [
+        "With reference to organic farming in India, consider the following statements:",
+        "1. 'The National Programme for Organic Production' (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development.",
+        "2. 'The Agricultural and Processed Food Products Export Development Authority' (APEDA) functions as the Secretariat for the implementation of NPOP.",
+        "3. Sikkim has become India's first fully organic State.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to organic farming in India, consider the following statements: 1. 'The National Programme for Organic Production' (NPOP) is operated under the guidelines and directions of the Union Ministry of Rural Development. 2. 'The Agricultural and Processed Food Products Export Development Authority' (APEDA) functions as the Secretariat for the implementation of NPOP. 3. Sikkim has become India's first fully organic State. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "CSE 2018"
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "upsc_official",
+  "institute_name": "UPSC",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

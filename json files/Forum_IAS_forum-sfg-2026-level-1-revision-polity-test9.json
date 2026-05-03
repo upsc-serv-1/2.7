@@ -1,0 +1,1865 @@
+{
+  "id": "forum-sfg-2026-level-1-revision-polity-test9",
+  "title": "Test 9- L1 SFG 2026 - Revision - Polity",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Revision",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q01",
+      "questionNumber": 1,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "President, Vice President, Governor",
+      "statementLines": [
+        "With reference to the Indian polity, consider the following statements:",
+        "I. An Ordinance can amend any central Act.",
+        "II. An Ordinance can abridge a Fundamental Right.",
+        "III. An Ordinance can come into effect from a back date.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Indian polity, consider the following statements: I. An Ordinance can amend any central Act. II. An Ordinance can abridge a Fundamental Right. III. An Ordinance can come into effect from a back date. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct: **As per**Article 123 **of the Constitution, the President can promulgate an ordinance when Parliament is not in session.**An ordinance has the same force and effect as an Act of Parliament, and thus, it can **amend or repeal any existing Central Act. **\n\nStatement II is incorrect: **An ordinance is subject to the same constitutional limitation as an act of Parliament. Hence,**an ordinance cannot abridge or take away any of the fundamental rights. **\n\nStatement III is correct: As an ordinance has the same force and effect as an Act of Parliament, ordinance can come **into effect from a back date as the retrospective law. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q02",
+      "questionNumber": 2,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Salient Features of the Indian Constitution & Comparison with Other Countries",
+      "statementLines": [
+        "In the context of Indian Polity, consider the following statements:",
+        "Statement I: Each organ of the State in India has rigid and watertight functional boundaries.",
+        "Statement II: Article 50 of the Indian Constitution provides for separation of judiciary from executive.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Indian Polity, consider the following statements: Statement I: Each organ of the State in India has rigid and watertight functional boundaries. Statement II: Article 50 of the Indian Constitution provides for separation of judiciary from executive. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **\n\nStatement I is not correct: **In India alongwith Separation of power there are checks and balances as well.**The Indian **Constitution provides for a separation of powers among the legislature, executive, and judiciary, but the **separation is not rigid or absolute; rather, it is characterized by functional overlap and a system of checks and **balances. **\n\nStatement II is correct: As per Article 50 of the Indian Constitution, the State shall take steps to separate the **judiciary from the executive in the public services of the State. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q03",
+      "questionNumber": 3,
+      "subject": "Polity",
+      "sectionGroup": "Part I: The Union and its territory",
+      "microTopic": "Union, States and their Territory, UTs",
+      "statementLines": [
+        "India shall be a Union of erstwhile British Indian territories, Indian States, and other parts outside British India and Indian States as are willing to be a part of the Union. The above statement most closely corresponds to:"
+      ],
+      "questionText": "India shall be a Union of erstwhile British Indian territories, Indian States, and other parts outside British India and Indian States as are willing to be a part of the Union. The above statement most closely corresponds to:",
+      "options": {
+        "a": "Cabinet Mission Plan, 1946",
+        "b": "Indian Independence Act, 1947",
+        "c": "Objectives Resolution, 1946",
+        "d": "Government of India Act, 1935"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **Jawahar Lal Nehru moved the 'Objective Resolutions' in 1946 in the Constituent Assembly which laid down the fundamentals and philosophy of Constitutional structure.**The Resolution said: **This Constituent Assembly declares its firm and solemn resolve to proclaim India as an Independent Sovereign Republic and to draw up for her future governance a Constitution; WHEREIN the territories that now comprise British India, the territories that now form the Indian States, and **such other parts of India as are outside British India and the States as well as such other territories as are willing **to be constituted into the Independent Sovereign India, shall be a Union of them all. ** It was unanimously adopted on January 22, 1947. Some of the key points of Objectives Resolution-It proclaimed India an Independent Sovereign Republic, asserted popular sovereignty, guaranteed equality of status and opportunity, and provided adequate safeguards for minorities & depressed classes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/keps201.pdf (Page 20) Mastering Indian Polity by ForumIAS, 1st edition Chapter 3- Making of the Constitution Page: 17"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q04",
+      "questionNumber": 4,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "Consider the following pairs with reference to the Constitution of India: Personality Role in Constituent Assembly",
+        "I. B. N. Rau Constitutional Advisor of the Assembly.",
+        "II. S. N. Mukherjee Chief Draftsman of the Constitution in the Assembly. III .",
+        "V. T. Krishnamachari Vice-President of the Assembly. How many pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs with reference to the Constitution of India: Personality Role in Constituent Assembly I. B. N. Rau Constitutional Advisor of the Assembly. II. S. N. Mukherjee Chief Draftsman of the Constitution in the Assembly. III . V. T. Krishnamachari Vice-President of the Assembly. How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**Facts about the Constituent Assembly: **Pair I is correct: Sir B. N. Rau was the Constitutional (Legal) Advisor. **Pair II is correct: S. N. Mukherjee was the Chief Draftsman. **Pair III is correct: V. T. Krishnamachari **along with H. C. Mukherjee were the two**Vice-Presidents of the **Constituent Assembly.** Dr. Sachichidananda Sinha was the temporary President of the Assembly. Dr. Rajendra Prasad was elected (unanimously) as the President of the Assembly.\nH.V. R Iyengar was the Secretary of the Assembly. Prem Behari Narain Raizada was the calligrapher of the Constitution while Vasant Krishnan Vidya was the calligrapher for the Hindi version of the Constitution.\nNand Lal Bose (also decorated the Hindi version) & Beohar Rammanohar Sinha (also beautified and ornamented the Preamble) were responsible for beautification and decoration of the Constitution.\nElephant was the symbol (seal) for the Constitution.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q05",
+      "questionNumber": 5,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Constitutional Development",
+      "statementLines": [
+        "Which of the below acts was/were repealed once the Constitution of India came into effect on 26 January 1950?",
+        "I. Government of India Act, 1935",
+        "II. Indian Independence Act, 1947",
+        "III. Abolition of Privy Council Jurisdiction Act, 1949",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the below acts was/were repealed once the Constitution of India came into effect on 26 January 1950? I. Government of India Act, 1935 II. Indian Independence Act, 1947 III. Abolition of Privy Council Jurisdiction Act, 1949 Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**The Constitution of India was adopted and enacted on November 26, 1949.** Article 395 of the constitution of India **reads\n- **\"The Indian Independence Act, 1947, and the Government of India Act, 1935, together with all enactments **amending or supplementing the latter Act, but not including the Abolition of Privy Council Jurisdiction Act, 1949, **are hereby repealed.\" **Hence when the Constitution of India came into effect on 26 January 1950, 'The Indian Independence Act 1947' and 'The Government of India Act of 1935' were repealed but**'The Abolition of Privy Council Jurisdiction (1949)' was **allowed to be continued. **\n\nKnowledge Base: On November 26, 1949 itself, certain provisions also came into force. These were related to citizenship (Articles 5-9), elections (Articles 60, 324), definitions & interpretations (Articles 366-367), temporary and transitional provisions (Articles 379-380, 388, 391-392) and short title (Article 393).\nOther provisions of the Constitution, however, came into force on 26 January 1950. Thus, this day is said to be the day for the 'Commencement of the Constitution'. On this day in 1930, Purna Swaraj Day was celebrated following the resolution in the Lahore session of the Indian National Congress (INC).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q06",
+      "questionNumber": 6,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Salient Features of the Indian Constitution & Comparison with Other Countries",
+      "statementLines": [
+        "Consider the following provisions/features of the Constitution of India:",
+        "I. Single citizenship",
+        "II. Advisory Jurisdiction of the Supreme Court",
+        "III. Parliamentary privileges",
+        "IV. Amendment procedure of the Constitution",
+        "How many of the above provisions/features were borrowed from the British Constitution?"
+      ],
+      "questionText": "Consider the following provisions/features of the Constitution of India: I. Single citizenship II. Advisory Jurisdiction of the Supreme Court III. Parliamentary privileges IV. Amendment procedure of the Constitution How many of the above provisions/features were borrowed from the British Constitution?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**Options I and III are correct: **The features of the Constitution of India that have been borrowed from the British Constitution are: Parliamentary government Rule of Law Legislative procedure**Single Citizenship **Cabinet system Prerogative writs**Parliamentary privileges **Bicameralism** Option II is incorrect: The feature 'Advisory jurisdiction of the Supreme Court' was borrowed from the Canadian **Constitution (and not the British Constitution). **Other features borrowed from the Canadian Constitution were: Federation with a strong Centre, Vesting of residuary powers in the Centre, Appointment of state governors by the Centre.** Option IV is incorrect: **The provision of**'procedure for amendment of the Indian Constitution'**has been**borrowed **from the Constitution of South Africa (and not the British Constitution). **Another feature borrowed from the South African Constitution is the election of members of the Rajya Sabha. Knowledge Base:**Features borrowed from the Government of India Act, 1935:** Federal Scheme Judiciary Public Service Commissions Emergency provisions Administrative details",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q07",
+      "questionNumber": 7,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Directive Principles of State Policy DPSP",
+      "statementLines": [
+        "With reference to the Constitution of India, which of the following statements is/are correct about the State Election Commission (SEC)?",
+        "I. The State Election Commissioner is appointed by the President of India.",
+        "II. A State Election Commissioner can be removed only on the like grounds as a Judge of the High Court.",
+        "III. It is empowered for the preparation of electoral rolls and conduct of all elections to the Panchayats and Municipalities.",
+        "IV. The conditions of service of the State Election Commissioner are determined by the Election Commission of India.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Constitution of India, which of the following statements is/are correct about the State Election Commission (SEC)? I. The State Election Commissioner is appointed by the President of India. II. A State Election Commissioner can be removed only on the like grounds as a Judge of the High Court. III. It is empowered for the preparation of electoral rolls and conduct of all elections to the Panchayats and Municipalities. IV. The conditions of service of the State Election Commissioner are determined by the Election Commission of India. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II, III and IV",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The State Election Commission (SEC) is a**constitutional body established under Article 243K**of the Constitution of India.It is entrusted with ensuring**free and fair elections**to the**Panchayati Raj institutions**and**Urban Local Bodies**within a state.**\n\nStatement I is incorrect.**As per**Article 243K(1)**, the**State Election Commissioner**is**appointed by the Governor**, not by the President of India.**\n\nStatement II is correct:**Under**Article 243K(2)**, the**removal of the State Election Commissioner**is carried out**in the **same manner and on the same grounds**as a**Judge of a High Court**. A High Court judge can be removed from office only on grounds of**\"proved misbehaviour\" or \"incapacity,**\" requiring a motion passed by both Houses of Parliament with a special majority. Hence, a**State Election Commissioner can also **be removed on these grounds only. **\n\nStatement III is correct: Article 243K(1)**clearly states that the**superintendence, direction, and control of the **preparation of electoral rolls**and the**conduct of all elections to the Panchayats**lie with the State Election Commission. Also Article**243ZA**states that the superintendence, direction and control of the**preparation of electoral rolls for, and **the conduct of, all elections to the Municipalities**shall be vested in the State Election Commission**\n\nStatement IV is incorrect.**According to**Article 243K(2)**, the**conditions of service and tenure**of the State Election Commissioner are**determined by the Governor**, subject to the provisions of**any law made by the State Legislature**. The**Election Commission of India (ECI)**has**no role** in deciding these matters.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q08",
+      "questionNumber": 8,
+      "subject": "Polity",
+      "sectionGroup": "Part XX: Amendment of the Constitution",
+      "microTopic": "Amendment and Basic Structure",
+      "statementLines": [
+        "In the context of Kesavananda Bharti case (1973) consider the following statements:",
+        "I. This case was heard by the largest constitutional bench ever constituted till date by the Supreme court of India.",
+        "II. The Supreme Court in this case ensured that the Constitution remains a living document while at the same time preserving its fundamental values and principles.",
+        "III. The Supreme Court in this case ruled that Entry 97 of the Union List in the Seventh Schedule of the Indian Constitution which provides residuary powers to the Parliament also includes the subject of amendment to the Constitution.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "In the context of Kesavananda Bharti case (1973) consider the following statements: I. This case was heard by the largest constitutional bench ever constituted till date by the Supreme court of India. II. The Supreme Court in this case ensured that the Constitution remains a living document while at the same time preserving its fundamental values and principles. III. The Supreme Court in this case ruled that Entry 97 of the Union List in the Seventh Schedule of the Indian Constitution which provides residuary powers to the Parliament also includes the subject of amendment to the Constitution. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I only",
+        "c": "II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct: **The Kesavananda Bharati v/s State of Kerala of 1973 was a landmark case in Indian judiciary.**The case was decided by the largest bench in the history of the Supreme Court of India, consisting of 13 judges. **\n\nStatement II is correct: **As per the judgement in the case, Article 368 of the Indian Constitution contains not only the procedure for the amendment of the Constitution but also confers the power of amending the Constitution.**This **ensured that the Constitution remains a living document that is responsive to changing times.**But at the same time it held that the Constitution of India has a basic structure that cannot be altered even by a constitutional amendment. The basic structure doctrine holds that certain fundamental features of the Constitution, such as the supremacy of the Constitution, the rule of law, and the independence of the judiciary, cannot be amended or abrogated by the Parliament through a constitutional amendment.**Thus preserving its fundamental values and principles of the **Constitution as well.**The court held that the Parliament's amending power under**Article 368 is not unlimited**and that it cannot alter the basic structure of the Constitution.**Thus ensuring that the Constitution remains a living **document while at the same time preserving its fundamental values and principles. **\n\nStatement III is incorrect: **The amending power of the Constitution comes from Article 368 as per the judgement where the Parliament can amend the Constitution by way of addition, variation or repeal any provision of this Constitution.** As per the ruling in the case Entry 97 in List I of the Seventh Schedule of the Constitution does not **cover the subject of amendment of the Constitution. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q09",
+      "questionNumber": 9,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "Consider the following statements: The Preamble to the Constitution of India provides information about:",
+        "I. the source of authority of the Constitution",
+        "II. the nature of the Indian State",
+        "III. the objectives of the Constitution",
+        "IV. the date of commencement of the Constitution",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: The Preamble to the Constitution of India provides information about: I. the source of authority of the Constitution II. the nature of the Indian State III. the objectives of the Constitution IV. the date of commencement of the Constitution Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and III only",
+        "c": "I, III, and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Preamble is **inspired by the**Objectives Resolution**moved by**Jawaharlal Nehru**, and reflects the core ideals and aspirations of India's freedom struggle. Recognising its symbolic and guiding significance, the framers adopted the Preamble on**26 November 1949**, and it came into force with the Constitution on**26 January 1950**. The Preamble contains**four key components**.** Option I is correct: **The Preamble declares that the**people of India**are the ultimate**source of authority**, establishing the democratic foundation of the Constitution.** Option II is correct:**The Preamble defines the**nature of the Indian state**as**Sovereign, Socialist, Secular, **Democratic, and Republic**, highlighting India's independence, commitment to social and economic justice, religious neutrality, democratic governance, and republican character.** Option III is correct:**The Preamble lays down the**objectives**of**justice, liberty, equality, and fraternity**as the guiding ideals for creating a fair, free, and inclusive society.** Option IV is incorrect:**The Preamble specifies the**date of adoption (not commencement)**of the Constitution as**November 26, 1949.** It was 26th January when the Constitution of India fully became functional and hence this day is called the date of commencement of the Constitution of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q10",
+      "questionNumber": 10,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "Consider the following statements: With reference to the Constitution of India, the Preamble constitute limitations upon:",
+        "I. legislative function.",
+        "II. executive function.",
+        "Which of the above statements is/are correct?"
+      ],
+      "questionText": "Consider the following statements: With reference to the Constitution of India, the Preamble constitute limitations upon: I. legislative function. II. executive function. Which of the above statements is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Statements I and II are incorrect: **The Preamble is a part of the Indian Constitution. But the Preamble** can neither be **regarded as the source of any substantive power and is not legally enforceable in courts. Thus is neither a source **of any prohibition nor limitation on the legislative or the executive functions. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q11",
+      "questionNumber": 11,
+      "subject": "Polity",
+      "sectionGroup": "Part VIII & X: Union Territories and Scheduled Areas",
+      "microTopic": "Scheduled and Tribal Areas",
+      "statementLines": [
+        "With reference to \"Scheduled Areas' in India, consider the following statements:",
+        "1. Within a State, the notification of an area as Scheduled Area takes place through an Order of President.",
+        "2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block.",
+        "3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States.",
+        "How many of the above statements are correct?"
+      ],
+      "questionText": "With reference to \"Scheduled Areas' in India, consider the following statements: 1. Within a State, the notification of an area as Scheduled Area takes place through an Order of President. 2. The largest administrative unit forming the Scheduled Area is the District and the lowest is the cluster of villages in the Block. 3. The Chief Ministers of the concerned States are required to submit annual reports to the Union Home Ministry on the administration of Scheduled Areas in the States. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nStatement 1 is correct. **As per Article 244(1) of the Constitution's Fifth Schedule, \"**Scheduled Areas\" are areas**that the **President may declare to be such by order after**consultation with the Governor of that State.**\n\nStatement 2 is correct. The district is considered as the largest administrative unit **which forms the Scheduled Area while the lowest administrative unit is the cluster of villages in the Block.**\n\nStatement 3 is incorrect**. The Fifth Schedule to the Constitution of India states in para 3 that \"**the Governor of**each **State having Scheduled Areas therein shall annually,**or whenever so required by the President, make a report**to **the President regarding the administration of the**Scheduled Areas in that State **and the executive power of the Union shall extend to the giving of directions to the State as to the Administration of the said areas.\"",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q12",
+      "questionNumber": 12,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "The Original Constitution of India was neither typeset nor printed but was handwritten and calligraphed in both English and Hindi. It was calligraphed in English by:"
+      ],
+      "questionText": "The Original Constitution of India was neither typeset nor printed but was handwritten and calligraphed in both English and Hindi. It was calligraphed in English by:",
+      "options": {
+        "a": "Acharya Nandalal Bose",
+        "b": "A. Perumal",
+        "c": "Prem Behari Narain Raizada",
+        "d": "Vasant K. Vaidya"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The Constitution of India was neither typeset or printed but was handwritten and calligraphic in both English and Hindi.**It was calligraphed in English by Prem Behari Narayan Raizada and in Hindi by Vasant K. Vaidya. **\n\nKnowledge Base: Indian Constitution handcrafted by the artists of Shantiniketan under the guidance of Acharya Nandalal Bose. A. Perumal was one of the key artists involved in the making of the Constitution.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q13",
+      "questionNumber": 13,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "India became a fully sovereign nation on -"
+      ],
+      "questionText": "India became a fully sovereign nation on -",
+      "options": {
+        "a": "15 August 1947, when India attained Independence from British rule.",
+        "b": "2 September 1946, when the Interim Government of India was formed.",
+        "c": "26 January 1950, when the Constitution of India came into force.",
+        "d": "26 November 1949, when the Constituent Assembly adopted the Constitution of India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**Sovereignty of a Nation means possessing supreme independent authority by a nation, both-internally, to govern its affairs on its own without any external influence, and externally i.e.recognized internationally by other countries. \n\nOption a is incorrect: **India became independent on 15 August 1947,** but at that time it was still a Dominion under **the British Crown, with the British monarch as the nominal head of state. **\n\nOption b is incorrect: **On 2 September 1946, Interim Government was formed, but the Interim Government operated under Governor General appointed by the British Monarch. Hence it is incorrect to say India became a sovereign nation on 2 September 1946. \n\nOption c is correct: India attained full sovereignty in a republican form on 26 January 1950 when the Constitution **of India came into force, making India a sovereign democratic republic with no external authority over the **President of India, who was elected by the people of India. **\n\nOption d is incorrect: On 26th November 1949, the Constitution of India was adopted, but not yet enforced.** It was enforced on 26th January 1950, when all provision of the constitution was made functional. Hence this day is also called the day of commencement of the Constitution.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q14",
+      "questionNumber": 14,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Judiciary",
+      "statementLines": [
+        "Consider the following: The Parliament in India may by law:",
+        "I. increase the jurisdiction of the Supreme Court",
+        "II. extend the jurisdiction of the High Courts to include any Union Territory",
+        "III. increase the number of judges of the Supreme Court",
+        "IV. increase the number of judges of the High Courts",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following: The Parliament in India may by law: I. increase the jurisdiction of the Supreme Court II. extend the jurisdiction of the High Courts to include any Union Territory III. increase the number of judges of the Supreme Court IV. increase the number of judges of the High Courts Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The Indian Constitution empowers the Parliament to legislate on matters concerning the structure and jurisdiction of the higher judiciary, but not all such powers are with Parliament alone. Some powers lie with the President, who acts on the aid and advice of the Council of Ministers.**\n\nStatement I is correct**. Under**Article 138**,**Parliament may by law expand the jurisdiction and powers of the **Supreme Court**with respect to matters in the Union List or otherwise. This is a**clear legislative power**vested in Parliament, enabling it to extend the scope of the Court beyond what is originally provided in the Constitution.**\n\nStatement II is correct**. As per**Article 230 of the Indian Constitution**, Parliament may by law**extend the jurisdiction **of a High Court to**, or exclude the jurisdiction of a High Court from,**any Union territory. **\n\nStatement III is correct**.**Article 124(1)**authorises Parliament to increase the number of judges of the Supreme **Court**by law. For instance, the**Supreme Court (Number of Judges) Amendment Act, 2019**increased the strength from 30 to 33 judges.**\n\nStatement IV is incorrect**. As per**Article 216**, every High Court shall consist of a Chief Justice and such other Judges as the**President (not Parliament**)**may from time to time deem it necessary to appoint.**The President appoints judges based on consultation, but the strength of the High Court in a state is not decided through a parliamentary statute.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q15",
+      "questionNumber": 15,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "\"Political Justice\" as an objective of the Constitution of India is provided under:"
+      ],
+      "questionText": "\"Political Justice\" as an objective of the Constitution of India is provided under:",
+      "options": {
+        "a": "Fundamental Rights and Directive Principles of State policy only",
+        "b": "Preamble to the Constitution of India and Directive Principles of State policy only",
+        "c": "Fundamental Rights and the Preamble to the Constitution of India only",
+        "d": "Preamble to the Constitution of India, Fundamental Rights and the Directive Principles of State Policy."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**The Preamble**of the Constitution promises to secure**justice viz., social, economic and political **to all citizens. Political justice broadly refers to ensuring equal political participation, equal access to political opportunities, and fairness in the exercise of political power. It is reflected in provisions such as universal adult suffrage, equality before the law, and the rule of law. The**Fundamental Rights **especially related to the equality and freedoms**promote political justice**by guaranteeing political freedom, equality before the law, and the rule of law. The**Directive Principles of State Policy (DPSPs)**also promotes the goal of political freedom through**Article 38**, which directs the State to secure a social order ensuring**social, economic, and political justice**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q16",
+      "questionNumber": 16,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "President, Vice President, Governor",
+      "statementLines": [
+        "In the context of Presidential election in India, consider the following statements: The Chief Minister of a State with a bicameral legislature will not be part of the electoral college for the President if on the date of election the Chief Minister is:",
+        "I. a member of the Legislative council of state.",
+        "II. a member of the Legislative assembly of state but is yet to secure a vote of confidence in the house.",
+        "III. functioning in a caretaker capacity though the legislative assembly of the state has been dissolved.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "In the context of Presidential election in India, consider the following statements: The Chief Minister of a State with a bicameral legislature will not be part of the electoral college for the President if on the date of election the Chief Minister is: I. a member of the Legislative council of state. II. a member of the Legislative assembly of state but is yet to secure a vote of confidence in the house. III. functioning in a caretaker capacity though the legislative assembly of the state has been dissolved. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Electoral College of the President of India consists of the following: a) elected members of both the Houses of Parliament (Lok Sabha and Rajya Sabha) b) elected members of the State Legislative Assemblies. c) elected members of the Union Territories with legislatures, including the National Capital Territory of Delhi and the Union Territory of Puducherry. This was included in the Electoral College by the 70th Amendment, 1992. Note: Presently there is no Constitutional Amendment related to including the elected members of Jammu and Kashmir Legislative Assembly as part of the electoral college of President. Article 54 of the Indian Constitution needs to be amended to include the elected members of Jammu and Kashmir Legislative Assembly as part of the electoral college for electing the President.** Option I is correct:**The Chief of a state who is a member of the Legislative council of a state will not be part of the electoral college of the President.** Option II is incorrect: The chief minister of a state who is a member of the Legislative assembly of the state will be **part of the electoral college for the election of President. **Whether the chief minister secures the vote of confidence in the house (Legislative Assembly of state) has no impact on him/her being part of the electoral college.  Option III is correct: **If the Legislative Assembly of the state is dissolved then the members earlier elected in the assembly will not be part of the electoral college of electing the President.** Thus, the chief minister in a caretaker **capacity when the assembly is dissolved will not be part of the electoral college. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q17",
+      "questionNumber": 17,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "Arrange the following events in the correct chronological order of their occurrence from earliest to latest.",
+        "I. Launch of 'Operation Polo' by the Government of India.",
+        "II. Signing of Instrument of Accession by Maharaja Hari Singh of Jammu and Kashmir with India",
+        "III. Plebiscite in Junagadh on the question of its accession to India.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Arrange the following events in the correct chronological order of their occurrence from earliest to latest. I. Launch of 'Operation Polo' by the Government of India. II. Signing of Instrument of Accession by Maharaja Hari Singh of Jammu and Kashmir with India III. Plebiscite in Junagadh on the question of its accession to India. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I-II-III",
+        "b": "II-III-I",
+        "c": "III-II-I",
+        "d": "II-I-III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Indian Independence Act, 1947, allowed the princely states to either join India or join Pakistan, or remain independent. Of the 552 Princely States located within India's geographical boundaries, 549 acceded to the Indian Union. Three States-Hyderabad, Junagadh, and Jammu & Kashmir-initially refused to join India.**Option II: **The ruler of Jammu & Kashmir, Maharaja Hari Singh, preferred to remain independent after freedom from British rule. However, after the Pakistani invasion, he signed the 'Instrument of Accession' with India in October 1947.**Maharaja Hari Singh signed the Instrument of Accession on 26th October 1947,**formally joining Jammu and **Kashmir with the Indian Union.**Option III: **Junagadh, in 1947 was ruled by a Nawab who decided to accede to Pakistan despite having a predominantly Hindu population. India objected to this decision and launched a military campaign, leading to**a plebiscite in **February 1948**, where over 90% of the population voted to join India.**Option I: **After India's independence, the Nizam of Hyderabad wanted to remain independent and later expressed a desire to join Pakistan. In response, the Indian government launched a military operation called 'Operation Polo' in September 1948,**to merge Hyderabad into the Indian Union**.**The Indian Army entered Hyderabad on the morning **of September 13, 1948**. Operation Polo lasted less than four days.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q18",
+      "questionNumber": 18,
+      "subject": "Polity",
+      "sectionGroup": "Part I: The Union and its territory",
+      "microTopic": "Union, States and their Territory, UTs",
+      "statementLines": [
+        "In the context of Indian Polity, consider the following:",
+        "I. Creation of any new District in the State",
+        "II. Altering the name of any existing District in the State",
+        "III. Altering the boundaries of any existing District in the State. Which of the above action(s) can be taken by a State government without any involvement of the Central Government?"
+      ],
+      "questionText": "In the context of Indian Polity, consider the following: I. Creation of any new District in the State II. Altering the name of any existing District in the State III. Altering the boundaries of any existing District in the State. Which of the above action(s) can be taken by a State government without any involvement of the Central Government?",
+      "options": {
+        "a": "II and III only",
+        "b": "I only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Options I and III are correct. **The power to**create new districts or alter or abolish existing districts rests with the **State governments. **This can be accomplished either through an executive order or by passing a law in the State Assembly.**The Centre has no role to play in altering districts or creating new ones**. States have the autonomy to frame rules regarding this.** Option II is incorrect.**The process to change the name of a district begins with a local authority, such as a municipal corporation, proposing the name change. This proposal is then sent to the state government for approval. If the State Government approves,** then it sends the proposal to the Ministry of Home Affairs (MHA)**. The**Central government has a role when a State wants to change the name of a district or a railway station.**The State government's request to change the name of any district is sent by the Home Ministry to departments and agencies such as the Ministry of Earth Sciences, Intelligence Bureau, Department of Posts, Geographical Survey of India Sciences and the Railway Ministry seeking clearance.**A no-objection certificate may be issued**by the Central **government to the State government.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q19",
+      "questionNumber": 19,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "As per Article 13 of the Indian Constitution, Laws that are inconsistent with or in derogation of the fundamental rights shall be held void. In this context,consider the following:",
+        "I. Ordinances issued by the President of India",
+        "II. Laws made by the State Legislatures",
+        "III. Executive Orders of the Union Government",
+        "IV. Constitutional Amendments made under Article 368",
+        "V. Customs having the force of law",
+        "How many of the above are considered as 'Laws' as per Article 13 of the Constitution of India?"
+      ],
+      "questionText": "As per Article 13 of the Indian Constitution, Laws that are inconsistent with or in derogation of the fundamental rights shall be held void. In this context,consider the following: I. Ordinances issued by the President of India II. Laws made by the State Legislatures III. Executive Orders of the Union Government IV. Constitutional Amendments made under Article 368 V. Customs having the force of law How many of the above are considered as 'Laws' as per Article 13 of the Constitution of India?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Article 13 says that laws inconsistent with the Fundamental Rights of the citizens shall be void. It further says that the State shall not make any law which takes away or abridges the rights conferred by this Part (i.e Part III). Any law shall be void.** Option I is correct.**Article 13 (3) says that**\"law\" includes any Ordinance**, order, bye-law, rule, regulation, notification, custom or usage having the force of law in the territory of India. Thus, ordinances issued by the President or the Governor are considered as 'laws'.** Option II is correct**. Article 13(3)b)**encompasses laws passed or made by a Legislature or other competent authority **in the territory of India. **Option III and V are correct. **The 'law' under Article 13 also includes statutory instruments such as**orders, bylaws, **rules, regulations, and notifications, **as well as non-legislative sources of law, like** custom or usage having the force **of law in the territory of India. ** Option IV is incorrect. **Article 13(4) explicitly says that** \"Nothing in this article shall apply to any amendment of this **Constitution made under article 368.\" **This clause was inserted by the 24th Amendment, 1971. However, a constitutional amendment can be challenged if it violates the basic structure of the Constitution.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q20",
+      "questionNumber": 20,
+      "subject": "Polity",
+      "sectionGroup": "Part IX, IXA, IXB: Local Governments",
+      "microTopic": "Local Government Panchayats, Municipalities, Cooperative Societies",
+      "statementLines": [
+        "With reference to the powers of the Gram Sabha under the Panchayats (Extension to the Scheduled Areas) Act (PESA), 1996, consider the following:",
+        "I. It is empowered to approve a project for social and economic development before its implementation by the Panchayat at the village level.",
+        "II. It can review the performance of officers and recommend the suspension of those who fail to effectively implement government policies with respect to the PESA Act in the Scheduled Areas.",
+        "III. Its recommendation is mandatory prior to the grant of a mining lease for major minerals in the Scheduled Areas.",
+        "IV. It shall be responsible for the identification or selection of persons as beneficiaries under the poverty alleviation and other programmes.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the powers of the Gram Sabha under the Panchayats (Extension to the Scheduled Areas) Act (PESA), 1996, consider the following: I. It is empowered to approve a project for social and economic development before its implementation by the Panchayat at the village level. II. It can review the performance of officers and recommend the suspension of those who fail to effectively implement government policies with respect to the PESA Act in the Scheduled Areas. III. Its recommendation is mandatory prior to the grant of a mining lease for major minerals in the Scheduled Areas. IV. It shall be responsible for the identification or selection of persons as beneficiaries under the poverty alleviation and other programmes. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and IV only",
+        "b": "I, III and IV",
+        "c": "I and II only",
+        "d": "III and IV only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Panchayats (Extension to the Scheduled Areas) Act, 1996 (PESA) was enacted under**Article 243M(4)b)**of the Constitution. This Article empowers Parliament to extend the provisions of Part IX of the Constitution to Scheduled Areas with modifications. The PESA Act operationalizes**self-governance in tribal areas**, ensuring that local communities have a decisive role in governance and resource management.**\n\nStatement I is correct**. As per**Section 4(e)(i)**of the PESA Act, the**Gram Sabha shall approve the plans, programmes, **and projects for social and economic development before such plans are implemented**by the Panchayat at the village level. This ensures that development initiatives align with the local needs, customs, and priorities of tribal communities. It also acts as a check against top-down planning without community participation**\n\nStatement II is incorrect: The Gram Sabha does not have the power to review or recommend the suspension of **officers. **While the Gram Sabha is empowered to oversee and monitor the implementation of certain development plans and local policies, it does not have any authority over administrative or disciplinary actions against government officers.**\n\nStatement III is incorrect**. The**Gram Sabha's mandatory recommendation is required only for the grant of mining **leases for minor minerals**, not major minerals.**Section 4(k)**of the Act states that the**recommendation of the Gram **Sabha is mandatory prior to the grant of a prospecting license or mining lease for minor minerals**, and also for the use of land for developmental projects. The regulation of major minerals remains outside the purview of PESA and under central jurisdiction.**\n\nStatement IV is correct**. As per**Section 4(e)(ii)**, the**Gram Sabha shall be responsible for the identification or **selection of persons as beneficiaries under the poverty alleviation and other programmes**. This ensures that welfare benefits are not distributed arbitrarily or with political bias, and that**local knowledge**guides beneficiary selection. It reflects the Act's focus on**bottom-up governance and tribal autonomy**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q21",
+      "questionNumber": 21,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Constitutional Bodies",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India.",
+        "2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India. 2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement 1 is incorrect**: The**Attorney General for India **is appointed by the**President of India under Article 76 **of the Constitution and holds office during the pleasure of the President.**In the performance of his duties, **he has the right to an audience in all Courts in India as well as the**right to take part in the proceedings of Parliament without **the right to vote**. The Solicitor General of India has no such privilege.**\n\nStatement 2 is incorrect: **As**per Article 76, **the**Attorney General shall hold office during the pleasure of the **President **and shall receive such remuneration as the President may determine Conduct of Government Business. There is**no mention in the Indian Constitution of the need for him to submit his resignation when the Government **which appointed him resigns**.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q22",
+      "questionNumber": 22,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "With reference to Bharat Ratna Awards, consider the following statements:",
+        "I. These awards are given in recognition of exceptional service of the highest order in any field of human endeavour.",
+        "II. Government servants other than doctors and scientists are not eligible for the award.",
+        "III. These awards do not carry any monetary grants.",
+        "IV.",
+        "C. Rajagopalachari and Jawaharlal Nehru were the first recipients of Bharat Ratna Awards.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Bharat Ratna Awards, consider the following statements: I. These awards are given in recognition of exceptional service of the highest order in any field of human endeavour. II. Government servants other than doctors and scientists are not eligible for the award. III. These awards do not carry any monetary grants. IV. C. Rajagopalachari and Jawaharlal Nehru were the first recipients of Bharat Ratna Awards. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I, III and IV",
+        "c": "II and IV only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Bharat Ratna awards are the highest civilian honours in India, instituted in 1954 to both Indian and foreign citizens without distinction of race, occupation, position, or gender.**\n\nStatement I is correct:**The Bharat Ratna awards are conferred in recognition of \"exceptional service/performance **of the highest order\" in any field of human endeavour**. The award was originally limited to achievements in the fields of arts, literature, science, and public services but its scope was expanded in 2011 to include any field of human endeavour.**\n\nStatement II is incorrect:**The Bharat Ratna awards are conferred in recognition of exceptional service of the **highest order. Government servants are not barred from receiving the award. They are eligible for the award. **In case of Padma awards, Government servants including those working with PSUs, except doctors and scientists, **are not eligible for these Awards. **\n\nStatement III is correct: On conferment of the award, **the recipient receives a Sanad (certificate) signed by the President and a medallion but**it does not carry any monetary grant. **\n\nStatement IV is incorrect: The first recipients of the Bharat Ratna were C. Rajagopalachari, **Sarvepalli Radhakrishnan, and C. V. Raman, who was honoured in 1954**. However, Jawaharlal Nehru was honoured in 1955. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q23",
+      "questionNumber": 23,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "Under Article 19(2) of the Indian Constitution, the State can make any law to impose reasonable restrictions on the exercise of the right to Freedom of Speech and Expression:",
+        "I. in relation to Contempt of court.",
+        "II. in relation to Defamation.",
+        "III. in relation to Sedition.",
+        "IV. in relation to incitement to an offence.",
+        "V. in the interest of the Security of the state.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Under Article 19(2) of the Indian Constitution, the State can make any law to impose reasonable restrictions on the exercise of the right to Freedom of Speech and Expression: I. in relation to Contempt of court. II. in relation to Defamation. III. in relation to Sedition. IV. in relation to incitement to an offence. V. in the interest of the Security of the state. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, III, IV and V only",
+        "b": "II, III, IV and V only",
+        "c": "I, II, IV and V only",
+        "d": "I, II, III, IV and V"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Article 19 (1)a) of the Constitution of India guarantees \"the right to freedom of speech and expression\" to all its citizens. However, the right to freedom is not absolute and is subject to reasonable restrictions. These restrictions are imposed under Article 19(2) of the Constitution of India in the interests of the sovereignty and integrity of India,** the security of the State**, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court,**defamation**or**incitement to an offence. However, Sedition is not mentioned **explicitly as the ground **for imposition of reasonable restrictions under Article 19(2). Knowledge Base:**Key grounds under Article 19(2) of the Constitution of India: **1. Public Order:**Restrictions can be imposed to maintain public order, which includes preventing public disturbances, maintaining law and order, and ensuring the security of the State.**2. Security of the State:**The government can take measures to safeguard national security by preventing threats, espionage, and actions that undermine its authority.**3. Sovereignty and integrity of India:**Restrictions can be imposed to protect the sovereignty and territorial integrity of India from any actions that may threaten it.**4. Friendly relations with foreign states:**Restrictions can be imposed to maintain friendly relations with foreign states, which include preventing actions that might harm these relations or compromise national interests.**5. Decency or Morality:**To uphold standards of decency and morality, the government can regulate indecent or immoral acts that may harm society. Mastering Indian Polity**6. Contempt of Court:**To maintain the authority and dignity of the courts, the government can prevent actions that undermine their power and respect.**7. Defamation:**To prevent harm to individuals or groups, the government can limit the publication of material that may damage their reputation.**8. Incitement to an offence:** To prevent violence and criminal offences, the government can prohibit speech or actions that incite such harmful behaviour.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q24",
+      "questionNumber": 24,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "With reference to the Constitution of India, consider the following Fundamental rights:",
+        "I. Protection of life and personal liberty.",
+        "II. Freedom to manage religious affairs.",
+        "III. Prohibition of traffic in human beings and forced labour",
+        "IV. Equality of opportunity in matters of public employment",
+        "V. Right to reside and settle in any part of the territory of India",
+        "How many of the above given rights are available to both Indian and foreign citizens (excluding enemy aliens) in India?"
+      ],
+      "questionText": "With reference to the Constitution of India, consider the following Fundamental rights: I. Protection of life and personal liberty. II. Freedom to manage religious affairs. III. Prohibition of traffic in human beings and forced labour IV. Equality of opportunity in matters of public employment V. Right to reside and settle in any part of the territory of India How many of the above given rights are available to both Indian and foreign citizens (excluding enemy aliens) in India?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Fundamental Rights can be broadly categorised as (i) Rights exclusively available to Indian citizens. (ii) Rights available to all individuals regardless of their nationality. All rights in Part III of the Constitution of India, except under Articles 15, 16, 19, 29, and 30 are available to all persons, whether Indian citizens or foreign citizens.** Option I is correct: As per Article 21 of the Constitution**of India**, no person (which includes both Indian and foreign **citizens) shall be deprived of his life or personal liberty except according to procedure established by law. ** Option II is correct: As per Article 26 of the Constitution of India, all persons (both Indian and foreign citizens)**have the** freedom to manage religious affairs. ** Option III is correct: Article 23 of the Constitution of India prohibits the traffic in human beings and begar and **other similar forms of forced labour for both Indian and Foreign citizens **and any contravention of this provision shall be an offence punishable in accordance with law.  Option IV is incorrect: As per Article 16(1) of the Constitution of India, **there shall**be equality of opportunity for all **citizens**in matters relating to employment or appointment**to any office under the State. This right is**only available **to Indian citizens. ** Option V is incorrect: **As per Article 19(1)e) of the Constitution of India,** all Indian citizens (but not foreign citizens) **shall have the right to reside and settle in any part of the territory of India. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q25",
+      "questionNumber": 25,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Salient Features of the Indian Constitution & Comparison with Other Countries",
+      "statementLines": [
+        "With reference to Indian Polity, consider the following statements about 'Due Process of Law' and 'Procedure established by the Law':",
+        "I. The doctrine of 'Procedure Established by Law' originated in the British Constitution, whereas the doctrine of 'Due Process of Law' originated in the United States Constitution.",
+        "II. Both the terms are explicitly mentioned in Article 21 of the Indian Constitution.",
+        "III. Unlike the 'Procedure Established by Law', the 'Due Process of Law' protects individuals against arbitrary actions of both the executive and legislature.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Indian Polity, consider the following statements about 'Due Process of Law' and 'Procedure established by the Law': I. The doctrine of 'Procedure Established by Law' originated in the British Constitution, whereas the doctrine of 'Due Process of Law' originated in the United States Constitution. II. Both the terms are explicitly mentioned in Article 21 of the Indian Constitution. III. Unlike the 'Procedure Established by Law', the 'Due Process of Law' protects individuals against arbitrary actions of both the executive and legislature. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The \"Procedure Established by Law\" and \"Due Process of Law\" are two legal principles that protect individual rights and ensure the application of law in legal proceedings. In**Maneka Gandhi vs **Union of India (1978),**the Supreme Court broadened the scope of Article 21, introducing the concept that the \"procedure established by law\" must not be arbitrary, unfair, or unreasonable. Essentially, it incorporated elements of \"due process of law\" from American jurisprudence.**\n\nStatement I is correct: The doctrine of Procedure Established by Law traces its origin to the British Constitution,**whereas the**doctrine of Due Process of Law originated under the United States Constitution. **\n\nStatement II is incorrect: **Article 21 of the Indian Constitution declares that no person shall be deprived of his/ her life or personal liberty except according to procedure established by law.**Hence, Article 21 explicitly mentions **\"Procedure Established by Law,\" but it does not mention \"Due Process of Law.\" **The latter has been introduced in India through judicial interpretations by the Supreme Court, particularly in the case of Maneka Gandhi v. Union of India (1978).**\n\nStatement III is correct: The principle of Procedure Established by Law **protects individuals against arbitrary executive actions but not against legislative actions, whereas the **doctrine** of Due Process of Law protects **individuals against the arbitrary executive and legislative actions. **Under the Procedure established by law**, the court would only assess whether the legislature has followed the right procedure to form a law and whether executive has implemented the law in correct manner i.e. as per procedure established by law. It would not go into the legislative wisdom or rationale behind the formation of a specific law even if the law enacted goes against the principles of natural justice or equality.**While under the due process of law**, the court would not only check the procedural validity but also check that whether a law is just, fair and reasonable. In this case, court would also go behind the legislative wisdom of enacting a particular law. If a law is unjust & unfair then it can proclaim it be against the principles of natural justice thereby rejecting it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q26",
+      "questionNumber": 26,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Governance and Policies",
+      "statementLines": [
+        "With reference to prison administration in India, which of the following statements is/are correct?",
+        "I. The time period spent on parole is counted as part of the prisoner's total sentence.",
+        "II. A prisoner upon completion of a minimum years of imprisonment, has an absolute legal right to claim furlough.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to prison administration in India, which of the following statements is/are correct? I. The time period spent on parole is counted as part of the prisoner's total sentence. II. A prisoner upon completion of a minimum years of imprisonment, has an absolute legal right to claim furlough. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is incorrect:**Time spent on parole does not count toward the prisoner's total sentence **because parole is treated as a temporary suspension of imprisonment. The sentence period does not continue during parole, and the prisoner must complete the remaining term after returning. In contrast, a**prisoner on furlough **is**considered to be undergoing the sentence**, and the furlough period counts toward the sentence. \n\nStatement II is incorrect: **Most state prison rules prescribe a minimum period of actual imprisonment before a prisoner becomes eligible for furlough. Additionally, the Supreme court in the State of**Maharashtra v. Suresh **Pandurang Darvakar Case, **stated that a**person is entitled to apply for Furlough once he/she has served the **minimum years of sentence. But since furlough is not granted for any particular reason, it can be denied in the **interest of the society. Hence it is not an absolute legal right of an individual.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q27",
+      "questionNumber": 27,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "With reference to the Cultural and Educational Rights under Article 29 of the Indian Constitution, consider the following statements:",
+        "I. A citizen residing in territory of India being denied admission to an educational institution maintained by the State on the grounds only of sex is a violation of Article 29 of the Indian Constitution.",
+        "II. These rights are available subject to reasonable restrictions on grounds of public order or morality.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Cultural and Educational Rights under Article 29 of the Indian Constitution, consider the following statements: I. A citizen residing in territory of India being denied admission to an educational institution maintained by the State on the grounds only of sex is a violation of Article 29 of the Indian Constitution. II. These rights are available subject to reasonable restrictions on grounds of public order or morality. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Article 29**of the Indian Constitution**forms part of the Cultural and Educational Rights**(Article 29 and Article 30) guaranteed under Part III of the Constitution of India. Its primary purpose is to protect the distinct language, script, and culture of any section of citizens residing in India.**\n\nStatement I is incorrect:**As per Article 29(2) of the Indian Constitution -**No citizen shall be denied admission into **any educational institution**maintained by the State or**receiving aid out of State funds on grounds only of religion, **race, caste, language or any of them. It does not mention sex as one of the grounds. **Article 15(1) prohibits the discrimination by state against any citizen on grounds only of religion, race, caste, sex, place of birth or any of them.**Thus, in case the discrimination is only on grounds of sex or place of birth then it is a violation of Article 15 and not **Article 29**.**\n\nStatement II is incorrect: There is no such restriction on the grounds of public order or morality**under**the **constitution of India for rights under Article 29 i.e**right to conserve one's distinct language, script, or culture.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q28",
+      "questionNumber": 28,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Judiciary",
+      "statementLines": [
+        "Consider the following situations:",
+        "I. To enforce a contractual obligation arising out of a private contract.",
+        "II. To compel a public authority to perform a statutory duty that it has failed to perform.",
+        "III. To direct a tribunal to exercise its jurisdiction when it has declined to act.",
+        "In",
+        "how many of the above situations can a Writ of Mandamus be issued by the Supreme Court of India or any High Court?"
+      ],
+      "questionText": "Consider the following situations: I. To enforce a contractual obligation arising out of a private contract. II. To compel a public authority to perform a statutory duty that it has failed to perform. III. To direct a tribunal to exercise its jurisdiction when it has declined to act. In how many of the above situations can a Writ of Mandamus be issued by the Supreme Court of India or any High Court?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**writ of Mandamus**is one of the five constitutional writs empowered under**Article 32 (For Supreme Court) and **Article 226 (For High Court's) **of the Indian Constitution. The term Mandamus literally means \"**we command**.\" It is**issued by a court**to a public authority, government officials, corporation, or even a lower court and tribunals,**directing them to perform a public or statutory duty **which they are legally obliged to perform but have failed or refused to do. Mandamus acts as a powerful judicial remedy to prevent administrative inaction, arbitrariness, or refusal to exercise jurisdiction.** Option I is incorrect: Mandamus cannot be issued to enforce a contractual obligation arising out of a private **contract. **A writ of Mandamus is**issued only for the enforcement of public duties**. Private contractual obligations are civil matters and cannot be enforced through writs. Hence, Mandamus is not applicable here.** Option II is correct: Mandamus can be issued to compel a public authority to perform a statutory duty that it has **failed to perform. **This is the core purpose of Mandamus. If a statutory authority is legally bound to perform a public duty and it refuses to do so, the court can compel it through Mandamus.** Option III is correct: Mandamus can be issued to direct a tribunal to exercise its jurisdiction when it has declined **to do so. **Mandamus can be issued to tribunals to direct them to exercise their lawful jurisdiction when they unjustifiably refuse to act. Knowledge Base:**Various Other Situations Where the Writ of Mandamus Cannot Be Issued:**The writ of**Mandamus**is intended to enforce public duties, but there are specific circumstances where courts do**not**issue this writ. Mandamus**cannot**be issued in the following situations:**Against private individuals or private bodies**, since they do not perform public or statutory duties.**To enforce departmental or administrative instructions**that lack statutory force or do not arise from law.**Where the duty involved is discretionary and not mandatory.**Against the Chief Justice of a High Court acting in a judicial capacity.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q29",
+      "questionNumber": 29,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Directive Principles of State Policy DPSP",
+      "statementLines": [
+        "Consider the following Directive Principles of State Policy (DPSPs):",
+        "I. To ensure that children are given opportunities and facilities to develop in a healthy manner.",
+        "II. To provide free legal aid, by suitable legislation or schemes, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities.",
+        "III. To minimise the inequalities in income, and endeavour to eliminate inequalities in status amongst the individuals.",
+        "IV. To protect and improve the environment and to safeguard forests and wildlife of the country.",
+        "How many of the above Directive Principles were added to the Constitution by the 42nd Constitutional Amendment Act, 1976?"
+      ],
+      "questionText": "Consider the following Directive Principles of State Policy (DPSPs): I. To ensure that children are given opportunities and facilities to develop in a healthy manner. II. To provide free legal aid, by suitable legislation or schemes, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities. III. To minimise the inequalities in income, and endeavour to eliminate inequalities in status amongst the individuals. IV. To protect and improve the environment and to safeguard forests and wildlife of the country. How many of the above Directive Principles were added to the Constitution by the 42nd Constitutional Amendment Act, 1976?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**42nd Constitutional Amendment Act, 1976**is often called the \"Mini-Constitution\" because it made major changes to many parts of the Constitution, including the Directive Principles of State Policy (DPSPs). Under this amendment,**four new DPSPs were inserted for the first time:**1. Article 39(f) **- That children are given opportunities and facilities to develop in a healthy manner and in conditions of freedom and dignity and that childhood and youth are protected against exploitation and against moral and material abandonment -**To ensure that children are given opportunities and facilities to develop in a healthy **manner. Thus, Option I is correct. **2. Article 39A\n- **The State shall secure that the operation of the legal system promotes justice, on a basis of equal opportunity, and shall, in particular, provide free legal aid, by suitable legislation or schemes or in any other way, to ensure that opportunities for securing justice are not denied to any citizen by reason of economic or other disabilities**. **\n- To provide free legal aid, by suitable legislation or schemes, to ensure that opportunities for securing justice are **not denied to any citizen by reason of economic or other disabilities.Hence, Option II is correct **3. Article 43A**: The State shall take steps, by suitable legislation or in any other way, to secure the participation of workers in the management of undertakings, establishments or other organisations engaged in any industry.**4. Article 48A\n- **The State shall endeavour to protect and improve the environment and to safeguard the forests and wild life of the country.** To protect and improve the environment and to safeguard forests and wildlife of the **country. Therefore,\nOption IV is correct. ** Option III is incorrect:**To minimise the inequalities in income, and endeavour to eliminate inequalities in status **amongst the individuals. **This is**Article 38(2)**and it was**inserted by the 44th Constitutional Amendment Act, 1978**, not the 42nd. Knowledge Base:**DPSPs Added Through Amendment Acts (Other Than 42nd**and 44th** Amendment)**1. 86th Constitutional Amendment Act, 2002 **Modified DPSP:**Article 45**- Originally: Provision for free and compulsory education for children up to 14 years.**After the 86th Amendment**, Article 45 was changed to:**\"Provision for early childhood care and education for children below the age of six years.\"**This amendment made education for 6-14 years a**Fundamental Right (Article 21A)**, and shifted the DPSP focus toward early childhood care. 2**. 97th Constitutional Amendment Act, 2011**Added a new DPSP:**Article 43B**-**Promotion of cooperative societies. **The State shall promote the voluntary formation, autonomous functioning, democratic control, and professional management of cooperative societies. (**\n\nNote:**Part IXB was partly struck down by the Supreme Court, but**Article 43B remains valid** as a DPSP.)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q30",
+      "questionNumber": 30,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "In the context of Indian Polity, consider the following statements:",
+        "I. In the constituent assembly, the Munshi- Iyengar formula was adopted to decide the nature and scope of Uniform Civil Code in India.",
+        "II. As per Indian constitution, both the Parliament and the State Legislature have the power to enact law for implementation of Uniform Civil code.",
+        "III. A legislature of a state cannot introduce a bill relating to a Uniform Civil Code without obtaining prior approval of the President of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "In the context of Indian Polity, consider the following statements: I. In the constituent assembly, the Munshi- Iyengar formula was adopted to decide the nature and scope of Uniform Civil Code in India. II. As per Indian constitution, both the Parliament and the State Legislature have the power to enact law for implementation of Uniform Civil code. III. A legislature of a state cannot introduce a bill relating to a Uniform Civil Code without obtaining prior approval of the President of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III",
+        "b": "II only",
+        "c": "I and II",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Uniform Civil Code**(UCC) refers to a**common set of civil laws governing personal matters**such as marriage, divorce, inheritance, adoption, and succession for all citizens, irrespective of religion. Envisioned under**Article 44**of the Constitution as a**Directive Principle of State Policy**, the UCC aims to ensure that all citizens, regardless of their religion, are treated equally under a national civil code.**\n\nStatement I is incorrect:**The Munshi-Iyengar formula pertained to the official language of India, not the Uniform **Civil Code. **It designated Hindi in the Devanagari script as the official language of the Union, while also allowing English to continue for official purposes for a period of 15 years.**\n\nStatement II is correct: Both the Parliament and the State Legislature have the authority to legislate on Uniform **Civil Code (UCC)\n- related matters, as personal laws fall under Entry 5 of the Concurrent List in the Seventh **Schedule of the Constitution. **\n\nStatement III is incorrect: There is no requirement that the State Legislature must obtain prior approval of the **President of India to introduce a Bill relating to a Uniform Civil Code. ** Personal matters such as marriage, divorce, adoption, and succession fall under the Concurrent List, where both Parliament and State Legislatures can make laws.\nPresident's assent is required only if the State law is repugnant to an existing Central law (Article 254(2)), and even in such cases, it is not a 'prior approval', but post-passage assent.\nThus, a State Legislature can introduce and pass a UCC Bill on its own; presidential assent is not a mandatory precondition.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q31",
+      "questionNumber": 31,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Directive Principles of State Policy DPSP",
+      "statementLines": [
+        "Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)?",
+        "1. Preamble",
+        "2. Directive Principles of State Policy",
+        "3. Fundamental Duties",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Other than the Fundamental Rights, which of the following parts of the Constitution of India reflect/reflects the principles and provisions of the Universal Declaration of Human Rights (1948)? 1. Preamble 2. Directive Principles of State Policy 3. Fundamental Duties Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The Indian constitution was greatly influenced by the Universal Declaration of Human Rights, 1948. Part III which stands for Fundamental Rights and Part IV for Directive Principles of State Policy bear a close resemblance to the Universal Declaration of Human Rights. The Preamble also provides for social, economic, political, justice, as enshrined in UDHR and Article 28, 29 of UHDR, which resemble the Fundamental Duties. Knowledge Base:**Articles under Universal Declaration of Human Rights: **Articles 1 and 2 **reaffirms human dignity, equality and brotherhood.**Articles 3-11 **are the rights of the individual: the right to life, outlawing of slavery or torture, equality before the law, the right to a fair trial etc.**Articles 12-17 **includes freedom of movement, the right to a nationality, the right to marry and find a family, as well as the right to own property.**Articles 18-21 **are the spiritual and religious rights of individuals, such as freedom of thought and conscience (religion), the right to your own opinion, the right to peaceful assembly and association, and the right to vote and take part in government.**Articles 22-27 **includes the right to work, the right to rest and leisure, the right to a decent standard of living, and the right to education.**Articles 28-30 **remind us that rights come with obligations and that none of the rights mentioned in the UDHR can be used to violate the spirit of the United Nations.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2020"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q32",
+      "questionNumber": 32,
+      "subject": "Polity",
+      "sectionGroup": "Part XVIII: Emergency Provisions",
+      "microTopic": "Emergency Provisions",
+      "statementLines": [
+        "In the context of Indian Constitution, consider the following situations:",
+        "I. An emergency is proclaimed under Article 352 of the Constitution with respect to the whole of India.",
+        "II. The President's Rule is imposed in State X under Article 356 of the Constitution.",
+        "III. Proclamation of Financial Emergency under Article 360 of the Constitution with respect to the whole of India.",
+        "IV. The Legislative Assembly of State X passes a resolution with a two-third majority, requesting the Parliament to make laws on Subjects mentioned in the State list of the 7th schedule of the Constitution.",
+        "In",
+        "how many of the above mentioned situations, with respect to State X, the Parliament can legislate on a subject of the State List mentioned in the 7th schedule of the Indian Constitution?"
+      ],
+      "questionText": "In the context of Indian Constitution, consider the following situations: I. An emergency is proclaimed under Article 352 of the Constitution with respect to the whole of India. II. The President's Rule is imposed in State X under Article 356 of the Constitution. III. Proclamation of Financial Emergency under Article 360 of the Constitution with respect to the whole of India. IV. The Legislative Assembly of State X passes a resolution with a two-third majority, requesting the Parliament to make laws on Subjects mentioned in the State list of the 7th schedule of the Constitution. In how many of the above mentioned situations, with respect to State X, the Parliament can legislate on a subject of the State List mentioned in the 7th schedule of the Indian Constitution?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is correct. **Article 250**empowers the Parliament to legislate with respect to any matter in the State **List if a Proclamation of Emergency is in operation. **The Parliament can exercise this power only if a Proclamation of Emergency is in effect. Once the emergency ends, these laws cease to have effect after six months. Although, during a Proclamation of Emergency, the power of a state legislature to make laws on the same matter is not restricted.**\n\nStatement II is correct. When the President's rule is imposed in a State, the Parliament gains the **power to make laws related to matters in the State List**for that State. These laws remain in effect even after the President's rule ends. The duration of these laws is not limited to the duration of the President's rule, but they can be repealed, altered, or re-enacted by the state legislature.**\n\nStatement III is incorrect. **When the**proclamation of Financial Emergency is in operation, the Parliament does not **acquire the power to legislate on a subject in the State List. **\n\nStatement IV is incorrect. **Article 252 empowers the Parliament to legislate for two or more States with their consent. .**If the legislatures of two or more states pass resolutions**, requesting the Parliament to enact laws on a matter in the State List, then the Parliament can make laws for regulating that matter. The laws so enacted apply only to those states that have passed the resolutions. Any other state may adopt it by passing a resolution in its legislature.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q33",
+      "questionNumber": 33,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "In the context of Polity, consider the following statements:",
+        "Statement I: Socialism's aim is to reduce inequality and ensure fair distribution of wealth in society.",
+        "Statement II: In Socialism the State is described as a 'night-watchman' state.",
+        "Statement III: The means of production are primarily owned and regulated by the State for the common good in a Socialist system.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Polity, consider the following statements: Statement I: Socialism's aim is to reduce inequality and ensure fair distribution of wealth in society. Statement II: In Socialism the State is described as a 'night-watchman' state. Statement III: The means of production are primarily owned and regulated by the State for the common good in a Socialist system. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statements III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct: Socialism's aim is to reduce inequality and ensure fair distribution of wealth. **\n\nStatement II is incorrect: **A night watchman state is a type of government that operates with minimal powers. Its primary role is to maintain law and order while ensuring the protection of individuals from coercion and theft. This state is limited to essential functions, including the police, judicial system, prisons, and military. Capitalism is an economic system in which private individuals and enterprises own the means of production with the aim of maximizing profit.**In the Capitalist system, the role of the State is kept to a minimum, **as a 'night watchman.'**\n\nStatement III is correct and explains Statement I: Socialism is an economic and political system **where the means of production are owned and regulated by the community/state for the common good. Its aim is **to reduce inequality and ensure fair distribution of wealth. It allows some private property and can exist within **democracy. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q34",
+      "questionNumber": 34,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "In the context of Indian Polity, consider the following bills:",
+        "I. A bill that imposes restrictions on the freedom of trade, commerce or intercourse between the States.",
+        "II. A bill that alters the definition of \"agricultural income\" for the purposes of the enactments relating to Indian income-tax.",
+        "III. A bill that alters the area or boundary of a State.",
+        "IV. A bill that provides for the establishment of inter-state water disputes tribunals. As per the Constitution of India,",
+        "how many of the above bills can be introduced in the Parliament only on the recommendations of the President of India?"
+      ],
+      "questionText": "In the context of Indian Polity, consider the following bills: I. A bill that imposes restrictions on the freedom of trade, commerce or intercourse between the States. II. A bill that alters the definition of \"agricultural income\" for the purposes of the enactments relating to Indian income-tax. III. A bill that alters the area or boundary of a State. IV. A bill that provides for the establishment of inter-state water disputes tribunals. As per the Constitution of India, how many of the above bills can be introduced in the Parliament only on the recommendations of the President of India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Indian Constitution has made certain provisions to safeguard the interests of the States. To protect the financial interests of the States, the Constitution provides that certain bills can be introduced in Parliament only upon the recommendations of the President of India.** Option I is incorrect. Article 302 allows the Parliament**to impose such restrictions on the freedom of trade, commerce or intercourse between one State and another or within any part of the territory of India as may be required in the public interest. Such a bill**does not require the prior recommendation of the President for its introduction in the Parliament. ** Option II is correct. Any bill that alters the definition of \"agricultural income\" **as it pertains to Indian income tax laws**, necessitates the President's recommendation **for its introduction in the Parliament**. **Article 274 says that\n- **A Bill or amendment which varies the meaning of the expression \"agricultural income\" as defined for the purposes of the enactments relating to Indian income-tax can be introduced or moved in either House of Parliament only with the recommendation of the President.** Option III is correct. **A**bill that alters the area or boundary of a State can be introduced in the Parliament only on **the recommendations of the President of India. ** Option IV is incorrect. **A** bill that provides for the establishment of inter-state water disputes tribunals can be **introduced in the Parliament without the recommendations of the President of India. **\n\nKnowledge Base: Any bill that imposes or alters taxes or duties affecting states' interests requires the President's recommendation for its introduction in the Parliament.\nA Bill that impacts the principles governing the allocation of funds to states also needs the President's recommendation for its introduction in Parliament.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q35",
+      "questionNumber": 35,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Extra-Constitutional Bodies",
+      "statementLines": [
+        "With reference to various institutional bodies in India, consider the following information: Body Nature Members are appointed/nominate d by",
+        "I. Central Vigilance Commission Statutory body but non- constitutional President of India",
+        "II. National Commission for Women Statutory and constitutional body Central Government",
+        "III. State Human Rights Commission Statutory body but non- constitutional Governor In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to various institutional bodies in India, consider the following information: Body Nature Members are appointed/nominate d by I. Central Vigilance Commission Statutory body but non- constitutional President of India II. National Commission for Women Statutory and constitutional body Central Government III. State Human Rights Commission Statutory body but non- constitutional Governor In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. The Indian governance structure includes constitutional, statutory, and extra-constitutional (neither statutory nor constitutional) bodies. The nature of these institutions and their appointment mechanisms are defined by their founding instruments.**Row I is correct**. The**Central Vigilance Commission (CVC)**is a**statutory body**established by the**Central Vigilance **Commission Act, 2003**. It is**not a constitutional body**. The**President of India**appoints the Central Vigilance Commissioner and Vigilance Commissioners by warrant under his hand and seal. The appointment is made**on the **recommendation of a three-member committee**consisting of The**Prime Minister**(Chairperson), The**Union **Minister of Home Affairs**, and The**Leader of Opposition in the Lok Sabha**.**Row II is incorrect**. The**National Commission for Women (NCW)**is a**statutory body**. It was established in 1992 under the**National Commission for Women Act, 1990**. However, it is**not a constitutional body**as it does not derive its existence from any article of the Constitution. The members of the commission are appointed by the**Central **Government**.**Row III is correct**. The**State Human Rights Commission**is a**statutory body**, established under the**Protection of **Human Rights Act, 1993**. It is**not a constitutional body**. The members are appointed by the**Governor**, but the Governor acts on the**recommendation of a committee**. This committee includes the**Chief Minister**, the**Speaker of **the Legislative Assembly**, the**State Home Minister**, and the**Leader of the Opposition in the Legislative Assembly**.\nProvided further that where there is a Legislative Council in a State, the Chairman of that Council and the Leader of the Opposition in that Council shall also be members of the Committee",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q36",
+      "questionNumber": 36,
+      "subject": "Polity",
+      "sectionGroup": "Part XVIII: Emergency Provisions",
+      "microTopic": "Emergency Provisions",
+      "statementLines": [
+        "With regard to the effects of proclamation of Emergency under Article 352 on the ground of armed rebellion of the Indian Constitution, on the Fundamental Rights, consider the following statements:",
+        "I. Fundamental Rights under Article 19 are automatically suspended upon the proclamation of such an emergency.",
+        "II. The right to move to the court with respect to protection in respect of conviction for offences under Article 20 cannot be suspended during the proclamation of such an emergency.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With regard to the effects of proclamation of Emergency under Article 352 on the ground of armed rebellion of the Indian Constitution, on the Fundamental Rights, consider the following statements: I. Fundamental Rights under Article 19 are automatically suspended upon the proclamation of such an emergency. II. The right to move to the court with respect to protection in respect of conviction for offences under Article 20 cannot be suspended during the proclamation of such an emergency. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nStatement I is incorrect.**Under**Article 358**, the six Fundamental Rights under Article 19 get**automatically suspended **when the National Emergency is declared on the grounds of** war or external aggression**. As per the changes made by the**44th Constitutional Amendment, 1978**Article 19**cannot be suspended**if the Emergency** is declared on the **ground of armed rebellion**. Thus as the context says the ground is armed rebellion, so Article 19 would not be automatically suspended.**\n\nStatement II is correct.**Under**Article 359**the President through a Presidential order may suspend the right to move court for enforcement of Fundamental Rights. But after the 44th Amendment the rights under**Articles 20 (protection **against arbitrary conviction) and 21 (right to life and personal liberty) cannot be suspended** and remain enforceable even during a National Emergency. Thus, the right to move to the court with respect to protection in respect of conviction for offences under Article 20 cannot be suspended during the proclamation of emergency under Article 352 on the grounds of armed rebellion.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q37",
+      "questionNumber": 37,
+      "subject": "Polity",
+      "sectionGroup": "Part XVIII: Emergency Provisions",
+      "microTopic": "Emergency Provisions",
+      "statementLines": [
+        "In which of the following situations would the imposition of President's Rule in a state under Article 356 be constitutionally justified? the opposition is demanding dismissal of the State government. willing to form the government. Universal Health scheme for the citizens launched by the Centre. and has challenged the order in Higher court."
+      ],
+      "questionText": "In which of the following situations would the imposition of President's Rule in a state under Article 356 be constitutionally justified? the opposition is demanding dismissal of the State government. willing to form the government. Universal Health scheme for the citizens launched by the Centre. and has challenged the order in Higher court.",
+      "options": {
+        "a": "Two members of the State legislative assembly belonging to the opposition party have been killed by criminals and",
+        "b": "No political party has secured a majority in the recent elections of the State Legislative Assembly and no party is",
+        "c": "Different political parties are ruling in the State and at the Centre and the State government has opted out of the",
+        "d": "In the water dispute between the two States, one State government refused to follow the decision of the tribunal"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **Article 356 of the Indian Constitution empowers the President to impose President's Rule in a state if he is satisfied that the governance in that state cannot be carried on in accordance with the provisions of the Constitution. The Supreme Court's judgment in the S.R. Bommai case (1994) laid down clear guidelines to prevent its misuse.**\n\nOption a is incorrect: **Internal disturbances, maladministration in the state doesnot amount to imposition of President's rule.** Thus the scenario is a law and order problem which doesnot amount to imposition of President's **rule. **\n\nOption b is correct: **When after the general elections to the assembly no political party has secured a majority no party is willing to form the government i.e.** it is a case of hung assembly. In that scenario, President's rule can be **imposed under Article 356 of the Indian Constitution in the state. **Option c and d are incorrect: **These scenarios donot reflect the breakdown in the constitutional machinery of the State. State opting out of any scheme of the Central government, maybe because at the state level already they have such a scheme. Also a decision of tribunal can be challenged because of any reason.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q38",
+      "questionNumber": 38,
+      "subject": "Polity",
+      "sectionGroup": "Institutions & Governance",
+      "microTopic": "Constitutional Bodies",
+      "statementLines": [
+        "Consider the following statements regarding the Comptroller and Auditor General (CAG) of India:",
+        "I. His/her salary and other conditions of service are determined by the President of India.",
+        "II. The administrative expenses of the office of Comptroller and Auditor General are charged upon the Consolidated Fund of India.",
+        "III. S/he shall only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Comptroller and Auditor General (CAG) of India: I. His/her salary and other conditions of service are determined by the President of India. II. The administrative expenses of the office of Comptroller and Auditor General are charged upon the Consolidated Fund of India. III. S/he shall only be removed from office in like manner and on the like grounds as a Judge of the Supreme Court. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. The office of the**Comptroller and Auditor General (CAG) of India**is a cornerstone of India's financial oversight architecture. It is a**constitutional authority**, established under**Article 148 of the Constitution**, tasked with auditing the finances of the Union and State governments and other public authorities. The Constitution provides the CAG with a secure tenure, financial independence, and clearly defined powers and responsibilities, enabling it to function autonomously and uphold transparency and accountability in public finance.**\n\nStatement I is incorrect**. According to**Article 148(3)**of the Constitution, the**salary and other conditions of service of **the CAG**are to be**determined by the Parliament by law **. Until Parliament makes such laws, they are governed by the provisions in the**Second Schedule**of the Constitution. Importantly, the Constitution also provides that**neither the **salary nor the rights of the CAG**in respect of**leave, pension, or retirement age**shall be**varied to his disadvantage**after appointment. This acts as a**constitutional safeguard**to ensure the**independence and impartiality**of the office. Therefore, the**President has no discretionary power**to alter the CAG's service conditions, as these are governed by**Parliament and constitutional protections**, not by executive discretion.**\n\nStatement II is correct**.**Article 148(6)**of the Constitution provides that**all administrative expenses of the CAG's **office**, including**salaries, allowances, and pensions**, shall be**charged upon the Consolidated Fund of India**. This ensures the**financial independence**of the office and protects it from executive interference.**\n\nStatement III is correct**. As per**Article 148(1)**, the**CAG shall only be removed from office in like manner and on the **like grounds as a Judge of the Supreme Court.**. This involves a**complex impeachment process**by Parliament on grounds of**proved misbehaviour or incapacity**, ensuring a**high degree of security of tenure**. This provision reinforces the**independence**of the CAG.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q39",
+      "questionNumber": 39,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "President, Vice President, Governor",
+      "statementLines": [
+        "In the context of the President of India, consider the following statements:",
+        "I. S/he notifies for the general election to the House of People.",
+        "II. S/he is the final authority with regards to the disqualification of a Member of Parliament if he/she is an undischarged solvent.",
+        "III. S/he can make regulations for the peace, progress and good government of the Union Territory of Ladakh.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "In the context of the President of India, consider the following statements: I. S/he notifies for the general election to the House of People. II. S/he is the final authority with regards to the disqualification of a Member of Parliament if he/she is an undischarged solvent. III. S/he can make regulations for the peace, progress and good government of the Union Territory of Ladakh. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**\n\nStatement I is correct.**The**President of India issues the notification for the general elections to the House of **People**, on the dates recommended by the Election Commission of India. The notification is published in the Gazette of India. The EC's recommendations are first sent to the law ministry. Subsequently, the ministry prepares a note for the Cabinet for approval, and then the recommendations are forwarded to the President.**\n\nStatement II is correct.**Article 103**of Indian Constitution provides that if any question arises about the**disqualification of a Member of Parliament under provisions of clause (1) of Article 102**, then the question shall be referred for the decision of the**President**and his**decision shall be final**. However, the President must act in consultation with the Election Commission of India. Clause (1) of Article 102 provides: A person shall be disqualified for being chosen as, and for being, a member of either House of Parliament - - (a) if he holds any office of profit under the Government of India or the Government of any State, other than an office declared by Parliament by law not to disqualify its holder; (b) if he is of unsound mind and stands so declared by a competent court; (c) if he is an undischarged insolvent; (d) if he is not a citizen of India, or has voluntarily acquired the citizenship of a foreign State, or is under any acknowledgement of allegiance or adherence to a foreign State; (e) if he is so disqualified by or under any law made by Parliament.**\n\nStatement III is correct.**According Section 58 (2) to the Reorganization of Jammu Kashmir Act 2019,**the**President **of India**has the power to make regulations for**peace, progress and good government,**under Article 240 of the Constitution of India, for the Union Territories of**Ladakh**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q40",
+      "questionNumber": 40,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Prime Minister, Chief Minister, Council of Ministers, Cabinet Executive",
+      "statementLines": [
+        "Which of the following statements is incorrect about the Prime Minister of India? S/he is the-"
+      ],
+      "questionText": "Which of the following statements is incorrect about the Prime Minister of India? S/he is the-",
+      "options": {
+        "a": "Head of the political council of Indian Nuclear Command Authority.",
+        "b": "Chairman of the National Ganga Council.",
+        "c": "Chairman of the NITI Aayog.",
+        "d": "Supreme commander of the Indian Armed Forces."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Statement a is correct.**The Nuclear Command Authority is headed by the Prime Minister of India to ensure civilian and democratic control over nuclear weapons.**Statement b is correct. **The National Ganga Council is chaired by the Prime Minister. It has been given overall responsibility for the superintendence of pollution prevention and rejuvenation of River Ganga Basin, including Ganga and its tributaries.**Statement c is correct.**NITI Aayog is the premier policy think tank of the Government of India, established on January 1, 2015. The**ex-officio chairman of NITI Aayog is the Prime Minister of India. **Statement d is incorrect. It is the President of India, and not the Prime Minister, **who is the chief commander of Armed Forces in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q41",
+      "questionNumber": 41,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Prime Minister, Chief Minister, Council of Ministers, Cabinet Executive",
+      "statementLines": [
+        "With reference to the Union Government, consider the following statements:",
+        "1. The Department of Revenue is responsible for the preparation of the Union Budget that is presented to the Parliament.",
+        "2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.",
+        "3. All the disbursements made from Public Account also need the authorization from the Parliament of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Union Government, consider the following statements: 1. The Department of Revenue is responsible for the preparation of the Union Budget that is presented to the Parliament. 2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India. 3. All the disbursements made from Public Account also need the authorization from the Parliament of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**\n\nStatement 1 is incorrect.**The Budget Division of the Department of Economic Affairs (DEA) (and not the department of revenue) in the finance ministry is the nodal body responsible for producing the Budget.**\n\nStatement 2 is correct.**The Constitution (under article 114) states that 'no money shall be withdrawn from the Consolidated Fund of India except under appropriation made by law'. Accordingly, an appropriation bill is introduced in the parliament to provide for the appropriation, out of the Consolidated Fund of India. It should be noted in this context that the voting of demands for grants is the exclusive privilege of the Lok Sabha, that is, the Rajya Sabha has no power of voting the demands.**\n\nStatement 3 is incorrect.** Provident Fund deposits, savings bank deposits, remittances etc. are credited to the Public Account and this account is operated by the executive action i.e., payment from this account can be made without Parliamentary appropriation.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2015,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q42",
+      "questionNumber": 42,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "State Legislatures Types, Committees, Procedures, Bills, etc.",
+      "statementLines": [
+        "With reference to a state in India, consider the following scenario:",
+        "I. Recommending to the President for imposition of President's Rule in the state.",
+        "II. Determining the amount payable by the Sixth Schedule states to the autonomous district councils.",
+        "III. Reserving a bill passed by the State Legislature for the consideration of the President.",
+        "IV. Appointment of a Chief Minister when no party has a clear majority in the State Legislative assembly.",
+        "In",
+        "how many of the above given situations are discretionary powers of a Governor of a State explicitly provided under the Constitution of India?"
+      ],
+      "questionText": "With reference to a state in India, consider the following scenario: I. Recommending to the President for imposition of President's Rule in the state. II. Determining the amount payable by the Sixth Schedule states to the autonomous district councils. III. Reserving a bill passed by the State Legislature for the consideration of the President. IV. Appointment of a Chief Minister when no party has a clear majority in the State Legislative assembly. In how many of the above given situations are discretionary powers of a Governor of a State explicitly provided under the Constitution of India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The discretionary powers of the Governor are the powers that he/she can exercise independently, without being bound by the advice of the Council of Ministers. These powers are outlined in the Indian Constitution and are exercised in specific situations where there is no clear constitutional provision or when the Governor must act in the best interests of the state.** Option I is correct: Recommending to the President for the imposition of the President's rule in the state: **Type: Constitutional Discretionary Power **This power is explicitly provided for in the Constitution (Article 356).**The Governor has the constitutional authority to recommend the imposition of President's Rule in a state in situations where there is a breakdown of constitutional machinery.** Option II is correct: Determining the amount payable by the Sixth Schedule States to the autonomous tribal **district councils. **Type: Constitutional discretionary power **This** power grants the Governor the authority to determine the amount payable by certain states under the **Sixth Schedule**of the Indian Constitution to autonomous Tribal District Councils as royalties from mineral exploration licenses. The Sixth Schedule provides for special provisions for the administration of tribal areas in the states of Assam, Meghalaya, Tripura, and Mizoram. The Governor's role in determining the royalties helps in ensuring fair distribution of revenues from mineral resources to these autonomous tribal councils.** Option III is correct: **Reserving a bill passed by the State Legislature for the consideration of the President.**Type: Constitutional Discretionary Power **As per Article 200 of the Constitution of India**, the governor can reserve a bill for the President's consideration without the advice of the council of ministers.** Option IV is incorrect: Appointment of a Chief Minister when no party has a clear majority in the State Legislative **Assembly: **Type: Situational Discretionary Power ** This power is situational discretionary because it arises in specific political scenarios where no single party secures a clear majority in the state legislative assembly or in cases of sudden demise of the incumbent Chief Minister without an obvious successor. The Governor exercises discretion to appoint a Chief Minister based on the prevailing political circumstances.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q43",
+      "questionNumber": 43,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "In the context of Indian Constitution, consider the following statements:",
+        "Statement I: Every child in India between the age of six and fourteen years has a right to free and compulsory education.",
+        "Statement II: It is the fundamental duty of a parent to provide opportunities for education to his/her child who is between the age of six and fourteen years.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Indian Constitution, consider the following statements: Statement I: Every child in India between the age of six and fourteen years has a right to free and compulsory education. Statement II: It is the fundamental duty of a parent to provide opportunities for education to his/her child who is between the age of six and fourteen years. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **\n\nStatement I is correct: **As per Article 21A of the Indian Constitution-the State shall provide free and compulsory education to all children of the age of six to fourteen years in such manner as the State may, by law, determine.**Thus **every child in India between the age of six and fourteen years have a right to free and compulsory education. **\n\nStatement II is correct: As per Article 51A, the 11th Fundamental duty is\n- **who is a parent or guardian to provide opportunities for education to his child or, as the case may be, a ward between the age of six and fourteen years.**Statement II has no relation with\nStatement I:** The Ist statement talks about right of a child, but the IInd statement is talking about the duty of a parent towards the child. Thus Statement II doesnot explain statement I.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q44",
+      "questionNumber": 44,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "With reference to the Fundamental rights, consider the following statements regarding Article 18 of the Constitution of India:",
+        "I. An Indian citizen can accept a title from a foreign State only with the prior approval of the President of India.",
+        "II. An Indian citizen holding an office profit under the Indian Government can accept any present from a foreign State only with the prior approval of the President of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Fundamental rights, consider the following statements regarding Article 18 of the Constitution of India: I. An Indian citizen can accept a title from a foreign State only with the prior approval of the President of India. II. An Indian citizen holding an office profit under the Indian Government can accept any present from a foreign State only with the prior approval of the President of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect: **As per** Article 18(2) **of the Constitution of India,**no Indian citizen is allowed to accept any **title from any foreign State. **\n\nStatement II is correct: As per Article 18(4) **of Constitution of India, any person (both Indian and foreign citizen) holding any office of profit under the Indian State shall accept any present, emolument, or office of any kind from any other foreign State only with the prior consent of the President of India.** Thus, Indian citizen while holding office **profit under the Union government can accept present from foreign state if he/she gets a prior consent of the **President of India. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q45",
+      "questionNumber": 45,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to the concept of Office of Profit, which of the following statements is incorrect? profit. of holding an office of profit."
+      ],
+      "questionText": "With reference to the concept of Office of Profit, which of the following statements is incorrect? profit. of holding an office of profit.",
+      "options": {
+        "a": "The concept of \"Office of Profit\" is rooted in the Doctrine of Separation of Powers.",
+        "b": "The Representation of the People Act, 1951 provides the legal definition of 'Office of Profit'.",
+        "c": "As per Indian constitution, the office of a Minister held by a Member of Parliament is not considered an office of",
+        "d": "The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts from disqualification on the grounds"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The concept of \"Office of Profit\" relates to a position held by public representatives that may provide financial gain or benefit, the amount of which may even be immaterial.**Statement a is correct: The fundamental idea behind disqualifying individuals for holding any office of profit is **rooted in the Doctrine of Separation of Power and **aims to prevent conflicts of interest between the duties and interests of elected members.**Statement b is incorrect:**The**Representation of the People Act, 1951**does not explicitly define the term**\"Office of **Profit\"**, but indirectly addresses the concept in the context of disqualification of elected representatives. As there is no legal definition of \"Office of Profit\" in India, the Supreme Court, in**Gurugobinda Basu vs Sankari Prasad Ghosal **(1963)**, laid down the**\"test of appointment\"**to determine whether a position constitutes an office of profit.**Statement c is correct:**Articles 102 of the Constitution of India**provide that holding any office of profit under the Government of India or the Government of any State is a ground for disqualification of a Member of Parliament or a Member of the State Legislature. However, it also mentions that**the office of a Minister held by a member of the **Parliament shall not be considered an office of profit for the purpose of disqualification. **Statement d is correct:**Section 3 of**The Parliament (Prevention of Disqualification) Act, 1959 exempts several posts **from disqualification** on the grounds of 'Office of Profit'.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q46",
+      "questionNumber": 46,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to Deputy Speaker of the House of People, consider the following statements:",
+        "I. As per the Constitution of India, only a member of the House of People can be elected as the Deputy Speaker.",
+        "II. S/he vacates his/her office immediately on dissolution of the House of People.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Deputy Speaker of the House of People, consider the following statements: I. As per the Constitution of India, only a member of the House of People can be elected as the Deputy Speaker. II. S/he vacates his/her office immediately on dissolution of the House of People. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The office of the Deputy Speaker, established under**Article 93**of the Constitution, plays an essential role in ensuring the uninterrupted functioning of the Lok Sabha. The Deputy Speaker's role is grounded in both constitutional provisions and parliamentary rules, and it is marked by independence from the Speaker's authority.**\n\nStatement I is correct**.**As per Article 93 of the Indian Constitution, the House of the People shall, as soon as may **be, choose two members of the House to be respectively Speaker and Deputy Speaker thereof and**, so often as the office of Speaker or Deputy Speaker becomes vacant, the House shall choose another member to be Speaker or Deputy Speaker, as the case may be. Thus as per the Constitution both Speaker and Deputy Speaker of the House of People are elected in the same manner. The**procedure for this election**is laid down in**Rule 8 of the Rules of Procedure and Conduct of Business in Lok **Sabha**. According to Rule 8, the**Deputy Speaker is elected after the Speaker**, and the election is carried out by a**simple majority**of the members**present and voting**. This means**no special majority or quorum**is needed beyond the general rules applicable to any vote in the House.**\n\nStatement II is correct.**As per**Article 94, the Deputy Speaker vacates office upon ceasing to be a member of the **House of the People, which happens automatically when the Lok Sabha is dissolved.** Although the Constitution includes a specific provision allowing the Speaker to continue in office until just before the first sitting of the newly constituted Lok Sabha, no such provision exists for the Deputy Speaker. Thus, the Deputy Speaker's tenure ends immediately upon dissolution, while the Speaker alone enjoys constitutional continuity beyond the life of the House.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q47",
+      "questionNumber": 47,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to various legislative procedures in India, consider the following pairs: Decision Type of Majority required",
+        "I. Removal of the Speaker of Lok Sabha A majority of all the then members of the Lok Sabha only.",
+        "II. Creation of the Legislative Council in a State by Parliament. A majority not less than two thirds of the members present and voting in each House of the Parliament",
+        "III. Passing a bill to make any change in the manner of election of the President of India A majority of the total membership of each House of Parliament and by a majority of not less than two-thirds of the members of each House of Parliament present and voting alongwith ratification by the Legislatures of not less than one-half of the States by resolutions.",
+        "IV. Resolution under Article 249 in Rajya Sabha A majority not less than two thirds of the members of the Rajya Sabha present and voting.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to various legislative procedures in India, consider the following pairs: Decision Type of Majority required I. Removal of the Speaker of Lok Sabha A majority of all the then members of the Lok Sabha only. II. Creation of the Legislative Council in a State by Parliament. A majority not less than two thirds of the members present and voting in each House of the Parliament III. Passing a bill to make any change in the manner of election of the President of India A majority of the total membership of each House of Parliament and by a majority of not less than two-thirds of the members of each House of Parliament present and voting alongwith ratification by the Legislatures of not less than one-half of the States by resolutions. IV. Resolution under Article 249 in Rajya Sabha A majority not less than two thirds of the members of the Rajya Sabha present and voting. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The Indian Constitution requires different types of majorities for different legislative actions. These include**Simple**,**Absolute**,**Effective**, and**Special Majorities**. Each serves a specific constitutional or procedural purpose and upholds the spirit of Democracy.**Pair I is correct. Effective Majority**refers to more than 50% of the effective strength of the House. Effective strength means total membership minus vacancies. As per**Article 94**of the Constitution, the Speaker can be removed by a resolution passed by a majority of \"**all the then members of the House**,\" which is nothing but an**Effective Majority**.**Pair II is incorrect. **Under**Article 169**, the Parliament may by law create or abolish the Legislative Council using a**Simple Majority**.**Simple Majority**means a majority of the total membership of that House, that is more than 50% of members present and voting. It is the most commonly used form of majority for legislative decisions.**Pair III is correct. **As per**Article 368(2), **when a**Constitutional Amendment Bill affects federal provisions**, it requires a**Special Majority with State Ratification**i.e.,**a a majority of the total membership of that House and by a majority **of not less than two-thirds of the members of that House present and voting in both Houses of Parliament along **with ratification by at least half of the state legislatures**by a simple majority, that is, majority of the total membership of that House**Pair IV is correct. **A resolution under**Article 249, **which allows Parliament to legislate on a State List subject, must be passed in the**Rajya Sabha**with a**Special Majority**, i.e., by**not less than two-thirds of the members present and **voting**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q48",
+      "questionNumber": 48,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Parliament Procedures, Proceedings, Officers, Bills, Committees, Houses, etc.",
+      "statementLines": [
+        "With reference to the Parliament in India, which of the following statements are correct regarding the Committee on Estimates?",
+        "I. The first Estimates Committee in post-independence India was constituted in 1964, on the recommendation of",
+        "V.K Krishna Menon.",
+        "II. All the members of the committee are from the Lok Sabha only.",
+        "III. A minister cannot be elected as a member of the Committee.",
+        "IV. It can suggest alternative policies to promote economy and efficiency in administration.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Parliament in India, which of the following statements are correct regarding the Committee on Estimates? I. The first Estimates Committee in post-independence India was constituted in 1964, on the recommendation of V.K Krishna Menon. II. All the members of the committee are from the Lok Sabha only. III. A minister cannot be elected as a member of the Committee. IV. It can suggest alternative policies to promote economy and efficiency in administration. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III",
+        "b": "I, II and IV",
+        "c": "II, III and IV",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The Estimates Committee is one of the three Financial Committees of the Indian Parliament, and the largest among them in terms of membership. Its primary focus is to examine the budget estimates post-approval and recommend improvements in administration and spending practices.**\n\nStatement I is incorrect.**The**origin**of the Committee on Estimates goes back to**1921**, during British rule, when it was first established under the Montagu-Chelmsford Reforms for the**Legislative Assembly**. However,**in independent **India**, the committee was**reconstituted in 1950**, but it was not based on the recommendation of**Krishna Menon**. Instead, it followed the recommendation of then Finance Minister**John Mathai**, who proposed a dedicated mechanism to scrutinize public expenditure and promote fiscal efficiency. The Committee on Public Undertakings was created in 1964 on the recommendation of V. K. Krishna Menon Committee.**\n\nStatement II is correct. **All**30 members**of the Estimates Committee are elected**only from the Lok Sabha**. The method of election follows**proportional representation by means of the single transferable vote**, ensuring representation from various parties in proportion to their strength in the House.**\n\nStatement III is correct. **A**Minister cannot be elected**as a member of the Committee. If an existing member is appointed as a minister, he/she**automatically ceases to be a member**of the Committee from the date of appointment.**\n\nStatement IV is correct. **One of the stated functions of the Estimates Committee is to**suggest alternative policies**that promote**efficiency and economy**in administration. It also recommends improvements in organization and administrative reform consistent with the policy underlying the estimates. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q49",
+      "questionNumber": 49,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Prime Minister, Chief Minister, Council of Ministers, Cabinet Executive",
+      "statementLines": [
+        "With reference to Indian Polity, consider the following statements:",
+        "Statement I: The Union Council of Ministers continues to hold the office even after the dissolution of the Lok Sabha.",
+        "Statement II: The President of India cannot exercise executive power without the aid and advice of the Union Council of Ministers.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Indian Polity, consider the following statements: Statement I: The Union Council of Ministers continues to hold the office even after the dissolution of the Lok Sabha. Statement II: The President of India cannot exercise executive power without the aid and advice of the Union Council of Ministers. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**Council of Ministers plays a crucial role in the exercise of executive power by the President. In U.N.R. Rao v. Indira Gandhi case in 1971, Supreme court ruled that**even after the dissolution of the Lok Sabha, the **Council of Ministers does not cease to hold office. **\n\nStatement II is correct:**Article 74 of the Constitution of India provides that**there shall be a Council of Ministers **headed by the Prime Minister to aid and advise the President in the exercise of his executive functions**. The 42nd and 44th Constitutional Amendments have further clarified that the advice tendered by the Council of Ministers is binding on the President. Thus, the Council of Ministers continues to hold the office even after the dissolution of Lok Sabha because the president cannot exercise the executive power without the aid and advice of the council of ministers.** Hence option a **is the correct answer: **Both Statement I and Statement II are correct, and Statement II is the correct explanation for Statement I.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-polity-test9-q50",
+      "questionNumber": 50,
+      "subject": "Polity",
+      "sectionGroup": "Part V & VI: The Union and The States",
+      "microTopic": "Judiciary",
+      "statementLines": [
+        "With reference to Indian judiciary, consider the following pairs: Judicial Doctrine Description",
+        "I. Doctrine of ColourableLegislation If a legislature does not have the power to make laws on a particular subject directly, it cannot make laws on it indirectly.",
+        "II. Doctrine of PithandSubstance If the substance of legislation falls within a legislature's power, it remains valid even if it affects matters beyond its area of authority.",
+        "III. Doctrine of severability If a particular provision of a statute is against the Constitution, only that offending provision will be declared void by the Court and not the entire statute.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to Indian judiciary, consider the following pairs: Judicial Doctrine Description I. Doctrine of ColourableLegislation If a legislature does not have the power to make laws on a particular subject directly, it cannot make laws on it indirectly. II. Doctrine of PithandSubstance If the substance of legislation falls within a legislature's power, it remains valid even if it affects matters beyond its area of authority. III. Doctrine of severability If a particular provision of a statute is against the Constitution, only that offending provision will be declared void by the Court and not the entire statute. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. In India's federal structure, the distribution of legislative powers between the Union and the States (under Constitution of India) often leads to overlaps and jurisdictional disputes. Judicial doctrines have evolved to help interpret and resolve such disputes by analysing the true nature and scope of legislation.**Pair I is correct. **The**Doctrine of Colourable**Legislation** holds that**if a legislature does not have the power to make laws on a particular subject directly, it cannot make laws on it indirectly** by disguising the true nature of the law. In other words, what the legislature cannot do directly, it cannot do by subterfuge. This doctrine protects constitutional demarcations of competence.\n**Pair II is correct.**The **Doctrine of Pith**and**Substance** states that **if the real essence (pith) and essential character (substance) of a legislation falls within the legislative competence of the enacting body, then the law is valid even if it incidentally encroaches upon another body's domain.**Courts look at the substance over the form.\n**Pair III is correct.** The **Doctrine of Severability** means that **if a particular provision of a statute offends, or is against, the Constitution, and that provision is severable (separable) from the rest of the statute, only that offending provision will be declared void by the Court and not the entire statute**. This ensures that the entire statute is not struck down due to the invalidity of a single provision, preserving legislative intent to the extent possible.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

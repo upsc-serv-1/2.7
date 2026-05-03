@@ -1,0 +1,1836 @@
+{
+  "id": "forum-sfg-2026-level-1-revision-history-environment-test32",
+  "title": "Test 32- L1 SFG 2026 - Revision - (History + Environment)",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Revision",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q01",
+      "questionNumber": 1,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Development of Press, Education",
+      "statementLines": [
+        "With reference to educational institutions during colonial rule in India, consider the following pairs:",
+        "Institutions Founder",
+        "I. Sanskrit College at Benaras William Jones",
+        "II. Calcutta Madarsa Warren Hastings",
+        "III. Fort William College Arthur Wellesley",
+        "Which of the pairs given above is/are correct?"
+      ],
+      "questionText": "With reference to educational institutions during colonial rule in India, consider the following pairs: Institutions Founder I. Sanskrit College at Benaras William Jones II. Calcutta Madarsa Warren Hastings III. Fort William College Arthur Wellesley Which of the pairs given above is/are correct?",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 only",
+        "c": "1 and 3",
+        "d": "3 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **Pair 1 is incorrect: Sanskrit College at Benaras (now Sampurnanand Sanskrit Vishwavidyalaya, SSVV) was founded **by Jonathan Duncan in 1971. **So, pair 1 is not correctly matched.**Pair 2 is correct: Calcutta Madarsa was established by Warren Hastings in 1781. Muslim laws were taught at the **Madarsa. **So, pair 2 is correctly matched.**Pair 3 is incorrect: Fort William College was set up by Lord Richard Wellesley in 1800. **It was a centre of learning and training for the newly recruited civil servants of the Company. So,\n\npair 3 is not correctly matched.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "With reference to Oceans, which of the following statements correctly describes ‘Lysocline’?"
+      ],
+      "questionText": "With reference to Oceans, which of the following statements correctly describes ‘Lysocline’?",
+      "options": {
+        "a": "The depth in the ocean below which there is a rapid change in salinity.",
+        "b": "The transition zone in the ocean within which the rate of calcium carbonate dissolution increases significantly.",
+        "c": "The depth below which the sunlight becomes negligible and there is absence of photosynthesis.",
+        "d": "The transition zone within which the ocean water temperature decreases rapidly."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. The oceans regulate carbon dioxide by their natural capacity to absorb CO2 from the atmosphere. One of the mechanisms is by**forming and breaking down calcium carbonate (CaCO3) shells**, produced by living organisms including foraminifera, coccolithophores, and others. The rate at which CaCO3 shells break down has a major impact on marine life and storage of carbon over long periods. The transition zone within which calcium carbonate increasingly becomes chemically unstable and begins to dissolve is called the lysocline.**The transition zone within which calcium carbonate increasingly becomes chemically unstable and begins to **dissolve is called the lysocline. **At this zone, carbonate shells are less susceptible to dissolution due to higher carbonate content in sea water. As one descends below the lysocline, increasing pressure, decreasing temperature, and increasing CO2 levels cause seawater to become increasingly corrosive to carbonate shells.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Greenhouse Gases (GHG), ODS, Related Terms, Global Warming",
+      "statementLines": [
+        "With reference to Polar Stratospheric Clouds (PSCs), consider the following statements:",
+        "Statement I: The presence of Polar Stratospheric Clouds can accelerate the process of stratospheric ozone depletion.",
+        "Statement II: Polar Stratospheric Clouds provide a surface for gases like chlorine nitrate to undergo a redox reaction and in the process releasing chlorine atoms.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Polar Stratospheric Clouds (PSCs), consider the following statements: Statement I: The presence of Polar Stratospheric Clouds can accelerate the process of stratospheric ozone depletion. Statement II: Polar Stratospheric Clouds provide a surface for gases like chlorine nitrate to undergo a redox reaction and in the process releasing chlorine atoms. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Polar Stratospheric Clouds form**high in the stratosphere**, at extremely low temperatures( - 78°C) mainly over Antarctica and the Arctic during polar winters and early springs.**\n\nStatement I is correct**. Polar Stratospheric Clouds play a**crucial catalytic role in ozone depletion**, particularly in the formation of the Antarctic ozone hole. On their own, they do not destroy ozone. However, they create chemical conditions that make rapid ozone destruction possible once sunlight returns in polar spring. Thus, the presence of Polar Stratospheric Clouds can accelerate the process of stratospheric ozone depletion.**\n\nStatement II is correct and explains statement I**. Under normal conditions, most stratospheric chlorine exists in**inactive reservoir forms**such as hydrogen chloride (HCl) and chlorine nitrate (ClONO₂). The icy surfaces of Polar Stratospheric Clouds act as**chemical reaction platforms**converting inactive chlorine into**reactive ozone depleting **forms of chlorine**like chlorine monoxide gas (ClO). In the presence of polar stratospheric clouds (PSC) the gases like hydrochloric acid (HCl) and chlorine nitrate (ClONO2 ) from gaseous reservoirs undergo redox reactions with each other on the surface of the PSC and give rise to chlorine (Cl2 ). This elementary chlorine in the presence of solar radiation undergoes photolysis giving rise to chlorine atoms. The chlorine atoms further react with ozone to form chlorine monoxide (ClO) which is an active form of chlorine and oxygen. The ClO dimerizes to di-chlorine dioxide which is also known as chlorine peroxide (Cl2 O2 ) and further dissociates again into atomic chlorine by photolysis. This catalytic cycle repeatedly generates chlorine atoms and one chlorine atom is potential enough to damage about one lakh ozone molecules till its reaction is quenched by the reaction with other species like oxides of nitrogen and methane.**Thus, Statement II explains Statement I. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q04",
+      "questionNumber": 4,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Geomorphology",
+      "microTopic": "Earth's Interior and Continental Theories",
+      "statementLines": [
+        "Consider the following sites in India:",
+        "I. Manikaran, Himachal Pradesh",
+        "II. Bakreshwar, West Bengal",
+        "III. Tuwa, Gujarat",
+        "IV. Surajkund, Jharkhand",
+        "How many of the above are identified as potential geothermal energy sites in India?"
+      ],
+      "questionText": "Consider the following sites in India: I. Manikaran, Himachal Pradesh II. Bakreshwar, West Bengal III. Tuwa, Gujarat IV. Surajkund, Jharkhand How many of the above are identified as potential geothermal energy sites in India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. Geothermal energy refers to the**heat stored within the Earth’s crust**. This heat can be tapped for direct heating applications or converted into electricity. It is a**reliable and consistent source of renewable energy and can play a **crucial role in achieving the target of net Zero emissions by 2070. **Because geothermal plants can operate continuously, they provide what is known as**baseload power**, contributing significantly to energy security and decarbonisation goals.** Option I is correct**.**Manikaran**, located in**Himachal Pradesh**, is one of India’s**notable geothermal sites**identified by the Geological Survey of India (GSI). It features**high-temperature hot springs**and is already used for small-scale geothermal applications.** Option II is correct**.**Bakreshwar**in**West Bengal**is listed among the**geothermal energy sites**identified by GSI. Its hot springs and subsurface heat make it**suitable for geothermal energy exploitation. ** Option III is correct**.**Tuwa**in Tuwa village in**Gujarat**, is one of the**identified geothermal potential sites**. The Cambay rift and associated hot springs are recognised in national geothermal assessments for their heat resource.** Option IV is correct**.**Surajkund**in**Jharkhand**is also listed by GSI as a**site with geothermal potential**. Geological mapping shows it has thermal anomalies suitable for direct geothermal use and possibly power generation. It shouldn’t be confused with Surajkund reservoir in Faridabad, Haryana which hosts the popular Surajkund International Crafts Mela. Knowledge Base**Sr. No. **State / UT **Site(s) Identified for Geothermal Prospects ** 1 UT Ladakh Puga, Chumathang, Gaik, Demchok, Nubra (Panamik), Galhar 2 Jammu and Kashmir Sidhu 3 Himachal Pradesh Manikaran, Kasol, Tattapani, Tapri 4 Uttarakhand Tapoban, Gari, Joshimath, Juma, Jamunotri, Ganganani, Beda, Joti, Nyu, Dar, Bheti 5 Arunachal Pradesh Tsachu (Tawang), Takshing 6 Sikkim Polok, Yumesamdong 7 Haryana Sohna 8 Bihar Bhimband (Munger) 9 Jharkhand Surajkund, Tantloi 10 West Bengal Bakreshwar 11 Chhattisgarh Tattapani 12 Madhya Pradesh Anhoni 13 Gujarat Dholera, Tuwa, Tulsishyam 14 Odisha Deulajhari (Athmallik), Attri 15 Maharashtra Unhavare (Khed), Sativali, Tural 16 Telangana Manuguru",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Tackling Climate Change",
+      "statementLines": [
+        "With reference to global climate financing mechanisms, consider the following:",
+        "I. Least Developed Countries Fund",
+        "II. Green Climate Fund",
+        "III. Fund for Responding to Loss and Damage",
+        "Which of the following is the correct chronological order of operationalization of above given Funds?"
+      ],
+      "questionText": "With reference to global climate financing mechanisms, consider the following: I. Least Developed Countries Fund II. Green Climate Fund III. Fund for Responding to Loss and Damage Which of the following is the correct chronological order of operationalization of above given Funds?",
+      "options": {
+        "a": "I – II – III",
+        "b": "II – I – III",
+        "c": "I – III – II",
+        "d": "III – II – I"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Climate finance is a critical pillar of international climate action. It enables developing and vulnerable countries to**adapt to climate impacts**,**reduce greenhouse gas emissions**, and**address climate-induced losses**. Over time, different funds have been created under multilateral frameworks to respond to evolving climate challenges.**Option I**. The**Least Developed Countries Fund (LDCF)**was established in**2001(COP 7 of UNFCCC at Marrakech, **Morocco)**under the Global Environment Facility. Its one of the objectives is to support least developed countries in implementation of**National Adaptation Programmes of Action (NAPAs)**to address urgent climate adaptation needs.**Option II**. The**Green Climate Fund (GCF)**was established in**2010**following decisions taken at the Cancun Climate Conference. It represents a major institutional step to support developing countries in both**mitigation and **adaptation**, with a long-term goal of mobilising large-scale climate finance.**Option III**. The**Fund for Responding to Loss and Damage**was agreed upon in 2022 at COP27 in Egypt**but was **created in 2023**at COP28 held in Dubai, UAE. It aims to provide financial support to countries that are particularly vulnerable to**irreversible climate impacts**, such as extreme weather events and sea-level rise, going beyond adaptation and mitigation. Therefore, the correct chronological order for the establishment of the funds is: I. Least Developed Countries Fund-2001 II. Green Climate Fund – 2010 III. Fund for Responding to Loss and Damage-2023",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Tackling Climate Change",
+      "statementLines": [
+        "Internationally Transferred Mitigation Outcomes (ITMOs), sometimes seen in news, is a:",
+        "Nationally Determined Contributions (NDCs) while encouraging investment in emissions-reduction projects bilaterally. annual emission limits. emission reduction accounting."
+      ],
+      "questionText": "Internationally Transferred Mitigation Outcomes (ITMOs), sometimes seen in news, is a: Nationally Determined Contributions (NDCs) while encouraging investment in emissions-reduction projects bilaterally. annual emission limits. emission reduction accounting.",
+      "options": {
+        "a": "Cost-effective mitigation strategies under the Paris Agreement which provides flexibility for countries to meet their",
+        "b": "Mandatory financial penalty mechanism imposed on developed countries under the UNFCCC for exceeding their",
+        "c": "Framework under the Paris Agreement for international funding of climate adaptation projects without linkage to",
+        "d": "Framework under Kyoto protocol that allows transferring of spare Emissions Units in the Global Carbon Market."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. The Paris Agreement gives countries flexibility to meet their climate targets. Internationally Transferred Mitigation Outcomes (ITMOs), under**Article 6, **are part of the cooperative framework and relates to**mitigation**, that is, reduction of greenhouse gas emissions. Article 6.2, allows countries to engage in bilateral or multilateral trade of carbon credits through Internationally Transferred Mitigation Outcomes (ITMOs). This system enables nations to buy and sell emissions reductions, fostering cross-border cooperation.**By allowing for cost-effective mitigation strategies, it provides flexibility for countries **to meet their NDCs while encouraging investment in emissions-reduction projects bilaterally. **\n\nOption b is incorrect. **The Paris Agreement does**not impose penalties or fines**. It follows a facilitative, non-punitive approach based on transparency and self-determined commitments.**\n\nOption c is incorrect. **ITMOs are linked only to**mitigation outcomes**. Climate adaptation finance is handled through**separate mechanisms**like the Adaptation Fund and is not tradable.**\n\nOption d is incorrect.**Emissions trading is provided under Article 17 of the Kyoto Protocol which allows countries to sell spare Emissions Units to countries that have exceeded their emission unit. ITMOs are under the Paris Agreement(2015) and not the Kyoto Protocol.  KnowledgeBase:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Tackling Climate Change",
+      "statementLines": [
+        "With reference to global multilateral initiatives, consider the following:",
+        "I. Global Biofuel Alliance (GBA)",
+        "II. Coalition for Disaster Resilient Infrastructure (CDRI)",
+        "III. International Solar Alliance (ISA) The secretariat/headquarter of",
+        "how many of the above initiatives are located in India?"
+      ],
+      "questionText": "With reference to global multilateral initiatives, consider the following: I. Global Biofuel Alliance (GBA) II. Coalition for Disaster Resilient Infrastructure (CDRI) III. International Solar Alliance (ISA) The secretariat/headquarter of how many of the above initiatives are located in India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**.** Option I is correct**.**The Global Biofuel Alliance (GBA)**was launched during India’s G20 Presidency in 2023. India played the**central convening and agenda-setting role**, positioning biofuels as a transitional clean energy solution. GBA aims at positioning India as a knowledge base and production hub for biofuels like ethanol, Sustainable Aviation Fuel(SAF), Compressed Bio Gas etc. Its Secretariat is based in**New Delhi.** Option II is correct**.**Coalition for Disaster Resilient Infrastructure (CDRI) **was launched by India in 2019. Its Secretariat is based in**New Delhi**, and India continues to provide strategic direction. The coalition focuses on making infrastructure systems resilient to climate change and disasters, reinforcing India’s leadership role.** Option III is correct**.**International Solar Alliance (ISA) **was jointly launched in 2015 by India and France, but India has played a**foundational and continuing leadership role**. The alliance originated from India’s solar vision and is headquartered in**Gurugram**, making it an**India-led initiative in practice and substance**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Wildlife Acts (WPA 1972, BDA 2002, etc.)",
+      "statementLines": [
+        "With reference to the Animal Welfare Board of India (AWBI), which of the following statements is/are correct?",
+        "I. It functions under the administrative control of the Ministry of Environment, Forest and Climate Change.",
+        "II. It was established under the Wildlife (Protection) Act, 1972.",
+        "III. It advises the government or any other person with respect to design as well as maintenance of slaughter houses in India.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Animal Welfare Board of India (AWBI), which of the following statements is/are correct? I. It functions under the administrative control of the Ministry of Environment, Forest and Climate Change. II. It was established under the Wildlife (Protection) Act, 1972. III. It advises the government or any other person with respect to design as well as maintenance of slaughter houses in India. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and III",
+        "b": "III only",
+        "c": "I and II",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**.**\n\nStatement I is incorrect**. The administrative control of the Animal Welfare Board of India has**changed over time**. Initially, the Board functioned under the**Ministry of Food and Agriculture**. Subsequently, its jurisdiction was transferred to the**Ministry of Environment and Forests**(now MoEFCC). However, as per latest administrative decisions, the jurisdiction of the Board was**shifted to the Department of Animal Husbandry and Dairying, Ministry **of Fisheries, Animal Husbandry and Dairying**and continues to operate under it.**\n\nStatement II is incorrect:**The**Animal Welfare Board of India **is a**statutory body established in 1962 under section 4 **of the Prevention of Cruelty to Animals Act, 1960**. Its mandate is advisory and promotional in nature, aimed at preventing cruelty and improving the welfare of animals through policy advice, financial support, and standard-setting.**\n\nStatement III is correct: Animal Welfare Board of India advises the Government or any local authority or other **person in the design of slaughter houses **or the maintenance of slaughter houses or in connection with slaughter of animals so that unnecessary pain or suffering, whether physical or mental, is eliminated in the preslaughter stages as far as possible, and animals are killed; wherever necessary, in as humane a manner as possible.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q09",
+      "questionNumber": 9,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "With reference to committees/commissions during British rule in India, consider the following:",
+        "I. Aitchison Committee",
+        "II. Hunter Commission",
+        "III. Lee Commission",
+        "IV. Sadler Commission The terms of reference of",
+        "how many of the above committees/commissions are related to Civil Services in India?"
+      ],
+      "questionText": "With reference to committees/commissions during British rule in India, consider the following: I. Aitchison Committee II. Hunter Commission III. Lee Commission IV. Sadler Commission The terms of reference of how many of the above committees/commissions are related to Civil Services in India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. During British rule, a large number of**committees and commissions**were appointed to examine different aspects of governance in India. Some of them dealt**specifically with civil services**, while others focused on**education, **constitutional reforms, or administration at large**.** Option I is correct**. The**Aitchison Committee on Public Services (1886)**was appointed to review the**structure and **organisation of civil services**in India. It recommended abolition of Statutory Civil Service introduced during the tenure of Lytton and**classification of services**into Imperial, Provincial and Subordinate and changes related to**recruitment and age limits**.** Option II is incorrect**. The**Hunter Commission**(1882–83)**, chaired by**W.W. Hunter was**appointed to review the**progress of education**in India since the Wood’s Despatch of 1854. Its recommendations were largely confined to**primary and secondary education**, including vernacular instruction, local control, vocational education, and female education. It**did not deal with civil service recruitment or administration**.** Option III is correct**. A Royal Commission on Superior Civil Services under the chairmanship of**Lord Lee **was appointed in 1923. It examined the**recruitment, structure, and Indianisation of higher civil services**, especially the Indian Civil Service. It recommended**parity between Europeans and Indians**, decentralised recruitment for certain services, and the**immediate establishment of a Public Service Commission**.** Option IV is incorrect**. The**Sadler Commission (1917–19)**, formally known as the**Calcutta University Commission**, examined the**entire structure of education from schools to universities**. It focused on**secondary–university **linkage, university autonomy, teaching functions, and academic reforms**. Its scope was**educational**, not administrative or civil service–related.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q10",
+      "questionNumber": 10,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following statements about Planet Venus in our solar system:",
+        "I. It rotates on its axis in the direction opposite to that of Earth.",
+        "II. It is the hottest planet in the solar system.",
+        "III. It lacks atmosphere due to its proximity to the sun and weak gravity.",
+        "IV. It is the only planet in our solar system that does not have a moon.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about Planet Venus in our solar system: I. It rotates on its axis in the direction opposite to that of Earth. II. It is the hottest planet in the solar system. III. It lacks atmosphere due to its proximity to the sun and weak gravity. IV. It is the only planet in our solar system that does not have a moon. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I, III and IV only",
+        "b": "I and II only",
+        "c": "III and IV only",
+        "d": "I only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Venus is the second planet from the Sun, and Earth's closest planetary neighbor. It is the third brightest object in the sky after the Sun and Moon. It is similar in structure and size to Earth, and is sometimes called Earth's evil twin.**\n\nStatement I is correct: Venus**is unusual because it**spins the opposite direction of Earth **and most other planets. Venus is the only planet to spin in this retrograde (or backwards) sense i.e. from east to west, opposite in direction to its orbit about the Sun.**Because Venus rotates backwards, the Sun rises in the west and sets in the east. **\n\nStatement II is correct:**Venus is the second planet from the Sun, and the sixth largest planet.**It’s the hottest planet **in our solar system**. It is blanketed by an**atmosphere of carbon dioxide, 90 times denser than the Earth's**, which raises its surface heat above the melting point of lead.**\n\nStatement III is incorrect: **Venus**has an extremely dense atmosphere. **It is blanketed by an**atmosphere of carbon **dioxide, 90 times denser than the Earth's.**\n\nStatement IV is incorrect: Venus is one of only two planets in our solar system that doesn't have a moon, **but it does have a quasi-satellite that has officially been named Zoozve.**Mercury is the other planet in the solar system **that does not have a moon **orbiting it. Venus has no rings. -**Quasi-satellites, sometimes called quasi-moons, are asteroids that orbit the Sun **while staying close to a planet.\nA quasi-satellite’s orbit usually is more oblong and less stable than the planet's orbit. In time, the shape of a quasi-satellite’s orbit may change and it may move away from the planet.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "‘A biological community in its environment’ such as a pond, an ocean, a forest, even an aquarium is known as-"
+      ],
+      "questionText": "‘A biological community in its environment’ such as a pond, an ocean, a forest, even an aquarium is known as-",
+      "options": {
+        "a": "Biome",
+        "b": "Community",
+        "c": "Abiotic environment",
+        "d": "Ecosystem"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer ** An ecosystem is a biological community in its environment. It includes all the living organisms in the area, as well as the non-living physical environment. The living organisms interact with each other and with the physical environment in a complex web of relationships.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2017,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Which of the following organisms is capable of smelling the surroundings with its tongue?"
+      ],
+      "questionText": "Which of the following organisms is capable of smelling the surroundings with its tongue?",
+      "options": {
+        "a": "Snakes",
+        "b": "Bees",
+        "c": "Frog",
+        "d": "Butterflies"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Although snakes possess nostrils like humans, they mainly perceive their surroundings through their tongue**. When a snake flicks its tongue in the air, it collects tiny chemical particles from its environment . As it retracts its tongue, it fits into a special organ on the roof of the mouth called the vomeronasal system. This organ processes the chemical particles and helps the snake to identify them. Through this special sense of “smell,” snakes can detect things such as dirt, plants, and other animals. It aids them in avoiding predators and catching prey, offering an extraordinary way to explore and navigate their environment.**\n\nKnowledge Base: **Bees**smell their surroundings primarily through their**antennae**- highly sensitive sensory organs located in socket-like membranous regions on the head. These antennae can move freely in all directions and function as organs of**touch **and smell**.**Frog**has different types of sense organs namely organs of touch (sensory papillae), taste (taste buds), smell (nasal epithelium), vision (eyes) and hearing (tympanum with internal ears).**Butterflies**mainly perceive smells through their**antennae**(butterfly’s version of a nose)which function as specialised sensory organs for detecting chemical substances in the air.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to Biodiversity in India, consider the following statements about Agarwood:",
+        "I. It is endemic to North Eastern states of India.",
+        "II. It is listed as critically endangered under the IUCN Red list of Threatened species.",
+        "III. The essential oil extracted from agarwood has anti-inflammatory and anti-oxidant properties.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Biodiversity in India, consider the following statements about Agarwood: I. It is endemic to North Eastern states of India. II. It is listed as critically endangered under the IUCN Red list of Threatened species. III. The essential oil extracted from agarwood has anti-inflammatory and anti-oxidant properties. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is incorrect: Agarwood (Aquilaria malaccensis**) is cultivated in different parts of India, especially in the northeast. In India, the North Eastern Region (NER) accounts for over 96% of the country’s agarwood trees. Endemic means that nowhere else this particular tree is grown which is incorrect as there are different parts in India itself where it is grown.**\n\n**Statement II is correct: Aquilaria malaccensis is listed as a Critically Endangered (CR) species in the IUCN Red List of Threatened Species.**\n\n**Statement III is incorrect:**Agarwood is chiefly valued for its use in incense and perfumes and is widely employed in the aroma industry, air fresheners, and traditional medicinal preparations. **The essential oil derived from agarwood exhibits anti-inflammatory, anti-rheumatic, analgesic, and antioxidant properties.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q14",
+      "questionNumber": 14,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Peasant & Working-Class Movements",
+      "statementLines": [
+        "Consider the following statements regarding the Tinkathia system during British rule in India:",
+        "I. It was the primary reason behind the Kheda Satyagraha of 1918.",
+        "II. Under it, two-thirds of the share of the agricultural produce was given as revenue to the British.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Tinkathia system during British rule in India: I. It was the primary reason behind the Kheda Satyagraha of 1918. II. Under it, two-thirds of the share of the agricultural produce was given as revenue to the British. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**The Tinkathia system was an exploitative agrarian practice imposed by British Indigo planters in Bihar, particularly in Champaran.**\n\nStatement I is incorrect.**The**Tinkathia system was a key reason behind the Champaran Satyagraha**. The forced cultivation of indigo led to widespread suffering, pushing peasants to seek help. Gandhi’s intervention led to an inquiry and eventual abolition of this system. The population of Kheda was mainly peasants belonging to the Kanbi-Patidar communities. From the late 19th century onwards, the district was subject to a series of famines and epidemics. A bad harvest in 1917–18, coinciding with the price surge of essentials, was the immediate backdrop to the agitation.**These were the reasons behind the Kheda **Satyagraha, 1918 and not the Tinkathia system. **\n\nStatement II is incorrect.**Under the Tinkathia** system**, peasants (ryots) were forced to cultivate**indigo**on**three **kathas of every bigha**(or**3/20th**of their one bigha land) without fair compensation. This led to widespread economic distress among farmers, as indigo cultivation degraded soil fertility and left them in perpetual debt.**Champaran **Satyagraha (1917)**, led by**Mahatma Gandhi**, was India’s first major civil resistance movement against colonial oppression, aimed at abolishing this unfair practice.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lehs303.pdf https://egyankosh.ac.in/bitstream/123456789/78417/1/Unit-6.pdf https://egyankosh.ac.in/bitstream/123456789/44333/1/Unit-25.pdf https://egyankosh.ac.in/bitstream/123456789/67775/1/Unit-8.pdf http://egyankosh.ac.in/bitstream/123456789/27280/1/Unit-31.pdf https://indianculture.gov.in/node/2816097"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q15",
+      "questionNumber": 15,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Development of Press, Education",
+      "statementLines": [
+        "With reference to the Indian freedom struggle, ‘Sandhya’ and ‘Kal’ were:"
+      ],
+      "questionText": "With reference to the Indian freedom struggle, ‘Sandhya’ and ‘Kal’ were:",
+      "options": {
+        "a": "Secret revolutionary societies operating mainly in the Bengal Presidency.",
+        "b": "Periodicals or newspapers used to propagate nationalist ideas.",
+        "c": "Volunteer organisations formed for political mobilisation during the Swadeshi Movement.",
+        "d": "Underground secret radio stations run by Indians during the Quit India Movement."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. During the Indian freedom struggle,**print culture played a crucial role**in spreading nationalist and revolutionary ideas, especially when open political activity was restricted by colonial laws. Revolutionary nationalists often relied on**journals, pamphlets and small periodicals**to circulate ideas of self-strength, resistance and political awakening among educated youth. -**Sandhya was an extremist daily started by Brahmabandhab Upadhyay in 1904. **The newspaper condemned the British government’s action in extremely strong words. The main purpose of the newspaper was to spread awareness among the masses about the atrocities of the British government. -**Shivram Mahadev Paranjape was the founder of the weekly extraordinaire Kaal (founded in Pune, 1897). **Kaal focussed on addressing issues ranging from social, political, historical, religious to literary. Kaal astutely spoke against the British state, imperialism, and social evils.**Thus, Sandhya and Kal were newspapers or periodicals to propagate the nationalist ideas amongst the masses. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to major species seen in news, consider the following information:",
+        "Name of the Species IUCN Red List of Threatened Species Status Naturally Found in",
+        "I. Lion tailed Macaque Critically Endangered Papikonda National Park",
+        "II. Nilgiri tahr Endangered Mukurthi National Park",
+        "III. Dugong Vulnerable Gulf of Mannar Marine National Park",
+        "IV. Eastern Imperial Eagle Critically Endangered Hemis National Park In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to major species seen in news, consider the following information: Name of the Species IUCN Red List of Threatened Species Status Naturally Found in I. Lion tailed Macaque Critically Endangered Papikonda National Park II. Nilgiri tahr Endangered Mukurthi National Park III. Dugong Vulnerable Gulf of Mannar Marine National Park IV. Eastern Imperial Eagle Critically Endangered Hemis National Park In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Row I is incorrect: The Lion-tailed macaque **also known a**s ‘Lion of the Rainforest” in India **is endemic to the tropical evergreen rainforests of the Western Ghats in Karnataka, Kerala, and Tamil Nadu and is listed as** Endangered **(not critically endangered) on the IUCN Red List. **Its natural distribution includes Silent Valley, Anamalai Hills, Sabarimala, Vallimalai Hills in Kerala. Isolated populations are found in Kalakkad-mundanthurai Tiger Reserve in Tamilnadu and Kudermukh National Park in Karnataka. Papikonda National Park is a protected area situated in the Papi Hills of the northern Eastern Ghats in Andhra Pradesh, India. Lion Tailed macaque is not naturally found in Andhra Pradesh.**Row II is correct: The Nilgiri tahr is an endemic species of the Western Ghats.**It is classified as**Endangered **and is included under the IUCN Red List**Schedule I of the Wildlife (Protection) Act, 1972. **In India, it is naturally found in protected areas such as Eravikulam National Park(Kerala) and Mukurthi National Park(Tamilnadu). It is the state animal of Tamilnadu.**Row III is correct: **Dugongs, often called the “**gardeners of the sea,**” play a vital role in maintaining coastal ecosystems and supporting fish productivity through their grazing activity. In India, they are distributed in the**Gulf of Mannar**, Palk Bay**, **Gulf of Kutch**, **and the Andaman and Nicobar Islands. They are strictly herbivorous, consuming about 30–40 kg of seagrass per day. The species is classified as** Vulnerable on the IUCN Red List and is protected under Schedule **I of the Wildlife (Protection) Act, 1972.**India’s** first Dugong conservation reserve **is established in Palk Bay in Tamilnadu.**Row IV is incorrect: **Eastern Imperial Eagle, a winter migratory raptor that breeds in Western and Central Asia and migrates to parts of Africa, the Middle East, and South and East Asia during winter.** Mudumalai Tiger Reserve **provides suitable wintering habitat due to its open grasslands, forest edges, abundant prey, and low anthropogenic **disturbance.**According to the IUCN Red List**, the Eastern Imperial Eagle is classified as Vulnerable (not as critically **endangered). **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "The Nagoya Protocol, often seen in the news, primarily aims to address",
+        "which one of the following issues?"
+      ],
+      "questionText": "The Nagoya Protocol, often seen in the news, primarily aims to address which one of the following issues?",
+      "options": {
+        "a": "Biopiracy",
+        "b": "Green grabbing",
+        "c": "Ecological imperialism",
+        "d": "Land Degradation"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Nagoya Protocol**, which entered into force on 12 October 2014, is a supplementary agreement to the** Convention **on Biological Diversity (CBD)**and seeks to operationalize its third objective of fair and equitable sharing of benefits arising from the utilization of genetic resources. Other two objectives are i)Conservation of biological diversity . ii) Sustainable use of biological diversity. It promotes regulated access to genetic resources, appropriate transfer of relevant technologies, and adequate financial support, while respecting the rights of countries and local communities over these resources. By doing so, the Protocol contributes to the conservation of biological diversity and the sustainable use of its components.**Ultimately, the Nagoya Protocol aims to prevent biopiracy, which refers to the commercial or academic **exploitation of genetic resources without obtaining prior informed consent or ensuring fair compensation to the **country or community of origin. **Knowledge Base:**Green grabbing:**It refers to the appropriation of land and resources in the name of environmental goals. They often displace local communities, threaten livelihoods, undermine food security, and erode the local knowledge systems that protect agrobiodiversity.**Ecological imperialism**: It refers to the social and economic impact of converting natural riches of colonies as commodities and raw material for metropolitan industries.**Land degradation:** Land degradation is the result of human-induced actions which exploit land, causing its utility, biodiversity, soil fertility and overall health to decline.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Tiger Reserve, Elephant Reserve, other species-specific reserves, etc.",
+      "statementLines": [
+        "With reference to the tiger reserves in India, consider the following pairs:",
+        "Tiger reserve State",
+        "I. Palamu Tiger Reserve Chhattisgarh",
+        "II. Panna Tiger Reserve Madhya Pradesh",
+        "III. Kamlang Tiger Reserve Arunachal Pradesh",
+        "IV. Kawal Tiger Reserve Rajasthan",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to the tiger reserves in India, consider the following pairs: Tiger reserve State I. Palamu Tiger Reserve Chhattisgarh II. Panna Tiger Reserve Madhya Pradesh III. Kamlang Tiger Reserve Arunachal Pradesh IV. Kawal Tiger Reserve Rajasthan How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Pair I is incorrect:**Palamu Tiger Reserve**is situated on the**Chhotanagpur Plateau**in the western part of**Latehar **district, Jharkhand (not in Chattisgarh**) . The reserve is bordered by the Netarhat forests to the south and the Auranga River to the north**.**Pair II is correct:**Panna Tiger Reserve**is a critical tiger habitat located in the**Vindhya Hill range**of**northern **Madhya Pradesh.**It is characterised by dry deciduous forests, extensive plateaus and deep gorges, and rich ecological diversity and Ken river passes through it. Ken-Betwa interlinking project is expected to submerge a significant portion.**Pair III is correct: Kamlang Tiger Reserve (KTR), the 50th tiger reserve of India, is located in the Eastern **Himalayan region in Lohit district of Arunachal Pradesh. **The landscape is intersected by four major rivers such as Lohit, Lang, Kamlang, and Lati, all of which ultimately drain into the Brahmaputra river system, contributing to the region’s rich biodiversity.**Pair IV is incorrect: Kawal Tiger Reserve (KTR) is situated in the north-eastern part of Telangana with the **Godavari River along one side and the Maharashtra border on the other(not in Rajasthan). **It was declared a Tiger Reserve in 2012. The reserve spans the districts of Nirmal, Mancherial, Adilabad, and Komaram Bheem–Asifabad. The reserve also serves as a catchment area for the Godavari and Kadam rivers",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q19",
+      "questionNumber": 19,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Constitutional Developments",
+      "statementLines": [
+        "With reference to the constitutional and administrative developments during British rule in India, consider the following pairs:",
+        "Important Development Associated Act",
+        "I. Establishment of the Board of Control The Charter Act, 1793",
+        "II. Establishment of the office of the Indian High Commissioner in London Pitts India Act, 1784",
+        "III. Establishment of a Supreme Court in Bengal The Regulating Act, 1773",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to the constitutional and administrative developments during British rule in India, consider the following pairs: Important Development Associated Act I. Establishment of the Board of Control The Charter Act, 1793 II. Establishment of the office of the Indian High Commissioner in London Pitts India Act, 1784 III. Establishment of a Supreme Court in Bengal The Regulating Act, 1773 How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Pair I is incorrect:**The**Board of Control**was established by**Pitt’s India Act, 1784**, which introduced**dual control by **distinguishing the political and commercial functions of the East India Company between:**- The**Court of Directors**(commercial affairs) - The**Board of Control**(political affairs) The Charter Act of 1793 was a law passed by the British Parliament to renew and regulate the East India Company’s role in India. It reaffirmed the Company’s trade rights, strengthened its administrative structure, and clarified that its political authority acted on behalf of the British Crown.**Pair II is incorrect:**The Indian High Commissioner in London was first created by the Government of India Act, **1919, **as part of Montagu–Chelmsford Reforms. Its purpose was: - To represent the Government of India in Britain-To take over many functions earlier performed by the Secretary of State for India**Pair III is correct: The Regulating Act, 1773 **was the first serious attempt by the British Parliament to regulate the affairs of the East India Company.**It: **- Raised the status of Governor of Bengal to**Governor General**(Warren Hastings as the first). - Established a**Supreme Court** at Calcutta.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "With reference to the Commission on Genetic Resources for Food and Agriculture (CGRFA), consider the following statements:",
+        "I. It is the only permanent intergovernmental body that addresses the components of biological diversity for food and agriculture.",
+        "II. It functions under the United Nations Environment Programme (UNEP).",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Commission on Genetic Resources for Food and Agriculture (CGRFA), consider the following statements: I. It is the only permanent intergovernmental body that addresses the components of biological diversity for food and agriculture. II. It functions under the United Nations Environment Programme (UNEP). Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Commission on Genetic Resources for Food and Agriculture (CGRFA) was originally established in 1983 with a mandate focused on plant genetic resources. In 1995, its scope was expanded to include all components of biodiversity relevant to food and agriculture.**\n\nStatement I is correct: **The Commission on Genetic Resources for Food and Agriculture is the only permanent intergovernmental body that specifically addresses all components of biological diversity for food and agriculture. It aims to reach international consensus on policies for the sustainable use and conservation of genetic resources for food and agriculture and the fair and equitable sharing of benefits derived from their use.**\n\nStatement II is incorrect: **The Commission on Genetic Resources for Food and Agriculture (CGRFA) was established under Article VI of the FAO Constitution.** It functions as an intergovernmental body under the Food and Agriculture **Organization (FAO) and not under the United Nations Environment Programme(UNEP) **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biomes (Forest, Grassland, Mountain, Desert)",
+      "statementLines": [
+        "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?"
+      ],
+      "questionText": "Which one of the following is the correct sequence of ecosystems in the order of decreasing productivity?",
+      "options": {
+        "a": "Oceans, lakes, grasslands, mangroves",
+        "b": "Mangroves, oceans, grasslands, lakes",
+        "c": "Mangroves, grasslands, lakes, oceans",
+        "d": "Oceans, mangroves, lakes, grasslands"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Ecosystems in the order of decreasing productivity: **Mangroves > Grasslands > Lakes > Oceans**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2013,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2013"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q22",
+      "questionNumber": 22,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Gandhian Phase (Post-1917 till Partition, including NCM, CDM, QIM, Simon Commission, etc.)",
+      "statementLines": [
+        "With reference to the Salt Satyagraha during the freedom struggle of India, consider the following pairs:",
+        "Major Centres of Salt Satyagraha Location (Present-day State)",
+        "I. Sanikatta Salt Works Andhra Pradesh",
+        "II. Dharasana Salt Works Gujarat",
+        "III. Vedaranyam Salt Works Kerala",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to the Salt Satyagraha during the freedom struggle of India, consider the following pairs: Major Centres of Salt Satyagraha Location (Present-day State) I. Sanikatta Salt Works Andhra Pradesh II. Dharasana Salt Works Gujarat III. Vedaranyam Salt Works Kerala How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Pair I is incorrect:**In Karnataka, Sanikatta Salt Works**(also called Sanikatta Salt Factory) was an**important centre of **Salt Satyagraha in South India**where thousands of people defied the salt law and faced lathi-charge and bullets.**Pair II is correct: **Dharasana Salt** Works is **located in present-day Gujarat**. Sarojini Naidu and Gandhiji’s son Manilal in front ranks, a band of 2,000 volunteers marched towards the police cordon that had sealed off the **Dharsana salt works**. The volunteers were brutally beaten by the police with many of them suffering fatal injuries in the incident.\n**Pair III is incorrect:**The Vedaranniyam Salt March (parallel to Dandi March in South India) was **led by C. Rajagopalachari** (Rajaji). The march started **from Tiruchirappalli and culminated at Vedaranniyam on the Tanjore coast,**where salt was illegally made from seawater. **Vedaranniyam Salt Works** is **located in Tamil Nadu.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q23",
+      "questionNumber": 23,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Advent of Europeans, British Expansion, Anglo Wars",
+      "statementLines": [
+        "Goa became a Portuguese colony in 1510, when Admiral Afonso de Albuquerque defeated the:"
+      ],
+      "questionText": "Goa became a Portuguese colony in 1510, when Admiral Afonso de Albuquerque defeated the:",
+      "options": {
+        "a": "The Gajapati ruler, Prataparudra Deva",
+        "b": "Sultan of Bijapur, Yusuf Adil Shah",
+        "c": "Sultan of Muzaffarid dynasty, Bahadur Shah",
+        "d": "The Tuluva dynasty ruler, Achyuta Deva Raya"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Afonso de Albuquerque (1509–1515), the successor of Francisco de Almeida and the second Governor of Portuguese India is regarded as the real founder of the Portuguese Empire in India. He transformed Portuguese presence from a trading venture into a territorial and imperial power. Albuquerque, who had come to succeed Almeida, had been asked to conquer the ports of Hormuz, Aden, and Malacca by his King. However, he realised that a permanent base in Goa, then under the Sultan of Bijapur, would be very helpful to the Portuguese ambition of controlling maritime trade routes of the East.** Goa became a Portuguese colony **in 1510, when Admiral Afonso de Albuquerque defeated the Sultan of Bijapur, Yusuf Adil Shah. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "In the context of Earth’s energy balance, consider the following:",
+        "I. Increase in atmospheric carbon dioxide concentration.",
+        "II. Increase in sulphate aerosols in the atmosphere.",
+        "III. Increase in atmospheric methane concentration.",
+        "IV. Increase in surface albedo due to large-scale ice and snow cover.",
+        "Which of the above can lead to positive radiative forcing?"
+      ],
+      "questionText": "In the context of Earth’s energy balance, consider the following: I. Increase in atmospheric carbon dioxide concentration. II. Increase in sulphate aerosols in the atmosphere. III. Increase in atmospheric methane concentration. IV. Increase in surface albedo due to large-scale ice and snow cover. Which of the above can lead to positive radiative forcing?",
+      "options": {
+        "a": "I and III only",
+        "b": "I, II and III",
+        "c": "II and IV",
+        "d": "I and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Radiative forcing is a scientific measure used to understand how different factors disturb the Earth’s energy balance. - If a factor**traps more heat**or**reduces heat loss**i.e, adds more energy , it leads to**positive radiative forcing**and causes warming. - If a factor**reflects sunlight**or**enhances heat loss**, it results in**negative radiative forcing**and leads to cooling.** Option I is correct**.**Carbon Dioxide**being a greenhouse gas**lets in solar radiation to come into Earth but absorbs all **of the long-wave radiation that goes from the Earth's surface back into space**making our atmosphere warmer. Thus increase in atmospheric carbon dioxide concentration contribute to positive radiative forcing** Option II is incorrect**.**Sulphate aerosols**primarily reflect solar radiation away from the Earth via scatter. Additionally,**sulphate aerosols increase the reflectivity of clouds, and therefore make them brighter and more reflective thus **increasing their Albedo.**The combination of these two phenomena causes**depletion of solar energy at Earth’s **surface, thus creating an overall negative radiative force**for sulphate aerosols.** Option III is correct**.**Methane**has a strong greenhouse effect because of its ability to absorb and trap infrared radiation.**Even though methane is present in much smaller concentrations than carbon dioxide, as methane **increases in concentration within the atmosphere**, it increases the amount of heat trapped in the atmosphere**resulting in a positive radiative force**.** Option IV is incorrect**. Ice and snow have a very**high albedo**or are capable of**reflecting significant portions of **incoming solar energy**. As more ice and snow accumulates, additional sunlight is reflected back towards space,**reducing the overall warming**of the Earth’s surface. And resulting in** a negative radiative force**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Consider the following organisms:",
+        "I. Oyster",
+        "II. Octopus",
+        "III. Sea cucumbers",
+        "IV. Crab",
+        "V. Cuttle fish",
+        "How many of the above given organisms are considered as invertebrates?"
+      ],
+      "questionText": "Consider the following organisms: I. Oyster II. Octopus III. Sea cucumbers IV. Crab V. Cuttle fish How many of the above given organisms are considered as invertebrates?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Animals are broadly classified into two major groups: invertebrates and vertebrates. Fossil evidence indicates that invertebrates appeared much earlier than vertebrates in Earth’s history. Invertebrates are defined as animals that do not possess a backbone or vertebral column.**Echinoderms**are exclusively marine invertebrates and are not found on land or in freshwater. They form a large and successful phylum comprising living forms such as sea urchins , starfish, brittle stars, sea lilies, and**sea cucumbers**.**Mollusca **(mollusks) is the second most diverse and abundant phylum and includes organisms such as**oysters**, clams, and mussels , snails, slug,**octopuses, and cuttlefish**(don't confuse with normal fish which are vertebrate ),along with chitons and tooth shells .**Arthropoda**, one of the largest and most diverse groups of invertebrates. Arthropods include a wide range of organisms such as insects, spiders, scorpions, centipedes, millipedes,**crabs**, and ostracods",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q26",
+      "questionNumber": 26,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Advent of Europeans, British Expansion, Anglo Wars",
+      "statementLines": [
+        "With reference to the Anglo-Maratha rivalry in Modern India, consider the following treaties:",
+        "I. Treaty of Bassein",
+        "II. Treaty of Deogaon",
+        "III. Treaty of Salbai",
+        "IV. Treaty of Surat",
+        "Which of the following is the chronological sequence in which the above given treaties were signed?"
+      ],
+      "questionText": "With reference to the Anglo-Maratha rivalry in Modern India, consider the following treaties: I. Treaty of Bassein II. Treaty of Deogaon III. Treaty of Salbai IV. Treaty of Surat Which of the following is the chronological sequence in which the above given treaties were signed?",
+      "options": {
+        "a": "II-I-III-IV",
+        "b": "IV-III-I-II",
+        "c": "I-IV-II-III",
+        "d": "III-IV-II-I"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Three Anglo-Maratha Wars were fought between the army of the British East India Company and the Maratha Empire during the years**1775-17**82,**1803-18**05,**1817-18**18. The first war began with the treaty of Surat and ended with the treaty of Salbai.**Option IV:**In 1772 the fourth Peshwa Madhav Rao died. His younger brother Narayan Rao succeeded him with Raghunath Rao Bhatt or Raghoba, his uncle, as his mentor. But, within eight months he had Narayan Rao killed. This led to a conflict over the office of the Peshwa between the supporters of Raghunath Rao and the posthumous son of Narayan Rao. Raghunath Rao appealed to the British governor of Bombay for help who, after the success of the British in the Carnatic and Bengal, was looking for an opportunity to prove his military skills. Hence, t**he Treaty of Surat was **signed between the two in 1775. **Option III: T**he first Anglo-Maratha war ended with the treaty of Salbai. The first Anglo-Maratha (**1775-82**)war was the result of British intervention in the Maratha War of Succession. The war ended with the**Treaty of Salbai, which was **signed in 1782. **The treaty established peace between the two sides for twenty years. Option I: **The Peshwa, Baji Rao II, accepted the subsidiary alliance and** signed the Treaty of Bassein in 1802. **The Treaty of Bassein has been regarded as the cause for the Second Anglo–Maratha War (**1803-05**).**Option II:**The Treaty of Deogaon was**signed in 1803 **between Raghuji Bhonsle II of Nagpur and the British East India Company. Under the Treaty, Raghuji agreed to reduce his territories, transfer large parts of his land to the Company and not commit acts of aggression on the Company or its traders.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q27",
+      "questionNumber": 27,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "What was the primary reason for the adoption of the ‘Forward Policy’ by the East India Company during its rule in India during the late 19th century? values."
+      ],
+      "questionText": "What was the primary reason for the adoption of the ‘Forward Policy’ by the East India Company during its rule in India during the late 19th century? values.",
+      "options": {
+        "a": "To secure the north-western frontiers of India against a probable Russian invasion.",
+        "b": "To promote the Anglicisation of Indian society through the spread of English education and Western cultural",
+        "c": "To promote British manufactured products in the internal Indian markets.",
+        "d": "To ensure the permanent stationing of the British forces in Indian princely states."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The ‘Forward Policy’ was a policy aimed at** ensuring the security of the Northwestern Indian frontiers against any **probable Russian invasion**. During the late-19th century, the Russians were rapidly advancing towards the northwestern frontier of Afghanistan. The British were anxious to protect Afghanistan. The protagonists of Forward Policy believed that the imminent threat of Russian invasion should be met beyond the Indo-Afghan frontier to avoid dangerous repercussions on the disaffected Indian people. It implied that the British Indian government should go forward to establish their control over Afghanistan and check the Russian advance on the Hindukush Frontier.\nThis objective was to be achieved either through treaties with the neighbouring countries or by annexing them completely.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q28",
+      "questionNumber": 28,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "Consider the following statements:",
+        "During the tenure of Charles Canning, the Governor General/Viceroy of India:",
+        "I. the ‘White Mutiny’ took place.",
+        "II. the central Public Works Department was established.",
+        "III. the first railway line in India between Bombay and Thane was opened to traffic.",
+        "IV. universities at Calcutta, Madras and Bombay were established.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: During the tenure of Charles Canning, the Governor General/Viceroy of India: I. the ‘White Mutiny’ took place. II. the central Public Works Department was established. III. the first railway line in India between Bombay and Thane was opened to traffic. IV. universities at Calcutta, Madras and Bombay were established. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and IV only",
+        "b": "I, II and IV",
+        "c": "III and IV",
+        "d": "I only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Charles Canning served as the governor General of India from 1856 till 1862. From 1856 till 1857 he was the Governor General and from 1858 till 1862, the Viceroy of India.**\n\nStatement I is correct: **White Mutiny by European Troops (1859): The White Mutiny was a revolt by European soldiers of the East India Company against their transfer to the British Crown following the Revolt of 1857**. This occurred in **1859, during Charles Canning’s tenure. The mutiny highlighted dissatisfaction among European soldiers about **their service terms under Crown rule. **\n\nStatement II is incorrect: The British East India Company Governor General Dalhousie established the central **Public Works Department (PWD) in 1854 **to systematize and expand infrastructure development in India. The PWD was tasked with constructing roads, canals, bridges, and railway lines, laying the foundation for modern infrastructure in the country.**\n\nStatement III is incorrect: The first railway line in India **covering 34 kms. between Boribunder (Bombay) and Thana was opened to traffic on 16th April, 1853.** It was during the tenure of Governor General of India Dalhousie.**He formulated the “Railway Minute” of 1853, which laid out the blueprint for railway construction in India.**\n\nStatement IV is correct: Establishment of Universities at Calcutta, Madras, and Bombay took place in 1857. These **universities were formally set up in 1857, during the tenure of Charles Canning. **The universities were modelled on the University of London and became significant centers of higher education in India. The University of Calcutta was founded on January 24, 1857. The University of Bombay was established on 18th July 1857 The University of Madras was established on 5th September 1857.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q29",
+      "questionNumber": 29,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Constitutional Developments",
+      "statementLines": [
+        "Consider the following statements:",
+        "An Act for the Better Government of India, 1858:",
+        "I. provided for the appointment of a British Cabinet Minister as the Secretary of State for India.",
+        "II. abolished the Board of Control.",
+        "III. abolished all the earlier acts or provisions under the Charter Acts concerning India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: An Act for the Better Government of India, 1858: I. provided for the appointment of a British Cabinet Minister as the Secretary of State for India. II. abolished the Board of Control. III. abolished all the earlier acts or provisions under the Charter Acts concerning India. Which of the statements given above are correct?",
+      "options": {
+        "a": "II and III only",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Act for the Better Government of India, 1858 (Government of India Act of 1858) was largely confined to the improvement of the administrative machinery by which the Indian Government was to be supervised and controlled in England. It did not alter in any substantial way the system of government that prevailed in India.**\n\nStatement I is correct. Through ‘**An Act for the Better Government of India, 1858’**the secretary of state came into **existence**who has complete authority and control over Indian administration. He was responsible to the British parliament. The Secretary of State was to sit in Parliament.** He was a cabinet minister of England and as such was **responsible to the British Parliament. **His salary and establishment was paid from the Indian revenue.**\n\nStatement II is correct. **The Government of India passed from the hands of the English East India Company to the crown. The armed forces of the company were transferred to the crown.**The Board of control and court of Directors **were abolished**.**\n\nStatement III is incorrect. As per the Act, all Acts and Provisions now in force under Charter or Provisions **otherwise concerning India shall, subject to the Provisions of this Act, be applicable to continue in force.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q30",
+      "questionNumber": 30,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Geomorphology",
+      "microTopic": "Landforms",
+      "statementLines": [
+        "The ‘Afar Triangle’ also known as Afar depression, a geologically significant region that forms a junction of three tectonic plates, is located in which of the following regions?"
+      ],
+      "questionText": "The ‘Afar Triangle’ also known as Afar depression, a geologically significant region that forms a junction of three tectonic plates, is located in which of the following regions?",
+      "options": {
+        "a": "Baja California Peninsula",
+        "b": "Horn of Africa",
+        "c": "Anatolia Peninsula",
+        "d": "Arabian Peninsula"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct: **The**Afar Triangle is a geological depression where three tectonic plates—the Nubian, Somali, **and Arabian plates—converge. **This area is**part of the East African Rift system, **which extends from the Afar region down through eastern Africa. It i**s located in the Horn of Africa. **The rifting process occurring here is a result of the**tectonic plates slowly moving apart, **a phenomenon that has been taking place for millions of years.\n- In 2005, a 35-mile-long rift opened up in the Ethiopian desert, signaling the ongoing separation of the African continent. This rift is the surface expression of deep-seated tectonic forces at work, as the Somali plate moves away from the Nubian plate, stretching and thinning the Earth’s crust.\n- The Great Rift Valley region in East Africa has disclosed fossil specimens of the very earliest hominins; that is, the earliest of the human clade.\n- According to geologists, the Afar Triangle region is currently experiencing a rare geological phenomenon that could lead to the formation of a new ocean in 5 to 10 million years.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q31",
+      "questionNumber": 31,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Governor Generals and Their Policies, Administrative Developments, Judicial Developments, Civil Services, Police, Military",
+      "statementLines": [
+        "By a Regulation in 1793, the District Collector was deprived of his judicial powers and made the collecting agent only. What was the reason for such regulation? the burden of other work. given the job of revenue collection in the districts. absolute power was undesirable in one person.",
+        "District Collector should be only a revenue collector."
+      ],
+      "questionText": "By a Regulation in 1793, the District Collector was deprived of his judicial powers and made the collecting agent only. What was the reason for such regulation? the burden of other work. given the job of revenue collection in the districts. absolute power was undesirable in one person. District Collector should be only a revenue collector.",
+      "options": {
+        "a": "Lord Cornwallis felt that the District Collector’s efficiency of revenue collection would enormously increase without",
+        "b": "Lord Cornwallis felt that judicial power should compulsorily be in the hands of Europeans, while Indians can be",
+        "c": "Lord Cornwallis was alarmed at the extent of power concentrated in the District Collector and felt that such",
+        "d": "The judicial work demanded a deep knowledge of India and a good training in law and Lord Cornwallis felt that the"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The reason for such regulation was**Lord Cornwallis was alarmed at the extent of power concentrated in the District **Collector **and felt that such absolute power was undesirable in one person. The revenue administration was separated from the judiciary functions by the Charter Act of 1793.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2010,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2010"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q32",
+      "questionNumber": 32,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Revolutionary Movements - Phase 1 & Phase 2",
+      "statementLines": [
+        "With reference to the Indian revolutionary movement, the Barrah Dacoity (1908) was carried out by the Dacca",
+        "Anushilan Samiti under:"
+      ],
+      "questionText": "With reference to the Indian revolutionary movement, the Barrah Dacoity (1908) was carried out by the Dacca Anushilan Samiti under:",
+      "options": {
+        "a": "Jatin Das",
+        "b": "Pulin Behari Das",
+        "c": "Bhagwati Charan Vohra",
+        "d": "Nirmal Chandra Das"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Barrah Dacoity**(1908) was a r**evolutionary act carried out in East Bengal by members of the Dacca (Dhaka) **Anushilan Samiti **with the objective of raising funds for procuring arms and sustaining underground revolutionary activities. The**operation was organized under Pulin Behari Das,**who was**the founder-president**and chief organizer**of the **Dacca Anushilan Samiti**and played a central role in shaping revolutionary nationalism in Eastern Bengal. Knowledge Base:**Anushilan Samiti:**The**Anushilan Samiti**was a secret revolutionary organisation founded in**1902 in Calcutta**by**Pramathanath Mitra and Satish Chandra Bose. **The Anushilan Samiti got its name from one of Bankim Chandra Chattopadhyay’s works titled** Anushilan-tatva (Theory of Discipline).**This suitably encapsulates the functioning and goal of the Samiti as well, which was a wide umbrella of enhancing physical, mental, moral and spiritual faculties, with the ultimate goal of presenting a strong resistance to the foreign rule. The members underwent regular and holistic training.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q33",
+      "questionNumber": 33,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Advent of Europeans, British Expansion, Anglo Wars",
+      "statementLines": [
+        "In the context of historical geography, the term ‘Columbian Exchange’ is best used to describe: colonies. trade routes.",
+        "World. metropoles."
+      ],
+      "questionText": "In the context of historical geography, the term ‘Columbian Exchange’ is best used to describe: colonies. trade routes. World. metropoles.",
+      "options": {
+        "a": "The introduction of a common metallic gold-based currency to regulate trade between Europe and American",
+        "b": "A treaty-based maritime arrangement between Iberian powers (Spain and Portugal) to divide and control global sea",
+        "c": "The large-scale movement of plants, animals, culture, people, and diseases between the Old World and the New",
+        "d": "A network of plantation-based trade relations established to supply raw materials from the Americas to European"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**term Columbian Exchange**was**coined by historian Alfred W. Crosby in his 1972**book The Columbian Exchange: Biological and Cultural Consequences of 1492. The**term Columbian Exchange refers**to the**large-scale transfer of **biological and cultural elements**, including**crops**(like maize, potatoes),**animals**(like horses, cattle),**human **populations, ideas, technology and diseases**(like smallpox),**between the Old World and the New World.**Christopher Columbus's four voyages between 1492 and 1504 opened Europe's gateway to the Americas**. These expeditions initiated the Columbian Exchange, a vast transfer of goods and peoples. Columbus's journeys significantly altered Western and global history. He believed he reached Asia, a notion later disproven. Amerigo Vespucci correctly identified the lands as a New World.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q34",
+      "questionNumber": 34,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "Which of the following factor/s contributed to the launch of the Home Rule League Movement (1916) in India?",
+        "I. Widespread economic distress and inflation caused by the First World War.",
+        "II. Announcement of the August Declaration by Edwin Montagu.",
+        "III. Enactment of the Lex Loci Act.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following factor/s contributed to the launch of the Home Rule League Movement (1916) in India? I. Widespread economic distress and inflation caused by the First World War. II. Announcement of the August Declaration by Edwin Montagu. III. Enactment of the Lex Loci Act. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "I, II and III",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Home Rule Leagues were**launched across India under the leadership of Lokamanya Tilak and Annie Besant in 1916**. The idea of the Home Rule League had emanated from the Lucknow session of Congress which marked the coming together of Moderate and Radical groups within the Congress. This was spearheaded by Annie Besant, a leading Theosophist, and the radical leader, Bal Gangadhar Tilak. The League** aimed to achieve freedom for India and to **make it a strong and self-reliant country**.** Option I is correct:**World War I**(1914–1918) led to**heavy economic burdens on India**: increased taxation, forced contributions, sharp rise in prices (inflation), shortages of goods, exploitation through war loans, and recruitment pressures. This**created widespread discontent**and hardship among Indians, thereby**contributing to the launch of **the Home Rule League movement. ** Option II is incorrect:**The**Montagu Declaration**(also called the**August Declaration**) was announced on 20 August 1917,**promising \"responsible government**\" as India's goal and**gradual development of self-governing institutions**. This came after the Home Rule Leagues were launched in 1916. The movement actually exerted pressure that helped influence the 1917 declaration, not the other way around. Therefore, it**did not contribute to the launch of the movement. ** Option III is incorrect: The Lex Loci Act **(also known as the Caste Disabilities Removal Act, 1850) was**passed in 1850**. It allowed converts to Christianity to retain inheritance rights despite caste/religious disabilities under traditional Hindu or Muslim law. Hence, it had**no connection with the Home Rule Movement.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q35",
+      "questionNumber": 35,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "With reference to the Faizpur Session of the Indian National Congress (1936), consider the following statements:",
+        "I. It was the first session of the Indian National Congress to be held in a rural setting.",
+        "II. The session was presided over by Jawaharlal Nehru.",
+        "III. During this session, the All-India Youth Congress was formed to mobilize the younger generation in the national movement.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Faizpur Session of the Indian National Congress (1936), consider the following statements: I. It was the first session of the Indian National Congress to be held in a rural setting. II. The session was presided over by Jawaharlal Nehru. III. During this session, the All-India Youth Congress was formed to mobilize the younger generation in the national movement. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**The**Faizpur Session**(1936)**was the first session **of the** Indian National Congress to be held **in **a** village (rural area).**It took place in Faizpur village, near Jalgaon (in present-day Maharashtra).**\n\nStatement II is correct:**The session was presided over by Jawaharlal Nehru**. This was his second term as Congress President (his first was in 1929 at Lahore). Jawaharlal Nehru delivered the presidential address at Faizpur, emphasizing anti-imperialism, socialism, and rural issues. \n\nStatement III is incorrect: **During the**Calcutta Congress session in 1928**, notable events took place, including the**formation of the All India Youth Congress**. The objective was to mobilize young Indians into organized political activity and integrate youth leadership into the broader national movement.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q36",
+      "questionNumber": 36,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Gandhian Phase (Post-1917 till Partition, including NCM, CDM, QIM, Simon Commission, etc.)",
+      "statementLines": [
+        "Which one of the following was the first Ashram established by Mahatma Gandhi upon his return to India from",
+        "South Africa in 1915?"
+      ],
+      "questionText": "Which one of the following was the first Ashram established by Mahatma Gandhi upon his return to India from South Africa in 1915?",
+      "options": {
+        "a": "Sevagram Ashram",
+        "b": "Kasturba Gandhi Ashram",
+        "c": "Sabarmati Ashram",
+        "d": "Kochrab Ashram"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption a is incorrect. Sevagram Ashram was founded by Gandhi in 1936. **The ashram was founded at the village Segaon which was renamed as Sevagram.**\n\nOption b is incorrect. **The**Kasturba Gandhi Ashram**was established in**Guwahati**, located in the Kamrup Metropolitan district of Assam. It was conceived as a tribute to the brave and noble spirit of Kasturba Gandhi after her demise.**The Ashram was inaugurated by Mahatma Gandhi himself in January 1946**. The Ashram continues to adhere to the philosophy of Kasturba Gandhi and Mahatma Gandhi, undertaking activities for the upliftment of downtrodden sections of society to this day. \n\nOption c is incorrect. In 1917, Gandhi founded the ashram at Sabarmati **on the western bank of the Sabarmati River. It was his fourth ashram. Dandi March began from here on March 12, 1930.**\n\nOption d is correct.**Kochrab Ashram **holds significant historical importance as the**first ashram established by **Mahatma Gandhi**upon his return to India from South Africa in 1915.**On 20 May, 1915, Gandhiji took residence in a dwelling located in the Kochrab hamlet, near Paldi, situated on the outskirts of Ahmedabad. Kochrab Ashram, where**Gandhiji stayed for two years**, served as a living space promoting self-improvement, self-sufficiency, and community service. The redeveloped ashram now features modern amenities while preserving Mahatma Gandhi’s belongings and historical documents.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q37",
+      "questionNumber": 37,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "With reference to the contributions of Madan Mohan Malaviya, which of the following statements are correct?",
+        "I. Before Independence of India, he presided over the Indian National Congress session on four separate occasions.",
+        "II. He was a founding member of the Hindu Mahasabha.",
+        "III. He was given the title of ‘Mahamana’.",
+        "IV. In recognition of his service to the nation, he was conferred with the highest civilian honour, Bharat Ratna posthumously by the Government of India.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the contributions of Madan Mohan Malaviya, which of the following statements are correct? I. Before Independence of India, he presided over the Indian National Congress session on four separate occasions. II. He was a founding member of the Hindu Mahasabha. III. He was given the title of ‘Mahamana’. IV. In recognition of his service to the nation, he was conferred with the highest civilian honour, Bharat Ratna posthumously by the Government of India. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "II, III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Madan Mohan Malaviya was the famed Indian educationist and freedom fighter who is also called ‘Mahamana’.**\n\nStatement I is correct. Madan Mohan Malaviya served as the Congress President four times**- in 1909 (Lahore), in 1918 (Delhi), in 1932 (Calcutta) and in 1933 (Calcutta).**\n\nStatement II is correct. Malaviya was one of the early leaders of the Hindu Mahasabha,**and helped found it in 1915. The Hindu Mahasabha was formed in 1915 as a part of the Congress but with radical Hindu nationalist objectives.**Statements III and IV are correct. Madan Mohan Malaviya was given the title of ‘Mahamana’. **In recognition of his service to the nation, Mahamana has been conferred with the highest civilian honour, Bharat **Ratna posthumously by the Government of India in the year 2014. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q38",
+      "questionNumber": 38,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Socio-Religious Reform Movements",
+      "statementLines": [
+        "During the freedom struggle of India, T.N. Nair, P. Tyagaraya Chetti and",
+        "C. Natesa Mudaliar are associated with: the region."
+      ],
+      "questionText": "During the freedom struggle of India, T.N. Nair, P. Tyagaraya Chetti and C. Natesa Mudaliar are associated with: the region.",
+      "options": {
+        "a": "Forming of a British Parliamentary committee to agitate for Indian political reforms in the House of Commons.",
+        "b": "A group of leaders of the provincial congress committee in South India and leading the Salt Satyagraha movement in",
+        "c": "Forming a party which claimed to represent the interests of all non-Brahmans in the Madras Presidency.",
+        "d": "Members of the Drafting committee of the Constituent assembly of India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**non-Brahman resentment**took a political form in 1916 in Madras city with the formation of South Indian Liberal Federation, known as the Justice Party, which claimed to** represent the interests of all non-Brahmans **in the Madras Presidency including Muslims, Christians and Untouchables.**The founders of the organization were T.N. Nair, P. **Tyagaraya Chetti and C. Natesa Mudaliar. **The purpose of the organisation was to “promote the political interests of non-Brahmins.” The initial demand of the** Justice leaders for reserved seats in the Provincial Legislative Council **was slowly extended to include** concessions in education, public appointments and nomination to local boards. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q39",
+      "questionNumber": 39,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Peasant & Working-Class Movements",
+      "statementLines": [
+        "With reference to the communist movement during the freedom struggle of India, consider the following",
+        "statements:",
+        "I. Leaders such as Singaravelu Chettiar, S.",
+        "V. Ghate and S. A. Dange were among the founding members of Communist Party of India.",
+        "II. The Communist Party of India actively participated in the Quit India Movement of 1942 as part of its anti-imperialist struggle.",
+        "III. In 1929, several Communist leaders were accused of organising a railway strike and were prosecuted under the",
+        "Meerut Conspiracy Case.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the communist movement during the freedom struggle of India, consider the following statements: I. Leaders such as Singaravelu Chettiar, S. V. Ghate and S. A. Dange were among the founding members of Communist Party of India. II. The Communist Party of India actively participated in the Quit India Movement of 1942 as part of its anti-imperialist struggle. III. In 1929, several Communist leaders were accused of organising a railway strike and were prosecuted under the Meerut Conspiracy Case. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. The Communist movement in India grew in the backdrop of global ideological churn after the**Russian Revolution of **1917**and rising anti-imperialist struggles within the country. By the early 1920s, small Marxist groups had emerged independently in cities like Bombay, Calcutta and Madras. Finally Communist Party of India was formally established on 26 December 1925 at Kanpur.However, Communist Party of India (CPI) origin can be further traced back to**October 1920**, when M. N. Roy founded an Indian communist group in**Tashkent**under the auspices of the**Communist **International.**\n\nStatement I is correct**. Leaders like**Singaravelu Chettiar, S. A. Dange and S. V. Ghate**played an important role in the establishment of Communist Part of India and are therefore widely recognised as**founding members of CPI.**\n\nStatement II is incorrect**. The**Quit India Movement**was launched in**August 1942**, during the Second World War. At that time, the CPI followed the international communist line that prioritised the global struggle against**fascism**, especially after the Soviet Union was attacked by Nazi Germany in 1941. As a result, the CPI did**not support**the Quit India Movement. Instead, it viewed the British war effort as necessary to defeat fascism.**\n\nStatement III is correct**. The**Meerut Conspiracy Case of 1929**was one of the most significant colonial trials against Indian communists. The British government accused communist leaders of organising strikes, including railway workers’ actions, and of conspiring to overthrow the colonial state. Prominent leaders such as**S. A. Dange , Muzzafar **Ahmad, Shaukat Usmani and foreigners like P.Spratt, B.F.Bradley **were arrested and tried. Although intended to suppress the movement, the trial ironically helped popularise Marxist ideas across India through extensive press coverage. Knowledge Base: Other famous trials of communists i) Kanpur Bolshievek conspiracy case in 1924. ii)Peshawar Bolshievek Conspiracy case**1922-23**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q40",
+      "questionNumber": 40,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Gandhian Phase (Post-1917 till Partition, including NCM, CDM, QIM, Simon Commission, etc.)",
+      "statementLines": [
+        "Who among the following founded the All India Spinners’ Association in 1925?"
+      ],
+      "questionText": "Who among the following founded the All India Spinners’ Association in 1925?",
+      "options": {
+        "a": "Cowasjee Nanabhoy",
+        "b": "Mahatma Gandhi",
+        "c": "Anusuya Sarabhai",
+        "d": "Dewan Chaman Lal"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Established in**1925**, the** All India Spinner’s Association was set up by**Mahatma Gandhi**on his visit to Adampur in Jalandhar district, Punjab. He was greeted with a garland, not of flowers but hand-woven cotton. Impressed by the khadi weavers of Adampur, Gandhi decided to set up the All India Spinner’s Association and inaugurate its first office in Adampur.** The institution produced Khadi throughout the Swadeshi and boycott movements**, giving employment to many and raising competition against the imported cloth from England. Against the backdrop of the Swadeshi movement, Khadi played a pivotal role in breaking the British monopoly on goods.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q41",
+      "questionNumber": 41,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "In the northern hemisphere, the longest day of the year normally occurs in the:"
+      ],
+      "questionText": "In the northern hemisphere, the longest day of the year normally occurs in the:",
+      "options": {
+        "a": "First half of the month of June",
+        "b": "Second half of the month of June",
+        "c": "First half of the month of July",
+        "d": "Second half of the month of July"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. In the northern hemisphere, the longest day of the year is called the**summer solstice. **The maximum amount of sunlight received by the Northern Hemisphere during this time is usually on**June 20, 21 or **22. **This day is referred to as the summer solstice, the longest day of the summer season. It occurs when the sun is directly over the Tropic of Cancer, or more specifically right over 23.5 degree north latitude.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q42",
+      "questionNumber": 42,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Early National Movement - Moderates, Extremists",
+      "statementLines": [
+        "It was established in 1852 at present-day Chennai and was formed in the Madras Presidency. It was founded by",
+        "Gajula Lakshminarasu Chetty.",
+        "Which of the following organisations is described above?"
+      ],
+      "questionText": "It was established in 1852 at present-day Chennai and was formed in the Madras Presidency. It was founded by Gajula Lakshminarasu Chetty. Which of the following organisations is described above?",
+      "options": {
+        "a": "Madras Mahajan Sabha",
+        "b": "India League",
+        "c": "Madras Native Association",
+        "d": "Deccan Sabha"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **Madras Mahajan Sabha was formed in 1884. P. Ananda Charlu and others established Madras Mahajana Sabha (1884) to draw attention of the government to various problems faced by local people.**\n\nOption b is incorrect. **The India League was established by Shishir Kumar Ghose in 1875.**\n\nOption c is correct.**The Madras Native Association (MNA), established in 1852 at present-day Chennai, and **considered as the first Indian political association to be formed in the Madras presidency. Founded by Gajula **Lakshminarasu Chetty.**The impending discussion in the British Parliament regarding Company rule in India provided the impetus for MNA's formation. Dissatisfied with the Company administration, the MNA submitted a petition to the British Parliament pleading the termination of the Company regime after the passage of the Charter Act of 1853.**\n\nOption d is incorrect.**The**Deccan Sabha**was one of the prominent political organizations of the nineteenth century in the**Pune district of Maharashtra.**The organization played a significant role in stirring the patriotic sentiments of the Indians and safeguarding their rights and welfare. The organization was founded in**1895 by Gopal Krishna **Gokhale** under the guidance of Mahadev Govind Ranade, his mentor. V. M. Bhide took over as President, and Gokhale was appointed as the First Secretary.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q43",
+      "questionNumber": 43,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The Pole star, enables sailors located anywhere on the earth to identify the north direction.",
+        "Statement II: The Pole star lies nearly in a direct line with the Earth’s rotational axis above the North Pole.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The Pole star, enables sailors located anywhere on the earth to identify the north direction. Statement II: The Pole star lies nearly in a direct line with the Earth’s rotational axis above the North Pole. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Pole Star, also known as the North Star or the Polaris or Dhruvatara, is a very bright star (around 2500 times more luminous than our sun) placed less than 1° away from the north celestial pole.**\n\nStatement I is incorrect: **The pole star as the name suggests, is located directly over the north pole. As the earth rotates around its axis, the pole star, unlike other stars in the night sky, does not change its position. So, the sailors can identify it and thereby find out the North direction.**This is helpful for sailors in the Northern Hemisphere but in the Southern hemisphere, sailors **can see the North Star, but only in very specific places, at specific times, and if atmospheric conditions are optimal. Typically, this will be around 1.23 degrees south of the equator.**The star is, unfortunately, not visible for most **locations south of the equator.**\n\nStatement II is correct: The Pole Star lies nearly in a direct line with the Earth’s rotational axis **“above” the North Pole, it**stands almost motionless in the night sky**, with all the stars of the northern sky appearing to rotate around it.\nThis makes it an excellent fixed point from which to draw measurements for celestial navigation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q44",
+      "questionNumber": 44,
+      "subject": "History",
+      "sectionGroup": "Art & Culture",
+      "microTopic": "Literature",
+      "statementLines": [
+        "With reference to modern Indian literature, a novel titled ‘Char Adhyay’ was written by whom?"
+      ],
+      "questionText": "With reference to modern Indian literature, a novel titled ‘Char Adhyay’ was written by whom?",
+      "options": {
+        "a": "Bankim Chandra Chatterjee",
+        "b": "Rabindranath Tagore",
+        "c": "Sarat Chandra Chattopadhyay",
+        "d": "Bibhutibhushan Bandopadhyay"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**.**Char Adhyay**was written by**Rabindranath Tagore in 1934**. It occupies an important place in modern Indian literary history. The novel presents a critical view of militant nationalism. It reflects Tagore’s concern that political ideology should not override human values and ethical judgement. The novel explores the moral limits of revolutionary nationalism. It critically examines the use of violence and blind obedience in political movements. Tagore used literature as a space to question ideas that were otherwise celebrated uncritically in public life.**\n\nOption a is incorrect**.**Bankim Chandra Chatterjee**is best known for works like**Anandamath(1882)**and the song**Vande Mataram **contained in it.His writings largely inspired early nationalist thought. His other novels like Durgeshnandini (1865), Kapalkundala (1866), and Devi Chaudhurani (1884), reflect the social, cultural, and moral concerns of a colonised society striving for self-identity.**\n\nOption c is incorrect**.**Sarat Chandra Chattopadhyay**focused mainly on social realism. His novels dealt with family, social reform, and the condition of women. His famous works include novels like**Devdas**etc.**\n\nOption d is incorrect**.**Bibhutibhushan Bandopadhyay**is known for nature-centric and rural narratives such as**Pather Panchali**and**Aranyak**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q45",
+      "questionNumber": 45,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Constitutional Developments",
+      "statementLines": [
+        "With reference to the Delhi Proposals of the Muslim League (1927) during the freedom struggle of India, consider the following statements:",
+        "I. Sind should be made a separate province.",
+        "II. One-third representation for Muslims in the Central Legislature.",
+        "Which of the above proposal(s) was/were made under the Delhi Proposals?"
+      ],
+      "questionText": "With reference to the Delhi Proposals of the Muslim League (1927) during the freedom struggle of India, consider the following statements: I. Sind should be made a separate province. II. One-third representation for Muslims in the Central Legislature. Which of the above proposal(s) was/were made under the Delhi Proposals?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. In response to the challenge posed by the Simon Commission, Indian leaders organised several all-India Conferences to settle these issues and to draw up a blueprint of an agreed constitution for India. A large number of Muslim leaders met at Delhi in 1927 and came up with four basic demands which came to be known as Delhi Proposals.**\n\nStatement I is correct**. One of the demands was that Sind should be made a separate province.**\n\nStatement II is correct**. Muslim League also raised the issue of**representation at the Centre**, where political power was expected to be more concentrated. Muslim leaders demanded**one-third representation for Muslims in the **Central Legislature**, irrespective of population ratios. This was intended as a**protective measure**to prevent marginalisation at the all-India level in any future constitutional arrangement. Knowledge Base:**Delhi Proposals were as follows:** 1) Sind should be made a separate province; 2) The North-West Frontier Province should be treated constitutionally on the same footing as the other provinces;\n3) Muslims should get one-third representation in the Central Legislature; and 4) In Punjab and Bengal, Muslims should get representation in proportion of their population, thus guaranteeing a Muslim majority in the legislatures and in other provinces, where Muslims were in minority, the existing reservation of seats for Muslims should continue.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Forest Acts (FRA 2006, IFA 1927, etc.)",
+      "statementLines": [
+        "With reference to Forest Advisory Committee (FAC), consider the following statements:",
+        "I. It is chaired by the Union Minister for Environment, Forest and Climate Change.",
+        "II. It is a statutory body constituted under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 (Forest Conservation",
+        "Act 1980).",
+        "III. Its primary role is to advise the Central Government on grant of approval of use of any forest land for any non- forest purpose.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Forest Advisory Committee (FAC), consider the following statements: I. It is chaired by the Union Minister for Environment, Forest and Climate Change. II. It is a statutory body constituted under Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 (Forest Conservation Act 1980). III. Its primary role is to advise the Central Government on grant of approval of use of any forest land for any non- forest purpose. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect: The Forest Advisory Committee (FAC)**is headed by the**Director General of Forests, **Ministry of Environment, Forest and Climate Change and not by the Union Minister for Environment, Forest and **Climate Change. **\n\nStatement II is correct: **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 was earlier referred to as Forest Conservation Act 1980.** The Forest Advisory Committee is constituted by the Ministry of Environment & Forests, **Government of India under Section-3 of the Forest (Conservation) Act, 1980, along with the Forest (Conservation) **Rules, 2003.**\n\nStatement III is correct: The Forest Advisory Committee (FAC) examines and scrutinises proposals for the **diversion of forest land for non-forest purposes and advises the Central Government on their approval or **rejection.**It also recommends measures related to compliance and penal provisions under the Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980**. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q47",
+      "questionNumber": 47,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Gandhian Phase (Post-1917 till Partition, including NCM, CDM, QIM, Simon Commission, etc.)",
+      "statementLines": [
+        "With reference to the Gandhi–Irwin Pact during the freedom struggle of India, consider the following:",
+        "I. Release of all political prisoners who were not convicted of violence.",
+        "II. Return of all fines or taxes collected during the Salt Satyagraha movement.",
+        "III. Return of confiscated lands not yet sold to third parties.",
+        "IV. No future taxes on making salt for both personal and commercial purposes.",
+        "How many of the above demands were accepted by Lord Irwin under Gandhi-Irwin Pact?"
+      ],
+      "questionText": "With reference to the Gandhi–Irwin Pact during the freedom struggle of India, consider the following: I. Release of all political prisoners who were not convicted of violence. II. Return of all fines or taxes collected during the Salt Satyagraha movement. III. Return of confiscated lands not yet sold to third parties. IV. No future taxes on making salt for both personal and commercial purposes. How many of the above demands were accepted by Lord Irwin under Gandhi-Irwin Pact?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**.**The Gandhi–Irwin Pact was signed in March 1931**. It followed the first phase of the Civil Disobedience Movement and preceded the Second Round Table Conference. The pact was essentially a political truce. It aimed to normalise the situation by addressing the most pressing grievances arising from mass protests, arrests, and punitive actions taken by the colonial state and to bring Indian National Congress to the negotiating table at the Second Round Table Conference in 1931.** Option I is correct**. Lord Irwin under the pact agreed to the**release of political prisoners who had not been **convicted of violent offences**. This clause was meant to ease tensions and restore a minimum level of political freedom.** Option II is incorrect**. Lord Irwin under the pact agreed for the**remission of fines**that had been imposed but not yet collected from satyagrahis. This was significant because fines were widely used to economically punish participants of the movement. There was no provision for return of all fines or taxes collected during the Salt Satyagraha movement.** Option III is correct**. Lord Irwin under the pact provided for the**return of confiscated lands**, provided they had not already been sold to third parties. This condition was important and reflects the cautious approach of the colonial administration while still offering tangible relief to peasants.** Option IV is incorrect**. Lord Irwin under the pact allowed the making of salt by those living in coastal areas for personal consumption and not for commercial purposes .",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following information:",
+        "Animals Group of vertebrates it belongs to Feature",
+        "I. Turtle Reptile Cold-blooded",
+        "II. Eel Fish Cold-blooded",
+        "III. Salamander Ambhibian Warm-blooded",
+        "IV. Peacock Aves Warm-blooded In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "Consider the following information: Animals Group of vertebrates it belongs to Feature I. Turtle Reptile Cold-blooded II. Eel Fish Cold-blooded III. Salamander Ambhibian Warm-blooded IV. Peacock Aves Warm-blooded In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. Animals are commonly classified on the basis of how they**regulate their body temperature**. Some animals depend on the**external environment**to regulate their body heat, while others can**maintain a constant internal temperature**regardless of surroundings.**Cold-blooded animals**(ectothermic animals)**cannot maintain a constant body temperature**. Their body temperature**changes with the surrounding environment**. When the environment is cold, their body becomes cold; when it is warm, their body warms up. Such animals often depend on sunlight or warm surfaces to stay active.**Warm-blooded animals**(endothermic animals)**maintain a constant internal body temperature**, regardless of external conditions. They generate heat inside their bodies and can remain active even in cold environments.**Row I is correct**.**Reptiles are generally cold-blooded because they cannot produce enough internal heat to regulate **their body temperature**. Their body temperature changes with the surrounding environment. They depend on external heat sources such as sunlight to remain active.**'Testudines' or 'Chelonii' (turtles, terrapins and tortoises) is one group of reptiles**that are covered with bony plates enclosing their soft body parts.**Turtles are ectothermic**, commonly known as cold-blooded. Examples of Reptiles include: Chelone (Turtle), Testudo (Tortoise), Chameleon (Tree lizard), Calotes (Garden lizard), Crocodilus (Crocodile), Alligator (Alligator), Hemidactylus (Wall lizard), Poisonous snakes – Naja (Cobra), Bangarus (Krait), Vipera (Viper).**Row II is correct**.**Fishes are in general cold-blooded because their body temperature remains almost the same as **the temperature of the surrounding water**. They do not have internal mechanisms to generate or retain heat. Changes in water temperature directly affect their activity level.**An eel, like other fishes, lives in water and its body temperature remains**almost the same as the surrounding **water temperature**. It does not produce internal heat to regulate its body.**Row III is incorrect**.**Amphibians are cold-blooded (and not Warm-blooded) because they cannot maintain a **constant internal body temperature.**Their thin and moist skin leads to quick heat loss. Their metabolism is not sufficient to produce body heat independently. A**salamander**is a cold-blooded amphibian. Its activity level depends heavily on environmental conditions such as moisture and temperature.**Row IV is correct**.**Birds belong to the group Aves**and are warm-blooded.**Birds are warm-blooded because they can **maintain a constant internal body temperature**.They have a high metabolic rate that produces heat continuously. Feathers help in insulating the body and preventing heat loss. A**peacock**,**like all birds**, can maintain a stable internal body temperature. This allows birds to stay active in different climates and even during cooler parts of the day.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo104.pdf - Page 53; https://www.worldwildlife.org/resources/explainers/natures-most-mysterious-fish-facts-about-fascinating- freshwater-eels/ ; https://kids.nationalgeographic.com/animals/reptiles/facts/komodo-dragon"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q49",
+      "questionNumber": 49,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Geomorphology",
+      "microTopic": "Geology and Rocks",
+      "statementLines": [
+        "In context of different types of rocks, ‘limestone, chert and dolomite’ are examples of:"
+      ],
+      "questionText": "In context of different types of rocks, ‘limestone, chert and dolomite’ are examples of:",
+      "options": {
+        "a": "Extrusive igneous rocks",
+        "b": "Mechanically formed sedimentary rocks",
+        "c": "Metamorphic rocks",
+        "d": "Chemical sedimentary rocks"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption a is incorrect: Extrusive igneous rocks are formed by cooling of lava on the earth’s surface. **As lava cools very rapidly on coming out of the hot interior of the earth, the mineral crystals forming these rocks are very fine. These rocks are also called volcanic rocks.**Gabbro and basalt are very common examples of such rocks. **These rocks are found in volcanic areas. The Deccan plateau’s regur soil in India is derived from lava.**\n\nOption b is incorrect: Mechanical sediments **include the fragments of minerals and rocks that are produced by mechanical weathering such as sandstone, shale, siltstone, etc.**\n\nOption c is incorrect: Metamorphic rocks are formed under the influence of heat or pressure on sedimentary or **igneous rocks. **Tremendous pressure and high temperature change the colour, hardness, structure and composition of all types of pre-existing rocks. The process which brings about the change is known as Metamorphism and the ultimate products, formed due to operation of such processes are defined as the Metamorphic rocks.**Slate, gneiss, **schist, marble and diamond are good examples of metamorphic rocks. **Metamorphic rocks are hard and tough in comparison to the parent rocks from which they are formed.**\n\nOption d is correct: Chemical sedimentary rocks **are**formed from soluble substances which are removed in **solution **and deposited to form chemical sedimentary rocks like**limestone, chert, dolomite, ironstone, etc. **Inorganic processes such as evaporation, precipitation and chemical activity can produce chemical sediments. This type of sedimentary deposition occurs when material dissolved in water chemically precipitates from water. This type of sedimentation is known as chemical sedimentation. One such example is dripstones (stalactites and stalagmites) that decorate many caves.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-history-environment-test32-q50",
+      "questionNumber": 50,
+      "subject": "History",
+      "sectionGroup": "Modern",
+      "microTopic": "Advent of Europeans, British Expansion, Anglo Wars",
+      "statementLines": [
+        "With reference to advent of Europeans in India and their first factory in India, consider the following pairs:",
+        "European Countries First Factory in India",
+        "I. British Broach",
+        "II. French Surat",
+        "III. Dutch Pulicat",
+        "IV. Portuguese Chittagong",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to advent of Europeans in India and their first factory in India, consider the following pairs: European Countries First Factory in India I. British Broach II. French Surat III. Dutch Pulicat IV. Portuguese Chittagong How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Pair I is incorrect:**The** British East India Company established **its** first permanent factory in India at Surat in 1613 **(after receiving permission from Mughal Emperor Jahangir). Although they had an earlier temporary post at**Masulipatnam**(Machilipatnam)**in 1611, and later established a factory there in 1616.**Sir Thomas Roe set up factories at Agra, Ahmedabad, and Broach in 1619.**Pair II is correct: **The** French East India Company established **its** first factory **in India** at Surat in 1668**. Their**second **factory was set up at Masulipatnam in 1669**.**Pair III is incorrect: The Dutch established their first factory at Petapuli in North Coromandal in 1606, followed by **another at Masulipatam in the same year. They established their factory at Pulicat in 1610. **Pair IV is incorrect: **In the Malabar region the Portuguese established their first factory in 1500 at Calicut. However due to their conflict with Zamorin of Calicut, the Portuguese could not continue for long. The first effort in this direction was made at Chittagong, the chief port of Bengal during this period.**After obtaining permission from Mahmud Shah, the king of Bengal, Portuguese established factories at Chittagong **and Satgaon in 1536. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

@@ -1,0 +1,1432 @@
+{
+  "id": "forum-sfg-2026-level-1-csat-test15",
+  "title": "Test 15- L1 SFG 2026 - Sectional - CSAT",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 80,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q01",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "The number 3798125P369 is divisible by",
+        "7. What is the value of the digit P?"
+      ],
+      "questionText": "The number 3798125P369 is divisible by 7. What is the value of the digit P?",
+      "options": {
+        "a": "1",
+        "b": "6",
+        "c": "7",
+        "d": "9"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** It is given that 3798125P369 is divisible by 7 First divide the given number in triplets of digits from right to left: 369/25P/981/37 Subtracting the first and the second triplet and the third and the last; and then adding the result:\n369 – 25P + 981 – 37 = 1350 – 25P – 37 = 1313 – 25P Now, on dividing 1313 by 7 we get 4 as remainder. So, when 25P is divided by 7, it should give 4 as remainder.\n25P in the above equation will be between 250 to 259. Now, both 252 and 259 are divisible by 7. So, the number must be 252 + 4 = 256. Therefore, the value of P = 6",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q02",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "What is the rightmost non-zero digit in the value of 70²⁰²⁶?"
+      ],
+      "questionText": "What is the rightmost non-zero digit in the value of 70²⁰²⁶?",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "7",
+        "d": "9"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Rewriting the number **70 = 7 × 10 So, 70²⁰²⁶ = (7 × 10) ²⁰²⁶ = 7²⁰²⁶ × 10²⁰²⁶**Effect of 10²⁰**²⁶** 10²⁰²⁶ only adds zeros at the end of the number.\nIt does **not** affect the rightmost **non-zero** digit. Therefore, we only need the last digit of **7²⁰**²⁶**.**Cyclic pattern of last digits of powers of 7**7¹ → 7 7² → 9 7³ → 3 7⁴ → 1 The cycle repeats every 4 powers: 7, 9, 3, 1**Locate 2026 in the cycle**2026 ÷ 4 gives remainder**2**. Remainder 2 corresponds to the**second digit**in the cycle.**Identify the digit**Second digit in the cycle =**9**The rightmost non-zero digit is**9**.**Therefore, Option d is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q03",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "When the numbers 749, 1041, and 1479 are each divided by a certain positive integer n, they all leave the same remainder r, where r is greater than",
+        "5. How many possible values of n satisfy this condition?"
+      ],
+      "questionText": "When the numbers 749, 1041, and 1479 are each divided by a certain positive integer n, they all leave the same remainder r, where r is greater than 5. How many possible values of n satisfy this condition?",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "1",
+        "d": "4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **Key Concept required while solving the given problem**If three numbers leave the same remainder when divided by a number**n**, then the**difference of any two numbers **must be divisible by n**.**Finding the differences between the numbers **1041 − 749 = 292 1479 − 1041 = 438 1479 − 749 = 730**Finding the greatest common divisor (GCD) of the differences **GCD of 292 and 438 = GCD of 292 and (438 − 292 = 146) = 146 GCD of 146 and 730 = 146 So,**n must be a divisor of 146**.**List all positive divisors of 146 **146 = 2 × 73 Divisors of 146 are: 1, 2, 73, 146**Applying the condition r > 5 **The remainder r is obtained when 749 is divided by n. - For n = 1 or 2, the remainder is less than or equal to 1, which does not satisfy r > 5. - For n = 73: 749 ÷ 73 leaves a remainder of 19 (greater than 5). - For n = 146: 749 ÷ 146 leaves a remainder of 19 (greater than 5). Thus, only**73 and 146**satisfy all conditions. The number of possible values of**n**is**2**.**Therefore, Option b is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q04",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "A warehouse contains three vats with 462 litres of Apple juice, 546 litres of orange juice, and 756 litres of Grape juice. The owner wants to bottle the juices into identical containers such that each container is filled completely (no partial filling). No container contains a mixture of different juices. The capacity of each container is an even integer greater than",
+        "5. How many different container capacities (in litres) are possible?"
+      ],
+      "questionText": "A warehouse contains three vats with 462 litres of Apple juice, 546 litres of orange juice, and 756 litres of Grape juice. The owner wants to bottle the juices into identical containers such that each container is filled completely (no partial filling). No container contains a mixture of different juices. The capacity of each container is an even integer greater than 5. How many different container capacities (in litres) are possible?",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "4",
+        "d": "5"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **The container size must exactly divide the quantity of each juice. Hence, the container capacity must be a common divisor of 462, 546, and 756.**Finding the greatest common divisor (GCD) **Prime factorizations: - 462 = 2 × 3 × 7 × 11-546 = 2 × 3 × 7 × 13-756 = 2² × 3³ × 7 Common factors: 2 × 3 × 7 = 42 So, the GCD is 42.**List all divisors of 42 **Divisors of 42 are: 1, 2, 3, 6, 7, 14, 21, 42**Applying the given conditions **- The capacity must be**even**. - The capacity must be**greater than 5**. From the list, the values that satisfy both conditions are: - 6-14-42 The number of different possible bottle sizes is**3**.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q05",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Partnership",
+      "statementLines": [
+        "Two friends, A and B, start a café business. A invests ₹10,000 less than B. A remains in the business for 12 months, while B remains for 6 months. The total profit earned is ₹5,",
+        "000. A’s share of profit is ₹1,000 more than B’s share. What was the capital invested by B?"
+      ],
+      "questionText": "Two friends, A and B, start a café business. A invests ₹10,000 less than B. A remains in the business for 12 months, while B remains for 6 months. The total profit earned is ₹5, 000. A’s share of profit is ₹1,000 more than B’s share. What was the capital invested by B?",
+      "options": {
+        "a": "₹20,000",
+        "b": "₹25,000",
+        "c": "₹30,000",
+        "d": "₹40,000"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Profit-sharing rule is given by:**Profit is shared in the ratio of Capital × Time.**Assume B’s capital**Let B’s capital = x Then A’s capital = x − 10,000**Calculate investment–time values**A’s investment-time value = (x − 10,000) × 12 B’s investment-time value = x × 6 So, profit ratio A: B = 12(x − 10,000): 6x = 2(x − 10,000): x**Using profit information**Total profit = ₹5,000 A’s share is ₹1,000 more than B’s share. So, A’s share = ₹3,000 B’s share = ₹2,000 Thus, profit ratio A: B = 3: 2**Forming the equation**2(x − 10,000): x = 3: 2 Cross-multiplying, 4(x − 10,000) = 3x 4x − 40,000 = 3x x = 40,000 The capital contributed by B was ₹40,000.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q06",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "A’s salary is 25% higher than B’s salary. B’s salary is 20% lower than C’s salary. C’s salary is 10% higher than D’s salary. By what percentage is D’s salary lower than A’s salary?"
+      ],
+      "questionText": "A’s salary is 25% higher than B’s salary. B’s salary is 20% lower than C’s salary. C’s salary is 10% higher than D’s salary. By what percentage is D’s salary lower than A’s salary?",
+      "options": {
+        "a": "8.25%",
+        "b": "9.09%",
+        "c": "10%",
+        "d": "11.11%"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **After analyzing the given data, we follow the following approach. **Assume D’s salary**Let D’s salary = 100 units.**Finding C’s salary**C’s salary is 10% higher than D’s salary. C = 110 units.**Finding B’s salary**B’s salary is 20% lower than C’s salary. So, B = 80% of 110 B = 88 units.**Finding A’s salary**A’s salary is 25% higher than B’s salary. So, A = 125% of 88 A = 110 units.**Comparing A’s and D’s salaries**A’s salary = 110 D’s salary = 100 Difference = 110 − 100 = 10 Percentage by which D’s salary is lower than A’s salary: (10/110) × 100 = 9.09% D’s salary is**9.09% lower**than A’s salary.**Therefore, Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q07",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "A student was instructed to perform the following operation on a number. First, multiply the number by ¾. Then, decrease the result by 20 percent. However, the student made a mistake and instead divided the number by ¾ and then increased the result by 20 percent. What is the percentage error in the final result (rounded to two decimal places)?"
+      ],
+      "questionText": "A student was instructed to perform the following operation on a number. First, multiply the number by ¾. Then, decrease the result by 20 percent. However, the student made a mistake and instead divided the number by ¾ and then increased the result by 20 percent. What is the percentage error in the final result (rounded to two decimal places)?",
+      "options": {
+        "a": "66.67%",
+        "b": "133.33%",
+        "c": "166.67%",
+        "d": "33.33%"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **Assume the original number**Let the original number be x.**Finding the correct result**- Multiplying by 3/4 gives: (3/4) × x-Decreasing this by 20 percent means multiplying by 0.8 Correct result = (3/4) × x × 0.8 = 0.6x**Finding the wrong result**- Dividing by 3/4 is the same as multiplying by 4/3 So, value becomes: (4/3) × x-Increasing this by 20 percent means multiplying by 1.2 Wrong result = (4/3) × x × 1.2 = 1.6x**Finding the absolute error**Error = Wrong result − Correct result = 1.6x − 0.6x = 1.0x**Calculating percentage error**Percentage error is calculated with respect to the correct result. Percentage error = (Error ÷ Correct result) × 100 = (1.0x ÷ 0.6x) × 100 = (1 ÷ 0.6) × 100 = 166.67 percent**The percentage error in the final result is 166.67%. **Therefore, Option c is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q08",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "Let n be a positive integer such that n = x × y × z, where x, y, and z are three distinct prime numbers satisfying the condition 3 ≤ x < y < z < 25.",
+        "Consider the following statements:",
+        "1. The sum of the digits of n can be a prime number.",
+        "2. The unit digit of n can never be 5.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Let n be a positive integer such that n = x × y × z, where x, y, and z are three distinct prime numbers satisfying the condition 3 ≤ x < y < z < 25. Consider the following statements: 1. The sum of the digits of n can be a prime number. 2. The unit digit of n can never be 5. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Identify the eligible prime numbers **Prime numbers between 3 and 25 are: 3, 5, 7, 11, 13, 17, 19, 23 There are**8 primes**.**Evaluating Statement 1 **“The sum of the digits of n can be a prime number.”**We only need to find**one valid example**. If n = 3 × 5 × 7 = 105 Sum of digits = 1 + 0 + 5 = 6 (not prime) If n = 3 × 7 × 11 = 231 Sum of digits = 2 + 3 + 1 = 6 (not prime) If n = 5 × 7 × 11 = 385 Sum of digits = 3 + 8 + 5 = 16 (not prime) If n = 3 × 11 × 13 = 429 Sum of digits = 4 + 2 + 9 = 15 (not prime) If n = 7 × 11 × 13 = 1001 Sum of digits = 1 + 0 + 0 + 1 = 2 (prime) Thus, it**is possible**for the digit sum of n to be a prime number.**Hence,\n\nStatement 1 is CORRECT.**Evaluating Statement 2 **“The unit digit of n can never be 5.”**For a number to end in 5, it must be divisible by 5 and must not be divisible by 2. Since 5 is one of the allowed primes, it is possible that one of x, y, or z is 5. Example: n = 3 × 5 × 7 = 105 Unit digit = 5 Hence, the unit digit**can**be 5.**\n\nStatement 2 is INCORRECT.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q09",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "A master carpenter has a large wooden cube and wants to cut it into 72 identical rectangular blocks. The cutting must be such that all blocks are identical in shape and size. Each cut must be a single straight plane through the entire structure. After making a cut, the carpenter is not allowed to move or rearrange the pieces. What is the minimum number of cuts required to obtain 72 identical rectangular blocks?"
+      ],
+      "questionText": "A master carpenter has a large wooden cube and wants to cut it into 72 identical rectangular blocks. The cutting must be such that all blocks are identical in shape and size. Each cut must be a single straight plane through the entire structure. After making a cut, the carpenter is not allowed to move or rearrange the pieces. What is the minimum number of cuts required to obtain 72 identical rectangular blocks?",
+      "options": {
+        "a": "10",
+        "b": "13",
+        "c": "14",
+        "d": "15"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Understanding the given cutting logic **If a cube is cut into a × b × c identical rectangular blocks, then: - Number of blocks = a × b × c-Number of cuts required: o (a − 1) cuts in one direction o (b − 1) cuts in the second direction o (c − 1) cuts in the third direction Total cuts = (a − 1) + (b − 1) + (c − 1) = a + b + c − 3**Factorize 72 into three integers **Possible factorizations of 72 into three integers are: - 3 × 4 × 6-2 × 6 × 6-3 × 3 × 8**Compute cuts for each case **=>For 3 × 4 × 6 Cuts = (3 − 1) + (4 − 1) + (6 − 1) = 2 + 3 + 5 =**10 **=>For 2 × 6 × 6 Cuts = 1 + 5 + 5 =**11 **=>For 3 × 3 × 8 Cuts = 2 + 2 + 7 =**11 **Hence the** minimum**number of cuts required is**10**, achieved using the 3 × 4 × 6 arrangement.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q10",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "Three workers A, B, and C can complete a project together in 12 days. The work proceeds as follows. All three work together for the first 3 days, after which C leaves. A and B then work together for the next 3 days, after which B also leaves. To complete the remaining work within the original 12-day period, A works alone for the last 6 days after increasing his efficiency by 60%. It is given that B is twice as efficient as",
+        "C. How many days would B alone take to complete the entire project?"
+      ],
+      "questionText": "Three workers A, B, and C can complete a project together in 12 days. The work proceeds as follows. All three work together for the first 3 days, after which C leaves. A and B then work together for the next 3 days, after which B also leaves. To complete the remaining work within the original 12-day period, A works alone for the last 6 days after increasing his efficiency by 60%. It is given that B is twice as efficient as C. How many days would B alone take to complete the entire project?",
+      "options": {
+        "a": "48",
+        "b": "51",
+        "c": "53",
+        "d": "55"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Defining work efficiencies **Let the efficiency of C be**c units per day**. Then, efficiency of B =**2c units per day**. Let the efficiency of A =**a units per day**. So, Combined efficiency of A, B, and C = a + 3c.**Total work of the project **Since all three together complete the work in 12 days, Total work = 12 × (a + 3c)**Work done in different phases **First 3 days (A + B + C):**Work done = 3 × (a + 3c)**Next 3 days (A + B):**Efficiency = a + 2c Work done = 3 × (a + 2c)** Remaining work after 6 days **Total work done in first 6 days = 3(a + 3c) + 3(a + 2c) = 6a + 15c Remaining work = 12(a + 3c) − (6a + 15c) = 6a + 21c**Use A’s increased efficiency **A works alone for the last**6 days**with a**60% increase**in efficiency. New efficiency of A = 1.6a Work done by A in 6 days = 6 × 1.6a = 9.6a This equals the remaining work: 9.6a = 6a + 21c 3.6a = 21c a = 35c / 6**Finding total work in terms of c **Total work = 12(a + 3c) = 12(35c/6 + 3c) = 12(53c/6) = 106c**Time taken by B alone **Efficiency of B = 2c Time taken by B alone = Total work ÷ Efficiency of B = 106c ÷ 2c =**53 days**B alone would take 53 days to complete the entire project.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q11",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "What is the number of fives used in numbering a 260-page book?"
+      ],
+      "questionText": "What is the number of fives used in numbering a 260-page book?",
+      "options": {
+        "a": "55",
+        "b": "56",
+        "c": "57",
+        "d": "60"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **For single digit page numbers 5 is used only 1 time. For double digit page numbers**Case 1**: 5 at unit’s place 15, 25, 35… 95= 9 times**Case 2:**5 at tenth place 50,51,52…59= 10 times For triple digit page numbers**Case 1: **5 at unit’s place 105,115,125…195= 10 times 205, 215…255= 6 times**Case 2:**5 at tenth place 150,151,152…159= 10 times 250,251…259= 10 times Adding all cases, 5 is used = 1+9+10+10+6+10+10 = 56**Hence, option b is the correct answer **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q12",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements A and B. Consider the following Question and statements:",
+        "Question: Is x > y > z?",
+        "Statement A: (x − y)(y − z) > 0 Statement B: x + z < 2y",
+        "Which of the following is correct in reference to the question and the statements given above? sufficient."
+      ],
+      "questionText": "A question is followed by two statements A and B. Consider the following Question and statements: Question: Is x > y > z? Statement A: (x − y)(y − z) > 0 Statement B: x + z < 2y Which of the following is correct in reference to the question and the statements given above? sufficient.",
+      "options": {
+        "a": "Statement A alone is sufficient to answer the question, but Statement B alone is not sufficient.",
+        "b": "Statement B alone is sufficient to answer the question, but Statement A alone is not sufficient.",
+        "c": "Both Statement A and Statement B together are sufficient to answer the question, but neither Statement alone is",
+        "d": "Even using both Statement A and Statement B together, the question cannot be answered."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Analysis of Statement A **(x − y)(y − z) > 0 means the product is positive. This happens in**two distinct cases**:**Case 1 **x − y > 0 and y − z > 0 So, x > y > z**Case 2 **x − y < 0 and y − z < 0 So, x < y < z**Example for Case 1:**x = 5, y = 3, z = 1 Condition satisfied, answer is YES**Example for Case 2:**x = 1, y = 3, z = 5 Condition satisfied, answer is NO So,**Statement A alone is not sufficient**.**Analysis of Statement B **x + z < 2y means y is greater than the average of x and z. This condition**does not fix the order**of x, y, and z.**Example where x > y > z **x = 6, y = 4, z = 1 x + z = 7 2y = 8 Condition satisfied**Example where x < y < z **x = 1, y = 4, z = 6 x + z = 7 2y = 8 Condition satisfied So,**Statement B alone is not sufficient**.**Using BOTH Statements Together **From Statement A, only two possibilities exist: 1. x > y > z 2. x < y < z Now we check**whether Statement B eliminates one of these**.**Test Case: x > y > z **Example: x = 6, y = 4, z = 1 Statement A: (x − y)(y − z) = positive → satisfied Statement B: x + z = 7 2y = 8 7 < 8 → satisfied So, this case works.**Test Case: x < y < z **Example: x = 2, y = 5, z = 7 Statement A: (x − y)(y − z) = negative × negative = positive → satisfied Statement B: x + z = 9 2y = 10 9 < 10 → satisfied This case ALSO satisfies**both**statements. Statement B does not force y to be exactly between x and z in a strict ordering sense. It only says y is greater than the average of x and z, which can happen in both increasing and decreasing sequences. So even together, the statements allow: - x > y > z (YES case) - x < y < z (NO case) Hence, the answer cannot be determined uniquely.**Conclusion (Correct) **- Statement A alone → Not sufficient-Statement B alone → Not sufficient-Statements A and B together → Still**not sufficient**The Question cannot be answered even by using both the Statements together.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q13",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements A and B. Consider the following Question and statements:",
+        "In a class of 50 students, Isha and her twin brother Ishan are competing for the top spots. Isha is ranked 4th among the girls. Ishan is ranked 11th in the entire class.",
+        "Question: Between Isha and Ishan, who has the better overall rank in the class?",
+        "Statement A: Among the students ranked lower (worse than) than Ishan, the ratio of boys to girls is 4:9.",
+        "Statement B: Among the top 10 students in the class, the ratio of boys to girls is 3: 2.",
+        "Which of the following is correct in reference to the question and statements given above? sufficient."
+      ],
+      "questionText": "A question is followed by two statements A and B. Consider the following Question and statements: In a class of 50 students, Isha and her twin brother Ishan are competing for the top spots. Isha is ranked 4th among the girls. Ishan is ranked 11th in the entire class. Question: Between Isha and Ishan, who has the better overall rank in the class? Statement A: Among the students ranked lower (worse than) than Ishan, the ratio of boys to girls is 4:9. Statement B: Among the top 10 students in the class, the ratio of boys to girls is 3: 2. Which of the following is correct in reference to the question and statements given above? sufficient.",
+      "options": {
+        "a": "Statement A alone is sufficient to answer the question, but Statement B alone is not sufficient.",
+        "b": "Statement B alone is sufficient to answer the question, but Statement A alone is not sufficient.",
+        "c": "Both Statement A and Statement B together are sufficient to answer the question, but neither Statement alone is",
+        "d": "Even using both Statement A and Statement B together, the question cannot be answered."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Given Data: **- Ishan’s overall rank = 11. - Isha’s overall rank depends on how many**boys are ranked above her**. - Isha being 4th among girls means**exactly 3 girls are ahead of her**.**Analysis of Statement A alone **- Students ranked lower than Ishan = 50 − 11 = 39. - Ratio of boys to girls among these 39 students = 4: 9. - Total parts = 13. - Each part = 39 ÷ 13 = 3. So: - Boys below Ishan = 4 × 3 = 12-Girls below Ishan = 9 × 3 = 27 This gives**no information about how many boys or girls are ranked above Isha**. Possible situations: - Many boys could be ahead of Isha → Isha’s rank could be worse than 11. - Few boys could be ahead of Isha → Isha’s rank could be better than 11.**Conclusion:**Statement A alone is**not sufficient**.**Analysis of Statement B alone **- Top 10 students have boys: girls = 3: 2. - Total parts = 5. - Girls in top 10 = (2/5) × 10 = 4. - Boys in top 10 = 6. Since there are**only 4 girls in the top 10**and Isha is**4th among girls**, she must be included in the top 10. Therefore: - Isha’s overall rank is**10 or better**. - Ishan’s rank is**11**. So,**Isha definitely has a better rank than Ishan**.**Conclusion:**Statement B alone is**sufficient**.**Therefore, Option b is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q14",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "In a city, two companies, Company X and Company Y, are competing for market share. At the beginning of the year,",
+        "Company X had a larger market share than Company Y.",
+        "Question: Is Company X's market share still larger than Company Y's at the end of the year?",
+        "Statement I: During the year, Company Y’s market share increased by 25% of its value at the start of the year, while",
+        "Company X’s market share decreased by 15% of its initial value at the start of the year.",
+        "Statement II: The total gain by Company Y over the course of the year is exactly equal to the total loss by Company X.",
+        "Which one of the following is correct in reference to the question and statements given above? statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: In a city, two companies, Company X and Company Y, are competing for market share. At the beginning of the year, Company X had a larger market share than Company Y. Question: Is Company X's market share still larger than Company Y's at the end of the year? Statement I: During the year, Company Y’s market share increased by 25% of its value at the start of the year, while Company X’s market share decreased by 15% of its initial value at the start of the year. Statement II: The total gain by Company Y over the course of the year is exactly equal to the total loss by Company X. Which one of the following is correct in reference to the question and statements given above? statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even using both the Statements together."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Statement I Analysis **Given:**- Company Y’s market share increased by**25% of its own initial value**- Company X’s market share decreased by**15% of its own initial value**Let initial market shares be: - Company X = X-Company Y = Y-with X > Y End-of-year shares: - Company X = X − 0.15X = 0.85X-Company Y = Y + 0.25Y = 1.25Y We need to check whether: 0.85X > 1.25Y This depends on the**initial ratio of X to Y**. Example 1: - X = 60, Y = 40-End values: - X = 51, Y = 50 → X still larger Example 2: - X = 52, Y = 48-End values: - X = 44.2, Y = 60 → Y becomes larger Different outcomes are possible.**Conclusion:**Statement I alone is**not sufficient**.**Statement II Analysis **Given:**- The total percentage points gained by Company Y equals the total percentage points lost by Company X. This means: Increase in Y = Decrease in X (in absolute percentage-point terms) However: - We dont know how large these changes are. - We dont know the initial market shares. Example 1: - X = 70, Y = 30-X loses 5 points → 65-Y gains 5 points → 35-X still larger Example 2: - X = 52, Y = 48-X loses 4 points → 48-Y gains 4 points → 52-Y becomes larger Different outcomes are again possible.**Conclusion:**Statement II alone is**not sufficient**.**Using Both Statements Together **From Statement I: - Change in X = 15% of X-Change in Y = 25% of Y From Statement II: - Absolute loss of X = absolute gain of Y So: 0.15X = 0.25Y This gives: X / Y = 0.25 / 0.15 = 5 / 3 So initial market shares are in the ratio: X: Y = 5: 3 Now compute end-of-year values: Initial: - X = 5 units-Y = 3 units End of year: - X = 0.85 × 5 = 4.25-Y = 1.25 × 3 = 3.75 Clearly: 4.25 > 3.75 So,**Company X still has a larger market share**at the end of the year. This conclusion is**unique and definitive**. Both the Statements together are sufficient, but neither statement alone is sufficient.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q15",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "Six friends—U, V, W, X, Y, and Z—are sitting in a row facing North. Each person occupies a unique place.",
+        "Question: Who is sitting at the extreme right end?",
+        "Statement I: Only two people sit between U and",
+        "X. V sits to the immediate left of X.",
+        "Statement II: W sits third to the left of Y. Y is not an immediate neighbor of U.",
+        "Which of the following is correct in reference to the question and statements given above? sufficient."
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: Six friends—U, V, W, X, Y, and Z—are sitting in a row facing North. Each person occupies a unique place. Question: Who is sitting at the extreme right end? Statement I: Only two people sit between U and X. V sits to the immediate left of X. Statement II: W sits third to the left of Y. Y is not an immediate neighbor of U. Which of the following is correct in reference to the question and statements given above? sufficient.",
+      "options": {
+        "a": "Statement I alone is sufficient to answer the question, but Statement II alone is not sufficient.",
+        "b": "Statement II alone is sufficient to answer the question, but Statement I alone is not sufficient.",
+        "c": "Both Statement I and Statement II together are sufficient to answer the question, but neither Statement alone is",
+        "d": "Even using both Statement I and Statement II together, the question cannot be answered."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Analyzing Statement I **“Two people between U and X” means the distance between U and X is 3 seats. Possible position pairs for (U, X): 1 and 4 2 and 5 3 and 6 Also, V sits immediately to the left of X, so X cannot be in position 1. So valid X positions are 4, 5, or 6. Check each case: Case 1 X at 4 → V at 3 Then U must be at 1 or 7 (7 not possible) Arrangement so far: 1 2 3 4 5 6 U _ V X _ _ Remaining: W, Y, Z (many possibilities) Right end not fixed. Case 2 X at 5 → V at 4 Then U at 2 Arrangement so far: 1 2 3 4 5 6 _ U _ V X _ Remaining: W, Y, Z Right end not fixed. Case 3 X at 6 → V at 5 Then U at 3 Arrangement so far: 1 2 3 4 5 6 _ _ U _ V X Remaining: W, Y, Z Right end not fixed. Conclusion from Statement I: Multiple possibilities →**not sufficient**Analyzing Statement II **“W sits third to the left of Y” means: W _ _ Y (exactly three positions apart) Possible (W, Y) pairs: (1,4), (2,5), (3,6) Check each: Case 1 W at 1, Y at 4 Remaining: U, V, X, Z Condition: Y is not adjacent to U U cannot be at 3 or 5 Still multiple arrangements → right end not fixed Case 2 W at 2, Y at 5 U cannot be at 4 or 6 Still multiple arrangements → right end not fixed Case 3 W at 3, Y at 6 U cannot be at 5 Still multiple arrangements → right end not fixed Conclusion from Statement II: Multiple possibilities →**not sufficient**Combining Statement I and Statement II **We get three possible cases as under: Positions: 1-U, 2-W, 3-V, 4-X, 5-Y, 6-Z → Extreme right: Z Positions: 1-Z, 2-U, 3-W, 4-V, 5-X, 6-Y → Extreme right: Y Positions: 1-W, 2-V, 3-X, 4-Y, 5-Z, 6-U → Extreme right: U Since multiple cases exist, we cannot determine which is the Unique sitting arrangement in which only one person sits at each position, hence we cannot uniquely determine who sits at Extreme right position.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q16",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "Question: Is the integer n divisible by 125?",
+        "Statement I: n = k! ÷ m! for some positive integers k and m, where k − m = 5.",
+        "Statement II: n is the product of five consecutive integers, and the middle (median) integer is a prime number p greater than 7.",
+        "Which of the following is correct in reference to the question and the statements given above? sufficient."
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: Question: Is the integer n divisible by 125? Statement I: n = k! ÷ m! for some positive integers k and m, where k − m = 5. Statement II: n is the product of five consecutive integers, and the middle (median) integer is a prime number p greater than 7. Which of the following is correct in reference to the question and the statements given above? sufficient.",
+      "options": {
+        "a": "Statement I alone is sufficient to answer the question, but Statement II alone is not sufficient.",
+        "b": "Statement II alone is sufficient to answer the question, but Statement I alone is not sufficient.",
+        "c": "Both Statement I and Statement II together are sufficient to answer the question, but neither Statement alone is",
+        "d": "Even using both Statement I and Statement II together, the question cannot be answered."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **To determine whether n is divisible by 125, we must check whether n contains at least three factors of 5 (since 125 = 5 × 5 × 5).**Analysis of Statement I **Statement I says: n = k! ÷ m! and k − m = 5 This means: n = (m + 1)(m + 2)(m + 3)(m + 4)(m + 5) So n is the product of**five consecutive integers**. Now check if this product always contains at least three factors of 5. - If m = 5 → product includes 6, 7, 8, 9, 10 → only one factor of 5-If m = 120 → product includes 121, 122, 123, 124, 125 → includes 125 = 5³ Both outcomes are possible.**Conclusion for Statement I **Statement I**does not guarantee**that n is divisible by 125. Hence Statement I alone is**not sufficient**.**Analysis of Statement II **Statement II says: n is the product of five consecutive integers whose median is a prime number p > 7. So the five integers are: p − 2, p − 1, p, p + 1, p + 2 Now check different valid values of p.**Case 1: p = 11 **Numbers are: 9, 10, 11, 12, 13-Only one factor of 5 (from 10) - n is**not divisible by 125**Case 2: p = 127 **Numbers are: 125, 126, 127, 128, 129-125 = 5³-n**is divisible by 125**Both cases satisfy Statement B but give different answers.**Conclusion for Statement II **Statement II**does not give a definite answer**. Statement II alone is**not sufficient**.**Analysis Using Both Statements Together **Statement I already implies n is the product of five consecutive integers. Statement II adds a condition on the median but**still allows multiple valid cases**. As shown above: - Some valid values of p make n divisible by 125, example p=127-Some valid values of p do not , example p=11 Even**together**, the statements do not lead to a unique answer. Statement I and Statement II together are**not sufficient**to answer the question.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q17",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "A workshop consists of 50 participants. Each participant is either an undergraduate or a graduate student. Let P be the probability that a randomly selected participant is a female graduate student.",
+        "Question: Is P less than one-half?",
+        "Statement I: Out of the 50 participants, 24 are female.",
+        "Statement II: Out of the 50 participants, 18 are graduate students.",
+        "Which one of the following is correct in reference to the question and statements given above? statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: A workshop consists of 50 participants. Each participant is either an undergraduate or a graduate student. Let P be the probability that a randomly selected participant is a female graduate student. Question: Is P less than one-half? Statement I: Out of the 50 participants, 24 are female. Statement II: Out of the 50 participants, 18 are graduate students. Which one of the following is correct in reference to the question and statements given above? statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even using both the Statements together."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **We are asked whether: Probability of selecting a female graduate student = (Number of female graduate students) ÷ 50 is**less than 1/2**. This is equivalent to checking whether: Number of female graduate students < 25**Analysis of Statement I **Statement I tells us: - Total number of females = 24 The number of**female graduate students**cannot exceed the total number of females. So: - Maximum possible female graduate students = 24 Since: - 24 < 25 The probability of selecting a female graduate student is**always less than 1/2**, regardless of how many females are graduates.**Conclusion from Statement I **Statement I alone is**sufficient**to answer the question.**Analysis of Statement II Alone **Statement II tells us: - Total number of graduate students = 18 The number of**female graduate students**cannot exceed the total number of graduates. So: - Maximum possible female graduate students = 18 Since: - 18 < 25 The probability of selecting a female graduate student is**always less than 1/2**, regardless of how many graduates are female.**Conclusion from Statement II **Statement II alone is**sufficient**to answer the question.**Conclusion **- Statement I alone → sufficient-Statement II alone → sufficient Therefore,**each statement independently answers the question**.**Therefore, Option b is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q18",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "A specialty coffee roaster sells two types of coffee beans: Highland Arabica and Lowland Robusta. A customer purchases 6 pounds of Highland Arabica and 4 pounds of Lowland Robusta for a total cost of $",
+        "132. The price per pound of each type of bean is fixed.",
+        "Question: What is the differential price per unit of Highland Arabica and Lowland Robusta?",
+        "Statement I: Another customer buys 9 pounds of Highland Arabica and 6 pounds of Lowland Robusta for $198.",
+        "Statement II: A third customer buys 3 pounds of Highland Arabica and 3 pounds of Lowland Robusta for $81.",
+        "Which of the following is correct in reference to the question and statements given above? statement alone.",
+        "Statement alone."
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: A specialty coffee roaster sells two types of coffee beans: Highland Arabica and Lowland Robusta. A customer purchases 6 pounds of Highland Arabica and 4 pounds of Lowland Robusta for a total cost of $ 132. The price per pound of each type of bean is fixed. Question: What is the differential price per unit of Highland Arabica and Lowland Robusta? Statement I: Another customer buys 9 pounds of Highland Arabica and 6 pounds of Lowland Robusta for $198. Statement II: A third customer buys 3 pounds of Highland Arabica and 3 pounds of Lowland Robusta for $81. Which of the following is correct in reference to the question and statements given above? statement alone. Statement alone.",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either",
+        "d": "The Question cannot be answered even using both the Statements together."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Translate the given information **Let: - Price of Arabica per pound = A-Price of Robusta per pound = R From the question stem: - 6A + 4R = 132 We must determine the value of**A**.**Analysis of Statement I **Statement I gives: - 9A + 6R = 198 Notice: - This equation is exactly**1.5 times**the equation from the question stem. So, Statement I does**not provide any new independent information**. There are still infinitely many values of A and R that satisfy the equation.**Conclusion for Statement I **Statement I alone is**not sufficient**to determine the price of Arabica.**Analysis of Statement II **Statement II gives: - 3A + 3R = 81-This simplifies to: A + R = 27 Now we have two independent equations: - 6A + 4R = 132-A + R = 27 Solving: - From A + R = 27 → R = 27 − A-Substitute into first equation: o 6A + 4(27 − A) = 132 o 6A + 108 − 4A = 132 o 2A = 24 o A = 12 Thus, the price of Highland Arabica is uniquely determined.**Conclusion for Statement II **Statement II alone is**sufficient**.**Conclusion **- Statement I alone → Not sufficient-Statement II alone → Sufficient**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q19",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "A question is followed by two statements I and",
+        "II. Consider the following Question and statements:",
+        "Question: What is the unique value of the integer ‘x’?",
+        "Statement I: x is a prime number such that x is greater than 10 and less than 40, and the sum of its digits is also a prime number.",
+        "Statement II: (x − 1) is a multiple of 6, and (x + 2) is a multiple of 5.",
+        "Which of the following is correct in reference to the question and statements given above?"
+      ],
+      "questionText": "A question is followed by two statements I and II. Consider the following Question and statements: Question: What is the unique value of the integer ‘x’? Statement I: x is a prime number such that x is greater than 10 and less than 40, and the sum of its digits is also a prime number. Statement II: (x − 1) is a multiple of 6, and (x + 2) is a multiple of 5. Which of the following is correct in reference to the question and statements given above?",
+      "options": {
+        "a": "The question can be answered using Statement I alone, but not using Statement II alone.",
+        "b": "The question can be answered using either Statement alone.",
+        "c": "The question can be answered using both Statements together, but not using either Statement alone.",
+        "d": "The question cannot be answered even by using both Statements together."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Analysis of Statement I **We list all prime numbers between 10 and 40. Primes between 10 and 40 are: 11, 13, 17, 19, 23, 29, 31, 37 Now check whether the sum of digits of each number is also prime. - 11 → 1 + 1 = 2 (prime) → possible-13 → 1 + 3 = 4 (not prime) - 17 → 1 + 7 = 8 (not prime) - 19 → 1 + 9 = 10 (not prime) - 23 → 2 + 3 = 5 (prime) → possible-29 → 2 + 9 = 11 (prime) → possible-31 → 3 + 1 = 4 (not prime) - 37 → 3 + 7 = 10 (not prime) Possible values of x from Statement I are: 11, 23, and 29 Since more than one value is possible, Statement I alone is**not sufficient**.**Analysis of Statement II **There are two conditions. First condition: (x − 1) is a multiple of 6 This means x is 1 more than a multiple of 6. Possible values are: 7, 13, 19, 25, 31, 37, 43, 49, 55, and so on. Second condition: (x + 2) is a multiple of 5 This means x is 2 less than a multiple of 5. Such numbers end in 3 or 8, for example: 3, 8, 13, 18, 23, 28, 33, 38, 43 and so on. Common values satisfying both conditions are: 13, 43, 73, 103, and so on. Since there are infinitely many possible values, Statement II alone is**not sufficient**.**Combining Statement I and Statement II **From Statement I, possible values of x are: 11, 23, and 29 From Statement II, possible values of x are: 13, 43, 73, and so on. There is no common value between these two sets. Therefore, no value of x satisfies both statements at the same time.**The Question cannot be answered even by using both the Statements together.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q20",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "How many 5-digit numbers can be formed from the set of digits {0, 1, 2, 3, 4, 5, 6, 7} such that no digit is repeated, and the digits of the number are in strictly decreasing order?"
+      ],
+      "questionText": "How many 5-digit numbers can be formed from the set of digits {0, 1, 2, 3, 4, 5, 6, 7} such that no digit is repeated, and the digits of the number are in strictly decreasing order?",
+      "options": {
+        "a": "56",
+        "b": "66",
+        "c": "24",
+        "d": "84"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Given data: **- Since the digits must be in strictly decreasing order, no permutation is possible. - Each selection of 5 distinct digits gives exactly one valid number. - Hence, the problem reduces to selecting 5 digits from 8. Number of selections = 8C5 = 56-The greatest selected digit always appears first, so the leading digit is never 0. - Therefore, all selections form valid 5-digit numbers.**Total number of such 5-digit numbers = 56**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q21",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p +q) (r+s)?"
+      ],
+      "questionText": "If p, q, r and s are distinct single digit positive numbers, then what is the greatest value of (p +q) (r+s)?",
+      "options": {
+        "a": "230",
+        "b": "225",
+        "c": "224",
+        "d": "221"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** To maximize (p+q)(r+s), we need to maximize both p+q and r+s. Since p, q, r, and s are distinct single digit positive numbers, The greatest possible values of p+q and r+s are 9+6=15 and 7+8=15.\nTherefore, the greatest possible value of (p+q)(r+s) is 15×15=225.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q22",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "If x is a real number such that 0 < x < 1; then which of the following statements is/are correct?",
+        "I: x − x² > x² − x³ II: x / (1 + x) < x² / (1 + x²)",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If x is a real number such that 0 < x < 1; then which of the following statements is/are correct? I: x − x² > x² − x³ II: x / (1 + x) < x² / (1 + x²) Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Statement I **x − x² > x² − x³ Bring all terms to one side: x − x² − x² + x³ > 0 x − 2x² + x³ > 0 Factor: x(1 − 2x + x²) > 0 x(1 − x)² > 0 Now check signs: - x > 0 (given) - (1 − x)² > 0 and is** positive**since 0 < x < 1 So, the product is**positive**.**\n\nStatement I is correct.**Statement II **x / (1 + x) < x² / (1 + x²) Since denominators are positive, cross-multiply: x(1 + x²) < x²(1 + x) Expand both sides: x + x³ < x² + x³ Cancel x³ from both sides: x < x² But for 0 < x < 1: x² < x So the inequality becomes**false**.**\n\nStatement II is incorrect.**Only Statement I is correct.**Therefore, Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q23",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "Consider a set S of 15 distinct integers.",
+        "Value-I= The minimum possible value of the average of the set S, given that the set consists of consecutive even integers whose sum is greater than “−30”.",
+        "Value-II= The minimum possible value of the product of the set S, given that the set consists of consecutive integers and contains exactly seven negative integers.",
+        "In context of the above values,",
+        "which one of the following is correct?"
+      ],
+      "questionText": "Consider a set S of 15 distinct integers. Value-I= The minimum possible value of the average of the set S, given that the set consists of consecutive even integers whose sum is greater than “−30”. Value-II= The minimum possible value of the product of the set S, given that the set consists of consecutive integers and contains exactly seven negative integers. In context of the above values, which one of the following is correct?",
+      "options": {
+        "a": "Value-I<Value-II",
+        "b": "Value-II<Value-I",
+        "c": "Value-I=Value-II",
+        "d": "Relation between Value-I and Value-II is indeterminable due to insufficient data."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **A set**S**consists of**15 distinct integers**.**Value–I **Given **- The 15 integers are**consecutive even integers**. - Their**sum is greater than −30**. - We are asked to find the**minimum possible average**.**Reasoning **- Any 15 consecutive even integers form an arithmetic progression. - For an arithmetic progression with an odd number of terms, the**average equals the middle (8th) term**. - Let the middle term be**x**. - Sum of the 15 terms = 15x. Given condition: - 15x > −30 - ⟹ x > −2. Since the middle term must be an**even integer**, the smallest even integer strictly greater than −2 is**0**.**Result **- Minimum possible average =**0**So,**Value–I = 0**Value–II **Given **- The set consists of**15 consecutive integers**. -**Exactly 7 of them are negative**. - We are asked to find the**minimum possible product**.**Reasoning **- If exactly 7 integers are negative in a set of 15 consecutive integers, the sequence must include: o 7 negative numbers o 1 zero o 7 positive numbers-The only such sequence is: - −7, −6, −5, −4, −3, −2, −1, 0, 1, 2, 3, 4, 5, 6, 7-Since**0 is included**, the product of all 15 numbers is**0**.**Result **- Minimum possible product =**0**So,**Value–II = 0**Final Comparison **- Value–I = 0-Value–II = 0**Value–I = Value–II**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q24",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "Let a+b=3, where a,b are integers.",
+        "Value-I: The maximum value of a×b when a and b are positive integers.",
+        "Value-II: The maximum value of a×b when a≥−4 and b≥−6.",
+        "In context of the above values,",
+        "which one of the following is correct?"
+      ],
+      "questionText": "Let a+b=3, where a,b are integers. Value-I: The maximum value of a×b when a and b are positive integers. Value-II: The maximum value of a×b when a≥−4 and b≥−6. In context of the above values, which one of the following is correct?",
+      "options": {
+        "a": "Value-I < Value-II",
+        "b": "Value-II < Value-I",
+        "c": "Value-I = Value-II",
+        "d": "Relation between Value-I and Value-II is indeterminable due to insufficient data."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **Given **a + b = 3, where a and b are integers.**Value–I **Maximum value of a × b when**a and b are positive integers**.**List all possible values **Since both a and b must be positive integers and their sum is 3, the only possible pairs are: - a = 1, b = 2-a = 2, b = 1**Calculate the product **- 1 × 2 = 2-2 × 1 = 2 So,**Value–I = 2**Value–II **Maximum value of a × b when: - a ≥ −4-b ≥ −6-a + b = 3**Trying all reasonable integer values **Since the sum is fixed, increasing one number forces the other to decrease. The product is highest when the two numbers are as close as possible. Check values near the middle: - a = 1, b = 2 → product = 2-a = 2, b = 1 → product = 2 Check other allowed values: - a = 0, b = 3 → product = 0-a = 3, b = 0 → product = 0-Negative values make the product smaller or negative. So the maximum product occurs again at: - a = 1, b = 2 or a = 2, b = 1 Thus,**Value–II = 2**Final Comparison **- Value–I = 2-Value–II = 2**Value–I = Value–II**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q25",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "Two ships start from the same port, one sailing due South-East and the other sailing due South-West, both travelling at constant speeds, the speed of the latter being 7 kmph greater than that of the former. If, after five hours, they are 65 km apart, then what is the sum of their speeds, in kmph?"
+      ],
+      "questionText": "Two ships start from the same port, one sailing due South-East and the other sailing due South-West, both travelling at constant speeds, the speed of the latter being 7 kmph greater than that of the former. If, after five hours, they are 65 km apart, then what is the sum of their speeds, in kmph?",
+      "options": {
+        "a": "13",
+        "b": "15",
+        "c": "17",
+        "d": "19"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Understand the directions **- South-East and South-West directions make a**right angle (90°)**with each other. - Hence, the paths of the ships are**perpendicular**.**Assume speeds **Let the speed of the South-East ship =**x kmph**Then the speed of the South-West ship =**x + 7 kmph**Distance travelled in 5 hours **- Distance travelled by first ship = 5x km-Distance travelled by second ship = 5(x + 7) km**Use Pythagoras theorem **Since the directions are perpendicular: Distance between ships² = (5x)² + [5(x + 7)]² Given distance = 65 km So, (5x)² + 5²(x + 7)² = 65² Divide both sides by 25: x² + (x + 7)² = 169**Solve **x² + x² + 14x + 49 = 169 2x² + 14x − 120 = 0 Divide by 2: x² + 7x − 60 = 0 Factor: (x + 12)(x − 5) = 0 Reject x = −12 (speed cannot be negative) So, x = 5 kmph**Finding the sum of speeds **First ship speed = 5 kmph Second ship speed = 12 kmph**Sum of speeds = 5 + 12 = 17 kmph**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q26",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "The number of soldiers in a regiment is fewer than",
+        "1000. When they are arranged in rows of five, seven and nine soldiers each, there is exactly one left over soldier in each of these arrangements. However, when they are arranged in rows of 11 soldiers each, then there is no left over soldier. How many soldiers will be left over if they are arranged in rows of 13 each?"
+      ],
+      "questionText": "The number of soldiers in a regiment is fewer than 1000. When they are arranged in rows of five, seven and nine soldiers each, there is exactly one left over soldier in each of these arrangements. However, when they are arranged in rows of 11 soldiers each, then there is no left over soldier. How many soldiers will be left over if they are arranged in rows of 13 each?",
+      "options": {
+        "a": "7",
+        "b": "8",
+        "c": "9",
+        "d": "10"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Given**- The number of soldiers is**less than 1000**. - When arranged in rows of-5, 7, and 9 →**1 soldier is left over each time**. - When arranged in rows of-11 →**no soldier is left over**. - We are asked:**When arranged in rows of 13, how many soldiers are left over?**Using the “1 left over” condition **If 1 soldier is left over when arranged in rows of 5, 7, and 9, then: - The number of soldiers minus 1 is divisible by 5-The number of soldiers minus 1 is divisible by 7-The number of soldiers minus 1 is divisible by 9 So, Number of soldiers − 1 is a**common multiple of 5, 7, and 9**Finding the least such common multiple **The smallest number divisible by 5, 7, and 9 is: 5 × 7 × 9 =**315**So the number of soldiers can be written as: Number of soldiers = 315 × k + 1**Using the “no remainder with 11” condition **The number of soldiers must be**exactly divisible by 11**. Try values of k: - k = 1 → 316 (not divisible by 11) - k = 2 → 631 (not divisible by 11) - k = 3 → 946 (divisible by 11) So, Number of soldiers =**946**This also satisfies the condition that the number is less than 1000.**Divide by 13 **Now arrange 946 soldiers in rows of 13: 13 × 72 = 936 946 − 936 =**10**When the soldiers are arranged in rows of 13, 10 soldiers are left over.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q27",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "A three-digit number “n” has at least one digit as 4 and at least one digit",
+        "5. In addition, every digit 5 in the number must appear in a place of higher positional value than every digit",
+        "4. How many such three-digit numbers are possible?"
+      ],
+      "questionText": "A three-digit number “n” has at least one digit as 4 and at least one digit 5. In addition, every digit 5 in the number must appear in a place of higher positional value than every digit 4. How many such three-digit numbers are possible?",
+      "options": {
+        "a": "19",
+        "b": "23",
+        "c": "25",
+        "d": "28"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **We consider all possible three-digit numbers that satisfy the given conditions and count them case by case.**Case 1: Form 5 4 **The hundreds digit is 5 and the tens digit is 4. The units digit can be filled in**8 different ways**.**Case 2: Form 5 # 4 **The hundreds digit is 5 and the units digit is 4. The tens digit can be filled in**8 different ways**.**Case 3: Form # 5 4 **The tens digit is 5 and the units digit is 4. The hundreds digit can be filled in**7 different ways**.**Case 4: Form 5 5 4 **Only**one**such number is possible.**Case 5: Form 5 4 4 **Only**one**such number is possible.**Total Count **Total number of such three-digit numbers = 8 + 8 + 7 + 1 + 1 =**25**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q28",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Profit and Loss",
+      "statementLines": [
+        "A dishonest trader mixes water with milk. He announces that he is selling milk at a discount of 10 percent on its cost price. However, by adding water to the milk, he still manages to earn an overall profit of 20 percent. What is the percentage of water in the final mixture? (Assume cost of water added = ₹0)"
+      ],
+      "questionText": "A dishonest trader mixes water with milk. He announces that he is selling milk at a discount of 10 percent on its cost price. However, by adding water to the milk, he still manages to earn an overall profit of 20 percent. What is the percentage of water in the final mixture? (Assume cost of water added = ₹0)",
+      "options": {
+        "a": "25%",
+        "b": "30%",
+        "c": "33.33%",
+        "d": "15%"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Assume the cost price of pure milk**Let the cost price of 1 litre of milk be ₹100.**Finding the selling price**He claims to give a 10% discount. Selling price per litre = 90% of 100 = ₹90.**Use the actual profit condition**Even after selling at ₹90, he makes a profit of 20%. This means: Cost of mixture per litre = 90 ÷ 1.20 = ₹75.**Identifying cost of milk and water in the mixture**Milk costs ₹100 per litre, while water costs nothing. So, in 1 litre of the mixture: - Cost of milk used = ₹75-Cost of water = ₹0**Finding the quantity of milk in the mixture**Since milk costs ₹100 per litre, milk quantity = 75 ÷ 100 = 0.75 litre.**Finding the quantity of water**Total mixture = 1 litre Water = 1 − 0.75 = 0.25 litre.**Calculating percentage of water**Percentage of water = (0.25 ÷ 1) × 100 = 25%.**Final Answer **The percentage of water in the final mixture is**25%**.**Therefore, Option a is the correct answer **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q29",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "If the variable x lies between 5 and 12 (both inclusive) and the variable y lies between 3 and 9 (both inclusive), what is the ratio of the maximum possible value of (x + y) to that of minimum possible value of (x − y)?"
+      ],
+      "questionText": "If the variable x lies between 5 and 12 (both inclusive) and the variable y lies between 3 and 9 (both inclusive), what is the ratio of the maximum possible value of (x + y) to that of minimum possible value of (x − y)?",
+      "options": {
+        "a": "-4.25",
+        "b": "-5.5",
+        "c": "-4.5",
+        "d": "-5.25"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Finding the maximum value of (x + y)**To maximize the sum, both x and y must take their largest possible values. x = 12 y = 9 Maximum value of (x + y) = 12 + 9 =**21**Finding the minimum value of (x − y)**To minimize the difference, x should be as small as possible and y as large as possible. x = 5 y = 9 Minimum value of (x − y) = 5 − 9 =**−4**Finding the required ratio**Required ratio = Maximum value of (x + y): Minimum value of (x − y) = 21: −4 = - 5.25.**Therefore, Option d is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q30",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simple and Compound Interest",
+      "statementLines": [
+        "A person invested a certain amount in the stock market. After one year, he sold all his holdings and, after accounting for brokerage, taxes, and other charges, realized an effective profit of 125 percent. He then reinvested the entire amount obtained into another investment, which yielded an effective annual return of 44 percent after all deductions. What was the average annual compounded rate of return (in percent) earned by him over the two-year period?"
+      ],
+      "questionText": "A person invested a certain amount in the stock market. After one year, he sold all his holdings and, after accounting for brokerage, taxes, and other charges, realized an effective profit of 125 percent. He then reinvested the entire amount obtained into another investment, which yielded an effective annual return of 44 percent after all deductions. What was the average annual compounded rate of return (in percent) earned by him over the two-year period?",
+      "options": {
+        "a": "80%",
+        "b": "90%",
+        "c": "85%",
+        "d": "75%"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Let the initial investment be**100 units**.**After the first year**Effective gain = 125% So the value becomes: 100 + 125% of 100 = 100 + 125 =**225**After the second year**Effective annual return = 44% Value after second year: 225 + 44% of 225 = 225 × 1.44 =**324**Overall growth over two years**Initial value = 100 Final value after two years = 324 Let the average annual compounded return be**r%**. Then: 100 × (1 + r/100)² = 324 Dividing both sides by 100: (1 + r/100)² = 3.24 Taking square root: 1 + r/100 = 1.8 So, r/100 = 0.8 r =**80%**The average annual compounded return earned over the two years is 80%. **Therefore, Option a is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q31",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "In an examination, the maximum marks for each of the four papers namely P, Q, R and S are",
+        "100. Marks scored by the students are in integers. A student can score 99% in n different ways. What is the value of n?"
+      ],
+      "questionText": "In an examination, the maximum marks for each of the four papers namely P, Q, R and S are 100. Marks scored by the students are in integers. A student can score 99% in n different ways. What is the value of n?",
+      "options": {
+        "a": "16",
+        "b": "17",
+        "c": "23",
+        "d": "35"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **99% means overall score of 396 out of 400 Let us find the possible ways of scoring 396**Possibility 1:**When score in all papers is 99. There is one possible way.**Possibility 2**: When S core in 3 papers is 100 each and 1 paper is 96. There are 4C3 = 4 possible ways.**Possibility 3:**When S core in 2 papers is 100 each and 2 papers is 98 each. There are 4C2 x 2C2 ways = 6 possible ways.**Possibility 4:**When S core in 2 papers is 100 each and 1 paper is 97 and 1 paper is 99. There are 4C2 × 2C1 × 1C1 ways = 12 possible ways.**Possibility 5:** When S core in 1 papers is 100 and 1 paper is 98 and 2 papers is 99 each. There are 4C2 × 2C1 ways = 12 possible ways. Total Possible ways = 1 + 4 + 6 + 12 + 12 = 35 ways",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q32",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "Five distinct prime numbers p, q, r, s and t are all less than",
+        "25. They are arranged in increasing order such that p, q and r and r, s and t are in arithmetic progression. The common difference of the arithmetic progression in the second case is thrice that of the common difference of the first. What is the sum of (p+r+t)?"
+      ],
+      "questionText": "Five distinct prime numbers p, q, r, s and t are all less than 25. They are arranged in increasing order such that p, q and r and r, s and t are in arithmetic progression. The common difference of the arithmetic progression in the second case is thrice that of the common difference of the first. What is the sum of (p+r+t)?",
+      "options": {
+        "a": "19",
+        "b": "23",
+        "c": "29",
+        "d": "31"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Let **p = 3 q = 5 r = 7 s = 13 t = 19 Here, p, q, r form an A.P. with common difference 2.\nAnd r, s, t form an A.P. with common difference 6 (which is thrice of the common difference of first series.) Now, the required sum (p + r + t) = 3 + 7 + 19 = 29.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q33",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "Consider the first 500 natural numbers, that is, the set {1, 2, 3, … , 500}. How many numbers in this set are not divisible by any of the numbers 3, 4, 10, and 14?"
+      ],
+      "questionText": "Consider the first 500 natural numbers, that is, the set {1, 2, 3, … , 500}. How many numbers in this set are not divisible by any of the numbers 3, 4, 10, and 14?",
+      "options": {
+        "a": "224",
+        "b": "258",
+        "c": "318",
+        "d": "272"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The total number of natural numbers from 1 to 500 is: 500 The number of natural numbers from 1 to N that are divisible by k is equal to the greatest integer less than or equal to N/k represented by Floor(N/k).**Numbers divisible by each given divisor **We count how many numbers in {1 to 500} are divisible by each number. - Divisible by 3-Floor(500 ÷ 3) = 166-Divisible by 4-Floor(500 ÷ 4) = 125-Divisible by 10-Floor(500 ÷ 10) = 50-Divisible by 14-Floor(500 ÷ 14) = 35**Numbers divisible by two divisors simultaneously **A number divisible by two given numbers must be divisible by their least common multiple. - Divisible by 3 and 4 → divisible by LCM(3,4) = 12-Floor(500 ÷ 12) = 41-Divisible by 3 and 10 → divisible by 30-Floor(500 ÷ 30) = 16-Divisible by 3 and 14 → divisible by 42-Floor(500 ÷ 42) = 11-Divisible by 4 and 10 → divisible by 20-Floor(500 ÷ 20) = 25-Divisible by 4 and 14 → divisible by 28-Floor(500 ÷ 28) = 17-Divisible by 10 and 14 → divisible by 70-Floor(500 ÷ 70) = 7**Numbers divisible by three divisors simultaneously **Again, divisibility depends on the least common multiple. - Divisible by 3, 4, and 10 → divisible by 60-Floor(500 ÷ 60) = 8-Divisible by 3, 4, and 14 → divisible by 84-Floor(500 ÷ 84) = 5-Divisible by 3, 10, and 14 → divisible by 210-Floor(500 ÷ 210) = 2-Divisible by 4, 10, and 14 → divisible by 140-Floor(500 ÷ 140) = 3**Numbers divisible by all four divisors **A number divisible by 3, 4, 10, and 14 must be divisible by: LCM(3,4,10,14) = 420-Divisible by all four = Floor(500 ÷ 420) = 1**Count numbers divisible by at least one of the given numbers **Numbers divisible by at least one = Numbers divisible by each divisor – Numbers divisible by exactly two divisors + **Numbers divisible by exactly three divisors – Numbers divisible by all four divisors. **First, add all individual counts: 166 + 125 + 50 + 35 = 376 Subtract numbers counted more than once (pairs): 376 − (41 + 16 + 11 + 25 + 17 + 7) = 376 – 117 = 259 Add back numbers counted three times: 259 + (8 + 5 + 2 + 3) = 259 + 18 = 277 Subtract numbers counted four times: 277 − 1 = 276 So,**276 numbers**are divisible by**at least one**of 3, 4, 10, or 14.**Numbers not divisible by any of the given numbers **Required count = Total numbers − Numbers divisible by at least one = 500 – 276 =**224**The number of natural numbers between 1 and 500 that are**not divisible by 3, 4, 10, or 14**is:**224**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q34",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "Akash owns a boat. On Monday, the speed of the boat in still water is 15 km per hour. The speed of the river current is 3 km per hour and remains the same on both days. On Monday, Akash travels downstream from point A to point B and then returns upstream from B to A. The total time taken for this round trip is 5 hours. On Tuesday, Akash again makes the same round trip from A to B and back to A, with the river current still flowing at 3 km per hour.",
+        "However, the total time taken on Tuesday is 4 hours. If the distance between A and B is the same on both days, what is the approximate speed of the boat in still water on Tuesday in kmph?"
+      ],
+      "questionText": "Akash owns a boat. On Monday, the speed of the boat in still water is 15 km per hour. The speed of the river current is 3 km per hour and remains the same on both days. On Monday, Akash travels downstream from point A to point B and then returns upstream from B to A. The total time taken for this round trip is 5 hours. On Tuesday, Akash again makes the same round trip from A to B and back to A, with the river current still flowing at 3 km per hour. However, the total time taken on Tuesday is 4 hours. If the distance between A and B is the same on both days, what is the approximate speed of the boat in still water on Tuesday in kmph?",
+      "options": {
+        "a": "18.5",
+        "b": "19.5",
+        "c": "20.5",
+        "d": "21.5"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Finding the distance between A and B using Monday’s data**- Speed of boat in still water on Monday = 15 kmph-Speed of current = 3 kmph So, - Downstream speed on Monday = 15 + 3 = 18 kmph-Upstream speed on Monday = 15 − 3 = 12 kmph Let the distance between A and B be D km. Time taken downstream + time taken upstream = 5 hours So, - D / 18 + D / 12 = 5 Taking LCM of 18 and 12 (which is 36): - 2D + 3D = 180-5D = 180-D = 36 km So, the distance between A and B is**36 km**.**Using Tuesday’s data to find the boat’s speed**Let the boat’s speed in still water on Tuesday be V kmph. - Downstream speed = V + 3-Upstream speed = V − 3 Total time taken on Tuesday = 4 hours. So, - 36 / (V + 3) + 36 / (V − 3) = 4 Divide both sides by 36: - 1 / (V + 3) + 1 / (V − 3) = 1 / 9 Combine the fractions: - (2V) / (V² − 9) = 1 / 9 Cross-multiplying: - 18V = V² − 9 Rearranging: - V² − 18V − 9 = 0 Solving this quadratic equation gives: - V ≈ 18.5 kmph (negative value is rejected)**The approximate speed of the boat in still water on Tuesday is 18.5 km per hour.**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q35",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?"
+      ],
+      "questionText": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other. What is the total distance between 5 consecutive plants?",
+      "options": {
+        "a": "40 m",
+        "b": "40.4 m",
+        "c": "50 m",
+        "d": "50.5 m"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Total length of road=1.01Km= 1010m Since a total of 101 plants are to be planted. S o, there will be 100 gaps between those plants.\nNow, the gap is equal. S o, the length of each gap will be 1010/100 = 10.1 m Now, there will be 4 gaps between 5 consecutive plants So, distance between 5 consecutive plants = 4 × 10.1 = 40.4 m",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q36",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Probability",
+      "statementLines": [
+        "A bag contains 3 red balls, 4 blue balls, and 2 green balls. Three balls are drawn one after the other, without replacement. What is the probability that at least one of the drawn balls is Red?"
+      ],
+      "questionText": "A bag contains 3 red balls, 4 blue balls, and 2 green balls. Three balls are drawn one after the other, without replacement. What is the probability that at least one of the drawn balls is Red?",
+      "options": {
+        "a": "16/21",
+        "b": "13/21",
+        "c": "17/21",
+        "d": "19/21"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Given that we have to find the probability of drawing “at least one Red” **“At least one Red” includes: - Exactly 1 Red-Exactly 2 Reds-Exactly 3 Reds Instead of calculating all these cases separately, we use the**complement method**. The complement of “at least one Red” is “no Red at all”. So, Probability (at least one Red) = 1 − Probability (no Red)**Calculating Probability of Drawing No Red **Total balls in the bag: **3 Red + 4 Blue + 2 Green = 9 balls**Non-red balls: **4 Blue + 2 Green = 6 balls**Probability calculations (without replacement): **- Probability first ball is non-red = 6 / 9-Probability second ball is non-red = 5 / 8-Probability third ball is non-red = 4 / 7 So, Probability (no Red) = (6 / 9) × (5 / 8) × (4 / 7) Probability (no Red) = (2 / 3) × (5 / 8) × (4 / 7) = 40 / 168 = 10 / 42 = 5 / 21**Finding Required Probability **Probability (at least one Red) = 1 − 5 / 21 = 16 / 21**Probability that at least one of the drawn balls is Red = 16 / 21**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q37",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simple and Compound Interest",
+      "statementLines": [
+        "A sum of money P is invested at a fixed annual rate of interest r% for n years.",
+        "Consider the following statements about the interest earned:",
+        "I. When interest is calculated using the Simple Interest method, the principal amount becomes double of the original amount in n years if and only if the product r × n equals 100.",
+        "II. When interest is Compounded Annually, the interest earned during the second year is always greater than the interest earned during the first year by exactly r% of the first year’s interest.",
+        "Which of the above statements is/are correct?"
+      ],
+      "questionText": "A sum of money P is invested at a fixed annual rate of interest r% for n years. Consider the following statements about the interest earned: I. When interest is calculated using the Simple Interest method, the principal amount becomes double of the original amount in n years if and only if the product r × n equals 100. II. When interest is Compounded Annually, the interest earned during the second year is always greater than the interest earned during the first year by exactly r% of the first year’s interest. Which of the above statements is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Analyzing each statement we get: **Statement I: Simple Interest case **Under Simple Interest, Interest = (P × r × n) / 100 Amount after n years = P + (P × r × n) / 100 For the amount to double: P + (P × r × n) / 100 = 2P Divide throughout by P: 1 + (r × n) / 100 = 2 So, (r × n) / 100 = 1 ⇒ r × n = 100 Hence,**\n\nStatement I is correct**.**Statement II: Compound Interest case **Under annual compounding: - Interest in the**first year**= (r% of P) = (r/100)P-Amount at the beginning of the second year = P + (r/100)P Interest in the**second year**= r% of this new amount = (r/100) × [P + (r/100)P] = (r/100)P + (r²/100²)P Increase in interest from first to second year: = (r²/100²)P This increase is**r% of the first year’s interest**, because: r% of first year’s interest = (r/100) × (r/100)P = (r²/100²)P Hence,**Statement II is also correct**.**Both statements I and II are correct.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q38",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "Five positive integers m, n, o, p, and q are given such that exactly two of them are even and the remaining three are odd (not necessarily in any particular order).",
+        "Consider the following statements:",
+        "I. The sum of the squares, m² + n² + o² + p² + q², is always odd.",
+        "II. The product (m + n) × (o + p) × q is always even.",
+        "III. The expression m + 2n + 3o + 4p + 5q is always even.",
+        "Which of the above statements is/are correct?"
+      ],
+      "questionText": "Five positive integers m, n, o, p, and q are given such that exactly two of them are even and the remaining three are odd (not necessarily in any particular order). Consider the following statements: I. The sum of the squares, m² + n² + o² + p² + q², is always odd. II. The product (m + n) × (o + p) × q is always even. III. The expression m + 2n + 3o + 4p + 5q is always even. Which of the above statements is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II, and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Given **- Five positive numbers:**m, n, o, p, q**-**Exactly two**of them are**even**-**Exactly three**of them are**odd**- We do**not**know which letter is even or odd**Statement I **m² + n² + o² + p² + q² is definitely odd**Step-by-step reasoning **- Square of an**even**number is**even**- Example: 2² = 4-Square of an**odd**number is**odd**- Example: 3² = 9 So: - Squares of the two even numbers → even + even-Squares of the three odd numbers → odd + odd + odd Now add them: - even + odd =**odd**This will happen**in every possible case**, no matter which numbers are even or odd.**\n\nStatement I is correct**Statement II **(m + n) × (o + p) × q is definitely even**Check carefully using an example **Let: - m = odd-n = even - → m + n = odd Let: - o = odd-p = even - → o + p = odd Let: - q = odd Now count: - Total even numbers = 2-Total odd numbers = 3-So the condition is satisfied. Now calculate: odd × odd × odd =**odd**So the expression can be**odd**, which means it is**not always even**.**\n\nStatement II is incorrect**Statement III: **m + 2n + 3o + 4p + 5q is definitely even**Simplify the expression **- 2n is always even-4p is always even So they do not change the final result. Now look at: m + 3o + 5q-3o behaves like o-5q behaves like q So the result depends on: m + o + q**Try different possibilities **Example 1: - m = odd, o = odd, q = odd - → odd + odd + odd =**odd**Example 2: - m = even, o = odd, q = odd - → even + odd + odd =**even**Since the result changes depending on the choice, it is**not definitely even**.**\n\nStatement III is incorrect**Final Conclusion **- Statement 1 → Correct-Statement 2 → Incorrect-Statement 3 → Incorrect**Only\nStatement I is correct**Therefore, Option a is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q39",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "Find the unit digit of the expression:",
+        "3847(22! + 3115)"
+      ],
+      "questionText": "Find the unit digit of the expression: 3847(22! + 3115)",
+      "options": {
+        "a": "1",
+        "b": "3",
+        "c": "7",
+        "d": "9"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **We are asked to find the**unit digit**of**3847(22! + 3115)**Only the**last digit**of the base matters.**Look at the unit digit of the base **The unit digit of**3847**is**7**. So we only need the unit digit of:**7(22! + 3115)**Observe the repeating pattern of powers of 7 **Powers of 7 repeat their unit digits every 4: - 7¹ → 7-7² → 9-7³ → 3-7⁴ → 1 Cycle:**7, 9, 3, 1**Find the position of the exponent in the cycle **Exponent =**22! + **3115-22**! is divisible by 4 (since it contains 4 as a factor)\n- 3115 ÷ 4 leaves remainder **3** So, 22! + 3115 leaves remainder **3** when divided by 4 **Match with the cycle** Remainder **3** corresponds to the **third** term in the cycle:\n7 → 9 → **3 The unit digit is 3 Therefore, Option b is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-csat-test15-q40",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Partnership",
+      "statementLines": [
+        "Three individuals A, B, and C enter into a partnership business. A invests an amount x for 12 months, B invests an amount y for 8 months, and C invests an amount z for 6 months. The values x, y, z are distinct positive integers such that x < y < z. At the end of the year, the total profit is divided among A, B, and C in the ratio 2 : 2 : 3, respectively.",
+        "Consider the following statements:",
+        "I. The highest investment z is exactly twice the lowest investment x.",
+        "II. The sum of the value of “(x + y + z)” is a multiple of 10.",
+        "Which of the above statements is/are incorrect?"
+      ],
+      "questionText": "Three individuals A, B, and C enter into a partnership business. A invests an amount x for 12 months, B invests an amount y for 8 months, and C invests an amount z for 6 months. The values x, y, z are distinct positive integers such that x < y < z. At the end of the year, the total profit is divided among A, B, and C in the ratio 2 : 2 : 3, respectively. Consider the following statements: I. The highest investment z is exactly twice the lowest investment x. II. The sum of the value of “(x + y + z)” is a multiple of 10. Which of the above statements is/are incorrect?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both 1 and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Using the profit-sharing rule **Profit is proportional to (Investment × Time). So, - A’s share ∝ 12x-B’s share ∝ 8y-C’s share ∝ 6z Given profit ratio: 12x: 8y: 6z = 2 : 2 : 3**Simplifying the ratio **Divide the left side by 2: 6x : 4y : 3z = 2 : 2 : 3 This gives: - 6x = 2k-4y = 2k-3z = 3k for some positive constant k. So, - x = k / 3-y = k / 2-z = k To make x, y, z integers, k must be a multiple of 6. Let k = 6. Then: - x = 2-y = 3-z = 6 These satisfy x < y < z and all are distinct.**Checking each statement **Statement I:**z = 6 and x = 2 → z = 3x, not 2x - - - - - - - - - - Incorrect**Statement II:**x + y + z = 2 + 3 + 6 = 11 11 is**not**a multiple of 10 - - - - - - - - - - Incorrect**Both the given statements are incorrect.**Therefore, Option c is the correct answer. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

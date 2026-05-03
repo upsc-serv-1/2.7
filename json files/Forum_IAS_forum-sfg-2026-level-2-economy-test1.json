@@ -1,0 +1,1836 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test1",
+  "title": "Test 1- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Other things remaining unchanged market demand for a good might increase if:",
+        "1. Price of its substitute increases",
+        "2. Price of its complement increases",
+        "3. The good is an inferior good and income of the consumers increases",
+        "4. Its price falls",
+        "Which of the above statements are correct?"
+      ],
+      "questionText": "Consider the following statements: Other things remaining unchanged market demand for a good might increase if: 1. Price of its substitute increases 2. Price of its complement increases 3. The good is an inferior good and income of the consumers increases 4. Its price falls Which of the above statements are correct?",
+      "options": {
+        "a": "1 and 4 only",
+        "b": "2, 3 and 4 only",
+        "c": "1, 3 and 4 only",
+        "d": "1, 2 and 3 only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The main factors that can increase the demand for a good in market are:\n- Prices of related goods (substitute goods or complementary goods)\n- Income-Expectations-Number of buyers-Preferences The following are the relations between the demand and price of the products with other factors remaining unchanged:\n1. The demand for a good may increase, if the price of one of its substitutes rises. The demand for a good may decrease, if the price of one of its substitutes falls.\n2. The demand for a good may increase, if the price of one of its complement’s falls. For example, ice cream and fudge sauce. 3. The demand for an inferior good may decrease if income increases. The demand for a normal good may increase if income increases.\n4. If the Price of the good falls, then its demand increases.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In an economy an increase in the Incremental Capital-Output Ratio (ICOR) primarily indicates:"
+      ],
+      "questionText": "In an economy an increase in the Incremental Capital-Output Ratio (ICOR) primarily indicates:",
+      "options": {
+        "a": "The economy is becoming more efficient in its investment utilization.",
+        "b": "An increase in the marginal productivity of capital within the economy.",
+        "c": "The economy is operating at its maximum sustainable productive capacity.",
+        "d": "A decline in the efficiency of capital utilization within the economy."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: The Incremental capital-output ratio (ICOR) indicates the additional unit of capital or investment required to produce an additional unit of output. The rate of savings is taken as the investment made to calculate ICOR.\nThus, ICOR = (investment share in GDP) ÷ (rate of growth of GDP). That is: ICOR = S / G, where S is the savings rate and G is the growth rate.\nICOR is a metric that assesses the marginal amount of investment capital necessary for an entity to generate the next unit of product. It is used predominantly in determining a country's level of production efficiency. Overall, a higher ICOR value is not preferred because it indicates that the entity's production is inefficient. In contrast, lower ICOR is beneficial as it indicates that a country's capital utilization is more efficient.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Palma ratio in an economy is primarily used to measure which among the following?"
+      ],
+      "questionText": "Palma ratio in an economy is primarily used to measure which among the following?",
+      "options": {
+        "a": "Unemployment",
+        "b": "Tax Expenditure",
+        "c": "Income Inequality",
+        "d": "Inflation"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: A measure of income inequality based on the work of Chilean economist Gabriel Palma is Palma ratio. It shows that in almost every society, the share of income of the people who make less than the richest 10 percent and more than the poorest 40 percent of the population remains fairly stable. Major shifts in income share are generally observed only in the top 10 or bottom 40 percent of the population. Palma ratio defines inequality as the ratio between the top 10 and bottom 40 percent. In a society with a Palma ratio of 4, the top 10 percent is getting four times more income than the bottom 40 percent.\nKnowledge Base Kuznets ratios measure the share of income going to the top quantiles divided by the income going to the bottom quantiles. The greater the ratio, the higher inequality. One example of a Kuznets ratio is the share of income going to the top 10% divided by the income share of the bottom 40%, also known as the Palma ratio.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of the Indian economy, which of the following are primary reasons for revising the GDP base year?",
+        "I. Incorporate the structural changes in the economy.",
+        "II. Inflate the GDP value for better fiscal consolidation.",
+        "III. Aligning with international best practices in methodology as recommended by bodies like the UN Statistical",
+        "Commission",
+        "IV. Reflect new spending habits of consumers.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the context of the Indian economy, which of the following are primary reasons for revising the GDP base year? I. Incorporate the structural changes in the economy. II. Inflate the GDP value for better fiscal consolidation. III. Aligning with international best practices in methodology as recommended by bodies like the UN Statistical Commission IV. Reflect new spending habits of consumers. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, III and IV only",
+        "b": "I and IV only",
+        "c": "II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The GDP is the central metric to assess the annual economic growth or the overall size of an economy and the so-called “base year” refers to the year that works as a starting point for calculations.\nThe revision of the base year in national income (GDP) calculations in India serves the following purposes: Option I is correct: India’s economy has changed sharply since the earlier base years. Services now account for a larger share of output, digital services and platforms are widespread, and consumption has shifted away from the narrower baskets used earlier. Continuing with outdated base years risks misrepresenting real price movements and economic activity. Thus, base year revisions help to better incorporate the structural changes in the economy.\nRegular base year revisions help capture structural changes in the economy by including emerging industries and removing outdated activities from national income calculations.\nOption III is correct: Rebasing allows adoption of international best practices in methodology as recommended by bodies like the UN Statistical Commission. Aligning with updated global standards ensures that India’s statistics remain comparable and methodologically sound in light of new guidance on measuring the digital economy, supply-use tables, etc.\nOption IV is correct: Base year revision incorporates changes in consumer spending patterns reflected in updated consumption data. With rising expenditure on services, digital transactions, and new goods, older consumption baskets may no longer represent the economy accurately.\nOption II is incorrect: The base year for national income is not revised to inflate the GDP values for better fiscal consolidation. It is revised to ensure a more accurate measurement and reporting of economic activity.\nKnowledge Base: History of Revision of Base Year for GDP Calculation: The first official estimates of national income in India were prepared by the National Income Committee, constituted in 1949 under the chairmanship of Prasanta Chandra Mahalanobis.\nThe base year of national accounts has been revised periodically to reflect structural changes in the economy. India has now revised its GDP base year eight times so far, with the current series based on 2022–23.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In economics, the ‘Law of Supply’ states that, when all other determinants of supply remain constant, the :"
+      ],
+      "questionText": "In economics, the ‘Law of Supply’ states that, when all other determinants of supply remain constant, the :",
+      "options": {
+        "a": "Quantity supplied of a commodity increases when the price of the commodity increases.",
+        "b": "Quantity supplied of a commodity decreases when the price of the commodity increases.",
+        "c": "Quantity supplied of a commodity increases when the income of the consumer increases.",
+        "d": "Quantity supplied of a commodity decreases when the income of the consumer increases."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nOption a is correct: The law of supply depicts the relationship between price and quantity supplied of a commodity when all other determinants of supply remain constant. This law states that there is a direct relationship between price and quantity supplied of a commodity, other factors determining supply remaining constant. It means quantity supplied of a commodity increases with increase in price and decreases with decrease in price.\nSuppose the price of onion is ₹10 per kg, at which farmers supply 100 kg to the market. When the price rises to ₹30 per kg, farmers are attracted by the higher profit. As a result, they harvest more onions, bring previously stored produce to the market, and more farmers decide to sell onions, leading to an increase in the quantity supplied.\nAssumption of the Law of Supply: The supply of commodity changes only due to change in price when all other determinants of supply remain constant.\n- The price of other related goods should remain the same.\n- There should be no change in the price of inputs (factors).\n- Technology of production should not change.\n- There is no change in the taxation policy of the government.\n- The objective of the firm should not change.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the calculation of Gross Domestic Product (GDP) in India, consider the following items:",
+        "I. Capital gains arising from the selling of financial assets.",
+        "II. Brokerage charges earned on the sale of second-hand goods.",
+        "III. Intermediate goods used in manufacturing of final goods.",
+        "IV. Government expenditure on construction of the Highways",
+        "How many of the items given above are not included in the calculation of GDP?"
+      ],
+      "questionText": "With reference to the calculation of Gross Domestic Product (GDP) in India, consider the following items: I. Capital gains arising from the selling of financial assets. II. Brokerage charges earned on the sale of second-hand goods. III. Intermediate goods used in manufacturing of final goods. IV. Government expenditure on construction of the Highways How many of the items given above are not included in the calculation of GDP?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Gross Domestic Product (GDP) is the total monetary value of all final goods and services produced within the domestic territory of a country during a specific period, usually one financial year.\nOption I is correct: Capital gains occur due to an increase in the market price of assets (e.g., shares and real estate). This price rise does not indicate fresh production; it merely reflects a change in valuation. GDP measures production, not changes in asset prices.\nTherefore, capital gains are excluded. Option II is incorrect: The sale of second-hand goods is not included in GDP because the value of these goods was already accounted for in GDP at the time of their original production. However, the brokerage or commission earned during their resale represents a current economic service rendered in the economy. Since this service generates new income and value addition, it forms part of current production.\nTherefore, brokerage charges earned on the sale of second-hand goods are included in GDP. Option III is correct: Intermediate goods are goods used as inputs in the production of final goods (e.g., flour used to make bread, steel used to manufacture cars).\nIf counted separately, their value would be added multiple times at different stages of production. To avoid double counting, GDP includes only the value of final goods (or uses the value-added method).\nThus, intermediate goods are excluded when calculating GDP by the final goods method. Option IV is incorrect: Government expenditure on infrastructure projects such as the construction of the Delhi– Mumbai Corridor leads to the creation of new capital assets, represents final investment expenditure, and contributes to current economic production within the country. Such expenditure reflects productive economic activity and value addition in the economy.\nTherefore, it is included in GDP under Government Expenditure, particularly as part of Gross Capital Formation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "International Organisations (WTO, IMF, World Bank, RCEP, FTAs, etc.)",
+      "statementLines": [
+        "In a market, several firms sell pens under different brand names such as Reynolds, Cello, Parker, and Pilot.",
+        "Although all pens serve the same basic function of writing, they differ in design, ink quality, price, packaging, and brand image. Firms also incur expenditure on advertising to attract customers.",
+        "Which one of the following market structures described above?"
+      ],
+      "questionText": "In a market, several firms sell pens under different brand names such as Reynolds, Cello, Parker, and Pilot. Although all pens serve the same basic function of writing, they differ in design, ink quality, price, packaging, and brand image. Firms also incur expenditure on advertising to attract customers. Which one of the following market structures described above?",
+      "options": {
+        "a": "Perfect competition",
+        "b": "Monopolistic competition",
+        "c": "Oligopoly",
+        "d": "Monopoly"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: Perfect competition: In perfect competition, a large number of firms sell homogeneous (identical) products. There is no scope for product differentiation, branding, or advertising. Firms are pure price takers with no control over price.\nOption b is correct: The situation described in the question reflects the defining characteristics of monopolistic competition.\n- Monopolistic Competition is a market structure that combines elements of both a monopoly and perfect competition. It describes a state where many producers sell different variations (by branding or quality) of a particular product and, hence, are not perfect substitutes.\n- In this market, a firm has a \"monopoly\" over its specific brand or design, but it \"competes\" with other firms producing similar goods.\nIn the given case: 1. Many Sellers: Several firms (Reynolds, Cello, Parker, Pilot, etc.) operate simultaneously in the market. No single firm dominates the entire market.\n2. Product Differentiation: Although all pens perform the same core function—writing—they differ in attributes such as design, ink quality, durability, packaging, pricing, and brand perception. This differentiation may be real (quality, features) or perceived (branding, reputation).\n3. Branding and Advertising: Firms incur expenditure on advertising and promotional activities. This indicates that competition is not based solely on price but also on brand loyalty, image-building, and consumer preference.\n4. Limited Price-Making Power: Because each firm offers a differentiated product, it enjoys some degree of control over pricing. Consumers may prefer one brand over another even if prices vary slightly.\nOption c is incorrect: Oligopoly: An oligopoly is characterized by a few dominant firms in the market. Firms are interdependent in decision-making, and entry barriers are generally high. The presence of many firms in the given case does not fit this structure.\nOption d is incorrect: Monopoly: A monopoly exists when there is only one seller of a product with no close substitutes. The monopolist has significant control over price and output. The given scenario clearly involves multiple competing firms.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to consumer behaviour in economics, the term “Veblen Effect” refers to",
+        "which one of the following?"
+      ],
+      "questionText": "With reference to consumer behaviour in economics, the term “Veblen Effect” refers to which one of the following?",
+      "options": {
+        "a": "A situation where demand for a good decreases as its price rises due to rejection of conspicuous consumption.",
+        "b": "A situation where demand for a good decreases as more and more people own it.",
+        "c": "A situation where demand for a good increases because a large number of people are consuming it.",
+        "d": "A situation where demand for a good increases with a rise in the price of the good due to its status or prestige valu"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption a is incorrect: This situation reflects rejection of conspicuous consumption, where consumers avoid expensive goods associated with status display. Since higher prices reduce demand, it follows the normal law of demand and does not represent the Veblen Effect.\nOption b is incorrect: This represents the Snob Effect, where consumers prefer goods precisely because they are exclusive or not widely owned.\nOption c is incorrect: This is the Bandwagon Effect, where consumers purchase a good to conform with the majority or follow trends (herd behaviour), not because of its high price.\nOption d is correct: The Veblen Effect refers to a situation in which demand for a good increases as its price increases, because the higher price itself enhances the good’s appeal as a symbol of status, prestige, or social distinction.\nUnder normal economic theory (law of demand), there is an inverse relationship between price and quantity demanded. However, Veblen goods constitute an exception to this rule.\nIn such cases:\n- The price acts as a signal of quality, exclusivity, and social superiority.\n- Consumers derive utility not only from the intrinsic use of the good but also from the social recognition associated with owning it.\nThis behaviour is closely associated with the concept of conspicuous consumption, where individuals purchase expensive goods to publicly display wealth and reinforce social hierarchy.\nTypical examples include designer fashion brands, luxury watches, high-end automobiles, and exclusive jewellery.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "In Country X, residents consume both tea and coffee. After a severe frost in Brazil, coffee prices rise sharply.",
+        "Consequently, grocery stores in country X report a significant decline in coffee sales and a corresponding increase in the demand for tea, even though the price of tea remains unchanged.",
+        "The above example best illustrates which of the following concepts?"
+      ],
+      "questionText": "In Country X, residents consume both tea and coffee. After a severe frost in Brazil, coffee prices rise sharply. Consequently, grocery stores in country X report a significant decline in coffee sales and a corresponding increase in the demand for tea, even though the price of tea remains unchanged. The above example best illustrates which of the following concepts?",
+      "options": {
+        "a": "Income Elasticity of Demand",
+        "b": "Cross Elasticity of Demand",
+        "c": "Price Elasticity of Demand",
+        "d": "Unitary Elastic Demand"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: Income Elasticity of Demand: It measures the degree of responsiveness of demand for a commodity to the change in income of its buyer. In the given case, there is no change in income, only a change in the price of coffee. Hence, it is not applicable.\nOption b is correct: The situation describes a rise in the price of coffee due to a severe frost in Brazil. As a result, consumers reduce their coffee consumption and switch to tea, even though the price of tea remains unchanged.\nThis demonstrates Cross Elasticity of Demand, which measures the responsiveness of the quantity demanded of one good to a change in the price of its related goods (substitute goods or complementary goods). When two goods are substitutes (like tea and coffee), an increase in the price of one leads to an increase in demand for the other.\nOption c is incorrect: Price Elasticity of Demand: It means the degree of responsiveness of demand for a commodity to the change in its price. Here, tea demand changes without any change in tea’s own price, so this concept does not apply.\nOption d is incorrect: Unitary elasticity of demand occurs when the percentage change in quantity demanded is equal to the percentage change in price, resulting in elasticity equal to one. In this case, total expenditure (price × quantity) remains unchanged.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q10",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Which of the following statements is correct regarding the recently launched Mutual Credit Guarantee Scheme for MSMEs (MCGS- MSME)?"
+      ],
+      "questionText": "Which of the following statements is correct regarding the recently launched Mutual Credit Guarantee Scheme for MSMEs (MCGS- MSME)?",
+      "options": {
+        "a": "It enables Micro, Small and Medium Enterprises (MSMEs) to avail collateral free loans up to Rs.1000 crore.",
+        "b": "Only Scheduled Commercial Banks are eligible to extend loans under this scheme.",
+        "c": "The funds accessed under this scheme can only be used for meeting operational costs by an MSME.",
+        "d": "The Scheme is being implemented by the National Credit Guarantee Trustee Company Limited (NCGTC)."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Statement a is incorrect. MCGS-MSME is a Scheme that enables term loans up to Rs.100 crore to Micro, Small, and Medium Enterprises (MSMEs) from Eligible Lending Institutions for purchase of equipment/ machinery. Mutual Credit Guarantee Scheme for MSMEs (MCGS-MSME) provides 60% guarantee for credit facility up to Rs.100 crore. The loan amount guaranteed under the scheme will not exceed Rs 100 crore. It provides guarantee coverage through the National Credit Guarantee Trustee Company Limited (NCGTC). This coverage applies to loans sanctioned under the MCGS-MSME through Member Lending Institutions (MLIs).\nThe scheme will be applicable to all loans sanctioned under MCGS-MSME during the period of four years from the date of issue of operational guidelines of the scheme or till cumulative guarantee of Rs 7 lakh crore are issued, whichever is earlier.\nStatement b is incorrect. Member Lending Institutions (MLIs) are Scheduled Commercial Banks (SCBs) / All India Financial Institutions (AIFIs) and Non-Banking Finance Companies (NBFCs), subject to execution of an agreement by them with NCGTC. Statement c is incorrect. The credit guarantee is given for credit sanctioned for purchase of equipment/ machinery.\nThe eligibility criteria for borrowers under Mutual Credit Guarantee Scheme for MSMEs (MCGS-MSME) is as below:\n- It should be an MSME with valid Udyam Registration Number;\n- It should not be an NPA with any lender;\n- Minimum cost of equipment /machinery is 75% of project cost;\nStatement d is correct. The Scheme is being implemented by National Credit Guarantee Trustee Company Limited (NCGTC), a wholly owned company of the Department of Financial Services, Ministry of Finance, Government of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Which one of the following was recognised as ‘invisible hand’ by Adam Smith?"
+      ],
+      "questionText": "Which one of the following was recognised as ‘invisible hand’ by Adam Smith?",
+      "options": {
+        "a": "Government",
+        "b": "Market/Price Mechanism",
+        "c": "Judiciary",
+        "d": "Legislature"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The phrase invisible hand was introduced by Adam Smith in his book ‘The Wealth of Nations’. Adam Smith recognized the ‘invisible hand’ to the Market mechanism. He assumed that an economy can work well in a free-market scenario where everyone will work for his/her own interest. He suggested that if people were allowed to trade freely, selfinterested traders present in the market would compete with each other, leading markets towards positive output with the help of an invisible hand.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2020,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2020"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to National Income accounting, consider the following statements:",
+        "Statement I: In calculation of National Income, the Exclusive Economic Zone (EEZ) is treated as part of a country’s domestic territory.",
+        "Statement II: A country enjoys exclusive shipping rights in its Exclusive Economic Zone.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to National Income accounting, consider the following statements: Statement I: In calculation of National Income, the Exclusive Economic Zone (EEZ) is treated as part of a country’s domestic territory. Statement II: A country enjoys exclusive shipping rights in its Exclusive Economic Zone. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** According to Article 57 of the United Nations Convention on the Law of the Sea The exclusive economic zone shall not extend beyond 200 nautical miles from the baselines from which the breadth of the territorial sea is measured.\nStatement I is correct: As per Article 56 of UNCLOS, in the exclusive economic zone, the coastal State has: sovereign rights for the purpose of exploring and exploiting, conserving and managing the natural resources, whether living or non-living, of the waters superjacent to the seabed and of the seabed and its subsoil, and with regard to other activities for the economic exploitation and exploration of the zone, such as the production of energy from the water, currents and winds.\nIt is treated as part of the country’s domestic territory in calculation of national income.\n\nStatement II is not correct: A country has sovereign rights over natural resources in the EEZ but not the exclusive shipping rights. As per UNCLOS, all the countries have the freedoms of navigation and overflight and of the laying of submarine cables and pipelines, and other internationally lawful uses of the sea related to these freedoms in EEZ.\nHence\n\noption c is correct:\n\nStatement I is correct, but\n\nStatement II is not correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of income method of calculation of National income, consider the following statements:",
+        "Statement I: Income received from lotteries is not included in estimating National Income.",
+        "Statement II: Income received from lotteries is a form of transfer income and not factor income.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of income method of calculation of National income, consider the following statements: Statement I: Income received from lotteries is not included in estimating National Income. Statement II: Income received from lotteries is a form of transfer income and not factor income. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The income method is used for measuring national income at distribution level. According to this method, national income is estimated by adding incomes earned by all the factors of production for their factor services during a year such as Compensation of employees, Rent, Interest, Profit and Mixed income of self-employed. However, transfer incomes such as Gifts, donations, charities, taxes, fines and the income from lotteries are not included.\nStatement I is correct: The income from lotteries is not included in calculation of National Income using income method as this considers only factor incomes earned by factors of production for their factor services.\nStatement II is correct: Transfer income refers to income received without producing any goods or services in return. The income from lotteries is a form of transfer income and not factor income.\nStatement II explains Statement I: Since lottery income is a transfer income and not factor income, it is excluded from National Income estimation under the income method.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://nios.ac.in/media/documents/SrSec318NEW/318_Economics_Eng/318_Economics_Eng_Lesson25 .pdf - page no 215 https://ncert.nic.in/textbook/pdf/leec102.pdf - page no 22 https://egyankosh.ac.in/bitstream/123456789/67656/3/Unit-3.pdf page no 43"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The market price of a product is ₹",
+        "100. The total indirect taxes imposed on it are ₹25 and total subsidies provided are ₹",
+        "10. What is the factor cost of the product?"
+      ],
+      "questionText": "The market price of a product is ₹ 100. The total indirect taxes imposed on it are ₹25 and total subsidies provided are ₹ 10. What is the factor cost of the product?",
+      "options": {
+        "a": "₹85",
+        "b": "₹115",
+        "c": "₹135",
+        "d": "₹65"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Central Statistics Office (CSO) of the Government of India has been reporting the GDP at factor cost and at market prices. In its revision in January 2015 the CSO replaced GDP at factor cost with the GVA at basic prices, and the GDP at market prices, which is now called only GDP, is now the most highlighted measure.\nFactor cost refers to the income earned by factors of production (wages, rent, interest and profit). It excludes indirect taxes but includes subsidies provided by the government. In order to arrive at the market prices, we have to add to the factor cost the total indirect taxes less total subsidies.\nThe relationship between Factor price and Market price is: Market Price (MP) = Factor Cost (FC) + Indirect Taxes − Subsidies So, Factor Cost = Market Price − Indirect Taxes + Subsidies In the above given scenario, Factor cost of the product =₹100−₹25+₹10 =₹85",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec102.pdf - page no 24 https://egyankosh.ac.in/bitstream/123456789/62758/1/Block-6.pdf Page no 16"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following countries:",
+        "I. Germany",
+        "II. India",
+        "III. UK",
+        "IV. Russia",
+        "Which of the following is the correct ascending order of the countries given above based on their GDP at current prices in 2025?"
+      ],
+      "questionText": "Consider the following countries: I. Germany II. India III. UK IV. Russia Which of the following is the correct ascending order of the countries given above based on their GDP at current prices in 2025?",
+      "options": {
+        "a": "IV-III-II-I",
+        "b": "II-I-IV-III",
+        "c": "III-IV-I-II",
+        "d": "I-III-IV-II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Gross Domestic Product (GDP) is the total monetary value of all goods and services produced and sold within a country over one year. As per World Economic Outlook report, the US, the world’s largest economy, has been pegged at 30.6 trillion dollars for 2025, while that of China, the second biggest, is around 19.4 trillion dollars.\nOption IV (Russia): Russia is the 9th largest economy in the world, with an economic size of $2.54 trillion and a GDP growth rate of 0.6% in 2025.\nOption III (UK): United Kingdom is the 6th largest economy in the world, with an economic size of $3.96 trillion and a GDP growth rate of 1.3% (2025).\nOption II (India): India is the 5th largest economy in the world, with an economic size of $4.13 trillion and a GDP growth rate of 6.6% (2025). India briefly overtook Japan in 2025 to become the world’s fourth-largest economy.\nNote: India’ position in 2025 for a brief time period was 4th but as per the latest World Economic Outlook report it was 5th largest economy.\nOption I (Germany): Germany is the 3rd largest economy in the world, with an economic size of $5.01 trillion and a GDP growth rate of 0.2% (2025).\nHence the correct ascending order is option a: IV – III – II – I, i.e. Russia-United Kingdom-India-Germany.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In which of the following situations will a country’s Gross Domestic Product (GDP) be greater than its Gross",
+        "National Product (GNP)?"
+      ],
+      "questionText": "In which of the following situations will a country’s Gross Domestic Product (GDP) be greater than its Gross National Product (GNP)?",
+      "options": {
+        "a": "When net factor income earned from abroad is positive.",
+        "b": "When income earned by foreign residents within the country exceeds income earned by residents of the country from abroad.",
+        "c": "When the country records a surplus in its balance of trade.",
+        "d": "When domestic savings exceed domestic investment."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The GDP is defined as the value of the gross output of goods and services produced in the country less the value of intermediate goods and services-that is, those used in the process of producing other goods or services. GNP is the same as GDP except it includes income earned abroad and excludes income transferred out of the country by foreign owners.\nGNP = GDP + Net Factor Income from Abroad (NFIA) Where, NFIA = Factor income earned by residents from abroad − Factor income earned by foreign residents domestically When is GDP greater than GNP?\nGDP will be greater than GNP when: Income paid to foreign factors operating within the country is higher than income received by domestic residents from abroad.\nThis makes: NFIA<0 Therefore, GNP=GDP+(Negative NFIA) Hence, GDP > GNP",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to National Income Accounting in India, consider the following taxes:",
+        "I. Stamp duty",
+        "II. Excise duty",
+        "III. Service tax",
+        "IV. Custom duty",
+        "Which of the above taxes are considered as the product taxes?"
+      ],
+      "questionText": "With reference to National Income Accounting in India, consider the following taxes: I. Stamp duty II. Excise duty III. Service tax IV. Custom duty Which of the above taxes are considered as the product taxes?",
+      "options": {
+        "a": "I, II and III",
+        "b": "II and III only",
+        "c": "II, III and IV",
+        "d": "I and IV only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The idea of GVA is that it is the value of total output produced in the economy less the value of intermediate consumption (the output which is used in production of output further and not used in final consumption). The distinction between factor cost, basic prices and market prices is based on the distinction between net production taxes (production taxes less production subsidies) and net product taxes (product taxes less product subsidies).\nProduct taxes and subsidies are paid or received per unit or product, for example excise tax, service tax, export and custom duties whereas stamp duty is a type of production tax.\nProduction taxes and subsidies on the other hand are paid or received in relation to production and are independent of the volume of production, such as land revenues, stamp duty and registration fee.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec102.pdf - page no 24 ForumIAS Indian Economy Redbook Ch: 2 - National Income (Pg: 19)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "A newspaper Article in the month of August 2025 read ‘A few weeks back, India’s Finance Ministry declared the",
+        "Indian economy to be in a “Goldilocks situation”’. In this context the Goldilocks situation can be best characterized by?"
+      ],
+      "questionText": "A newspaper Article in the month of August 2025 read ‘A few weeks back, India’s Finance Ministry declared the Indian economy to be in a “Goldilocks situation”’. In this context the Goldilocks situation can be best characterized by?",
+      "options": {
+        "a": "High inflow of foreign investment, Low direct tax rates and subdued inflation.",
+        "b": "Moderate growth, Subdued inflation and Supportive monetary conditions.",
+        "c": "Low direct tax rates, High inflow of foreign direct investment, High credit deposit ratio of commercial banks.",
+        "d": "Moderate growth, Low direct tax rates and High credit deposit ratio of commercial banks."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**“Goldilocks situation” is a rare alignment of moderate growth, subdued inflation and supportive monetary conditions. In 2025, India’s Finance Ministry declared the Indian economy to be in a “Goldilocks situation” — a rare alignment of moderate growth, subdued inflation and supportive monetary conditions. Thus option b is correct. India’s real GDP grew 8.2% in Q2 FY**2025-26**, up from 7.8% in the previous quarter and 7.4% in Q4 of**2024-25**, led by resilient domestic demand amidst global trade and policy uncertainties. CPI inflation stood at 4.26% in January and gradually moderated over the first half of the year, before declining further to multi-year lows during the latter half to 0.71% in November 2025.\nHowever, High inflow of foreign direct investment and low direct tax rate are not considered as the factors in determining the Goldilocks situation in an economy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following assets in an economy:",
+        "I. Patents",
+        "II. Goodwill",
+        "III. Software",
+        "IV. Inventories",
+        "V. Brand recognition",
+        "Which of the above are examples of intangible capital?"
+      ],
+      "questionText": "Consider the following assets in an economy: I. Patents II. Goodwill III. Software IV. Inventories V. Brand recognition Which of the above are examples of intangible capital?",
+      "options": {
+        "a": "I, II, III and IV only",
+        "b": "II and V only",
+        "c": "I, II, III and V only",
+        "d": "I, II, III, IV and V"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Intangible assets are assets that cannot be seen and touched. These are in the form of rights represented by documents and possess value despite having no physical form.\nOption I is correct: Patents are intellectual property rights granted for inventions that provide exclusive production or usage rights to the owner. As they do not have any physical form but generate economic value through innovation, patents are considered intangible capital.\nOption II is correct: Goodwill refers to the value of a firm’s reputation that enables it to earn profits above the normal profits of similar firms in the industry. It is an intangible fixed asset that cannot be separated from the business but contributes to future earnings. Hence, goodwill is considered intangible capital.\nOption III is correct: Software includes computer programs and digital systems used in production and services. Although stored on physical devices, its value lies in knowledge and intellectual content, making it an example of intangible capital.\nOption IV is incorrect: Inventories consist of physical stocks such as raw materials, work-in-progress goods, and finished products held for production or sale. As these assets have a tangible form, they represent tangible capital, not intangible capital.\nOption V is correct: Brand recognition reflects consumer trust and market reputation associated with a firm. Since it enhances economic value without physical existence, it is treated as intangible capital.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q20",
+      "questionNumber": 20,
+      "subject": "Polity",
+      "sectionGroup": "Part III, IV & IVA: Rights and Duties",
+      "microTopic": "Fundamental Rights",
+      "statementLines": [
+        "The ‘Right to Access to Justice’ is protected under which of the following articles of the Constitution of India?"
+      ],
+      "questionText": "The ‘Right to Access to Justice’ is protected under which of the following articles of the Constitution of India?",
+      "options": {
+        "a": "Article 14 and Article 19",
+        "b": "Article 20 and Article 21",
+        "c": "Article 14 and Article 21",
+        "d": "Article 19 and Article 20"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Right to Access to Justice is a fundamental principle of the rule of law, ensuring that individuals have the ability to seek legal remedies for their grievances through formal or informal justice mechanisms. This right guarantees that justice is not only available but also accessible, affordable, and effective.\nIn the landmark judgment of Anita Kushwaha v. Pushap Sudan (2016), the Supreme Court of India held that Access to Justice is a Fundamental Right protected under Article 14 (Right to Equality) and Article 21 (Right to Life and Personal Liberty) of the Indian Constitution.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which one of the following statements is not correct?"
+      ],
+      "questionText": "Which one of the following statements is not correct?",
+      "options": {
+        "a": "When total utility is maximum, marginal utility is zero",
+        "b": "When total utility is decreasing, marginal utility is negative",
+        "c": "When total utility is increasing, marginal utility is positive",
+        "d": "When total utility is maximum, marginal and average utility are equal to each other"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** When the total utility is at its maximum, the marginal utility becomes zero. The average utility, on the other hand, is the total utility divided by the number of units consumed. When the total utility is at its maximum, it does not necessarily mean that the average utility will be equal to the marginal utility. The average utility can still have a positive value even when the marginal utility is zero.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2019,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Map-Based Relevance (Trade Routes, Ports, Countries, etc.)",
+      "statementLines": [
+        "With reference to the theory of demand and supply in microeconomics, consider the following statements:",
+        "Statement I: If both the demand and supply curves shift rightward simultaneously, the change in equilibrium price cannot be determined with certainty.",
+        "Statement II: A rightward shift of the demand curve tends to increase the equilibrium price, whereas a rightward shift of the supply curve tends to decrease the equilibrium price.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the theory of demand and supply in microeconomics, consider the following statements: Statement I: If both the demand and supply curves shift rightward simultaneously, the change in equilibrium price cannot be determined with certainty. Statement II: A rightward shift of the demand curve tends to increase the equilibrium price, whereas a rightward shift of the supply curve tends to decrease the equilibrium price. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** In microeconomics, equilibrium price and equilibrium quantity are determined by the interaction of demand and supply forces in the market. When only one curve shifts and the other remains constant, the direction of change in price and quantity can be predicted clearly. However, when both curves shift simultaneously, the outcome may not always be definite.\nStatement I is correct. When both demand increases and supply increases (that is, both curves shift rightward), the equilibrium quantity will definitely increase. This is because both forces push quantity in the same direction.\nHowever, the effect on equilibrium price becomes indeterminate. The reason is that the two shifts influence price in opposite directions. An increase in demand creates upward pressure on price, whereas an increase in supply creates downward pressure on price.\nThe final change in price depends upon the relative magnitude of the shifts.\n- If the increase in demand is larger than the increase in supply, the price will rise.\n- If the increase in supply is larger than the increase in demand, the price will fall.\n- If both increase proportionately, the price may remain unchanged.\nTherefore, without information about the relative strength of the shifts, the direction of price change cannot be determined with certainty.\n\nStatement II is correct. When the demand curve shifts rightward, while supply remains constant, consumers are willing to purchase more at every price. This creates excess demand at the original price level. As a result, price rises until a new equilibrium is established.\nConversely, when the supply curve shifts rightward, while demand remains constant, producers are willing to sell more at every price. This creates excess supply at the original price level. Competition among sellers then pushes the price downward. Thus, a rightward shift in demand raises price, whereas a rightward shift in supply lowers price.\nStatement II explains Statement I. An increase in demand exerts upward pressure on price, whereas an increase in supply exerts downward pressure on price. When both curves shift rightward simultaneously, these opposite forces operate at the same time. As a result, the final change in price depends on the relative strength of the two shifts.\nTherefore, the direction of price cannot be determined with certainty.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to macroeconomic analysis, the boundary (or frontier) of a Production Possibility Curve (PPC) represents which of the following?"
+      ],
+      "questionText": "With reference to macroeconomic analysis, the boundary (or frontier) of a Production Possibility Curve (PPC) represents which of the following?",
+      "options": {
+        "a": "Actual GDP of an economy",
+        "b": "Potential GDP of an economy",
+        "c": "Economic growth over time",
+        "d": "Aggregate demand in the economy"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In macroeconomics, the Production Possibility Curve (PPC) is used to show the production constraints faced by an economy. It assumes that the economy has limited resources and produces combinations of two goods. The curve highlights the trade-off that arises because resources are scarce.\nThe boundary or frontier of the PPC represents the maximum possible output that an economy can produce using all its available resources efficiently. This maximum attainable output is known as potential GDP. It reflects a situation where there is full and efficient utilisation of resources, without any wastage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Suppose the Net National Product at Factor Cost (NNPFC) of a particular country in a year is Rs 1,900 crores.",
+        "There are no interest payments made by households to firms/government or by firms/government to households.",
+        "Households’ Personal Disposable Income (PDI) is Rs 1,200 crores, with personal income taxes of Rs 600 crores, and retained earnings of firms and government are Rs 200 crores. What is the value of transfer payments made by the government and firms to households?"
+      ],
+      "questionText": "Suppose the Net National Product at Factor Cost (NNPFC) of a particular country in a year is Rs 1,900 crores. There are no interest payments made by households to firms/government or by firms/government to households. Households’ Personal Disposable Income (PDI) is Rs 1,200 crores, with personal income taxes of Rs 600 crores, and retained earnings of firms and government are Rs 200 crores. What is the value of transfer payments made by the government and firms to households?",
+      "options": {
+        "a": "Rs. 100 crore",
+        "b": "Rs. 400 crore",
+        "c": "Rs. 600 crore",
+        "d": "Rs. 800 crore"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Net National Product at Factor Cost (NNPFC) represents the total income earned by a country’s factors of production. Facts given in question, - Net National Product at Factor Cost (NNPFC) = Rs 1,900 crores-Personal Disposable Income (PDI) = Rs 1,200 crores-Personal income taxes = Rs 600 crores-Retained earnings of firms and government (Undistributed Profits) = Rs 200 crores Personal Disposable Income (PDI) is defined as income after taxes i.e., income remaining with individuals after deduction of all taxes (Direct taxes, fees fines etc) levied against their income and property. Personal Disposable Income (PDI) = PI (Personal Income) - Personal Income Taxes Personal Income = Personal Disposable Income + Personal Income Taxes Personal Income = 1200+600= 1800. Net National Product at Factor Cost (NNPFC) is the sum of income earned by all factors in the production in the form of wages, profits, rent and interest, etc., belonging to a country during a year. Personal Income (PI) = NNPFC-retained Earning (Undistributed Profits) + Transfer payments 1800=**1900-20**0 +Transfer payments Transfer payments= 100 crores.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec102.pdf https://www.egyankosh.ac.in/bitstream/123456789/117462/1/Unit-2.pdf - Unit 2 - National Income Accounting - Measurement of Related Aggregates - Page 32"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q25",
+      "questionNumber": 25,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Fixed Capital in business finance, consider the following:",
+        "I. Money spent on purchase of raw materials.",
+        "II. Finished goods inventory",
+        "III. Expenditure incurred on purchase of Computer.",
+        "How many of the above are examples of Fixed Capital?"
+      ],
+      "questionText": "With reference to Fixed Capital in business finance, consider the following: I. Money spent on purchase of raw materials. II. Finished goods inventory III. Expenditure incurred on purchase of Computer. How many of the above are examples of Fixed Capital?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** In business finance, Fixed Capital refers to funds invested in long-term assets that are required for establishing and running a business on a sustained basis. These assets are not meant for resale. They are used repeatedly in the production process and provide benefits over a long period. Examples include land, buildings, plant, machinery, furniture, and office equipment such as computers.\nOptions I and II are incorrect. Apart from the investment in fixed assets every business organisation needs to invest in current assets. This investment facilitates smooth day-to-day operations of the business.Examples of current assets are:. 1. Cash in hand/Cash at Bank 2. Marketable securities 3. Bills receivable 4. Debtors 5. Finished goods inventory 6. Work in progress 7. Raw materials 8. Prepaid expenses Money spent on purchase of raw materials and Finished goods inventory is not fixed capital. They are classified as current assets and form part of working capital.\nOption III is correct. Expenditure incurred on purchase of a computer is an example of fixed capital. A computer is a durable asset used for business operations over several years. It is not consumed in a single production cycle. It supports administrative, accounting, or production-related activities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In macroeconomic terms, which of the following best describes the term ‘Technical Recession’?"
+      ],
+      "questionText": "In macroeconomic terms, which of the following best describes the term ‘Technical Recession’?",
+      "options": {
+        "a": "The situation where the inflation rate exceeds the GDP growth rate for two consecutive years.",
+        "b": "The prolonged decline in economic activity lasting for a decade.",
+        "c": "The condition where the unemployment rate remains high despite positive economic growth.",
+        "d": "The contraction in real GDP for two consecutive quarters."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The term Technical Recession is commonly used in economic analysis to provide a simple and measurable benchmark for identifying an economic downturn. It focuses purely on the behaviour of real Gross Domestic Product (GDP) over successive quarters.\nA technical recession occurs when real GDP contracts for two consecutive quarters. Real GDP measures the inflation-adjusted value of goods and services produced in an economy. When output falls continuously over two quarters, it indicates that economic activity has weakened in a sustained manner. This is a widely accepted rule of thumb used by economists and financial commentators worldwide.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to economics, what does the term ‘Hysteresis’ refer to?"
+      ],
+      "questionText": "With reference to economics, what does the term ‘Hysteresis’ refer to?",
+      "options": {
+        "a": "The transition of an economy directly from agrarian to services.",
+        "b": "A rapid recovery in employment immediately after a recession.",
+        "c": "A situation which arises when any historical event affects the future economic path.",
+        "d": "The policy of ensuring constant inflation in an economy to stabilise economic growth."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The term “hysteresis” comes from the Greek word “hysteros”, meaning “later” or “after,” and was originally used in physics by Sir James Alfred Ewing.\nIn economics, hysteresis refers to a situation where past shocks have persistent effects on the economy, even after the original cause has been removed.\nFor instance, the natural rate of unemployment in an economy may be affected by a single historical event, persisting for a long period and resulting in hysteresis. Long-lasting unemployment can lead to a loss of job skills, and affected workers may adjust to a lower standard of living, not immediately aiming to return to the previous level. In addition, a higher number of unemployed workers may discourage re-entry into the workforce. This prolonged effect can lead to structural unemployment, a further rise in the natural rate of unemployment, and impose long-term economic costs, reinforcing the hysteresis phenomenon.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to national income accounting in India, consider the following:",
+        "I. Purchase of machinery and equipment.",
+        "II. Construction of roads and bridges.",
+        "III. Increase in the number of young livestock at dairy farms.",
+        "IV. Increase in stocks of unsold finished goods.",
+        "How many of the above are part of Gross Fixed Capital Formation (GFCF)?"
+      ],
+      "questionText": "With reference to national income accounting in India, consider the following: I. Purchase of machinery and equipment. II. Construction of roads and bridges. III. Increase in the number of young livestock at dairy farms. IV. Increase in stocks of unsold finished goods. How many of the above are part of Gross Fixed Capital Formation (GFCF)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In national income accounting, Gross Fixed Capital Formation (GFCF) refers to the addition to the stock of fixed assets during a given accounting year. It represents investment in assets that are used repeatedly in the production process and contribute to increasing the productive capacity of the economy.\nOption I is correct. Purchase of machinery and equipment is a core component of GFCF. Machinery and equipment are durable assets used in production over several years. Investment in them increases the productive capacity of the economy.\nOption II is correct. Construction of roads and bridges forms part of GFCF. Such construction activities create long-term infrastructure assets. These assets support economic activity for many years and therefore qualify as fixed capital formation.\nOption III is correct. Increase in the number of young livestock is included in GFCF when the livestock is meant for productive purposes such as breeding, dairy production or drought power. These are considered additions to fixed assets in the agricultural sector.\nOption IV is incorrect. Increase in stocks of unsold finished goods does not form part of GFCF. It is treated as an increase in stocks or inventories. While it is a part of overall capital formation, it is classified separately and not included under gross fixed capital formation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the limitations of Gross Domestic Product (GDP), consider the following statements:",
+        "I. A rise in GDP does not necessarily ensure the welfare of citizens.",
+        "II. GDP does not reflect the economic inequality in an economy.",
+        "III. GDP does not account for economic activities of un-registered manufacturing factories in the economy.",
+        "IV. GDP does not account for the economic value of environmental resources.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the limitations of Gross Domestic Product (GDP), consider the following statements: I. A rise in GDP does not necessarily ensure the welfare of citizens. II. GDP does not reflect the economic inequality in an economy. III. GDP does not account for economic activities of un-registered manufacturing factories in the economy. IV. GDP does not account for the economic value of environmental resources. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and IV only",
+        "b": "II and III only",
+        "c": "I and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** GDP is the sum total of value of goods and services created within the geographical boundary of a country in a particular year. However, it has several limitations in its measurement\n\nStatement I is correct: A rise in the GDP of a country does not necessarily ensure the welfare of its citizens. This is because the increase in GDP may be concentrated in the hands of a few individuals, without being widely distributed across the population.\nStatement II is correct: GDP does not reflect the economic inequality present within a country. It does not provide any indication of how evenly or unevenly wealth is distributed among the population.\nStatement III is incorrect: The manufacturing Sector is classified into two broad sectors, viz., 'registered' and ‘unregistered'. The estimates of GVA for registered manufacturing are prepared by following the production approach.\nThis approach requires estimates of value of output at ex-factory prices and the corresponding value of inputs at purchasers' prices. The estimates of GVA for the unregistered manufacturing sector are obtained as a product of the work force and the corresponding GVA per worker. Thus, GDP takes into account economic activities of unregistered manufacturing factories in India.\nStatement IV is correct: GDP does not consider the economic value of the environment. For example, a refinery, while carrying out production, may pollute a nearby river, thereby harming the people who depend on that water.\nPollution may also kill fishes and other organisms in the river, leading to loss of livelihood for fishermen. Such harmful effects imposed on others, for which the refinery does not bear any cost, are known as negative externalities. In such cases, GDP does not take into account these negative externalities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/leec102.pdf - page no 30 ForumIAS Indian Economy Redbook- Ch: 2 - National Income (Pg: 21)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Education (NEP 2020, Skill Development)",
+      "statementLines": [
+        "With reference to the production of Makhana in India, consider the following statements:",
+        "Statement I: More than 80% of India’s Makhana is produced by Bihar alone.",
+        "Statement II: Makhana can be grown only in cool and dry season, thus requiring ample irrigation.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the production of Makhana in India, consider the following statements: Statement I: More than 80% of India’s Makhana is produced by Bihar alone. Statement II: Makhana can be grown only in cool and dry season, thus requiring ample irrigation. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct. Bihar produces about 90% of India’s makhana. It is produced mainly in nine districts: Darbhanga, Madhubani, Purnea, Katihar, Saharsa, Supaul, Araria, Kishanganj, and Sitamarhi. Makhana is also grown in Assam, Manipur, West Bengal, Tripura, Odisha, as well as in Nepal, Bangladesh, China, Japan, and Korea.\nStatement II is not correct. Makhana (Fox Nut) is the dried seed of the prickly water lily plant (Euryale ferox). It is a plant of tropical and subtropical climate. It grows in freshwater ponds, lakes, and wetlands across South and East Asia. It is grown in stagnant perennial water bodies like ponds, land depressions, oxbow lakes, swamps and ditches. It is also referred to as the ‘Black Diamond’ due to its dark outer layer. For Makhana Cultivation, it requires temperature between 20-35°C, rainfall between 100-250 cm and humidity of about 50-90%. Makhana is a crop that can thrive in low-lying areas where rice is not viable due to frequent flooding. This plant can grow and produce fruit in stagnant water. It is particularly successful in northern Bihar. The local population is fortunate to have access to many wetlands and waterlogged areas known as chaur.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Zero price elasticity of demand means?"
+      ],
+      "questionText": "Zero price elasticity of demand means?",
+      "options": {
+        "a": "Whatever the change in price, there is absolutely no change in demand",
+        "b": "For a small change in price, there is a small change in demand",
+        "c": "For a small change in price, there is a large change in demand",
+        "d": "For a large change in price, there is a small change in demand"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The degree to which the effective desire for something (goods or service) changes as its price changes is called Price elasticity of demand. In general, as things become more expensive, people desire those things less. The PED coefficient’s numerical values could range from zero to infinity. When the goods PED coefficient is equal to zero there will be perfectly inelastic demand. i.e., demand for a good does not change in response to price.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2019,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In which of the following situation(s) will the Per Capita Income of a country is/are most likely to increase?",
+        "I. When the rate of GDP growth exceeds the rate of population growth.",
+        "II. When the total population declines while GDP remains constant.",
+        "III. When nominal GDP rises at a faster rate than the inflation rate.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In which of the following situation(s) will the Per Capita Income of a country is/are most likely to increase? I. When the rate of GDP growth exceeds the rate of population growth. II. When the total population declines while GDP remains constant. III. When nominal GDP rises at a faster rate than the inflation rate. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Per capita income is defined as the ratio of national income over population. It gives the idea about the average earning of an Indian citizen in a year, even though this may not reflect the actual earning of each individual. It is calculated by dividing national income by population Per capita income (PCI) = National income/Total population of a country.\nStatement I is correct: If GDP grows faster than the total population of a country, the numerator increases proportionately more than the denominator. Therefore, PCI is most likely to increase.\nStatement II is correct: If GDP remains constant but population decreases, the denominator falls while the numerator remains unchanged, and thus PCI is most likely to increase.\nStatement III is incorrect: If Nominal GDP increases at a rate higher than inflation, it implies that Real GDP is increasing. However, Per Capita Income depends not only on real output growth but also on population growth. As the statement does not provide any information about the population growth rate it cannot be concluded that per capita income will definitely increase.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to Giffen goods, consider the following statements:",
+        "I. They are the type of inferior goods.",
+        "II. The demand for the Giffen goods generally increases with increase in its price.",
+        "III. Diamonds are an example of Giffen goods.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Giffen goods, consider the following statements: I. They are the type of inferior goods. II. The demand for the Giffen goods generally increases with increase in its price. III. Diamonds are an example of Giffen goods. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A Giffen good is a rare type of economic good where the demand for the good increases as its price rises, and decreases as its price falls.\nStatement I is correct: Inferior goods are those goods for which the demand changes in the opposite direction to the consumer’s income. Giffen Goods are a type of inferior goods and such goods generally lack close substitutes.\nStatement II is correct: In the case of a Giffen good, demand is positively related to price: when price increases, demand increases, and when price decreases, demand decreases. This occurs as the income effect dominates the substitution effect on the goods, resulting in an upward-sloping demand curve, which is an exception to the law of demand.\nStatement III is incorrect: Diamonds are a type of Veblen goods (not Giffen Goods). Veblen goods are considered exceptions to the law of demand, which states that the demand for a good must decrease as its price increases, and vice versa.\nBajara is an example of 'Giffen good' because as the income of the consumers increases, they consume less of Bajara and more of wheat or even with the fall in price of Bajara, less of it will be demanded.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://egyankosh.ac.in/bitstream/123456789/13471/1/Unit-6.pdf Page no 55 https://ncert.nic.in/textbook/pdf/leec202.pdf - Page no 24 https://www.ncert.nic.in/dess/pdf/handbook_in_economics.pdf Page no 35"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of the Indian economy, consider the following statements about Private Final Consumption",
+        "Expenditure (PFCE):",
+        "I. It refers to expenditure incurred on the final consumption of goods and services by the resident households and non-profit institutions serving households.",
+        "II. The share of PFCE in India’s GDP has been steadily increasing in the last decade.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "In the context of the Indian economy, consider the following statements about Private Final Consumption Expenditure (PFCE): I. It refers to expenditure incurred on the final consumption of goods and services by the resident households and non-profit institutions serving households. II. The share of PFCE in India’s GDP has been steadily increasing in the last decade. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: The Private final consumption expenditure (PFCE) is defined as the expenditure incurred by the resident households and non-profit institutions serving households (NPISH) on final consumption of goods and services, whether made within or outside the economic territory. The resident households and NPISHs incur expenditure while traveling abroad, while non-resident households, NPISHs and extra territorial bodies make final consumption expenditure within the economic territory of the country.\nStatement II is incorrect: The share of final private consumption expenditure (PFCE) in GDP rose to 61.5 per cent in FY26, the highest level since FY12. However it has not increased continuously during this entire period.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the India’s Gross Domestic Product (GDP), consider the following statements:",
+        "I. The base year for GDP Estimates has been revised from 2011–12 to 2022–23.",
+        "II. Presently, the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) calculate the quarterly GDP estimates using Benchmark-Indicator.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the India’s Gross Domestic Product (GDP), consider the following statements: I. The base year for GDP Estimates has been revised from 2011–12 to 2022–23. II. Presently, the National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) calculate the quarterly GDP estimates using Benchmark-Indicator. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** GDP is the value of final goods and services produced within a country in an accounting period.\nStatement I is correct: Base year for GDP Estimates has been revised from 2011–12 to 2022–23 to better reflect India’s evolving economic structure.\nStatement II is correct: National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) calculate the quarterly GDP estimates using Benchmark-Indicator-a standard method used worldwide following the System of National Accounts (SNA) 2008 and IMF’s Quarterly National Accounts Manual 2017. The method works as follows:\n- Annual GDP estimates act as a reference point/ benchmark.\n- High-frequency data, like monthly or quarterly indicators, are applied to these benchmark estimates to estimate quarterly GDP.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Map-Based Relevance (Trade Routes, Ports, Countries, etc.)",
+      "statementLines": [
+        "Consider the following information:",
+        "Type of Good Definition Example",
+        "I. Public Good Goods provided by the government only to a specified social class Government administration",
+        "II. Free Good Goods that are available in abundance without any cost or human effort.",
+        "Air",
+        "III. Club good Goods that are non-rival in consumption but excludable.",
+        "Museum In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "Consider the following information: Type of Good Definition Example I. Public Good Goods provided by the government only to a specified social class Government administration II. Free Good Goods that are available in abundance without any cost or human effort. Air III. Club good Goods that are non-rival in consumption but excludable. Museum In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Row I is incorrect: The government provides certain goods and services which cannot be provided by the market mechanism i.e. by exchange between individual consumers and producers. Examples of such goods are national defence, roads, government administration etc. which are referred to as public goods.\nPublic goods are characterised by non-rivalry and non-excludability in consumption. They may be produced by either the public or private sector. Public goods are available to all and are not only restricted to a specified social class.\nRow II is correct: Free goods are the goods that are available in abundance in the society without any opportunity cost or human efforts. Example: Sunshine, Air.\nRow III is correct: Goods that are non-rival in consumption but consumers can be excluded, are known as semi-public or quasi-public goods. These goods allow multiple individuals to consume them without significantly reducing availability to others (up to a point), yet access can be restricted. Economist James Buchanan termed them “club goods”, as only members of a specific group are permitted to enjoy their benefits while others are excluded. Examples include toll roads, swimming pools, public parks, museums, and schools, since entry or usage can be controlled through fees, membership, or admission criteria.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?leec1=5-6 - page no 67 https://egyankosh.ac.in/bitstream/123456789/59891/3/Unit-4.pdf page no 59 https://egyankosh.ac.in/bitstream/123456789/59890/3/Block-2.pdf - page no 64"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In macroeconomics, autonomous consumption refers to:"
+      ],
+      "questionText": "In macroeconomics, autonomous consumption refers to:",
+      "options": {
+        "a": "Consumption that increases proportionately with income.",
+        "b": "Consumption that occurs even when income is zero.",
+        "c": "Consumption of luxury goods after basic needs are satisfied.",
+        "d": "Consumption that cannot be measured in national income accounting."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** According to John Maynard Keynes, the consumption function explains the relationship between income and consumption. While consumption largely depends on the level of income, Keynes argued that people continue to consume essential goods and services even when their current income is zero. This is because basic needs such as food, shelter, and clothing cannot be postponed.\nFor instance, children consume goods and services despite having no income of their own, as they depend on their earning parents. Similarly, elderly persons may continue consumption through pensions, past savings, or support from family members. In such situations, consumption is financed through borrowing, dissaving, or transfers rather than current income.\nTherefore, in the short run, there exists a minimum fixed level of consumption expenditure that occurs even when income is zero. This component is known as autonomous consumption.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of the Indian economy, which of the following measures is least likely to be adopted by the",
+        "Government/RBI during a recession?",
+        "I. Increasing the expenditure on infrastructure projects",
+        "II. Increasing the reverse repo rate",
+        "III. Introduction of new public welfare schemes",
+        "IV. Increasing the indirect tax rates",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the context of the Indian economy, which of the following measures is least likely to be adopted by the Government/RBI during a recession? I. Increasing the expenditure on infrastructure projects II. Increasing the reverse repo rate III. Introduction of new public welfare schemes IV. Increasing the indirect tax rates Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III only",
+        "b": "II and IV only",
+        "c": "II, III and IV only",
+        "d": "I, II and IV only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**A recession refers to a sustained period of decline in overall economic activity within an economy for two consecutive quarters of decline in real Gross Domestic Product (GDP). Although there is no universally official definition, it is generally understood as a phase marked by falling output, rising unemployment, and reduced income and spending. Option I is incorrect: Increasing the expenditure on infrastructure projects is one of the measures adopted by the government to stimulate the economic activity and employment opportunity in an Economy. For instance, during the pandemic induced loss of GDP in**2020-21**, Production Linked Incentive Scheme (PLIS), Gati shakti Scheme, National Infrastructure Pipeline to support the economy.\nOption II is correct: The reverse repo rate is the rate at which commercial banks park their deposit with the Reserve Bank of India (RBI). If the RBI increases the reverse repo rate, banks are encouraged to deposit more funds with the RBI. This reduces liquidity in the economy leading to lower investment. So, RBI would “reduce” repo and reverse repo rates, not increase them to stimulate the growth Option III is incorrect: During a recession, governments introduce or expand public welfare schemes to protect vulnerable groups and sustain aggregate demand. For example, expansion of Pradhan Mantri Garib Kalyan Yojana during the COVID-19 economic slowdown.\nOption IV is correct: Higher indirect taxes raise prices of goods and services and further suppress demand in an economy. Generally, the government does not increase taxes during a recession.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of an economy, the Solow Paradox refers to which of the following situations?"
+      ],
+      "questionText": "In the context of an economy, the Solow Paradox refers to which of the following situations?",
+      "options": {
+        "a": "The phenomenon of extensive use of advanced technology without an expected increase in productivity",
+        "b": "The phenomenon of inflow of high remittances despite a slowdown in global economic growth.",
+        "c": "The phenomenon of the rapid growth in the manufacturing sector despite low public investment.",
+        "d": "The phenomenon of the continuous depreciation of a country’s currency despite strong macroeconomic fundamentals."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Solow Paradox, articulated by Nobel Prize-winning economist Robert Solow, is described in his famous 1987 remark that “you can see the computer age everywhere except in the productivity statistics.” This observation captured the apparent disconnect during the 1970s and 1980s between rapid advancements in computing technology and the relatively stagnant productivity growth. This phenomenon of extensive use of advanced technology without an expected increase in productivity is called the ‘Solow Paradox.\nThe paradox appeared to ease in the 1990s, when sectors such as technology, retail, and general sales contributed to a noticeable acceleration in productivity growth in the United States. Nearly four decades later, the Solow Paradox has some resonance in another new technological breakthrough at present in artificial intelligence (AI) development.\nAlthough AI is widely recognized as a transformative technological breakthrough, there remains uncertainty about how quickly and to what extent its impact will translate into measurable productivity gains.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q40",
+      "questionNumber": 40,
+      "subject": "Geography",
+      "sectionGroup": "World Geography",
+      "microTopic": "Straits, Channels, Oceans, Seas, Gulfs, Bays",
+      "statementLines": [
+        "Consider the following countries:",
+        "I. Kazakhstan",
+        "II. Turkey",
+        "III. Russia",
+        "IV. Iran",
+        "V. Afghanistan",
+        "How many of the above countries share their borders with the Caspian Sea?"
+      ],
+      "questionText": "Consider the following countries: I. Kazakhstan II. Turkey III. Russia IV. Iran V. Afghanistan How many of the above countries share their borders with the Caspian Sea?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Caspian Sea is the world’s largest enclosed inland water body, located between Asia and Europe. It is an endorheic basin, meaning it does not drain into any ocean. Three major rivers—the Volga, Ural, and Terek—flow into the Caspian Sea from the north, emphasizing its role in regional hydrography.\nCountries bordering the Caspian Sea:\n- Russia (West)\n- Azerbaijan (West)\n- Kazakhstan (North and East)\n- Turkmenistan (East)\n- Iran (South) Therefore, only three of the listed countries — Kazakhstan, Russia, and Iran — share a border with the Caspian Sea.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Map-Based Relevance (Trade Routes, Ports, Countries, etc.)",
+      "statementLines": [
+        "Multipliers will be lower with",
+        "which one of the following?"
+      ],
+      "questionText": "Multipliers will be lower with which one of the following?",
+      "options": {
+        "a": "High marginal propensity to consume",
+        "b": "Low marginal propensity to consume",
+        "c": "High marginal propensity to invest",
+        "d": "Low marginal propensity to save"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Marginal propensity to consume (MPC) is defined as the proportion of an aggregate raise in pay that a consumer spends on the consumption of goods and services, as opposed to saving it. The higher the MPC, the higher the multiplier—the more the increase in consumption from the increase in investment; similarly, the lower the MPC, the lower the multiplier.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2018,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to GDP Deflator, consider the following statements:",
+        "I. It is calculated as the ratio of Nominal GDP to Real GDP.",
+        "II. If the value of the GDP Deflator is less than 1, it indicates deflation in the economy.",
+        "III. It does not include the price of imported goods and services.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to GDP Deflator, consider the following statements: I. It is calculated as the ratio of Nominal GDP to Real GDP. II. If the value of the GDP Deflator is less than 1, it indicates deflation in the economy. III. It does not include the price of imported goods and services. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: The GDP deflator is a measure of price inflation, calculated by dividing nominal GDP by real GDP. It measures the overall change in the price level of all goods and services produced within a country's economy.\nGDP deflator = (Nominal GDP/ Real GDP)\n\nStatement II is correct: If GDP Deflator < 1, that means there is deflation in the economy indicating that the overall price level has declined compared to the base year. If GDP Deflator > 1, that means there is inflation in the economy.\nStatement III is correct: GDP deflator captures only the price changes of all goods and services produced domestically and excludes the prices of imported goods.\nKnowledge Base: Nominal GDP: It is defined as the value of goods and services at current year prices. Real GDP: It is also termed as GDP at constant prices. It measures the actual growth of the economy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://mospi.gov.in/sites/default/files/Statistical_year_book_india_chapters/Prices%20Writeup_0.pdf https://ncert.nic.in/textbook/pdf/leec102.pdf - Page no 29 ForumIAS Indian Economy Redbook- Ch: 2 - National Income Pg: 16 https://egyankosh.ac.in/bitstream/123456789/67656/3/Unit-3.pdf - page no 43"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Net National Product at Factor Cost (NNP at FC) is considered the best measure of national income of a country.",
+        "Statement II: It includes net factor income earned from abroad.",
+        "Statement III: It excludes depreciation from the value of output.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Net National Product at Factor Cost (NNP at FC) is considered the best measure of national income of a country. Statement II: It includes net factor income earned from abroad. Statement III: It excludes depreciation from the value of output. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: National income refers to the total income earned by the normal residents of a country during a given period, usually one year. In national income accounting, several aggregates such as GDP, GNP, NDP, and NNP are used.\nAmong these, Net National Product at Factor Cost (NNP at FC) is regarded as the most accurate measure of national income because it reflects the actual income earned by the factors of production (land, labour, capital and entrepreneurship). It adjusts for depreciation and net factor income from abroad and excludes the distortions caused by indirect taxes, thereby giving a true picture of the income available to the residents of the country.\n- National Income at Factor Cost = GNP at Market Price –Depreciation-Indirect Taxes + Subsidies\nStatement II is correct and explanations Statement I: NNP is derived from GDP by adding Net Factor Income from Abroad (NFIA). This ensures that income earned by residents from foreign sources is included, and income earned by foreigners domestically is excluded. Hence, it measures income of nationals, not merely domestic production.\nStatement III is correct and explain Statement I: NNP is a net concept, meaning depreciation (wear and tear of capital goods) is deducted from Gross National Product (GNP). Hence, NNP = GNP – Depreciation.\nDeduction of depreciation prevents overestimation of income by excluding the value needed to replace worn-out capital goods. Thus, providing the true picture of national income and explains why NNP at Factor Cost is regarded as the best measure of national income.\nTherefore,\n\nStatement III is correct but does not explain Statement I.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Map-Based Relevance (Trade Routes, Ports, Countries, etc.)",
+      "statementLines": [
+        "Consider the following scenarios regarding the provision of public goods and services:",
+        "I. A public sector company manufacturing aluminium using its idle machinery and labour for the production of certain other goods.",
+        "II. The Central Government conducts free skill-development workshops for unemployed youth using volunteer trainers and existing government school classrooms after regular hours.",
+        "III. The state government distributes the excess food grains, which were otherwise rotting, to certain households.",
+        "In which of the above scenarios is/are the Opportunity cost will be zero?"
+      ],
+      "questionText": "Consider the following scenarios regarding the provision of public goods and services: I. A public sector company manufacturing aluminium using its idle machinery and labour for the production of certain other goods. II. The Central Government conducts free skill-development workshops for unemployed youth using volunteer trainers and existing government school classrooms after regular hours. III. The state government distributes the excess food grains, which were otherwise rotting, to certain households. In which of the above scenarios is/are the Opportunity cost will be zero?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Economists define opportunity cost as the value of the next best alternative foregone. Individuals usually consider several alternatives before choosing a particular activity to pursue their goals. Similarly, in production, a producer forgoes alternatives before choosing a particular output.\nScenario I is incorrect: As the machine involved will depreciate, also the labour employed will have an opportunity cost. Hence, this scenario involves a non-zero opportunity cost. Therefore, the opportunity cost will not be zero.\nScenario II is incorrect: The Central Government conducts free skill-development workshops using volunteer trainers and existing school classrooms after regular hours. Although the classrooms are used outside teaching hours, the time and effort of volunteers represent resources that could have been utilized elsewhere. Hence, this scenario involves a non-zero opportunity cost, even if minimal.\nScenario III is incorrect: While the food is rotting, the process of distributing it requires transport, labor, and administrative overhead. These resources (trucks, fuel, personnel) could have been used to move other essential goods. Additionally, the \"rotting food\" itself could have been used as compost or for ethanol production. Thus there is a cost associated with it and thus the opportunity cost is not zero.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q45",
+      "questionNumber": 45,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to national income accounting in India, consider the following statements regarding",
+        "Consumption of Fixed Capital:",
+        "I. It refers to the normal wear and tear of fixed capital assets during a year.",
+        "II. It does not take into account losses of fixed capital arising from unforeseen events such as fire, earthquake or floods.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to national income accounting in India, consider the following statements regarding Consumption of Fixed Capital: I. It refers to the normal wear and tear of fixed capital assets during a year. II. It does not take into account losses of fixed capital arising from unforeseen events such as fire, earthquake or floods. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In national income accounting, we measure how much new capital is added to the economy in a year. But capital goods like machines, buildings and equipment do not last forever. They lose value over time due to use. This loss must be adjusted to know the real increase in productive capacity. That is where the concept of Consumption of Fixed Capital (CFC) becomes important. It helps us move from Gross Investment to Net Investment.\nNet Investment = Gross Investment – Consumption of Fixed Capital\n\nStatement I is correct. Consumption of Fixed Capital means the reduction in value of fixed assets due to normal use, passage of time, and regular wear and tear. It includes depreciation of Machinery, Buildings, Equipment, Infrastructure assets etc. It reflects the decline in productive capacity because capital goods gradually become less efficient. Thus, it is the planned and expected loss in value of capital assets over time.\nStatement II is correct. Loss of capital due to unexpected events such as Fire, Flood, Earthquake, sudden policy change, change in consumer tastes etc. is known as Capital Loss. Such losses are not included under Consumption of Fixed Capital. Consumption of Fixed Capital only covers normal and expected depreciation, not accidental or extraordinary destruction of assets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q46",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Directions for the following 3 (three) items:",
+        "Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage I Cyber parenting, or digital parenting, is a modern phenomenon. It involves preparing children to live a conscious, balanced, and enriched life alongside technology. It includes educating them about the dangers of the internet and guiding them to reduce excessive screen time. It also means making it clear to children that while being popular on social media may seem fascinating, developing good character and values is far more meaningful. This awareness helps children understand that although the online world is engaging, real-life experiences and relationships are equally meaningful and rewarding. However, this balance can only be achieved when parents themselves are aware of both the positive and negative effects of exposure to the digital world.",
+        "Which one of the following statements best reflects the crux of the passage?"
+      ],
+      "questionText": "Directions for the following 3 (three) items: Read the following two passages and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage I Cyber parenting, or digital parenting, is a modern phenomenon. It involves preparing children to live a conscious, balanced, and enriched life alongside technology. It includes educating them about the dangers of the internet and guiding them to reduce excessive screen time. It also means making it clear to children that while being popular on social media may seem fascinating, developing good character and values is far more meaningful. This awareness helps children understand that although the online world is engaging, real-life experiences and relationships are equally meaningful and rewarding. However, this balance can only be achieved when parents themselves are aware of both the positive and negative effects of exposure to the digital world. Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "Children are strongly attracted to the latest trends circulating on social media platforms.",
+        "b": "Parents need to understand the benefits and risks of the digital world to help their children navigate it safely.",
+        "c": "Parents should encourage their children to nurture meaningful real life relationships.",
+        "d": "As technology has become a part of modern-day life, children need to be taught the pros and cons of using it."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statement a is incorrect. The passage states that “being popular on social media may seem fascinating” to children.\nHowever, statement a does not best reflect the crux of the passage as it narrowly focuses upon one aspect mentioned in the passage. Statement b is correct. It best reflects the crux of the passage as it highlights the need of digital awareness among parents in order to guide their children. It is mentioned in the passage as “Cyber parenting, or digital parenting, is a modern phenomenon. It involves preparing children to live a conscious, balanced, and enriched life alongside technology.” Further it states that this can only be possible when parents themselves are aware of both the positive and negative effects of exposure to the digital world.\nStatement c is incorrect. While the passage states that “awareness helps children understand that although the online world is engaging, real-life experiences and relationships are equally meaningful and rewarding”, statement c does not best reflect the crux of the passage as it does not highlight the role of parents in developing this awareness. Statement d is incorrect. Although the passage states that “preparing children to live a conscious, balanced, and enriched life alongside technology”, statement d does not best reflect the crux of the passage as it does not highlight the role of parents in developing this awareness.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q47",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage II Tourist destinations across the world are increasingly facing water crises, particularly during peak seasons. In most of these towns, the scarcity arises not from absolute hydrological limitations but from sudden surges in demand driven by rising tourist inflows. This phenomenon is even more pronounced in the Himalayas. Limited water storage capacity, unreliable energy supply, and frequent exposure to climatic extremes and natural hazards make urban water systems in the Himalayas structurally fragile. Tourism induced pressure interacts with these climatic and geomorphological vulnerabilities to create a distinct form of urban water stress i.e. episodic, unevenly distributed, and difficult to manage through conventional planning approaches. The situation therefore demands a reorientation of planning frameworks to align growth in tourism with hydrological limits and long-term environmental sustainability.",
+        "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?"
+      ],
+      "questionText": "Passage II Tourist destinations across the world are increasingly facing water crises, particularly during peak seasons. In most of these towns, the scarcity arises not from absolute hydrological limitations but from sudden surges in demand driven by rising tourist inflows. This phenomenon is even more pronounced in the Himalayas. Limited water storage capacity, unreliable energy supply, and frequent exposure to climatic extremes and natural hazards make urban water systems in the Himalayas structurally fragile. Tourism induced pressure interacts with these climatic and geomorphological vulnerabilities to create a distinct form of urban water stress i.e. episodic, unevenly distributed, and difficult to manage through conventional planning approaches. The situation therefore demands a reorientation of planning frameworks to align growth in tourism with hydrological limits and long-term environmental sustainability. Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+      "options": {
+        "a": "Water scarcity in tourist destinations stems from governance deficiencies in water management.",
+        "b": "Heavy tourist influx has led to growing water scarcity in destinations across the globe.",
+        "c": "Planners need to balance the growing water demands of the tourism industry with the limited resources in the Himalayas.",
+        "d": "Low water availability in the Himalayas is being further aggravated by pressure from tourism."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage states “the scarcity arises not from absolute hydrological limitations but from sudden surges in demand driven by rising tourist inflows”, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it only highlights the problem.\nStatement b is incorrect. Although the passage states “Tourist destinations across the world are increasingly facing water crises, particularly during peak seasons”, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it makes a general statement and does not talk about the specific case of the Himalayas.\nStatement c is correct. It best reflects the most logical and rational inference that can be drawn from the passage as it highlights how the water crisis in Himalayan towns can be managed. It is mentioned in the passage as “The situation therefore demands a reorientation of planning frameworks to align growth in tourism with hydrological limits and long-term environmental sustainability.” Statement d is incorrect. The passage states “Limited water storage capacity, unreliable energy supply, and frequent exposure to climatic extremes and natural hazards make urban water systems in the Himalayas structurally fragile.\nTourism induced pressure interacts with these climatic and geomorphological vulnerabilities to create a distinct form of urban water stress i.e. episodic, unevenly distributed, and difficult to manage through conventional planning approaches.” However, statement d does not best reflect the most logical and rational inference that can be drawn from the passage as it does not provide a solution to the problem.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q48",
+      "questionNumber": 48,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Statement and Assumption",
+      "statementLines": [
+        "Based on the above passage, the following assumptions have been made:",
+        "I. The number of tourists in Himalayan towns must be capped.",
+        "II. Economic growth must align with the principles of environmental sustainability.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "Based on the above passage, the following assumptions have been made: I. The number of tourists in Himalayan towns must be capped. II. Economic growth must align with the principles of environmental sustainability. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage states “reorientation of planning frameworks to align growth in tourism with hydrological limits”, it is silent on what measure should be taken. Therefore, the assumption is outside the scope of the passage and thus invalid.\nStatement II is correct. The passage states “the situation therefore demands a reorientation of planning frameworks to align growth in tourism with hydrological limits and long-term environmental sustainability”. From here we can assume that statement II is valid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q49",
+      "questionNumber": 49,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "If M = 100! + 101! + 102!, then consider the following:",
+        "I. The largest prime factor of M is 101.",
+        "II. The number of trailing zeros in M is 24.",
+        "III. M is divisible by (103)².",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "If M = 100! + 101! + 102!, then consider the following: I. The largest prime factor of M is 101. II. The number of trailing zeros in M is 24. III. M is divisible by (103)². Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**Given M = 100! + 101! + 102! Factor out common factorial We know: 101! = 101 × 100! 102! = 102 × 101 × 100! So we can write M as: M = 100! + (101 × 100!) + (102 × 101 × 100!) Notice that all three terms have 100! in them. Let’s factor it out: M = 100! × (1 + 101 + 102 × 101) Now compute the sum inside the brackets: 102 × 101 = 10302 Add the other numbers: 1 + 101 + 10302 = 10404 So finally: M = 100! × 10404 Factor 10404 into primes Let’s break 10404 into its prime factors: - 10404 ÷ 4 =**2601-26**01 = 51 × 51-51 = 3 × 17 So 10404 = 2 × 2 × 3 × 3 × 17 × 17 Or in short: 10404 = 2² × 3² × 17² Thus, M = 100! × 2² × 3² × 17²\nStatement I — Largest prime factor is 101-100! is the product of all numbers from 1 to 100. So the largest prime factor in 100! is 97 (the largest prime ≤ 100).\n- The multiplier 10404 only has prime factors 2, 3, and 17.\n- There is no 101 anywhere. Thus,\nStatement I is incorrect. Statement II — Number of trailing zeros is 24 Explanation of trailing zeros:\n- Trailing zeros in a number come from factors of 10.\n- In factorials, there are always more 2s than 5s. So the number of zeros is determined by how many times 5 appears in the factorial.\nStep by step count of 5s in 100!:\n- Count numbers divisible by 5: 5, 10, 15, ... 100 → there are 20 numbers.\n- Count numbers divisible by 25 (extra factor of 5): 25, 50, 75, 100 → 4 numbers.\n- Add them: 20 + 4 = 24 So 100! has 24 trailing zeros. The multiplier 10404 has no 5s, so it does not change the count. Thus,\nStatement II is correct. Statement III — Divisible by 103²-103 is larger than 100, so 100! does not include it.\n- Multiplier 10404 also has no factor 103.\nThus,\n\nStatement III is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test1-q50",
+      "questionNumber": 50,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "The difference between any two natural numbers is",
+        "10. What can be said about the natural numbers which are divisible by 5 and lie between these two numbers?"
+      ],
+      "questionText": "The difference between any two natural numbers is 10. What can be said about the natural numbers which are divisible by 5 and lie between these two numbers?",
+      "options": {
+        "a": "There is only one such number.",
+        "b": "There are only two such numbers.",
+        "c": "There can be more than one such number.",
+        "d": "No such number exists."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Two natural numbers N and N + 10 differ by 10. We need to determine how many natural numbers divisible by 5 lie strictly between them.\nCase-I If N is a multiple of 5 (e.g., N = 5), there is one multiple of 5 (e.g., 10) between N and N + 10. The numbers between 5 and 15 are 6, 7, 8, 9, 10, 11, 12, 13, 14. The number divisible by 5 in this list is 10. In this case, there is only one such number.\nCase-II If N is not a multiple of 5 (e.g., N = 1), there are two multiples of 5 (e.g., 5 and 10) between N and N + 10. Example 1: Let a = 1,b = 11 Numbers between = 2 to 10 Multiples of 5: 5 and 10-2 numbers Example 2: Let a = 3, b = 13 Between = 4 to 12 Multiples of 5: 5 and 10-2 numbers Conclusion: The number of multiples of 5 between N and N + 10 depends on N. Since it can be 1 or 2, the correct answer is (c)\n- There can be more than one such number.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

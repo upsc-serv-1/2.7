@@ -1,0 +1,2175 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test6",
+  "title": "Test 6- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "A decrease in tax to GDP ratio of a country indicates which of the following?",
+        "1. Slowing economic growth rate.",
+        "2. Less equitable distribution of national income.",
+        "Select the correct answer using the codes given below."
+      ],
+      "questionText": "A decrease in tax to GDP ratio of a country indicates which of the following? 1. Slowing economic growth rate. 2. Less equitable distribution of national income. Select the correct answer using the codes given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Option a is the correct answer:\n\nStatement 1 is correct but\n\nStatement 2 is incorrect. Tax to GDP ratio compares the amount of taxes collected by a government to the amount of income that country receives for its products. A decrease in tax to GDP ratio of a country indicates a slowing economic growth. When tax revenues grow at a slower rate than the GDP of a country, the tax-to GDP ratio drops.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2015,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "A travel website advertises hotel rooms at ₹2,000 per night. However, during the booking process, additional charges for taxes, internet access and amenities are revealed, raising the total price to ₹2,",
+        "750. This practice misleads consumers about the final cost and limits informed decision-making. This is the description of which of the following practices?"
+      ],
+      "questionText": "A travel website advertises hotel rooms at ₹2,000 per night. However, during the booking process, additional charges for taxes, internet access and amenities are revealed, raising the total price to ₹2, 750. This practice misleads consumers about the final cost and limits informed decision-making. This is the description of which of the following practices?",
+      "options": {
+        "a": "Bait and switch",
+        "b": "Price gouging",
+        "c": "Drip pricing",
+        "d": "Basket sneaking"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption a is incorrect: A bait-and-switch is a fraudulent sales practice where a seller advertises an appealing, low-priced product (the \"bait\") to lure customers, only to claim it is unavailable and pressure them into purchasing a more expensive or inferior item (the \"switch\").\nOption b is incorrect: Price gouging is the practice of raising prices for essential goods and services (like water, food, fuel, or medicine) to unfairly high levels, usually during a state of emergency, natural disaster, or crisis. It exploits sudden demand spikes as sellers maximize profits when consumers have few options.\nOption c is correct: Under the Guidelines for Prevention and Regulation of Dark Patterns, 2023, 'Drip Pricing' is a dark pattern which misleads consumers about the final payable amount and undermines informed decision-making. Drip pricing is a strategy where only a portion of an item's cost is initially displayed, with the full amount revealed later during the purchase process.\n- The price advertised, whether in print, email, or on a website (referred to as the “headline price”), may not accurately reflect the final cost to the consumer.\nSuch practice also contravenes Rule 7(1)(e) of the Consumer Protection (E-Commerce) Rules, 2020, which requires the total price, inclusive of all charges and taxes, to be displayed upfront.\nOption d is incorrect: Basket sneaking is a deceptive e-commerce \"dark pattern\" where additional products, services, or charity donations are added to a user's shopping cart without their explicit consent during checkout. This tactic increases the final bill amount, often by pre-selecting items or using hidden checkboxes to manipulate users into paying.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "With reference to various financial Institutions in India, consider the following information:",
+        "Name of the Institution Established Works under",
+        "I. Economic Intelligence Council (EIC) by Executive Order of the Government Ministry of Finance",
+        "II. Financial Intelligence Unit - India (FIU-IND) by Executive Order of the Government Ministry of Home",
+        "Affairs",
+        "III. Serious Fraud Investigation Office (SFIO) under a Law enacted by Parliament Ministry of Corporate",
+        "Affairs In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to various financial Institutions in India, consider the following information: Name of the Institution Established Works under I. Economic Intelligence Council (EIC) by Executive Order of the Government Ministry of Finance II. Financial Intelligence Unit - India (FIU-IND) by Executive Order of the Government Ministry of Home Affairs III. Serious Fraud Investigation Office (SFIO) under a Law enacted by Parliament Ministry of Corporate Affairs In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Row I is correct: Economic Intelligence Council (EIC) is an apex body set up for mitigation of Economic Offences by Multi-Agency coordination on the recommendation of the Group of Ministers. It is an executive body (created by an executive resolution) and chaired by the Finance Minister, Govt. of India. Central Economic Intelligence Bureau serves as Secretariat and Director General, CEIB acts as Member Secretary of EIC.\nEconomic Intelligence Council (EIC) is tasked with developing strategies for the collection, collation, and dissemination of intelligence related to economic security while ensuring its effective utilization by relevant agencies.\nIt reviews measures to combat economic offences, formulates coordinated strategies for enforcement, and strengthens the functioning of intelligence and enforcement agencies under the Ministry of Finance. Through its mandate, the EIC fosters inter-agency coordination and dynamic responses to evolving economic threats.\nRow II is incorrect: Financial Intelligence Unit – India (FIU-IND) was set by the Government of India via resolution (non-statutory body) as the central national agency responsible for receiving, processing, analyzing and disseminating information relating to suspect financial transactions. FIU-IND is also responsible for coordinating and strengthening efforts of national and international intelligence, investigation and enforcement agencies in pursuing the global efforts against money laundering and financing of terrorism. FIU-IND is an independent body reporting directly to the Economic Intelligence Council (EIC) headed by the Finance Minister. Row III is correct: Serious Fraud Investigation Office (SFIO) is a statutory body notified under the Companies Act, 2013. It is a multi-disciplinary organization under the Ministry of Corporate Affairs, of experts in the field of accountancy, forensic auditing, law, information technology, investigation, company law, capital market, banking and taxation, etc., for detecting and prosecuting or recommending for prosecution of crimes/frauds.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "A tax system is characterized as a 'Progressive Tax Structure' when the income elasticity of tax is:"
+      ],
+      "questionText": "A tax system is characterized as a 'Progressive Tax Structure' when the income elasticity of tax is:",
+      "options": {
+        "a": "Equal to 1",
+        "b": "Between 0 and 1",
+        "c": "Greater than 1",
+        "d": "Equal to 0"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In public finance, economists often analyse the nature of a tax system by examining how tax revenue changes with changes in income. This relationship is captured through the concept of income elasticity of tax.\nIncome elasticity of tax measures the percentage change in tax revenue resulting from a one percent change in income. In simple terms, it shows how quickly the tax burden rises as income increases.\nA tax system is considered progressive when tax payments increase faster than income. This means that higher-income individuals contribute a larger share of their income as tax compared to lower-income individuals. This situation arises when the income elasticity of tax is greater than one. For example, if income rises by 10% but tax revenue rises by 15%, the tax system is progressive.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements regarding Cess in India:",
+        "Statement I: The greater the share of tax revenue of the Union from cesses, the lower will be the tax revenues distributed to the states by the Union.",
+        "Statement II: Cess is excluded from the purview of the divisible pool of taxes that the Union government shares with the States.",
+        "Statement III: Proceeds from cess are directly credited to the Public Account of India rather than Consolidated Fund of India.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements regarding Cess in India: Statement I: The greater the share of tax revenue of the Union from cesses, the lower will be the tax revenues distributed to the states by the Union. Statement II: Cess is excluded from the purview of the divisible pool of taxes that the Union government shares with the States. Statement III: Proceeds from cess are directly credited to the Public Account of India rather than Consolidated Fund of India. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statements I and II are correct and Statement II explains Statement I. A cess is a form of tax levied by the Union government for a specific and designated purpose, such as education, health, or infrastructure development. As per Article 270 of the Constitution cess will be excluded from the purview of the divisible pool of taxes that the Union government must share with the States.\nThe greater the share of revenue of the Union from cesses, the lower the tax revenues distributed to States because cesses are not part of the divisible pool of taxes under Article 270 of the Indian Constitution.\nStatement III is incorrect. Cess proceeds are not directly credited to the Public Account of India. Under Article 266 of the Constitution, all revenues received by the Government of India, including cess are first credited to the Consolidated Fund of India. Subsequently, the proceeds may be transferred to specific funds created for the purpose for which the cess was levied.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following taxes:",
+        "I. Angel Tax",
+        "II. Wealth Tax",
+        "III. Equalization Levy",
+        "IV. Dividend Distribution Tax",
+        "V. Fringe Benefit Tax",
+        "How many of the above taxes presently have been abolished by the Government of India?"
+      ],
+      "questionText": "Consider the following taxes: I. Angel Tax II. Wealth Tax III. Equalization Levy IV. Dividend Distribution Tax V. Fringe Benefit Tax How many of the above taxes presently have been abolished by the Government of India?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n** Option I is correct: Angel Tax was imposed under the Income Tax Act, 1961. It taxed the excess amount received by unlisted companies (especially start-ups) when shares were issued at a price higher than their fair market value. The government abolished Angel Tax in the Union Budget 2024–25 to promote investment in start-ups and improve the startup ecosystem in India.\nOption II is correct: Wealth Tax was levied on the net wealth of individuals, Hindu Undivided Families (HUFs), and companies above a specified threshold. Due to its low revenue collection and high administrative cost, it was abolished in the Union Budget 2015–16 and replaced with an additional surcharge on high-income individuals.\nOption III is correct: Equalization Levy was introduced in 2016 to tax digital transactions involving non-resident digital companies operating in India without a physical presence. Initially, it applied to online advertising services at a rate of 6%. Later, a 2% levy on e-commerce operators was introduced in 2020. The government subsequently abolished the 2% levy on e-commerce operators with effect from August 1, 2024, and removed the remaining Equalization Levy on online advertising from April 1, 2025, in order to streamline digital taxation and align with evolving international tax frameworks.\nOption IV is correct: Earlier, companies were required to pay Dividend Distribution Tax (DDT) before distributing dividends to shareholders. The Finance Act, 2020 abolished DDT, and dividends are now taxed directly in the hands of shareholders according to their applicable income tax slab.\nOption V is correct: Fringe Benefit Tax (FBT) was introduced in 2005 to tax certain perquisites and benefits provided by employers to employees, such as entertainment expenses, employee welfare, and travel benefits. Due to criticism from industry and the complexity of compliance, the tax was abolished in the Union Budget 2009.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "With reference to the Capital Gains Tax in India, consider the following statements:",
+        "I. Capital gains arising from the transfer of Virtual Digital Assets such as cryptocurrencies and Non-Fungible Tokens",
+        "(NFTs) are taxed at a flat rate of 30% irrespective of the period of holding.",
+        "II. An equity share listed in a recognised stock exchange in India will be considered as a short term capital asset for the purpose of capital gains tax if the period of holding is less than 18 months.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Capital Gains Tax in India, consider the following statements: I. Capital gains arising from the transfer of Virtual Digital Assets such as cryptocurrencies and Non-Fungible Tokens (NFTs) are taxed at a flat rate of 30% irrespective of the period of holding. II. An equity share listed in a recognised stock exchange in India will be considered as a short term capital asset for the purpose of capital gains tax if the period of holding is less than 18 months. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Under the taxation framework introduced through the Finance Act, 2022, a special provision was inserted in the Income-tax Act, 1961 to tax income arising from the transfer of Virtual Digital Assets (VDAs) such as cryptocurrencies and Non-Fungible Tokens (NFTs). Such gains are taxed at a flat rate of 30%, irrespective of the holding period of the asset. Unlike most other capital assets, the distinction between short-term and long-term does not affect the tax rate for VDAs.\nStatement II is incorrect: For listed equity shares and equity-oriented mutual funds, a holding period of more than 12 months qualifies them as long-term capital assets. If they are held for 12 months or less, the gains are treated as short-term capital gains.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to inflation trends in India between the FY 2022-23 and FY 2024-25, consider the following",
+        "statements:",
+        "I. The average annual retail inflation, as measured by the Consumer Price Index (CPI) has steadily decreased during the period.",
+        "II. During this period, the average annual Wholesale Price Index (Headline) inflation rate has never recorded negative values.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to inflation trends in India between the FY 2022-23 and FY 2024-25, consider the following statements: I. The average annual retail inflation, as measured by the Consumer Price Index (CPI) has steadily decreased during the period. II. During this period, the average annual Wholesale Price Index (Headline) inflation rate has never recorded negative values. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**Statement I is correct: Over the past four years, average retail inflation, as measured by the Consumer Price Index (CPI), has followed a clear downward trajectory, declining steadily from 6.7 per cent in the financial year (FY) 2022–23 to 1.7 per cent in 2025–26 (till December) Since FY**2022-23**, India’s annual CPI inflation has shown a steadily declining trend. It followed a clear downward trajectory, declining steadily from 6.7 per cent in FY 2022–23 to 4.63 per cent in 2024–25.\nStatement II is incorrect: During this period, WPI inflation did record negative values, indicating phases of wholesale price deflation. For instance, the value of WPI inflation was-0.73 per cent in FY 2023–24.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements about the Tax Collected at Source (TCS) in India:",
+        "I. Under it, a person (deductor) who is liable to make payment of specified nature to any other person (deductee) shall deduct tax at source and remit the same into the account of the government",
+        "II. The provisions relating to TCS are laid down under the Income-tax Act, 1961.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the Tax Collected at Source (TCS) in India: I. Under it, a person (deductor) who is liable to make payment of specified nature to any other person (deductee) shall deduct tax at source and remit the same into the account of the government II. The provisions relating to TCS are laid down under the Income-tax Act, 1961. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: The statement describes the mechanism of Tax Deducted at Source (TDS) rather than Tax Collected at Source (TCS).\n- The concept of TDS was introduced with an aim to collect tax from the very source of income. As per this concept, a person (deductor) who is liable to make payment of specified nature to any other person (deductee) shall deduct tax at source and remit the same into the account of the Government.\n- The deducted amount is then deposited with the Central Government on behalf of the recipient, and the recipient receives credit for that tax while filing the income tax return.\nIn contrast, TCS operates differently:\n- Under this system, the seller of certain specified goods or the specified person collects tax from the buyer at the time of sale or at the time of receipt of payment.\n- The collected tax is then deposited with the government. Thus, in TDS the tax is deducted by the payer, whereas in TCS the tax is collected by the seller from the buyer.\nStatement II is correct: The provisions for Tax Collected at Source (TCS) are primarily governed by Section 206C of the Income-tax Act, 1961.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Mass Extinctions and IUCN Red List",
+      "statementLines": [
+        "With reference to the White Winged Duck, consider the following statements:",
+        "I. It usually inhabits the open grassland ecosystems and is rarely found in dense forests.",
+        "II. It is a crepuscular bird as it is most active at dusk and dawn.",
+        "III. It is listed as ‘Endangered’ under the IUCN Red List of Threatened Species.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the White Winged Duck, consider the following statements: I. It usually inhabits the open grassland ecosystems and is rarely found in dense forests. II. It is a crepuscular bird as it is most active at dusk and dawn. III. It is listed as ‘Endangered’ under the IUCN Red List of Threatened Species. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "II and III",
+        "c": "I and II",
+        "d": "I and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is incorrect. White-winged duck is a large, rare, and endangered species of duck found in freshwater wetlands and dense tropical forests of South and Southeast Asia. It prefers dense tropical and subtropical forests with slow-moving rivers, swamps, and wetlands.\nThe states of Assam and Arunachal Pradesh alone harbour about 50% of its global population. It was once distributed widely across north-east India and south-east Asia. But now, only about 800 survive in the wild of which about 450 are present in India, Bangladesh and Myanmar. In India, the duck is limited to Assam and Arunachal Pradesh.\nStatement II is correct. It is a crepuscular bird as it is most active at dusk and dawn.\n\nStatement III is incorrect. It is listed as Critically Endangered in IUCN Red List.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Which of the following statements are correct?",
+        "1. Ability to pay the principle of taxation holds that the amount of taxes people pay should relate to their income or wealth",
+        "2. The Benefit Principle of taxation states that individuals should be taxed in proportion to the benefit they receive from government programmes.",
+        "3. A progressive tax takes a larger share of tax from poor families than it does from rich families.",
+        "4. Indirect taxes have the advantage of being cheaper and easier to collect.",
+        "Select the correct answer using the-codes given below"
+      ],
+      "questionText": "Which of the following statements are correct? 1. Ability to pay the principle of taxation holds that the amount of taxes people pay should relate to their income or wealth 2. The Benefit Principle of taxation states that individuals should be taxed in proportion to the benefit they receive from government programmes. 3. A progressive tax takes a larger share of tax from poor families than it does from rich families. 4. Indirect taxes have the advantage of being cheaper and easier to collect. Select the correct answer using the-codes given below",
+      "options": {
+        "a": "1 and 3 only",
+        "b": "2 and 3 only",
+        "c": "1, 2 and 4 only",
+        "d": "1, 2, 3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement 1 is correct-Ability to pay principle of taxation holds that the amount of taxes people pay should relate to their income or wealth.\nStatement 2 is correct-The Benefit Principle of taxation states that individuals should be taxed in proportion to the benefit they receive from government programs.\nStatement 3 is incorrect-A progressive tax takes a larger share of tax from rich families than it does from poor families.\n\nStatement 4 is correct-Indirect taxes have the advantage of being cheaper and easier to collect.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of Indian economy, consider the following statements about Consumer Price Index-Combined",
+        "(CPI) and the Wholesale Price Index (WPI):",
+        "I. The base year for the current series of the WPI is 2011-12, while the base year for the CPI is 2024.",
+        "II. CPI includes the price changes of both goods and services whereas WPI only includes the price changes of services.",
+        "III. WPI is compiled by Office of the Economic Adviser, Ministry of Commerce & Industry, while CPI is compiled by",
+        "National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI)",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "In the context of Indian economy, consider the following statements about Consumer Price Index-Combined (CPI) and the Wholesale Price Index (WPI): I. The base year for the current series of the WPI is 2011-12, while the base year for the CPI is 2024. II. CPI includes the price changes of both goods and services whereas WPI only includes the price changes of services. III. WPI is compiled by Office of the Economic Adviser, Ministry of Commerce & Industry, while CPI is compiled by National Statistical Office (NSO), Ministry of Statistics and Programme Implementation (MoSPI) Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Inflation refers to a sustained increase in the general price level of goods and services in an economy over time.\nInflation in India is mainly measured through two important price indices, the Consumer Price Index (CPI) and the Wholesale Price Index (WPI).\nStatement I is correct. The WPI continues to use 2011–12 as its base year effective from 2017, while the CPI base year has been updated to 2024 (2024=100) to improve the accuracy and representativeness of inflation measurement based on the latest consumption survey.\nStatement II is incorrect. The CPI measures retail prices paid by consumers, which include both goods and services such as food, housing, education, and transport. In contrast, the WPI tracks prices at the wholesale level and mainly covers goods such as primary articles, fuel, and manufactured products, excluding services.\nStatement III is correct. Wholesale Price Index (WPI): It is compiled by the Office of the Economic Adviser (OEA), which falls under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry.\nConsumer Price Index (CPI): It is compiled by the National Statistical Office (NSO), which is under the Ministry of Statistics and Programme Implementation (MoSPI).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of the Goods and Services Tax (GST) regime in India, what is the primary distinction between zero-rated supplies and exempted supplies?"
+      ],
+      "questionText": "In the context of the Goods and Services Tax (GST) regime in India, what is the primary distinction between zero-rated supplies and exempted supplies?",
+      "options": {
+        "a": "Exempted supplies primarily include exports, whereas zero-rated supplies include essential goods such as fresh vegetables.",
+        "b": "A registered person supplying exempted goods is required to issue a tax invoice, whereas zero-rated supplies require the issuance of a bill of supply.",
+        "c": "Input Tax Credit (ITC) can be claimed for zero-rated supplies, whereas it cannot be claimed for exempted supplies.",
+        "d": "Input supplies used for making exempted supplies are tax-free, whereas input supplies used for making zero-rated supplies are taxed."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: Under the GST framework in India, the primary distinction between zero-rated supplies and exempted supplies lies in the treatment of Input Tax Credit (ITC). Zero-rated supplies:\n- Zero-rated supplies include exports of goods or services and supplies made to Special Economic Zone (SEZ)\nunits or developers.\n- These supplies are effectively taxed at 0%, but they are not treated as exempt.\n- The supplier is allowed to claim ITC on inputs and input services used in making such supplies.\n- Moreover, if the ITC cannot be utilized domestically, the supplier may claim a refund of the unutilized ITC. Exempted supplies:\n- Exempted supplies, on the other hand, refer to goods or services that do not attract GST either because they are specifically exempted or because they are subject to a nil rate of tax (for example, many basic agricultural products such as fresh fruits and vegetables).\n- In such cases, although no GST is charged on the output supply, the supplier cannot claim ITC on inputs used in producing these supplies, and any such credit must be reversed.\nOption a is incorrect: Exports of goods and services are treated as zero-rated supplies under the GST regime, whereas many essential items such as fresh vegetables are generally classified as exempt supplies.\nOption b is incorrect: In the case of exempted supplies, a registered person is required to issue a bill of supply instead of a tax invoice. In contrast, zero-rated supplies such as exports are issued with a normal tax invoice.\nOption d is incorrect: For exempted supplies, while the outward supply is not taxed, the inputs used in making such supplies are still taxed and ITC cannot be availed. In contrast, for zero-rated supplies, there is no tax on the outward supplies and Input supplies are also to be tax free.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "With reference to Economic Advisory Council to the Prime Minister (EAC-PM), consider the following",
+        "statements:",
+        "I. It is a statutory body.",
+        "II. The Chairman of the Economic Advisory Council to the Prime Minister (EAC-PM) is an ex-officio member of the",
+        "Financial Stability and Development Council.",
+        "III. It can examine and analyse macroeconomic issues affecting the Indian economy suo motu.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Economic Advisory Council to the Prime Minister (EAC-PM), consider the following statements: I. It is a statutory body. II. The Chairman of the Economic Advisory Council to the Prime Minister (EAC-PM) is an ex-officio member of the Financial Stability and Development Council. III. It can examine and analyse macroeconomic issues affecting the Indian economy suo motu. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is incorrect: The Economic Advisory Council to the Prime Minister is a non-constitutional, non-statutory advisory body attached to the Prime Minister’s Office (PMO) that provides advice on economic and related issues to the Government of India, particularly to the Prime Minister.\nStatement II is incorrect: The Financial Stability and Development Council (FSDC) functions under the Ministry of Finance. FSDC is an autonomous body chaired by the Union Finance Minister.\nThe Chairman of the Economic Advisory Council to the Prime Minister is not an ex-officio member of FSDC.\n\nStatement III is correct: The Economic Advisory Council to the Prime Minister has the mandate to examine and analyze macroeconomic issues affecting the Indian economy. According to its Terms of Reference, the council may analyze matters referred to it by the Prime Minister of India and provide policy advice, as well as take up issues of macroeconomic importance on a suo motu basis. It may also undertake any additional tasks assigned by the Prime Minister from time to time.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "With reference to the Ramsar Sites in India, consider the following pairs:",
+        "Ramsar Site Located In",
+        "I. Sakkarakottai Bird Sanctuary Karnataka",
+        "II. Therthangal Bird Sanctuary Tamil Nadu",
+        "III. Khecheopalri Wetland Assam",
+        "IV. Udhwa Lake Bird Sanctuary Jharkhand",
+        "How many of the above given pairs are correctly matched?"
+      ],
+      "questionText": "With reference to the Ramsar Sites in India, consider the following pairs: Ramsar Site Located In I. Sakkarakottai Bird Sanctuary Karnataka II. Therthangal Bird Sanctuary Tamil Nadu III. Khecheopalri Wetland Assam IV. Udhwa Lake Bird Sanctuary Jharkhand How many of the above given pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Union Government has recently announced the addition of four new Ramsar sites in India, increasing the total to 89. The newly designated Ramsar sites include Sakkarakottai Bird Sanctuary and Therthangal Bird Sanctuary in Tamil Nadu, Khecheopalri Wetland in Sikkim, and Udhwa Lake in Jharkhand Pair I is incorrect. Sakkarakottai Bird Sanctuary is in Tamil Nadu. It is situated near the Gulf of Mannar, along the Central Asian Flyway. The Sakkarakottai Tank was constructed in 1321 A.D. through Kudimaramattu (community participation). It supports species such as the Painted Stork, Black-headed Ibis, and others Pair II is correct. Therthangal Bird Sanctuary is in Tamil Nadu. It is found near the Gulf of Mannar on the Central Asian Flyway. It is home to birds like the Painted Stork, Black-headed Ibis, and Spot-billed Pelican. It is known for its Babul (Acacia nilotica) trees. Pair III is incorrect. Khecheopalri Wetland is in Sikkim. It is the first Ramsar site in Sikkim. Also referred to as the Wishing Lake, as it is believed to grant wishes. Locally, it is called Sho Dzo Sho, meaning “Oh Lady, Sit Here.”It is a cirque type wetland that holds sacred significance for both Buddhists and Hindus.\nPair IV is correct. Udhwa Lake Bird Sanctuary is the first ever Ramsar site from the state of Jharkhand. The Site comprises two interconnected wetlands, Pataura Lake and Barhel Lake, which are surrounded by the hillocks of the Rajamahal Hills and linked by a channel to the Ganga River. In 2016, the Site was designated as an Important Bird and Biodiversity Area due to its role in providing habitat for over 140 birds. The Site provides habitat for the endangered band-tailed fish eagle (Haliaeetus leucoryphus) and the vulnerable common pochard (Aythya ferina) and lesser adjutant stork (Leptoptilos javanicus).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to the presumptive taxation scheme in India, consider the following statements:",
+        "I. Presumptive taxation is permitted under the Income Tax Act, 1961.",
+        "II. Under presumptive taxation, eligible taxpayers may declare income at a prescribed percentage of their turnover without maintaining detailed books of account.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the presumptive taxation scheme in India, consider the following statements: I. Presumptive taxation is permitted under the Income Tax Act, 1961. II. Under presumptive taxation, eligible taxpayers may declare income at a prescribed percentage of their turnover without maintaining detailed books of account. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: According to Sections 44AA of the Income Tax Act (1961), a person engaged in business or profession needs to maintain regular books of accounts under certain circumstances as per specific conditions. To relieve small taxpayers from such compliance burden, the Income Tax Act has framed the presumptive taxation scheme u/s 44AD, 44ADA and 44AE. A person adopting the presumptive taxation scheme can declare income at a prescribed rate.\nStatement II is correct: Under the presumptive taxation scheme, eligible taxpayers may declare income at a prescribed percentage of their turnover or gross receipts. For example, under Section 44AD, small businesses may declare income as a prescribed percentage of turnover instead of computing actual profits. In such cases, taxpayers are not required to maintain detailed books of account, which reduces compliance burden and simplifies tax filing for small businesses and professionals.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q17",
+      "questionNumber": 17,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The Liptako-Gourma region, often mentioned in the news for security challenges, is a tri-border area involving which three countries?"
+      ],
+      "questionText": "The Liptako-Gourma region, often mentioned in the news for security challenges, is a tri-border area involving which three countries?",
+      "options": {
+        "a": "Senegal, Mauritania, and Mali",
+        "b": "Mali, Burkina Faso, and Niger",
+        "c": "Chad, Sudan, and Eritrea",
+        "d": "Nigeria, Chad, and Niger"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Liptako-Gourma region is a geographical area in West Africa where the borders of Mali, Burkina Faso, and Niger meet. It has become one of the most troubled regions in the Sahel due to the presence of various armed groups and cross-border security threats.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q18",
+      "questionNumber": 18,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Regarding the recently concluded 6th BIMSTEC Summit, consider the following statements:",
+        "I. The 6th BIMSTEC Summit was held in Bangkok, Thailand under the theme \"BIMSTEC: Prosperous, Resilient, and",
+        "Open,\"",
+        "II. India is set to host the first-ever BIMSTEC Games in 2027.",
+        "III. The group’s headquarters is located in Bangkok, Thailand.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Regarding the recently concluded 6th BIMSTEC Summit, consider the following statements: I. The 6th BIMSTEC Summit was held in Bangkok, Thailand under the theme \"BIMSTEC: Prosperous, Resilient, and Open,\" II. India is set to host the first-ever BIMSTEC Games in 2027. III. The group’s headquarters is located in Bangkok, Thailand. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II, and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statements I and II are correct: The 6th BIMSTEC Summit was held in Bangkok, Thailand under the theme \"BIMSTEC:\nProsperous, Resilient, and Open,\" India is set to host the first-ever BIMSTEC Games in 2027.\n\nStatement III is incorrect: BIMSTEC Secretariat is located in Dhaka, Bangladesh, not Bangkok. The group was originally formed via the Bangkok Declaration, but the HQ is in Dhaka.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q19",
+      "questionNumber": 19,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to the Tropical Forest Forever Facility (TFFF), consider the following statements:",
+        "I. It proposes the creation of a $125 billion investment fund to incentivise protection of tropical forests.",
+        "II. India is among the proponents of the Tropical Forest Forever Facility.",
+        "III. The facility aims to reward countries for maintaining standing tropical forests through financial returns generated from investments.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Tropical Forest Forever Facility (TFFF), consider the following statements: I. It proposes the creation of a $125 billion investment fund to incentivise protection of tropical forests. II. India is among the proponents of the Tropical Forest Forever Facility. III. The facility aims to reward countries for maintaining standing tropical forests through financial returns generated from investments. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II, and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is Correct: The proposal involves a large investment fund (~$125 billion) to incentivise tropical forest conservation.\n\nStatement II is Incorrect: India is currently only an observer, not a proponent.\n\nStatement III is Correct: The mechanism plans to use returns from an investment fund to reward forest conservation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "NGT, PCB, FSI, NBWL, other bodies, etc.",
+      "statementLines": [
+        "Recently, which of the following organizations has replaced the United India Insurance Company as the fund manager of the Environment Relief Fund (ERF)?"
+      ],
+      "questionText": "Recently, which of the following organizations has replaced the United India Insurance Company as the fund manager of the Environment Relief Fund (ERF)?",
+      "options": {
+        "a": "National Bank for Agriculture and Rural Development",
+        "b": "National Biodiversity Authority",
+        "c": "Oriental Insurance Company Limited",
+        "d": "Central Pollution Control Board"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Ministry of Environment, Forest & Climate Change (MoEF&CC) has issued a notification amending the Environment Relief Fund (ERF) Scheme, 2008.\nImportant changes are as follows:\n- The Environment Relief Fund (ERF) is now vested in the Central Government.\n- The Central Pollution Control Board (CPCB) replaced United India Insurance Company Ltd. as the fund manager for five years, effective January 1, 2025.\n- The fund manager will develop and maintain an online portal for fund disbursement, in consultation with the Central Government.\n- ERF funds will be invested in public financial institutions and savings accounts to ensure timely availability.\n- ERF funds will be allocated for restoring environmental damage caused by hazardous substances, including their manufacture, processing, storage, transportation, and disposal.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Under which of the following circumstances may ‘capital gains’ arise?",
+        "1. when there is an increase in the sales of a product.",
+        "2. when there is a natural increase in the value of the property owned.",
+        "3. when you purchase a painting and there is a growth in its value due to increase in its popularity.",
+        "Select the correct answer using the codes given below:"
+      ],
+      "questionText": "Under which of the following circumstances may ‘capital gains’ arise? 1. when there is an increase in the sales of a product. 2. when there is a natural increase in the value of the property owned. 3. when you purchase a painting and there is a growth in its value due to increase in its popularity. Select the correct answer using the codes given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statements 2 and 3 are correct. Capital gain is an increase in a capital asset’s value and is considered to be realized when the asset is sold. Realized capital gains and losses occur when an asset is sold, which triggers a taxable event.\nUnrealized gains and losses, sometimes referred to as paper gains and losses, reflect an increase or decrease in an investment’s value but are not considered a capital gain that should be treated as a taxable event.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2012,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2012"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "With reference to the Industrial Policy Resolution, 1956, consider the following statements:",
+        "I. It is regarded as the ‘Economic Constitution of India’.",
+        "II. It introduced a three way classification of industries.",
+        "III. It allowed the establishment of fully owned foreign companies only in highly export oriented sectors or sophisticated technology areas.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Industrial Policy Resolution, 1956, consider the following statements: I. It is regarded as the ‘Economic Constitution of India’. II. It introduced a three way classification of industries. III. It allowed the establishment of fully owned foreign companies only in highly export oriented sectors or sophisticated technology areas. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Government of India introduced the Industrial Policy of 1956 as a revision of its policy of 1948 to accelerate the rate of economic growth and the speeding up of industrialisation as a means of achieving a socialist pattern of society.\nIt was shaped by the Mahalanobis Model of growth-involving investment in building a capacity in the production of capital goods or heavy industries leading to an economy with a long term higher growth path.\nStatement I is correct: Industrial Policy Resolution (30 April, 1956) was also regarded as the “Economic Constitution of India”. Major Objectives of Industrial Policy Resolution (1956) are as follows: improving living standards and working conditions for the mass of the people; to reduce disparities in income and wealth; to prevent private monopolies and concentration of economic power.\nStatement I is correct: The Industrial Policy Resolution of 1956 classified industries into three categories:\n- Schedule A: This schedule had 17 industrial areas in which the Centre was given complete monopoly.\n- Schedule B: There were 12 industrial areas put under this schedule in which the state governments were supposed to take up the initiatives with a more expansive follow up by the private sector.\n- Schedule C: All industrial areas left out of Schedules A and B were put under this in which the private enterprises had the provisions to set up industries.\nStatement III is incorrect: The Industrial Policy Statement, 1977 (and not the Industrial Policy Resolution, 1956) stated that foreign companies that diluted their foreign equity up to 40 per cent under Foreign Exchange Regulation Act (FERA) 1973 were to be treated at par with the Indian companies. Fully owned foreign companies were allowed only in highly export oriented sectors or sophisticated technology areas. For all approved foreign investments, companies were completely free to repatriate capital and remit profits, dividends, royalties, etc.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to economic planning in India, consider the following statements:",
+        "Statement I: The Union Government adopted rolling plans following the Fifth Five Year Plan.",
+        "Statement II: The Kothari Commission recommended a rolling plan for better targeting of unemployment and poverty levels.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to economic planning in India, consider the following statements: Statement I: The Union Government adopted rolling plans following the Fifth Five Year Plan. Statement II: The Kothari Commission recommended a rolling plan for better targeting of unemployment and poverty levels. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**Statement I is correct: Rolling Plan (**1978-80**) was adopted after the Fifth Five Year Plan (**1974-79**). After the Janata Party government came to power in 1977 under Morarji Desai, it terminated the Fifth Plan in 1978 and introduced the Rolling Plan for the period 1978–83. The plan emphasised employment generation and sought to revise targets annually to maintain flexibility in planning. However, the government lasted only until 1979. When the Indian National Congress returned to power in 1980 under Indira Gandhi, the Rolling Plan was abandoned and the Sixth Five Year Plan was launched with a focus on poverty alleviation and economic expansion.\nStatement II is incorrect: The adoption of Rolling Plans was not based on the recommendation of the Kothari Commission. The commission, established in 1964 under the chairmanship of Daulat Singh Kothari, examined various aspects of the Indian education system and made recommendations for educational reforms. It had no role in recommending changes to India’s economic planning framework.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: An inverted duty structure can lead to cash flow shortages and liquidity issues for manufacturers.",
+        "Statement II: Under an inverted duty structure, the tax rate on inputs is higher than the tax rate on finished goods, resulting in the accumulation of unutilized Input Tax Credit (ITC).",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: An inverted duty structure can lead to cash flow shortages and liquidity issues for manufacturers. Statement II: Under an inverted duty structure, the tax rate on inputs is higher than the tax rate on finished goods, resulting in the accumulation of unutilized Input Tax Credit (ITC). Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: An inverted duty structure can create cash flow shortages and liquidity problems for manufacturers, because a portion of their working capital remains blocked in the form of unutilized tax credit.\nStatement II is correct: An inverted duty structure arises when the tax rate (such as GST) on inputs is higher than the tax rate on finished goods, which leads to the accumulation of unutilized Input Tax Credit (ITC) with manufacturers.\nStatement II explains Statement I: Since manufacturers pay more tax on inputs than they collect on output supplies, the excess ITC cannot be fully utilized against the lower output tax liability, resulting in the accumulation of credit and blocking of working capital, thereby causing liquidity issues.\nTherefore, Both Statement I and Statement II are correct and Statement II explains Statement I.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "The “MISHTI” initiative of the Government of India is primarily aimed at:"
+      ],
+      "questionText": "The “MISHTI” initiative of the Government of India is primarily aimed at:",
+      "options": {
+        "a": "Regeneration and restoration of coral reefs.",
+        "b": "Production of biofuel using agricultural wastes.",
+        "c": "Restoration and conservation of mangrove ecosystems.",
+        "d": "Reduction of greenhouse gas emissions."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) scheme is a government-led initiative aimed at increasing the mangrove cover along the coastline and on salt pan lands. “MISHTI” comes after India joined the ‘Mangrove Alliance for Climate’ launched during the 27th Conference of Parties (COP27) to the UNFCCC held in Egypt in November 2022. It was launched by the Ministry of Environment, Forest & Climate Change on the occasion of World Environment Day, i.e., 5th June 2023. MISHTI envisages the restoration/reforestation of mangroves covering approximately 540 sq.km., spreading across 9 states and 3 union territories for a period of five years commencing**2023-24** onwards.\nUnder the MISHTI scheme, the government is providing financial assistance to local communities to undertake mangrove plantation activities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Consider the following initiatives:",
+        "I. Atal Innovation Mission",
+        "II. Aspirational District Programme/Aspirational Block Programme",
+        "III. Bharat Startup Knowledge Access Registry (BHASKAR)",
+        "IV. Women Entrepreneurship Platform",
+        "Which of the above are initiatives of the National Institution for Transforming India (NITI Aayog)?"
+      ],
+      "questionText": "Consider the following initiatives: I. Atal Innovation Mission II. Aspirational District Programme/Aspirational Block Programme III. Bharat Startup Knowledge Access Registry (BHASKAR) IV. Women Entrepreneurship Platform Which of the above are initiatives of the National Institution for Transforming India (NITI Aayog)?",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option I is correct: The Atal Innovation Mission (AIM) was established in 2016 by NITI Aayog as the Government of India’s flagship initiative to promote a culture of innovation and entrepreneurship.\nOption II is correct: The Aspirational Districts Programme (ADP) is an initiative of NITI Aayog. It aims to quickly and effectively transform 112 most under-developed districts across the country.\nAspirational Blocks Programme (ABP) is a NITI Aayog initiative aimed at improving development in 500 of India's most underdeveloped blocks across 27 states and 4 UTs. It focuses on enhancing quality of life through 3Cs:\nConvergence of schemes, Collaboration, and Competition. Option III is incorrect: The Bharat Startup Knowledge Access Registry (BHASKAR) is a digital platform launched under the Startup India initiative by the Department for Promotion of Industry and Internal Trade under the Ministry of Commerce and Industry. It is designed as a one-stop platform to enable various stakeholders of the startup ecosystem such as entrepreneurs, investors, incubators, and mentors to connect, collaborate, and share knowledge.\nOption IV is correct: The Women Entrepreneurship Platform (WEP) was launched in 2017 by NITI Aayog during the Global Entrepreneurship Summit 2017. It functions as a one-stop platform that supports women entrepreneurs by providing access to mentorship, funding opportunities, and networking.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "Consider the following statements:",
+        "The Goods and Services Tax (GST) Council shall make recommendations to the Union and States on:",
+        "I. the standard GST rates applicable on specific goods and services.",
+        "II. the goods and services that may be subjected to, or exempted from GST.",
+        "III. the threshold limit of turnover below which goods and services may be exempt from GST.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: The Goods and Services Tax (GST) Council shall make recommendations to the Union and States on: I. the standard GST rates applicable on specific goods and services. II. the goods and services that may be subjected to, or exempted from GST. III. the threshold limit of turnover below which goods and services may be exempt from GST. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Goods and Services Tax Council is a constitutional body established under Article 279A of the Constitution by the 101st Constitutional Amendment Act. It serves as the apex federal decision-making body for the Goods and Services Tax (GST) in India, ensuring coordination between the Union and the States on GST-related matters.\n- The Council is chaired by the Union Finance Minister.\n- Its primary role is to make recommendations on key aspects of GST, including tax rates, exemptions, threshold limits, model GST laws, and special provisions for States, thereby promoting a harmonised and uniform indirect tax structure across the country.\nOption I is correct: Under Article 279A of the Constitution, the GST Council recommends the GST rates (including standard rates, special rates, and floor rates) applicable on goods and services.\nOption II is correct: Under Article 279A of the Constitution, the GST Council recommends which goods and services may be subjected to GST or exempted from GST, including exemptions for specific sectors or categories.\nOption III is correct: Under Article 279A of the Constitution, the GST Council recommends the threshold limit of turnover below which goods and services may be exempt from GST.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of inflation, the momentum effect reflects/captures the:"
+      ],
+      "questionText": "In the context of inflation, the momentum effect reflects/captures the:",
+      "options": {
+        "a": "The impact of price levels from the previous year's base period on the current year-on-year inflation calculation.",
+        "b": "The inflationary pressure caused by an increase in the speed at which money circulates in the economy.",
+        "c": "The sudden spikes in food and fuel prices driven specifically by supply-side shocks.",
+        "d": "Month-on-month price changes in the current year."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The momentum effect in inflation refers to the carry-forward impact of recent month-to-month price changes within the current year on the present inflation rate. It captures short-term persistence in inflation, where recent price movements continue to influence the current inflation reading. The momentum effect captures the month-on-month price changes in the current year.\nKnowledge Base: Base Effect (in Inflation): The base effect refers to the influence of price movements in the corresponding months of the previous year on the current year-on-year inflation rate, which can make inflation appear higher or lower depending on last year’s price levels.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of an economy, the term ‘biflation’ refers to the simultaneous occurrence of:"
+      ],
+      "questionText": "In the context of an economy, the term ‘biflation’ refers to the simultaneous occurrence of:",
+      "options": {
+        "a": "Inflation and unemployment.",
+        "b": "Demand-pull inflation and cost-push inflation.",
+        "c": "Rising prices of goods and services in both domestic and global markets.",
+        "d": "Inflation and deflation."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Biflation refers to the simultaneous occurrence of inflation in some sectors of the economy and deflation in others.\nFor example, prices of essential goods or assets such as housing may rise while prices of discretionary consumer goods decline. This phenomenon can be explained through the Cantillon effect, named after Richard Cantillon. The Cantillon effect suggests that changes in money supply do not affect all prices uniformly. When central banks expand the money supply or alter interest rates, the newly created money enters the economy through specific channels first (such as financial institutions or asset markets). As a result, relative prices change unevenly across sectors, causing inflation in some areas while others may experience stagnant or falling prices.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "With reference to the Wetland City Accreditation (WCA), recently seen in news, consider the following",
+        "statements:",
+        "I. This Accreditation is provided under the World Heritage Convention of United Nations Educational, Scientific and",
+        "Cultural Organization (UNESCO).",
+        "II. Vadnagar and Jaipur have become the first two Indian cities to achieve the Wetland City Accreditation.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Wetland City Accreditation (WCA), recently seen in news, consider the following statements: I. This Accreditation is provided under the World Heritage Convention of United Nations Educational, Scientific and Cultural Organization (UNESCO). II. Vadnagar and Jaipur have become the first two Indian cities to achieve the Wetland City Accreditation. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Wetland City Accreditation (WCA) is a voluntary accreditation system that recognizes cities committed to conserving their natural or human-made wetlands. It offers international recognition and positive publicity for their efforts.\nStatement I is incorrect. Wetland City Accreditation is a voluntary accreditation system established by the Ramsar Convention. WCA was introduced during the 12th Conference of the Parties (COP12) to the Ramsar Convention held in Uruguay in 2015. To receive Wetland City Accreditation, a city must meet the six international criteria set by the Ramsar Convention.\nOnce granted, it is valid for a period of 6 years.\n\nStatement II is incorrect. Indore and Udaipur have become the first Indian cities to achieve the prestigious Wetland City Accreditation (WCA) under the Ramsar Convention on Wetlands.\n- Indore: Sirpur Lake (a Ramsar Site) is recognized for its water bird congregation and is being developed into a bird sanctuary.\n- Udaipur: Encircled by five major wetlands—Pichola, Fateh Sagar, Rang Sagar, Swaroop Sagar, and Doodh Talai.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which of the following statements is/are true with respect to Phillips Curve?",
+        "1. It shows the trade-off between unemployment and inflation.",
+        "2. The downward sloping curve of Phillips curve is generally held to be valid only in the short run.",
+        "3. In the long run, Phillips Curve is usually thought to be horizontal at the Non-Accelerating Inflation Rate of",
+        "Unemployment (NAIRU).",
+        "Select the correct answer using the codes given below"
+      ],
+      "questionText": "Which of the following statements is/are true with respect to Phillips Curve? 1. It shows the trade-off between unemployment and inflation. 2. The downward sloping curve of Phillips curve is generally held to be valid only in the short run. 3. In the long run, Phillips Curve is usually thought to be horizontal at the Non-Accelerating Inflation Rate of Unemployment (NAIRU). Select the correct answer using the codes given below",
+      "options": {
+        "a": "2 and 3 only",
+        "b": "Only 1",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement 1 is correct-The original Phillips Curve suggests an inverse relationship between unemployment and inflation. When unemployment is high, inflation tends to be low, and vice versa.\nStatement 2 is correct-In the short run, there is often an inverse relationship between unemployment and inflation. This is because in the short term, changes in aggregate demand can lead to shifts along the Phillips Curve. However, in the long run, the relationship becomes less stable due to various factors such as changes in inflation expectations, supply-side shocks, and wage-price dynamics.\nStatement 3 is incorrect-The NAIRU represents the level of unemployment at which inflation remains stable. In the long run, the Phillips Curve may shift vertically rather than being completely horizontal, indicating that unemployment can have different equilibrium levels at different inflation rates.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements in respect of NITI Aayog and erstwhile Planning Commission:",
+        "I. Unlike NITI Aayog , the Planning Commission was a statutory body.",
+        "II. Unlike the Planning commission, the Union Ministers can be members of NITI Aayog.",
+        "III. Unlike the Planning commission, NITI Aayog does not have the power to allocate funds to ministries and state governments.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements in respect of NITI Aayog and erstwhile Planning Commission: I. Unlike NITI Aayog , the Planning Commission was a statutory body. II. Unlike the Planning commission, the Union Ministers can be members of NITI Aayog. III. Unlike the Planning commission, NITI Aayog does not have the power to allocate funds to ministries and state governments. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "II and III only",
+        "d": "None of the Above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The National Institution for Transforming India (NITI) Aayog is an institution that serves as a Think Tank of the government, providing directional and policy inputs. NITI Aayog was formed to replace the Planning Commission in 2015.\nStatement I is incorrect: The Planning Commission was an extra-constitutional (i.e., non-constitutional) and non-statutory body created by the executive resolution of the Government of India. Similarly, NITI Aayog is also neither a constitutional body nor a statutory body. In other words, it is a non-constitutional or extra-constitutional body (i.e., not created by the Constitution) and a non-statutory body (not created by an Act of the Parliament).\nStatement II is incorrect: Both NITI Aayog and the Planning Commission include Union Ministers as members. The Planning Commission had a flexible membership structure and included several Union Cabinet Ministers as ex-officio members along with a Member Secretary and other experts appointed by the government. The composition of NITI Aayog includes ex-officio members, with up to four Union Ministers from the Council of Ministers nominated by the Prime Minister.\nStatement III is correct: The Planning Commission had the authority to allocate plan funds to ministries and State Governments and could influence state policies by linking financial assistance to approved projects. NITI Aayog, however, does not have the mandate to impose policies on States and does not possess the power to allocate funds.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "The Wage Rate Index (WRI) in India is compiled and maintained by:"
+      ],
+      "questionText": "The Wage Rate Index (WRI) in India is compiled and maintained by:",
+      "options": {
+        "a": "National Statistical Office (NSO)",
+        "b": "Labour Bureau",
+        "c": "NITI Aayog",
+        "d": "Reserve Bank of India"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Wage Rate Index (WRI) is an economic indicator that shows how wage rates of workers change over time in different industries. It helps policymakers, researchers, and businesses understand trends in wages and labour costs across sectors of the economy. The Labour Bureau, functioning under the Ministry of Labour and Employment, is responsible for compiling and maintaining the Wage Rate Index in India. The current WRI series has 2016 as the base year (2016=100) and covers 37 industries, including manufacturing, mining, and plantation sectors.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Indian economy, cost-push inflation can be caused/increased by which of the following?",
+        "I. Rise in global oil prices",
+        "II. Decreasing interest rates in the economy.",
+        "III. Increase in wages",
+        "IV. Increase in the government spending",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Indian economy, cost-push inflation can be caused/increased by which of the following? I. Rise in global oil prices II. Decreasing interest rates in the economy. III. Increase in wages IV. Increase in the government spending Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and III only",
+        "b": "II and IV only",
+        "c": "I, III and IV",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Cost-push inflation refers to a situation where the general price level rises due to an increase in the cost of production. As the prices of key inputs increase, producers raise the prices of goods and services that depend on these inputs. Consequently, inflation is triggered from the supply side, as higher production costs reduce the effective supply of goods in the economy.\nOption I is correct: Rise in global oil prices is going to affect the production cost. It may increase the production cost thus can cause cost-push inflation in the economy.\nOption II is incorrect: Decreasing interest rates in the economy can cause demand-pull inflation, not cost-push inflation. Decreasing interest rates typically stimulate borrowing and spending, leading to increased demand for goods and services and pushing prices up due to increased demand.\nOption III is correct: Increasing wages raises labour costs which will increase the production cost resulting in cost push inflation in an economy.\nOption IV is incorrect: When the government increases spending, it typically increases demand for goods and services, which can push prices up due to increased demand rather than increased production costs. It can lead to demand-pull inflation rather than cost-push inflation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "Which one of the following correctly describes the \"Wallace Line\"?"
+      ],
+      "questionText": "Which one of the following correctly describes the \"Wallace Line\"?",
+      "options": {
+        "a": "A geographical boundary that marks significant climatic variation between the tropics and temperate regions.",
+        "b": "A geographical boundary that marks the distinct difference in the distribution of flora and fauna between the regions of Asia and Australia.",
+        "c": "A marine region characterized by high coral reef diversity separating the Indian and Pacific oceans.",
+        "d": "A tectonic boundary separating the Eurasian and Australian continental plates."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Wallace Line, named after English naturalist Alfred Russel Wallace. Wallace line is a geographical boundary that marks a distinct difference in the distribution of flora and fauna between the regions of Asia and Australia. It distinguishes two markedly different groups of animals—Asian fauna such as tigers and orangutans to the west, and Australian fauna such as kangaroos and cockatoos to the east. This line passes primarily between Bali and Lombok, extending northward between Borneo and Sulawesi. The Wallace Line highlights how geographic isolation and geological history influence the evolution and distribution of species",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Lenders/Creditors are generally negatively impacted by inflation.",
+        "Statement II: Inflation erodes the purchasing power of money over time.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Lenders/Creditors are generally negatively impacted by inflation. Statement II: Inflation erodes the purchasing power of money over time. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement-II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Inflation refers to a sustained increase in the general price level of goods and services in an economy over time.\nStatement I is correct. When lenders/creditors provide loans, they expect to receive repayments with interest in the future. However, if inflation rises during this period, the real value of the money they receive back becomes lower than the value of the money they originally lent. As a result, lenders are negatively impacted during inflation.\nStatement II is correct. Inflation means that prices of goods and services increase, so the same amount of money can buy fewer goods and services over time. In other words, the purchasing power of money declines.\nStatement II is the correct explanation for statement I. Since inflation reduces the purchasing power of money, the money repaid to lenders in the future is worth less in real terms, which is why lenders are negatively affected.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of public finance, a Pigouvian tax primarily refers to a tax imposed to:"
+      ],
+      "questionText": "In the context of public finance, a Pigouvian tax primarily refers to a tax imposed to:",
+      "options": {
+        "a": "Encourage the consumption of merit goods by lowering their effective prices.",
+        "b": "Discourage activities that generate negative externalities.",
+        "c": "Redistribute income from high-income to low-income groups.",
+        "d": "Provide fiscal incentives to promote exports of manufactured goods."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A Pigouvian tax is a tax imposed on activities that generate negative externalities, that is, costs imposed on society that are not reflected in the market price of the goods or services.\nThe concept was proposed by the British economist Arthur Cecil Pigou in his work The Economics of Welfare. Pigou argued that when a market activity causes social harm (for example pollution), the government should impose a tax equal to the marginal social cost of that harm.\nThis tax internalizes the externality, meaning it forces producers or consumers to take into account the broader social costs of their actions. As a result, the market outcome moves closer to the socially optimal level of production or consumption.\nExamples:\n- Carbon tax on greenhouse gas emissions-Taxes on cigarettes or alcohol-Pollution taxes on industries These taxes discourage harmful activities and help correct market failure caused by negative externalities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "In the context of certain terms seen in the news, consider the following pairs:",
+        "Term Description",
+        "I. Shrinkflation A situation marked by rising prices in only a few sectors of the economy.",
+        "II. Stagflation An economic situation marked by stagnant economic output and high price inflation.",
+        "III. Disinflation An economic situation where there is a consistent decline in price level.",
+        "IV. Skewflation It occurs when there is reduction in the quantity or size of a product but consumers still pay the earlier price.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "In the context of certain terms seen in the news, consider the following pairs: Term Description I. Shrinkflation A situation marked by rising prices in only a few sectors of the economy. II. Stagflation An economic situation marked by stagnant economic output and high price inflation. III. Disinflation An economic situation where there is a consistent decline in price level. IV. Skewflation It occurs when there is reduction in the quantity or size of a product but consumers still pay the earlier price. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is incorrect: Shrinkflation is when a product downsizes its quantity while keeping the price the same (not price rise in a few sectors.). For example, reducing the scoops of ice cream in a container or reducing the number of chips in a packet would count as shrinkflation. In other words, shrinkflation occurs when goods shrink in size but consumers pay the same price.\nPair II is correct: Stagflation refers to a situation where an economy experiences very slow or stagnant economic growth along with rising prices. In such a condition, the economy faces high inflation despite weak or negligible growth, and it is often accompanied by increasing unemployment.\nPair III is incorrect: Disinflation refers to a decrease in the rate of inflation, meaning that the overall increase in prices of goods and services is slowing down but prices are still rising. Decline in the average price of goods and services is known as Deflation.\nPair IV is incorrect: Skewflation refers to a situation where inflation is concentrated in specific sectors or commodities of the economy rather than being widespread across all sectors. For example, prices of food items may rise sharply while prices in other sectors remain relatively stable.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Reverse Charge Mechanism (RCM) under the Goods and Services Tax (GST) in India,",
+        "consider the following statements:",
+        "I. Under it, the liability to pay tax is on the recipient of supply of goods or services instead of the supplier of such goods or services in respect of notified categories of supply.",
+        "II. A person who is required to pay tax under the reverse charge has to register under GST only if the annual turnover is more than 40 lakhs.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Reverse Charge Mechanism (RCM) under the Goods and Services Tax (GST) in India, consider the following statements: I. Under it, the liability to pay tax is on the recipient of supply of goods or services instead of the supplier of such goods or services in respect of notified categories of supply. II. A person who is required to pay tax under the reverse charge has to register under GST only if the annual turnover is more than 40 lakhs. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. Under the Goods and Services Tax (GST) system, the normal rule is that the supplier of goods or services is responsible for paying the tax to the government. However, in certain specified cases, the responsibility to pay tax is shifted to the recipient of the goods or services. This arrangement is known as the Reverse Charge Mechanism (RCM).\nStatement II is incorrect. The GST law requires that any person liable to pay tax under reverse charge must obtain GST registration, even if their turnover is below the usual exemption threshold. The exemption limit to register to GST was exceeded in 2025 for normal category states for the sale of goods below 40 lakhs and for services below 20 lakhs. But this exemption limit is not applicable in case of a person liable to pay tax under reverse charge, they must compulsorily register.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to the Commission on Genetic Resources for Food and Agriculture (CGRFA), consider the following statements:",
+        "I. It is the only permanent intergovernmental body that addresses biological diversity for food and agriculture.",
+        "II. It operates under the Food and Agriculture Organization (FAO) of the United Nations.",
+        "III. It works to ensure fair and equitable sharing of benefits derived from the use of genetic resources.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Commission on Genetic Resources for Food and Agriculture (CGRFA), consider the following statements: I. It is the only permanent intergovernmental body that addresses biological diversity for food and agriculture. II. It operates under the Food and Agriculture Organization (FAO) of the United Nations. III. It works to ensure fair and equitable sharing of benefits derived from the use of genetic resources. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. Commission on Genetic Resources for Food and Agriculture (CGRFA) is the only permanent intergovernmental body that addresses the components of biological diversity for food and agriculture.\nIndia is a member.\n\nStatement II is correct. It operates under the Food and Agriculture Organization (FAO) of the United Nations.\n\nStatement III is correct. It aims to reach international consensus on policies for the sustainable use and conservation of genetic resources for food and agriculture and the fair and equitable sharing of benefits derived from their use.\nThe 20th meeting of the Commission on Genetic Resources for Food and Agriculture (CGRFA-20) took place in Rome.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Core inflation is :"
+      ],
+      "questionText": "Core inflation is :",
+      "options": {
+        "a": "CPI headline inflation minus all non-food items",
+        "b": "WPI inflation minus all food and non-food items",
+        "c": "CPI headline inflation minus food and energy items",
+        "d": "WPI inflation minus food and energy items"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Core inflation is a measure of inflation that excludes volatile categories to analyze underlying price trends. It is the change in the costs of goods and services but does not include those from the food and energy sectors. Thus it is specifically defined as CPI headline minus the impact of food and energy (fuel and power) products.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "In the context of financial transactions in India,",
+        "which one of the following taxes is levied on foreign currency conversion transactions?"
+      ],
+      "questionText": "In the context of financial transactions in India, which one of the following taxes is levied on foreign currency conversion transactions?",
+      "options": {
+        "a": "Goods and Services Tax (GST)",
+        "b": "Securities Transaction Tax (STT)",
+        "c": "Commodities Transaction Tax (CTT)",
+        "d": "Short Term Capital Gains Tax (STCG)"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nOption a is correct: When an individual or business converts Indian Rupees into a foreign currency or vice versa, the transaction is carried out through banks or authorised money changers. These intermediaries provide a currency exchange service and charge a margin or service fee for the transaction.\nIn India, this currency conversion service is taxed under the Goods and Services Tax (GST) framework. GST is not levied on the value of the currency itself. Instead, it is imposed on the service component or margin charged by the bank or authorised dealer during the conversion process. For instance, if a bank converts rupees into US dollars and charges a service margin, GST is applied to that margin.\nOption b is incorrect: Securities Transaction Tax (STT) is levied on buying and selling securities such as shares, equity derivatives, and equity mutual funds on recognised stock exchanges.\nOption c is incorrect: Commodity Transaction Tax (CTT) is a direct tax in India levied on non-agricultural commodity derivatives trading on recognized exchanges.\nOption d is incorrect: Short-Term Capital Gains Tax (STCG) applies when a capital asset such as shares, mutual funds, or property is sold within a short holding period and generates a gain.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Unlike Ad valorem taxes, specific taxes automatically adjust to inflation.",
+        "Statement II: Specific taxes are levied on the goods and services on per unit basis, whereas ad valorem taxes are levied as a percentage of the value of the good or service.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Unlike Ad valorem taxes, specific taxes automatically adjust to inflation. Statement II: Specific taxes are levied on the goods and services on per unit basis, whereas ad valorem taxes are levied as a percentage of the value of the good or service. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect: Specific taxes do not automatically adjust with inflation, whereas ad valorem taxes tend to increase with rising prices.\n- A specific tax is imposed as a fixed monetary amount per unit (e.g., ₹20 per litre). If inflation increases the price of the commodity, the tax per unit remains unchanged unless revised by the government.\n- An ad valorem tax is imposed as a percentage of value (e.g., 18%). When prices rise due to inflation, the tax amount also increases automatically because it is linked to value.\nStatement II is correct: Specific taxes are levied as a fixed amount per unit of a good or service (e.g., ₹5 per litre, ₹100 per pack)., whereas ad valorem taxes are levied as a percentage of the value of the good or service (e.g., 18% GST, 10% customs duty).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Which among the following Five Year plans was also referred to as Mahalanobis Plan?"
+      ],
+      "questionText": "Which among the following Five Year plans was also referred to as Mahalanobis Plan?",
+      "options": {
+        "a": "First Five Year plan",
+        "b": "Second Five Year Plan",
+        "c": "Third Five Year Plan",
+        "d": "Fourth Five Year Plan"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: The First Five-Year Plan was based on the Harrod-Domar Model, which emphasizes capital accumulation and investment for economic growth.\nOption b is correct: The Second Five Year Plan (1956–61) was based on the Mahalanobis model, which emphasised the development of heavy and capital goods industries to accelerate long-term economic growth. Hence, it is also called Mahalanobis Plan. The Second plan was conceived in an atmosphere of economic stability. It was felt agriculture could be accorded lower priority. The Plan Focussed on rapid industrialization-heavy and basic industries. Advocated huge imports through foreign loans. The Industrial Policy 1956 was based on the establishment of a socialistic pattern of society as the goal of economic policy.\nOption c is incorrect: Third Five Year Plan at its conception, was felt that Indian economy has entered a “takeoff stage”. Therefore, its aim was to make India a 'self-reliant' and 'self-generating' economy.\nOption d is incorrect: Fourth Five Year Plan twin objectives were “ growth with stability “ and “progressive achievement of self reliance’.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The term ‘TrailGuard AI System’ is sometimes seen in the news in the context of"
+      ],
+      "questionText": "The term ‘TrailGuard AI System’ is sometimes seen in the news in the context of",
+      "options": {
+        "a": "Providing navigational services in emergency",
+        "b": "Provision of weather forecasting services",
+        "c": "Improving the vision of railway loco pilots",
+        "d": "Prevention of human-wildlife conflicts"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** TrailGuard AI System is an anti-poaching tool. It is an end-to-end, camera-based alert system designed for enhancing wildlife conservation and promoting human-wildlife coexistence in remote areas.\nIt autonomously detects target objects and transmits real-time alerts that can trigger rapid response to entry by poachers or illegal loggers, wildlife entering agricultural or pastoral lands, or status of endangered or exotic invasive species. It transmits human and wildlife activities in remote areas in under 30 seconds, enabling real-time interventions",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q46",
+      "questionNumber": 46,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "I. People’s Plan by M.N. Roy",
+        "II. Sarvodaya Plan by Jaiprakash Narayan",
+        "III. Visvesvaraya Plan by",
+        "M. Visvesvaraya Arrange the above initiatives with respect to planning in pre Independent India in the chronological order:"
+      ],
+      "questionText": "Consider the following: I. People’s Plan by M.N. Roy II. Sarvodaya Plan by Jaiprakash Narayan III. Visvesvaraya Plan by M. Visvesvaraya Arrange the above initiatives with respect to planning in pre Independent India in the chronological order:",
+      "options": {
+        "a": "I - II - III",
+        "b": "II - I - III",
+        "c": "II - III - I",
+        "d": "III - I - II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: The correct chronological order of the above-mentioned plans in terms of their year of publication: Visvesvaraya Plan (1934)\n- People’s Plan (1945)\n- Sarvodaya Plan (1950).\nOption III: Visvesvaraya Plan (1934): Proposed by M. Visvesvaraya, this plan focused on shifting workers from agriculture to industrial sectors.\nOption I: The People’s Plan was prepared by M. N. Roy in 1945 and was associated with the Post-War Reconstruction Committee of the Indian Trade Union. The plan advocated socialist economic policies and was influenced by Marxist ideas. It proposed nationalisation of key industries, large-scale industrialisation, and extensive state control over economic resources. The primary objective of the plan was to ensure the provision of the basic necessities of life to all citizens.\nOption II: Sarvodaya Plan (1950): The Sarvodaya Plan was formulated by Jayaprakash Narayan in 1950. Inspired by the Gandhian philosophy of Sarvodaya (welfare of all), the plan emphasized decentralized planning, rural development, and self-sufficient village communities. It focused on agricultural development, land reforms, and promotion of small-scale industries.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q47",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "Which of the following steps are most likely to be taken by the Government of India/Reserve Bank of India during deflationary conditions?",
+        "I. Decrease in Income tax rates and corporation tax rates",
+        "II. Increasing the interest rates of small saving schemes",
+        "III. Decreasing the repo rate",
+        "IV. Selling of government securities",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following steps are most likely to be taken by the Government of India/Reserve Bank of India during deflationary conditions? I. Decrease in Income tax rates and corporation tax rates II. Increasing the interest rates of small saving schemes III. Decreasing the repo rate IV. Selling of government securities Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and III only",
+        "b": "II and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Deflation refers to a persistent decline in the general price level in an economy. It occurs when aggregate demand is lower than aggregate supply. As a result, deflation is typically associated with reduced production, rising unemployment, and an overall slowdown in economic activity.\nOption I is correct: Reducing taxes increases disposable income of individuals and firms, encouraging consumption and investment which helps in increasing demand to overcome the deflationary situation in an economy.\nOption II is incorrect: Increasing the rate of interest on small saving schemes would likely not be adopted to fight deflation, as it would discourage borrowing and spending, further dampening economic activity. Central banks typically lower interest rates to encourage borrowing and investment during deflationary periods.\nOption III is correct: Decreasing the repo rate decreases the overall borrowing cost of commercial banks. It helps the household and firms to avail the cheaper loans from the bank and in turn increases money supply and demand in the market which helps to address the deflation in an economy.\nOption IV is incorrect: Selling government securities through Open Market Operations (OMOs) absorbs liquidity from the economy. During deflation, the central bank usually buys securities to inject liquidity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q48",
+      "questionNumber": 48,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to the Securities Transaction Tax (STT) in India, consider the following statements:",
+        "I. It is an example of direct tax.",
+        "II. It is levied on every purchase and sale of securities listed on a recognised stock exchange, irrespective of whether the transaction results in a profit or a loss.",
+        "III. The liability to collect and remit STT lies with the recognized intermediaries through which the transaction is executed.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Securities Transaction Tax (STT) in India, consider the following statements: I. It is an example of direct tax. II. It is levied on every purchase and sale of securities listed on a recognised stock exchange, irrespective of whether the transaction results in a profit or a loss. III. The liability to collect and remit STT lies with the recognized intermediaries through which the transaction is executed. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: Securities Transaction Tax (STT) is a direct tax levied by the Central Government on transactions in specified securities carried out on recognised stock exchanges in India. It was introduced by the Finance Act, 2004.\nStatement II is correct: STT is levied on the value of every taxable purchase or sale of securities (such as equity shares, derivatives, and equity-oriented mutual funds) executed on recognised stock exchanges. It is levied irrespective of whether the investor makes a profit or incurs a loss, since the tax is linked to the transaction value rather than income or gains.\nThe tax is triggered simply by the buying or selling of eligible securities through a recognised stock exchange.\n\nStatement III is correct: The tax is collected at the time of the transaction by the recognized stock exchange, clearing corporation, or mutual fund, depending on the nature of the transaction. These intermediaries then remit the collected STT to the Central Government.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q49",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "With reference to the Central Board of Direct Taxes (CBDT), consider the following statements:",
+        "I. It is a statutory body.",
+        "II. It notifies Cost Inflation Index (CII) annually",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Central Board of Direct Taxes (CBDT), consider the following statements: I. It is a statutory body. II. It notifies Cost Inflation Index (CII) annually Which of the statements given above are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The Central Board of Direct Taxes (CBDT) is a statutory authority constituted under the Central Board of Revenue Act, 1963. It consists of a Chairman and following six Members: Member (Administration), Member (Income Tax), Member (Systems & Faceless Assessment Scheme), Member (Tax Payer Services & Revenue), Member (Audit & Judicial) and Member (Legislation)\n\nStatement II is correct: Central Board of Direct Taxes (CBDT) notifies the Cost Inflation Index (CII) annually. Cost Inflation Index is used by taxpayers to compute gains arising out of sale of capital assets after adjusting inflation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q50",
+      "questionNumber": 50,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Under which of the following situations, one can say that the phenomena of ‘Biodiversity Leak’ has occurred?"
+      ],
+      "questionText": "Under which of the following situations, one can say that the phenomena of ‘Biodiversity Leak’ has occurred?",
+      "options": {
+        "a": "When an ecosystem can no longer sustain a population without causing environmental degradation.",
+        "b": "When biodiversity declines more quickly inside protected areas as compared to outside areas.",
+        "c": "When conservation efforts in some nations lead to biodiversity loss in other nations.",
+        "d": "When the focus rests primarily on the conservation of specific species rather than preserving the entire ecosystem."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Restoration and rewilding programs in agricultural landscapes in some nations can incentivise production expansion in other countries, thus driving biodiversity loss in latter and causing a ‘net harm’. This phenomenon is referred to as ‘biodiversity leak’. In this process conservation policies in one region inadvertently drive environmental degradation in another region.\nConservation and restoration efforts in some nations may reduce food or fibre production. This, in turn, could lead to an increase in production activities in more biodiverse regions elsewhere. This phenomenon is referred to as ‘biodiversity leak’.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q51",
+      "questionNumber": 51,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Directions for the following 4 (four) items:",
+        "Read the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage - 1 India’s entry into the Pax Silica alliance is a strategic effort to secure its technological future by aligning with a U.S.- led coalition focused on AI infrastructure and critical minerals. Although India currently lacks significant capacity in the extraction and processing of critical minerals, it holds considerable strengths elsewhere. It contributes nearly 20% of global chip design engineering talent and possesses substantial electronics assembly capabilities, both of which are critical for diversifying global technology supply chains. Through participation in this ecosystem, India will seek to secure access to raw materials and advanced manufacturing equipment. Membership in the alliance will also advance domestic industrial objectives by reinforcing initiatives such as India Semiconductor, India AI Mission, and the",
+        "National Critical Minerals Mission. Together, these could strengthen India’s position in AI and critical mineral value chains.",
+        "Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?"
+      ],
+      "questionText": "Directions for the following 4 (four) items: Read the following three passages and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage - 1 India’s entry into the Pax Silica alliance is a strategic effort to secure its technological future by aligning with a U.S.- led coalition focused on AI infrastructure and critical minerals. Although India currently lacks significant capacity in the extraction and processing of critical minerals, it holds considerable strengths elsewhere. It contributes nearly 20% of global chip design engineering talent and possesses substantial electronics assembly capabilities, both of which are critical for diversifying global technology supply chains. Through participation in this ecosystem, India will seek to secure access to raw materials and advanced manufacturing equipment. Membership in the alliance will also advance domestic industrial objectives by reinforcing initiatives such as India Semiconductor, India AI Mission, and the National Critical Minerals Mission. Together, these could strengthen India’s position in AI and critical mineral value chains. Which one of the following statements best reflects the most logical and rational inference that can be drawn from the passage?",
+      "options": {
+        "a": "Contemporary geopolitics revolves around securing critical mineral supply chains.",
+        "b": "India’s entry into the Pax Silica alliance will give a major boost to India’s domestic manufacturing sector.",
+        "c": "While India is not a major producer of critical minerals, it can play a pivotal role in securing supply chains as a member of Pax Silica.",
+        "d": "India needs to strengthen its domestic infrastructure for critical mineral extraction in order to benefit from its membership in the Pax Silica allianc"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. The passage states “India’s entry into the Pax Silica alliance is a strategic effort to secure its technological future by aligning with a U.S.\n- led coalition focused on AI infrastructure and critical minerals.” However,\nstatement a does not best reflect the most logical and rational inference that can be drawn from the passage as it is a general statement and does not focus on India.\nStatement b is incorrect. While the passage states “Membership in the alliance will also advance domestic industrial objectives by reinforcing initiatives such as India Semiconductor, India AI Mission, and the National Critical Minerals Mission”, statement a does not best reflect the most logical and rational inference that can be drawn from the passage as it highlights only one of the benefits of India’s membership of Pax Silica.\nStatement c is correct. It best reflects the most logical and rational inference that can be drawn from the passage as it comprehensively highlights India’s role as a member of Pax Silica. It is mentioned in the passage as “Although India currently lacks significant capacity in the extraction and processing of critical minerals, it holds considerable strengths elsewhere. It contributes nearly 20% of global chip design engineering talent and possesses substantial electronics assembly capabilities, both of which are critical for diversifying global technology supply chains.” Statement d is incorrect. The passage does not explicitly mention that India needs to strengthen its domestic infrastructure for critical mineral extraction in order to benefit from its membership in the Pax Silica alliance.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q52",
+      "questionNumber": 52,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to above passage, the following assumptions have been made:",
+        "I. India’s entry into the Pax Silica alliance will transform it into a leader in critical mineral value chains by 2035.",
+        "II. India’s technological talent base constitutes one of its core strategic assets.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to above passage, the following assumptions have been made: I. India’s entry into the Pax Silica alliance will transform it into a leader in critical mineral value chains by 2035. II. India’s technological talent base constitutes one of its core strategic assets. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage states that India’s entry into Pax Silica will strengthen its position in critical mineral value chain, it would be outside the scope of the passage to assume that India would emerge as a leader in critical mineral value chain by 2035.\nStatement II is correct. The passage states “Although India currently lacks significant capacity in the extraction and processing of critical minerals, it holds considerable strengths elsewhere. It contributes nearly 20% of global chip design engineering talent.” From here, we can conclude that assumption II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q53",
+      "questionNumber": 53,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage - 2 The development and deployment of emerging technologies have long been approached with caution because of their dual-use nature i.e., their capacity to generate both beneficial and harmful applications. This characteristic creates a dilemma with significant policy implications, as efforts to advance innovation can simultaneously raise concerns about misuse. Such dynamics can heighten tensions and fuel competitive cycles among states. For example, the infrastructure, materials, tools, and expertise used to develop vaccines or conduct genomic surveillance during disease outbreaks can also be redirected for manufacturing biological weapons. As a result, distinguishing between activities intended to strengthen public health security and those that could be exploited by malicious actors is becoming increasingly difficult.",
+        "Based on the above passage, the following assumptions have been made:",
+        "I. Governments should curb the development and use of dual-use technologies.",
+        "II. Policy makers need to ensure that dual-use technologies are utilized for the benefit of the public.",
+        "Which of the assumptions given above is/are valid?"
+      ],
+      "questionText": "Passage - 2 The development and deployment of emerging technologies have long been approached with caution because of their dual-use nature i.e., their capacity to generate both beneficial and harmful applications. This characteristic creates a dilemma with significant policy implications, as efforts to advance innovation can simultaneously raise concerns about misuse. Such dynamics can heighten tensions and fuel competitive cycles among states. For example, the infrastructure, materials, tools, and expertise used to develop vaccines or conduct genomic surveillance during disease outbreaks can also be redirected for manufacturing biological weapons. As a result, distinguishing between activities intended to strengthen public health security and those that could be exploited by malicious actors is becoming increasingly difficult. Based on the above passage, the following assumptions have been made: I. Governments should curb the development and use of dual-use technologies. II. Policy makers need to ensure that dual-use technologies are utilized for the benefit of the public. Which of the assumptions given above is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statement I is invalid. While the passage highlights the risks emanating from the development of dual use technologies, it does not explicitly state that governments should curb their use. Therefore, the assumption is outside the scope of the passage and therefore incorrect.\nStatement II is valid. The passage states “The development and deployment of emerging technologies have long been approached with caution because of their dual-use nature i.e., their capacity to generate both beneficial and harmful applications. This characteristic creates a dilemma with significant policy implications, as efforts to advance innovation can simultaneously raise concerns about misuse.” From here we can assume that\n\nstatement II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q54",
+      "questionNumber": 54,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "Passage - 3 Every Indian student studying abroad represents a financial outflow of tuition fees, living expenses and long-term economic contributions. Host countries gain not only in revenue but also through greater campus diversity, stronger research capacity and workforce participation. International students also bring cultural and intellectual exchange that enriches academic ecosystems. India’s failure to attract international students at scale means forfeiting these benefits while reinforcing its image as a source of talent rather than a destination for learning. India has two options.",
+        "Either it continues to excel at exporting students while remaining largely invisible on the global education map, or it commits to building universities that attract learners from around the world. How it responds will shape not only its education system but also its place in the global knowledge economy for decades to come.",
+        "Which one of the following statements best reflects the most rational, logical and practical message conveyed by the passage?"
+      ],
+      "questionText": "Passage - 3 Every Indian student studying abroad represents a financial outflow of tuition fees, living expenses and long-term economic contributions. Host countries gain not only in revenue but also through greater campus diversity, stronger research capacity and workforce participation. International students also bring cultural and intellectual exchange that enriches academic ecosystems. India’s failure to attract international students at scale means forfeiting these benefits while reinforcing its image as a source of talent rather than a destination for learning. India has two options. Either it continues to excel at exporting students while remaining largely invisible on the global education map, or it commits to building universities that attract learners from around the world. How it responds will shape not only its education system but also its place in the global knowledge economy for decades to come. Which one of the following statements best reflects the most rational, logical and practical message conveyed by the passage?",
+      "options": {
+        "a": "Greater campus diversity in educational institutions promotes intellectual dialogue.",
+        "b": "When Indian students choose foreign destinations for higher education, the country suffers a loss of both human and economic capital.",
+        "c": "India needs to improve its educational infrastructure to attract global talent and strengthen its knowledge-based economy.",
+        "d": "India should position itself as a global hub for education in the coming decad"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage states “International students also bring cultural and intellectual exchange that enriches academic ecosystems”, statement a does not best reflect the most rational, logical and practical message conveyed by the passage as it does not about India’s position in the global knowledge economy.\nStatement b is incorrect. The passage states “Every Indian student studying abroad represents a financial outflow of tuition fees, living expenses and long-term economic contributions. Host countries gain not only in revenue but also through greater campus diversity, stronger research capacity and workforce participation.” However, statement b does not best reflect the most rational, logical and practical message conveyed by the passage as it does not state how could this issue be resolved.\nStatement c is correct. It best reflects the most rational, logical and practical message conveyed by the passage as it highlights how could India attract global talent and give a boost to knowledge-based economy. It is mentioned in the passage as “it (needs to) commit to building universities that attract learners from around the world.” It “will shape not only its education system but also its place in the global knowledge economy for decades to come.” Statement d is incorrect. While the passage states that India should position itself as a global hub for education, statement d does not best reflect the crux of the passage as it does not highlight what should India do in order to become a global hub for education.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q55",
+      "questionNumber": 55,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "What is the rightmost digit preceding the zeros in the value of 20 20 ?"
+      ],
+      "questionText": "What is the rightmost digit preceding the zeros in the value of 20 20 ?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** 20 20 = (2 *10) 20 = 2 20 *10 20 As, powers of 10 will give only zeros at the end so digit before zeros is given by unit digit of 2 20 Unit digit in powers of 2 repeat in cycles of 4 ie 2, 4, 8, 6 We divide 20/4, the remainder is 0 Unit digit =6 Hence, the rightmost digit preceding the zeros = 6",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q56",
+      "questionNumber": 56,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "The population of a colony of bacteria grows in Geometric Progression. On the third day, the population was recorded as exactly m, while on the 10th day it was found to be exactly 2m. If the population on the 9th day was n and that on the 100th day was kn, what is the value of k?"
+      ],
+      "questionText": "The population of a colony of bacteria grows in Geometric Progression. On the third day, the population was recorded as exactly m, while on the 10th day it was found to be exactly 2m. If the population on the 9th day was n and that on the 100th day was kn, what is the value of k?",
+      "options": {
+        "a": "8192",
+        "b": "2096",
+        "c": "3246",
+        "d": "5468"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Given:\n- The bacterial population follows a Geometric Progression (G.P.)\n- Population on Day 3 = m-Population on Day 10 = 2m-Population on Day 9 = n-Population on Day 100 = kn We need to find the value of k.\nRepresent the Geometric Progression Let-Population on Day 1 = a-Common ratio = r Thus the population on the tᵗʰ day is a rᵗ⁻¹ Use the Information for Day 3 Population on Day 3 = a r² Given a r² = m Use the Information for Day 10 Population on Day 10 = a r⁹ Given a r⁹ = 2m Find the Common Ratio Divide the two equations (a r⁹) / (a r²) = 2m / m r⁷ = 2 Therefore r = 2¹ᐟ⁷ Population on Day 9 Population on Day 9 = a r⁸ Given n = a r⁸ Population on Day 100 Population on Day 100 = a r⁹⁹ Express Day 100 Population in Terms of n We know n = a r⁸ Divide the population expressions (a r⁹⁹) / (a r⁸) = r⁹¹ Thus Population on Day 100 = n r⁹¹ But the problem states Population on Day 100 = kn Therefore k = r⁹¹ Substitute the Value of r r = 2¹ᐟ⁷ Thus k = (2¹ᐟ⁷)⁹¹ Power multiplication gives k = 2⁹¹ᐟ⁷ Since 91 ÷ 7 = 13 Therefore k = 2¹³ Final Value 2¹³ = 8192 k = 8192 Therefore, Option a is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q57",
+      "questionNumber": 57,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "What is the largest number which divides both 2 35 – 1 and 2 91 – 1?"
+      ],
+      "questionText": "What is the largest number which divides both 2 35 – 1 and 2 91 – 1?",
+      "options": {
+        "a": "34",
+        "b": "90",
+        "c": "127",
+        "d": "129"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** By using the property of the highest common factor (HCF) for numbers of the form a m −1 and a n −1, we can find the largest number that divides both 2 35 – 1 and 2 91 – 1.\nHCF of 35 and 91:\n- The prime factors of 35 are 5×7.\n- The prime factors of 91 are 7×13.\n- The common factor is 7, so the HCF of 35 and 91 is 7 Calculate 2 HCF(35,91) − 1 This becomes 2 7 −1 2 7 =128, so 2 7 −1=127.\nTherefore, the largest number that divides both 2 35 −1 and 2 91 −1 is 127.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q58",
+      "questionNumber": 58,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simple and Compound Interest",
+      "statementLines": [
+        "What is the difference between simple interest and compound interest on Rs.10,000 for two years at 20% per annum compounded half-yearly?"
+      ],
+      "questionText": "What is the difference between simple interest and compound interest on Rs.10,000 for two years at 20% per annum compounded half-yearly?",
+      "options": {
+        "a": "Rs.842",
+        "b": "Rs.756",
+        "c": "Rs.641",
+        "d": "Rs.542"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Simple Interest (SI): (P ×R×T)/100 Where:\n- P=10,000 (principal)\n- R=20%\n- T=2 years SI = 10,000 × 20/100 × 2 = 4,000 Compound Interest (CI): P ( 1+R/n)n×t-P n=2 (number of times interest is compounded per year) Hence, CI = 10000( 1+20/200)4 –10000 After solving it, we’ll get; CI = 4,641 Difference between CI and SI = 4641 – 4000 = 641 Thus, the difference between simple interest and compound interest is Rs. 641",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q59",
+      "questionNumber": 59,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "The average age of the three sisters is 17 years. If the age of their brother is included, the average age of all four persons remains an odd number. What is the minimum possible age of the brother, given that his age is not less than 2 years?"
+      ],
+      "questionText": "The average age of the three sisters is 17 years. If the age of their brother is included, the average age of all four persons remains an odd number. What is the minimum possible age of the brother, given that his age is not less than 2 years?",
+      "options": {
+        "a": "3 years",
+        "b": "5 years",
+        "c": "9 years",
+        "d": "13 years"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Given:\n- The average age of the three sisters is 17 years.\n- When the brother’s age is included, the average of all four persons remains an odd integer.\n- The brother’s age cannot be less than 2 years. Find the total age of the three sisters-Total age of three sisters = 17 × 3 = 51 years Determine the total age including the brother-Let the brother’s age be x years.\n- Total age of four persons = 51 + x-Average age = (51 + x) ÷ 4-Since the average age is an odd integer, (51 + x) must be divisible by 4 and the quotient must be an odd number.\nCheck possible sums divisible by 4-Numbers greater than 51 divisible by 4: 52, 56, 60, ... 1. 52 → Average = 52 ÷ 4 = 13 (odd) → Brother’s age = 52 − 51 = 1 year → Not valid (minimum age ≥ 2) 2. 56 → Average = 56 ÷ 4 = 14 → Not odd → Not valid 3. 60 → Average = 60 ÷ 4 = 15 (odd) → Brother’s age = 60 − 51 = 9 years → Valid Conclusion-The minimum possible age of the brother satisfying all conditions is 9 years.\nTherefore, Option c is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test6-q60",
+      "questionNumber": 60,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Blood Relations",
+      "statementLines": [
+        "A family of two generations consisting of six members P, Q, R, S, T and U has three males and three females.",
+        "There are two married couples and two unmarried siblings. U is P’s daughter and Q is R’s mother-in-law. T is an unmarried male and S is a male.",
+        "Which one of the following is correct?"
+      ],
+      "questionText": "A family of two generations consisting of six members P, Q, R, S, T and U has three males and three females. There are two married couples and two unmarried siblings. U is P’s daughter and Q is R’s mother-in-law. T is an unmarried male and S is a male. Which one of the following is correct?",
+      "options": {
+        "a": "R is U’s husband.",
+        "b": "R is S’s wife.",
+        "c": "S is unmarried.",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The family diagram drawn using the above given information is as shown below. From the diagram, we can see that:\n- P and Q are a married couple. P is Male and Q is female.\n- U, S and T are the children of P and Q. Here, S and T are Male, and U is female.\n- R is wife of S-U and T are unmarried.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

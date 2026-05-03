@@ -1,0 +1,3134 @@
+{
+  "id": "upsc-cse-pyq-2022-gs2",
+  "title": "2022- Prelims - CSAT Paper 2 - UPSC",
+  "launch_year": 2022,
+  "institute": "UPSC",
+  "program_id": "cse",
+  "program_name": "CSE",
+  "series": "Prelims (Official)",
+  "level": "CSAT",
+  "paperType": "test-paper",
+  "defaultMinutes": 120,
+  "sourceMode": "docx-sol",
+  "questions": [
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q001",
+      "questionNumber": 1,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns.",
+        "Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite.",
+        "The close link between economic growth and greenhouse gas emissions needs to be severed for human development to become truly sustainable.",
+        "Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure.",
+        "But most developing countries are hampered by the high costs and low availability of clean energy sources.",
+        "Developed countries need to support developing countries' transition to sustainable human development.",
+        "Unsustainability in production pattern is due to which of the following?",
+        "1. Heavy dependence on fossil fuels",
+        "2. Limited availability of resources",
+        "3. Expansion of recycling",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n The main threat to maintaining progress in human development comes from the increasingly evident unsustainability of production and consumption patterns.\n Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite.\n The close link between economic growth and greenhouse gas emissions needs to be severed for human development to become truly sustainable.\n Some developed countries have begun to alleviate the worst effects by expanding recycling and investing in public transport and infrastructure.\n But most developing countries are hampered by the high costs and low availability of clean energy sources.\n Developed countries need to support developing countries' transition to sustainable human development.\n Unsustainability in production pattern is due to which of the following?\n 1. Heavy dependence on fossil fuels\n 2. Limited availability of resources\n 3. Expansion of recycling\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage clearly states: \"Current production models rely heavily on fossil fuels. We now know that this is unsustainable because the resources are finite.\"\n\n- Thus, the unsustainability is strictly attributed to heavy dependence on fossil fuels (Statement 1) and the limited availability of resources (Statement 2).\n\n- Expansion of recycling is mentioned as a positive mitigation effort by developed countries, not a cause of unsustainability.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q002",
+      "questionNumber": 2,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Consider the following statements:",
+        "Developed countries can support developing countries' transition to sustainable human development by",
+        "1. making clean energy sources available at low cost",
+        "2. providing loans for improving their public transport at nominal interest rates",
+        "3. encouraging them to change their production and consumption patterns",
+        "Which of the statements given above is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements:\n Developed countries can support developing countries' transition to sustainable human development by\n 1. making clean energy sources available at low cost\n 2. providing loans for improving their public transport at nominal interest rates\n 3. encouraging them to change their production and consumption patterns\n Which of the statements given above is/are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "2 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage identifies the barriers for developing countries as \"high costs and low availability of clean energy sources\", implying that making these available at a low cost is a direct form of support (Statement 1 is valid).\n\n- It also notes developed countries are succeeding by \"investing in public transport and infrastructure\", establishing this as a valid pathway for financial support via loans (Statement 2 is valid).\n\n- Statement 3 focuses merely on \"encouraging\" behavioral change, rather than providing the tangible technological or financial support demanded by the passage text.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q003",
+      "questionNumber": 3,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "Unless the forces and tendencies which are responsible for destroying the country's environment are checked in the near future and afforestation of denuded areas is taken up on a massive scale, the harshness of the climatic conditions and soil erosion by wind and water will increase to such an extent that agriculture, which is the mainstay of our people, will gradually become impossible.",
+        "The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation.",
+        "Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and the Deccan Plateau.",
+        "Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.",
+        "According to the passage given above, deforestation and denudation will ultimately lead to which of the following?",
+        "1. Depletion of soil resource",
+        "2. Shortage of land for the common man",
+        "3. Lack of water for cultivation",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n Unless the forces and tendencies which are responsible for destroying the country's environment are checked in the near future and afforestation of denuded areas is taken up on a massive scale, the harshness of the climatic conditions and soil erosion by wind and water will increase to such an extent that agriculture, which is the mainstay of our people, will gradually become impossible.\n The desert countries of the world and our own desert areas in Rajasthan are a grim reminder of the consequences of large-scale deforestation.\n Pockets of desert-like landscape are now appearing in other parts of the country including the Sutlej-Ganga Plains and the Deccan Plateau.\n Where only a few decades back there used to be lush green forests with perennial streams and springs, there is only brown earth, bare of vegetation, without any water in the streams and springs except in the rainy season.\n According to the passage given above, deforestation and denudation will ultimately lead to which of the following?\n 1. Depletion of soil resource\n 2. Shortage of land for the common man\n 3. Lack of water for cultivation\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage states that due to denudation and deforestation, \"soil erosion by wind and water will increase\" which directly correlates to the depletion of soil resources (Statement 1).\n\n- It also states that \"agriculture... will gradually become impossible\" and notes the disappearance of perennial streams, which directly indicates a lack of water for cultivation (Statement 3).\n\n- Shortage of land for the common man is never mentioned as a consequence of deforestation in the passage.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q004",
+      "questionNumber": 4,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, X?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the value of X in the sequence 20, 10, 10, 15, 30, 75, X?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "105",
+        "b": "120",
+        "c": "150",
+        "d": "225"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The sequence follows a progressively increasing multiplicative pattern:\n\n- 20 × 0.5 = 10\n\n- 10 × 1.0 = 10\n\n- 10 × 1.5 = 15\n\n- 15 × 2.0 = 30\n\n- 30 × 2.5 = 75\n\n- To find X, multiply the last term by the next increment (3.0): 75 × 3.0 = 225.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q005",
+      "questionNumber": 5,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit (1, 2, 4, 5, 7, 8, 9 only).",
+        "The number is divisible by",
+        "9. After deleting the first digit from the right, the resulting number is divisible by",
+        "6. After deleting two digits from the right of original number, the resulting number is divisible by",
+        "5. After deleting three digits from the right of original number, the resulting number is divisible by",
+        "4. After deleting four digits from the right of original number, the resulting number is divisible by",
+        "3. After deleting five digits from the right of original number, the resulting number is divisible by",
+        "2. Which of the following is a possible value for the sum of the middle three digits of the number?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "An Identity Card has the number ABCDEFG, not necessarily in that order, where each letter represents a distinct digit (1, 2, 4, 5, 7, 8, 9 only).\n The number is divisible by 9. After deleting the first digit from the right, the resulting number is divisible by 6. After deleting two digits from the right of original number, the resulting number is divisible by 5. After deleting three digits from the right of original number, the resulting number is divisible by 4. After deleting four digits from the right of original number, the resulting number is divisible by 3. After deleting five digits from the right of original number, the resulting number is divisible by 2. Which of the following is a possible value for the sum of the middle three digits of the number?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "8",
+        "b": "9",
+        "c": "11",
+        "d": "12"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The digits are 1, 2, 4, 5, 7, 8, 9. The sum is 36, so any arrangement is automatically divisible by 9.\n\n- Number is ABCDEFG. Deleting 5 digits leaves AB (divisible by 2), so B is even (2, 4, 8).\n\n- Deleting 4 digits leaves ABC (divisible by 3), so A+B+C is a multiple of 3.\n\n- Deleting 3 digits leaves ABCD (divisible by 4), so the last two digits CD must be divisible by 4. Therefore D must be even (2, 4, 8).\n\n- Deleting 2 digits leaves ABCDE (divisible by 5), so E must be 5.\n\n- Deleting 1 digit leaves ABCDEF (divisible by 6, meaning it's even and divisible by 3). F must be even (2, 4, 8).\n\n- Since B, D, F consume the only three even digits (2, 4, 8), the digits A, C, E(5), G must be the odd ones (1, 5, 7, 9).\n\n- For CD to be divisible by 4, with C being odd, D must be 2 or 6. Since 6 is not in our set, D MUST be 2. (e.g., 12, 72, 92).\n\n- Since ABCDEF is divisible by 3, and ABC is divisible by 3, the sum D+E+F must also be a multiple of 3. We know D=2, E=5, so 2+5+F = 7+F. For 7+F to be a multiple of 3, F must be 8. (7+8=15).\n\n- This leaves B = 4.\n\n- We need the sum of the middle three digits: C, D, E. We know D=2 and E=5. So the sum is C + 7.\n\n- C must be either 1, 7, or 9. If C=1, the sum is 1+7 = 8. If C=7, the sum is 14. If C=9, the sum is 16.\n\n- The only value present in the options is 8.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q006",
+      "questionNumber": 6,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Direction Sense",
+      "statementLines": [
+        "",
+        "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point.",
+        "X turns right and runs 60 m, while Y turns left and runs 40 m.",
+        "Then X turns left and runs 50 m and stops, while Y turns right and runs 50 m and then stops.",
+        "How far are the two friends from each other now?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two friends X and Y start running and they run together for 50 m in the same direction and reach a point.\n X turns right and runs 60 m, while Y turns left and runs 40 m.\n Then X turns left and runs 50 m and stops, while Y turns right and runs 50 m and then stops.\n How far are the two friends from each other now?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "100 m",
+        "b": "90 m",
+        "c": "60 m",
+        "d": "50 m"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Assume they start at origin (0,0) and run 50 m North together to point (0, 50).\n\n- X turns right (East) and runs 60 m. X's coordinates: (60, 50). \n\n- Y turns left (West) and runs 40 m. Y's coordinates: (-40, 50).\n\n- X then turns left (North) and runs 50 m. X's final coordinates: (60, 100).\n\n- Y then turns right (North) and runs 50 m. Y's final coordinates: (-40, 100).\n\n- Since both are at the exact same vertical y-coordinate (100), the distance between them is the absolute difference on the x-axis: 60 - (-40) = 100 m.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q007",
+      "questionNumber": 7,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Clocks",
+      "statementLines": [
+        "",
+        "Which date of June 2099 among the following is Sunday?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which date of June 2099 among the following is Sunday?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Calculate the total odd days from the year 2000 (which has 0 odd days).\n\n- Completed years = 98 (from 2001 to 2098). 98 years contain 24 leap years and 74 ordinary years.\n\n- Odd days from years = (24 × 2) + (74 × 1) = 48 + 74 = 122. \n- 122 ÷ 7 leaves a remainder of 3 odd days.\n\n- Now, calculate the odd days for the months in 2099 up to June 1st:\n  Jan (3) + Feb (0, not a leap year) + Mar (3) + Apr (2) + May (3) + Jun (1) = 12 days.\n- 12 ÷ 7 leaves a remainder of 5 odd days.\n\n- Total odd days = 3 (from years) + 5 (from months) = 8 odd days.\n\n- 8 ÷ 7 leaves a remainder of 1.\n\n- 1 odd day corresponds to a Monday. Thus, June 1st, 2099 is a Monday.\n\n- If June 1st is Monday, then counting forward: 2=Tue, 3=Wed, 4=Thu, 5=Fri, 6=Sat, 7=Sun.\n\n- Therefore, the 7th of June is a Sunday.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q008",
+      "questionNumber": 8,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "A bill for 1,840 is paid in the denominations of 50, 20 and 10 notes.",
+        "50 notes in all are used. Consider the following statements:",
+        "1. 25 notes of 50 are used and the remaining are in the denominations of 20 and 10.",
+        "2. 35 notes of 20 are used and the remaining are in the denominations of 50 and 10.",
+        "3. 20 notes of 10 are used and the remaining are in the denominations of 50 and 20.",
+        "Which of the above statements are not correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A bill for 1,840 is paid in the denominations of 50, 20 and 10 notes.\n 50 notes in all are used. Consider the following statements:\n 1. 25 notes of 50 are used and the remaining are in the denominations of 20 and 10.\n 2. 35 notes of 20 are used and the remaining are in the denominations of 50 and 10.\n 3. 20 notes of 10 are used and the remaining are in the denominations of 50 and 20.\n Which of the above statements are not correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Let 50s be x, 20s be y, and 10s be z.\n\n- Equation 1 (Total notes): x + y + z = 50.\n\n- Equation 2 (Total value): 50x + 20y + 10z = 1840  =>  5x + 2y + z = 184.\n\n- Subtract Eq 1 from Eq 2: (5x + 2y + z) - (x + y + z) = 184 - 50  =>  4x + y = 134.\n\n- Test Statement 1: If x = 25, then 4(25) + y = 134  =>  100 + y = 134  =>  y = 34. Since x+y+z=50, z = 50 - 25 - 34 = -9. A negative amount of notes is impossible.\n\nStatement 1 is not correct.\n\n- Test Statement 2: If y = 35, then 4x + 35 = 134  =>  4x = 99. 99 is not divisible by 4, meaning x cannot be an integer.\n\nStatement 2 is not correct.\n\n- Test Statement 3: If z = 20, then x + y = 30  =>  y = 30 - x. Substitute into 4x + y = 134: 4x + 30 - x = 134  =>  3x = 104. 104 is not divisible by 3.\n\nStatement 3 is not correct.\n\n- All statements 1, 2, and 3 are mathematically incorrect.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q009",
+      "questionNumber": 9,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Which number amongst 2⁴⁰, 3²¹, 4¹⁸ and 8¹² is the smallest?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which number amongst 2⁴⁰, 3²¹, 4¹⁸ and 8¹² is the smallest?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2⁴⁰",
+        "b": "3²¹",
+        "c": "4¹⁸",
+        "d": "8¹²"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Simplify the bases to a common denominator where possible to facilitate comparison.\n\n- 2⁴⁰ = (2⁴)¹⁰ = 16¹⁰\n\n- 4¹⁸ = (2²)¹⁸ = 2³⁶\n\n- 8¹² = (2³)¹² = 2³⁶\n\n- We see that 4¹⁸ and 8¹² are mathematically identical (2³⁶), and both are smaller than 2⁴⁰. Thus, 2⁴⁰ is eliminated.\n\n- Now compare the remaining smallest base-2 number (2³⁶) with 3²¹.\n\n- 2³⁶ = (2¹²)³ = 4096³.\n\n- 3²¹ = (3⁷)³ = 2187³.\n\n- Since 2187 is strictly less than 4096, 2187³ is smaller than 4096³.\n\n- Therefore, 3²¹ is the smallest number overall.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q010",
+      "questionNumber": 10,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row;",
+        "and the number formed in the third row is thrice the number formed in the first row.",
+        "Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The digits 1 to 9 are arranged in three rows in such a way that each row contains three digits, and the number formed in the second row is twice the number formed in the first row;\n and the number formed in the third row is thrice the number formed in the first row.\n Repetition of digits is not allowed. If only three of the four digits 2, 3, 7 and 9 are allowed to use in the first row, how many such combinations are possible to be arranged in the three rows?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "4",
+        "b": "3",
+        "c": "2",
+        "d": "1"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The numbers formed are N, 2N, and 3N, utilizing all 9 digits exactly once without repetition.\n\n- We are given that the first row (N) can only use three of the digits {2, 3, 7, 9}.\n\n- Since 3N must be a 3-digit number (to fit in the third row), N must be less than 333.\n\n- Because N must begin with a digit from {2, 3, 7, 9}, it must start with 2 (as starting with 3 could exceed 333 if followed by 7 or 9).\n\n- Testing combinations starting with 2 and 3:\n\n  - N = 273: 2N = 546; 3N = 819. Digits used across all three rows: 2, 7, 3, 5, 4, 6, 8, 1, 9. All 9 digits are unique. This is 1 valid combination.\n\n  - N = 327: 2N = 654; 3N = 981. Digits used: 3, 2, 7, 6, 5, 4, 9, 8, 1. All 9 digits are unique. This is a 2nd valid combination.\n\n- No other combinations of {2, 3, 7, 9} yield 9 unique digits across the multipliers without causing repetitions or introducing a zero.\n\n- Thus, there are exactly 2 valid combinations.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q011",
+      "questionNumber": 11,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "\"In simple matters like shoe-making, we think only a specially trained person will serve our purpose, but in politics, we presume that everyone who knows how to get votes knows how to administer a State. When we are ill, we call for a trained physician, whose degree is a guarantee of specific preparation and technical competence—we do not ask for the handsomest physician, or the most eloquent one: well then, when the whole State is ill should we not look for the service and guidance of the wisest and the best?\"",
+        "Which one of the following statements best reflects the message of the author of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n \"In simple matters like shoe-making, we think only a specially trained person will serve our purpose, but in politics, we presume that everyone who knows how to get votes knows how to administer a State. When we are ill, we call for a trained physician, whose degree is a guarantee of specific preparation and technical competence—we do not ask for the handsomest physician, or the most eloquent one: well then, when the whole State is ill should we not look for the service and guidance of the wisest and the best?\"\n Which one of the following statements best reflects the message of the author of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "We assume that in a democracy, any politician is qualified to administer a State.",
+        "b": "Politicians should be selected from those trained in administration.",
+        "c": "We need to devise a method of barring incompetence from public office.",
+        "d": "As voters select their administrators, the eligibility of politicians to administer a State cannot be questioned."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The author uses analogies of a shoemaker and a physician to argue that just as we require specific preparation and technical competence for health and goods, we should require \"the wisest and the best\" for administering a state, rather than just anyone who can get votes.\n\n- Therefore, the underlying normative message is that we must reject this presumption of universal qualification and devise a method to ensure competence and bar incompetence from public office.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q012",
+      "questionNumber": 12,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "The poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India.",
+        "It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it.",
+        "It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power.",
+        "One can better categorize it by calling it income poverty.",
+        "If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it.",
+        "Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances—to choose other types of living.",
+        "Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.",
+        "Why is the methodology adopted in India to count the 'poor' debatable?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n The poverty line is quite unsatisfactory when it comes to grasping the extent of poverty in India.\n It is not only because of its extremely narrow definition of 'who is poor' and the debatable methodology used to count the poor, but also because of a more fundamental assumption underlying it.\n It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power.\n One can better categorize it by calling it income poverty.\n If poverty is ultimately about deprivations affecting human well-being, then income poverty is only one aspect of it.\n Poverty of a life, in our view, lies not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances—to choose other types of living.\n Even the relevance of low incomes, meagre possessions, and other aspects of what are standardly seen as economic poverty relate ultimately to their role in curtailing capabilities, i.e., their role in severely restricting the choices people have to lead variable and valued lives.\n Why is the methodology adopted in India to count the 'poor' debatable?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "There is some confusion regarding what should constitute the 'poverty line'.",
+        "b": "There are wide diversities in the condition of the rural and urban poor.",
+        "c": "There is no uniform global standard for measuring income poverty.",
+        "d": "It is based on the proposition of poverty as meagre income or buying capacity."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The author explicitly argues that the methodology is debatable \"because of a more fundamental assumption underlying it... It exclusively relies on the notion of poverty as insufficient income or insufficient purchasing power.\"\n\n- This maps directly to option (d), stating the methodology is heavily debated because it is based squarely on the proposition of poverty as meagre income or buying capacity.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q013",
+      "questionNumber": 13,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Why is income poverty only one measure of counting the 'poor'?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Why is income poverty only one measure of counting the 'poor'?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It talks of only one kind of deprivation ignoring all others.",
+        "b": "Other deprivations in a human life have nothing to do with lack of purchasing power.",
+        "c": "Income poverty is not a permanent condition, it changes from time to time.",
+        "d": "Income poverty restricts human choices only at a point of tim"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage critiques income poverty because \"poverty is ultimately about deprivations affecting human well-being,\" and income is \"only one aspect of it.\"\n\n- By focusing exclusively on purchasing power and ignoring social constraints, personal circumstances, and restricted capabilities, income poverty only evaluates one kind of deprivation (economic) while actively ignoring all others.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q014",
+      "questionNumber": 14,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "What does the author mean by 'poverty of a life'?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What does the author mean by 'poverty of a life'?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "All deprivations in a human life which stem not only from lack of income but lack of real opportunities",
+        "b": "Impoverished state of poor people in rural and urban areas",
+        "c": "Missed opportunities in diverse personal circumstances",
+        "d": "Material as well as non-material deprivations in a human life which restrict human choices permanently"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The text explicitly defines \"poverty of a life\" as lying \"not merely in the impoverished state in which the person actually lives, but also in the lack of real opportunity given by social constraints as well as personal circumstances.\"\n\n- This matches option (a): representing all deprivations stemming not only from lack of income but lack of real opportunities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q015",
+      "questionNumber": 15,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "",
+        "X and Y run a 3 km race along a circular course of length 300 m.",
+        "Their speeds are in the ratio 3:2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "X and Y run a 3 km race along a circular course of length 300 m.\n Their speeds are in the ratio 3:2. If they start together in the same direction, how many times would the first one pass the other (the start-off is not counted as passing)?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2",
+        "b": "3",
+        "c": "4",
+        "d": "5"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The ratio of speeds between X and Y is 3:2. This means for every 3 laps X completes, Y completes 2 laps.\n\n- Since they are running in the same direction, X's relative speed to Y is (3 - 2) = 1 unit.\n\n- X will pass Y exactly when X gains a full lap (300 m) on Y.\n\n- In the time it takes X to finish the entire 3 km (3000 m) race, X runs exactly 10 laps (3000 / 300).\n\n- Since X runs 10 laps and the ratio is 3:2, Y runs 10 × (2/3) = 6.66 laps.\n\n- The total number of times X fully passes Y is the absolute difference in the number of laps they have completed: 10 - 6.66 = 3.33.\n\n- Therefore, X completes exactly 3 full overtakes before finishing the race.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q016",
+      "questionNumber": 16,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Coding-Decoding",
+      "statementLines": [
+        "",
+        "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If the order of the letters in the English alphabet is reversed and each letter represents the letter whose position it occupies, then which one of the following represents 'LUCKNOW'?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "OGXPMLD",
+        "b": "OGXQML",
+        "c": "OFXPMLE",
+        "d": "OFXPMLD"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- When the English alphabet is reversed, A maps to Z, B to Y, C to X, and so forth. Numerically, the positions of the paired letters always sum to 27.\n\n- L (12th letter) maps to O (15th letter).\n\n- U (21st) maps to F (6th).\n\n- C (3rd) maps to X (24th).\n\n- K (11th) maps to P (16th).\n\n- N (14th) maps to M (13th).\n\n- O (15th) maps to L (12th).\n\n- W (23rd) maps to D (4th).\n\n- The resulting coded sequence is OFXPMLD.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q017",
+      "questionNumber": 17,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Logical Puzzles",
+      "statementLines": [
+        "",
+        "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match.",
+        "It is given that no match results in a tie/draw. How many matches are played in the entire tournament?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In a tournament of Chess having 150 entrants, a player is eliminated whenever he loses a match.\n It is given that no match results in a tie/draw. How many matches are played in the entire tournament?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "151",
+        "b": "150",
+        "c": "149",
+        "d": "148"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- In a pure knockout tournament where no matches tie, every single match results in exactly one player being eliminated.\n\n- To produce exactly one undefeated champion from a starting pool of 150 entrants, exactly 149 players must be eliminated.\n\n- Because 1 match equals 1 elimination, exactly 149 matches must be played.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q018",
+      "questionNumber": 18,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many 3-digit natural numbers (without repetition of digits) are there such that each digit is odd and the number is divisible by 5?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "8",
+        "b": "12",
+        "c": "16",
+        "d": "24"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The number is a 3-digit natural number without repetition, and all digits must be odd: {1, 3, 5, 7, 9}.\n\n- For the number to be divisible by 5, its unit digit must be 0 or 5. Since all digits must be odd, the unit digit is strictly fixed as 5 (1 way).\n\n- The hundreds and tens places must be filled using the remaining 4 odd digits {1, 3, 7, 9} without repetition.\n\n- The number of ways to select and arrange the remaining 2 digits = 4 × 3 = 12 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q019",
+      "questionNumber": 19,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Consider the Question and two Statements given below:",
+        "Question: Is x an integer?",
+        "Statement-1: x/3 is not an integer.",
+        "Statement-2: 3x is an integer.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the Question and two Statements given below:\n Question: Is x an integer?\n Statement-1: x/3 is not an integer.\n Statement-2: 3x is an integer.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement-1 says x/3 is not an integer. This implies x is not a multiple of 3. However, x could still be an integer (e.g., 2) or a non-integer (e.g., 2.5). This alone is insufficient.\n\n- Statement-2 says 3x is an integer. This implies x could be an integer (e.g., 2) or a fraction with a denominator of 3 (e.g., 1/3, since 3 × 1/3 = 1). This alone is insufficient.\n\n- Combining both statements: If x = 2, x/3 is not an integer, and 3x (6) is an integer. Here, x is an integer. If x = 1/3, x/3 (1/9) is not an integer, and 3x (1) is an integer. Here, x is NOT an integer.\n\n- Since we still cannot determine definitively whether x is an integer even when combining both parameters, both statements together are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q020",
+      "questionNumber": 20,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "The increase in the price of a certain item was 25%.",
+        "Then the price was decreased by 20% and then again increased by 10%.",
+        "What is the resultant increase in the price?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The increase in the price of a certain item was 25%.\n Then the price was decreased by 20% and then again increased by 10%.\n What is the resultant increase in the price?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "5%",
+        "b": "10%",
+        "c": "12.5%",
+        "d": "15%"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Assume the initial price of the item is ₹100.\n\n- Step 1: Increased by 25%. New price = 100 × 1.25 = ₹125.\n\n- Step 2: Decreased by 20%. New price = 125 × 0.80 = ₹100.\n\n- Step 3: Increased by 10%. New price = 100 × 1.10 = ₹110.\n\n- The final price is ₹110 compared to the initial ₹100, resulting in a net resultant increase of exactly 10%.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q021",
+      "questionNumber": 21,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage",
+        "In some places in the world, the productivity of staples such as rice and wheat has reached a plateau.",
+        "Neither new strains nor fancy agrochemicals are raising the yields.",
+        "Nor is there much unfarmed land left that is suitable to be brought under the plough.",
+        "If global temperature continues to rise, some places will become unsuitable for farming.",
+        "Application of technology can help overcome these problems. Agricultural technology is changing fast.",
+        "Much of this change is brought about by affluent farmers in the West/Americas.",
+        "Techniques developed in the West are being adapted in some places to make tropical crops more productive.",
+        "Technology is of little use if it is not adapted.",
+        "In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification.",
+        "Extending to the smallholders and subsistence farmers of Africa and Asia the best of today’s agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity.",
+        "So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Development of agricultural technology is confined to developed countries.",
+        "2. Agricultural technology is not adapted in developing countries.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage\n In some places in the world, the productivity of staples such as rice and wheat has reached a plateau.\n Neither new strains nor fancy agrochemicals are raising the yields.\n Nor is there much unfarmed land left that is suitable to be brought under the plough.\n If global temperature continues to rise, some places will become unsuitable for farming.\n Application of technology can help overcome these problems. Agricultural technology is changing fast.\n Much of this change is brought about by affluent farmers in the West/Americas.\n Techniques developed in the West are being adapted in some places to make tropical crops more productive.\n Technology is of little use if it is not adapted.\n In the developing world, that applies as much to existing farming techniques as it does to the latest advances in genetic modification.\n Extending to the smallholders and subsistence farmers of Africa and Asia the best of today’s agricultural practices, in such simple matters as how much fertilizers to apply and when, would lead to a greatly increased availability of food for humanity.\n So would things like better roads and storage facilities, to allow for the carriage of surpluses to markets and reduce wastage.\n Based on the above passage, the following assumptions have been made:\n 1. Development of agricultural technology is confined to developed countries.\n 2. Agricultural technology is not adapted in developing countries.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is invalid. While the passage notes that \"Much of this change is brought about by affluent farmers in the West/Americas,\" it does not assume that the development of technology is exclusively confined to developed countries.\n\n- Statement 2 is invalid. The passage states \"Technology is of little use if it is not adapted. In the developing world, that applies as much to existing farming techniques...\" It emphasizes the conditional need for adaptation but does not categorically state that it is currently not adapted at all anywhere.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q022",
+      "questionNumber": 22,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Poor countries need to bring about change in their existing farming techniques.",
+        "2. Developed countries have better infrastructure and they waste less food.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Based on the above passage, the following assumptions have been made:\n 1. Poor countries need to bring about change in their existing farming techniques.\n 2. Developed countries have better infrastructure and they waste less food.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid. The passage asserts that extending \"the best of today’s agricultural practices\" and adapting existing techniques to smallholders in Africa and Asia would greatly increase food availability, implying poor countries currently need to change and adapt their techniques.\n\n- Statement 2 is invalid. The passage suggests poor countries need better roads and storage to reduce wastage, but it makes absolutely no comparative assumptions about developed countries inherently wasting less food overall.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q023",
+      "questionNumber": 23,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Based on the above passage, the following assumptions have been made:",
+        "1. Growing enough food for future generations will be a challenge.",
+        "2. Corporate farming is a viable option for food security in poor countries.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Based on the above passage, the following assumptions have been made:\n 1. Growing enough food for future generations will be a challenge.\n 2. Corporate farming is a viable option for food security in poor countries.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is valid. The passage outlines severe future threats: productivity plateauing, lack of unfarmed land, and climate change rendering land unsuitable. These heavily premise the overarching assumption that growing enough food for future generations will be a challenge.\n\n- Statement 2 is invalid. The passage advocates \"extending to the smallholders and subsistence farmers\" better practices, never once suggesting corporate farming as a viable or preferred option for poor countries.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q024",
+      "questionNumber": 24,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The letters A, B, C, D and E are arranged in such a way that there are exactly two letters between A and E. How many such arrangements are possible?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "12",
+        "b": "18",
+        "c": "24",
+        "d": "36"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- We are arranging 5 letters: A, B, C, D, E.\n\n- The condition \"Exactly two letters between A and E\" forces their positions into slots (1 and 4) or slots (2 and 5).\n\n- A and E can also swap places within those slots (A _ _ E or E _ _ A). This gives 2 positional pairs × 2 internal arrangements = 4 positional configurations for A and E.\n\n- The remaining 3 letters (B, C, D) must fill the remaining 3 empty slots, which can be done in 3! = 6 ways.\n\n- Total possible arrangements = 4 configurations × 6 ways = 24.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q025",
+      "questionNumber": 25,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Consider the Question and two Statements given below:",
+        "Question: Is Z brother of X?",
+        "Statement-1: X is a brother of Y and Y is a brother of Z.",
+        "Statement-2: X, Y and Z are siblings.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the Question and two Statements given below:\n Question: Is Z brother of X?\n Statement-1: X is a brother of Y and Y is a brother of Z.\n Statement-2: X, Y and Z are siblings.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement-1 establishes that X and Y are brothers (both male), and Y is the brother of Z. However, it provides absolutely no information regarding Z's gender. Z could be a brother or a sister to X and Y.\n\n- Statement-2 simply states X, Y, and Z are siblings, which again provides no gender information for Z.\n\n- Because Z's gender remains unknown even when combining both statements, we cannot definitively answer if Z is a \"brother\". Both statements together are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q026",
+      "questionNumber": 26,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "",
+        "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other.",
+        "What is the total distance between 5 consecutive plants?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "On one side of a 1.01 km long road, 101 plants are planted at equal distance from each other.\n What is the total distance between 5 consecutive plants?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "40 m",
+        "b": "40.4 m",
+        "c": "50 m",
+        "d": "50.5 m"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- <text>[FLAG: INCONSISTENCY DETECTED]</text> The provided answer key states (a) 40 m, but this is mathematically incorrect based on the exact numbers given.\n\n- A road length of 1.01 km is equivalent to 1010 meters.\n\n- Planting 101 plants at equal distances creates exactly 100 interval gaps between them.\n\n- The length of a single gap = Total distance / Number of gaps = 1010 m / 100 = 10.1 meters.\n\n- The distance spanning 5 consecutive plants covers exactly 4 interval gaps.\n\n- Total distance = 4 × 10.1 m = 40.4 m.\n\n- Therefore, the correct mathematical answer is (b) 40.4 m, contrary to the provided key.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q027",
+      "questionNumber": 27,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A, B and C are three places such that there are three different roads from A to B, four different roads from B to C and three different roads from A to C. In how many different ways can one travel from A to C using these roads?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10",
+        "b": "13",
+        "c": "15",
+        "d": "36"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- A person can travel from A to C either directly or indirectly via B.\n\n- Direct routes from A to C: 3 distinct roads.\n\n- Indirect routes via B: Number of roads from A to B (3) multiplied by the number of roads from B to C (4) = 3 × 4 = 12 distinct ways.\n\n- Total different ways to travel from A to C = Direct ways + Indirect ways = 3 + 12 = 15.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q028",
+      "questionNumber": 28,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number.",
+        "How many coins does A have in the beginning?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A has some coins. He gives half of the coins and 2 more to B. B gives half of the coins and 2 more to C. C gives half of the coins and 2 more to D. The number of coins D has now, is the smallest two-digit number.\n How many coins does A have in the beginning?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "76",
+        "b": "68",
+        "c": "60",
+        "d": "52"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Work backwards from D. The \"smallest two-digit number\" is 10. So D received exactly 10 coins from C.\n\n- The rule states C gave half his coins and 2 more to D. Equation: (C/2) + 2 = 10. Solving this: C/2 = 8 => C = 16. (C possessed 16 coins before giving any to D).\n\n- B gave half his coins and 2 more to C. Equation: (B/2) + 2 = 16. Solving this: B/2 = 14 => B = 28.\n\n- A gave half his coins and 2 more to B. Equation: (A/2) + 2 = 28. Solving this: A/2 = 26 => A = 52.\n\n- A had 52 coins in the beginning.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q029",
+      "questionNumber": 29,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "In the series AABABCABCDABCDE... which letter appears at the 100th place?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the series AABABCABCDABCDE... which letter appears at the 100th place?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "G",
+        "b": "H",
+        "c": "I",
+        "d": "J"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The sequence AABABCABCDABCDE... is built in expanding alphabetical blocks:\n\n- Block 1: A (length 1)\n\n- Block 2: AB (length 2)\n\n- Block 3: ABC (length 3)\n\n- The total number of letters in the first 'n' blocks is the sum of the first 'n' natural numbers: n(n+1)/2.\n\n- For n=13 blocks, the total letters = 13 × 14 / 2 = 91 letters.\n\n- The 91st letter is the end of the 13th block (which ends in the 13th letter of the alphabet, M).\n\n- The 100th letter will fall inside the 14th block. It will be the 9th letter of that new block (100 - 91 = 9).\n\n- The 9th letter of the alphabet is I.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q030",
+      "questionNumber": 30,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Number Ranking and Sequence",
+      "statementLines": [
+        "",
+        "Three persons A, B and C are standing in a queue not necessarily in the same order.",
+        "There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Three persons A, B and C are standing in a queue not necessarily in the same order.\n There are 4 persons between A and B, and 7 persons between B and C. If there are 11 persons ahead of C and 13 behind A, what could be the minimum number of persons in the queue?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "22",
+        "b": "28",
+        "c": "32",
+        "d": "38"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- To find the minimum number of persons, we must overlap the groupings as much as possible.\n\n- Let's position A between B and C to compress the space. Sequence: B ... A ... C.\n\n- The gap between B and C is 7. The gap between A and B is 4.\n\n- If B is at position 1, A is at position 6 (4 people between them). C is at position 9 (7 people between B and C, which are positions 2,3,4,5,6,7,8).\n\n- We are given: \"11 persons ahead of C\". If C is 12th in line from the front, there are 11 ahead.\n\n- Shifting the sequence to match: If C is at index 12, then A is at index 9, and B is at index 4.\n\n- We are given: \"13 persons behind A\". Since A is at index 9, the total length of the queue is 9 + 13 = 22 persons.\n\n- Let's verify the whole queue: Front has 3 people, then B(4), then 4 people(5,6,7,8), then A(9), then 2 people(10,11), then C(12), then 10 people behind C. Total = 12 + 10 = 22. This mathematically satisfies all constraints.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q031",
+      "questionNumber": 31,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "Natural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life.",
+        "An outcome of this is the extinction of those species which cannot overcome environmental adversity.",
+        "This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on).",
+        "In biological evolution on the earth, extinction of species has been a major feature.",
+        "The earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct.",
+        "Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish.",
+        "The Darwinian explanation for extinct life is once again simple, elegant and at once convincing- organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped.",
+        "Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens- this is a fact.",
+        "The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data.",
+        "Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas.",
+        "If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein- sets of natural laws that explain natural phenomena in the universe.",
+        "According to the passage, natural selection cannot anticipate future environments on the earth as",
+        "1. species not fully prepared to face the environmental changes that await them will face extinction",
+        "2. all the existing species would get extinct as their genomes will not withstand biological mishaps",
+        "3. inability of the genome to withstand environmental changes would result in extinction",
+        "4. extinction of species is a common feature",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n Natural selection cannot anticipate future environments on the earth. Therefore, the set of existing organisms can never be fully prepared for environmental catastrophes that await life.\n An outcome of this is the extinction of those species which cannot overcome environmental adversity.\n This failure to survive, in modern terms, can be attributed to the genomes which are unable to withstand geological vagaries or biological mishaps (infections, diseases and so on).\n In biological evolution on the earth, extinction of species has been a major feature.\n The earth may presently have up to ten million species, yet more than 90% of species that have ever lived on the earth are now extinct.\n Once again, the creationist doctrines fail to satisfactorily address why a divine creator will firstly bother to create millions of species and then allow them to perish.\n The Darwinian explanation for extinct life is once again simple, elegant and at once convincing- organisms go extinct as a function of environmental or biological assaults for which their inheritance deems them ill-equipped.\n Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens- this is a fact.\n The mechanism of evolution (Darwin proposed natural selection) is amply supported by scientific data.\n Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas.\n If religion is not taken into consideration, Darwinian laws are acceptable just like the laws proposed by Copernicus, Galileo, Newton and Einstein- sets of natural laws that explain natural phenomena in the universe.\n According to the passage, natural selection cannot anticipate future environments on the earth as\n 1. species not fully prepared to face the environmental changes that await them will face extinction\n 2. all the existing species would get extinct as their genomes will not withstand biological mishaps\n 3. inability of the genome to withstand environmental changes would result in extinction\n 4. extinction of species is a common feature\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2, 3 and 4",
+        "c": "1, 3 and 4",
+        "d": "1, 2 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The passage states that species which cannot overcome environmental adversity face extinction because their genomes are ill-equipped to withstand \"environmental or biological assaults\". This validates Statement 1 (species not fully prepared) and Statement 3 (inability of genome to withstand changes).\n\n- It also states that \"extinction of species has been a major feature\" and \"more than 90%... are now extinct\", validating Statement 4 (extinction is a common feature).\n\n- Statement 2 is an extreme, unsupported generalization (\"all the existing species would get extinct\") not supported by the text.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q032",
+      "questionNumber": 32,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "The passage suggests that Darwinian theory of evolution is not a theory at all because",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The passage suggests that Darwinian theory of evolution is not a theory at all because\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It does not satisfy the creationist doctrine",
+        "b": "Extinction is a function of environment and biological assaults",
+        "c": "There are no evidences to refute it",
+        "d": "Existence of organisms is attributed to a creator"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The author writes: \"Therefore, the so-called Darwinian theory of evolution is not a theory at all. Evolution happens- this is a fact... Indeed, to date no single zoological, botanical, geological, paleontological, genetic or physical evidence has refuted either of the central two main Darwinian ideas.\"\n\n- The direct reason given for it being an accepted fact rather than a mere theory is that there are no scientific evidences to refute it.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q033",
+      "questionNumber": 33,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "With reference to the passage, the following assumptions have been made:",
+        "1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate.",
+        "2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment.",
+        "3. Darwin's theory explains all the natural phenomena.",
+        "Which of the above assumptions is/are valid?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the passage, the following assumptions have been made:\n 1. Only species that have the ability to overcome environmental catastrophes will survive and perpetuate.\n 2. More than 90% of the species on the earth are in the danger of getting extinct due to drastic changes in the environment.\n 3. Darwin's theory explains all the natural phenomena.\n Which of the above assumptions is/are valid?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "1 and 2 only",
+        "c": "3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is a valid assumption derived directly from the passage's core Darwinian thesis: \"extinction of those species which cannot overcome environmental adversity,\" assuming only those with the inherent ability to overcome it will survive.\n\n- Statement 2 is invalid because the text states that 90% of species that have *ever lived* are ALREADY extinct, not that 90% of *current* species are in danger.\n\n- Statement 3 is an extreme exaggeration; Darwin's theory explains biological evolution, not \"all the natural phenomena\" in the universe.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q034",
+      "questionNumber": 34,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "With steady economic growth, higher literacy and increasing skill levels, the number of Indian middle-class families has gone up exponentially.",
+        "Direct results of the affluence have been changes in dietary patterns and energy consumption levels.",
+        "People have moved to a higher protein-based diet like milk products, fish and meat, all of which need significantly more water to produce than cereal-based diets.",
+        "Increasing use of electronic and electric machines/gadgets and motor vehicles needs more and more energy and generation of energy needs water.",
+        "Which one of the following statements best reflects the crux of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n With steady economic growth, higher literacy and increasing skill levels, the number of Indian middle-class families has gone up exponentially.\n Direct results of the affluence have been changes in dietary patterns and energy consumption levels.\n People have moved to a higher protein-based diet like milk products, fish and meat, all of which need significantly more water to produce than cereal-based diets.\n Increasing use of electronic and electric machines/gadgets and motor vehicles needs more and more energy and generation of energy needs water.\n Which one of the following statements best reflects the crux of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "People should be persuaded to continue with the mainly Indian traditional cereal-based diets.",
+        "b": "India needs to focus on developing agricultural productivity and capacity for more energy generation in the coming years.",
+        "c": "Modern technological developments result in the change of cultural and social behaviour of the people.",
+        "d": "Water management practices in India need to change dramatically in the coming years."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage details how higher literacy, affluence, and middle-class growth change dietary patterns (more protein) and exponentially increase electronic/energy usage, both of which drastically require significantly more water.\n\n- Because these unyielding socio-economic shifts are creating an enormous aggregate demand for water, the crux of the passage implies that water management practices in India must change dramatically to cope with these impending pressures.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q035",
+      "questionNumber": 35,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "",
+        "How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How many seconds in total are there in x weeks, x days, x hours, x minutes and x seconds?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "11580x",
+        "b": "11581x",
+        "c": "694860x",
+        "d": "694861x"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Convert each given time unit sequentially into seconds:\n\n- x weeks = x × 7 days × 24 hours × 60 mins × 60 secs = 604,800x seconds.\n\n- x days = x × 24 hours × 60 mins × 60 secs = 86,400x seconds.\n\n- x hours = x × 60 mins × 60 secs = 3,600x seconds.\n\n- x minutes = x × 60 secs = 60x seconds.\n\n- x seconds = 1x seconds.\n\n- Total sum = 604,800x + 86,400x + 3,600x + 60x + 1x = 694,861x seconds.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q036",
+      "questionNumber": 36,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Blood Relations",
+      "statementLines": [
+        "",
+        "P, Q, R, S, T and U are six members of a family.",
+        "R is the spouse of Q. U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family.",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "P, Q, R, S, T and U are six members of a family.\n R is the spouse of Q. U is the mother of T and S is the daughter of U. P's daughter is T and R's son is P. There are two couples in the family.\n Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Q is the grandfather of T",
+        "b": "Q is the grandmother of T",
+        "c": "R is the mother of P",
+        "d": "T is the granddaughter of Q"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- R is the spouse of Q. (Generation 1: Couple R & Q).\n\n- U is the mother of T. S is the daughter of U. (This makes T and S siblings).\n\n- P's daughter is T. Since U is the mother of T, P must be the father. (Generation 2: Couple P & U).\n\n- R's son is P. Thus, P is the child of R and Q.\n\n- Evaluating the family tree: T is the daughter of P. P is the son of Q. Therefore, T is unequivocally the granddaughter of Q. (We do not know Q's exact gender, so Q could be a grandfather or grandmother, making options a and b uncertain).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q037",
+      "questionNumber": 37,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Consider the Question and two Statements given below in respect of three cities P, Q and R in a State:",
+        "Question: How far is city P from city Q?",
+        "Statement-1: City Q is 18 km from city R.",
+        "Statement-2: City P is 43 km from city R.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the Question and two Statements given below in respect of three cities P, Q and R in a State:\n Question: How far is city P from city Q?\n Statement-1: City Q is 18 km from city R.\n Statement-2: City P is 43 km from city R.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement-1 provides the distance from Q to R (18 km).\n\n- Statement-2 provides the distance from P to R (43 km).\n\n- The three cities P, Q, and R do not necessarily lie on a straight line; they could form a triangle with an infinite number of possible internal angles.\n\n- Even if they were collinear, Q could sit between P and R, or R could sit between P and Q, resulting in entirely different distances (43 - 18 = 25 km, or 43 + 18 = 61 km).\n\n- Because the geometric layout is unknown, the exact distance between P and Q cannot be determined. Both statements together are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q038",
+      "questionNumber": 38,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "",
+        "Two Statements followed by four Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts.",
+        "Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts:",
+        "Statement-1: All pens are books.",
+        "Statement-2: No chair is a pen.",
+        "Conclusion-I: All chairs are books.",
+        "Conclusion-II: Some chairs are pens.",
+        "Conclusion-III: All books are chairs.",
+        "Conclusion-IV: No chair is a book.",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two Statements followed by four Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts.\n Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts:\n Statement-1: All pens are books.\n Statement-2: No chair is a pen.\n Conclusion-I: All chairs are books.\n Conclusion-II: Some chairs are pens.\n Conclusion-III: All books are chairs.\n Conclusion-IV: No chair is a book.\n Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only Conclusion-I",
+        "b": "Only Conclusion-II",
+        "c": "Both Conclusion-III and Conclusion-IV",
+        "d": "None of the Conclusions follows"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statements: 1) All pens are books. 2) No chair is a pen.\n\n- Conclusion-I (All chairs are books) is invalid because \"chairs\" exist completely outside of \"pens,\" meaning they could fall entirely outside of the larger \"books\" circle as well.\n\n- Conclusion-II (Some chairs are pens) is invalid because it directly contradicts Statement-2.\n\n- Conclusion-III (All books are chairs) is invalid.\n\n- Conclusion-IV (No chair is a book) is invalid because the \"chairs\" circle could partially overlap with the \"books\" area that does not contain \"pens.\"\n\n- None of the Conclusions definitively follow.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q039",
+      "questionNumber": 39,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Syllogism",
+      "statementLines": [
+        "",
+        "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts.",
+        "Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts:",
+        "Statement-1: Some doctors are teachers.",
+        "Statement-2: All teachers are engineers.",
+        "Statement-3: All engineers are scientists.",
+        "Conclusion-I: Some scientists are doctors.",
+        "Conclusion-II: All engineers are doctors.",
+        "Conclusion-III: Some engineers are doctors.",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Three Statements followed by three Conclusions are given below. You have to take the Statements to be true even if they seem to be at variance from the commonly known facts.\n Read all the Conclusions and then decide which of the given Conclusions logically follows/follow from the Statements, disregarding the commonly known facts:\n Statement-1: Some doctors are teachers.\n Statement-2: All teachers are engineers.\n Statement-3: All engineers are scientists.\n Conclusion-I: Some scientists are doctors.\n Conclusion-II: All engineers are doctors.\n Conclusion-III: Some engineers are doctors.\n Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only Conclusion-I",
+        "b": "Only Conclusion-II",
+        "c": "Both Conclusion-I and Conclusion-III",
+        "d": "Both Conclusion-I and Conclusion-II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement-1: Some doctors are teachers.\n\n- Statement-2: All teachers are engineers. (This means the intersecting 'teachers' part of 'doctors' is fully engulfed by 'engineers'. Thus, Some doctors are definitely engineers, and Some engineers are doctors).\n\n- Statement-3: All engineers are scientists. (This means the entire 'engineers' circle is inside 'scientists'. Thus, those doctors that are engineers are also scientists).\n\n- Conclusion-I: Some scientists are doctors. (Valid, proven by the cascading intersections above).\n\n- Conclusion-II: All engineers are doctors. (Invalid, the 'engineers' circle is much larger than the small doctor intersection).\n\n- Conclusion-III: Some engineers are doctors. (Valid, proven above).\n\n- Both Conclusion-I and Conclusion-III logically follow.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q040",
+      "questionNumber": 40,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Seating Arrangement",
+      "statementLines": [
+        "",
+        "Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order.",
+        "B and D sit neither adjacent to C nor opposite to C. A sits in between E and D and F sits in between B and H. Which one of the following is definitely correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Eight students A, B, C, D, E, F, G and H sit around a circular table, equidistant from each other, facing the centre of the table, not necessarily in the same order.\n B and D sit neither adjacent to C nor opposite to C. A sits in between E and D and F sits in between B and H. Which one of the following is definitely correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "B sits in between A and G",
+        "b": "C sits opposite to G",
+        "c": "E sits opposite to F",
+        "d": "None of the above"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Eight students sit around a circular table.\n\n- A sits between E and D. (Sequence block: E-A-D or D-A-E).\n\n- F sits between B and H. (Sequence block: B-F-H or H-F-B).\n\n- B and D sit neither adjacent to C nor opposite to C.\n\n- Because the orientation of the blocks (e.g., E-A-D vs D-A-E) can be reversed, and the remaining individuals (C and G) can swap into multiple valid geometric anchor points depending on those reversals to satisfy the adjacency/opposition rules, there is no single absolute fixed seating chart.\n\n- Consequently, the relative positions of specific individuals to one another (like B between A and G, or C opposite G) shift across different valid iterations. None of the options is definitely correct in every scenario.\n\n——-",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q041",
+      "questionNumber": 41,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "For two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings.",
+        "An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive.",
+        "He finds it very difficult to spend his little leisure in serious activities. He does not want to think;",
+        "or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities.",
+        "Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.",
+        "The passage is based on the idea that",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n For two or three generations past, ever-increasing numbers of individuals have been living as workers merely, not as human beings.\n An excessive amount of labour is rule today in every circle of society, with the result that man's spiritual element cannot thrive.\n He finds it very difficult to spend his little leisure in serious activities. He does not want to think;\n or he cannot even if he wants to. He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities.\n Therefore, the so-called culture of our age is dependant more on cinema than on theatre, more on newspapers, magazines and crime stories than on serious literature.\n The passage is based on the idea that\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Man should not work hard",
+        "b": "The great evil of our age is overstrain",
+        "c": "Man cannot think well",
+        "d": "Man cannot care for his spiritual welfare"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The passage explicitly links the inability of man's spiritual element to thrive and his mental idleness to \"an excessive amount of labour\".\n\n- By identifying this overwork as the root cause of the cultural and spiritual decline, the passage bases its entire argument on the idea that overstrain is the great evil of our age.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q042",
+      "questionNumber": 42,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Man does not seek self-improvement because he",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Man does not seek self-improvement because he\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Is not intellectually capable",
+        "b": "Has no time to do so",
+        "c": "Is distracted by materialism",
+        "d": "Loves amusement and is mentally idle"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The text provides the exact reasoning: \"He seeks not self-improvement, but entertainment which would enable him to be mentally idle and to forget his usual activities.\"\n\n- Therefore, he abandons self-improvement specifically because he prefers amusement (entertainment) that allows him to remain mentally idle.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q043",
+      "questionNumber": 43,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity.",
+        "The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline.",
+        "From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth.",
+        "The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver.",
+        "And since the savings rate is an important driver of growth, this should help elevate our growth rate.",
+        "However, the benefits of demographic dividend depend on the quality of the working age population.",
+        "And this implies bringing back the importance of education, acquisition of skills and human capital.",
+        "Which of the following would invariably happen in a country, when the demographic dividend has begun to operate?",
+        "1. The number of illiterate people will decrease.",
+        "2. The ratio of very old and very young will decrease for a while.",
+        "3. Population growth rate will quickly stabilize.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n The demographic dividend, which has begun in India and is expected to last another few decades, is a great window of opportunity.\n The demographic dividend is basically a swelling in the working age population, which conversely means that the relative ratio of very young and very old will, for a while, be on the decline.\n From the experience of Ireland and China, we know that this can be a source of energy and an engine of economic growth.\n The demographic dividend tends to raise a nation's savings rate since in any nation, it is the working age population that is the main saver.\n And since the savings rate is an important driver of growth, this should help elevate our growth rate.\n However, the benefits of demographic dividend depend on the quality of the working age population.\n And this implies bringing back the importance of education, acquisition of skills and human capital.\n Which of the following would invariably happen in a country, when the demographic dividend has begun to operate?\n 1. The number of illiterate people will decrease.\n 2. The ratio of very old and very young will decrease for a while.\n 3. Population growth rate will quickly stabilize.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 2 is explicitly defined in the text as the fundamental mechanism of a demographic dividend: \"which conversely means that the relative ratio of very young and very old will, for a while, be on the decline.\"\n\n- Statements 1 and 3 are not guaranteed invariable outcomes mentioned in the passage; education is cited as a conditional requirement to reap benefits, not an automatic result of the dividend operating.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q044",
+      "questionNumber": 44,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "With reference to the passage, which of the following inferences can be drawn?",
+        "1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.",
+        "2. Promotion of higher education is an essential condition for a country for its rapid economic growth.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the passage, which of the following inferences can be drawn?\n 1. Demographic dividend is an essential condition for a country to rapidly increase its economic growth rate.\n 2. Promotion of higher education is an essential condition for a country for its rapid economic growth.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is invalid due to the absolute term \"essential condition\". The passage states it \"can be a source of energy\" and \"should help elevate,\" but does not claim it is the only or essential way to achieve rapid growth.\n\n- Statement 2 is also invalid. While the passage says the *benefits of the demographic dividend* depend on education and human capital, it does not state that higher education is an \"essential condition\" for rapid economic growth overall in every context.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q045",
+      "questionNumber": 45,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "Five friends P, Q, X, Y and Z purchased some notebooks.",
+        "The relevant information is given below:",
+        "1. Z purchased 8 notebooks more than X did.",
+        "2. P and Q together purchased 21 notebooks.",
+        "3. Q purchased 5 notebooks less than P did.",
+        "4. X and Y together purchased 28 notebooks.",
+        "5. P purchased 5 notebooks more than X did.",
+        "If each notebook is priced 40 then what is the total cost of all the notebooks?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Five friends P, Q, X, Y and Z purchased some notebooks.\n The relevant information is given below:\n 1. Z purchased 8 notebooks more than X did.\n 2. P and Q together purchased 21 notebooks.\n 3. Q purchased 5 notebooks less than P did.\n 4. X and Y together purchased 28 notebooks.\n 5. P purchased 5 notebooks more than X did.\n If each notebook is priced 40 then what is the total cost of all the notebooks?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "2,600",
+        "b": "2,400",
+        "c": "2,360",
+        "d": "2,320"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- From statements 2 and 3: P + Q = 21, and P - Q = 5. Adding them: 2P = 26 => P = 13. Subtracting them: 2Q = 16 => Q = 8.\n\n- From statement 5: P = X + 5. Since P = 13, X = 13 - 5 = 8.\n\n- From statement 1: Z = X + 8 = 8 + 8 = 16.\n\n- From statement 4: X + Y = 28. Since X = 8, Y = 28 - 8 = 20.\n\n- Total notebooks = P + Q + X + Y + Z = 13 + 8 + 8 + 20 + 16 = 65 notebooks.\n\n- Total cost = 65 × 40 = 2600.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q046",
+      "questionNumber": 46,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time, Speed and Distance",
+      "statementLines": [
+        "",
+        "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours.",
+        "After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours.",
+        "As compared to the clock at home, the village clock is",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A man started from home at 14:30 hours and drove to village, arriving there when the village clock indicated 15:15 hours.\n After staying for 25 minutes, he drove back by a different route of length 1.25 times the first route at a rate twice as fast reaching home at 16:00 hours.\n As compared to the clock at home, the village clock is\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "10 minutes slow",
+        "b": "5 minutes slow",
+        "c": "10 minutes fast",
+        "d": "5 minutes fast"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Let the time it takes to travel the first route be T minutes.\n\n- The return route is 1.25 times the distance and he drives twice as fast. Time taken = (1.25 / 2) × T = 0.625T minutes.\n\n- Total actual time elapsed away from home = 16:00 - 14:30 = 90 minutes.\n\n- Total time equation: Outward travel (T) + Stay (25) + Return travel (0.625T) = 90.\n\n- 1.625T = 65 => T = 40 minutes.\n\n- He actually arrived at the village 40 minutes after 14:30, which is 15:10 hours.\n\n- The village clock indicated 15:15 hours, meaning it was 5 minutes ahead of the actual time.\n\n- Therefore, the village clock is 5 minutes fast.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q047",
+      "questionNumber": 47,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A person X wants to distribute some pens among six children A, B, C, D, E and F. Suppose A gets twice the number of pens received by B, three times that of C, four times that of D, five times that of E and six times that of F. What is the minimum number of pens X should buy so that the number of pens each one gets is an even number?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "147",
+        "b": "150",
+        "c": "294",
+        "d": "300"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The given relation is: A = 2B = 3C = 4D = 5E = 6F.\n\n- To find integer values, A must be a common multiple of 2, 3, 4, 5, and 6. The Least Common Multiple (LCM) is 60.\n\n- If A = 60: B = 30, C = 20, D = 15, E = 12, F = 10.\n\n- The question demands that EACH child gets an *even* number of pens. Here, D receives 15 (which is odd).\n\n- To make all allocations even, multiply the entire set by 2.\n\n- New allocation: A = 120, B = 60, C = 40, D = 30, E = 24, F = 20. All are even numbers.\n\n- Total minimum pens = 120 + 60 + 40 + 30 + 24 + 20 = 294.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q048",
+      "questionNumber": 48,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table).",
+        "Consider the Question and two Statements given below:",
+        "Question: Who is sitting on the immediate left of A?",
+        "Statement-1: B is sitting opposite to C and D is sitting opposite to E.",
+        "Statement-2: F is sitting on the immediate left of B.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Six persons A, B, C, D, E and F are sitting equidistant from each other around a circular table (facing the centre of the table).\n Consider the Question and two Statements given below:\n Question: Who is sitting on the immediate left of A?\n Statement-1: B is sitting opposite to C and D is sitting opposite to E.\n Statement-2: F is sitting on the immediate left of B.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Statement-1 defines two opposite pairs: (B, C) and (D, E). This implicitly leaves A and F as the third opposite pair.\n\n- Statement-2 places F on the immediate left of B.\n\n- Combining them: B is seated, F is on B's immediate left. C is opposite B. A is opposite F.\n\n- This leaves the two remaining seats for D and E. However, we only know D and E are opposite each other; we do not know which specific seat D occupies and which seat E occupies.\n\n- A's immediate left will be either D or E depending on their arrangement. Because this cannot be resolved, both statements combined are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q049",
+      "questionNumber": 49,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Consider the Question and two Statements given below:",
+        "Question: What is the age of Manisha?",
+        "Statement-1: Manisha is 24 years younger than her mother.",
+        "Statement-2: 5 years later, the ages of Manisha and her mother will be in the ratio 3:5.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the Question and two Statements given below:\n Question: What is the age of Manisha?\n Statement-1: Manisha is 24 years younger than her mother.\n Statement-2: 5 years later, the ages of Manisha and her mother will be in the ratio 3:5.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let Manisha's age be M and her mother's age be Mo.\n\n- Statement-1 gives: Mo = M + 24. This alone has infinite variables.\n\n- Statement-2 gives: (M + 5) / (Mo + 5) = 3 / 5. This alone has infinite variables.\n\n- Combining them: Substitute Mo from S1 into S2: (M + 5) / (M + 24 + 5) = 3 / 5.\n\n- 5(M + 5) = 3(M + 29) => 5M + 25 = 3M + 87 => 2M = 62 => M = 31.\n\n- Both statements combined provide the exact age, making them necessary and sufficient together.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q050",
+      "questionNumber": 50,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Data Sufficiency",
+      "statementLines": [
+        "",
+        "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m.",
+        "Consider the Question and two Statements given below:",
+        "Question: Which lecture is in the third period?",
+        "Statement-1: Lecture F is preceded by A and followed by C.",
+        "Statement-2: There is no lecture after lecture B.",
+        "Which one of the following is correct in respect of the Question and the Statements?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Six lectures A, B, C, D, E and F, each of one hour duration, are scheduled between 8:00 a.m. and 2:00 p.m.\n Consider the Question and two Statements given below:\n Question: Which lecture is in the third period?\n Statement-1: Lecture F is preceded by A and followed by C.\n Statement-2: There is no lecture after lecture B.\n Which one of the following is correct in respect of the Question and the Statements?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Statement-1 alone is sufficient to answer the Question",
+        "b": "Statement-2 alone is sufficient to answer the Question",
+        "c": "Both Statement-1 and Statement-2 are sufficient to answer the Question",
+        "d": "Both Statement-1 and Statement-2 are not sufficient to answer the Question"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- There are 6 lecture periods.\n\n- Statement-1 dictates a strict sequence block: A - F - C. This block spans 3 periods.\n\n- Statement-2 dictates B is the final lecture (period 6).\n\n- Combining them: We have the block [A-F-C], B in period 6, and open lectures D and E. \n\n- The [A-F-C] block could be placed in periods 1-2-3 (making C the 3rd period), or periods 2-3-4 (making F the 3rd period), or periods 3-4-5 (making A the 3rd period).\n\n- Because there are multiple valid configurations, it is impossible to determine exactly which lecture is in the third period. Both statements are not sufficient.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q051",
+      "questionNumber": 51,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "In an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests.",
+        "If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.",
+        "Which of the following statements best reflects the underlying tone of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n In an economic organization, allowing mankind to benefit by the productivity of machines should lead to a very good life of leisure, and much leisure is apt to be tedious except to those who have intelligent activities and interests.\n If a leisured population is to be happy, it must be an educated population, and must be educated with a view to enjoyment as well as to the direct usefulness of technical knowledge.\n Which of the following statements best reflects the underlying tone of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only an educated population can best make use of the benefits of economic progress.",
+        "b": "All economic development should be aimed at the creation of leisure.",
+        "c": "An increase in the educated population of a country leads to an increase in the happiness of its people.",
+        "d": "Use of machines should be encouraged in order to create a large leisured population."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The passage argues that the benefit of machine productivity is leisure, but that leisure is tedious without intelligent activities.\n\n- It concludes that for this leisured population to actually be happy, \"it must be an educated population.\" \n\n- This strongly reflects the underlying tone that the true benefits of economic progress (leisure) can only be properly utilized and enjoyed by an educated population.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q052",
+      "questionNumber": 52,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "If presents bring less thrill now that we are grown up, perhaps it is because we have too much already;",
+        "or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving.",
+        "Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward.",
+        "Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition.",
+        "Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.",
+        "With reference to the passage, which one of the following statements is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n If presents bring less thrill now that we are grown up, perhaps it is because we have too much already;\n or perhaps it is because we have lost the fullness of the joy of giving, and with it the fullness of the joy of receiving.\n Children's fears are poignant, their miseries are acute, but they do not look too forward nor too far backward.\n Their joys are clear and complete, because they have not yet learnt always to add 'but' to every proposition.\n Perhaps we are too cautious, too anxious, too sceptical. Perhaps some of our cares would shrink if we thought less about them and entered with more single-minded enjoyment into the happiness that come our way.\n With reference to the passage, which one of the following statements is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It is not possible for adults to feel thrilled by presents.",
+        "b": "There can be more than one reason why adults feel less thrilled by presents.",
+        "c": "The author does not know why adults feel less thrilled by presents.",
+        "d": "Adults have less capacity to feel the joy of loving or being loved."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- In the opening sentence, the author provides multiple speculative clauses: \"perhaps it is because we have too much already; or perhaps it is because we have lost the fullness of the joy of giving\".\n\n- The explicit use of these multiple \"perhaps\" scenarios directly indicates that there can be more than one reason why adults experience reduced thrill.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q053",
+      "questionNumber": 53,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "The author of the passage is against",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The author of the passage is against\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Worrying too much about the past and future",
+        "b": "Being in the habit of thinking about presents",
+        "c": "Not being thrilled by new things",
+        "d": "Giving and receiving joy only partially"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The author praises children because \"they do not look too forward nor too far backward.\" \n\n- Conversely, the author criticizes adults for being \"too cautious, too anxious, too sceptical\" and advises that cares would shrink if \"we thought less about them.\"\n\n- This strongly implies the author is against the adult habit of worrying too much about the past and future.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q054",
+      "questionNumber": 54,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition.",
+        "Consider the following statements:",
+        "1. The 4-digit least value of x is 1332.",
+        "2. The 3-digit greatest value of x is 888.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let A, B and C represent distinct non-zero digits. Suppose x is the sum of all possible 3-digit numbers formed by A, B and C without repetition.\n Consider the following statements:\n 1. The 4-digit least value of x is 1332.\n 2. The 3-digit greatest value of x is 888.\n Which of the above statements is/are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The sum 'x' of all 6 permutations of three distinct digits A, B, C is given by the formula: x = 222 × (A + B + C).\n\n- Since A, B, C are distinct non-zero digits, their minimum possible sum is 1 + 2 + 3 = 6. \n\n- The least value of x = 222 × 6 = 1332. This is a 4-digit number.\n\nStatement 1 is correct.\n\n- Because the absolute minimum value for x is 1332, it is impossible for x to have a 3-digit value (like 888) under these constraints.\n\nStatement 2 is incorrect.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q055",
+      "questionNumber": 55,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "There is a numeric lock which has a 3-digit PIN.",
+        "The PIN contains digits 1 to 7. There is no repetition of digits.",
+        "The digits in the PIN from left to right are in decreasing order.",
+        "Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There is a numeric lock which has a 3-digit PIN.\n The PIN contains digits 1 to 7. There is no repetition of digits.\n The digits in the PIN from left to right are in decreasing order.\n Any two digits in the PIN differ by at least 2. How many maximum attempts does one need to find out the PIN with certainty?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "6",
+        "b": "8",
+        "c": "10",
+        "d": "12"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the PIN be A B C, chosen from {1, 2, 3, 4, 5, 6, 7}. Conditions: A > B > C, and A-B >= 2, B-C >= 2.\n\n- We systematically list the valid combinations working backward from C:\n\n- If C = 1: B can be 3 (A=5, 6, 7 - 3 pairs), B can be 4 (A=6, 7 - 2 pairs), B can be 5 (A=7 - 1 pair). Total = 6 combinations.\n\n- If C = 2: B can be 4 (A=6, 7 - 2 pairs), B can be 5 (A=7 - 1 pair). Total = 3 combinations.\n\n- If C = 3: B can be 5 (A=7 - 1 pair). Total = 1 combination.\n\n- Total valid configurations = 6 + 3 + 1 = 10.\n\n- To find the PIN with certainty, one must exhaust all possibilities, requiring a maximum of 10 attempts.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q056",
+      "questionNumber": 56,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are eight equidistant points on a circle. How many right-angled triangles can be drawn using these points as vertices and taking the diameter as one side of the triangle?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "24",
+        "b": "16",
+        "c": "12",
+        "d": "8"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- According to circle theorems, any triangle inscribed in a circle with the diameter as one of its sides is always a right-angled triangle.\n\n- On a circle with 8 equidistant points, connecting opposite points creates exactly 4 distinct diameters.\n\n- For each diameter chosen as the base, selecting any of the remaining 6 points as the third vertex will form a right-angled triangle.\n\n- Total triangles = 4 diameters × 6 remaining points = 24 right-angled triangles.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q057",
+      "questionNumber": 57,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Time and Work",
+      "statementLines": [
+        "",
+        "24 men and 12 women can do a piece of work in 30 days.",
+        "In how many days can 12 men and 24 women do the same piece of work?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "24 men and 12 women can do a piece of work in 30 days.\n In how many days can 12 men and 24 women do the same piece of work?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "30 days",
+        "b": "More than 30 days",
+        "c": "Less than 30 days or more than 30 days",
+        "d": "Data is inadequate to draw any conclusion"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The provided information gives us one equation: (24 Men + 12 Women) × 30 = 1 Job.\n\n- We are asked to find the time for (12 Men + 24 Women).\n\n- Without a second distinct equation or a specific ratio of efficiency between a man and a woman, it is mathematically impossible to isolate the individual work rates of the genders.\n\n- Therefore, the data is entirely inadequate to calculate the requested timeline.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q058",
+      "questionNumber": 58,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the remainder when 91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99 is divided by 1261?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the remainder when 91 × 92 × 93 × 94 × 95 × 96 × 97 × 98 × 99 is divided by 1261?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "3",
+        "b": "2",
+        "c": "1",
+        "d": "0"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- First, factorize the divisor 1261. 1261 is perfectly divisible by 13 (1261 = 13 × 97).\n\n- The product expression is 91 × 92 × 93 × ... × 99.\n\n- Note that 91 is a multiple of 13 (13 × 7 = 91). The number 97 is also directly present in the product series.\n\n- Since both 13 and 97 are factors contained entirely within the numerator product, the entire product is perfectly divisible by 1261.\n\n- Therefore, the remainder is exactly 0.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q059",
+      "questionNumber": 59,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Geometry and Mensuration",
+      "statementLines": [
+        "",
+        "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm:",
+        "1. It is possible to cut the sheet exactly into 4 square sheets.",
+        "2. It is possible to cut the sheet into 10 triangular sheets of equal area.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements in respect of a rectangular sheet of length 20 cm and breadth 8 cm:\n 1. It is possible to cut the sheet exactly into 4 square sheets.\n 2. It is possible to cut the sheet into 10 triangular sheets of equal area.\n Which of the above statements is/are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1: A 20x8 sheet can first be cut into two 8x8 squares. The remaining scrap is 4x8. This 4x8 scrap can be cut perfectly into two 4x4 squares. This yields exactly 4 square sheets without any waste.\n\nStatement 1 is correct.\n\n- Statement 2: The total area is 160 cm². 10 equal triangles would require an area of 16 cm² each. We can easily achieve this by slicing the 20x8 rectangle into five vertical 4x8 strips. Slicing each 4x8 rectangle diagonally yields two triangles per strip. 5 strips × 2 triangles = 10 identical triangular sheets.\n\nStatement 2 is correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q060",
+      "questionNumber": 60,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y.",
+        "When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z.",
+        "Which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "When 70% of a number x is added to another number y, the sum becomes 165% of the value of y.\n When 60% of the number x is added to another number z, then the sum becomes 165% of the value of z.\n Which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Z < x < y",
+        "b": "X < y < z",
+        "c": "Y < x < z",
+        "d": "Z < y < x"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Equation 1: 0.70x + y = 1.65y => 0.70x = 0.65y => y = (70/65)x => y = (14/13)x. (y is greater than x).\n\n- Equation 2: 0.60x + z = 1.65z => 0.60x = 0.65z => z = (60/65)x => z = (12/13)x. (z is less than x).\n\n- Assuming positive integer values (standard for such comparative sequences), the order of magnitude aligns as z < x < y.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q061",
+      "questionNumber": 61,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others.",
+        "They permit the newspapers and the gossiping neighbours to do their thinking for them.",
+        "Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them.",
+        "If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.",
+        "Which one of the following is implied by the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n The majority of people who fail to accumulate money sufficient for their needs, are generally, easily influenced by the opinions of others.\n They permit the newspapers and the gossiping neighbours to do their thinking for them.\n Opinions are the cheapest commodities on the earth. Everyone has a flock of opinions ready to be wished upon by anyone who will accept them.\n If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\n Which one of the following is implied by the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Most of the people do not accumulate money for their needs.",
+        "b": "Most of the people never fail to accumulate money for their needs.",
+        "c": "There are people who fail to accumulate money for their needs.",
+        "d": "There is no need to accumulate money."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The opening sentence specifically isolates a sub-group: \"The majority of people who fail to accumulate money...\". \n\n- The specific targeting and description of this demographic inherently implies the undeniable existence of people who fail to accumulate money for their needs.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q062",
+      "questionNumber": 62,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "What is the main idea of the passage?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the main idea of the passage?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "People should not be influenced by the opinions of others.",
+        "b": "People should accumulate as much money as they can.",
+        "c": "People should neither give nor accept the opinions.",
+        "d": "People will succeed in any undertaking if they do not accept any opinion at all."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The entire passage rails against allowing others (newspapers, gossiping neighbors) to do your thinking.\n\n- It concludes with the stark warning: \"If you are influenced by opinions when you reach decisions, you will not succeed in any undertaking.\" This directly forms the main idea that people should strictly guard against being influenced by others' opinions.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q063",
+      "questionNumber": 63,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "\"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\"",
+        "With reference to the above passage, which of the following statements is/are correct?",
+        "1. Conventions are the sources of rights of man.",
+        "2. Rights of man can be exercised only when there is a social order.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n \"The social order is a sacred right which is the basis of all other rights. Nevertheless, this right does not come from nature, and must therefore be founded on conventions.\"\n With reference to the above passage, which of the following statements is/are correct?\n 1. Conventions are the sources of rights of man.\n 2. Rights of man can be exercised only when there is a social order.\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1 is supported by the text: it states that the fundamental right of social order does not come from nature but \"must therefore be founded on conventions\", linking conventions as the source.\n\n- Statement 2 is supported as the text explicitly dictates that \"The social order is a sacred right which is the basis of all other rights,\" implying other rights rely on and stem from the foundation of a social order.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q064",
+      "questionNumber": 64,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Percentage",
+      "statementLines": [
+        "",
+        "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes.",
+        "There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes.",
+        "What is the total number of voters in the voters list?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Two candidates X and Y contested an election. 80% of voters cast their vote and there were no invalid votes.\n There was no NOTA (None of the above) option. X got 56% of the votes cast and won by 1440 votes.\n What is the total number of voters in the voters list?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "15000",
+        "b": "12000",
+        "c": "9600",
+        "d": "5000"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Let the total number of voters on the list be T. The total votes cast = 0.80T.\n\n- X secured 56% of the cast votes. Y secured the remainder: 100% - 56% = 44% of the cast votes.\n\n- The margin of victory is the difference between their shares: 56% - 44% = 12% of the cast votes.\n\n- We are given this 12% margin equals 1440 votes: 0.12 × (Cast Votes) = 1440 => Cast Votes = 1440 / 0.12 = 12,000.\n\n- Since Cast Votes represent 80% of the total list: 0.80T = 12,000 => T = 12,000 / 0.80 = 15,000 total voters.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q065",
+      "questionNumber": 65,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the smallest number greater than 1000 that when divided by any one of the numbers 6, 9, 12, 15, 18 leaves a remainder of 3?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1063",
+        "b": "1073",
+        "c": "1083",
+        "d": "1183"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The base requirement is finding a number that is a common multiple of the divisors, shifted by the remainder 3. First, find the Least Common Multiple (LCM) of 6, 9, 12, 15, and 18.\n\n- 18 handles 6 and 9. We need the LCM of 12, 15, 18.\n- Factors: 12 = 2² × 3; 15 = 3 × 5; 18 = 2 × 3².\n- LCM = 2² × 3² × 5 = 4 × 9 × 5 = 180.\n\n- The numbers satisfying the condition follow the format: (180 × k) + 3.\n\n- We need the smallest value greater than 1000. \n- Test k = 5: (180 × 5) + 3 = 903. (Too small).\n- Test k = 6: (180 × 6) + 3 = 1080 + 3 = 1083.\n\n- 1083 is the smallest such number greater than 1000.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q066",
+      "questionNumber": 66,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Let p be a two-digit number and q be the number consisting of same digits written in reverse order.",
+        "If p × q = 2430, then what is the difference between p and q?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Let p be a two-digit number and q be the number consisting of same digits written in reverse order.\n If p × q = 2430, then what is the difference between p and q?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "45",
+        "b": "27",
+        "c": "18",
+        "d": "9"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- We must find factor pairs of 2430 that correspond to 2-digit reversed numbers.\n\n- Factoring 2430: It ends in zero, suggesting multiples of 10 or 5. 2430 = 27 × 90. Not reversed.\n\n- Keep breaking down factors: 2430 = 45 × 54.\n\n- 45 and 54 are valid 2-digit numbers, and they are exact reversals of each other.\n\n- The mathematical difference between them is 54 - 45 = 9.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q067",
+      "questionNumber": 67,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number:",
+        "1. p × q can be an odd number.",
+        "2. q/p can be a prime number.",
+        "3. p + q can be a prime number.",
+        "Which of the above statements are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements in respect of two natural numbers p and q such that p is a prime number and q is a composite number:\n 1. p × q can be an odd number.\n 2. q/p can be a prime number.\n 3. p + q can be a prime number.\n Which of the above statements are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- Test Statement 1: Let p=3 (prime) and q=9 (composite). p × q = 27. 27 is an odd number. Correct.\n\n- Test Statement 2: Let p=2 (prime) and q=6 (composite). q / p = 6 / 2 = 3. 3 is a prime number. Correct.\n\n- Test Statement 3: Let p=2 (prime) and q=9 (composite). p + q = 11. 11 is a prime number. Correct.\n\n- All three scenarios are mathematically possible.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q068",
+      "questionNumber": 68,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Clocks",
+      "statementLines": [
+        "",
+        "Consider the following statements:",
+        "1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide.",
+        "2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide.",
+        "Which of the above statements is/are correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following statements:\n 1. Between 3:16 p.m. and 3:17 p.m., both hour hand and minute hand coincide.\n 2. Between 4:58 p.m. and 4:59 p.m., both minute hand and second hand coincide.\n Which of the above statements is/are correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Statement 1: The standard formula for clock hands coinciding past the hour 'H' is (H × 60/11) minutes. For H = 3: 3 × 60/11 = 180/11 = 16.36 minutes. This exact moment (16.36m) falls perfectly between 3:16 and 3:17. Correct.\n\n- Statement 2: Between 4:58 and 4:59, the minute hand sits in the wedge just before the 12 position (58 to 59 minutes). During this 60-second window, the second hand makes one complete full-circle sweep across the entire clock face. It is mathematically guaranteed to cross over the stationary minute hand during this sweep. Correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q069",
+      "questionNumber": 69,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Mixture and Alligation",
+      "statementLines": [
+        "",
+        "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water.",
+        "20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are two containers X and Y. X contains 100 ml of milk and Y contains 100 ml of water.\n 20 ml of milk from X is transferred to Y. After mixing well, 20 ml of the mixture in Y is transferred back to X. If m denotes the proportion of milk in X and n denotes the proportion of water in Y, then which one of the following is correct?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "M = n",
+        "b": "M > n",
+        "c": "M < n",
+        "d": "Cannot be determined due to insufficient data"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- Start: X has 100M. Y has 100W.\n\n- Step 1: Move 20M from X to Y. \n  X has 80M. \n  Y has 20M + 100W (Total 120ml). The ratio in Y is 1/6 Milk and 5/6 Water.\n\n- Step 2: Move 20ml of mixture from Y to X. This 20ml contains 20/6 M and 100/6 W.\n\n- Final State of X: Original 80M + (20/6)M = 500/6 M. It also gains 100/6 W. Total volume is 100ml. \n  Proportion of Milk in X (m) = (500/6) / 100 = 5/6.\n\n- Final State of Y: It started with 20M, 100W and lost 20/6 M, 100/6 W.\n  Y's Water = 100 - (100/6) = 500/6 W. Total volume is 100ml.\n  Proportion of Water in Y (n) = (500/6) / 100 = 5/6.\n\n- Therefore, m equals n (m = n).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q070",
+      "questionNumber": 70,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Data Interpretation",
+      "statementLines": [
+        "",
+        "A pie chart gives the expenditure on five different items A, B, C, D and E in a household.",
+        "If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "A pie chart gives the expenditure on five different items A, B, C, D and E in a household.\n If B, C, D and E correspond to 90°, 50°, 45° and 75° respectively, then what is the percentage of expenditure on item A?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "112/9",
+        "b": "125/6",
+        "c": "155/9",
+        "d": "250/9"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The total central angle of a complete pie chart is always 360°.\n\n- The angle for item A is the remainder: A = 360° - (90° + 50° + 45° + 75°) = 360° - 260° = 100°.\n\n- To convert this angle into a percentage of the whole: (100° / 360°) × 100 = 1000 / 36.\n\n- Simplify the fraction by dividing by 4: 250 / 9%.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q071",
+      "questionNumber": 71,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-1",
+        "To encourage research is one of the functions of a university.",
+        "Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well.",
+        "Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization.",
+        "But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.",
+        "The author's assumption about scientific research is that",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-1\n To encourage research is one of the functions of a university.\n Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well.\n Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization.\n But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.\n The author's assumption about scientific research is that\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "It is never very valuable",
+        "b": "It is sometimes very valuable",
+        "c": "It is never without some value",
+        "d": "It is always very valuable"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The text literally asserts: \"Scientific research is probably never completely valueless.\"\n\n- It further explains that no matter how silly it seems, there is \"always a chance\" the collected facts may be of value to someone else, making option (c) the precise assumption.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q072",
+      "questionNumber": 72,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "According to the author",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "According to the author\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Not many research results can be of value to an intelligent investigator",
+        "b": "A research result is always valuable to an intelligent investigator",
+        "c": "Any research result can be of value to an intelligent investigator",
+        "d": "A research result must always be of some value to an intelligent investigator"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The author states that regardless of how insignificant the mechanical labor of researchers might seem, \"there is always a chance that the results may be of value to the investigator of talent\".\n\n- Because there is \"always a chance\", it implies that *any* given research result possesses the potential to be of value to an intelligent investigator.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q073",
+      "questionNumber": 73,
+      "subject": "CSAT",
+      "sectionGroup": "Comprehension",
+      "microTopic": "Reading Comprehension (Passages, Inference, Tone, etc.)",
+      "statementLines": [
+        "",
+        "Passage-2",
+        "How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient?",
+        "In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days.",
+        "This skewed water availability has to be managed and regulated for its consumption throughout the year.",
+        "Which one of the following best reflects the practical, rational and lasting solution?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Passage-2\n How best can the problems of floods and droughts be addressed so that the losses are minimal and the system becomes resilient?\n In this context, one important point that needs to be noted is that India gets 'too much' water (about 75% of annual precipitation) during 120 days (June to September) and 'too little' for the remaining 245 days.\n This skewed water availability has to be managed and regulated for its consumption throughout the year.\n Which one of the following best reflects the practical, rational and lasting solution?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Constructing huge concrete storage tanks and canals across the country",
+        "b": "Changing the cropping patterns and farming practices",
+        "c": "Interlinking of rivers across the country",
+        "d": "Buffer stocking of water through dams and recharging aquifers"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The passage specifically highlights the problem of skewed temporal availability (too much water condensed into 120 days, too little for 245 days) that must be managed and regulated.\n\n- To physically hold the massive surplus from the 120 days for slow release over the 245 days, \"buffer stocking of water through dams and recharging aquifers\" acts as the most rational, large-scale storage solution directly addressing the passage's concern.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q074",
+      "questionNumber": 74,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Number System",
+      "statementLines": [
+        "",
+        "If 15 × 14 × 13 × … × 3 × 2 × 1 = 3ᵐ × n where m and n are positive integers, then what is the maximum value of m?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If 15 × 14 × 13 × … × 3 × 2 × 1 = 3ᵐ × n where m and n are positive integers, then what is the maximum value of m?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "7",
+        "b": "6",
+        "c": "5",
+        "d": "4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The expression is 15 factorial (15!). We need to find the maximum power of 3 (which is 'm') contained within the prime factorization of 15!.\n\n- This is calculated using Legendre's formula: [15/3] + [15/3²] + [15/3³]...\n\n- [15/3] = 5.\n\n- [15/9] = 1.\n\n- Total exponent m = 5 + 1 = 6.\n\n- Therefore, the maximum value of m is 6.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q075",
+      "questionNumber": 75,
+      "subject": "CSAT",
+      "sectionGroup": "Logical Reasoning",
+      "microTopic": "Series (Number and Alphabet)",
+      "statementLines": [
+        "",
+        "What is the value of X in the sequence 2, 12, 36, 80, 150, X?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the value of X in the sequence 2, 12, 36, 80, 150, X?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "248",
+        "b": "252",
+        "c": "258",
+        "d": "262"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Exp) Option b is the correct answer.**\n<text>Explanation:</text> \n\n- The sequence aligns to the structural mathematical formula n² × (n+1) or n³ + n²:\n  - For n=1: 1² × 2 = 2\n  - For n=2: 2² × 3 = 12\n  - For n=3: 3² × 4 = 36\n  - For n=4: 4² × 5 = 80\n  - For n=5: 5² × 6 = 150\n- To find the next term (X), evaluate for n=6: 6² × 7 = 36 × 7 = 252.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q076",
+      "questionNumber": 76,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant.",
+        "How many such passwords can be generated?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "One non-zero digit, one vowel and one consonant from English alphabet (in capital) are to be used in forming passwords, such that each password has to start with a vowel and end with a consonant.\n How many such passwords can be generated?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "105",
+        "b": "525",
+        "c": "945",
+        "d": "1050"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- The password structure is strictly constrained: [Vowel] - [Digit] - [Consonant].\n\n- The number of available vowels = 5 (A, E, I, O, U).\n\n- The number of non-zero digits = 9 (1 through 9).\n\n- The number of available consonants = 21 (26 letters minus 5 vowels).\n\n- Multiply the independent possibilities: 5 × 9 × 21 = 45 × 21 = 945 possible passwords.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q077",
+      "questionNumber": 77,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea.",
+        "In how many ways can they be arranged so that each row should contain at least one cup of coffee?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "There are 9 cups placed on a table arranged in equal number of rows and columns out of which 6 cups contain coffee and 3 cups contain tea.\n In how many ways can they be arranged so that each row should contain at least one cup of coffee?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "18",
+        "b": "27",
+        "c": "54",
+        "d": "81"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Exp) Option d is the correct answer.**\n<text>Explanation:</text> \n\n- The setup is a 3x3 grid. We must arrange 3 tea cups and 6 coffee cups.\n\n- \"Each row should contain at least one cup of coffee\" is logically equivalent to saying \"No row can contain ONLY tea cups.\"\n\n- Total unconstrained ways to place 3 identical tea cups in 9 available spots = 9C3 = (9 × 8 × 7) / (3 × 2 × 1) = 84 ways.\n\n- The invalid configurations occur when all 3 tea cups fill up an entire row. Since there are 3 rows, there are exactly 3 invalid configurations.\n\n- Valid arrangements = Total ways - Invalid ways = 84 - 3 = 81 ways.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q078",
+      "questionNumber": 78,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Simplification",
+      "statementLines": [
+        "",
+        "The sum of three consecutive integers is equal to their product. How many such possibilities are there?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The sum of three consecutive integers is equal to their product. How many such possibilities are there?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "No such possibility is there"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- Let the three consecutive integers be (x-1), x, and (x+1).\n\n- Sum equation: (x-1) + x + (x+1) = 3x.\n\n- Product equation: (x-1) × x × (x+1) = x(x² - 1) = x³ - x.\n\n- Equate them: 3x = x³ - x => x³ - 4x = 0 => x(x² - 4) = 0.\n\n- Factoring yields: x(x - 2)(x + 2) = 0.\n\n- This provides three mathematical solutions for x: 0, 2, and -2.\n\n- Possibility 1 (x=0): Integers are -1, 0, 1. (Sum = 0, Product = 0).\n\n- Possibility 2 (x=2): Integers are 1, 2, 3. (Sum = 6, Product = 6).\n\n- Possibility 3 (x=-2): Integers are -3, -2, -1. (Sum = -6, Product = -6).\n\n- There are exactly three possibilities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q079",
+      "questionNumber": 79,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Permutation and Combination",
+      "statementLines": [
+        "",
+        "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the number of numbers of the form 0.XY, where X and Y are distinct non-zero digits?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "72",
+        "b": "81",
+        "c": "90",
+        "d": "100"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Exp) Option a is the correct answer.**\n<text>Explanation:</text> \n\n- The available non-zero digits are 1 through 9 (9 options).\n\n- For the first position 'X', you can choose any of the 9 digits.\n\n- Since 'Y' must be distinct from 'X', you only have 8 remaining digits to choose from for the 'Y' position.\n\n- Total valid numbers = 9 × 8 = 72.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    },
+    {
+      "id": "upsc-cse-pyq-2022-gs2-q080",
+      "questionNumber": 80,
+      "subject": "CSAT",
+      "sectionGroup": "Maths",
+      "microTopic": "Average",
+      "statementLines": [
+        "",
+        "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The average weight of A, B, C is 40 kg, the average weight of B, D, E is 42 kg and the weight of F is equal to that of B. What is the average weight of A, B, C, D, E and F?\n Select the correct answer using the code given below:",
+      "options": {
+        "a": "40.5 kg",
+        "b": "40.8 kg",
+        "c": "41 kg",
+        "d": "Cannot be determined as data is inadequate"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Exp) Option c is the correct answer.**\n<text>Explanation:</text> \n\n- From first average: A + B + C = 3 × 40 = 120 kg.\n\n- From second average: B + D + E = 3 × 42 = 126 kg.\n\n- We are given F = B.\n\n- We need the average of all 6: (A + B + C + D + E + F) / 6.\n\n- Rearrange the target sum into known groups: (A + B + C) + (D + E) + F.\n\n- From the second equation, D + E = 126 - B.\n\n- Substitute the knowns into the target sum: (120) + (126 - B) + F.\n\n- Since F = B, substituting yields: 120 + 126 - B + B = 246 kg.\n\n- Average = 246 / 6 = 41 kg.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_csat"
+      },
+      "source_attribution_label": "CSE 2022"
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "upsc_official",
+  "institute_name": "UPSC",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_csat"
+  }
+}

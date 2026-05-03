@@ -1,0 +1,1807 @@
+{
+  "id": "forum-sfg-2026-level-2-science-test15",
+  "title": "Test 15- L2 SFG 2026 - Sectional - Science   Technology",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q01",
+      "questionNumber": 1,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN?",
+        "I. It is designed to provide additional accuracy and integrity.",
+        "II. It will allow more uniform and high quality air traffic management.",
+        "III. It will provide benefits only in aviation but not in other modes of transportation.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "GPS-Aided Geo Augmented Navigation (GAGAN) uses a system of ground stations to provide necessary augmentation. Which of the following statements is/are correct in respect of GAGAN? I. It is designed to provide additional accuracy and integrity. II. It will allow more uniform and high quality air traffic management. III. It will provide benefits only in aviation but not in other modes of transportation. Select the correct answer using the code given below.",
+      "options": {
+        "a": "I, II and III",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I and II only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** GAGAN is the acronym for GPS Aided GEO Augmented Navigation. The GAGAN uses a system of ground stations to provide necessary augmentations to the GPS standard positioning service(SPS) navigation signal. GAGAN is jointly developed by the Indian Space Research Organisation (ISRO) and the Airports Authority of India (AAI).\nStatement I is correct. GAGAN is India’s satellite-based augmentation system (SBAS). The SBAS is a navigation system, which builds on the Global Navigation Satellite Systems (GLONASS), and adds to the accuracy and integrity of these navigation tools. For aircraft operators, both civilian and military, it means that pilots can land aircraft at smaller airports and airstrips using navigation guidance without expensive instrument-based landing systems being installed on the ground.\nStatement II is correct. The GAGAN is designed to provide the additional accuracy, availability, and integrity necessary to enable users to rely on GPS for all phases of flight, from en route through approach for all qualified airports within the GAGAN service volume. GAGAN also provides the capability for increased accuracy in position reporting, allowing for more uniform and high-quality Air Traffic Management (ATM).\nStatement III is incorrect. GAGAN provides benefits beyond aviation to all modes of transportation, including maritime, highways, and railroads.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q02",
+      "questionNumber": 2,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "What is the primary objective of the 'Bharat Gen' initiative, recently launched by the Government of India?"
+      ],
+      "questionText": "What is the primary objective of the 'Bharat Gen' initiative, recently launched by the Government of India?",
+      "options": {
+        "a": "Establishing a nationwide network of 6G-ready telecommunications infrastructure in rural areas.",
+        "b": "Establishing ethical guidelines for the responsible use of AI.",
+        "c": "Developing indigenous generative AI models tailored for Indian languages and contexts.",
+        "d": "Promoting foreign AI technologies for integration into Indian governance systems."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The ‘Bharat Gen’ initiative is aimed at building homegrown generative AI models that cater specifically to India’s linguistic diversity and socio-cultural contexts. It focuses on reducing dependence on foreign AI systems while enabling AI solutions in multiple Indian languages. Launched by the Department of Science and Technology (DST) and spearheaded by IIT Bombay, the Bharat Gen initiative is a milestone in India's sovereign AI journey.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q03",
+      "questionNumber": 3,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to dark energy, consider the following statements:",
+        "I. It is believed to be responsible for the accelerated expansion of the universe.",
+        "II. It makes up nearly 70% of the Universe.",
+        "III. The Standard Model of Particle Physics does not account for dark energy in the Universe.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to dark energy, consider the following statements: I. It is believed to be responsible for the accelerated expansion of the universe. II. It makes up nearly 70% of the Universe. III. The Standard Model of Particle Physics does not account for dark energy in the Universe. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Dark energy is an invisible force that fills all of space and acts as a sort of \"repulsive gravity,\" pushing the universe apart.\nStatement I is correct. Until the late 1990s, scientists thought the expansion of the universe (triggered by the Big Bang) would slow down due to gravity. However, observations of distant supernovae revealed that the expansion is actually speeding up. Dark energy is believed to be the force responsible for this accelerated expansion, acting against the inward pull of gravity.\nStatement II is correct. Current cosmological models suggest that dark energy constitutes nearly 68% to 70% of the total energy and matter in the universe. The remainder is made up of dark matter (about 27%) and normal matter (only about 5%).\nStatement III is correct: The Standard Model of Particle Physics does not account for dark matter and dark energy. These components, which make up close to 95% of the universe’s total mass energy content, remain some of the biggest mysteries in physics today. The search for a theory that includes these phenomena is ongoing in the field of theoretical physics.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q04",
+      "questionNumber": 4,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following statements with respect to the Society for Electronic Transactions and Security (SETS) in",
+        "India:",
+        "I. It is an initiative of the Office of the Principal Scientific Adviser (PSA) to the Government of India.",
+        "II. It is responsible for the regulation of digital currency transactions in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to the Society for Electronic Transactions and Security (SETS) in India: I. It is an initiative of the Office of the Principal Scientific Adviser (PSA) to the Government of India. II. It is responsible for the regulation of digital currency transactions in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Conceived by Dr. A.P.J. Abdul Kalam in 2002, the Society for Electronic Transactions and Security (SETS), an initiative of the Office of Principal Scientific Adviser to the Government of India, is a cybersecurity R&D organization pursuing research in the core areas of cybersecurity, cryptology, hardware security, quantum security, and network security.\nStatement II is incorrect: Regulation of digital currency and financial transactions in India is the responsibility of the Reserve Bank of India (RBI) and the Ministry of Finance. SETS does not have any statutory regulatory role; it is primarily a research and development body.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q05",
+      "questionNumber": 5,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the Bharat Forecast System (BFS), consider the following statements:",
+        "I. It is an indigenously developed weather prediction model that delivers high-accuracy forecasts.",
+        "II. It replaces the older 12-km resolution model with 6-km resolution model.",
+        "II. It is focused primarily on improving long-range weather forecasting and not short-and medium-range weather predictions.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Bharat Forecast System (BFS), consider the following statements: I. It is an indigenously developed weather prediction model that delivers high-accuracy forecasts. II. It replaces the older 12-km resolution model with 6-km resolution model. II. It is focused primarily on improving long-range weather forecasting and not short-and medium-range weather predictions. Which of the statements given above are correct?",
+      "options": {
+        "a": "II and III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Bharat Forecast System (BFS) is a cutting-edge weather model that delivers high-accuracy forecasts at an ultra-fine spatial resolution of 6 kilometres. It was officially adopted by the India Meteorological Department (IMD) in 2025. Statements I and II are correct: Bharat Forecast System (BFS) is an indigenously developed weather prediction model that will deliver high-accuracy forecasts.\nThe goal of BharatFS's development is to enhance the accuracy of extreme weather prediction and produce forecasts at the panchayat cluster level. Thus, the BFS replaces the older 12-km resolution model to an ultra-fine spatial resolution of 6 kilometres. This forecast system runs at a resolution of 6 km, typically about the size of a cluster of panchayats/villages.\nThis also places India ahead of global peers such as the United Kingdom, the United States, and the European Union, whose models typically operate at 9 to 14 km resolution.n.\nStatement III is incorrect: The Bharat Forecast System (BFS) has been developed primarily for improving the short-and medium-range weather prediction and not for long range forecasting. It has the capability to provide predictions of rainfall events up to 10 days, covering the short and medium-range forecasts.\nNote: As per the World Meteorological Organization (WMO) definition, long range forecast is defined as the forecast from 30 days’ up to one season’s description of averaged weather parameters. The monthly and seasonal forecast comes under long range forecast.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q06",
+      "questionNumber": 6,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Neutrinos are very hard to detect.",
+        "Statement II: Neutrinos interact very weakly with matter.",
+        "Statement III: Neutrinos are not affected by the gravitation field.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Neutrinos are very hard to detect. Statement II: Neutrinos interact very weakly with matter. Statement III: Neutrinos are not affected by the gravitation field. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Neutrinos are subatomic particles often referred to as \"ghost particles\" because they are incredibly difficult to detect.\nStatement II is correct and explains Statement I: Neutrinos interact very weakly with matter. Because they do not feel the strong nuclear force or electromagnetic force, they can travel through entire planets or lead walls as if they were empty space.\nThey are hard to detect because they rarely interact with other particles, making them difficult to observe. This is due to their weak interaction with matter and their ability to pass through most materials without leaving a trace.\nStatement III is incorrect: Neutrinos have a very small mass. Like all particles that possess energy and mass, neutrinos are affected by gravitational fields.\nNeutrinos are particles that interact weakly with the force of gravity and with a force involved in radioactive decay called the weak force.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q07",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which one of the following best describes Mira stars?"
+      ],
+      "questionText": "Which one of the following best describes Mira stars?",
+      "options": {
+        "a": "Giant stars that go through regular cycles of expansion and contraction.",
+        "b": "Dead stars that emit intense gamma radiation.",
+        "c": "Massive stars that collapse into black holes.",
+        "d": "Stars that do not emit visible light."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The name, Mira, means wonderful in Latin and it lived up to that name by becoming the prototype for an entire class of stars known as Mira variables. Mira variables are a type of giant star that go through regular cycles of expanding and contracting. These cycles cause their brightness to vary in a predictable way, typically over periods ranging from 100 to 1,000 days. These stars are relatively cool, with surface temperatures around 3,000 Kelvin (about half the temperature of the Sun’s surface), and they are in the late stages of their life.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q08",
+      "questionNumber": 8,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In the context of quantum computing, which of the following best describes the phenomenon of 'Quantum",
+        "Decoherence'?"
+      ],
+      "questionText": "In the context of quantum computing, which of the following best describes the phenomenon of 'Quantum Decoherence'?",
+      "options": {
+        "a": "The loss of quantum state due to interaction with the external environment.",
+        "b": "The synchronisation of multiple qubits to enhance computational efficiency.",
+        "c": "The transfer of quantum states across distant locations without physical transmission of particles.",
+        "d": "The ability of a quantum system to exist in multiple states simultaneously."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Breakthrough research suggests that quantum noise, random disturbances long considered harmful to delicate quantum systems, may not always be detrimental and can sometimes offer benefits.\nAt the core of this finding is quantum entanglement, famously described by Albert Einstein as “spooky action at a distance.” This phenomenon links particles across space and is central to quantum physics. Traditionally, quantum noise has been viewed as the enemy of entangled systems, as it disrupts them by causing loss of entanglement, known as decoherence.\nQuantum decoherence refers to the process by which a quantum system loses its superposition and entanglement properties when it interacts with its surroundings, effectively behaving like a classical system. The system undergoes a transition from quantum behavior to classical behavior.\nQuantum Entanglement is the state of synchronizing multiple quantum bits (qubits) to perform parallel calculations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q09",
+      "questionNumber": 9,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the Van Allen radiation belts, consider the following statements:",
+        "I. They are formed due to interaction of solar wind with Earth’s magnetosphere.",
+        "II. They are located within Earth’s troposphere.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Van Allen radiation belts, consider the following statements: I. They are formed due to interaction of solar wind with Earth’s magnetosphere. II. They are located within Earth’s troposphere. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Van Allen radiation belts are two (and sometimes three) giant donut-shaped layers of high-energy radiation that surround Earth.\nStatement I is correct. They consist of high-energy charged particles (mainly protons and electrons) that are trapped by Earth’s magnetic field. These belts are formed through the interaction of the solar wind (a stream of particles from the Sun) with Earth’s magnetosphere. The magnetic field captures these particles, preventing them from hitting the planet directly.\nStatement II is incorrect. The belts are located far above the troposphere. They exist in the vacuum of space within the magnetosphere, typically ranging from an altitude of about 600 km to 58,000 km.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q10",
+      "questionNumber": 10,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "The \"Seven Summits Challenge\", recently seen in the news, is related to:"
+      ],
+      "questionText": "The \"Seven Summits Challenge\", recently seen in the news, is related to:",
+      "options": {
+        "a": "South–South cooperation among developing countries",
+        "b": "Climbing the highest mountain on each of the seven continents",
+        "c": "Global framework for regulating cross-border taxation and preventing base erosion",
+        "d": "Promoting global trade through regional economic grouping"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The ‘Seven Summits’ challenge is a renowned mountaineering challenge, first proposed and completed by Richard Bass in 1985. It requires climbing the highest mountain on each of the seven continents. These peaks include Mount Kilimanjaro (Africa), Mount Elbrus (Europe), Aconcagua (South America), Denali (North America), Mount Vinson (Antarctica), Mount Everest (Asia), and either Mount Kosciuszko (Australia) or Puncak Jaya/Carstensz Pyramid (Oceania).\nThere are two versions of the Seven Summits challenge. The Bass List, introduced by Richard Bass himself, recognizes Mount Kosciuszko in Australia as the continent’s highest peak. In contrast, the Messner List, proposed by Reinhold Messner, replaces Kosciuszko with Puncak Jaya (Carstensz Pyramid) in Indonesia, arguing that it better represents the highest peak of Oceania/Australasia.\nRecently, Hyderabad teenager Vishwanath Karthikey Padakanti achieved this remarkable feat by climbing all seven peaks. He has become the youngest Indian and the second youngest person in the world to successfully complete the legendary Seven Summits Challenge.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q11",
+      "questionNumber": 11,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Defence",
+      "statementLines": [
+        "Consider the following activities:",
+        "1. Identification of narcotics on passengers at airports or in aircraft",
+        "2. Monitoring of precipitation",
+        "3. Tracking the migration of animals In",
+        "how many of the above activities can the radars be used?"
+      ],
+      "questionText": "Consider the following activities: 1. Identification of narcotics on passengers at airports or in aircraft 2. Monitoring of precipitation 3. Tracking the migration of animals In how many of the above activities can the radars be used?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Radars use radio waves to detect and locate objects by transmitting pulses and analyzing the reflected signals.\nThey measure distance, speed, and direction, playing a vital role in aviation, maritime navigation, weather forecasting, and military applications. Radars enable precise tracking and surveillance over long distances and in various conditions.\nStatement 1 is incorrect: X-ray machines and metal detectors are used at airports and not radar based detectors. Thus, radars are not used for identification of narcotics on passengers at airports or in aircraft.\nStatement 2 is correct: Radars are extensively used for monitoring of precipitation. Weather radars (specifically Doppler radars) are instrumental in monitoring and tracking precipitation, measuring the intensity of rainfall, and predicting weather patterns.\nStatement 3 is correct: Radars can be used to track the migration of animals, particularly birds and bats. Radar technology helps in monitoring flight patterns and migration routes of these animals over large distances.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q12",
+      "questionNumber": 12,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Nanotechnology",
+      "statementLines": [
+        "In astronomy, ‘standard candles’ sometimes seen in the news refer to:"
+      ],
+      "questionText": "In astronomy, ‘standard candles’ sometimes seen in the news refer to:",
+      "options": {
+        "a": "Incredibly bright and distant points of light in the galaxy powered by super-massive black holes.",
+        "b": "Rapidly rotating neutron stars that emit X-rays and radio waves at regular intervals.",
+        "c": "Giant clouds of dust and gases in which stars are born.",
+        "d": "Objects in space with known luminosity that can be used to estimate the distance from those objects to the Earth."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: A standard candle is an astronomical object whose luminosity (energy emitted per unit time) is known and can be used to estimate the distance from those objects to the Earth. This is a key method used to measure distances in the universe, forming part of what astronomers call the \"extragalactic distance ladder.\" Astronomers use different types of standard candles to step up the ladder, eventually reaching distances where the expansion of the universe—known as the Hubble flow—can be measured.\nThe most well-known standard candle is the Type Ia supernova, an explosion that occurs when a white-dwarf star accumulates interstellar material and exceeds the maximum mass at which it can support its own gravity.\nOption a is incorrect: Quasars are the incredibly bright and distant points of light powered by super-massive black holes. Quasars are tremendously active supermassive black holes millions to billions of times more massive than our sun, usually residing at centers of galaxies. They devour matter drawn to them by their immense gravitational pull and unleash torrents of radiation including jets of high-energy particles, while a glowing disk of matter spins around them.\nOption b is incorrect: A pulsar is a rapidly rotating neutron star that emits pulses of radiation (such as X-rays and radio waves) at regular intervals. A millisecond pulsar is one with a rotational period between 1 and 10 milliseconds, or from 60,000 to 6,000 revolutions per minute.\nOption c is incorrect: The giant clouds of gas in which stars are born are called nebulae. When stars eventually die, they expel their gas into their surrounding environment, where it eventually cools and forms new nebulae.\nKnowledge Base:\n- Hubble Constant: The rate at which the universe is expanding today is called the Hubble constant. This value helps in determining the size and age of the universe.\n- Hubble Tension: When astronomers measure the Hubble constant using nearby stars like Cepheid variables and exploding stars called Type Ia supernovae, they get a higher value than when they calculate it based on observations of the early universe, using cosmic microwave background data and other indirect methods. Thus, different measurement methods yield discrepant values for Hubble Constant, leading to the “Hubble tension”.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q13",
+      "questionNumber": 13,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In the context of Space science, consider the following pairs:",
+        "Term Description",
+        "I. Tidal Disruption Event (TDE) Occurs when a passing star gets too close to a black hole and is torn apart into a stream of gas",
+        "II. Kilonova The explosive demise of heavy stars when they run out of fuel for nuclear fusion.",
+        "III. Supernova An astronomical explosion that occurs when two neutron stars, or a neutron star and a black hole, collide",
+        "How many pairs given above are correctly matched?"
+      ],
+      "questionText": "In the context of Space science, consider the following pairs: Term Description I. Tidal Disruption Event (TDE) Occurs when a passing star gets too close to a black hole and is torn apart into a stream of gas II. Kilonova The explosive demise of heavy stars when they run out of fuel for nuclear fusion. III. Supernova An astronomical explosion that occurs when two neutron stars, or a neutron star and a black hole, collide How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is correct: The astronomical phenomenon of the destruction of a star by a black hole is called a Tidal Disruption Event (TDE). A tidal force is the difference in the strength of gravity between two points. If the tidal force exerted on a body is greater than the intermolecular force that keeps it together, the body will get disrupted. During a TDE, the tidal force of a black hole disrupts the star in its vicinity. While about half of the star’s debris continues on its original path, the other half is attracted by the black hole’s gravitational pull. The gradual growth of this material bound to the black hole produces a short-lived flare of emission, known as TDE.\nPair II is incorrect: A supernova is the explosive demise of heavy stars when they run out of fuel for nuclear fusion. A kilonova is a similar cosmic event that occurs not when stars die but when a neutron star smashes into another neutron star or a black hole. A kilonova releases heavy metals like gold, silver, and selenium into outer space at tremendous velocities, as well as radiation, to the accompaniment of a gamma-ray burst. Kilonovae are windows into the formation of the universe. Pair III is incorrect: A supernova happens when a star has reached the end of its life and explodes in a brilliant burst of light. It occurs when a particularly massive star has exhausted fuel to fuse and blows up. A supernova expels large amounts of energy, radiation, and elements into the space around it. The heavy metals found in earth’s crust, including the gold and the uranium, were first created in some supernova aeons ago.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q14",
+      "questionNumber": 14,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements with reference to Very Low Earth Orbit (VLEO):",
+        "I. They are orbital altitudes below the International Space Station, typically between 150 km and 450 km above Earth.",
+        "II. Satellites in VLEO do not need propulsion systems as they experience negligible atmospheric drag compared to those in higher orbits.",
+        "III. NavIC satellites are placed in VLEO to provide more accurate and faster navigation signals over the Indian subcontinent.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to Very Low Earth Orbit (VLEO): I. They are orbital altitudes below the International Space Station, typically between 150 km and 450 km above Earth. II. Satellites in VLEO do not need propulsion systems as they experience negligible atmospheric drag compared to those in higher orbits. III. NavIC satellites are placed in VLEO to provide more accurate and faster navigation signals over the Indian subcontinent. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "I only",
+        "c": "III only",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Very Low Earth Orbit (VLEO) refers to orbital altitudes below traditional low Earth orbit, typically between about 150 km and 450 km above the Earth. VLEO is loosely defined as anything below the International Space Station (ISS) and down to an altitude of about 60 miles (100km).\nStatement II is incorrect: Satellites operating in the VLEO region can offer higher-resolution imaging, lower communication latency and reduced launch costs, but require advanced propulsion systems to counter atmospheric drag. Spacecraft at VLEO altitudes have to battle against the significantly greater drag from the air in the upper reaches of the atmosphere. Operating satellites in VLEO is difficult because of the influence of Earth's atmosphere. As molecules in the atmosphere smash into the satellite, they rob the vehicle of its momentum, causing the tug of Earth’s gravity to drag it towards the ground.\nStatement III is incorrect: The Indian Regional Navigation Satellite System (IRNSS) — also referred to with the operational name of Navigation with Indian Constellation (NavIC) — was planned to be a seven-satellite system (currently four operational satellites) to provide positioning data over the Indian subcontinent and 1500 km around it. NavIC satellites are placed in geostationary orbit (GEO) & geosynchronous orbit (GSO), and not in VLEO, with an altitude of about 36,000 km.\nKnowledge Base:\n- A satellite left in medium Earth orbit or above would carry on circling Earth for millennia. In VLEO, however, it would last barely months, weeks, or even days depending on its speed, shape and mass, dictating the amount of drag it produces and thus its lifetime. Once a satellite dips to an altitude of about 60 miles (100km), the end is imminent.\n- The intense friction created by the thicker atmosphere subjects the satellite to temperatures of thousands of degrees, ultimately tearing it apart.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q15",
+      "questionNumber": 15,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Which of the following statements are correct about Sodium-Ion Batteries and Lithium-Ion Batteries (LiB)?",
+        "I. Both Sodium-Ion Batteries and Lithium-Ion Batteries (LiB) are rechargeable batteries.",
+        "II. The energy density of Sodium Ion Batteries is higher compared to Lithium-Ion Batteries (LiB).",
+        "III. Unlike Lithium-Ion Batteries (LiB), Sodium-Ion Batteries cannot be used in electric vehicles.",
+        "IV. Sodium-Ion Batteries are generally cheaper compared to Lithium-Ion batteries.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements are correct about Sodium-Ion Batteries and Lithium-Ion Batteries (LiB)? I. Both Sodium-Ion Batteries and Lithium-Ion Batteries (LiB) are rechargeable batteries. II. The energy density of Sodium Ion Batteries is higher compared to Lithium-Ion Batteries (LiB). III. Unlike Lithium-Ion Batteries (LiB), Sodium-Ion Batteries cannot be used in electric vehicles. IV. Sodium-Ion Batteries are generally cheaper compared to Lithium-Ion batteries. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II, III and IV",
+        "c": "I and IV only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** In a recent breakthrough, scientists have successfully developed a sodium-ion battery capable of delivering both rapid charging and an extended lifespan.\nStatement I is correct: Both sodium-ion and lithium-ion batteries are rechargeable. Sodium-ion batteries (SIBs) are rechargeable energy storage devices that operate on the same principle as lithium-ion batteries, but use sodium ions (Na⁺) instead of lithium ions (Li⁺) as charge carriers.\nStatement II is incorrect: Sodium-Ion Batteries (NaB) have a lower energy density (around 100–160 Wh/kg) and are bulkier for the same storage capacity compared to Lithium-Ion Batteries (LiB) which provide a higher energy density (approximately 150–250 Wh/kg), making them more compact and efficient.\nStatement III is incorrect: Traditionally, Sodium-Ion Batteries have been more suitable for grid-scale storage and long-duration energy requirements. However, recent advancements like such as the development of a fast-charging, long-life Sodium-Ion Batteries by Indian scientists (capable of reaching 80% charge in about six minutes and enduring over 3,000 cycles) indicate that they are now emerging as promising candidates for future EV applications and use in electric vehicles.\nStatement IV is correct: Sodium-Ion Batteries (NaB) use abundant and domestically available materials such as sodium, iron, and manganese, which make them significantly cheaper compared to Lithium-Ion Batteries (LiB) which rely on scarce and largely imported resources like lithium, cobalt, and nickel, resulting in higher costs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q16",
+      "questionNumber": 16,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "The 'SAHAV' portal, which was recently seen in the news, is primarily related to which among the following?"
+      ],
+      "questionText": "The 'SAHAV' portal, which was recently seen in the news, is primarily related to which among the following?",
+      "options": {
+        "a": "A real-time digital portal facilitating access to oceanic related data and promoting evidence-driven ocean governance.",
+        "b": "A dedicated portal for the auctioning and licensing of offshore wind energy blocks in the Exclusive Economic Zone (EEZ).",
+        "c": "A regional data-sharing hub for BIMSTEC nations to coordinate disaster response and tsunami early warnings.",
+        "d": "An AI-driven marketplace connecting traditional fisherfolk directly with international export markets."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The ‘SAHAV’ portal is designed as an integrated digital platform to aggregate, standardize, and disseminate ocean-related data from multiple sources. It is developed to provide integrated access to ocean-related data, supporting scientific research, maritime planning, and evidence-based ocean governance. It aggregates diverse datasets to aid decision-making in the marine domain.Its primary objective is to support science-based decision making and transparent ocean management. The SAHAV (Sagar Haram-Vardhan) portal was launched by the Indian National Centre for Ocean Information Services (INCOIS), an autonomous body under the Ministry of Earth Sciences (MoES).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q17",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to the “Centre for Development of Telematics (C-DOT) Cell Broadcast System (CBS)”, which of the following statements is/are correct?",
+        "I. It is useful for disseminating emergency alerts such as natural disasters, public safety warnings, and critical government notifications.",
+        "II. The implementation of this system aligns with India’s commitment towards achieving Sustainable Development",
+        "Goal 11.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "With reference to the “Centre for Development of Telematics (C-DOT) Cell Broadcast System (CBS)”, which of the following statements is/are correct? I. It is useful for disseminating emergency alerts such as natural disasters, public safety warnings, and critical government notifications. II. The implementation of this system aligns with India’s commitment towards achieving Sustainable Development Goal 11. Select the correct answer using the code given below.",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Cell Broadcast System (CBS) is a one-to-many communication technology. Unlike a standard SMS (Short Message Service), which is point-to-point and can cause network congestion during emergencies, CBS sends a single message from a cell tower to mobile devices within its range simultaneously.\nStatement I is correct: CBS is specifically designed for emergency communication such as natural disasters, extreme weather alerts, and government advisories, enabling timely and wide-reaching alerts to the public.\nStatement II is correct: Sustainable Development Goal 11 focuses on making cities inclusive, safe, resilient, and sustainable. The deployment of CBS enhances disaster preparedness, risk reduction, and resilience in urban and rural areas, thereby aligning with the objectives of SDG 11.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q18",
+      "questionNumber": 18,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to the “Charge-Coupled Devices (CCDs)”, consider the following statements:",
+        "I. They are used in barcode scanners and digital cameras to convert optical images into electronic signals.",
+        "II. Unlike many smartphone sensors that scan line-by-line, CCDs generally capture the whole frame at once.",
+        "III. They are characterized by higher power consumption and slower data processing as compared to CMOS",
+        "(Complementary Metal-Oxide-Semiconductor) sensors.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the “Charge-Coupled Devices (CCDs)”, consider the following statements: I. They are used in barcode scanners and digital cameras to convert optical images into electronic signals. II. Unlike many smartphone sensors that scan line-by-line, CCDs generally capture the whole frame at once. III. They are characterized by higher power consumption and slower data processing as compared to CMOS (Complementary Metal-Oxide-Semiconductor) sensors. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: A Charge-Coupled Device (CCD) operates based on the photoelectric effect. Charge-Coupled Devices (CCDs) work by converting incident photons into electrical charges, which are then shifted across the chip and read out to form an image. The core mechanism of Charge-Coupled Devices (CCDs) is photoelectric conversion, where incident light is converted into electrical charge and then into electronic signals. They are widely used in digital imaging devices such as digital cameras, scanners, and certain barcode scanners for image capture.\nStatement II is correct: CCDs capture the entire frame at the exact same moment. This prevents \"jello effect\" or image distortion when capturing fast-moving objects. Most standard CMOS sensors used in smartphones scan the image line-by-line from top to bottom. If the camera or the subject moves quickly during this scan, the image can appear skewed or \"stretched.\"\n\nStatement III is correct: CCDs require a significant amount of power to \"clock\" or move the charges across the entire chip. They can consume up to 100 times more power than a CMOS sensor. As the data must be read out serially, they cannot achieve the high frame rates that CMOS sensors handle with ease. It involves sequential charge transfer, leading to relatively slower readout speeds compared to CMOS sensors. The design architecture of CCDs requires charge transfer across pixels, leading to higher power consumption and relatively slower readout speeds compared to CMOS sensors.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q19",
+      "questionNumber": 19,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "An AI system used by a logistics company is not limited to predicting delivery delays. Upon detecting a potential port congestion, the system automatically evaluates alternative routes, interacts with third-party vendors to negotiate transport slots, updates internal databases, and communicates directly with customers without requiring step-by- step human instructions.",
+        "Which of the following types of Artificial Intelligence (AI) is used by the Logistics Company above?"
+      ],
+      "questionText": "An AI system used by a logistics company is not limited to predicting delivery delays. Upon detecting a potential port congestion, the system automatically evaluates alternative routes, interacts with third-party vendors to negotiate transport slots, updates internal databases, and communicates directly with customers without requiring step-by- step human instructions. Which of the following types of Artificial Intelligence (AI) is used by the Logistics Company above?",
+      "options": {
+        "a": "Generative AI",
+        "b": "Agentic AI",
+        "c": "Predictive AI",
+        "d": "Reactive AI"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: Generative AI is designed to create new content—such as text, images, or code—based on patterns learned from training data.\nOption b is correct: Agentic AI system not only predicts outcomes but independently plans and executes a sequence of actions like route optimization, vendor communication, database updates, customer notifications etc.\nwithout continuous human intervention. This reflects Agentic AI systems capable of reasoning, tool use, and multi-step task execution aligned with a goal. Agentic AI systems can function as autonomous agents, unlike standard AI that simply provides an answer or a prediction.\nOption c is incorrect: Predictive AI uses historical data to forecast future events like there is an 80% chance of a port delay.\n\nOption d is incorrect: Reactive AI is the simplest form of AI; it responds to immediate stimuli based on predefined rules and lacks memory or the ability to use past experiences for decision-making.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q20",
+      "questionNumber": 20,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to Geo engineering technology, consider the following chemical agents:",
+        "I. Silver iodide",
+        "II. Potassium iodide",
+        "III. Solid CO₂",
+        "IV. Liquid propane",
+        "How many of the above given chemical agents are used for cloud seeding?"
+      ],
+      "questionText": "With reference to Geo engineering technology, consider the following chemical agents: I. Silver iodide II. Potassium iodide III. Solid CO₂ IV. Liquid propane How many of the above given chemical agents are used for cloud seeding?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Cloud seeding is a weather modification technique aimed at enhancing rainfall from existing clouds by dispersing substances that act as cloud condensation nuclei (CCN) or ice nuclei (IN). Cloud seeding is used to induce rainfall, reduce dust, suppress hailstorms, and improve air quality by helping airborne particulates settle.\nCommon seeding agents include silver iodide, potassium iodide, dry ice (solid CO₂), and liquid propane, which are released into the atmosphere using aircraft or rockets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q21",
+      "questionNumber": 21,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "With reference to “Software as a Service (SaaS)”, consider the following statements:",
+        "1. SaaS buyers can customise the user interface and can change data fields.",
+        "2. SaaS users can access their data through their mobile devices.",
+        "3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to “Software as a Service (SaaS)”, consider the following statements: 1. SaaS buyers can customise the user interface and can change data fields. 2. SaaS users can access their data through their mobile devices. 3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Software-as-a-Service (SaaS) is a software licensing model. It allows access to software on a subscription basis using external servers.\nStatement 1 is correct: Today’s web-based software is flexible enough to be modified for specific business uses but also for individual users. Buyers can customize the user interface (UI) to change the look and feel of the program, as well as modify specific areas, such as data fields, to alter what data appears. Several business process features can also be turned off and on at will.\nStatement 2 is correct: SaaS allows each user to access programs via the Internet. The user need not install the software on his/her computer. Thus users can access data through their mobile devices. SaaS allows users to access the software through a web browser from multiple locations. He or she can have remote desktop software and can work from home\n\nStatement 3 is correct: Outlook, Hotmail or Yahoo! Mail are forms of SaaS. With these services, a user log into their account over the Internet, often from a web browser. The email software is located on the service provider’s network and your messages are stored there as well. You can access your email and stored messages from a web browser on any computer or Internet-connected device",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q22",
+      "questionNumber": 22,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "The U-Win portal, recently seen in the news, is a:"
+      ],
+      "questionText": "The U-Win portal, recently seen in the news, is a:",
+      "options": {
+        "a": "Digital platform for the digitalization of all vaccination services provided under the Universal Immunization Programme.",
+        "b": "Comprehensive land records digital system combining services of Survey, Revenue and Registration departments under one portal.",
+        "c": "National Telemedicine Service of India to achieve Universal Health Coverage and a step towards digital health equity.",
+        "d": "Digital portal for ensuring a single window clearance system for space technology startups."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** U-WIN is a digital platform for the digitalization of all vaccination services provided under the Universal Immunization Programme (UIP) to ensure the timely administration of life-saving vaccines to pregnant women and children (from birth to 16 years) against 12 vaccine-preventable diseases.\nIndia’s Universal Immunization Programme (UIP) is a part of the Reproductive and Child Health (RCH) Program under National Health Mission (NHM).\nVaccination can be availed against 12 vaccine preventable diseases: nationally against 11 diseases-Diphtheria, Pertussis, Tetanus, Polio, Measles, Rubella, severe form of childhood Tuberculosis, Rotavirus Diarrhoea, Hepatitis B, Meningitis & Pneumonia caused by Hemophilus Influenza Type B and Pneumococcal Pneumonia and sub-nationally against 1 Disease-Japanese Encephalitis (JE vaccine is provided only in endemic districts).\nKnowledge Base:\n- Kerala Government launched ‘Ente Bhoomi’ integrated land information management system (ILIMS), the country’s first comprehensive land records digital system. The Ente Bhoomi portal combines the land related services of Survey, Revenue, Registration departments to offer a plethora of simplified services.\n- eSanjeevani-National Telemedicine Service of India is a step towards digital health equity to achieve\nUniversal Health Coverage (UHC). eSanjeevani facilitates quick and easy access to doctors and medical specialists from smartphones.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q23",
+      "questionNumber": 23,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the Gaganyaan Programme/Mission, consider the following statements:",
+        "I. Its objective is to demonstrate indigenous capability to undertake a human space flight mission to low Earth orbit.",
+        "II. Human-rated LVM3, a three-stage launch vehicle, will be utilized for the mission.",
+        "III. Wing Commander Shubhanshu Shukla and Group Captain Prasanth Balakrishnan Nair, the two of the astronaut- designates for the mission, were part of the Axiom-4 mission to the International Space Station.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Gaganyaan Programme/Mission, consider the following statements: I. Its objective is to demonstrate indigenous capability to undertake a human space flight mission to low Earth orbit. II. Human-rated LVM3, a three-stage launch vehicle, will be utilized for the mission. III. Wing Commander Shubhanshu Shukla and Group Captain Prasanth Balakrishnan Nair, the two of the astronaut- designates for the mission, were part of the Axiom-4 mission to the International Space Station. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. The Gaganyaan Programme envisages undertaking the demonstration of human spaceflight to Low Earth Orbit (LEO) in the short-term and will lay the foundation for a sustained Indian human space exploration programme in the long run. The objective of Gaganyaan programme is to demonstrate indigenous capability to undertake human space flight missions to LEO.\nStatement II is correct. LVM3 rocket, which is a heavy lift launcher of ISRO, is identified as the launch vehicle for the Gaganyaan mission. It consists of the solid stage, the liquid stage, and the cryogenic stage. All systems in the LVM3 launch vehicle are re-configured to meet human rating requirements and renamed as Human Rated LVM3. HLVM3 will be capable of launching the Orbital Module to an intended Low Earth Orbit of 400 km. The rocket's first stage is powered by a pair of S200 boosters using solid fuel; the second stage is powered by two Vikas engines using liquid fuel. The third stage is powered by a single CE20 cryogenic engine powered by liquid hydrogen and liquid oxygen.\nStatement III is correct: Wing Commander Shubhanshu Shukla, Group Captains Prasanth Balakrishnan Nair, Ajit Krishnan and Angad Pratap are selected as astronaut-designates for the mission.\nWing Commander Shubhanshu Shukla and Group Captains Prasanth Balakrishnan Nair participated in the Axiom-4 mission to the International Space Station, conducted by NASA and Axiom Space. Both of them trained at NASA facilities; for Axiom-4, Mr. Nair was part of the backup crew while Mr. Shukla served as the mission pilot",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q24",
+      "questionNumber": 24,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to photonic chips, consider the following statements:",
+        "I. They use light instead of electricity to process and transmit data.",
+        "II. They offer higher speed while consuming significantly less energy compared to electronic chips.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to photonic chips, consider the following statements: I. They use light instead of electricity to process and transmit data. II. They offer higher speed while consuming significantly less energy compared to electronic chips. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Photonic chips (also known as Integrated Photonics) represent a major shift in computing by using light particles (photons) instead of electrical current (electrons) to perform operations.\nStatement I is correct. While traditional electronic chips rely on the movement of electrons, photonic chips use light to process and transmit data. This involves integrating lasers, detectors, and optical fibers onto a single semiconductor platform.\nStatement II is correct. Because light travels at much higher speeds than electrical signals and encounters far less resistance, these chips offer superior processing speeds and significantly lower energy consumption compared to standard electronic chips.\nPhotonic chips consume substantially less power because photons do not interact with the material they travel through in the same way electrons do.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q25",
+      "questionNumber": 25,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The Keezhadi archaeological site is located on the banks of which river?"
+      ],
+      "questionText": "The Keezhadi archaeological site is located on the banks of which river?",
+      "options": {
+        "a": "Vaigai",
+        "b": "Periyar",
+        "c": "Bhima",
+        "d": "Thamiraparani"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Keezhadi is a significant archaeological site near Madurai, Tamil Nadu, located on the banks of the Vaigai River. It is regarded as a major urban settlement of the Sangam era, roughly dated between the 5th century BCE and the 3rd century CE. Keezhadi is considered one of the most remarkable archaeological discoveries in Tamil Nadu after the Adichanallur site. The findings at Keezhadi point to an urban, literate, and craft-based society, indicating that early urbanisation in South India evolved independently of North Indian influences.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q26",
+      "questionNumber": 26,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following:",
+        "I. Movies and shows on Netflix",
+        "II. Private Email Accounts",
+        "III. Content on Wikipedia",
+        "IV. Password-protected Medical Databases",
+        "How many of the above are considered part of the Deep Web?"
+      ],
+      "questionText": "Consider the following: I. Movies and shows on Netflix II. Private Email Accounts III. Content on Wikipedia IV. Password-protected Medical Databases How many of the above are considered part of the Deep Web?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Deep Web consists of all parts of the World Wide Web that are not indexed by standard search engines like Google or Bing. Anything that requires a password, login credentials, or a paywall to access is considered part of the Deep Web.\nOption I is correct. Movies and shows on Netflix are behind a subscription paywall. Search engines cannot crawl or index the actual video content for public access.\nOption II is correct. Private email accounts are protected by passwords and encryption; they are private and not searchable by the general public.\nOption III is incorrect. Content on Wikipedia is part of the surface web. It is publicly available, indexed by standard search engines like Google and Mozilla, and accessible via regular web browsers without special authorization.\nOption IV is correct. Sensitive information in medical, financial, or academic databases is password-protected and restricted to authorised users for security.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q27",
+      "questionNumber": 27,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "'National Space Day' is celebrated annually in India on August 23rd to commemorate which of the following significant achievements?"
+      ],
+      "questionText": "'National Space Day' is celebrated annually in India on August 23rd to commemorate which of the following significant achievements?",
+      "options": {
+        "a": "The successful launch of India's first indigenous satellite, Aryabhata, into orbit.",
+        "b": "The successful landing of Chandrayaan-3 on the Moon’s South Pole.",
+        "c": "The successful insertion of the Mars Orbiter Mission (Mangalyaan) into the Martian orbit.",
+        "d": "Rakesh Sharma became the first Indian citizen to travel Space on this day in 1984."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** ‘National Space Day’ (August 23) marks the successful soft landing of the Chandrayaan-3 mission’s Vikram Lander on the lunar surface On this day, India became the first nation to land a spacecraft near the lunar south pole also the fourth country in the world to successfully land a spacecraft on the Moon joining the US, Russia, and China. The first National Space Day was celebrated across India on 23 August in 2024.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q28",
+      "questionNumber": 28,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "What is the primary objective of the Sangam: Digital Twin initiative, recently launched by the Government of",
+        "India?"
+      ],
+      "questionText": "What is the primary objective of the Sangam: Digital Twin initiative, recently launched by the Government of India?",
+      "options": {
+        "a": "To establish a centralized digital database for storing government records and documents.",
+        "b": "To create high-resolution digital clones of historical monuments for virtual tourism and heritage preservation.",
+        "c": "To develop a national database of digital identities for the seamless delivery of tribal welfare schemes.",
+        "d": "To leverage a collaborative ecosystem for integrated infrastructure planning and smart city management using real-time data and AI."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Department of Telecommunications (DoT) has unveiled the 'Sangam: Digital Twin' initiative, an unparalleled venture inviting Expressions of Interest (EoI) from industry pioneers, startups, MSMEs, academia, innovators and forward-thinkers. Digital Twin technology offers a solution by creating virtual replicas of physical assets, allowing for real-time monitoring, simulation and analysis for experimental iterations and feedback loop to adapt to the changes for achieving the best outcomes. 'Sangam: Digital Twin' symbolizes a collaborative leap towards reshaping infrastructure planning and design, combining the prowess of 5G, IoT, AI, AR/VR, AI native 6G, Digital Twin and next-gen computational technologies with the collective intelligence of public entities, infrastructure planners, tech giants, startups, and academia to break the silos and engage in a whole-of-nation approach.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q29",
+      "questionNumber": 29,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to Non-Fungible Tokens (NFTs), consider the following statements:",
+        "1. They enable the digital representation of physical assets.",
+        "2. They are unique cryptographic tokens that exist on a blockchain.",
+        "3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Non-Fungible Tokens (NFTs), consider the following statements: 1. They enable the digital representation of physical assets. 2. They are unique cryptographic tokens that exist on a blockchain. 3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other.\nStatement 1 is correct. Anything that can be converted into a digital form can be an NFT. Everything from your drawings, photos, videos, GIF, music, in-game items, selfies, and even a tweet can be turned into an NFT, which can then be traded online using cryptocurrency. It is a unique digital asset that represents ownership of real-world items like art, video clips, music, and more.\nStatement 2 is correct. Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other.\nStatement 3 is incorrect. Unlike cryptocurrencies, they cannot be traded or exchanged at equivalency. This differs from fungible tokens like cryptocurrencies, which are identical to each other and, therefore, can serve as a medium for commercial transactions.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q30",
+      "questionNumber": 30,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The first ever “State of the World’s Animal Health Report” is released recently by-"
+      ],
+      "questionText": "The first ever “State of the World’s Animal Health Report” is released recently by-",
+      "options": {
+        "a": "World Organisation for Animal Health",
+        "b": "World Economic Forum",
+        "c": "World Health Organisation",
+        "d": "International Organization for Animal Protection"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The first ever “State of the World’s Animal Health Report” was released by the World Organisation for Animal Health (WOAH), an intergovernmental organization headquartered in Paris, France, dedicated to improving animal health globally. According to the report, infectious animal diseases are spreading to new regions and species, with nearly 47% of these diseases having the potential to transmit to humans.\nFurther, Climate change and the growth of global trade are recognized as key factors fuelling the spread of these diseases. The report also highlighted that by 2050, AMR is expected to cause significant livestock losses, threatening the food security of 2 billion people and resulting in an economic loss estimated at US$ 100 trillion.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q31",
+      "questionNumber": 31,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to Web 3.0, consider the following statements:",
+        "1. Web 3.0 technology enables people to control their own data.",
+        "2. In Web 3.0 world, there can be blockchain based social networks.",
+        "3. Web 3.0 is operated by users collectively rather than a corporation.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Web 3.0, consider the following statements: 1. Web 3.0 technology enables people to control their own data. 2. In Web 3.0 world, there can be blockchain based social networks. 3. Web 3.0 is operated by users collectively rather than a corporation. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Web 3.0 is an idea for a new iteration of the World Wide Web that incorporates concepts such as decentralization, blockchain technologies, and token-based economics.\nStatement 1 is correct: Web 3.0 technology enables people to control their own data and protect their privacy from exploitation and malicious use. Users can decide how their data is stored, shared, and monetized, without relying on third-party intermediaries or platforms that may misuse or sell their data without their consent.\nStatement 2 is correct: In Web 3.0 world, there can be blockchain-based social networks that reward users for content creation and distribution, and allow them to interact with each other without the need for a central authority. Users can participate in social media platforms that are built on blockchain technologies, which enable peer-to-peer transactions, smart contracts, and token-based incentives.\nStatement 3 is correct: Web 3.0 is operated by users collectively rather than a corporation, which reduces the risk of failures, outages, censorship, and de-platforming. Users can contribute to the development and maintenance of the web infrastructure and applications, without depending on a centralized entity or authority that may impose rules, fees, or restrictions.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q32",
+      "questionNumber": 32,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following space missions:",
+        "I. NISAR",
+        "II. XPoSat",
+        "III. AstroSat",
+        "How many of the space missions’ objectives are studying the emission of X-rays from celestial sources/objects?"
+      ],
+      "questionText": "Consider the following space missions: I. NISAR II. XPoSat III. AstroSat How many of the space missions’ objectives are studying the emission of X-rays from celestial sources/objects?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Option I is incorrect: NASA-ISRO Synthetic Aperture Radar (NISAR) is the first of its kind mission, jointly developed by the Indian Space Research Organisation (ISRO) and the National Aeronautics and Space Administration (NASA). It is an L and S-band, global, microwave imaging mission, with capability to acquire fully polarimetric and interferometric data. Its primary objectives are to study land & ice deformation, land ecosystems, and oceanic regions in areas of common interest to the US and Indian science communities.\nOption II is correct: X-ray Polarimeter Satellite (XPoSat) is India’s first dedicated polarimetry mission to study various dynamics of bright astronomical X-ray sources in extreme conditions. It is the first dedicated scientific satellite from ISRO to carry out research in space-based polarisation measurements of X-ray emission from celestial sources. It carries two payloads, namely POLIX (Polarimeter Instrument in X-rays) and XSPECT (X-ray Spectroscopy and Timing). XPoSat is only the second X-ray polarimetry mission in the world, after NASA’s Imaging X-ray Polarimetry Explorer (IXPE) launched in 2021.\nOption III is correct: AstroSat is the first dedicated Indian astronomy mission aimed at studying celestial sources in X-ray, optical and UV spectral bands simultaneously. The payloads cover the energy bands of Ultraviolet (Near and Far), limited optical and X-ray regime (0.3 keV to 100keV). One of the unique features of the mission is that it enables the simultaneous multi-wavelength observations of various astronomical objects with a single satellite. Thus, AstroSat will focus on some of the most energetic phenomenon in the universe by observing the ultraviolet and X-ray emissions from celestial objects.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements with respect to antimatter:",
+        "I. Presently in the Universe there is an equal amount of matter and anti matter.",
+        "II. It doesnot have any mass.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to antimatter: I. Presently in the Universe there is an equal amount of matter and anti matter. II. It doesnot have any mass. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect: The Big Bang should have created equal amounts of matter and antimatter. But when we look around, we see a universe filled with matter while antimatter is almost nowhere to be found. Scientists believe the reason behind it may be the subtle differences in how matter and antimatter behave, especially something called CP violation. CP stands for charge conjugation (C) and parity (P). Charge conjugation means swapping a particle for its antiparticle (which has the opposite electric charge) and parity means flipping left and right, like looking in a mirror.\nCP violation is crucial because it’s one of the conditions necessary for a universe to end up with more matter than antimatter.\n\nStatement II is incorrect: According to the Standard Model of Particle Physics, each fundamental particle has a corresponding antiparticle with the same mass but opposite charge. Thus, antimatter has mass.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q34",
+      "questionNumber": 34,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "‘Virgo’, ‘KAGRA’ and ‘GEO600’, recently seen in news, are:"
+      ],
+      "questionText": "‘Virgo’, ‘KAGRA’ and ‘GEO600’, recently seen in news, are:",
+      "options": {
+        "a": "Space telescopes to detect exoplanets.",
+        "b": "Gravitational wave observatories.",
+        "c": "Satellite navigation systems.",
+        "d": "Space debris removal robots."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The ‘Virgo’, ‘KAGRA’, and ‘GEO600’ refer to international gravitational wave observatories that work together to detect ripples in the fabric of space-time. These ripples, first predicted by Albert Einstein, are caused by massive cosmic events like the merger of two black holes or the collision of neutron stars. These facilities use high-precision lasers to measure extremely tiny vibrations produced when gravitational waves pass through the Earth. Virgo is located in Italy, KAGRA is Japan’s underground cryogenic detector, and GEO600 is based in Germany.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q35",
+      "questionNumber": 35,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "The Performance Grading Index (PGI), launched recently, aims to assess the performance in which of the following areas?"
+      ],
+      "questionText": "The Performance Grading Index (PGI), launched recently, aims to assess the performance in which of the following areas?",
+      "options": {
+        "a": "Learning outcomes and quality of school education across India",
+        "b": "The corporate companies progress in adopting green and sustainable practices",
+        "c": "Progress towards making villages Open Defecation Free (ODF)",
+        "d": "State-wise assessment of performance in achieving all Sustainable Development Goals (SDGs)."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Performance Grading Index (PGI) 2.0 is an assessment framework that evaluates school education performance across States and Union Territories (UTs) on a 1,000-point scale. It uses 73 indicators, organized into 2 categories and 6 domains, to comprehensively measure education quality, access, equity, and governance. The index aims to facilitate data-driven policymaking, encourage evidence-based interventions, and motivate States/UTs to enhance learning outcomes and school environments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q36",
+      "questionNumber": 36,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Terms Description",
+        "I. Cepheids Stars that brighten and dim periodically",
+        "II. Blazars Massive stars which rotate at a very high speed and emit periodic radio flashes.",
+        "III. Magnetars Neutron stars with extremely strong magnetic fields.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Terms Description I. Cepheids Stars that brighten and dim periodically II. Blazars Massive stars which rotate at a very high speed and emit periodic radio flashes. III. Magnetars Neutron stars with extremely strong magnetic fields. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Pair I is correctly matched: Cepheids, also called Cepheid Variables, are stars which brigthen and dim periodically. This behavior allows them to be used as cosmic yardsticks out to distances of a few tens of millions of light-years. The brighter the Cepheid, the longer its period. In fact, Cepheids are very special variable stars because their period (the time they take to brighten, dim and brighten again) is regular (that is, does not change with time), and a uniform function of their brightness. That is, there is relation between the period and brightness such that once the period is known, the brightness can be inferred.\nPair II is incorrectly matched: Quasars and blazars are both extremely luminous active galactic nuclei (AGN) powered by supermassive black holes at the centers of distant galaxies. They are intrinsically similar, but blazars are distinguished by having the jets pointed at Earth, causing intense variability and brightness amplification.\nMassive stars which rotate at a very high speed and emit periodic radio flashes is a description of Pulsars. Pair III is correctly matched: Magnetars are neutron stars with extremely strong magnetic fields.\nSometimes they release large bursts of energy in flares.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q37",
+      "questionNumber": 37,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following statements regarding the Sun:",
+        "I. The Sun exhibits differential rotation, where its equator rotates faster than its poles.",
+        "II. The Sun’s magnetic poles flip at an interval of around 11 years.",
+        "III. The Sun’s outer atmosphere, or corona, is much hotter than its surface i.e. photosphere.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Sun: I. The Sun exhibits differential rotation, where its equator rotates faster than its poles. II. The Sun’s magnetic poles flip at an interval of around 11 years. III. The Sun’s outer atmosphere, or corona, is much hotter than its surface i.e. photosphere. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. Because the Sun is a ball of plasma rather than a solid object, it exhibits differential rotation. Its equator rotates faster, taking about 25 days to complete a turn, while the poles take approximately 35 days.\nStatement II is correct. The Sun operates on a 11-year solar cycle driven by its magnetic field. The solar cycle is a natural cycle the Sun goes through as it transitions between low and high magnetic activity. Roughly every 11 years, at the height of the solar cycle, the Sun’s magnetic poles flip — on Earth, that’d be like the North and South poles swapping places every decade\n\nStatement III is correct. In a phenomenon known as the \"coronal heating problem,\" the Sun’s outer atmosphere, the corona, is significantly hotter than its visible surface, the photosphere. While the photosphere is roughly 5,500°C, the corona reaches temperatures of over one million degrees Celsius.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q38",
+      "questionNumber": 38,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "In the context of 5G telecommunications, a technique that allows a single physical network to be partitioned into multiple virtual networks, each tailored for specific applications such as IoT, autonomous vehicles, or high-speed broadband, is best described as:"
+      ],
+      "questionText": "In the context of 5G telecommunications, a technique that allows a single physical network to be partitioned into multiple virtual networks, each tailored for specific applications such as IoT, autonomous vehicles, or high-speed broadband, is best described as:",
+      "options": {
+        "a": "Network Slicing",
+        "b": "Service differentiation",
+        "c": "Network Function Virtualization (NFV)",
+        "d": "Edge Computing"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** In 5G, network slicing enables a single physical network infrastructure to be divided into multiple virtual “slices,” each optimized for specific requirements like low latency (autonomous vehicles), massive connectivity (IoT), or high bandwidth (broadband). Network slicing is a fundamental architecture of 5G that enables a single physical infrastructure to be divided into multiple, isolated logical networks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q39",
+      "questionNumber": 39,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "The term Cosmic inflation sometimes seen in the news, refers to:"
+      ],
+      "questionText": "The term Cosmic inflation sometimes seen in the news, refers to:",
+      "options": {
+        "a": "The gradual cooling of the universe as it expands over billions of years.",
+        "b": "The brief time period when the universe expanded faster than the speed of light.",
+        "c": "The process by which massive stars collapse into black holes.",
+        "d": "The thread-like structures that stretch across hundreds of millions of light-years in the univers"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Cosmic Inflation refers to a theory in cosmology describing an extremely brief period of exponential expansion in the very early universe. Within a tiny fraction of a second after the Big Bang (approximately 10−36 seconds), the universe expanded by a massive factor, growing faster than the speed of light.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q40",
+      "questionNumber": 40,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following countries:",
+        "I. Azerbaijan",
+        "II. Uzbekistan",
+        "III. Turkmenistan",
+        "IV. Kazakhstan",
+        "V. Armenia",
+        "VI. Iran",
+        "How many of the above countries have a border with the Caspian Sea?"
+      ],
+      "questionText": "Consider the following countries: I. Azerbaijan II. Uzbekistan III. Turkmenistan IV. Kazakhstan V. Armenia VI. Iran How many of the above countries have a border with the Caspian Sea?",
+      "options": {
+        "a": "Only three",
+        "b": "Only four",
+        "c": "Only five",
+        "d": "All the six"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Options I, III, IV, and VI are correct: The Caspian Sea is bordered by five countries: Russia, Kazakhstan, Turkmenistan, Iran, and Azerbaijan.\nOption II is incorrect: Uzbekistan is a doubly landlocked country in Central Asia and does not border the Caspian Sea. Option V is incorrect: Armenia is a landlocked country in the South Caucasus and does not have a coastline on the Caspian Sea.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q41",
+      "questionNumber": 41,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "In India, the term “Public Key Infrastructure” is used in the context of:"
+      ],
+      "questionText": "In India, the term “Public Key Infrastructure” is used in the context of:",
+      "options": {
+        "a": "Digital security infrastructure",
+        "b": "Food security infrastructure",
+        "c": "Health care and education infrastructure",
+        "d": "Telecommunication and transportation Infrastructure"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The term “Public Key Infrastructure” is used in the context of digital security infrastructure. Public Key Infrastructure is a technology for authenticating users and devices in the digital world. It is the framework of encryption and cybersecurity that protects communications between the server and the client. In India, the Public Key Infrastructure comprises the Controller of Certifying Authorities (CCA) and the Certifying Authorities (CAs), with CCA being at the root of the trust chain in India. CCA certifies the CA Public Keys and issues certificates.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2020,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2020"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q42",
+      "questionNumber": 42,
+      "subject": "Science & Technology",
+      "sectionGroup": "Space & Defence Technology",
+      "microTopic": "Space",
+      "statementLines": [
+        "Consider the following statements:",
+        "Ultrasonic waves can be used:",
+        "I. for the detection of brain tumours in humans.",
+        "II. to detect cracks and flaws in metal blocks.",
+        "III. for measuring the speed of objects in vacuum.",
+        "IV. for finding underwater objects.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: Ultrasonic waves can be used: I. for the detection of brain tumours in humans. II. to detect cracks and flaws in metal blocks. III. for measuring the speed of objects in vacuum. IV. for finding underwater objects. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and IV only",
+        "c": "III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Frequencies higher than 20 kHz are called ultrasonic sound or ultrasound. Ultrasounds are high frequency waves.\nUltrasounds are able to travel along well-defined paths even in the presence of obstacles. Ultrasounds are used extensively in industries and for medical purposes.\nOption I is correct. Engineers have developed techniques to use ultrasound waves to scan the human body for medical diagnostic purposes. For example, Ultrasonic waves are made to reflect from various parts of the heart and form the image of the heart. This technique is called ‘echocardiography’.\nUltrasound scanner is an instrument which uses ultrasonic waves for getting images of internal organs of the human body. Echoencephalography is used to detect brain tumours. In this process, ultrasound pulses are sent in the skull slightly above the ear and echoes from the left side of the head are compared with those from the right side.\nAlso, Ultrasound may be employed to break small stones formed in the kidneys into fine grains. These grains later get flushed out with urine.\nOption II is correct. Ultrasounds can be used to detect cracks and flaws in metal blocks. Ultrasonic waves are allowed to pass through the metal block and detectors are used to detect the transmitted waves. If there is even a small defect, the ultrasound gets reflected back indicating the presence of the flaw or defect.\nOption III is incorrect. The ultrasonic waves cannot travel through a vacuum. So, they cannot be used for measuring the speed of objects in vacuum. The sound wave (in fact, any mechanical wave) cannot travel through a vacuum because the presence of a material medium (air or any other media) is necessary as Sound is a mechanical wave.\nOption IV is correct. Sound Navigation And Ranging (SONAR ) is a device that uses ultrasonic waves to measure the distance, direction and speed of underwater objects. Sonar consists of a transmitter and a detector and is installed in a ship. The transmitter produces and transmits ultrasonic waves. The distance of the object that reflected the sound wave can be calculated by knowing the speed of sound in water and the time interval between transmission and reception of the ultrasound.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?iesc1=11-12 Page: 136 https://www.egyankosh.ac.in/bitstream/123456789/64140/1/Unit-4.pdf Page: 58 https://www.nios.ac.in/media/documents/SrSec312NEW/312_Physics_Eng/312_Physics_Eng_Lesson14.pdf Page: 402 https://egyankosh.ac.in/bitstream/123456789/29622/1/Unit-3.pdf Page: 68"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which of the following best describes the term 'WhiteFi' sometimes seen in the news?"
+      ],
+      "questionText": "Which of the following best describes the term 'WhiteFi' sometimes seen in the news?",
+      "options": {
+        "a": "A high speed fiber-optic technology that uses white light for fast data transmission.",
+        "b": "A wireless technology that utilizes unused television spectrum for wireless broadband.",
+        "c": "A satellite based communication system for global internet coverage.",
+        "d": "A short-range optical networking technology that uses LED bulbs to transmit data."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** ‘WhiteFi’ refers to wireless broadband technology that operates in unused spectrum bands of television broadcasting (TV white spaces). Thus, White-Fi will use this vacant spectrum to provide connectivity. It helps in enabling long-range and cost-effective internet access, especially in rural areas. WhiteFi is particularly useful for rural connectivity and \"last-mile\" internet delivery in developing regions where laying fiber-optic cables is too expensive.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q44",
+      "questionNumber": 44,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following actions:",
+        "I. Automatic screen rotation and gesture control in smartphones.",
+        "II. Image stabilization in digital cameras.",
+        "III. Navigation and stability control in vehicles.",
+        "IV. Enhancing the stability of self-balancing personal transporters.",
+        "In",
+        "how many of the above actions is the function of gyroscope required?"
+      ],
+      "questionText": "Consider the following actions: I. Automatic screen rotation and gesture control in smartphones. II. Image stabilization in digital cameras. III. Navigation and stability control in vehicles. IV. Enhancing the stability of self-balancing personal transporters. In how many of the above actions is the function of gyroscope required?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** A gyroscope is a device used for measuring or maintaining orientation and angular velocity. Unlike an accelerometer, which measures linear acceleration (movement in a straight line), a gyroscope measures rotational motion (tilt, roll, pitch, and yaw).\nOption I is correct: Automatic screen rotation and gesture control in smartphones: Gyroscopes measure angular velocity and help determine device orientation, enabling features like automatic screen rotation and gesture-based controls in smartphones.\nOption II is correct: Image stabilization in digital cameras: Gyroscopes detect unwanted angular movement (shake) in cameras, allowing image stabilization systems to compensate and produce clearer images. Tiny gyroscopes detect the high-frequency vibrations and \"jitters\" from a photographer's hands. This data is sent to a processor that shifts the lens elements or the image sensor in the opposite direction to counteract the blur, resulting in sharp photos and smooth video.\nOption III is correct: Navigation and stability control in vehicles: Electronic Stability Control (ESC) and navigation systems in modern cars rely on gyroscopes. Gyroscopes detect if a car is rotating around its vertical axis (skidding or spinning out). The system then applies brakes to individual wheels to bring the car back on its intended path.\nOption IV is correct: Stability of self-balancing personal transporters: Self-balancing transporters (e.g., Segways) rely on gyroscopes to continuously monitor tilt and maintain stability through real-time adjustments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q45",
+      "questionNumber": 45,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The \"Port of Haifa,\" recently in the news for its role in the India-Middle East-Europe Economic Corridor (IMEC), is located in:"
+      ],
+      "questionText": "The \"Port of Haifa,\" recently in the news for its role in the India-Middle East-Europe Economic Corridor (IMEC), is located in:",
+      "options": {
+        "a": "Iran",
+        "b": "Israel",
+        "c": "Jordan",
+        "d": "Qatar"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Port of Haifa is a natural deep-water harbor located in Israel on the Mediterranean Sea. It is a strategic gateway for trade with Europe and North America. Notably, an Indian company (Adani) holds a 70% stake in the port. It is designated as a key hub for the proposed IMEC corridor.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q46",
+      "questionNumber": 46,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 Excessive screen time can cause significant harm, particularly to young people. Risks such as exposure to harmful content, cyberbullying, and online harassment are well documented, along with issues related to disrupted sleep patterns and difficulties in emotional regulation. However, in India—where deep social and economic inequalities persist—the internet, including social media platforms, has also served as a vital bridge to educational resources for many children who might otherwise lack access to them. Completely banning these platforms due to their potential harms would cut off this access and could further widen existing inequalities. A more balanced approach would involve implementing graded restrictions, ensuring that children are protected from online risks while still being able to use these platforms for learning, development, and meaningful engagement.",
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. The growth of Internet connectivity has been instrumental in expanding access to education.",
+        "II. Due to lower digital literacy compared to younger individuals, the elderly are shielded from the impacts of increasing screen time.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 Excessive screen time can cause significant harm, particularly to young people. Risks such as exposure to harmful content, cyberbullying, and online harassment are well documented, along with issues related to disrupted sleep patterns and difficulties in emotional regulation. However, in India—where deep social and economic inequalities persist—the internet, including social media platforms, has also served as a vital bridge to educational resources for many children who might otherwise lack access to them. Completely banning these platforms due to their potential harms would cut off this access and could further widen existing inequalities. A more balanced approach would involve implementing graded restrictions, ensuring that children are protected from online risks while still being able to use these platforms for learning, development, and meaningful engagement. With reference to the above passage, the following assumptions have been made: I. The growth of Internet connectivity has been instrumental in expanding access to education. II. Due to lower digital literacy compared to younger individuals, the elderly are shielded from the impacts of increasing screen time. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Statement I is valid. The passage states “the internet, including social media platforms, has also served as a vital bridge to educational resources for many children who might otherwise lack access to them.” Therefore, we can conclude that assumption made in statement I is valid.\nStatement II is invalid. While the passage states that “Excessive screen time can cause significant harm, particularly to young people”, it does not discuss anything about the impacts of excessive screen time on the elderly. Therefore, the assumption is outside the scope of the passage and thus invalid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q47",
+      "questionNumber": 47,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which one of the following statements best reflects the critical message conveyed by the author of the passage?"
+      ],
+      "questionText": "Which one of the following statements best reflects the critical message conveyed by the author of the passage?",
+      "options": {
+        "a": "Prohibiting children from using social media and the Internet is not a practical solution for reducing screen time.",
+        "b": "Increasing screen time can harm not only children’s physical health but also their mental well-being.",
+        "c": "Regulating children’s use of online platforms can safeguard their well-being while maintaining access to meaningful content.",
+        "d": "While the Internet enhances access to educational resources, it can also negatively impact children’s health."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage highlights this idea, statement a does not best reflect the critical message conveyed by the author of the passage because it does not mention what is the alternative approach to manage excessive screen time among children.\nStatement b is incorrect. The passage states “Risks such as exposure to harmful content, cyberbullying, and online harassment are well documented, along with issues related to disrupted sleep patterns and difficulties in emotional regulation.” However, statement b does not best reflect the critical message conveyed by the author of the passage as it narrowly focuses only upon the impacts of increasing screen time.\nStatement c is correct. It best reflects the critical message conveyed by the author of the passage as it provides the crux of the passage. It is mentioned in the passage as “A more balanced approach would involve implementing graded restrictions, ensuring that children are protected from online risks while still being able to use these platforms for learning, development, and meaningful engagement.” Statement d is incorrect. The passage mentions that children’s use of the Internet has both pros and cons. However, statement b does not best reflect the critical message of the passage, as it does not indicate how to minimize the cons while maximizing the pros.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q48",
+      "questionNumber": 48,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "What percent of water must be mixed with pure milk so as to gain 15% by selling the mixture at an 8% discount on the cost price of pure milk?"
+      ],
+      "questionText": "What percent of water must be mixed with pure milk so as to gain 15% by selling the mixture at an 8% discount on the cost price of pure milk?",
+      "options": {
+        "a": "25%",
+        "b": "20%",
+        "c": "15%",
+        "d": "12%"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Let the cost price of 1 litre of pure milk be ₹100. Since the mixture is sold at an 8% discount on the cost price of pure milk, the selling price of 1 litre of mixture is:\n₹100 − 8% of ₹100 = ₹92 The seller earns a 15% profit on the mixture. So: Selling Price = Cost Price of mixture × 1.15 That is: 92 = CP of mixture × 1.15 So: CP of mixture = 92 / 1.15 = ₹80 Find how much milk is present in 1 litre of mixture Water is free, so the entire ₹80 cost comes only from milk.\nIf 1 litre of pure milk costs ₹100, then ₹80 worth of milk means: Milk = 80 / 100 = 0.8 litre So in 1 litre of mixture: I. Milk = 0.8 litre II. Water = 0.2 litre Find percentage of water mixed with milk Ratio of water to milk:\n0.2 : 0.8 = 1 : 4 So water mixed with milk is: (1 / 4) × 100 = 25%",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q49",
+      "questionNumber": 49,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "151 and 247, when divided by the same integer, leave the same remainder",
+        "7. How many integers can be used as the divisor in order to get the same remainder 7?"
+      ],
+      "questionText": "151 and 247, when divided by the same integer, leave the same remainder 7. How many integers can be used as the divisor in order to get the same remainder 7?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "7"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** If a number leaves remainder 7 when divided by a divisor, then after subtracting 7, the result must be exactly divisible by that divisor.\nSo: 151 − 7 = 144 247 − 7 = 240 Therefore, the required divisor must divide both 144 and 240. Find the common divisors The divisor must be a common factor of 144 and 240.\nPrime factorizations: 144 = 2⁴ × 3² 240 = 2⁴ × 3 × 5 So the HCF is: HCF = 2⁴ × 3 = 48 Hence, every valid divisor must be a factor of 48. List the factors of 48 The factors of 48 are: 1, 2, 3, 4, 6, 8, 12, 16, 24, 48 In division, the divisor must always be strictly greater than the remainder.\nHere the remainder is 7, so the divisor must satisfy: divisor > 7 From the factor list, the values greater than 7 are: 8, 12, 16, 24, 48 So the number of valid divisors is: 5",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test15-q50",
+      "questionNumber": 50,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "If SILVER is coded as 193459 and COPPER is coded as 367759, then how is BRONZE coded?"
+      ],
+      "questionText": "If SILVER is coded as 193459 and COPPER is coded as 367759, then how is BRONZE coded?",
+      "options": {
+        "a": "196585",
+        "b": "286585",
+        "c": "296585",
+        "d": "296595"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The code is formed by taking the alphabet position of each letter and then adding its digits to get a single digit.\nCheck with SILVER S = 19 → 1 + 9 = 10 → 1 I = 9 → 9 L = 12 → 1 + 2 = 3 V = 22 → 2 + 2 = 4 E = 5 → 5 R = 18 → 1 + 8 = 9 So: SILVER = 193459 COPPER C = 3 → 3 O = 15 → 1 + 5 = 6 P = 16 → 1 + 6 = 7 P = 16 → 7 E = 5 → 5 R = 18 → 1 + 8 = 9 So: COPPER = 367759 Now code BRONZE B = 2 → 2 R = 18 → 1 + 8 = 9 O = 15 → 1 + 5 = 6 N = 14 → 1 + 4 = 5 Z = 26 → 2 + 6 = 8 E = 5 → 5 So: BRONZE = 296585",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

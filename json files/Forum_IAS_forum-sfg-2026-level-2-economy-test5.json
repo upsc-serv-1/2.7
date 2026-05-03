@@ -1,0 +1,1800 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test5",
+  "title": "Test 5- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following airports:",
+        "1. Donyi Polo Airport",
+        "2. Kushinagar International Airport",
+        "3. Vijayawada International Airport In the recent past, which of the above have been constructed as Greenfield project?"
+      ],
+      "questionText": "Consider the following airports: 1. Donyi Polo Airport 2. Kushinagar International Airport 3. Vijayawada International Airport In the recent past, which of the above have been constructed as Greenfield project?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Since 2019, 6 Greenfield airports namely, Kalaburagi, Orvakal (Kurnool) (project cost Rs. 187 crore), Sindhudurg, Itanagar, Kushinagar and Mopa have been operationalised, out of which Kushinagar and Mopa airports are International airports.\nOption 1 is correct. Donyi Polo Airport, Itanagar is the first greenfield airport in Arunachal Pradesh, has been developed in an area of over 690 acres.\nOption 2 is correct. Kushinagar International Airport, is a greenfield airport. Option 3 is incorrect. Vijayawada International airport is not a greenfield project.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Micro, Small, and Medium Enterprises (MSMEs) Sector, consider the following statements:",
+        "I. Globally, MSMEs are responsible for over 50 per cent of the total global employment.",
+        "II. In India, MSMEs are the second-largest employer after agriculture",
+        "III. In India, MSMEs contribute to over 45% of the country's exports.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Micro, Small, and Medium Enterprises (MSMEs) Sector, consider the following statements: I. Globally, MSMEs are responsible for over 50 per cent of the total global employment. II. In India, MSMEs are the second-largest employer after agriculture III. In India, MSMEs contribute to over 45% of the country's exports. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and III",
+        "c": "I and III only",
+        "d": "II and III only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Globally, Micro, Small, and Medium Enterprises (MSMEs) make up about 90 per cent of businesses and are responsible for over 50 per cent of the total global employment.\nStatement II is correct: In India, with over 7.47 crore enterprises employing over 32.82 crore persons, the Micro, Small, and Medium Enterprises (MSMEs) sector holds its position as the second-largest employer after agriculture\n\nStatement III is correct: Micro, Small, and Medium Enterprises (MSMEs) form the backbone of India’s industrial economy, accounting for approximately 35.4 per cent of manufacturing, around 48.58 per cent of exports, and 31.1 per cent of GDP in the country.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "The Backward Value Added in Exports (BVAX) ratio measures:"
+      ],
+      "questionText": "The Backward Value Added in Exports (BVAX) ratio measures:",
+      "options": {
+        "a": "The share of exported components in gross import.",
+        "b": "The share of total domestic value added in gross exports.",
+        "c": "The share of foreign value added in gross exports.",
+        "d": "The share of total value of agricultural raw materials in gross exports."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Backward participation in global value chains (GVCs), commonly measured through the Backward Value Added in Exports (BVAX) ratio, indicates the extent to which a country’s exports rely on imported intermediate inputs. In other words, the BVAX ratio represents the share of foreign value added embodied in a country’s gross exports.\nFollowing trade liberalisation in the 1990s, India witnessed a significant rise in backward GVC integration. The BVAX ratio increased from 10.7 per cent in 1995 to 25.5 per cent in 2012, reflecting greater use of imported inputs in export production. However, it moderated to 17.2 per cent by 2020.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which of the following statements best describes the term 'servicification' in the manufacturing sector?"
+      ],
+      "questionText": "Which of the following statements best describes the term 'servicification' in the manufacturing sector?",
+      "options": {
+        "a": "The process of replacing manual labor in production lines with automated robotic services.",
+        "b": "The increasing utilization of services in manufacturing production and post-production value addition.",
+        "c": "The gradual replacement of the traditional manufacturing activities by the service sector.",
+        "d": "The outsourcing of the core manufacturing activities to the foreign countries."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The servicification of manufacturing means that the manufacturing sector is increasingly relying on services, whether as inputs, as activities within firms or as output sold bundled with goods. Manufacturing increasingly relies on services as inputs (such as R&D, logistics, finance, design and IT), and as outputs bundled with goods (such as maintenance, software support, and after-sales services).\nThe phenomenon is closely linked to global value chains (GVCs), as services such as transport, communication, coordination, and financial intermediation enable the functioning and fragmentation of production across countries.\nAn important dimension of servicification is the expansion of in-house service activities within manufacturing firms. These functions qualify as services because, if outsourced, they would be classified under service industries.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to India’s steel sector, consider the following statements:",
+        "Statement I: India is the world's second-largest producer of crude steel.",
+        "Statement II: India is self-sufficient in iron ore and coking coal, which are primary raw materials used in crude steel production.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to India’s steel sector, consider the following statements: Statement I: India is the world's second-largest producer of crude steel. Statement II: India is self-sufficient in iron ore and coking coal, which are primary raw materials used in crude steel production. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**Statement I is correct: The steel sector serves as the backbone of industrialisation and infrastructure, securing India’s position as the world's second-largest crude steel producer with 152 Million Tonne of steel production in**2024-25**.\nStatement II is incorrect: The three basic materials used steel making are iron ore, limestone and coke coal. While India is largely self-sufficient in iron ore, it remains heavily dependent on imports of coking coal. Therefore, India cannot be considered self-sufficient in both iron ore and coking coal.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following ports:",
+        "I. Jawaharlal Nehru Port, Maharashtra II.",
+        "V. O. Chidambaranar Port, Tamil Nadu",
+        "III. Vizhinjam International Seaport, Kerala Presently, which of the above is/are deepwater Container Transhipment Port in India?"
+      ],
+      "questionText": "Consider the following ports: I. Jawaharlal Nehru Port, Maharashtra II. V. O. Chidambaranar Port, Tamil Nadu III. Vizhinjam International Seaport, Kerala Presently, which of the above is/are deepwater Container Transhipment Port in India?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option III is correct: Vizhinjam International Seaport in Kerala, is India's first dedicated deepwater container transhipment hub. Vizhinjam Port is a strategic maritime project near Thiruvananthapuram in Kerala. This is the first Greenfield port project in India, initiated by a state Government. Developed under the Public Private Partnership (PPP) mode, it stands as one of the largest initiatives in the country's port sector. Vizhinjam's strategic location near international shipping routes significantly reduces transit times for vessels, making it a pivotal point for maritime trade. As one of India's few natural deep-water ports, it can efficiently accommodate large cargo and container ships.\nOptions I and II are incorrect: Neither the Jawaharlal Nehru Port nor the V. O. Chidambaranar Port presently is a deepwater container transhipment port in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the ‘Orange Economy’, recently seen in the news, consider the following activities:",
+        "I. Animation and Visual Effects (VFX)",
+        "II. Traditional tribal crafts and handloom",
+        "III. Poultry processing through automation",
+        "IV. Live Music Concerts",
+        "Which of the above activities are considered as part of the Orange Economy?"
+      ],
+      "questionText": "With reference to the ‘Orange Economy’, recently seen in the news, consider the following activities: I. Animation and Visual Effects (VFX) II. Traditional tribal crafts and handloom III. Poultry processing through automation IV. Live Music Concerts Which of the above activities are considered as part of the Orange Economy?",
+      "options": {
+        "a": "I, II and IV only",
+        "b": "I and IV only",
+        "c": "II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Orange Economy refers to economic activities based on creativity, culture, and intellectual property. It includes sectors where the main value comes from ideas, artistic expression, cultural heritage, and creative content, such as media, design, music, films, crafts, and digital creative industries.\nStatement I is correct. Animation and Visual Effects (VFX) is part of the Orange Economy because it is a creative industry.\n\nStatement II is correct. Traditional tribal crafts and handloom are also part of the Orange Economy as they represent cultural heritage and artistic craftsmanship.\nStatement III is incorrect. Poultry processing through automation is not part of the Orange Economy. It belongs to the agriculture and food-processing sector, where value is created mainly through industrial processing and production technology rather than cultural or creative content.\nStatement IV is correct. Live Music Concerts are included in the Orange Economy because they belong to the creative and entertainment industries.\nKnowledge Base: Poultry processing is a key component of India's \"Pink Revolution,\" which focuses on the modernization, mechanization, and technological advancement of the meat and poultry processing industry.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the Anusandhan National Research Foundation (ANRF), consider the following statements:",
+        "I. It is a statutory body.",
+        "II. It acts as an apex body to provide high-level strategic direction of scientific research in the country as per recommendations of the National Education Policy.",
+        "III. Research, Development and Innovation Fund (RDIF) is a Special Purpose Fund under ANRF",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Anusandhan National Research Foundation (ANRF), consider the following statements: I. It is a statutory body. II. It acts as an apex body to provide high-level strategic direction of scientific research in the country as per recommendations of the National Education Policy. III. Research, Development and Innovation Fund (RDIF) is a Special Purpose Fund under ANRF Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. The Anusandhan National Research Foundation (ANRF) is a statutory body, established through an Act of Parliament, the ANRF Act, 2023.\nStatement II is correct. ANRF functions as the apex strategic institution for guiding scientific research, innovation funding, and ecosystem coordination in India acting in accordance with the recommendations of the National Education Policy (NEP) 2020. It supports academia, industry, and research institutions through grants, mission-mode programmes, and technology translation initiatives\n\nStatement III is correct: Research, Development and Innovation Fund (RDIF) is a flagship initiative under the Department of Science and Technology (DST), Government of India. It is a special-purpose fund under Anusandhan National Research Foundation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Investments made by mutual funds in units of Real Estate Investment Trusts (REITs) are classified as equity-related instruments.",
+        "Statement II: REIT units represent direct ownership of immovable property, similar to purchasing physical real estate.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Investments made by mutual funds in units of Real Estate Investment Trusts (REITs) are classified as equity-related instruments. Statement II: REIT units represent direct ownership of immovable property, similar to purchasing physical real estate. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct, but Statement II does not explain Statement I",
+        "c": "Statement I is correct, but Statement II is not correct",
+        "d": "Statement I is not correct, but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** A Real Estate Investment Trust (REIT) is an investment vehicle that allows investors to invest in income-generating real estate assets such as office buildings, malls, and warehouses without directly purchasing property. REIT units are traded on stock exchanges and provide returns mainly through rental income and capital appreciation.\nStatement I is correct. SEBI recently decided that investments by Mutual Funds and Specialised Investment Funds (SIFs) in REITs will be treated as equity-related instruments, which is expected to ease participation constraints and potentially improve secondary market liquidity.\nStatement II is incorrect. Investors who buy REIT units do not directly own the underlying real estate property. Instead, they own units of a trust that holds and manages the real estate assets. The trust manages the properties and distributes a portion of the rental income to unit holders.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q10",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of defence technology, Sonobuoys, recently seen in the news, are:"
+      ],
+      "questionText": "In the context of defence technology, Sonobuoys, recently seen in the news, are:",
+      "options": {
+        "a": "Unmanned aerial vehicles (UAVs) designed for coastal surveillance.",
+        "b": "Electro-mechanical acoustic devices used for detecting submarines.",
+        "c": "Underwater mines equipped with motion sensors for naval defence.",
+        "d": "Surface-to-air missile systems deployed on naval destroyers."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Sonobuoys are expendable, electro-mechanical acoustic devices primarily used to detect underwater sounds, especially those generated by submarines or ships. They are a crucial component of Anti-Submarine Warfare (ASW), where they help navies locate and track enemy submarines. Apart from defence applications, sonobuoys also have roles in: I. Environmental monitoring II. Marine biology research III. Oceanographic studies They can collect data on water temperature, salinity, and ambient noise, contributing to a better understanding of underwater environments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Capital deepening refers to"
+      ],
+      "questionText": "Capital deepening refers to",
+      "options": {
+        "a": "Going for more fixed capital per worker",
+        "b": "Emphasis on social overhead capita",
+        "c": "Constant capital-output ratio",
+        "d": "Increasing capital-output ratio"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Capital deepening refers to the process of increasing the amount of fixed capital per worker. This involves investing in additional machinery, equipment, and infrastructure. Such an augmentation of capital per worker can lead to heightened productivity and foster economic growth.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following scenario in a country X - While insurance density has risen steadily to $97 in FY 2025 the insurance penetration has declined to 3.7 per cent.",
+        "The above scenario best reflects-"
+      ],
+      "questionText": "Consider the following scenario in a country X - While insurance density has risen steadily to $97 in FY 2025 the insurance penetration has declined to 3.7 per cent. The above scenario best reflects-",
+      "options": {
+        "a": "The average insurance premium paid per person in a year has increased while the percentage of insurance premiums to GDP in a year has decreased.",
+        "b": "The total number of unique policyholders in the country has increased, but the value of the average premium per policy has declined significantly.",
+        "c": "The average life insurance premiums paid per person in a year has increased while the percentage of non-life insurance premiums to GDP in a year has decreased.",
+        "d": "The rate of growth of the country’s population has exceeded the rate of growth of total insurance premiums collected, while GDP growth remains constant"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Insurance penetration is the percentage of insurance premiums to GDP and insurance density is the ratio of premium to population, in other words, per capita premium. Thus insurance density can be referred to as the average insurance premium paid per person in a year. As per Economic Survey**2025-26**, while the insurance density has risen steadily to USD 97 in FY25, reflecting higher spending by households already integrated into the financial system, insurance penetration has stagnated and declined to 3.7 percent. This paradox indicates that while the sector is successful in ‘deepening’ revenue from existing customers, high distribution costs are preventing a ‘widening’ of the risk pool.\nAs the insurance density increases that means the average insurance premium paid per person in a year has increased. While insurance penetration has declined which means the percentage of insurance premiums to GDP has declined.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "The Government of India has consolidated 29 labour laws into four comprehensive Labour Codes. In this context",
+        "consider the following:",
+        "I. Trade Unions Act, 1926",
+        "II. The Employees' State Insurance Act, 1948",
+        "III. Industrial Employment (Standing Orders) Act 1946",
+        "IV. The Factories Act, 1948",
+        "V. The Contract Labour (Regulation and Abolition) Act, 1970 The relevant provisions of",
+        "how many of the above acts/laws have been consolidated into the Industrial Relations Code, 2020?"
+      ],
+      "questionText": "The Government of India has consolidated 29 labour laws into four comprehensive Labour Codes. In this context consider the following: I. Trade Unions Act, 1926 II. The Employees' State Insurance Act, 1948 III. Industrial Employment (Standing Orders) Act 1946 IV. The Factories Act, 1948 V. The Contract Labour (Regulation and Abolition) Act, 1970 The relevant provisions of how many of the above acts/laws have been consolidated into the Industrial Relations Code, 2020?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Government has consolidated 29 labour laws into four comprehensive Labour Codes.The four Labour Codes include the Code on Wages, 2019, the Industrial Relations Code, 2020, the Code on Social Security, 2020 and the Occupational Safety, Health and Working Conditions Code, 2020.\nOptions I and III are correct: The Industrial Relations Code, 2020 has been prepared after amalgamating, simplifying and rationalizing the relevant provisions of the Trade Unions Act, 1926, the Industrial Employment (Standing Orders) Act, 1946 and the Industrial Disputes Act, 1947. The Code acknowledges the fact that survival of workers depends upon survival of industry. In this backdrop, it simplifies laws related to trade unions, conditions of employment in industrial establishment or undertaking, investigation and settlement of industrial disputes.\nOption II is incorrect: The Code on Social Security, 2020 incorporates existing nine Social Security Acts viz; The Employee's Compensation Act, 1923; The Employees' State Insurance Act, 1948; The Employees' Provident Funds and Miscellaneous Provisions Act, 1952; The Employment Exchanges (Compulsory Notification of Vacancies) Act, 1959; The Maternity Benefit Act, 1961; The Payment of Gratuity Act, 1972; The Cine-Workers Welfare Fund Act, 1981; The Building and Other Construction Workers' Welfare Cess Act, 1996 and; The Unorganised Workers' Social Security Act, 2008. The Code extends social security to all workers-including unorganized, gig, and platform workers-covering life, health, maternity, and provident fund benefits, while introducing digital systems and facilitator-based compliance for greater efficiency. Options IV and V are incorrect: The Occupational Safety, Health and Working Conditions Code, 2020 has been drafted after amalgamation, simplification and rationalization of the relevant provisions of the 13 Central Labour Acts-The Factories Act, 1948; The Plantations Labour Act, 1951; The Mines Act, 1952; The Working Journalists and other Newspaper Employees (Conditions of Service and Miscellaneous Provisions) Act, 1955; The Working Journalists (Fixation of Rates of Wages) Act, 1958; The Motor Transport Workers Act, 1961; The Beedi and Cigar Workers (Conditions of Employment) Act, 1966; The Contract Labour (Regulation and Abolition) Act, 1970; The Sales Promotion Employees (Conditions of Service) Act, 1976; The Inter-State Migrant Workmen (Regulation of Employment and Conditions of Service) Act, 1979; The Cine-Workers and Cinema Theatre Workers (Regulation of Employment) Act, 1981; The Dock Workers (Safety, Health and Welfare) Act, 1986 and; The Building and Other Construction Workers (Regulation of Employment and Conditions of Service) Act, 1996.\nKnowledge Base: The Code on Wages, 2019 seeks to simplify, consolidate, and rationalize the provisions of four existing laws-The Payment of Wages Act, 1936; The Minimum Wages Act, 1948; The Payment of Bonus Act, 1965; and The Equal Remuneration Act, 1976. It aims to strengthen workers’ rights while promoting simplicity and uniformity in wage-related compliance for employers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Indian Economy, consider the following:",
+        "I. Petroleum Refinery Production",
+        "II. Natural Gas production",
+        "III. Coal production",
+        "IV. Electricity generation",
+        "Which of the following is the correct descending order of the industries based on their weightage under the Index of",
+        "Eight core industries (as of December 2025)?"
+      ],
+      "questionText": "With reference to Indian Economy, consider the following: I. Petroleum Refinery Production II. Natural Gas production III. Coal production IV. Electricity generation Which of the following is the correct descending order of the industries based on their weightage under the Index of Eight core industries (as of December 2025)?",
+      "options": {
+        "a": "I-IV-II-III",
+        "b": "IV-I-III-II",
+        "c": "I-IV-III-II",
+        "d": "IV-I-II-III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Index of Eight Core Industries (ICI) is compiled monthly and published by the Office of the Economic Adviser (OEA) under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry.\nThe Index of Core Industries tracks the combined and individual production performance of eight key sectors: Coal, Crude Oil, Natural Gas, Refinery Products, Fertilizers, Steel, Cement, and Electricity. These core industries collectively account for 40.27% of the total weight in the Index of Industrial Production (IIP).\nOption I (Petroleum Refinery Production): Petroleum Refinery Products-Petroleum Refinery production (weight: 28.04 per cent) Option IV (Electricity generation): Electricity-Electricity generation (weight: 19.85 per cent) Option III (Coal production): Coal-Coal production (weight: 10.33 per cent) Option II (Natural Gas production): Natural Gas-Natural Gas production (weight: 6.88 per cent)\n\nKnowledge Base: Index of Eight Core Industries based on weightage in increasing order is given below:\n- Fertilizers-Fertilizer production (weight: 2.63 per cent)\n- Cement-Cement production (weight: 5.37 per cent)\n- Natural Gas-Natural Gas production (weight: 6.88 per cent)\n- Crude Oil-Crude Oil production (weight: 8.98 per cent)\n- Coal-Coal production (weight: 10.33 per cent)\n- Steel-Steel production (weight: 17.92 per cent)\n- Electricity-Electricity generation (weight: 19.85 per cent)\n- Petroleum Refinery Products-Petroleum Refinery production (weight: 28.04 per cent)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which of the following statements are correct regarding the recently launched ‘Cali Fund’?",
+        "I. It will support the actions that are aimed at meeting the objectives of Kunming-Montreal Global Biodiversity",
+        "Framework (KMGBF).",
+        "II. At least 50 per cent of the resources of the Cali Fund will be allocated to fulfill the needs of indigenous peoples and local communities.",
+        "III. The Fund will receive mandatory contributions from private sector entities that are benefitting from global biodiversity.",
+        "IV. It will be jointly managed and hosted by the World Bank and the International Union for Conservation of Nature",
+        "(IUCN).",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements are correct regarding the recently launched ‘Cali Fund’? I. It will support the actions that are aimed at meeting the objectives of Kunming-Montreal Global Biodiversity Framework (KMGBF). II. At least 50 per cent of the resources of the Cali Fund will be allocated to fulfill the needs of indigenous peoples and local communities. III. The Fund will receive mandatory contributions from private sector entities that are benefitting from global biodiversity. IV. It will be jointly managed and hosted by the World Bank and the International Union for Conservation of Nature (IUCN). Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The ‘Cali Fund’ was launched on February 25, 2025, at the resumed 16th Conference of Parties (COP16) to the United Nations Convention on Biological Diversity (CBD) in Rome. It has been created to help protect biodiversity.\nStatement I is correct. The Cali Fund is seen as a key step towards meeting the Kunming-Montreal Global Biodiversity Framework (KMGBF) goal of stopping and reversing biodiversity loss by 2030. The Cali Fund aims to enhance biodiversity finance by collecting contributions from businesses that use genetic data from nature in their products and research.\nStatement II is correct. The money collected will be used in several ways. It will support biodiversity conservation projects, help developing countries implement their biodiversity action plans, and fund scientific research to improve how genetic data is stored and used.\nRecognizing their role and contributions as custodians of biodiversity, 50 per cent of the resources of the Cali Fund will be allocated to the self-identified needs of indigenous peoples and local communities, including women and youth.\nStatement III is correct. It is the first global biodiversity fund under the UN to receive direct contributions from businesses benefiting from biodiversity. The Cali Fund will receive money from businesses that rely on Digital Sequence Information (DSI). DSI includes genetic data from plants, animals, and microorganisms. Industries like pharmaceuticals, cosmetics, agriculture, and biotechnology use DSI to develop products. Under this new system, they will now have to contribute a part of their revenue to support biodiversity efforts. Thus, it will collect money from private companies.\nStatement IV is incorrect. The United Nations Development Programme (UNDP) and United Nations Environment Programme will manage the fund. The Multi-Partner Trust Fund Office (MPTFO) will handle administrative tasks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of Indian economy, consider the following statements:",
+        "Statement I: Presently, India is the largest mobile phone manufacturer globally.",
+        "Statement II: Production Linked Incentive Scheme has encouraged major smartphone companies to shift their production to India",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of Indian economy, consider the following statements: Statement I: Presently, India is the largest mobile phone manufacturer globally. Statement II: Production Linked Incentive Scheme has encouraged major smartphone companies to shift their production to India Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**Statement I is incorrect: Production of mobile phones has increased from ₹18,000 crores in**2014-15**to ₹5.45 lakh crore in**2024-25**, a 28-fold rise. India is the second-largest mobile phone manufacturer globally. Over 330 million mobile phones a year are being manufactured in India and on average there are about a billion mobile phones in use in India.\nStatement II is correct: Electronics industry is the fastest-growing segment among India’s top 30 export categories, and mobiles are an integral part of this upsurge. This shift majorly started with the Phased Manufacturing Programme in 2017 and accelerated with the 2020 Production Linked Incentive Scheme.\nProduction Linked Incentive Scheme launched in 2020 initially began with the Mobile Manufacturing and certain other sectors. It powers the national goal of Digital India by driving local production of mobile phones, and electronics, making technology more accessible and affordable. The Production Linked Incentive scheme extends an incentive of 4% to 6% to eligible mobile companies on incremental sales of manufactured goods. As PLI schemes can be availed by both domestic as well as foreign companies operating in India because of which a number of foreign manufacturers opened mobile manufacturing plants in India. Thus, the Production Linked Incentive Scheme has encouraged major smartphone companies to shift their production to India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Credit Guarantee Scheme for Startups (CGSS), consider the following statements:",
+        "I. It would help in providing collateral free debt funding to eligible startups.",
+        "II. Venture Debt Funds (VDFs) under SEBI registered Alternative Investment Funds are eligible as lending/investing institutions under the scheme.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Credit Guarantee Scheme for Startups (CGSS), consider the following statements: I. It would help in providing collateral free debt funding to eligible startups. II. Venture Debt Funds (VDFs) under SEBI registered Alternative Investment Funds are eligible as lending/investing institutions under the scheme. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Credit Guarantee Scheme for Startups (CGSS) is aimed at providing credit guarantee up to a specified limit against loans extended by Member Institutions (MIs) to finance eligible borrowers viz. Startups.\nStatement I is correct: This Scheme would help provide the much-needed collateral free debt funding to startups. In this regard, an eligible startup shall approach a MI and seek credit assistance under this guarantee scheme. The broad objective of CGSS is to finance eligible startups, by enabling collateral free debt funding to startups through avenues such as working capital, term loans, and venture debt.\nThe eligibility criteria for an entity to borrow under the Credit Guarantee Scheme for Startups shall be as follows, wherein an entity should be:\n- Startup as recognized by DPIIT as per Gazette Notifications issued from time to time, and-Startup not in default to any lending/investing institution and not classified as Non-Performing Asset as per\nRBI guidelines, and-Startup whose eligibility is certified by the Member Institution for the purpose of guarantee cover.\n\nStatement II is correct: Under the Credit Guarantee Scheme for Startups (CGSS), loans to eligible startups can be extended by Member Institutions, which include Scheduled Commercial Banks, Financial Institutions, and RBI-registered Non-Banking Financial Companies (NBFCs) that have a minimum credit rating of BBB or above and Venture Debt Funds (VDFs) under SEBI registered Alternative Investment Funds.\n\nKnowledge Base: Under the Credit Guarantee Scheme for Startups (CGSS), the guarantee cover is maximum of Rs. 20 crore per borrower, as per details given below:\ni. 85% of the amount in default for loan amount up to Rs. 10 crore; and ii. 75% of the amount in default for loan amount exceeding Rs. 10 crore.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of India, consider the following three entities:",
+        "I. A is a private limited company established 8 years ago, engaged in the development of a localized E-commerce platform.",
+        "II. B is a private limited company established 13 years ago and spend most of its money on research and development",
+        "(R&D) activities and owns a novel intellectual property (IP).",
+        "III. C is a Multi State Cooperative Society registered under Multi-State Cooperative Societies Act, 2002 established 2 years ago, providing tech-enabled supply chain solutions for rural dairy farmers.",
+        "If the maximum annual turnover of the above entities never crossed 150 crore since their inception, then which of the following entities is/are eligible to be recognized as startup or deep tech startup by Department for Promotion of",
+        "Industry and Internal Trade (DPIIT)?"
+      ],
+      "questionText": "In the context of India, consider the following three entities: I. A is a private limited company established 8 years ago, engaged in the development of a localized E-commerce platform. II. B is a private limited company established 13 years ago and spend most of its money on research and development (R&D) activities and owns a novel intellectual property (IP). III. C is a Multi State Cooperative Society registered under Multi-State Cooperative Societies Act, 2002 established 2 years ago, providing tech-enabled supply chain solutions for rural dairy farmers. If the maximum annual turnover of the above entities never crossed 150 crore since their inception, then which of the following entities is/are eligible to be recognized as startup or deep tech startup by Department for Promotion of Industry and Internal Trade (DPIIT)?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "I, II and III",
+        "d": "II only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Government of India has recently revised the startup recognition framework to further strengthen the Startup India Action Plan. The updated criterias include:\n- The turnover limit for recognition as a startup has been increased from ₹100 crore to ₹200 crore.\n- A new sub-category of “Deep Tech Startup” has been introduced for entities working on cutting-edge and breakthrough technologies. The eligibility criteria for this category is 20 years as the age limit and the turnover limit of ₹300 crore.\n- To promote innovation-driven growth at the grassroots level in agriculture, allied sectors, rural industries and community-based enterprises, startup recognition eligibility has been extended to cooperative entities.\nAccordingly, Multi-State Cooperative Societies registered under the Multi-State Cooperative Societies Act, 2002, as well as Cooperative Societies registered under State and Union Territory Cooperative Acts, are now eligible for startup recognition, subject to fulfilment of other applicable criteria.\nCompany A: It meets the eligibility criteria to be recognized as startup as:\n- It is incorporated as a Private Limited Company-Its period of existence and operations is less than 10 years from the date of incorporation.\n- The annual turnover has not exceeded Rs. 200 crore for any of the financial years since its incorporation. Thus,\noption I is correct Company B: It meet the eligibility criteria to be recognized as deep tech startup as: It can be recognized as a deep tech company as it spend most of its money on research and development (R&D) activities and owns a novel intellectual property (IP). Thus the age limit and turnover would differ from a startup.\n- Company B’s period of existence and operations is less than 20 years from the date of incorporation.\n- Company B’s annual turnover has not exceeded Rs. 300 crore for any of the financial years since its incorporation.\nThus, option II is correct Company C: It meets the eligibility criteria to be recognized as startup as: Now, cooperative entities can also be recognized as Startups if they meet the other eligible criteria of startups i.e.:\n- Its period of existence and operations is less than 10 years from the date of incorporation.\n- The annual turnover has not exceeded Rs. 200 crore for any of the financial years since its incorporation.\nThus, option III is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following:",
+        "I. Computer software or programme",
+        "II. Cinematograph films",
+        "III. Mathematical concepts",
+        "IV. Original Literary Works",
+        "How many of the above are provided Copyright protection in India under Copyright Act, 1957?"
+      ],
+      "questionText": "Consider the following: I. Computer software or programme II. Cinematograph films III. Mathematical concepts IV. Original Literary Works How many of the above are provided Copyright protection in India under Copyright Act, 1957?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Option I is correct: Computer Software or programme can be registered as a ‘literary work’. As per Section 2 (o) of the Copyright Act, 1957 “literary work” includes computer programmes, tables and compilations, including computer databases. ‘Source Code’ and “Object Code” have also to be supplied along with the application for registration of copyright for software products.\nOptions II and IV are correct: The Copyright Act, 1957 protects original literary, dramatic, musical and artistic works and cinematograph films and sound recordings from unauthorized uses.\nOption III is incorrect: Unlike the case with patents, copyright protects the expressions and not the ideas. There is no copyright protection for ideas, procedures, methods of operation or mathematical concepts as such.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q20",
+      "questionNumber": 20,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to production of coffee in India, consider the following statements:",
+        "I. India is the world’s third largest producer of coffee.",
+        "II. India produces a much higher quantity of Arabica Coffee as compared to Robusta.",
+        "III. Karnataka is the largest coffee producing State accounting for more than 50% of India’s total coffee production.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to production of coffee in India, consider the following statements: I. India is the world’s third largest producer of coffee. II. India produces a much higher quantity of Arabica Coffee as compared to Robusta. III. Karnataka is the largest coffee producing State accounting for more than 50% of India’s total coffee production. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "II and III",
+        "c": "III only",
+        "d": "I and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**Statement I is incorrect. India has emerged as the world’s seventh-largest coffee producer. India’s exports reached $1.29 billion in FY**2023-24**, almost double the $719.42 million recorded in**2020-21**. In**2022-23**, India ranked as the 8th largest coffee producer globally. Brazil leads coffee production, contributing 40% of the world’s supply.\nStatement II is incorrect. India mainly grows two types of coffee: Arabica and Robusta. Arabica is valued for its mild, aromatic flavor and fetches a higher price than that of Robusta. Robusta, with its strong flavor, is commonly used in coffee blends. It makes up 72% of India’s coffee production, making India the world’s 5th largest Robusta producer.\nStatement III is correct. The leading producer of coffee in India is Karnataka followed by Kerala and Tamil Nadu. Karnataka is the largest producer accounting for about 71% of the total coffee production in India. Kerala is the second-largest producer of coffee but accounts only for about 20% of the total production. Tamil Nadu is the third-largest producer with 5% of India’s total coffee production.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which one among the following defines flexi workers in India?"
+      ],
+      "questionText": "Which one among the following defines flexi workers in India?",
+      "options": {
+        "a": "Formal contract staff employed through organised contract",
+        "b": "Informal sector employees working in urban areas",
+        "c": "Agricultural labour migrating to urban areas",
+        "d": "Regular salaried workers working in registered companies"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** India's labour market is transforming due to factors such as economic policies, technological progress, and the evolving demands of the labour market. As a result, traditional employment paradigms are yielding to hybrid models that blend contract and formality.\nA flexible workforce allows employees to choose how and when they complete their tasks. A flexi worker works for a company under flexible arrangements such as short-term contracts, part-time hours, project-based roles, or through an agency without a permanent employment relationship. Thus, flexi-workers (or flexible workers) are defined as formal contract staff employed through organized contractual arrangements rather than permanent payrolls.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of India, consider the following:",
+        "I. Legal services rendered by the lawyer in a court case.",
+        "II. Free medical service provided by a doctor in a rural area.",
+        "III. Supply of electricity by the government owned discom.",
+        "Which of the above is/are not included under the definition of the Services under the Consumer Protection Act, 2019?"
+      ],
+      "questionText": "In the context of India, consider the following: I. Legal services rendered by the lawyer in a court case. II. Free medical service provided by a doctor in a rural area. III. Supply of electricity by the government owned discom. Which of the above is/are not included under the definition of the Services under the Consumer Protection Act, 2019?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** As per Section 2(42) of the Consumer Protection Act, 2019, \"service\" means service of any description which is made available to potential users and includes, but not limited to, the provision of facilities in connection with banking, financing, insurance, transport, processing, supply of electrical or other energy, telecom, boarding or lodging or both, housing construction,, amusement or the purveying of news or other information, but does not include the rendering of any service free of charge or under a contract of personal service.\nOption I is correct: Legal services rendered by the lawyer in a court case are not covered within the ambit of definition of ‘services’ under the Consumer Protection Act, 2019. The Supreme Court recently ruled that legal services rendered by lawyers will not fall under the ambit of Consumer Protection Act and litigants cannot makes claims of deficiency of service against advocates. The lawyers cannot be sued for deficiency in services under the Act.\nOption II is correct: Doctors and healthcare professionals are generally covered under the definition of \"service\" in the Consumer Protection Act (CPA) 2019 if the services are paid for. While \"free\" services are excluded, paid medical care—whether in private or government hospitals (if fees are charged)—falls under definition of ‘services’ in the Act.\nThus, free medical service provided by a doctor in a rural area will not be counted under the definition of the Services under the Consumer Protection Act, 2019\n\nNote: The Supreme Court has recently sought responses from the Union Ministries of Health and Consumer Affairs, and the National Medical Commission (NMC) on whether medical professionals such as doctors should be excluded from the ambit of the Consumer Protection Act, 2019.\nOption III is incorrect: Supply of electrical or other energy is counted as services under the Consumer Protection Act, 2019. Thus the supply of electricity by government-owned distribution companies (Discoms) is considered a \"service\" under the Consumer Protection Act (CPA), 2019.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "The Public Private Partnership Appraisal Committee (PPPAC), responsible for appraising infrastructure projects undertaken through the Public-Private Partnership (PPP) model, functions under",
+        "which one of the following departments of the Government of India?"
+      ],
+      "questionText": "The Public Private Partnership Appraisal Committee (PPPAC), responsible for appraising infrastructure projects undertaken through the Public-Private Partnership (PPP) model, functions under which one of the following departments of the Government of India?",
+      "options": {
+        "a": "Department of Financial Services",
+        "b": "Department of Revenue",
+        "c": "Department of Expenditure",
+        "d": "Department of Economic Affairs"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Public Private Partnership Appraisal Committee (PPPAC) is an apex body of the Government of India responsible for examining and approving infrastructure projects implemented under the Public-Private Partnership (PPP) model) in the central sector. The PPPAC functions under the Department of Economic Affairs (DEA) in the Ministry of Finance. The committee is chaired by the Secretary of DEA and includes representatives from the Department of Expenditure, Department of Legal Affairs, the concerned ministry, and NITI Aayog.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of Intellectual Property Rights (IPRs), compulsory licensing refers to:"
+      ],
+      "questionText": "In the context of Intellectual Property Rights (IPRs), compulsory licensing refers to:",
+      "options": {
+        "a": "An authorization granted by the government to someone else i.e., a third party to produce a patented product without the consent of the patent owner.",
+        "b": "The patent holder through its own discretion offers third parties the license to produce, market and distribute a patented product.",
+        "c": "Automatic permission to produce a patented product by anyone after the expiry of the patent term.",
+        "d": "A mechanism under which a startup can register its trademark for fre"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Compulsory Licensing is the grant of permission by the government to entities to use, manufacture, import or sell a patented invention without the patent-owner’s consent. Section 84 of Indian patents Act 1970 deals with Compulsory Licensing. Compulsory Licensing is permitted under the WTO’s TRIPS (IPR) Agreement provided conditions such as ‘national emergencies, other circumstances of extreme urgency and anti-competitive practices’ are fulfilled.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q25",
+      "questionNumber": 25,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Indian economy, consider the following statements regarding the royalty rate on critical minerals:",
+        "I. The Union Government determines the royalty rates on critical minerals.",
+        "II. Royalty on critical minerals is levied under the Mines and Minerals (Development and Regulation) Act, 1957.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Indian economy, consider the following statements regarding the royalty rate on critical minerals: I. The Union Government determines the royalty rates on critical minerals. II. Royalty on critical minerals is levied under the Mines and Minerals (Development and Regulation) Act, 1957. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I Nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** A royalty rate is a fee imposed by the government on mining companies for extracting minerals from the earth. It ensures that the state receives an equitable return for exploiting its natural resources. Critical minerals have become essential for economic development and national security in the country. Critical minerals such as Cadmium, Cobalt, Gallium, Indium, Selenium and Vanadium have uses in batteries, semiconductors, solar panels, etc.\nStatement I is correct: Under the Mines and Minerals (Development and Regulation) Act, 1957, the Union Government is empowered to prescribe the royalty rates for critical minerals.\nStatement II is correct: Royalty on minerals in India is levied under the Mines and Minerals (Development and Regulation) Act, 1957 (MMDR Act). The Second Schedule of the Act specifies the royalty rates for various minerals.\nAccording to Item 55 of the Second Schedule, for minerals whose royalty rates are not explicitly specified in the schedule, the royalty is fixed at 12% of the Average Sale Price (ASP).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the Indian Ports Act, 2025, consider the following statements:",
+        "I. It establishes the Maritime State Development Council (MSDC) as a statutory body.",
+        "II. The Act empowers the Union Government to fix/decide the tariffs at both major and non-major ports.",
+        "III. Each state government will constitute a Dispute Resolution Committee to adjudicate disputes between ports including major ports.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Indian Ports Act, 2025, consider the following statements: I. It establishes the Maritime State Development Council (MSDC) as a statutory body. II. The Act empowers the Union Government to fix/decide the tariffs at both major and non-major ports. III. Each state government will constitute a Dispute Resolution Committee to adjudicate disputes between ports including major ports. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Indian Ports Act, 2025 aims to transform India’s maritime governance with a forward-looking, integrated framework tailored to the demands of a modern economy. It replaced the outdated provisions of the Indian Ports Act, 1908, with modern & contemporary regulations.\nStatement I is correct: The Indian Ports Act, 2025, grants statutory status to the Maritime State Development Council. The Council will guide data collection and dissemination and transparency across ports, and advise the central government on national planning, legislative reforms, port efficiency, and connectivity.\nStatement II is incorrect: According to the provisions of the Indian Ports Act, 2025, tariffs at major ports will be determined either by the Board of the Major Port Authority or by the Board of Directors if the port operates as a registered company. For non-major ports, tariff-setting authority rests with the State Maritime Board or its designated concessionaire. Further, the Indian Port Act 2025 requires tariffs and charges to be published electronically for transparency.\nStatement III is incorrect: As per the Indian Ports Act, 2025, State governments must set up Dispute Resolution Committees (DRCs) to resolve conflicts among non-major ports, concessionaires, users, and service providers.\nAppeals go to the High Court, not civil courts. The Boards may also allow arbitration or other alternative dispute resolution methods. This will benefit the speedy dispute resolution.\nThus, major ports are excluded from the same.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "The ‘Frontier Technologies Readiness Index’, which assesses countries’ preparedness to adopt emerging technologies, is released by-"
+      ],
+      "questionText": "The ‘Frontier Technologies Readiness Index’, which assesses countries’ preparedness to adopt emerging technologies, is released by-",
+      "options": {
+        "a": "United Nations Office for Digital and Emerging Technologies (ODET)",
+        "b": "United Nations Trade and Development (UNCTAD)",
+        "c": "World Economic Forum (WEF)",
+        "d": "Organisation for Economic Co-operation and Development (OECD)"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The ‘Frontier Technologies Readiness Index’ measures how prepared countries are to adopt, use, and benefit from advanced technologies such as Artificial Intelligence (AI), robotics, big data,etc. The index evaluates countries using indicators like ICT infrastructure, skills, research and development (R&D), industrial capacity, and access to finance. This index is published in the Technology and Innovation Report released by United Nations Trade and Development (UNCTAD). According to the 2025 report, India improved its position to 36th out of 170 countries on the Frontier Technologies Readiness Index.\nKnowledge Base: Reports by the World Economic Forum (WEF) 1. Global Competitiveness Report (GCR) 2. Global Gender Gap Report 3. Global Risks Report 4. Future of Jobs Report 5. Energy Transition Index (ETI) 6. Travel & Tourism Development Index (TTDI) Reports by UNCTAD 1. Trade and Development Report 2. World Investment Report 3. Technology and Innovation Report 4. Digital Economy Report 5. Least Developed Countries Report",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following pairs of Airports of India and their significance:",
+        "Airport Significance",
+        "I. Navi Mumbai International Airport India’s largest airport in terms of area.",
+        "II. Cochin International Airport World’s first airport to operate entirely on solar power.",
+        "III. Kempegowda International Airport India's first airport to achieve ‘water- positive’ status.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs of Airports of India and their significance: Airport Significance I. Navi Mumbai International Airport India’s largest airport in terms of area. II. Cochin International Airport World’s first airport to operate entirely on solar power. III. Kempegowda International Airport India's first airport to achieve ‘water- positive’ status. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is incorrect. The Navi Mumbai International Airport is designed as a major greenfield airport for the Mumbai Metropolitan Region. One of its distinctive features is that it will be the first airport in India to be connected by water taxi services, improving connectivity through waterways in addition to road and rail transport. It is spread over 1,160 hectares (2867 Acres).\nRajiv Gandhi International Airport (RGIA) in Hyderabad is the country’s largest airport by area, covering over 5,500 acres. Pair II is correct. Cochin International Airport in Kerala became the world’s first fully solar-powered airport in 2015. Its entire energy requirement is met through solar power plants installed near the airport, making it a global example of sustainable aviation infrastructure.\nPair III is incorrect. The first airport in India to achieve water-positive status was Indira Gandhi International Airport in Delhi. Water-positive means the airport replenishes more water than it consumes through rainwater harvesting and water recycling.\n\nKnowledge Base: Rajiv Gandhi International Airport in Hyderabad was the first in India to have facial recognition system for passengers under the Digi Yatra initiative.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the National Highways Authority of India (NHAI), consider the following statements:",
+        "I. It is a statutory body under the Ministry of Road Transport and Highways.",
+        "II. It has recently launched the Bee Corridor initiative to reduce the ecological stress faced by honeybees and other pollinators.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the National Highways Authority of India (NHAI), consider the following statements: I. It is a statutory body under the Ministry of Road Transport and Highways. II. It has recently launched the Bee Corridor initiative to reduce the ecological stress faced by honeybees and other pollinators. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The National Highway Authority of India (NHAI) was set up by an Act of the Parliament, the National Highways Authority of India (NHAI Act), 1988. NHAI is a statutory body under the administrative control of the Ministry of Road Transport and Highways (MoRTH). Its mission is to develop, maintain and manage National Highways vested in it by the Government.\nStatement II is correct: NHAI recently launched a first-of-its-kind initiative to develop pollinator or bee corridors along National Highways. The ‘Bee Corridor’ will have a continuous linear stretch of bee-friendly vegetation comprising flowering trees and plants that will ensure the availability of nectar and pollen throughout the year. The initiative will help reduce the increasing ecological stress faced by honeybees and other pollinators, which is adversely impacting pollination services, agricultural and horticultural productivity, and overall ecological balance.\nKnowledge Base: NHAI functions include:\n- To develop, maintain and manage National Highways vested in it by the Government.\n- To collect fees on National Highways, regulate and control the plying of vehicles on National Highways for its proper management.\n- To develop and provide consultancy and construction services in India and abroad and carry on research activities in relation to the development, maintenance and management of highways or any other facilities there at.\n- To advise the Central Government on matters relating to highways.\n- To assist on such terms and conditions as may be mutually agreed upon, any State Government in the formulation and implementation of schemes for highway development.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to India’s naval defence technology, the ‘INS Surat’, recently in the news, is:"
+      ],
+      "questionText": "With reference to India’s naval defence technology, the ‘INS Surat’, recently in the news, is:",
+      "options": {
+        "a": "India’s first indigenously built nuclear-powered submarine.",
+        "b": "India’s first stealth frigate under Project 17A.",
+        "c": "India’s first anti-submarine warfare shallow watercraft.",
+        "d": "India’s first warship to be equipped with artificial intelligence (AI) solutions."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: INS Surat is a state-of-the-art stealth-guided missile destroyer and the fourth vessel under Project 15B (Visakhapatnam class). Commissioned on January 15, 2025, it holds the distinction of being the Indian Navy's first warship integrated with artificial intelligence (AI) capabilities. It has a displacement of 7,400 tonnes.\nOption a is incorrect: This refers to INS Arihant, which is India's first indigenously developed nuclear-powered ballistic missile submarine. It was launched on July 26, 2009, and commissioned in August 2016.\nOption b is incorrect: This pertains to INS Nilgiri, the lead ship of the Project 17A class of stealth frigates. It is the first of seven frigates being constructed under this project.\n- Built by Mazagon Dock Shipbuilders Limited, it was commissioned in January, 2025.\n- INS Nilgiri is designed to operate in blue-water environments and can address both conventional and non-conventional threats.\nOption c is incorrect: This describes INS Arnala, which is India’s first anti-submarine warfare shallow watercraft.\n- It is the first vessel of the Arnala-class anti-submarine warfare shallow water crafts (ASWSWCs).\n- Launched in December, 2022, it was built by Garden Reach Shipbuilders and Engineers (GRSE).\n- INS Arnala is designed for coastal defense and anti-submarine operations in shallow waters.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which of the following statements with regard to the ‘National Manufacturing Mission' is/are correct?",
+        "1. It covers small, medium and large industries.",
+        "2. It will support cleantech manufacturing.",
+        "3. It will facilitate promotion of employment opportunities in labour-intensive sectors.",
+        "Select the answer using the code given below."
+      ],
+      "questionText": "Which of the following statements with regard to the ‘National Manufacturing Mission' is/are correct? 1. It covers small, medium and large industries. 2. It will support cleantech manufacturing. 3. It will facilitate promotion of employment opportunities in labour-intensive sectors. Select the answer using the code given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "1 and 2 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**Statement 1 is correct: A National Manufacturing Mission to cover small, medium and large industries for furthering “Make in India” was announced in the Union Budget**2025-26**.\nStatement 2 is correct: The National Manufacturing Mission will support Clean Tech manufacturing and aims to improve domestic value addition and build the ecosystem for solar PV cells, EV batteries, motors and controllers, electrolyzers, wind turbines, very high voltage transmission equipment and grid scale batteries.\nStatement 3 is correct: Specific policy and facilitation measures to promote employment and entrepreneurship opportunities in labour-intensive sectors will be introduced under National manufacturing Mission.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "In the context of the financial sector, what does the term ‘Bancassurance’ refer to?"
+      ],
+      "questionText": "In the context of the financial sector, what does the term ‘Bancassurance’ refer to?",
+      "options": {
+        "a": "An agreement under which banks provide loans to insurance companies for underwriting risks.",
+        "b": "A partnership between banks and insurance companies to sell insurance products through bank branches.",
+        "c": "A scheme where insurance companies provide time deposit services similar to banks.",
+        "d": "A process of reinsurance where a bank takes over the liabilities of an insolvent insurance provider to protect policyholders."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Bancassurance is a model in the financial sector where banks and insurance companies collaborate to distribute insurance products. In this arrangement, banks use their branch network and customer base to sell insurance policies of partner insurance companies. Bank employees offer insurance policies to their customers, and both the bank and the insurance company benefit through commissions and expanded market reach. This also provides convenience to customers by allowing them to access multiple financial services at one place.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which of the following statements best describes ‘Braesse’s Paradox’?"
+      ],
+      "questionText": "Which of the following statements best describes ‘Braesse’s Paradox’?",
+      "options": {
+        "a": "Increasing road capacity in urban areas to reduce congestion can actually worsen overall traffic congestion.",
+        "b": "Expanding industrial zones to boost production can reduce overall industrial output due to increased competition for limited resources.",
+        "c": "Technological progress that makes a resource cheaper or more efficient to use often leads to an increase in demand for that resource.",
+        "d": "Countries endowed with abundant natural resources may experience slower economic growth and weaker institutions."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Named after German mathematician Dietrich Braess, Braess's Paradox refers to a counterintuitive phenomenon in transport network theory where adding extra capacity (such as a new road or lane) can increase overall travel time and worsen congestion. This occurs because individual drivers choose routes that minimize their own travel time, leading to a network equilibrium that is less efficient for all users. As a result, the addition of new routes can paradoxically degrade the overall performance of the traffic system.\nKnowledge Base:\n- Jevons Paradox is the idea that technological progress that makes a resource cheaper or more efficient to use often leads to an increase in demand for that resource.\n- The \"resource curse\" (or paradox of plenty) is the phenomenon where countries with abundant natural resources (like oil, gas, or minerals) often experience lower economic growth, higher poverty, poorer development, and more corruption than resource-poor nations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Research and Development expenditure in India, consider the following statements:",
+        "I. India's Gross Expenditure on Research and Development (GERD) as a percentage of Gross Domestic Product is less than 1 per cent.",
+        "II. The private sector accounts for more than 75 per cent of India’s total Research and Development expenditure.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Research and Development expenditure in India, consider the following statements: I. India's Gross Expenditure on Research and Development (GERD) as a percentage of Gross Domestic Product is less than 1 per cent. II. The private sector accounts for more than 75 per cent of India’s total Research and Development expenditure. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: India's Gross Expenditure on Research and Development (GERD) as a percentage of GDP is less than 1 per cent and stands at a modest 0.64 per cent, substantially below the global average. Leading economies, such as the US (3.48 per cent), China (2.43 per cent), and South Korea (4.91 per cent), invest significantly more.\nStatement II is incorrect: The private sector contributes around 41 per cent of the total R&D spending in India and is considered as one of the major reasons for low GERD. This stands in sharp contrast to countries like China (77 per cent), the United States (75 per cent), and South Korea (79 per cent), where the business sector plays a much more substantial role in financing research and development.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following pairs regarding military exercises in news:",
+        "Military Exercise Participating Countries",
+        "I. Dharma Guardian India and Japan",
+        "II. EKUVERIN India and Maldives",
+        "III. Cyclone India and United Kingdom",
+        "How many of the above given pairs are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs regarding military exercises in news: Military Exercise Participating Countries I. Dharma Guardian India and Japan II. EKUVERIN India and Maldives III. Cyclone India and United Kingdom How many of the above given pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n** Pair I is correct: Dharma Guardian:\n- Dharma Guardian is a bilateral joint military (army) exercise conducted annually between India and Japan, held alternately in both countries.\n- It is conducted between the Indian Army and the Japan Ground Self-Defense Force.\n- Its main objective is to enhance interoperability between the armed forces, especially in urban warfare and counter-terrorism operations conducted under a UN mandate.\nPair II is correct: EKUVERIN:\n- It is a bilateral military (army) exercise between India and Maldives.\n- Ekuverin means \"friends\" in the Maldivian language (Dhivehi).\n- It is held annually and alternately in India and the Maldives and is conducted between the Indian army and Maldives National Defence Force.\n- It aims to enhance interoperability between the two forces in counter-insurgency and counter-terrorism operations, as well as conduct joint humanitarian assistance and disaster relief (HADR) operations. Pair III is incorrect: Cyclone 2025:\n- Cyclone 2025 refers to the third joint military exercise between India and Egypt (not UK), held in Rajasthan, India.\n- It involves Special Forces from both nations and focuses on: Defense cooperation, Interoperability and Sharing skills in desert warfare",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the National Road Safety Board (NRSB) in India, consider the following statements:",
+        "I. It has been established under the provisions of the Motor Vehicles (Amendment) Act, 2019.",
+        "II. It has the authority to enforce road safety standards and impose penalties for non-compliance of these standards.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the National Road Safety Board (NRSB) in India, consider the following statements: I. It has been established under the provisions of the Motor Vehicles (Amendment) Act, 2019. II. It has the authority to enforce road safety standards and impose penalties for non-compliance of these standards. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The National Road Safety Board (NRSB) serves as an expert advisory body that assists the government (Union and State) in improving vehicle safety, road infrastructure, and traffic management practices.\nStatement I is correct. The Motor Vehicles (Amendment) Act, 2019 introduced several reforms to improve road safety and regulate motor vehicle operations in India. One important provision is Section 215B, which provides for the constitution of the National Road Safety Board.\nStatement II is incorrect. The National Road Safety Board (NRSB) functions primarily as an advisory body. It does not possess executive or enforcement powers. The Board recommends standards and guidelines related to road safety:\n1. Vehicle safety standards – The Board advises on the design, construction, weight, manufacturing process, operation and maintenance of motor vehicles, including safety equipment.\n2. Regulation of vehicles and drivers – It provides recommendations on vehicle registration, licensing systems, and regulatory frameworks related to road transport.\n3. Road infrastructure and traffic control – It helps in formulating standards for road safety and infrastructure planning, including traffic management systems.\n4. Technology and innovation – The Board encourages new vehicle technologies that can improve safety outcomes. 5. Safety of vulnerable road users – This includes pedestrians, cyclists, and other road users who face higher risks on roads.\n6. Awareness and education – It promotes driver training programmes and road safety awareness campaigns.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Sometimes seen in the news, the Cape Town Convention (2001), primarily deals with which of the following?"
+      ],
+      "questionText": "Sometimes seen in the news, the Cape Town Convention (2001), primarily deals with which of the following?",
+      "options": {
+        "a": "International regulation of cross-border commercial aircraft greenhouse gas emissions.",
+        "b": "Facilitate asset-based financing and leasing of high-value mobile equipment like aircraft, helicopters, and aircraft engines.",
+        "c": "Establishment of a global mechanism for investigation of international aviation accidents.",
+        "d": "Regulation of maritime shipping routes and safety standards in international waters."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Convention on International Interests in Mobile Equipment was concluded in Cape Town on 16 November 2001, as was the Protocol on Matters Specific to Aircraft Equipment. The Convention and the Protocol, was adopted under the joint auspices of the International Civil Aviation Organization (ICAO) and the International Institute for the Unification of Private Law (UNIDROIT).\nCape Town Convention 2001 aims to facilitate asset-based financing and leasing of high-value mobile equipment like aircraft, helicopters, and aircraft engines by providing a uniform legal framework and international registration system.\nThe Protection Of Interests In Aircraft Objects Act, 2025 recently passed in India is an Act to provide for protection of interests in aircraft objects and to implement the Convention on International Interests in Mobile Equipment and the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment signed at Cape Town on 16th November, 2001.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Consider the following description:",
+        "I. It is the world’s highest railway arch bridge.",
+        "II. The structure is designed to withstand earthquakes up to magnitude 8 on the Richter scale.",
+        "III. The bridge has a design life of around 120 years and is capable of supporting train speeds up to 100 km per hour.",
+        "Which one of the following bridges has been described above?"
+      ],
+      "questionText": "Consider the following description: I. It is the world’s highest railway arch bridge. II. The structure is designed to withstand earthquakes up to magnitude 8 on the Richter scale. III. The bridge has a design life of around 120 years and is capable of supporting train speeds up to 100 km per hour. Which one of the following bridges has been described above?",
+      "options": {
+        "a": "Bogibeel Rail-cum-Road Bridge",
+        "b": "Anji Khad Railway Bridge",
+        "c": "Pamban Railway Bridge",
+        "d": "Chenab Rail Bridge"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption a is incorrect: The Bogibeel Bridge is one of India’s most important strategic bridges in the Northeast region. It is located over the Brahmaputra River in Assam, connecting Dibrugarh district in the south with Dhemaji district in the north. It was inaugurated in 2018 and is considered India’s longest rail-cum-road bridge.\nOption b is incorrect: The Anji Khad Railway Bridge is located in the Reasi district of Jammu and Kashmir. It is also part of the Udhampur–Srinagar–Baramulla Rail Link (USBRL) project, the same project that includes the Chenab Rail Bridge. This bridge is notable for a different engineering distinction. It is India’s first cable-stayed railway bridge.\nOption c is incorrect: The Pamban Railway Bridge is located in Tamil Nadu and connects Rameswaram Island with the Indian mainland at Mandapam. It was opened in 1914 and is considered India’s first sea bridge. The bridge is famous for its double-leaf bascule (opening) section, which allows ships to pass through the channel.\nOption d is correct: The description provided in the question refers to the Chenab Rail Bridge.\n- The Chenab rail bridge runs over the Chenab River in Reasi district of Jammu and Kashmir. It is located between Katra and Sangaldan on the Jammu-Baramulla line.\n- It is the highest arch bridge in the world, with a deck height of 359 meters from the riverbed — making it 35 meters taller than Paris’s iconic Eiffel Tower.\n- Connecting the Kashmir Valley with the rest of the country, the bridge forms a critical part of the Udhampur-Srinagar-Baramulla Rail Link (USBRL) project,\n- The bridge is designed for a lifespan of 120 years and can support train speeds of up to 100 km per hour. It is capable of withstanding earthquakes up to magnitude 8 on the Richter scale, as well as high-intensity explosions equivalent to 40 tonnes of TNT.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to PM MITRA scheme, consider the following statements:",
+        "I. It is aimed at creating large-scale integrated textile manufacturing ecosystems.",
+        "II. Under the scheme, at least one PM MITRA park is established in every state in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to PM MITRA scheme, consider the following statements: I. It is aimed at creating large-scale integrated textile manufacturing ecosystems. II. Under the scheme, at least one PM MITRA park is established in every state in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: The PM Mega Integrated Textile Region and Apparel (PM MITRA) Scheme is a flagship initiative of the Government of India aimed at creating large-scale integrated textile manufacturing ecosystems.\nThese parks are designed to provide world-class infrastructure, common facilities, and plug-and-play industrial units covering the entire textile value chain from fibre to garment production. The scheme is expected to attract large private investments and generate substantial employment in the textile sector.\nStatement II is incorrect: The Government has finalized setting up of PM Mega Integrated Textile Region and Apparel (PM MITRA) Parks at 7 sites viz. Tamil Nadu (Virudhnagar), Telangana (Warangal), Gujarat (Navasari), Karnataka (Kalaburagi), Madhya Pradesh (Dhar), Uttar Pradesh (Lucknow) and Maharashtra (Amravati).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q40",
+      "questionNumber": 40,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Section 69A of the Information Technology Act, 2000, frequently seen in the news, empowers the Union",
+        "Government to:"
+      ],
+      "questionText": "Section 69A of the Information Technology Act, 2000, frequently seen in the news, empowers the Union Government to:",
+      "options": {
+        "a": "Grants conditional immunity to intermediaries for third-party content.",
+        "b": "Regulate digital signatures and electronic authentication methods.",
+        "c": "Prescribe punishment for identity theft and cheating by personation using computer resources.",
+        "d": "Block public access to information on online platforms in the interest of national security."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Information Technology (IT) Act, 2000 is India's primary legislation governing cyber activities, electronic transactions, and digital governance. It establishes a legal framework for cybersecurity, digital signatures, data protection, and penalties for cyber offenses.\nOption d is correct: Section 69A of the IT Act, 2000 authorizes the Central Government or any of its authorized officers to block public access to any information through any computer resource in the interest of sovereignty, integrity, state security, friendly relations with foreign states, or public order, or for preventing incitement to commit any cognizable offence.\n- This provision is frequently invoked to ban websites or apps that are considered a threat to national security (e.g., blocking of Chinese apps).\n- This provision was upheld by the Supreme Court in Shreya Singhal vs Union of India (2015).\nOption a is incorrect: This refers to Section 79 of the IT Act, which provides a \"safe harbour\" to intermediaries (like social media platforms) from liability for information published on the platform by a “third party”, that is, users of the platform.\n- Also, as per Section 79(3)(b), intermediaries must remove unlawful content upon government notification to retain immunity.\nOption b is incorrect: This is covered under Section 3 of the IT act and related provisions. Section 3 deals with the authentication of electronic records through digital signatures and defines the process and technical standards for digital/electronic signatures.\nOption c is incorrect: This falls under Sections 66C and 66D of the IT Act.\n- Section 66C: Punishes identity theft (e.g., using someone's password or digital signature).\n- Section 66D: Punishes cheating by personation via computer resources (e.g., online frauds, phishing scams).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Classification of an enterprise into public or private sector is based on:"
+      ],
+      "questionText": "Classification of an enterprise into public or private sector is based on:",
+      "options": {
+        "a": "Number of employees in the enterprise",
+        "b": "Ownership of assets of the enterprise",
+        "c": "Employment conditions for workers in the enterprise",
+        "d": "Nature of products manufactured by the enterprise"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** An enterprise is classified as public or private sector based on the ownership of its assets. Public sector enterprises are owned by the government, while private sector enterprises are owned by individuals or private companies.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2014,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2014"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which one of the following is the primary objective of the Trade Enablement and Market (TEAM) Scheme related to MSMEs?"
+      ],
+      "questionText": "Which one of the following is the primary objective of the Trade Enablement and Market (TEAM) Scheme related to MSMEs?",
+      "options": {
+        "a": "Facilitates micro and small enterprises to participate in international fairs and exhibitions for exposure to the global market ecosystem.",
+        "b": "Modernize the processes, reduce wastages and improve competitiveness of micro and small enterprises.",
+        "c": "Promote innovation across micro and small enterprises’ value chains by converting ideas into innovative applications.",
+        "d": "Facilitates the onboarding of micro and small enterprises onto the Open Network for Digital Commerce (ONDC)."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**Option d is correct: The Trade Enablement and Marketing Initiative (TEAM) Scheme was launched by the Ministry of Micro, Small and Medium Enterprises in 2024 for three years (**2024-27**) under the Raising and Accelerating MSME Performance (RAMP) Programme. This initiative aims to empower MSEs (Micro and Small Enterprises) to access new markets, expand their customer base and boost income via Open Network for Digital Commerce (ONDC). It supports onboarding Micro and Small Enterprises (MSEs) onto the Open Network for Digital Commerce (ONDC) network.\n- The National Small Industries Corporation (NSIC) is the implementation agency while the Open Network for Digital Commerce (ONDC) is the technical partner.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to Special Economic Zones (SEZ) in the context of Indian economy, consider the following",
+        "statements:",
+        "Statement I: The Goods and services supplied by SEZ units to Indian territory outside the SEZ area are treated as imports into India.",
+        "Statement II: They are deemed to be a foreign territory for the purposes of trade operations and duties and tariffs.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Special Economic Zones (SEZ) in the context of Indian economy, consider the following statements: Statement I: The Goods and services supplied by SEZ units to Indian territory outside the SEZ area are treated as imports into India. Statement II: They are deemed to be a foreign territory for the purposes of trade operations and duties and tariffs. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Under the Special Economic Zones Act, 2005, the Domestic Tariff Area (DTA) refers to the entire territory of India, including territorial waters and the continental shelf, but excluding the areas designated as Special Economic Zones. The goods and services supplied by Special Economic Zone units to the Domestic Tariff Area are treated as imports into India and are subject to the procedures and regulations applicable in case of normal imports to India.\nStatement II is correct: Special Economic Zone (SEZ) is a geographically delineated duty-free enclave and shall be deemed to be a foreign territory for the purposes of trade operations and duties and tariffs.\nStatement II explains Statement I: As SEZ units are treated as foreign territory therefore all Goods and services supplied by SEZ units to DTA are treated as imports into India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "What is ‘Unicorn Company’ often mentioned in Indian news?"
+      ],
+      "questionText": "What is ‘Unicorn Company’ often mentioned in Indian news?",
+      "options": {
+        "a": "Any privately held startup company with a value of over $1 billion.",
+        "b": "Any public sector company to be merged with another public sector company",
+        "c": "Privatization of any loss-making State owned company",
+        "d": "Any foreign multinational company doing business in India in collaboration with an Indian company"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A “Unicorn Company” refers to a privately held startup company that has achieved a valuation of over $1 billion. The term “unicorn” is derived from the rarity of such companies, as they are relatively few in number and have reached a significant level of valuation.\n- These unicorn companies are often highlighted in the news due to their rapid growth, disruptive business models, and potential impact on the economy.\n- They represent innovative and successful startups that have attracted substantial investments and have the potential to become major players in their respective industries.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2022,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q45",
+      "questionNumber": 45,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "The AI Action Summit 2025 was co-chaired by which among the following nations?"
+      ],
+      "questionText": "The AI Action Summit 2025 was co-chaired by which among the following nations?",
+      "options": {
+        "a": "India and France",
+        "b": "France and United States of America",
+        "c": "India and Germany",
+        "d": "United Kingdom and France"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** AI Action Summit 2025 was co-chaired by France and India. The AI Action Summit 2025 was held in Paris. It brought together representatives from 60 nations to discuss the future of artificial intelligence. The members of the AI Action Summit in Paris have launched a Public Interest AI Platform and Incubator. The initiative was launched through a joint statement titled “Inclusive and Sustainable Artificial Intelligence for People and the Planet,” at the summit co-chaired by India and France.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q46",
+      "questionNumber": 46,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage - 1 When a state underinvests in its own defence, it does not buy peace; it invites coercion. A weak India would encourage risk-taking by those who believe they can push New Delhi. The purpose of rise in India’s defence spending is to avoid that trap. It is to ensure that no adversary believes it can achieve a quick decisive advantage against India can be gained. It should therefore not be seen as escalatory measure but as an insurance. This is because deterrence is not a matter of goodwill or diplomatic engagement. It is a material condition rooted in capability. An adversary is deterred only when it believes that aggression will fail or cost more than it is worth.",
+        "Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author of the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage - 1 When a state underinvests in its own defence, it does not buy peace; it invites coercion. A weak India would encourage risk-taking by those who believe they can push New Delhi. The purpose of rise in India’s defence spending is to avoid that trap. It is to ensure that no adversary believes it can achieve a quick decisive advantage against India can be gained. It should therefore not be seen as escalatory measure but as an insurance. This is because deterrence is not a matter of goodwill or diplomatic engagement. It is a material condition rooted in capability. An adversary is deterred only when it believes that aggression will fail or cost more than it is worth. Which one of the following statements best reflects the most logical, rational and pragmatic message conveyed by the author of the passage?",
+      "options": {
+        "a": "An increase in defence expenditure is often misinterpreted as an escalatory move.",
+        "b": "Good diplomatic relations alone may not always be sufficient to ensure national security.",
+        "c": "Investing in credible deterrence helps strengthen India’s long-term security.",
+        "d": "Inadequate defence infrastructure can encourage adversaries to take advantage of vulnerabilities."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage states that rise in India’s defence expenditure should not be seen as escalatory measure but as an insurance, statement a does not best reflect the most logical, rational and pragmatic message conveyed by the author of the passage as it does not highlight why the defence expenditure needs to increase.\nStatement b is incorrect. The passage states “deterrence is not a matter of goodwill or diplomatic engagement.” However, statement b does not best reflect the most logical, rational and pragmatic message conveyed by the author of the passage as it does not state what more is needed to develop deterrence.\nStatement c is correct. It best reflects the most logical, rational and pragmatic message conveyed by the author of the passage as it highlights the need of developing credible deterrence for ensuring long term security. It is mentioned in the passage as “A weak India would encourage risk-taking by those who believe they can push New Delhi. The purpose of rise in India’s defence spending is to avoid that trap.” “An adversary is deterred only when it believes that aggression will fail or cost more than it is worth.” Statement d is incorrect. Although the passage states “. A weak India would encourage risk-taking by those who believe they can push New Delhi”, statement d does not best reflect the most logical, rational and pragmatic message conveyed by the author of the passage as it does not highlight what should be done to avoid adversaries taking advantage of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q47",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. Low investment in defence infrastructure does not always guarantee peace.",
+        "II. Geopolitical tensions in India’s neighbourhood prompt the need for a strong defence structure.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. Low investment in defence infrastructure does not always guarantee peace. II. Geopolitical tensions in India’s neighbourhood prompt the need for a strong defence structure. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. The passage states “When a state underinvests in its own defence, it does not buy peace; it invites coercion.” Therefore, we can conclude that the statement is correct.\nStatement II is incorrect. While the passage states that “no adversary believes it can achieve a quick decisive advantage against India can be gained”, it does not provide any context of geopolitical tensions in India’s neighbourhood. Therefore, the assumption is outside the scope of the passage and thus incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q48",
+      "questionNumber": 48,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "There are four bells which ring at an interval of 40 minutes, 50 minutes, 60 minutes and 90 minutes respectively. If all of them ring at 9 A.M, how many more times will they ring together in the next 72 hours?"
+      ],
+      "questionText": "There are four bells which ring at an interval of 40 minutes, 50 minutes, 60 minutes and 90 minutes respectively. If all of them ring at 9 A.M, how many more times will they ring together in the next 72 hours?",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "2",
+        "d": "3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** To find how many more times the bells will ring together in the next 72 hours, we need the Least Common Multiple (LCM) of their intervals (40, 50, 60, and 90 minutes).\nLCM=LCM(40,50,60,90)=1800 minutes Convert to Hours: 1800/60 = 30 hours Determine Number of Rings in 72 Hours: 72/30 =2.4 Since we are interested in the whole number of times they ring together in 72 hours (excluding the initial 9 A.M.\nring), the bells will ring together 2 more times in the next 72 hours. Therefore, the correct answer is: (c) 2",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q49",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "What is the remainder when (3¹ + 3² + 3³ + 3⁴ + ... + 3⁸⁰) is divided by 10?"
+      ],
+      "questionText": "What is the remainder when (3¹ + 3² + 3³ + 3⁴ + ... + 3⁸⁰) is divided by 10?",
+      "options": {
+        "a": "0",
+        "b": "2",
+        "c": "5",
+        "d": "8"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** To find the remainder when powers of 3 are divided by 10, we simply look at the last digit of each term:\n3¹ / 10 = Remainder 3 3² / 10 = Remainder 9 3³ / 10 = 27, so Remainder 7 3⁴ / 10 = 81, so Remainder 1 3⁵ / 10 = 243, so Remainder 3 (Pattern repeats) The remainders follow a cycle of 4: (3, 9, 7, 1).\nCalculate the Sum of One Full Cycle Sum of one cycle = 3 + 9 + 7 + 1 = 20. When this sum (20) is divided by 10, the remainder is 0. Determine the Number of Full Cycles There are 80 terms in total (from 3¹ to 3⁸⁰). Total terms / Cycle length = 80 / 4 = 20 full cycles.\nFinal Remainder Calculation Since there are 20 full cycles and each cycle results in a remainder of 0: Final Remainder = 20 × 0 = 0. Therefore, Option a is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test5-q50",
+      "questionNumber": 50,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Replace the incorrect term by the correct term in the given sequence 3, 2, 7, 4, 13, 10, 21, 18, 31, 28, 43, 40 where odd terms and even terms follow the same pattern."
+      ],
+      "questionText": "Replace the incorrect term by the correct term in the given sequence 3, 2, 7, 4, 13, 10, 21, 18, 31, 28, 43, 40 where odd terms and even terms follow the same pattern.",
+      "options": {
+        "a": "0",
+        "b": "1",
+        "c": "3",
+        "d": "6"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** On observing the odd and the even series separately, we can see that in each of the series the next term is obtained by adding 2 extra from and to the previous term. So, the added elements are 4, 6, 8, 10 and 12. In the even term, the 2nd term must be obtained by adding 4 to the first one. So, the 1st term would be 4-4=0",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

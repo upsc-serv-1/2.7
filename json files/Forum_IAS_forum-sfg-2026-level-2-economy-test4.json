@@ -1,0 +1,1814 @@
+{
+  "id": "forum-sfg-2026-level-2-economy-test4",
+  "title": "Test 4- L2 SFG 2026 - Sectional - Economy",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q01",
+      "questionNumber": 1,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "The total fertility rate in an economy is defined as:"
+      ],
+      "questionText": "The total fertility rate in an economy is defined as:",
+      "options": {
+        "a": "The number of children born per 1000 people in the population in a year.",
+        "b": "The number of children born to a couple in their lifetime in a given population.",
+        "c": "The birth rate minus death rate.",
+        "d": "The average number of live births a woman would have by the end of her child-bearing ag"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Total Fertility Rate (TFR) is the average number of children who would be born to any women in her lifetime. It is the average number of children a women would have at the end of their reproductive period if they were subject during their whole lives to the fertility rates of a given period and if they were not subject to mortality.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "A software engineer leaves her job in Bengaluru to search for a higher-paying job in Hyderabad and remains jobless for three months during the transition. Which type of unemployment she faced during the three month period?"
+      ],
+      "questionText": "A software engineer leaves her job in Bengaluru to search for a higher-paying job in Hyderabad and remains jobless for three months during the transition. Which type of unemployment she faced during the three month period?",
+      "options": {
+        "a": "Cyclical Unemployment",
+        "b": "Frictional Unemployment",
+        "c": "Disguised Unemployment",
+        "d": "Seasonal unemployment"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Frictional unemployment occurs when a person is out of one job and is searching for another for different reasons such as seeking a better job, being fired from a current job, or having voluntarily quit a current job. It generally requires some time before a person can get the next job. During this time he is frictionally unemployed. This type of unemployment is temporary in nature. Example: A software engineer leaves her job in Bengaluru to search for a higher-paying job in Hyderabad and remains jobless for three months during the transition.\nKnowledge Base: Cyclical unemployment is caused by business cycles and hence it is called cyclical unemployment. During the depression phase of the business cycle, effective demand falls leading to accumulation of inventories. Consequently, large scale retrenchment takes place and unemployment is there. It is also called deflationary unemployment.\nDisguised unemployment occurs when laborers are employed, but their contribution to output is zero. It implies that the marginal productivity of labour is zero.\nSeasonal unemployment is associated with activities carried out in certain seasons only. Such unemployment is very common in agriculture; there is a lean season after harvest.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following scenario:",
+        "Presently there is 6% unemployment rate in an economy and the inflation is stable. If the unemployment rate rises to",
+        "7% then the inflation in the economy falls. Also, if the unemployment rate decreases to 5% then inflation in the economy rises. Then in this scenario, the Non-Accelerating Inflation Rate of Unemployment (NAIRU) will be?"
+      ],
+      "questionText": "Consider the following scenario: Presently there is 6% unemployment rate in an economy and the inflation is stable. If the unemployment rate rises to 7% then the inflation in the economy falls. Also, if the unemployment rate decreases to 5% then inflation in the economy rises. Then in this scenario, the Non-Accelerating Inflation Rate of Unemployment (NAIRU) will be?",
+      "options": {
+        "a": "6%",
+        "b": "7%",
+        "c": "5%",
+        "d": "1%"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The natural rate of inflation is termed as the ‘non-accelerating inflation rate of unemployment’ (NAIRU). NAIRU is not the rate of inflation itself, but rather the specific, lowest unemployment rate that can exist without causing inflation to rise or accelerate. It means that there is no acceleration in inflation if unemployment is maintained at this. When unemployment is at the natural rate or NAIRU, there will be stability in the rate of inflation. When unemployment departs from the natural rate, there is acceleration or deceleration in the inflation rate.\nIf unemployment rises, inflation falls. If unemployment falls, there will come a point, where inflation starts to increase. As in the above scenario, above 6% inflation falls and below 6% it rises, so in this case, the NAIRU is at 6%.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q04",
+      "questionNumber": 4,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the International Labour Organisation (ILO), consider the following statements:",
+        "I. It was established under the Washington Treaty of 1945 to set and promote labor standards across the world.",
+        "II. It is the only tripartite U.N. agency which brings together government, employers and workers’ representatives.",
+        "III. The World Employment and Social Outlook is a flagship report published by ILO.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the International Labour Organisation (ILO), consider the following statements: I. It was established under the Washington Treaty of 1945 to set and promote labor standards across the world. II. It is the only tripartite U.N. agency which brings together government, employers and workers’ representatives. III. The World Employment and Social Outlook is a flagship report published by ILO. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "I and III",
+        "c": "III only",
+        "d": "II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The International Labour Organization (ILO) aims to promote social justice and internationally recognize human and labour rights, pursuing its founding mission that social justice is essential to universal and lasting peace.\nStatement I is incorrect: The International Labour Organisation (ILO) was founded in 1919 as a result of the Treaty of Versailles (and not the Washington Treaty) after World War I. It aims to establish enduring peace grounded in social justice. It became a specialised agency of the United Nations in 1946. India is its founding member and became the permanent member of its Governing Body in 1922.\nStatement II is correct: ILO is the only tripartite U.N. agency that brings together governments, employers and workers of 187 Member States, to set labour standards, develop policies and devise programmes promoting decent work for all women and men. The unique tripartite structure of the ILO gives an equal voice to workers, employers and governments to ensure that their views are closely reflected in setting labour standards and shaping policies.\nStatement III is correct: World Employment and Social Outlook is ILO’s flagship report. World Employment and Social Outlook Trends 2025 report provides an in-depth analysis of global labour market trends, highlighting the impacts of slowing economic recovery, persistent youth unemployment, and gender disparities. It examines the structural challenges facing workers worldwide and offers insights into regional and global patterns shaping the future of work.\nKnowledge Base: ILO Conventions ratified by India:\n- Forced Labour Convention (No. 29)\n- Abolition of Forced Labour Convention (No. 105)\n- Equal Remuneration Convention (No. 100)\n- Discrimination (Employment Occupation) Convention (No. 111)\n- Minimum Age Convention (No. 138)\n- Worst forms of Child Labour Convention (No. 182) ILO Conventions not ratified by India:\n- Freedom of Association and Protection of the Right to Organise Convention, 1948 (No. 87)\n- Right to Organise and Collective Bargaining, 1949 (No. 98)\n- Convention on Violence and Harassment (No. 190)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the Convention on Cluster Munitions, consider the following statements",
+        "I. It is an international treaty that prohibits the use, development, production, acquisition, stockpiling, and transfer of cluster munitions under any circumstances.",
+        "II. India is a signatory to this convention.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Convention on Cluster Munitions, consider the following statements I. It is an international treaty that prohibits the use, development, production, acquisition, stockpiling, and transfer of cluster munitions under any circumstances. II. India is a signatory to this convention. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: The Convention on Cluster Munitions (CCM), adopted in May 2008 and in force since August 2010, is an international treaty that strictly prohibits the use, development, production, acquisition, stockpiling, and transfer of cluster munitions under any circumstances.\n- It also prohibits any form of assistance in carrying out these activities.\n- The convention aims to address the humanitarian consequences caused by cluster munitions, by preventing their proliferation and future use.\nStatement II is incorrect: As of now (2025), 112 states are parties to the Convention and 12 states have signed but not yet ratified.\n- India is not a signatory to the Convention on Cluster Munitions.\n- Along with countries like the United States, Russia, China, Ukraine, and Israel, India has chosen not to sign the treaty, primarily due to military and strategic considerations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Alkire-Foster method, recently seen in news, is related to:"
+      ],
+      "questionText": "Alkire-Foster method, recently seen in news, is related to:",
+      "options": {
+        "a": "Measuring Multidimensional poverty",
+        "b": "Calculating Gross Domestic Product",
+        "c": "Measuring retail inflation levels",
+        "d": "Measuring greenhouse gas emission per capita"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Multidimensional poverty is based on health, education, and living standards, each of which is given equal weight.\nThe three categories are divided into 12 indicators. Every household in India is given a score based on the 12 parameters and if a household has a deprivation score higher than 33 per cent, it is identified as multidimensionally poor.\nThe MPI, also called the Alkire-Foster method, was developed by the Oxford Poverty and Human Development Initiative to measure the levels and intensity of poverty. India has added two new parameters—maternal health and bank accounts—to its national MPI.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the e-Shram portal, consider the following statements:",
+        "I. Each unorganized worker who is registered on the portal is assigned with a unique 12 digit Universal Account",
+        "Number (UAN).",
+        "II. Its primary purpose is to facilitate delivery of welfare benefits and social security measures to unorganised sector workers across the country.",
+        "III. Once the worker registers to the e-shram portal he/she is provided with a financial incentive of Rs. 6000 which will be released in three equal installments.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the e-Shram portal, consider the following statements: I. Each unorganized worker who is registered on the portal is assigned with a unique 12 digit Universal Account Number (UAN). II. Its primary purpose is to facilitate delivery of welfare benefits and social security measures to unorganised sector workers across the country. III. Once the worker registers to the e-shram portal he/she is provided with a financial incentive of Rs. 6000 which will be released in three equal installments. Which of the statements given above are correct?",
+      "options": {
+        "a": "I,II and III",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The E-Shram Portal is a flagship initiative by the Government of India launched in 2021 to support and empower the unorganized workforce, which forms the backbone of the nation’s economy.\nStatement I is correct: The e-Shram portal registers and supports unorganised workers by providing a 12-digit unique Universal Account Number (UAN) on a self-declaration basis. It serves as a one-stop solution by integrating various social security and welfare schemes on a single platform, enabling workers to access pension benefits and track their entitlements seamlessly.\nStatement II is correct: e-Shram is a comprehensive National Database of Unorganised Workers (NDUW) launched by the Government of India under the Ministry of Labour & Employment. Its primary purpose is to facilitate delivery of welfare benefits and social security measures to unorganised sector workers across the country. The platform aims to register and provide identity cards to unorganised workers, enabling them to access various government schemes, benefits, and services more efficiently.\nStatement III is incorrect: There is no monetary/financial/cash incentive after registration to the e-shram portal. eShram will act as a One-Stop-Solution for unorganized workers to have access to various social security schemes.\nThe Ministry of Labour and Employment has launched the eShram–“One-Stop-Solution” which entails integration of different social security/ welfare schemes at a single portal i.e. eShram. So far, thirteen (13) schemes of different Central Ministries/ Departments have already been integrated/ mapped with the eShram including Pradhan Mantri Street Vendors Atmanirbhar Nidhi (PMSVANidhi), Pradhan Mantri Suraksha Bima Yojana (PMSBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), National Family Benefit Scheme (NFBS), Mahatma Gandhi National Rural Employment Guarantee scheme (MGNREGS)[ now Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin)], Pradhan Mantri Awas Yojana –Gramin (PMAY-G), Ayushman Bharat – Pradhan Mantri Jan Arogya Yojana (ABPMJAY), Pradhan Mantri Awas Yojana – Urban (PMAY-U) and Pradhan Mantri Matsya Sampada Yojana (PMMSY), Pradhan Mantri Kisan Maandhan Yojana (PM-KMY).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q08",
+      "questionNumber": 8,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In the context of the Indian economy, which of the following is/are most likely to be included in the country’s labour force?",
+        "I. A 25 year old unemployed person who is actively seeking work.",
+        "II. A 35 year old person who is working in a multinational company.",
+        "III. A 65 year old person working as a watchman at an ATM.",
+        "IV. A 26-year-old student pursuing higher education in a university and presently not seeking any job opportunity.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "In the context of the Indian economy, which of the following is/are most likely to be included in the country’s labour force? I. A 25 year old unemployed person who is actively seeking work. II. A 35 year old person who is working in a multinational company. III. A 65 year old person working as a watchman at an ATM. IV. A 26-year-old student pursuing higher education in a university and presently not seeking any job opportunity. Select the correct answer using the code given below:",
+      "options": {
+        "a": "II only",
+        "b": "I, II and III",
+        "c": "II and III only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Labor force means all persons who are working (i.e. being engaged in the economic activity) as well as those who are not working but are seeking or available for work at the current wage rate. It means the labor force consists of both employed and unemployed people.\nOption I is correct: A 25 year-old unemployed person who is actively seeking work is considered unemployed but willing and available for work. As per the definition, such persons are included in the labour force.\nOption II is correct: A 35 year-old working in a multinational company is employed and engaged in economic activity. Hence, this person is part of the labour force.\nOption III is correct: A 65-year-old person working as a watchman at an ATM is engaged in economic activity, irrespective of his/her age. Since the labour force includes all persons working (not restricted by age if economically active), this person is included.\nOption IV is incorrect: A 30-year-old student pursuing higher education in a university is not working and not seeking work. Such individuals are classified as being outside the labour force, because they are neither employed nor available for employment.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q09",
+      "questionNumber": 9,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In the context of Indian Economy, which of the following best describes the term \"Silver Dividend\"?"
+      ],
+      "questionText": "In the context of Indian Economy, which of the following best describes the term \"Silver Dividend\"?",
+      "options": {
+        "a": "The potential benefit that will arise with the increase in the female labour force participation rate with the decline in fertility rate.",
+        "b": "The revenue earned by the government through taxation of pension income of the old age population.",
+        "c": "Economic gains due to the transition of the Indian economy from gold dependent to silver dependent reserve system.",
+        "d": "The potential economic and social benefits arising from an active and productive old age population."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** India's population is projected to age rapidly in the coming decades, with the 60-plus demographic expected to reach 13.2% by 2031 and double by 2050, as per the UN Population Fund. The Silver Dividend refers to the economic and social potential of an aging population, emphasizing the importance of keeping elderly individuals active and engaged in economic, social, and familial roles. The Silver Economy, currently valued at ₹73,082 crore, is anticipated to expand significantly in the coming years.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q10",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "The ‘Bond Central’ has been recently launched by the Securities and Exchange Board of India (SEBI) with the primary objective of"
+      ],
+      "questionText": "The ‘Bond Central’ has been recently launched by the Securities and Exchange Board of India (SEBI) with the primary objective of",
+      "options": {
+        "a": "Enabling foreign investors to invest in corporate bonds without registering with the Securities and Exchange Board of India (SEBI)",
+        "b": "Channelizing financial resources of banks towards corporate bond market",
+        "c": "Providing a platform to retail investors that enables them to directly invest in corporate bonds",
+        "d": "Providing information to the public regarding corporate bonds issued in India"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Bond Central is a centralized database portal for corporate bonds in India. It was launched by the Securities and Exchange Board of India (SEBI) in a bid to create a single, authentic source of information on such securities. ‘Bond Central’ aims to create a single, authentic source of information on corporate bonds issued in India.\nIt has been developed by the Online Bond Platform Providers Association (OBPP Association) in collaboration with Market Infrastructure Institutions (MIIs) comprising stock exchanges and depositories. It is intended as an information repository for the public at large and is accessible free of cost.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q11",
+      "questionNumber": 11,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.",
+        "2. In an SHG, all members of a group take responsibility for a loan that an individual member takes.",
+        "3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.",
+        "How many of the above statements are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived. 2. In an SHG, all members of a group take responsibility for a loan that an individual member takes. 3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement 1 is incorrect. NABARD began promoting self-help groups in 1991–1992. And it served as the actual launch pad for the “SHG movement.” The Reserve Bank of India additionally permitted SHGs to open savings banks accounts in 1993. The ability to use banking services gave the movement a significant boost.\nStatement 2 is correct: The Banks provide the loan to the Self Help Group as a whole and it is the collective responsibility of the SHG to repay that loan. Hence all members of a group take responsibility for a loan that an individual member takes. Further, the SHG may decide to not provide any share in further loans to the defaulter member.\nStatement 3 is correct. The Financial Inclusion Fund scheme to support Scheduled Commercial Banks (SCBs) and Regional Rural Banks (RRBs) for enabling Dual Authentication option in the microATMs for SHG transactions is being launched to provide an enabling eco-system for the SHGs to seamlessly operate at Business Correspondent points with the proposed “Dual Authentication” feature. Thus, it can be said that SCBs and RRBs support the SHGs in availing the credits as per their needs.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to Integrated Child Development scheme, consider the following statements:",
+        "I. It is a central sector scheme.",
+        "II. One of its components is pre-school non-formal education to children aged between 3-6 years.",
+        "III. ‘Household income below the Poverty Line’ is the sole criteria for registration of beneficiaries under ICDS.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Integrated Child Development scheme, consider the following statements: I. It is a central sector scheme. II. One of its components is pre-school non-formal education to children aged between 3-6 years. III. ‘Household income below the Poverty Line’ is the sole criteria for registration of beneficiaries under ICDS. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "II and III",
+        "c": "I and II",
+        "d": "I and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is incorrect: The Integrated Child Development Services (ICDS) Scheme is a Centrally sponsored Scheme (not the Central Sector Scheme) implemented by States/UTs across the country. The responsibility for implementation of ICDS Programme including computerization if any and providing supplementary nutrition under its and management thereof rests with States/UTs.\nStatement II is correct: The scheme is launched with a view to improving the nutritional status of children and reducing child mortality and malnutrition. In order to achieve these objectives, a package of six services namely (i) supplementary nutrition (SNP), (ii) immunization, (iii) health check-up, (iv) referral services, (v) pre-school non-formal education for children aged 3-6 years and vi) nutrition & health education are provided.\nStatement III is incorrect: All children below 6 years of age, pregnant women and lactating mothers are eligible for availing of services under the ICDS Scheme. Below Poverty Line is not a criterion for registration of beneficiaries under ICDS. The Scheme is universal for all categories of beneficiaries and in coverage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Reports/Indices Published/ Released By",
+        "I. Global Hunger Index Food and Agricultural Organization",
+        "II. The State of Food Security and Nutrition in the World Concern Worldwide and Welthungerhilfe.",
+        "III. Child Nutrition Report United Nations Educational, Scientific and Cultural Organization",
+        "How many pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Reports/Indices Published/ Released By I. Global Hunger Index Food and Agricultural Organization II. The State of Food Security and Nutrition in the World Concern Worldwide and Welthungerhilfe. III. Child Nutrition Report United Nations Educational, Scientific and Cultural Organization How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is incorrect: The Global Hunger Index is a tool used to track and assess countries’ progress toward achieving hunger-related Sustainable Development Goals (SDGs). It is published annually by the Irish humanitarian organisation Concern Worldwide and the German aid agency Welthungerhilfe. Pair II is incorrect: The State of Food Security and Nutrition in the World is published annually by the Food and Agricultural organization. It presents the headline number of undernourished people around the world, while advocating for strategies against hunger and malnutrition. SOFI is jointly produced with fellow UN agencies IFAD, UNICEF, WFP and WHO.\nPair III is correct: The Child Nutrition Report is published by the United Nations Children's Fund (UNICEF). It focuses on child food poverty, malnutrition, and obesity, providing data on the status and trends of children's nutrition globally.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to Janani Suraksha Yojana, consider the following statements:",
+        "I. It aims to reduce maternal and neonatal mortality",
+        "II. One of its objective is to promote institutional deliveries among poor pregnant women.",
+        "III. Under the scheme universal public health facilities to sick infants up to one year of age will be provided.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Janani Suraksha Yojana, consider the following statements: I. It aims to reduce maternal and neonatal mortality II. One of its objective is to promote institutional deliveries among poor pregnant women. III. Under the scheme universal public health facilities to sick infants up to one year of age will be provided. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "II and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The scheme \"Janani Suraksha Yojana\" was launched on 12th April 2005 by the Ministry of Health and Family Welfare, Government of India. The scheme aims to reduce maternal and neonatal mortality. The Scheme provides 100% centrally sponsored cash assistance integrated with delivery and post-delivery care\n\nStatement II is correct: Janani Suraksha Yojana (JSY) promotes institutional delivery among pregnant women especially with weak socio-economic status i.e. women from Scheduled Castes, Scheduled Tribes and BPL households. The scheme focuses on increasing institutional and safe deliveries for Below Poverty Line families, and includes assistance for Caesarean sections or obstetric complications.\nStatement III is incorrect: JSY does not provide public health facilities to infants up to one year of age. Its focus is primarily on safe delivery and immediate postnatal care.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which one of the following is a pull factor for migration?"
+      ],
+      "questionText": "Which one of the following is a pull factor for migration?",
+      "options": {
+        "a": "Natural disaster",
+        "b": "High wage",
+        "c": "Housing shortage",
+        "d": "Low income"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Pull factors “pull” people to a new home and include things like better opportunities. Some of the pull factors are good opportunities for work, better health services, and Higher wages.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2021,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which of the following is the primary objective of the Tim Tim Taare (TTT) initiative?"
+      ],
+      "questionText": "Which of the following is the primary objective of the Tim Tim Taare (TTT) initiative?",
+      "options": {
+        "a": "To bridge the knowledge gap between students following different education curriculum by developing a uniform curriculum to be followed across India.",
+        "b": "To impart vocational education to school students through Industrial Training Institutes (ITIs).",
+        "c": "To impart essential life skills among adolescent students across India.",
+        "d": "To impart necessary foundational literacy and numeracy among children before reaching grade 3 across India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Economic Survey 2024–25, prepared by Chief Economic Advisor V. Anantha Nageswaran and tabled in Parliament by Finance Minister Nirmala Sitharaman, highlights a unique programme started in Tamil Nadu i.e Tim Tim Taare (literally twinkling stars).\nTim Tim Taare (TTT) is a pioneering initiative that aims to impart essential life skills to adolescent students across India. Unlike vocational training, which focuses on technical skills, TTT places emphasis on soft skills and key components of personal growth, effective communication, emotional intelligence, and social well-being. Through TTT, students are empowered to face life’s challenges confidently and clearly.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following statements with respect to moonlighting, recently seen in the news:",
+        "I. It refers to the practice of using false documentation and forged experience letters to secure a new job while continuing to work in an existing job.",
+        "II. In India the practice of moonlighting is explicitly prohibited under the Companies Act, 2013.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to moonlighting, recently seen in the news: I. It refers to the practice of using false documentation and forged experience letters to secure a new job while continuing to work in an existing job. II. In India the practice of moonlighting is explicitly prohibited under the Companies Act, 2013. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is incorrect: Moonlighting is the act of working at an extra job beyond regular working hours, usually without the knowledge of the employer. Since the side job was mostly at nighttime or on weekends, it was referred to as moonlighting. The term gained popularity when workers in the US started seeking a second job beyond their regular 9-to-5 work for additional income. An employee may work a normal 9-to-5 job as a primary source of income but work nights at a different job in order to earn extra money.\n- Using false documentation and forged experience letters to secure a new job while employed is a serious fraudulent practice that can lead to potential criminal charges under the Bharatiya Nyaya Sanhita (BNS), 2023.\nStatement II is incorrect: Moonlighting is not explicitly prohibited by a single central law in India, but it is generally restricted by employment contracts. Industrial Employment (Standing Orders) Rules, 1946 stipulates that a workman shall not at any time work against the interest of the industrial establishment in which he is employed and shall not take any employment in addition to his job in the establishment, which may adversely affect the interest of his employer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following statements:",
+        "As per NITI Aayog’s National Multidimensional Poverty Index (MPI) a household is considered deprived if:",
+        "I. not even one member of the household aged 10 years or older has completed six years of schooling.",
+        "II. a household cooks with dung, agricultural crops or coal.",
+        "III. any one the household member above the age of 18 years does not have a bank account or a post office account.",
+        "IV. the household has no electricity.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: As per NITI Aayog’s National Multidimensional Poverty Index (MPI) a household is considered deprived if: I. not even one member of the household aged 10 years or older has completed six years of schooling. II. a household cooks with dung, agricultural crops or coal. III. any one the household member above the age of 18 years does not have a bank account or a post office account. IV. the household has no electricity. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and IV only",
+        "b": "II and IV only",
+        "c": "I and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The National Multidimensional Poverty Index (MPI) Baseline Report is prepared by NITI Aayog in collaboration with its technical partners, the Oxford Poverty and Human Development Initiative (OPHI) and the United Nations Development Programme (UNDP). Similar to the Global MPI, India’s National MPI comprises three equally weighted dimensions namely Health, Education, and Standard of Living measured through 12 indicators.\nOption I is correct: Under the Education dimension of India’s National Multidimensional Poverty Index (MPI), a household is considered deprived if no member aged 10 years or older has completed at least six years of schooling.\nAdditionally, deprivation is also identified if any school-aged child is not attending school up to the age at which he or she would complete Class 8.\nOption II is correct: Under the standard of living dimension, a household cooks with dung, agricultural crops, shrubs, wood, charcoal or coal is used as an indicator to measure MPI.\nOption III is incorrect: Absence of access to a bank or post office account is treated as deprivation under the bank account indicator of Standard of living dimension. It is not if any one the household member above the age of 18 years does not have a bank account or a post office account then the household will not be considered deprived but no household member has a bank account or post office account.\nOption IV is correct: Under the standard of living dimension, the household if has no electricity then it will be considered deprived.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to Employment elasticity, consider the following statements:",
+        "I. It depicts the relationship between GDP growth and employment generation in an economy",
+        "II. If it is more than one, it indicates that the economy has achieved full employment.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Employment elasticity, consider the following statements: I. It depicts the relationship between GDP growth and employment generation in an economy II. If it is more than one, it indicates that the economy has achieved full employment. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Employment elasticity is a rational measure for checking the causal relation between growth and employment generation in an economy. It is particularly relevant for a country like India, where promoting inclusive growth requires not only a focus on higher GVA but also on creating sufficient employment opportunities, particularly in the formal sector.\nStatement I is correct: Employment elasticity is the percentage change in the number of employed persons in an economy or region associated with a percentage change in economic output, measured by gross domestic product.\nStatement II is incorrect: When Employment elasticity is more than one, employment responds more than proportionately to GDP changes (not the achievement of full employment) that is under positive growth, employment rises but productivity falls, and under negative growth, employment declines while productivity increases.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q20",
+      "questionNumber": 20,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the National Commission for Safai Karamcharis, which of the following statements is/are correct?",
+        "I. It is a statutory body functioning under the Ministry of Housing and Urban Affairs.",
+        "II. It is responsible for monitoring the implementation of The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the National Commission for Safai Karamcharis, which of the following statements is/are correct? I. It is a statutory body functioning under the Ministry of Housing and Urban Affairs. II. It is responsible for monitoring the implementation of The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Recently, the Union Cabinet approved the extension of the tenure of the National Commission for Safai Karamcharis (NCSK) for another three years, up to March 2028.\nStatement 1 is incorrect: The National Commission for Safai Karamcharis (NCSK) was originally a statutory body, established under the National Commission for Safai Karamcharis Act, 1993. However, the Act expired in 2004, after which the NCSK ceased to be a statutory body and has since been functioning as a non-statutory body.\n- Additionally, the NCSK functions under the Ministry of Social Justice and Empowerment (MoSJE), not the Ministry of Housing and Urban Affairs.\n- The MoSJE is responsible for policies related to social justice and empowerment of marginalized communities, including safai karamcharis (sanitation workers).\nStatement 2 is correct: The NCSK plays a key role in overseeing the implementation of The Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013.\n- This Act aims to eliminate the practice of manual scavenging and provides for the rehabilitation of manual scavengers, ensuring their economic and social upliftment.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following statements about the Rashtriya Gokul Mission:",
+        "I. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers.",
+        "II. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the Rashtriya Gokul Mission: I. It is important for the upliftment of rural poor as majority of low producing indigenous animals are with small and marginal farmers and landless labourers. II. It was initiated to promote indigenous cattle and buffalo rearing and conservation in a scientific and holistic manner. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Rashtriya Gokul Mission was initiated by the Government of India under the Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry & Dairying.\nStatement I is correct. The Rashtriya Gokul Mission (RGM) is crucial for upliftment of rural poor as more than 80% low producing indigenous animals are with small and marginal farmers and landless labourers. The scheme is important in enhancing milk production and productivity of bovines to meet growing demand of milk and making dairying more remunerative to the rural farmers of the country.\nStatement II is correct. The Rashtriya Gokul Mission was launched to promote the rearing and conservation of indigenous cattle and buffalo breeds in a scientific and holistic manner. The mission aims to enhance the productivity of native breeds, preserve their genetic diversity, and improve rural livelihoods. It focuses on the development of high-genetic merit animals through modern breeding technologies, establishment of Gokul Grams (cattle care centers), and support for traditional animal husbandry practices.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which among the following curves is a graphical representation of income distribution among the population of a country and is used to analyse the degree of income or wealth inequality in an economy?"
+      ],
+      "questionText": "Which among the following curves is a graphical representation of income distribution among the population of a country and is used to analyse the degree of income or wealth inequality in an economy?",
+      "options": {
+        "a": "Laffer curve",
+        "b": "Lorenz curve",
+        "c": "Phillips curve",
+        "d": "Kuznets curve"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: The Laffer curve, popularised in 1974 by economist Arthur Laffe shows how tax revenues change when the tax rate is either increased or decreased. Typically, it has an inverted-U shape.\nOption b is correct: The Lorenz curve is the most common and widely known measure of income inequality. An American economic statistician, Prof. Max D. Lorenz proposed this curve.\nThe curve depicts inequality by plotting the cumulative share of income (or expenditure) on the vertical axis against the cumulative share of the population on the horizontal axis, arranged from the poorest to the richest.\nIf income were distributed perfectly equally, the Lorenz Curve would coincide with the line of perfect equality (a 45-degree line). The degree of inequality is measured using the Gini Coefficient, which is calculated as the area between the Lorenz Curve and the line of perfect equality, divided by the total area under the line of equality. A larger area indicates greater income inequality.\nOption c is incorrect: The Phillips curve, named after A W Phillips, describes the relationship between unemployment and inflation.\n\nOption d is incorrect: Simon Kuznets, an economist, proposed a particular relationship between income distribution and economic growth. He explained the journey of income inequality as an economy develops from a primarily rural agricultural society to an industrialized urban economy. He stated that the relationship follows an inverted U-shape. This inverted U-shaped curve is known as the Kuznets Curve.\nHe observed that at the initial levels of economic growth, income inequality widens. Afterwards, the inequality stabilises at a given level of economic growth and finally falls in the advanced stages of growth.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the methodology of poverty estimation in India which among the following recommended the updation of the poverty line in the future using the Fisher Index?"
+      ],
+      "questionText": "With reference to the methodology of poverty estimation in India which among the following recommended the updation of the poverty line in the future using the Fisher Index?",
+      "options": {
+        "a": "The Expert Group under the Chairmanship of Dr. C. Rangarajan",
+        "b": "The Expert Group under the Chairmanship of Prof. Suresh D. Tendulkar",
+        "c": "The Expert Group under the Chairmanship of Prof. D.T. Lakdawala",
+        "d": "Task Force under the chairmanship of Dr. Y.K. Alagh"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**In 2012, the Planning Commission constituted an Expert Group under the chairmanship of C. Rangarajan to review the methodology for poverty estimation in India. The Committee submitted its report in 2014 and recommended a revised approach for determining the poverty line. The Methodology recommended by the Expert Group (Rangarajan) for estimation of poverty is as follows: - The poverty line should be based on certain normative levels of adequate nourishment, clothing, house rent, conveyance and education, and a behaviorally determined level of other non-food expenses. - The Expert Group (Rangarajan) computed the average requirements of calories, proteins and fats based on ICMR norms differentiated by age, gender and activity for all-India rural and urban regions to derive the normative levels of nourishment. - The new poverty line thus works out to monthly per capita consumption expenditure of Rs.972 in rural areas and Rs.1,407 in urban areas in**2011-12**. For a family of five, this translates into a monthly consumption expenditure of Rs.4,860 in rural areas and Rs.7,035 in urban areas. - The Expert Group (Rangarajan) therefore estimates that 30.9% of the rural population and 26.4% of the urban population was below the poverty line in**2011-12**. The all-India ratio was 29.5%.\n- The Expert Group (Rangarajan) recommends the updation of the poverty line in the future using the Fisher Index.\n\nKnowledge Base: Tendulkar Committee: The Expert Group to Review the Methodology for Estimation of Poverty, chaired by Suresh Tendulkar, was constituted in 2005 to reassess the existing approach to poverty measurement in India.\nY.K. Alagh Committee: In 1979, the Planning Commission constituted a Task Force on poverty estimation under the chairmanship of Y.K. Alagh, which formulated separate poverty lines for rural and urban areas based on minimum nutritional requirements.\nD.T. Lakdawala Committee: In 1993, an Expert Group under the chairmanship of D.T. Lakdawala was constituted to review the methodology for poverty estimation in India. It proposed the formulation of state-specific poverty lines, which were to be updated using the Consumer Price Index for Industrial Workers (CPI-IW) for urban areas and the Consumer Price Index for Agricultural Labourers (CPI-AL) for rural areas.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "As per Economic Survey 2025-26, between the years 2011 till 2024 arrange the following sectors in ascending order based on their employment elasticity:",
+        "I. Agriculture",
+        "II. Manufacturing",
+        "III. Construction",
+        "IV. Services",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "As per Economic Survey 2025-26, between the years 2011 till 2024 arrange the following sectors in ascending order based on their employment elasticity: I. Agriculture II. Manufacturing III. Construction IV. Services Select the correct answer using the code given below:",
+      "options": {
+        "a": "III-I-II-IV",
+        "b": "IV-III-II-I",
+        "c": "II-I-IV-III",
+        "d": "II-I-III-IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**Employment elasticity is a rational measure for checking the causal relation between growth and employment generation in an economy. Economic Survey**2025-26**provides the data for employment elasticity over**2011-20**24 in the Indian Economy.\nOption II: Manufacturing has the lowest employment elasticity of 0.22 Option I: Agriculture has moderate employment elasticity of 0.41 Option IV: Services show employment elasticity of around 0.43, higher than agriculture and manufacturing Option III: Construction has the highest employment elasticity around 0.60, underscoring the sector’s role as a labour shock absorber Hence the correct ascending order of the sectors based on their employment elasticity is Option c: II-I-IV-III i.e.\nManufacturing (0.22)\n- Agriculture (0.41)\n- Services (0.43)\n- Construction (0.60)\nNote: In such question, elimination technique may work as one is aware that Construction sector has highest employment elasticity and there is only 1 option in the question which justifies the same.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q25",
+      "questionNumber": 25,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In the context of Indian electoral system, the term ‘D-Voter’, recently seen in the news, refers to:"
+      ],
+      "questionText": "In the context of Indian electoral system, the term ‘D-Voter’, recently seen in the news, refers to:",
+      "options": {
+        "a": "A doubtful voter whose Indian citizenship has not been verified.",
+        "b": "A differently abled voter provided with special voting arrangements.",
+        "c": "A dormant voter who hasn’t voted in multiple past elections.",
+        "d": "A deployed voter serving on election duty outside their home constituency."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** D-voters, or doubtful voters, are a special category of voters in the state of Assam. This category of voters was introduced by the Election Commission of India in 1997. These are individuals whose Indian citizenship has not been verified, as they could not provide sufficient evidence to establish their Indian citizenship.\nTheir cases are either:\n- Pending with the Foreigners Tribunals, or-They have already been declared as foreigners by these tribunals.\nDue to the unresolved or doubtful nature of their citizenship:\n- They are not allowed to vote in any election.\n- They are barred from contesting elections or holding public office.\nIt is important to note that the terms ‘doubtful voter’ or ‘doubtful citizenship’ are not defined in the Citizenship Act, 1955, or the Citizenship Rules, 2003, which adds to the ambiguity and complexity surrounding their legal status.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following information:",
+        "Government of India Schemes Objective Nodal Ministry",
+        "I. PM Vishwakarma Scheme Providing holistic and end to end support to artisans and craftspeople.",
+        "Ministry of Textiles",
+        "II. Deendayal Antyodaya Yojana - National Rural Livelihood Mission Mobilizing rural poor households into Self Help Groups (SHGs) and continuously nurturing and supporting them to take economic activities.",
+        "Ministry of Panchayati Raj",
+        "III. PM SVANidhi Provide affordable, collateral-free working capital loans to street Ministry of Finance vendors.",
+        "In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "Consider the following information: Government of India Schemes Objective Nodal Ministry I. PM Vishwakarma Scheme Providing holistic and end to end support to artisans and craftspeople. Ministry of Textiles II. Deendayal Antyodaya Yojana - National Rural Livelihood Mission Mobilizing rural poor households into Self Help Groups (SHGs) and continuously nurturing and supporting them to take economic activities. Ministry of Panchayati Raj III. PM SVANidhi Provide affordable, collateral-free working capital loans to street Ministry of Finance vendors. In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Row I is incorrect: PM Vishwakarma is a Central Sector Scheme launched in 2023 by the Ministry of Micro, Small and Medium Enterprises (not Ministry of Textiles) to provide holistic and end-to-end support to artisans and craftspeople. The scheme offers benefits such as collateral-free credit, skill training, modern tools, incentives for digital transactions, and market linkage support. to strengthen traditional artisans and integrate them into the formal economy.\nRow II is incorrect: Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM), a Centrally Sponsored Scheme being implemented by Ministry of Rural development (not Ministry of Panchayati Raj) in partnership of States and UTs (except Chandigarh and Delhi). Its objective is to reduce poverty by enabling poor households to access gainful self-employment and skilled wage employment opportunities resulting in sustainable and diversified livelihood options for the poor. DAY-NRLM aims at mobilizing rural poor households into Self Help Groups (SHGs) and continuously nurturing and supporting them to take economic activities till they attain an appreciable increase in income over a period of time to come out of abject poverty.\nRow III is incorrect: Pradhan Mantri Street Vendor’s AtmaNirbhar Nidhi (PM SVANidhi) is a special micro-credit scheme launched by the Ministry of Housing and Urban Affairs(not by Ministry of Finance) to provide affordable, collateral-free working capital loans to street vendors. It offers an initial loan of up to ₹10,000 for one year, with a 7% interest subsidy on timely or early repayment and a monthly cashback incentive of up to ₹100 for prescribed digital transactions. Upon timely repayment, beneficiaries become eligible for enhanced loans of ₹20,000 and ₹50,000 in the second and third tranches respectively.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "The Global Gender Gap Report published by the World Economic Forum measures gender inequality across four key dimensions. Which of the following is not one of these dimensions?"
+      ],
+      "questionText": "The Global Gender Gap Report published by the World Economic Forum measures gender inequality across four key dimensions. Which of the following is not one of these dimensions?",
+      "options": {
+        "a": "Economic participation and opportunity",
+        "b": "Educational attainment",
+        "c": "Digital empowerment",
+        "d": "Political empowerment"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Global Gender Gap Report, published annually by the World Economic Forum since 2006. It assesses gender parity across four key dimensions such as:\n1. Economic Participation and Opportunity, 2. Educational Attainment, 3. Health and Survival, and 4. Political Empowerment (but not Digital empowerment).\nThe Global Gender Gap Index is released annually by the World Economic Forum. It was first introduced in 2006 to benchmark the current state and evolution of gender parity across four key dimensions: Economic Participation and Opportunity, Educational Attainment, Health and Survival, and Political Empowerment..\nThe index lies between 0 and 1, with 1 denoting complete parity. The gender gap is the distance from full parity. India ranked 131 out of 148 countries in the WEF's Global Gender Gap Report 2025, slipping two positions from last year.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "The targeted beneficiaries under PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN) scheme are:"
+      ],
+      "questionText": "The targeted beneficiaries under PM Janjati Adivasi Nyaya Maha Abhiyan (PM JANMAN) scheme are:",
+      "options": {
+        "a": "The tribal population residing in the North-Eastern region of India.",
+        "b": "The Scheduled Tribes residing in Fifth Schedule areas of the Indian Constitution.",
+        "c": "The Particularly Vulnerable Tribal Groups (PVTGs) spread across 18 States and one Union Territory.",
+        "d": "The denotified, nomadic and semi-nomadic tribes recognized in India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**During FY**2023-24**, Hon'ble PM launched Pradhan Mantri Janjati Adivasi Nyaya Maha AbhiyaN (PM JANMAN) for socio-economic development of 75 PVTG communities residing in 18 states and one UT. The mission aims to provide basic facilities such as safe housing, clean drinking water and improved access to education, health and nutrition, road and telecom connectivity, electrification of unelectrified households and sustainable livelihood opportunities in 3 years. These objectives are planned to be met through 11 interventions implemented by 9 line Ministries.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the National Family Health Survey (NFHS), consider the following statements:",
+        "I. The National Statistical Organisation is the nodal agency responsible for providing coordination and technical guidance for the survey.",
+        "II. As per NFHS-5, India’s total fertility rate has fallen below the replacement level of fertility.",
+        "III. As per NFHS-5, Bihar has the highest Total Fertility Rate (TFR) among the states in India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the National Family Health Survey (NFHS), consider the following statements: I. The National Statistical Organisation is the nodal agency responsible for providing coordination and technical guidance for the survey. II. As per NFHS-5, India’s total fertility rate has fallen below the replacement level of fertility. III. As per NFHS-5, Bihar has the highest Total Fertility Rate (TFR) among the states in India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**Statement I is incorrect: The Ministry of Health and Family Welfare (MOHFW), Government of India, designated the International Institute for Population Sciences(IIPS) Mumbai, as the nodal agency, responsible for providing coordination and technical guidance for the National Family Health survey. Statement II is correct: As per NFHS-5, the total fertility rate is 2.0 children per woman, which declined from 2.2 children in**2015-16** and is currently below the replacement level of fertility of 2.1 children per woman.\nStatement III is correct: Total fertility rate (TFR) is the average number of children a woman would have by the end of her childbearing years if she bore children at the current age-specific fertility rates. As per NFHS 5, Bihar has the highest TFR in India with the value of 3.0.\n\nKnowledge Base: Based on NFHS-5 (2019–21) Total Fertility Rate (TFR) data, the top three states with the highest fertility levels are Bihar (3.0), Meghalaya (2.9), and Uttar Pradesh (2.4).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which of the following is incorrect regarding the National Turmeric Board in India?"
+      ],
+      "questionText": "Which of the following is incorrect regarding the National Turmeric Board in India?",
+      "options": {
+        "a": "It is a statutory body constituted under the Farmers' Produce Trade and Commerce (Promotion and Facilitation) Act, 2020.",
+        "b": "It functions under the Ministry of Commerce and Industry.",
+        "c": "It includes three members to represent turmeric producing States, on rotation basis.",
+        "d": "One of the functions of the board is to promote research and development of new turmeric products"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**India is the largest producer, consumer and exporter of turmeric in the world. India has more than 62% share of world trade. During**2023-24**, 1.62 lakh tonnes of turmeric and turmeric products valued at 226.5 million USD were exported.\nStatement a is incorrect. The Government of India has set up the National Turmeric Board. The National Turmeric Board has been established by an executive order of the Union Government. Thus, it is not a statutory body.\nStatement b is correct. It functions under the Ministry of Commerce & Industry. Statement c is correct. The National Turmeric Board shall consist of\n- (i) Chairperson; (ii) Four members to represent respectively the Ministries/Departments of the Central Government dealing with Commerce, Agriculture and Farmers Welfare, Ayush, and Pharmaceuticals; (iii) Three members to represent turmeric producing States, on rotation basis; (iv) Three members to represent turmeric growers (to be nominated by Central Government); (v) Two members to represent exporters of turmeric and turmeric products (to be nominated by Central Government); (vi) Secretary, Spices Board; (vii) Director, Indian Institute of Spices Research, Kozhikode; (viii) Director, National Institute of Pharmaceutical Education and Research, (NIPER) Guwahati; (ix) Chief Executive Officer, National Medicinal Plant Board; and (x) Secretary.\nStatement d is correct. Its functions are:\n- Focusing on the welfare of the turmeric farmers spread across 20 states, including Maharashtra, Tamil Nadu, Andhra Pradesh, Madhya Pradesh, Meghalaya and others.\n- Promoting research and development of new turmeric products and investigating the value addition of turmeric related products for marketing abroad.\n- Creating awareness on the essential and medical properties of turmeric-Ensuring quality and safety standards of turmeric production and exports.\n- Facilitating coordination with other Government Departments/ Agencies in matters pertaining to the turmeric sector.\n- Making efforts for increasing trade of turmeric and its products, especially given the health and wellness benefits of turmeric.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which of the following statements about ‘Vibrant Village Programme’ of the Government of India is/are correct?",
+        "1. It aims at comprehensive development of the identified villages",
+        "2. Fairs, festivals, sports meet etc. are organized under this programme Select the answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements about ‘Vibrant Village Programme’ of the Government of India is/are correct? 1. It aims at comprehensive development of the identified villages 2. Fairs, festivals, sports meet etc. are organized under this programme Select the answer using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Vibrant Villages Programme (VVP) is a centrally sponsored scheme launched by the Government of India in 2023. It focuses on the holistic development of villages located along India’s northern border, especially in states like Arunachal Pradesh, Himachal Pradesh, Uttarakhand, Sikkim, and the Union Territory of Ladakh. The primary aim is to strengthen border infrastructure, improve livelihood opportunities, and prevent outmigration from remote regions. Additionally, the programme promotes community engagement and aims to make border villages socially vibrant.\nStatement 1 is correct. The programme clearly focuses on the comprehensive development of identified villages. This includes the development of infrastructure, digital connectivity, housing, tourism, renewable energy, and livelihood generation. The objective is not only to improve living standards but also to ensure that people remain in these strategic areas.\nStatement 2 is correct. As part of its community engagement efforts, the programme also includes the organisation of fairs, festivals, sports meet, and awareness campaigns. These activities are designed to foster social integration, enhance cultural participation, and build a sense of national belonging in remote villages. Over 2,900 such events have already been conducted under the scheme.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2024,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In the context of the Sukanya Samriddhi Yojana, consider the following:",
+        "I. Priya, the only girl child of her parents, recently celebrated her fifth birthday.",
+        "II. Pooja, aged 8 years and has an elder sister who already has a Sukanya Smaridhi Account.",
+        "III. Shanu, aged 7 years has two elder sisters aged 15 and 12 years and both of them have a Sukanya Smaridhi Account.",
+        "IV. Arpita, aged 9 years is the only girl child of her parents and the parents as well as Arpita presently are Non-",
+        "Resident Indians.",
+        "Based on the above information Sukanya Samridhi Account can be opened in the name of which among the above girl child?"
+      ],
+      "questionText": "In the context of the Sukanya Samriddhi Yojana, consider the following: I. Priya, the only girl child of her parents, recently celebrated her fifth birthday. II. Pooja, aged 8 years and has an elder sister who already has a Sukanya Smaridhi Account. III. Shanu, aged 7 years has two elder sisters aged 15 and 12 years and both of them have a Sukanya Smaridhi Account. IV. Arpita, aged 9 years is the only girl child of her parents and the parents as well as Arpita presently are Non- Resident Indians. Based on the above information Sukanya Samridhi Account can be opened in the name of which among the above girl child?",
+      "options": {
+        "a": "Priya only",
+        "b": "Priya and Pooja only",
+        "c": "Priya, Pooja and Shanu only",
+        "d": "Priya, Pooja, Shanu and Arpita"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Sukanya Samriddhi Yojana is a low-risk deposit scheme with the Government guaranteeing the principal amount and the interest payment as per the rates decided each quarter and paid annually. A Sukanya Samriddhi Yojana account is an account that holds the funds deposited towards the SSY scheme. Parents or legal guardians can open an account for their Indian girl child at any India Post office or branch of any Public Sector Bank and authorised Private Sector Banks.\n- The account may be opened anytime from the birth of the girl child until she attains the age of 10 years.\n- Only one SSY account is permitted per girl child, and a family can open accounts for a maximum of two girl children. However, more than two accounts are allowed in cases of twins or triplets, subject to submission of an affidavit along with the relevant birth certificates.\n- A family can open a maximum of two SSY accounts.\n- NRIs are not eligible-The account is transferable to any location within India.\nThus only Priya and Pooja will be eligible under whose name a Sukanya Smaridhi account can be opened. Shanu, will not be eligible as from a family maximum of two SSY accounts can be opened. Also Arpita will not be eligible as NRIs are not eligible under the scheme.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q33",
+      "questionNumber": 33,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana provides cashless cover of up to ₹5,00,000 to each eligible family per annum for listed secondary and tertiary care conditions.",
+        "II. Ayushman Bharat Digital Mission aims to promote digitization of healthcare and create an open interoperable digital health ecosystem for the country.",
+        "III. Ayushman Aarogya Mandirs (AAM) ensures that primary healthcare is accessible to people near their homes.",
+        "IV. Pradhan Mantri Ayushman Bharat Health Infrastructure Mission would ensure affordable tertiary healthcare services and augment quality medical education facilities.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: I. Ayushman Bharat Pradhan Mantri Jan Aarogya Yojana provides cashless cover of up to ₹5,00,000 to each eligible family per annum for listed secondary and tertiary care conditions. II. Ayushman Bharat Digital Mission aims to promote digitization of healthcare and create an open interoperable digital health ecosystem for the country. III. Ayushman Aarogya Mandirs (AAM) ensures that primary healthcare is accessible to people near their homes. IV. Pradhan Mantri Ayushman Bharat Health Infrastructure Mission would ensure affordable tertiary healthcare services and augment quality medical education facilities. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I and II only",
+        "c": "III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Ayushman Bharat is an attempt to move from sectoral and segmented approach of health service delivery to a comprehensive need-based health care service. Ayushman Bharat makes quality healthcare accessible on all three levels – primary, secondary and tertiary. The pillars under Ayushman Bharat includes:\n- Ayushman Bharat-Pradhan Mantri Jan Aarogya Yojana (AB-PMJAY)\n- Ayushman Aarogya Mandirs (AAM)\n- Ayushman Bharat Digital Mission (ABDM)\n- PM-Ayushman Bharat Health Infrastructure Mission (PM-ABHIM)\nStatement I is correct: Ayushman Bharat Pradhan Mantri Jan Arogya Yojana provides cashless cover of up to INR 5,00,000 to each eligible family per annum for listed secondary and tertiary care conditions.\nStatement II is correct: The Ayushman Bharat Digital Mission (ABDM) aims to promote digitization of healthcare and creating an open interoperable digital health ecosystem for the country. It aims to do so by prescribing common health data standards, developing core modules such as registry of health facilities, healthcare professionals etc required for interoperability; so that various digital health systems can interact with each other by enabling seamless sharing of data across various healthcare providers who may be using different digital health systems. Thus, ABDM seeks to bridge the gap among multiple stakeholders that are the part of the healthcare ecosystem.\nStatement III is correct: Ayushman Aarogya Mandirs (AAM) ensures that primary healthcare is accessible to people near their homes or through a phone call.\nAyushman Bharat-Health and Wellness Centres (AB-HWCs), now renamed as Ayushman Arogya Mandir, by upgrading the Sub Health Centres (SHCs) and rural and urban Primary Health Centres (PHCs), in both urban and rural areas, to bring health care closer to the community.\nStatement IV is incorrect: Pradhan Mantri Ayushman Bharat Health Infrastructure Mission, (PM-ABHIM) aims for strengthening healthcare infrastructure across the country. The measures under the scheme focus on developing capacities of health systems and institutions across the continuum of care at all levels viz. primary, secondary and tertiary and on preparing health systems in responding effectively to the current and future pandemics/disasters.\nPradhan Mantri Swasthya Suraksha Yojana (PM SSY) aims to correct regional imbalances in affordable tertiary healthcare services and augment quality medical education facilities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following activities:",
+        "I. A government-led initiative to provide specialized vocational training to rural artisans.",
+        "II. A company investing in comprehensive health insurance and medical check-ups for its employees.",
+        "III. A transport company adding a new fleet of electric buses to its existing operations.",
+        "Which of the above are examples of ‘Human Capital Formation’?"
+      ],
+      "questionText": "Consider the following activities: I. A government-led initiative to provide specialized vocational training to rural artisans. II. A company investing in comprehensive health insurance and medical check-ups for its employees. III. A transport company adding a new fleet of electric buses to its existing operations. Which of the above are examples of ‘Human Capital Formation’?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Human capital formation refers to the process of increasing the knowledge, skills, health, and productivity of people. It involves investments in education, training, healthcare, and skill development, which help individuals become more productive, efficient and valuable in economic terms.\nStatement I is correct: Skill Development is a key to human capital formation. Specialized vocational training to rural artisans is imparting the necessary skills in artisans. Thus, it would be an example of Human capital formation.\nStatement II is correct: Health is a critical component of human capital. A healthy worker is more productive, has fewer sick days, and has a longer working life. Thus, a company investing in comprehensive health insurance and medical check-ups for its employees will help in human capital formation.\nStatement III is incorrect: Buying a new fleet of electric buses is a form of physical capital investment. It may improve the business of the transport company because of the addition to the existing fleet. Hence, it does not contribute to human capital.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "The Hague Service Convention, recently seen in the news, primarily deals with:"
+      ],
+      "questionText": "The Hague Service Convention, recently seen in the news, primarily deals with:",
+      "options": {
+        "a": "Settlement of international trade disputes",
+        "b": "Transmission of legal documents across countries",
+        "c": "Supervision of diplomatic immunity and privileges",
+        "d": "Standardization of civil aviation safety norms"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Hague Service Convention, officially known as the Convention on the Service Abroad of Judicial and Extrajudicial Documents in Civil or Commercial Matters (1965), is a multilateral treaty that aims to facilitate the transmission of legal documents in civil and commercial matters across international borders.\n- It applies only between countries that are party to the Convention and helps avoid delays or disputes over service validity in cross-border cases.\n- The Convention has been adopted by 84 countries, including the United States, India, and the United Kingdom.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to Sustainable Developments Goals, consider the following information:",
+        "Goal number Objective/Description Related initiative/scheme in India",
+        "I. Goal 2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture.",
+        "Pradhan Mantri Kisan Samman Nidhi",
+        "II. Goal 5 Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.",
+        "Padhe Bharat Badhe Bharat (PBBB)",
+        "III. Goal 6 Ensure availability and sustainable management of water and sanitation for all.",
+        "PM Krishi Sinchayee Yojana",
+        "IV. Goal 13 Take urgent action to combat climate change and its impact National Solar Mission",
+        "In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to Sustainable Developments Goals, consider the following information: Goal number Objective/Description Related initiative/scheme in India I. Goal 2 End hunger, achieve food security and improved nutrition and promote sustainable agriculture. Pradhan Mantri Kisan Samman Nidhi II. Goal 5 Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all. Padhe Bharat Badhe Bharat (PBBB) III. Goal 6 Ensure availability and sustainable management of water and sanitation for all. PM Krishi Sinchayee Yojana IV. Goal 13 Take urgent action to combat climate change and its impact National Solar Mission In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The 2030 Agenda for Sustainable Development was adopted in 2015 by all 193 member states of the United Nations General Assembly. It comprises 17 Sustainable Development Goals (SDGs) and 169 targets, guided by the principle of “Leaving No One Behind.” Row I is correct: Goal 2 aims to end all forms of hunger and malnutrition by 2030, making sure all people, especially children have sufficient and nutritious food all year. The Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) aligns with SDG Goal 2 target which provides income support to farmers, strengthening agricultural sustainability and food security.\nRow II is incorrect: Goal 5 aims to achieve Gender equality by ending all discrimination against women and girls (not related to Quality education). Goal 4 of SDG target of achieving inclusive and quality education for all. Padhe Bharat Badhe Bharat (PBBB) is a sub-programme of the Sarva Shiksha Abhiyan, aimed at improving foundational literacy and numeracy among children at the elementary level. It targets the goal under SDG 4(not SDG 5). Row III is correct: Goal 6 aims to provide safe and affordable drinking water for all by 2030. The Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) promotes efficient water use and irrigation expansion, contributing to sustainable water management and aligns with the Goal 6 of SDG.\nRow IV is correct: Goal 13 aims at supporting vulnerable regions for their climate actions to address the needs of developing countries to both adapt to climate change and invest in low-carbon development. The National Solar Mission aligns with Goal 13 which promotes the large-scale adoption of solar energy in order to reduce carbon emissions and advance low-carbon development.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the Indian Economy, which of the following best describes a “Living Wage”?"
+      ],
+      "questionText": "With reference to the Indian Economy, which of the following best describes a “Living Wage”?",
+      "options": {
+        "a": "It is the legally mandated minimum remuneration that an employer must pay to workers.",
+        "b": "It refers to an income earned by a single worker that is sufficient to meet the basic needs of the entire household.",
+        "c": "It is the wage that is considered reasonable for the type of work performed.",
+        "d": "It is the level of pay that enables workers and their families to maintain a decent standard of living."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption a is incorrect: The minimum amount of remuneration that an employer is required to pay based on law to wage earners for the work performed during a given period is referred as Minimum Wage.\nOption b is incorrect: A level of wage of a person that is sufficient to support not just the individual worker, but the entire family dependent on that worker is referred as the Family Wage.\nOption c is incorrect: The wage that is reasonable for the type of work done is referred as Fair wage which ensures employees are paid equitably for their work.\nOption d is correct: A living wage is a level of pay that gives workers and their families a decent standard of living. This includes being able to afford basic needs such as food, housing, healthcare, education, transport and clothing.\nKnowledge Base: Current practice in India: The Code on Wages, 2019 safeguards employees’ interests through universal minimum wages, ensuring dignity and timely payment of wage. It provides that the employer shall pay minimum rates wages notified by appropriate government to employees. If an employee whose minimum rate of wages has been fixed under the Code, works beyond normal working hours, the employer must pay overtime for each extra hour at a rate of at least twice the normal wage.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q38",
+      "questionNumber": 38,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In a country, ‘Natural Population Change’ over a period of time can be known through:"
+      ],
+      "questionText": "In a country, ‘Natural Population Change’ over a period of time can be known through:",
+      "options": {
+        "a": "Adding the total number of live births and total number of inward migrants.",
+        "b": "Calculating the net difference between the inward migration rate and outward migration rate.",
+        "c": "Calculating the difference between the birth rate and the death rate.",
+        "d": "Adding the net difference between the inward migration rate and outward migration rate and the difference between the birth rate and the death rat"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Population growth refers to the change in the number of people living in a specific area over a period of time, typically expressed as a percentage. It has two main components: natural growth and induced growth.\nNatural Population Change is calculated as the difference between the birth rate and the death rate and does not include migration factors such as immigration and emigration.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/legy201.pdf https://www.nios.ac.in/media/documents/316courseE/ch26.pdf https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:Natural_population_change"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "NPS Vatsalya a contributory savings and long term financial security scheme designed exclusively for minors is administered by:"
+      ],
+      "questionText": "NPS Vatsalya a contributory savings and long term financial security scheme designed exclusively for minors is administered by:",
+      "options": {
+        "a": "National Savings Institute",
+        "b": "Pension Fund Regulatory and Development Authority",
+        "c": "Insurance Regulatory and Development Authority",
+        "d": "The National Commission for Protection of Child Rights"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** NPS Vatsalya is a contributory savings and long term financial security scheme designed exclusively for minors. It is a Contributory Pension Scheme regulated and administered by Pension Fund Regulatory and Development Authority (PFRDA) designed specifically for all Indian minor citizens till the age of 18 years. Its objective is to create a pension society and encourage the empowerment of children by inculcating the habit of saving for retirement from an early age.\nKnowledge Base: Under this scheme, parents or guardians can open an NPS account for their children and contribute an amount every month or year till the child reaches 18 years. The minimum contribution is ₹ 1,000 per year, and there is no limit on the maximum contribution. This scheme allows parents to open accounts for their children and contribute towards their retirement savings.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q40",
+      "questionNumber": 40,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the Middle East, the Netzarim Corridor, recently seen in the news, is situated in:"
+      ],
+      "questionText": "With reference to the Middle East, the Netzarim Corridor, recently seen in the news, is situated in:",
+      "options": {
+        "a": "Golan Heights",
+        "b": "Sinai Peninsula",
+        "c": "West Bank",
+        "d": "Gaza Strip"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Netzarim Corridor is a strategic military zone located in the central part of the Gaza Strip.\nKey facts about Netzarim Corridor:\n- The corridor was established by the Israel Defense Forces (IDF) during the Gaza War.\n- The corridor stretches from the Gaza-Israel border to the Mediterranean Sea, effectively dividing the Gaza Strip into northern and southern parts.\n- Its purpose was to cut off Hamas fighters and disrupt their movements between the two regions.\n- The corridor has been in the news recently because, as part of an Israel-Hamas ceasefire agreement, Israeli forces have withdrawn from this area.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which of the following strategies is/are adopted for implementing the POSHAN Abhiyaan?",
+        "1. Inter-sectoral convergence for better service delivery",
+        "2. Use of technology (ICT) for real-time growth monitoring of women and children",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Which of the following strategies is/are adopted for implementing the POSHAN Abhiyaan? 1. Inter-sectoral convergence for better service delivery 2. Use of technology (ICT) for real-time growth monitoring of women and children Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The POSHAN Abhiyaan, also known as the National Nutrition Mission, is a flagship program of the Government of India aimed at addressing malnutrition and improving nutritional outcomes for women and children.\nStatement 1 is correct: One of the key strategies adopted for implementing the POSHAN Abhiyaan is inter-sectoral convergence. This involves collaboration and coordination among different sectors such as health, nutrition, education, agriculture, water and sanitation, and social welfare.\nStatement 2 is correct: Another strategy adopted for implementing the POSHAN Abhiyaan is the use of technology, specifically Information and Communication Technology (ICT). The program utilizes technologyenabled tools and platforms for real-time growth monitoring of women and children.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Consider the following pairs with reference to educational assessment:",
+        "Educational Assessment Index/Test Conducted by",
+        "I. School Education Quality Index (SEQI) National Council of Educational Research and Training (NCERT)",
+        "II. Annual Status of Education Report (ASER) NGO Pratham Education Foundation",
+        "III. National Achievement Survey NITI Aayog",
+        "How many pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs with reference to educational assessment: Educational Assessment Index/Test Conducted by I. School Education Quality Index (SEQI) National Council of Educational Research and Training (NCERT) II. Annual Status of Education Report (ASER) NGO Pratham Education Foundation III. National Achievement Survey NITI Aayog How many pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is incorrect: School Education Quality Index (SEQI) was developed by NITI Aayog (and not the NCERT) to evaluate the performance of States and Union Territories (UTs) in the school education sector. The index aims to bring an ‘outcomes’ focus to education policy by providing States and UTs with a platform to identify their strengths and weaknesses and undertake requisite course corrections or policy interventions.\nPair II is correct: Annual Status of Education Report (ASER) is a nationwide household survey that captures the status of children’s enrollment and learning outcomes in rural India every year. The ASER report has been prepared by the Pratham Education Foundation since 2005. The ASER report examines the schooling status and foundational learning of children across districts and states of rural India.\nPair III is incorrect: The National Achievement Survey (NAS) is a national level large-scale assessment conducted to obtain information about the learning achievement of students of Classes 3, 5, 8 and 10 studying in State Govt. schools, Govt. Aided schools, Private Unaided and Central Govt. schools. NAS does not provide scores for individual students/schools. The National Council of Educational Research and Training (NCERT), and not the NITI Aayog, under the aegis of the Ministry of Education, conducts NAS throughout the country.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Which of the following statements is/are correct about the difference between Mahatma Gandhi National Rural",
+        "Employment Guarantee Act (MGNREGA) and Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G",
+        "RAM G) Act, 2025?",
+        "I. MGNREGA guaranteed 100 days of unskilled manual work, whereas VB-G RAM G guarantees 125 days of unskilled manual work.",
+        "II. Unlike MGNREGA, the VB-G RAM G Act permits States to notify a statutory pause window during which no work will be executed up to 60 days in a financial year.",
+        "III. Unlike MGNREGA which mandated social audit of the work taken up under the scheme, the VB-G RAM G Act has no provision of social audit of the work taken under the scheme.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements is/are correct about the difference between Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA) and Viksit Bharat-Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Act, 2025? I. MGNREGA guaranteed 100 days of unskilled manual work, whereas VB-G RAM G guarantees 125 days of unskilled manual work. II. Unlike MGNREGA, the VB-G RAM G Act permits States to notify a statutory pause window during which no work will be executed up to 60 days in a financial year. III. Unlike MGNREGA which mandated social audit of the work taken up under the scheme, the VB-G RAM G Act has no provision of social audit of the work taken under the scheme. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** MGNREGA was enacted in 2005 to stabilise rural incomes and create basic infrastructure. In 2025, the Viksit Bharat– Guarantee for Rozgar and Ajeevika Mission (Gramin) (VB-G RAM G) Act, was introduced as a comprehensive statutory overhaul of MGNREGA by aligning rural employment with the long-term vision of Viksit Bharat 2047.\nStatement I is correct: Under MGNREGA, there are 100 days of wage employment per rural household, whereas Viksit Bharat–G RAM G provides 125 days of wage employment per rural household.\nStatement II is correct: MGNREGA has no explicit statutory “pause window”. In contrast, under Viksit Bharat–G RAM G, States can notify up to 60 days in a financial year when work will not be executed in case of peak sowing and harvesting season.\nStatement III is incorrect: Section 17 of the MGNREGA has mandated Social audit of all Works executed under the MGNREGA. Similarly, under section 20 of VB-G RAM G Act, 2025 the Gram Sabha shall conduct regular social audits of all works taken up under the Scheme within the Gram Panchayat, in such manner as may be prescribed by the Central Government.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the National Career Service (NCS), consider the following statements:",
+        "I. It would help Indian citizens in seeking employment opportunities both in India and abroad.",
+        "II. In partnership with Microsoft India, it launched the Digisaksham, a digital skills initiative for employability through digital skills.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the National Career Service (NCS), consider the following statements: I. It would help Indian citizens in seeking employment opportunities both in India and abroad. II. In partnership with Microsoft India, it launched the Digisaksham, a digital skills initiative for employability through digital skills. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Ministry of Labour and Employment is implementing the National Career Service (NCS) Project as a Mission Mode Project for transformation of the National Employment Service to provide a variety of employment related services like career counselling, vocational guidance, information on skill development courses, apprenticeship, internships etc.\nStatement I is correct: The NCS project is a one-stop solution that provides a wide array of employment and career related services to the citizens of India. It works towards bridging the gap between candidates and employers; candidates seeking training and career guidance and agencies providing training and career counseling.\nThe NCS portal’s integration with the Ministry of External Affairs’ eMigrate system enables certified recruiting agencies to post verified international job vacancies and provides job seekers with access to global opportunities under safe and monitored conditions.\nThus, NCS would help Indian citizens in seeking employment opportunities both in India and abroad.\n\nStatement II is correct: The NCS partnered with Microsoft India to launch Digisaksham. It is a joint digital skills initiative for employability through digital skills. The project is focused on empowering the youth from rural & semi-urban areas to acquire digital skills, with a focus on rural and socially disadvantaged youth for better career opportunities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q45",
+      "questionNumber": 45,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Recently announced by the Union Government, the Grameen Credit Score Initiative is primarily aimed at-"
+      ],
+      "questionText": "Recently announced by the Union Government, the Grameen Credit Score Initiative is primarily aimed at-",
+      "options": {
+        "a": "Providing housing loans at cheaper interest rates",
+        "b": "Promoting financial inclusion of Self-Help Groups",
+        "c": "Providing loan waivers to poor and marginal farmers",
+        "d": "Promoting refinancing of micro finance institutions"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**Recently, the finance minister of India announced Grameen Credit Score Scheme in Union Budget**2025-26**.\nGrameen Credit Score aims to formalize Self Help Group (SHG) transactions within the central credit system of India. Thereby allowing leading financial institutions to better assess their creditworthiness. The Grameen Credit Score is a framework to be developed by public-sector banks for fulfilling the credit needs of members of Self-Help Groups (SHGs) and people in rural areas. The goal of this initiative is to address the challenges faced by rural people in applying for and getting credit.\nThe objective behind this scheme is to promote financial inclusion for Self Help Group (SHGs) and women entrepreneurs. It is meant to assess the creditworthiness of rural individuals, and thus facilitating easier access to loans. The scheme will thus promote financial inclusion in rural areas.\nThis score represents a significant shift in analysing the creditworthiness of millions of women involved in the SHGs across India’s rural areas.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q46",
+      "questionNumber": 46,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Amit started reading a 245-page book on Monday. He noticed that each day he read 10 pages more than the previous day. He finished the book before next Monday. On which day did he finish reading the book?"
+      ],
+      "questionText": "Amit started reading a 245-page book on Monday. He noticed that each day he read 10 pages more than the previous day. He finished the book before next Monday. On which day did he finish reading the book?",
+      "options": {
+        "a": "Tuesday",
+        "b": "Wednesday",
+        "c": "Thursday",
+        "d": "Friday"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Given: I. Total pages = 245 II. Reading pattern: each day he reads 10 pages more than the previous day III. Start day = Monday IV. He finishes the book before next Monday We are asked to find the day he finished reading.\nRepresent reading mathematically Let the number of pages Amit read on Monday be x.\n- Tuesday: x + 10-Wednesday: x + 20-Thursday: x + 30-Friday: x + 40-Saturday: x + 50-Sunday: x + 60 Total pages read formula The total pages read over n days form an arithmetic progression:\nTotal pages = sum of all pages read = 245 If he finished in n days, the sum formula: Sum = (number of days) × (first day pages + last day pages) ÷ 2-Let’s check possible days before next Monday: Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday Test day by day Option a — Finish on Tuesday (2 days):\n- Pages read: Monday = x, Tuesday = x + 10-Sum = x + (x + 10) = 2x + 10 = 245 → 2x = 235 → x = 117.5-Not possible (pages must be whole numbers) → Reject\nOption b — Finish on Wednesday (3 days): I. Pages read: x, x+10, x+20 II. Sum = x + (x + 10) + (x + 20) = 3x + 30 = 245 → 3x = 215 → x ≈ 71.67 III. Not a whole number → Reject Option c — Finish on Thursday (4 days): I. Pages read: x, x+10, x+20, x+30 II. Sum = x + (x+10) + (x+20) + (x+30) = 4x + 60 = 245 III. Solve: 4x = 245 − 60 = 185 → x = 46.25 IV. Not a whole number → Reject Option d — Finish on Friday (5 days): I. Pages read: x, x+10, x+20, x+30, x+40 II. Sum = x + (x+10) + (x+20) + (x+30) + (x+40) = 5x + 100 = 245 III. Solve: 5x = 245 − 100 = 145 → x = 29 IV. Whole number → Valid solution Verify total pages a) Monday: 29 b) Tuesday: 39 c) Wednesday: 49 d) Thursday: 59 e) Friday: 69 Sum = 29 + 39 = 68 → 68 + 49 = 117 → 117 + 59 = 176 → 176 + 69 = 245 Conclusion Amit finished reading the book on Friday.\nTherefore, Option d is the correct answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q47",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Let x and y be distinct odd prime numbers, and a and b be distinct even positive integers such that x > y and a >",
+        "b. In this context consider the following statements:",
+        "I. (x - y)ᵃ + (a - b)ˣ is always divisible by 4.",
+        "II. x(a + b) + y(a - b) is always even but never divisible by 4.",
+        "III. (x + a)² × (y + b) is always an odd integer.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Let x and y be distinct odd prime numbers, and a and b be distinct even positive integers such that x > y and a > b. In this context consider the following statements: I. (x - y)ᵃ + (a - b)ˣ is always divisible by 4. II. x(a + b) + y(a - b) is always even but never divisible by 4. III. (x + a)² × (y + b) is always an odd integer. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Let us analyze each statement individually. Statement I: (Correct) Since x and y are both odd, their difference (x-y) must be even. Any even number raised to an even power a (where a ≥ 2) is divisible by 4. Similarly, (a-b) is the difference between two even numbers, which is even. Since x is an odd prime (the smallest being 3), any even number raised to the power of 3 or higher is divisible by 8, and therefore divisible by 4. The sum of two numbers divisible by 4 is always divisible by 4.\nStatement II: (Incorrect) Let's test the expression x(a + b) + y(a-b) with specific values: a) Let x = 5, y = 3, a = 4, b = 2. b) Substituting these: 5(4 + 2) + 3(4-2) = 5(6) + 3(2) = 30 + 6 = 36.\nWhile the result is always even, it is not \"never\" divisible by 4, as 36 is divisible by 4. Statement III: (Correct) (x + a): The sum of an odd and an even number is always odd. The square of an odd number remains odd.\n(y + b): The sum of an odd and an even number is always odd. The product of two odd integers is always odd.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q48",
+      "questionNumber": 48,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "A question is given followed by two Statements I and",
+        "II. Consider the Question and the Statements and mark the correct option.",
+        "Question: Is average of the largest, and the smallest of 4 given numbers greater than the average of the 4 numbers?",
+        "Statement I: The difference between the largest and the second largest numbers is less than the difference between the second smallest and the smallest of the numbers.",
+        "Statement II: The difference between the largest and the smallest numbers is greater than the difference between the second largest and the second smallest of the numbers.",
+        "Which one of the following is correct in respect of the above Question and the Statements?"
+      ],
+      "questionText": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option. Question: Is average of the largest, and the smallest of 4 given numbers greater than the average of the 4 numbers? Statement I: The difference between the largest and the second largest numbers is less than the difference between the second smallest and the smallest of the numbers. Statement II: The difference between the largest and the smallest numbers is greater than the difference between the second largest and the second smallest of the numbers. Which one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by one of the Statements alone but not by the other.",
+        "b": "The Question can be answered by either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered by using either Statement alone.",
+        "d": "The Question cannot be answered even by using both the Statements together. Ana) a"
+      },
+      "correctAnswer": "",
+      "explanationMarkdown": "**Explanation:** Option is the correct answer.** Let the four numbers be a ≤ b ≤ c ≤ d. Statement I: d − c < b − a This implies a + d < b + c, so the average of the largest and smallest is not greater than the average of the 4 numbers.\nStatement II: d−a>c−b This does not provide a direct relationship to determine if a+ d > b + c. Hence the correct answer is; (a) The question can be answered by using Statement I alone, but cannot be answered using Statement II alone.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q49",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only",
+        "Passage - 1 Screen time among older adults is rising due to mundane factors. The smartphone becomes the easiest way to fill gaps between tasks, manage loneliness without leaving home, and keep up with family. That convenience collides with designs built to hold attention. Infinite scroll, auto-play, and snapchat streaks can turn minutes into hours without a clear endpoint. Notifications and group chats keep attention on a short leash, while algorithmic feeds learn what provokes reactions and then serve more of it. Much of this is not ‘content’ in the traditional sense, but a stream of prompts that keeps the elderly hooked to their phones. The result is low productivity, less physical activity, reduced sleep, and a cumulative rise in lifestyle-related risks.",
+        "Which one of the following statements best reflects the critical message conveyed by the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passages. Your answers to these items should be based on the passages only Passage - 1 Screen time among older adults is rising due to mundane factors. The smartphone becomes the easiest way to fill gaps between tasks, manage loneliness without leaving home, and keep up with family. That convenience collides with designs built to hold attention. Infinite scroll, auto-play, and snapchat streaks can turn minutes into hours without a clear endpoint. Notifications and group chats keep attention on a short leash, while algorithmic feeds learn what provokes reactions and then serve more of it. Much of this is not ‘content’ in the traditional sense, but a stream of prompts that keeps the elderly hooked to their phones. The result is low productivity, less physical activity, reduced sleep, and a cumulative rise in lifestyle-related risks. Which one of the following statements best reflects the critical message conveyed by the passage?",
+      "options": {
+        "a": "Endless scrolling on smartphones consumes a substantial portion of adults’ productive time.",
+        "b": "Increased screen time is lowering productivity and promoting sedentary habits among older adults.",
+        "c": "Adults need to consciously regulate their screen time to maintain productivity and overall well-being.",
+        "d": "Adults should quit social media as it prioritises engagement over meaningful content."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statement a is incorrect. The passage states “Infinite scroll, auto-play, and snapchat streaks can turn minutes into hours without a clear endpoint”. However, statement a does not best reflect the critical message conveyed by the passage as it only describes one part of the passage.\nStatement b is correct. It best reflects the critical message conveyed by the passage as it highlights the main idea of the passage i.e. increased use of smartphones is resulting is low productivity, less physical activity, reduced sleep, and a cumulative rise in lifestyle-related risks among older adults.\nStatement c is incorrect. While the passage highlights the negative consequences of increasing screen time, it does not suggest what should be done about reducing it (screen time). Therefore, the statement is incorrect.\nStatement d is incorrect. Although the passage states that social media algorithms are designed in a manner that increase engagement, it does not mention that adults need to quit social media. Therefore, the statement is incorrect.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-economy-test4-q50",
+      "questionNumber": 50,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. The screen time is rising among the older adults while decreasing among the young generation",
+        "II. Loneliness among older adults contributes to increased reliance on smartphones for engagement.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. The screen time is rising among the older adults while decreasing among the young generation II. Loneliness among older adults contributes to increased reliance on smartphones for engagement. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. While the passage talks about increased screen time among older adults, it does not explicitly mention anything about other generations. Therefore, the assumption is outside the scope of the passage and thus incorrect.\nStatement II is correct. The passage states “The smartphone becomes the easiest way to fill gaps between tasks, manage loneliness without leaving home, and keep up with family.” Therefore, we can conclude that\n\nstatement II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

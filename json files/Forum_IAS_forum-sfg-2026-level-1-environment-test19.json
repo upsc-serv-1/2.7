@@ -1,0 +1,1876 @@
+{
+  "id": "forum-sfg-2026-level-1-environment-test19",
+  "title": "Test 19- L1 SFG 2026 - Sectional - Environment",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Which of the following have species that can establish a symbiotic relationship with other organisms?",
+        "1. Cnidarians",
+        "2. Fungi",
+        "3. Protozoa",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following have species that can establish a symbiotic relationship with other organisms? 1. Cnidarians 2. Fungi 3. Protozoa Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Some organisms live together and share both shelter and nutrients. This relationship is called symbiosis.** Option 1 is correct.**Cnidaria is an invertebrate phylum which is often involved in a**symbiotic relation with the **unicellular dinoflagellate algae, called zooxanthellae**.** Option 2 is correct.**C**ertain fungi live inside the roots of plants**. The plants provide nutrients to the fungus, and, in return, the fungus provides water and certain nutrients. Fungi also lives in a symbiotic relation with algae as a lichen.** Option 3 is correct. Protozoa also forms symbiotic relations with other organisms**. Symbiosis in protozoa mostly represents: I. a close mutualistic association between a protozoan and unicellular symbiont (like bacteria, cyanobacteria or/and unicellular algae) or II. protozoans and a multicellular organism (ruminants, lower termites, wood-eating cockroaches, plants)",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following information:",
+        "‘A species whose distribution is restricted to a small geographical area because of the presence of a competitively superior species, is found to expand its distributional range dramatically when the competing species is experimentally removed.’",
+        "Which one of the following ecological phenomena is described above?"
+      ],
+      "questionText": "Consider the following information: ‘A species whose distribution is restricted to a small geographical area because of the presence of a competitively superior species, is found to expand its distributional range dramatically when the competing species is experimentally removed.’ Which one of the following ecological phenomena is described above?",
+      "options": {
+        "a": "Competitive release",
+        "b": "Exploitative competition",
+        "c": "Competitive exclusion",
+        "d": "Interference competition"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**.**\n\nOption a is correct**. The description states competitive release, where a species expands its realized niche once competitive pressure from a dominant competitor is eliminated.**Example: ‘A species whose distribution is restricted to a small geographical area because of the presence of a **competitively superior species, is found to expand its distributional range dramatically when the competing **species is experimentally removed.’ Connell’s classic barnacle experiment demonstrated competitive release**: when the competitively superior barnacle Balanus was removed from the intertidal zone, the inferior competitor Chthamalus rapidly expanded its distribution into the previously restricted area.**\n\nOption b is incorrect. Exploitative competition**refers to a situation where species**indirectly **compete by consuming shared resources, thereby reducing availability for others. While this is related to competition, it does**not describe **post-removal expansion**.**\n\nOption c is incorrect. Competitive exclusion **refers to the complete elimination of one species when two species compete for the same limiting resources. The description here talks about survival and later expansion, not elimination.**\n\nOption d is incorrect. Interference competition **involves**direct inhibition **such as aggression or obstruction, even when resources are abundant. It explains reduced fitness in the presence of another species, not expansion after its removal.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 – Unit X - Ecology - Population Interactions – Competition – Page 199"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The female mosquito is considered as a true parasite.",
+        "Statement II: The female mosquito requires human blood to obtain nutrients essential for reproduction.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The female mosquito is considered as a true parasite. Statement II: The female mosquito requires human blood to obtain nutrients essential for reproduction. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**.**\n\nStatement I is incorrect.**A parasite is an organism that depends on another organism (the host) for its growth and survival. It lives in or on the host and derives nutrients and other resources, usually causing harm to the host. The female mosquito is**not considered a parasite**, even though it requires a blood meal for reproduction. Blood feeding is necessary for egg development and**not for the basic survival**of the adult mosquito, which can subsist on plant nectar. Unlike true parasites, female mosquitoes do not maintain a prolonged association with the host; they feed briefly on blood and then leave.**\n\nStatement II is correct.**The female mosquito requires human blood to obtain nutrients such as proteins and iron, **which are essential for reproduction**. Plant nectar alone cannot fulfill this reproductive requirement.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 – Unit X - Ecology - Population Interactions – Parasitism– Page 200"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to population interactions in ecosystems, consider the following associations:",
+        "I. An orchid growing as an epiphyte on the branch of a mango tree",
+        "II. Barnacles growing on the back of a whale",
+        "III. Egret foraging in close association with grazing cattle",
+        "IV. Interaction between a fig tree and a fig wasp",
+        "How many of the above are examples of commensalism?"
+      ],
+      "questionText": "With reference to population interactions in ecosystems, consider the following associations: I. An orchid growing as an epiphyte on the branch of a mango tree II. Barnacles growing on the back of a whale III. Egret foraging in close association with grazing cattle IV. Interaction between a fig tree and a fig wasp How many of the above are examples of commensalism?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. In ecosystems, different species live in close association with one another. These associations are classified by observing**who gains an advantage and who is affected**. In**commensalism**, one organism benefits from the association, while the other organism remains**neither harmed nor helped**.** Option I is correct. **An**orchid growing on the branch of a mango tree**uses the tree only as a physical structure to stay above the ground and receive better sunlight. The orchid benefits by improving its chances of survival and growth. The mango tree continues to grow normally and does not lose nutrients, water or space. Since one species benefits while the other remains unaffected, this association qualifies as**commensalism**.** Option II is correct. Barnacles attach themselves to the body of a whale**to gain transport and better access to food-rich waters. The barnacles clearly benefit from this arrangement. However, The whale neither derives any apparent benefit, nor does it suffer any noticeable harm due to the presence of barnacles. This makes the interaction a**case of **commensalism**.  Option III is correct. Egrets follow grazing cattle **because the movement of cattle disturbs insects hidden in the grass. This behaviour allows the egrets to capture food more efficiently. The cattle are not affected by the presence of the birds, either positively or negatively. As only the egret benefits and the cattle remain unaffected, this association is an**example of commensalism**.  Option IV is incorrect. **The association between a fig tree and a fig wasp involves benefits to both organisms. The fig wasp uses the fig tree for reproduction, while the fig tree depends on the wasp for pollination.**Since both species **gain from this interaction, it is classified as Mutualism and commensalism**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 – Unit X - Ecology - Population Interactions – Commensalism – Page 201"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Most of the world’s coral reefs are in tropical waters.",
+        "2. More than one-third of the world’s coral reefs are located in the territories of Australia, Indonesia and Philippines.",
+        "3. Coral reefs host far a greater number of animal phyla than those hosted by tropical rainforests.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Most of the world’s coral reefs are in tropical waters. 2. More than one-third of the world’s coral reefs are located in the territories of Australia, Indonesia and Philippines. 3. Coral reefs host far a greater number of animal phyla than those hosted by tropical rainforests. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation: Option d is the correct answer. **\n\nStatement 1 is correct. **Most Coral reefs are located in the tropical waters i.e. between the Tropics of Cancer and Capricorn. It is because of strict environmental conditions which they require to flourish**. **\n\nStatement 2 is correct. **Indonesia, Australia and the Philippines are the largest reef nations with almost 44% of the world's coral reefs. In Indonesia 17.95% of the world's corals are located, in Australia 17.22% of the world's corals are located and in the Philippines 8.81% of world’s corals are located**. **\n\nStatement 3 is correct.**Coral reefs include a wide range of diversity with 32 of the 34 animal phyla present, in contrast to only 9 phyla represented as free living species in tropical rainforest. This is because of the high productivity of coral reefs.**\n\nKnowledge base: **Coral reefs: **- Coral reefs are large underwater structures composed of the skeletons of coral, which are marine invertebrate animals. The coral species that build reefs are known as hermatypic, or “hard,” corals because they extract calcium carbonate from seawater to create a hard, durable exoskeleton that protects their soft, sac-like bodies. Other species of corals that are not involved in reef building are known as “soft” corals. - They grow optimally in water temperatures between 23°–29°Celsius. Most reef-building corals also require very saline (salty) water ranging from 32 to 42 parts per thousand. - Coral reefs are found throughout the oceans, from deep, cold waters to shallow, tropical waters. Temperate and tropical reefs however are formed only in a zone extending at most from 30°N to 30°S of the equator; the reef-building corals preferring to grow at depths shallower than 30 m (100 ft), or where the temperature range is between 16-32and light levels are high. - Coral reefs are one of the most productive and complex coastal ecosystems with high biological diversity. The high productivity is owing to the combination of its own primary production and support from its surrounding habitat. Because of the diversity of life found in the habitats created by corals, reefs are often called the “rainforests of the sea**”.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to the biological interactions in an ecosystem, consider the following information:",
+        "Biological Interaction Description Example",
+        "I. Competition One species benefits while other species is harmed (negatively affected) A clown fish living among the stinging tentacles of a sea anemone",
+        "II. Amensalism One species benefits and the other is neither harmed nor benefited A large tree shading a small plant.",
+        "III. Mutualism Both species benefit from the interaction Introduction of goats in Galapagos islands consisting of tortoise",
+        "In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to the biological interactions in an ecosystem, consider the following information: Biological Interaction Description Example I. Competition One species benefits while other species is harmed (negatively affected) A clown fish living among the stinging tentacles of a sea anemone II. Amensalism One species benefits and the other is neither harmed nor benefited A large tree shading a small plant. III. Mutualism Both species benefit from the interaction Introduction of goats in Galapagos islands consisting of tortoise In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Row I is incorrect:**Competition**is an**interaction between two populations in which both species are harmed to **some extent **due to limited availability of essential resources such as food, water, space, shelter, or mates. It occurs when two populations require the same scarce resource. Competition may be interspecific (between different species) or intraspecific (within the same species, usually more intense). A**clown fish lives among the stinging tentacles of a sea anemone**and gains protection from predators. Predatory fish avoid the anemone because of its stinging cells. The sea anemone, however, does not appear to derive any benefit by hosting the clown fish. As one species benefits while the other remains unaffected, this interaction fits the**definition of commensalism**.**Row II is incorrect:**Amensalism**is a negative association between two species**in which one species harms or **restricts the other species without itself being adversely affected or harmed**by the presence of the other species. Organisms that secrete antibiotics and the species that get inhibited by the antibiotics, together form examples of amensalism. For example the**fungus called bread mould or Penicillium produces penicillin, an antibiotic, which **inhibits the growth of a variety of bacteria. **Penicillium benefits apparently by having greater availability of food when in the competition bacteria are removed.**A large tree shading a small plant is an example of Amensalism.**The large tree inadvertently harms the smaller plant by blocking its access to sunlight, but doesn’t derive any benefit from this interaction.**Row III is incorrect: Mutualism is an interaction that confers benefits on both the interacting species.**The Abingdon tortoise in Galapagos Islands became extinct within a decade after goats were introduced on the island, apparently due to the greater browsing efficiency of the goats.**This is an example of competition.**Knowledge Base:**Biological Interactions in Ecosystem:**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo111.pdf (Pg. 201 - 203) https://nios.ac.in/media/documents/SrSec314NewE/314_Book-2_Eng.pdf (Pg. 164 - 167)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Which one of the following best describes the term ‘Gross Primary Productivity’ of an ecosystem?"
+      ],
+      "questionText": "Which one of the following best describes the term ‘Gross Primary Productivity’ of an ecosystem?",
+      "options": {
+        "a": "The total available biomass for the consumption to heterotrophs in an ecosystem.",
+        "b": "The rate of formation of new organic matter by consumers in an ecosystem.",
+        "c": "The total amount of organic matter present in an ecosystem at a given time.",
+        "d": "The rate of production of organic matter by the producer during photosynthesis."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Primary production is defined as the amount of biomass or organic matter produced per unit area over a time period by plants during photosynthesis. The rate of biomass production is called productivity. It can be divided into gross primary productivity (GPP) and net primary productivity (NPP).**\n\nOption a is incorrect: **The organic compounds formed during photosynthesis are oxidized to derive the energy during respiration in plants. The energy remaining after respiration is stored as organic matter and is called net primary productivity (NPP). Thus, Net primary productivity is the available biomass for the consumption of heterotrophs (herbivores and decomposers).**\n\nOption b is incorrect: Secondary productivity is defined as the rate of formation of new organic matter by **consumers. **This is described as the**accumulation of biomass by the heterotrophs in a given period of time. **Secondary productivity is indeed transferred biomass from the producer; therefore, it is not true productivity.**\n\nOption c is incorrect: **The**amount of accumulated organic matter found in an area at a given time is referred to as **the standing crop biomass. **Biomass is usually expressed as grams of organic matter per square metre (g/m2 ) or as calories per square metre (cal /m2 ). Biomass is the amount of organic matter present at any given time.**\n\nOption d is correct: Gross Primary Productivity (GPP)**of an ecosystem is the**rate of production of organic matter **during photosynthesis.** Gross primary production refers to the total amount of solar energy fixed into organic matter by primary producers through photosynthesis. The total energy accumulated in the plant during primary productivity is known as Gross Primary Productivity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=12-16 (Pg. 206 - 207) https://egyankosh.ac.in/bitstream/123456789/59046/1/Unit8_Ecosystem%20Cunctioning.pdf (Pg. 72 - 73) https://egyankosh.ac.in/bitstream/123456789/85709/1/Unit-10.pdf (Pg. 192)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Despite covering about three-fourths of the Earth’s surface, the annual net primary productivity of oceans is lower than that of terrestrial ecosystems.",
+        "Statement II: The depth up to which sunlight can penetrate and the availability of nutrients are the limiting factors with respect to primary productivity of aquatic ecosystems.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Despite covering about three-fourths of the Earth’s surface, the annual net primary productivity of oceans is lower than that of terrestrial ecosystems. Statement II: The depth up to which sunlight can penetrate and the availability of nutrients are the limiting factors with respect to primary productivity of aquatic ecosystems. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**\n\nStatement I is correct:**Primary productivity varies in different types of ecosystems. The**annual net primary **productivity of the whole biosphere is approximately 170 billion tons **(dry weight) of organic matter. Of this total, about** 115 billion tons are produced on land**and about**55 billion tons in the oceans**( despite occupying about 70 per cent of the surface).**\n\nStatement II is correct and explains Statement I:**Primary productivity depends on the**plant species inhabiting an **area**and**environmental factors such as nutrient availability and light**. In aquatic ecosystems, productivity is constrained by**limited nutrient availability and restricted sunlight penetration**, as photosynthesis is confined to surface waters. In oceans, phytoplankton are restricted to the euphotic zone, while nutrients like nitrogen, phosphorus, and iron are often trapped in deeper layers and must be transported upward. In contrast, terrestrial plants access both light and nutrients through their canopy and root systems, resulting in higher productivity.**As a **result, limited access to sunlight and nutrients, particularly nitrogen, phosphorus, and iron, is a major limitation **on primary productivity in the oceans. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://egyankosh.ac.in/bitstream/123456789/59046/1/Unit8_Ecosystem%20Cunctioning.pdf (Pg. 74 - 75) https://ncert.nic.in/textbook.php?lebo1=12-166 (Pg. 207) https://egyankosh.ac.in/bitstream/123456789/85709/1/Unit-10.pdf (Pg. 192 - 193)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q09",
+      "questionNumber": 9,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Soils of India",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Humus improves the soil fertility.",
+        "Statement II: Being colloidal in nature, humus has a great capacity for imbibing and retaining water and nutrients.",
+        "Statement III: Humus gives the soil a loose texture ensuring better aeration.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Humus improves the soil fertility. Statement II: Being colloidal in nature, humus has a great capacity for imbibing and retaining water and nutrients. Statement III: Humus gives the soil a loose texture ensuring better aeration. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and Statement III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Humification and mineralisation occur during decomposition in the soil. Mineralisation is the process of breakdown of compounds into simple products such as carbon dioxide, water and minerals.**\n\nStatement I is correct: **The residual, incompletely decomposed organic matter left after mineralisation is called humus and the process of its formation as humification.**Humus is an amorphous, colloidal and dark substance **that is the source of energy and nutrients for most soil microorganisms.**Humus improves soil fertility by acting as a **nutrient reservoir,**enhancing water retention, improving soil structure (aeration & drainage), and fostering microbial life, making nutrients available to plants slowly and sustainably.**\n\nStatement II is correct and explains Statement I:**Being colloidal in nature, **humus has a**great capacity for imbibing **and retaining water and nutrients. **Humus, thus, greatly improves the soil fertility.**\n\nStatement III is correct and explains Statement I: **Humification leads to accumulation of a dark coloured amorphous substance called humus that is highly resistant to microbial action and undergoes decomposition at an extremely slow rate.**Humus is important, as it gives the soil a loose texture ensuring better aeration. This allows for better air **circulation and drainage. **Thus, humus plays a pivotal role in improving the soil texture and fertility.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=12-166 (Pg. 208) https://egyankosh.ac.in/bitstream/123456789/66166/2/Unit4.pdf (Pg. 81) https://education.nationalgeographic.org/resource/humus/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "In the context of organic matter, consider the following statements:",
+        "Statement I: Its decomposition occurs faster in warm and moist environments compared to cold dry conditions.",
+        "Statement II: High temperature increases microbial enzyme activity and moisture facilitates microbial metabolism.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of organic matter, consider the following statements: Statement I: Its decomposition occurs faster in warm and moist environments compared to cold dry conditions. Statement II: High temperature increases microbial enzyme activity and moisture facilitates microbial metabolism. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Decomposition is the process of breakdown of complex organic matter into inorganic substances like carbon dioxide, water and nutrients by decomposers.**\n\nStatement I is correct: **Temperature and soil moisture are the most important climatic factors that regulate decomposition through their effects on the activities of soil microbes.**Warm and moist environments favour **decomposition **whereas low temperature and anaerobiosis inhibit decomposition resulting in build up of organic materials. \n\nStatement II is correct and explains Statement I: Higher temperature **increases the rate of microbial enzyme activity,**allowing microorganisms to break down complex organic compounds more efficiently. Moisture**is essential because water facilitates the transport of nutrients and**provides the necessary medium for the chemical **reactions involved in microbial metabolism. **Decomposition occurs more rapidly in these conditions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=12-166 (Pg. 207 - 208) https://egyankosh.ac.in/bitstream/123456789/29483/1/Unit-12.pdf (Pg. 9)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Which of the following statements best describes “carbon fertilization”? carbon dioxide in the atmosphere."
+      ],
+      "questionText": "Which of the following statements best describes “carbon fertilization”? carbon dioxide in the atmosphere.",
+      "options": {
+        "a": "Increased plant growth due to increased concentration of carbon dioxide in the atmosphere.",
+        "b": "Increased temperature of Earth due to increased concentration of carbon dioxide in the atmosphere.",
+        "c": "Increased acidity of oceans as a result of increased concentration of carbon dioxide in the atmosphere.",
+        "d": "Adaptation of all living beings on Earth to the climate change brought about by the increased concentration of"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Carbon fertilization is the increased growth of plants due to an increased rate of photosynthesis in plants that **results from increased levels of carbon dioxide in the atmosphere. ** The effect varies depending on the plant species, the temperature, and the availability of water and nutrients.\nIt is also the artificial enrichment of the atmosphere of greenhouses with carbon dioxide used to improve production levels. Elevated CO2 concentration increases the plant growth and leaf photosynthesis, even under water stress conditions. Also, elevated CO2 concentration enhances water use efficiency under water stresses.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to aquatic ecosystem consider the following statements:",
+        "Statement I: In some of the aquatic ecosystems, the pyramid of biomass is inverted.",
+        "Statement II: The biomass of producers in such an ecosystem is generally much higher than those present in the next trophic level.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to aquatic ecosystem consider the following statements: Statement I: In some of the aquatic ecosystems, the pyramid of biomass is inverted. Statement II: The biomass of producers in such an ecosystem is generally much higher than those present in the next trophic level. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **\n\nStatement I is correct and II is not correct: In some of the aquatic ecosystems such as lakes and oceans, the **pyramid of biomass is inverted. **Since microscopic phytoplanktonic algae are primary producers in the aquatic system. They have a short life span and thus reproduce rapidly. Being single-celled organisms, they do not accumulate much biomass and they are eaten up faster by organisms like zooplankton, fish etc. The consumers in these ecosystems are presented by small microscopic zooplanktons to large organisms like whales**. The weight or the **standing crop of phytoplankton is less as compared to herbivores or other consumers. Thus the biomass of **producers in such an ecosystem is generally lower than those present in the next trophic level. Hence the pyramid **of biomass is inverted in the aquatic ecosystem. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=12-16 (Page 213) https://egyankosh.ac.in/bitstream/123456789/59046/1/Unit8_Ecosystem%20Cunctioning.pdf (Page 65)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to the grazing food chains, consider the following statements:",
+        "Statement I: The number of trophic levels in a grazing food chain is restricted.",
+        "Statement II: The transfer of energy in a grazing food chain is unidirectional in nature.",
+        "Statement III: In grazing food chain, the availability of the energy decreases from lower trophic level to higher trophic level.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the grazing food chains, consider the following statements: Statement I: The number of trophic levels in a grazing food chain is restricted. Statement II: The transfer of energy in a grazing food chain is unidirectional in nature. Statement III: In grazing food chain, the availability of the energy decreases from lower trophic level to higher trophic level. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statements III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is correct: **The**number of trophic levels in the grazing food chain is restricted **as the transfer of energy follows 10 per cent law – only 10 per cent of the energy is transferred to each trophic level from the lower trophic level.**\n\nStatement II is correct but does not explain Statement I: **The pyramid of energy represents the total energy content at each trophic level and is always upright. This indicates that** in a grazing food chain, energy flows in a **unidirectional manner from lower trophic levels to higher trophic levels. This unidirectional nature does not **explain why the number of trophic levels are restricted in a grazing food chain. **\n\nStatement III is correct and explains Statement I: In grazing food chains, the availability of the energy decreases **from lower trophic level to higher trophic level**. As per the 10 per cent law of energy transfer, only a small fraction of energy at one trophic level is passed on to the next, while most is lost as heat during metabolic processes. Thus, the number of trophic levels in the grazing food chain is restricted as the transfer of energy follows 10 per cent law – only 10 per cent of the energy is transferred to each trophic level from the lower trophic level.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://egyankosh.ac.in/bitstream/123456789/12749/1/Unit-8.pdf https://egyankosh.ac.in/bitstream/123456789/16250/1/Unit-5.pdf https://ncert.nic.in/textbook.php?lebo1=12-16- Pg: 211"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q14",
+      "questionNumber": 14,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to the terrestrial ecosystems,",
+        "which one of the following is correct about the ecosystem of a big tree?",
+        "Generally:"
+      ],
+      "questionText": "With reference to the terrestrial ecosystems, which one of the following is correct about the ecosystem of a big tree? Generally:",
+      "options": {
+        "a": "The pyramid of biomass is upright, and the pyramid of numbers is inverted.",
+        "b": "Both the pyramid of numbers and the pyramid of biomass are upright.",
+        "c": "The pyramid of biomass is inverted, and the pyramid of numbers is upright.",
+        "d": "Both the pyramid of numbers and the pyramid of biomass are inverted."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Biomass**refers to the total dry weight of living organisms present at a particular trophic level at a given time. In**terrestrial ecosystems**, large trees accumulate an enormous amount of**standing biomass**in the form of trunks, branches, and foliage. In contrast, herbivores and carnivores collectively possess a much smaller total biomass. Therefore, although consumers may be greater in number, their**combined biomass remains significantly lower**than that of the single large producer, resulting in an**upright pyramid of biomass**. A**tree ecosystem**is an example of an**inverted pyramid of numbers**. A single large tree, acting as the**primary **producer**, supports a vast number of insects and birds that constitute the second and third trophic levels.\nConsequently, the number of organisms increases at higher trophic levels despite the presence of only one or a few producers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://egyankosh.ac.in/bitstream/123456789/59046/1/Unit8_Ecosystem%20Cunctioning.pdf https://egyankosh.ac.in/bitstream/123456789/12749/1/Unit-8.pdf https://ncert.nic.in/textbook.php?lebo1=12-16- Pg: 213"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Which one of the following is the correct taxonomic hierarchy?"
+      ],
+      "questionText": "Which one of the following is the correct taxonomic hierarchy?",
+      "options": {
+        "a": "Kingdom-Phylum-Order-Genus-Family-Class- Species",
+        "b": "Kingdom-Order-Class-Phylum-Family-Genus- Species",
+        "c": "Kingdom-Class-Order-Phylum-Family-Species-Genus",
+        "d": "Kingdom-Phylum-Class-Order-Family-Genus–Species"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. ** Kingdom-Phylum-Class-Order-Family-Genus-Species. This is the standard sequence of taxonomic ranks or categories used in biological classification. Taxonomic ranks are the levels of organization of living organisms based on their similarities and differences. The higher the rank, the more general and inclusive the group; the lower the rank, the more specific and exclusive the group. The highest rank is kingdom, which includes all living organisms; the lowest rank is species, which includes a group of organisms that can interbreed and produce fertile offspring.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following organisms:",
+        "I. Fishing Cat",
+        "II. Otter",
+        "III. Pacific Salmon Fish",
+        "IV. Orangutan",
+        "How many of the above organisms generally breed only once in their entire life span?"
+      ],
+      "questionText": "Consider the following organisms: I. Fishing Cat II. Otter III. Pacific Salmon Fish IV. Orangutan How many of the above organisms generally breed only once in their entire life span?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Option III is correct. Organisms like Pacific salmon fish and bamboo breed only once in their entire lifetime. **Such organisms which breed only once in their lifetime are called semelparous. They usually produce a large number of young ones and invest very little in parental care of the offspring.**Options I, II and IV are incorrect.** Organisms which breed several times during their lifetime are referred to as Iteroparous (most birds and mammals).\nFishing cats, Otter and Orangutan can breed multiple times during their lifetime.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 Page: 196"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to ecological pyramids, consider the following statements:",
+        "Statement I: It does not take into account the same species belonging to two or more trophic levels.",
+        "Statement II: It is based on the linear representation of the food chain.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to ecological pyramids, consider the following statements: Statement I: It does not take into account the same species belonging to two or more trophic levels. Statement II: It is based on the linear representation of the food chain. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Ecological pyramids represent the food or energy relationships between organisms at different trophic levels.**\n\nStatement I is correct: Ecological pyramids assume that each species occupies a single trophic level, which **overlooks the possibility of a species being part of multiple trophic levels.**For example, a sparrow is a primary consumer when it eats seeds, fruits, peas, and a secondary consumer when it eats insects and worms.**\n\nStatement II is correct: Ecological pyramids are based on the linear representation of the food chain**, showing energy, biomass, or number of organisms at each trophic level. However, they do not accommodate the complexity of food webs, which depict interconnected feeding relationships and all possibilities in an ecosystem.**Statement II explains Statement I: **The ecological pyramid is based on linear representation of the food chain, therefore does not take into account the same species belonging to two or more trophic levels.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo112.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "In the context of ecosystems, which of the following statements best describes the term ‘ecological efficiency’?",
+        "It represents the ratio: next higher trophic level."
+      ],
+      "questionText": "In the context of ecosystems, which of the following statements best describes the term ‘ecological efficiency’? It represents the ratio: next higher trophic level.",
+      "options": {
+        "a": "Between the gross primary productivity to net primary productivity in an ecosystem.",
+        "b": "Of calories per unit of harvested vegetation to the solar radiation intercepted.",
+        "c": "Between the total population of species to the total resources available in an ecosystem.",
+        "d": "Between the quantity of energy acquired from the lower trophic level and the quantity of energy transferred to the"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**\n\nOption d is correct. **Ecological efficiency represents the ratio between the quantity of energy acquired from the lower trophic level and the quantity of energy transferred to the next higher trophic level is termed ecological efficiency.\nLindman in 1942 defined ecological efficiency; hence it is also known as Lindman’s efficiency. The amount of energy reaching each trophic level depends on the net production of the primary producers at the base of the food chain and the extent of energy transfer at each trophic level.\nEcological efficiency is dependent on two factors:\n- Assimilation Efficiency refers to the percentage of the food consumed that is actually digested and assimilated into the body of the consumer.\n- Net production efficiency (NPE) is a measure of how efficiently organisms convert assimilated energy into new biomass for the next trophic level.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q19",
+      "questionNumber": 19,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "“India has more than 1000 different varieties of mango.” The statement best reflects:"
+      ],
+      "questionText": "“India has more than 1000 different varieties of mango.” The statement best reflects:",
+      "options": {
+        "a": "Species diversity",
+        "b": "Genetic diversity",
+        "c": "Beta diversity",
+        "d": "Habitat diversity"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer **\n\nOption a is incorrect: Species diversity **is at the species level, for example, the Western Ghats have a greater amphibian species diversity than the Eastern Ghats.**\n\nOption b is correct: India, has more than 1000 different varieties of mango refers to Genetic diversity. **Genetic Diversity refers to the occurrence of variations of genes within a particular species. It is concerned with the variation in genes within a particular species.**\n\nOption c is incorrect: Beta diversity **refers to the difference in species composition between ecosystems. It quantifies how species diversity changes from one habitat to another, providing insights into the spatial patterns of biodiversity.**\n\nOption d is incorrect: Habitat diversity** is a metric of how many different habitats are present in a given area.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf (Page 217)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biogeochemical Cycles (C, N, S, P, etc.)",
+      "statementLines": [
+        "In context to environment, consider the following processes:",
+        "I. Photosynthesis by plants",
+        "II. Decomposition of dead organic matter by microorganisms",
+        "III. Respiration by human beings",
+        "IV. Combustion of fossil fuels",
+        "V. Eruption of a Volcano",
+        "How many of the above mentioned activities/processes add carbon dioxide to the atmosphere?"
+      ],
+      "questionText": "In context to environment, consider the following processes: I. Photosynthesis by plants II. Decomposition of dead organic matter by microorganisms III. Respiration by human beings IV. Combustion of fossil fuels V. Eruption of a Volcano How many of the above mentioned activities/processes add carbon dioxide to the atmosphere?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The carbon cycle is the biogeochemical cycle by which carbon is exchanged between soil, water and atmosphere (air) of the earth. It is the most important cycle of the earth and allows for carbon to be recycled by all of its organisms.** Option I is incorrect. Plants absorb carbon dioxide from the atmosphere during photosynthesis. **The carbon dioxide that a plant absorbs is converted, by photosynthesis, into starch. Green plants receive carbon dioxide from the atmosphere which is used for making food with the help of the sunlight. This is called photosynthesis.** Option II is correct: Decay of dead animals adds carbon dioxide to the atmosphere. **When animals and plants die, their bodies decompose, and decomposers (like bacteria and fungi) break down the organic matter, releasing carbon stored in their tissues, mainly in the form of carbon dioxide.** Option III is correct: Respiration by human beings adds carbon dioxide to the atmosphere **since the humans breathe in oxygen, but breathe out carbon dioxide.** Option IV is correct: The burning of fossil fuels releases carbon dioxide into the atmosphere. **It is one of the major components contributing to global warming.** Option V is correct. Volcanoes emit carbon dioxide in two ways: **during eruptions and through underground magma. Carbon dioxide from underground magma is released through volcanic vents.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences?",
+        "1. Pollination of some plants could be adversely affected.",
+        "2. There could be a drastic increase in the fungal infections of some cultivated plants.",
+        "3. It could lead to a fall in the population of some species of wasps, spiders and birds.",
+        "Select the correct using the code given below:"
+      ],
+      "questionText": "Due to some reasons, if there is a huge fall in the population of species of butterflies, what could be its likely consequence/consequences? 1. Pollination of some plants could be adversely affected. 2. There could be a drastic increase in the fungal infections of some cultivated plants. 3. It could lead to a fall in the population of some species of wasps, spiders and birds. Select the correct using the code given below:",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement 1 is correct: **Butterflies play a crucial role in pollination. Thus, a huge fall in the population of species of butterflies will adversely affect pollination in some plants.**\n\nStatement 2 is incorrect: **There is no drastic increase in the fungal infections of some cultivated plants.**\n\nStatement 3 is correct: **Some species of wasps, spiders and birds are natural predators of butterflies. A fall in the population of butterflies could hamper their population.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2017,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q22",
+      "questionNumber": 22,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Certain plants produce alkaloids such as nicotine and caffeine to:"
+      ],
+      "questionText": "Certain plants produce alkaloids such as nicotine and caffeine to:",
+      "options": {
+        "a": "Enhance mutualistic interactions with pollinating insects.",
+        "b": "Enhance the rate of photosynthesis during periods of low sunlight.",
+        "c": "Exhibit a natural defence against pathogens, plant diseases, and fungi.",
+        "d": "Facilitate the process of nitrogen fixation in the soil."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. Certain plants produce alkaloids such as** nicotine and caffeine primarily as chemical defence compounds**. These**components act as a natural defence against pathogens, plant diseases, and fungi and hence promote bitter flavour, **cause disruption of proteins in the insects as well as microbes** causing changes in the neural response.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 – Unit X - Ecology - Population Interactions – Predation – Page 198 https://egyankosh.ac.in/bitstream/123456789/99586/1/Unit-5.pdf (Page 11)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q23",
+      "questionNumber": 23,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to resource abundant ecosystem, consider the following statements:",
+        "Statement I: Two species competing for the same resource can never coexist indefinitely.",
+        "Statement II: Species competing for similar resources can evolve a mechanism called resource partitioning.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to resource abundant ecosystem, consider the following statements: Statement I: Two species competing for the same resource can never coexist indefinitely. Statement II: Species competing for similar resources can evolve a mechanism called resource partitioning. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. Competition occurs when two species depend on the same limited or similar resources. Early ecological theories treated competition as a zero-sum interaction. However, later field studies showed that nature often favours adjustment rather than elimination.**\n\nStatement I is incorrect**.**Gause’s Competitive Exclusion Principle **states that two species competing for the exact same niche cannot coexist indefinitely. However, this outcome is observed mainly**when resources are limiting and **niche overlap is complete**. In**resource-abundant ecosystems**, such conditions are rarely absolute. Field-based ecological studies show that species do not always move towards elimination. Instead, they often adjust their behaviour, timing, or space of resource use. Therefore,**automatic exclusion of one species is not a universal ecological rule**, especially in ecosystems where resources are not scarce.**\n\nStatement II is correct**. When species face competition, natural selection often favours strategies that**reduce direct **conflict**rather than intensify it. One such widely observed strategy is**resource partitioning**. If** two species compete **for the same resource, they could avoid competition by choosing, for instance, different times for feeding or **different foraging patterns**. MacArthur showed that five closely related species of warblers living on the same tree were able to avoid competition and co-exist due to behavioural differences in their foraging activities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=11-16 – Unit X - Ecology - Population Interactions – Competition – Page 199"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "With reference to Detritus Food Chain, consider the following statements:",
+        "I. The detritus food chain starts with dead organic matter at the lowest trophic level.",
+        "II. In terrestrial ecosystems, a larger fraction of energy flows through the detritus food chain rather than the grazing food chain.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Detritus Food Chain, consider the following statements: I. The detritus food chain starts with dead organic matter at the lowest trophic level. II. In terrestrial ecosystems, a larger fraction of energy flows through the detritus food chain rather than the grazing food chain. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct: **The**detritus food chain (DFC) begins with dead organic matter**. It is made up of decomposers which are heterotrophic organisms, mainly fungi and bacteria. They meet their energy and nutrient requirements by degrading dead organic matter or detritus. These are also known as saprotrophs (sapro: to decompose). Decomposers secrete digestive enzymes that break down dead and waste materials into simple, inorganic materials, which are subsequently absorbed by them.**\n\nStatement II is correct: In a terrestrial ecosystem, a much larger fraction of energy flows through the detritus food **chain (DFC) than through the **grazing food chain. Detritus food chain may be connected with the grazing food chain at some levels: some of the organisms of**detritus food chain**are prey to the grazing food chain animals, and in a natural ecosystem, some animals like cockroaches, crows, etc., are omnivores. These natural interconnections of food chains make it a food web.  In an aquatic ecosystem, the grazing food chain is the major conduit for energy flow.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?lebo1=12-16 - Pg: 210"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biogeochemical Cycles (C, N, S, P, etc.)",
+      "statementLines": [
+        "In case of",
+        "which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrients to enter the cycle?"
+      ],
+      "questionText": "In case of which one of the following biogeochemical cycles, the weathering of rocks is the main source of release of nutrients to enter the cycle?",
+      "options": {
+        "a": "Carbon cycle",
+        "b": "Nitrogen cycle",
+        "c": "Phosphorus cycle",
+        "d": "Sulphur cycle"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Carbon and Nitrogen cycles are the gaseous cycles. In these cycles , the main reservoir of nutrients is the atmosphere or the hydrosphere. In the sulphur cycle, nutrients are released by weathering of rocks, erosional runoff and decomposition of organic matter. The sulphur cycle is mostly sedimentary but two of its compounds hydrogen sulphide (H2S) and sulphur dioxide (SO2) add a gaseous component to its normal sedimentary cycle.**In the Phosphorus cycle, **nutrients get released mainly by weathering of rocks since the Phosphorus mainly occurs as a mineral in phosphate rocks. It enters the cycle from erosion and mining activities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q26",
+      "questionNumber": 26,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "In an ecology, ‘Lichens’ represent a symbiotic relationship between which of the following organisms?"
+      ],
+      "questionText": "In an ecology, ‘Lichens’ represent a symbiotic relationship between which of the following organisms?",
+      "options": {
+        "a": "Algae and protozoa",
+        "b": "Algae and fungi",
+        "c": "Algae and bacteria",
+        "d": "Bacteria and fungi"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Mutualism is a type of interaction between two different species in which both partners derive benefit from the association. Lichens are an example of mutualism. They represent an intimate symbiotic association between a**fungus**and a photosynthesizing partner, which may be an**algae** or a cyanobacterium.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://www.egyankosh.ac.in/bitstream/123456789/16791/1/Exercise-11.pdf https://ncert.nic.in/textbook.php?lebo1=11-16- Pg: 201"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q27",
+      "questionNumber": 27,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "In the context of an ecosystem, consider the following statements:",
+        "Statement I: Secondary Succession generally proceeds at a faster rate than primary succession.",
+        "Statement II: Unlike in Primary Succession, Secondary Succession takes place in areas where the soil has already developed and contains organic matter.",
+        "Statement III: Primary succession is always a result of natural events whereas Secondary succession is always a result of human activities.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "In the context of an ecosystem, consider the following statements: Statement I: Secondary Succession generally proceeds at a faster rate than primary succession. Statement II: Unlike in Primary Succession, Secondary Succession takes place in areas where the soil has already developed and contains organic matter. Statement III: Primary succession is always a result of natural events whereas Secondary succession is always a result of human activities. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Secondary succession**is the process by which a**biological community re-establishes itself in an area that was **previously occupied by living organisms**but has been**disturbed or partially destroyed due to natural events**such as floods, fires, storms, or human activities like deforestation and agriculture. Unlike primary succession, it does not begin on a barren surface; the soil is already formed and often retains organic matter, microorganisms, and plant propagules. As a result, the**stages of succession (seres) occur at a comparatively **faster pace**, leading to quicker restoration of the ecosystem.**\n\nStatement I is correct**:**Secondary succession generally occurs at a faster rate than primary succession**because the ecological conditions necessary for the establishment of life are already partly in place. Unlike primary succession, it does not begin on a completely barren surface.**\n\nStatement II is correct**:**In secondary succession**, the**soil has already developed and contains organic matter due to **earlier biological activity**. This pre-existing soil supports microorganisms, retains moisture, and provides nutrients essential for plant growth. As a result, the initial stages of succession that involve soil formation and nutrient accumulation, which are critical and time-consuming steps in primary succession are bypassed,**leading to a more **rapid progression of successional stages. **\n\nStatement III is incorrect: Primary succession**is initiated when a new area that has never previously supported an ecological community is colonized by plants and animals. This could be on newly exposed rock surfaces from landslides or lava flows. Primary succession thus occurs where no community exists before, such as rocky outcropping, newly formed deltas, sand dunes, emerging volcanic islands and lava flows.**Secondary succession**is more common than primary succession and is often the result of natural disasters such as fires, floods, and winds, as well as human interference such as logging and tree-cutting. Thus,** it could be a natural **event or human interference. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q28",
+      "questionNumber": 28,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following organisms:",
+        "I. Woodlice",
+        "II. Millipedes",
+        "III. Jellyfish",
+        "IV. Seahorses",
+        "V. Termites",
+        "How many of the above organisms are primarily detritivores?"
+      ],
+      "questionText": "Consider the following organisms: I. Woodlice II. Millipedes III. Jellyfish IV. Seahorses V. Termites How many of the above organisms are primarily detritivores?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Detritivores**are organisms that**feed directly on dead and decomposing organic matter (detritus)**such as leaf litter, dead plant parts, animal remains, and organic debris present in soil or sediments. By ingesting detritus, they break it into smaller fragments, increasing the surface area for microbial action. They play a crucial role in decomposition, nutrient recycling, and soil formation, thereby maintaining ecosystem productivity.**Common examples: Earthworms, millipedes, woodlice**, and other small animals such as**mites, springtail and **nematodes. ** Option I is correct: Woodlice **Woodlice are**terrestrial crustaceans**commonly found in moist habitats like leaf litter and under logs. They**primarily **feed on decaying plant material, fallen leaves, and decomposing organic**debris. By fragmenting litter, they accelerate microbial decomposition, making nutrients available in the soil ecosystem. Hence,**woodlice are true detritivores. ** Option II is correct: Millipedes **Millipedes are classic soil detritivores. **Their**diet mainly consists of dead and decomposing leaves, plant remains, **and organic matter**. They are important decomposers in terrestrial ecosystems and significantly contribute to humus formation and nutrient cycling. Hence, they are** classic examples of detritivores in terrestrial ecosystems. ** Option III is incorrect: Jellyfish **Jellyfish are**carnivorous marine animals**. They actively prey on zooplankton, small fishes, and larvae using specialized stinging cells (nematocysts). They**do not feed on dead organic matter and are not detritivores. ** Option IV is incorrect: Seahorses **are tiny fishes that are named for the shape of their head, which looks like the head of a tiny horse.** They are carnivorous animals, not detritivores.** Option V is correct: Termites **Termites are detritivores and primarily consume dead wood, aiding in the decomposition of fallen trees and logs. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q29",
+      "questionNumber": 29,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biomes (Forest, Grassland, Mountain, Desert)",
+      "statementLines": [
+        "Tundra biome is considered to be a fragile ecosystem and if disturbed may require many hundreds of years to recover. In this context which of the following is the most appropriate reason for the fragileness of Tundra biome?"
+      ],
+      "questionText": "Tundra biome is considered to be a fragile ecosystem and if disturbed may require many hundreds of years to recover. In this context which of the following is the most appropriate reason for the fragileness of Tundra biome?",
+      "options": {
+        "a": "The presence of the higher number of endemic species which are not found in any other biomes.",
+        "b": "Extremely low precipitation resulting in drought-like conditions throughout the year.",
+        "c": "The floral diversity developed in the region, requires long growing seasons.",
+        "d": "The rate of organic matter decomposition is very slow in the region."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Tundra is the coldest biome on Earth. There are**two types of tundra—Arctic tundra, f**ound in a band around the Arctic Ocean, and**alpine tundra, **found high in mid-latitude mountains.**\n\nOption d is correct:**Secondary succession in grassland communities is much faster, taking 20 to 40 years to develop while on the other hand, fragile disturbed tundra may require many hundreds of years to recover, if it ever does. Tundra is a very fragile ecosystem as the**rate of organic matter decomposition is very slow.** Therefore, plants grow very slowly and the tundra takes a long time to recover from any disruptions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biomes (Forest, Grassland, Mountain, Desert)",
+      "statementLines": [
+        "Consider the following tree species:",
+        "I. Ebony",
+        "II. Mahogany",
+        "III. Rosewood",
+        "IV. Teak",
+        "V. Sandalwood",
+        "How many of the above are primarily found in tropical evergreen forests?"
+      ],
+      "questionText": "Consider the following tree species: I. Ebony II. Mahogany III. Rosewood IV. Teak V. Sandalwood How many of the above are primarily found in tropical evergreen forests?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Tropical evergreen forests are dense, multi-layered forests found in regions receiving very high rainfall (generally over 200 cm annually) with no marked dry season. As moisture is available throughout the year, trees do not shed their leaves simultaneously, giving these forests an evergreen character. They are characterized by tall hardwood trees, a closed canopy, rich biodiversity, and a large number of climbers, epiphytes, and shade-tolerant species. In India, such forests occur mainly in the western slope of Western Ghats, Andaman and Nicobar Islands, and hills of Northeastern region. Tree species majorly found in tropical evergreen forests include**ebony, mahogany, rosewood, rubber, cinchona, and **jackfruit. ** Option I is correct:**Ebony **Ebony trees are typical of tropical evergreen forests. **It is a dense, hardwood tree that thrives in humid, tropical evergreen forests, especially in the Western Ghats of India.** Option II is correct: Mahogany **Mahogany is another characteristic species of tropical evergreen forests. **It is valued for its durable hardwood and requires warm temperatures and consistently moist conditions throughout the year.** Option III is correct: Rosewood **Rosewood species are**commonly found in tropical evergreen forests**, due to their requirement of high moisture and humid conditions.** Option IV is incorrect: Teak **Teak is**primarily found in tropical deciduous forests**, also known as monsoon forests. It requires seasonal rainfall and cannot thrive in the continuously wet conditions of evergreen forests.** Option V is incorrect: Sandalwood **Sandalwood typically occurs in tropical deciduous forests, **preferring comparatively drier conditions and open forest types rather than dense evergreen forests.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://www.ncert.nic.in/textbook/pdf/iess105.pdf Page: 40. https://ncert.nic.in/textbook/pdf/kegy105.pdf Page: 1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q31",
+      "questionNumber": 31,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "“If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.”",
+        "Which one of the following functions of wetlands best reflects the above statement?"
+      ],
+      "questionText": "“If rainforests and tropical forests are the lungs of the Earth, then surely wetlands function as its kidneys.” Which one of the following functions of wetlands best reflects the above statement?",
+      "options": {
+        "a": "The water cycle in wetlands involves surface runoff, subsoil percolation and evaporation.",
+        "b": "Algae form the nutrient base upon which fish, crustaceans, molluscs, birds, reptiles and mammals thrive.",
+        "c": "Wetlands play a vital role in maintaining sedimentation balance and soil stabilization.",
+        "d": "Aquatic plants absorb heavy metals and excess nutrients."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Just as forests are called the ‘lungs of the earth’, wetlands are the ‘kidneys’ that regulate water and filter waste **from the landscape. ** Wetlands include mangroves, peat lands and marshes, lakes, deltas, floodplains and flooded forests and even coral reefs. Aquatic plants of wetlands absorb heavy metals and excessive nutrients thereby purifying water. For instance, Mangrove trees have the ability of storing metals, transferring these elements from the sediment and concentrating them in their tissues. They can serve as a means for the immobilization and removal of pollutants.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q32",
+      "questionNumber": 32,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Hazardous, Radioactive, E-Waste, Heavy Metals, etc.",
+      "statementLines": [
+        "The increase in concentration of accumulated toxic chemicals at successive trophic level of food chain is known as:"
+      ],
+      "questionText": "The increase in concentration of accumulated toxic chemicals at successive trophic level of food chain is known as:",
+      "options": {
+        "a": "Biofortification",
+        "b": "Biomagnification",
+        "c": "Bioconcentration",
+        "d": "Biotoxicity"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nOption a is incorrect: Biofortification **involves breeding crops with higher levels of vitamins and minerals, or higher protein and healthier fats. Biofortification is considered the most practical means to improve public health.**\n\nOption b is correct: Biomagnification **refers to the p**ollutant’s tendency to concentrate as they move from one **trophic level to the next.**For biomagnification to occur, pollutants must be long-lived, mobile, soluble in fats, and biologically active. For e.g., the concentration of DDT moves up the food chain, from one trophic level to another.**\n\nOption c is incorrect: Bioconcentration is the direct uptake of a substance by a living organism**from the water through the skin, lungs and gills.**\n\nOption d is incorrect: Biotoxicity is the accumulation of toxins in the body**as the result of exposure to certain biological sources. It refers to the degree to which a substance or mixture of substances can harm living organisms. It specifically deals with the toxic effects of biological origin substances (biotoxins) or pollutants on biological systems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q33",
+      "questionNumber": 33,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biomes (Forest, Grassland, Mountain, Desert)",
+      "statementLines": [
+        "The flora in desert ecosystems exhibit various ways to survive the extreme conditions of the desert. In this context consider the following:",
+        "I. Reduction of leaves into spines",
+        "II. Development of deep roots",
+        "III. Seasonal dormancy during dry periods",
+        "IV. Shorter life cycle",
+        "Which of the above ways have been adopted by the floral diversity in the desert ecosystem?"
+      ],
+      "questionText": "The flora in desert ecosystems exhibit various ways to survive the extreme conditions of the desert. In this context consider the following: I. Reduction of leaves into spines II. Development of deep roots III. Seasonal dormancy during dry periods IV. Shorter life cycle Which of the above ways have been adopted by the floral diversity in the desert ecosystem?",
+      "options": {
+        "a": "I, II and III only",
+        "b": "II, III and IV only",
+        "c": "I and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Deserts are hot and low rain areas suffering from water shortage and high wind velocity. They show extremes of temperature.**Cacti, Acacia, Euphorbia and prickly pears are examples of desert plants. **They have very specific characteristics such as**succulent stems and leaves, thorns present. **The desert plants are mainly ground-hugging shrubs and short woody trees with “replete” (fully supported with nutrients) leaves.** Option I is correct: **To cope with searing heat and the potential loss of moisture, many desert plants have numerous adaptations, including**thick, waxy cuticles, fleshy or absent leaves, sunken stomata and protective spines. In the **cacti, the leaves are much reduced to spines and photosynthetic activity is restricted to the stems.**Plants with thick stems can take in large quantities of water when it is available and store it for future use. In some plants, the surfaces are corrugated with longitudinal ridges and grooves.**When water is available, the stem swells**so that the groves are shallow and the ridges far apart.**As the water is used, the stem shrinks**so that the groves are deep and ridges close together.  Option II is correct:**The**roots of desert plants may penetrate the sandy soils to a depth of several meters to obtain **water**or they may remain shallow and widely spread out to quickly soak up any rain that falls.**Woody shrubs **such as mesquite (Prosopis spp) and Tamarix,**have taproots that reach the water table, **rendering them independent of water supplied by rainfall. Some, such as Larrea and Atriplex are deep-rooted perennials with superficial laterals that extend as far as 15 to 30 m from stems to collect rainwater.** Option III is correct: Plants in deserts are characterised by seasonal dormancy. **Many of the shrubs in deserts**produce leaves during the short wet period following rains and then lose their leaves **and enter a dormant state. The perennial forbs with underground bulbs, store water and nutrients in underground tissues and also remain dormant most of the year. They sprout rapidly after sufficient rain and replenish their underground stores.** Option IV is correct: **Most of the**plants**that occur in deserts normally**appear to be absent, because, during most of **the year they are present in the form of seeds in the soil. **Most have evolved elaborate mechanisms, including water-soluble germination inhibitors in the seed coat or thick seed coats that require time or abrasion if water is to soak in and start germination. These adaptations appear to function so that the**plants will only begin to grow after **“significant” rains **to assure that the** plants can complete their short life cycles. **This sets some desert blooms with dazzling red, gold and purple flowers for a few brief weeks, before the completion of the life cycle of these plants.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q34",
+      "questionNumber": 34,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Ecological Succession Description",
+        "I. Allogenic Succession Succession caused by the living inhabitants of that community itself",
+        "II. Autogenic Succession Succession caused by outside forces i.e. environmental changes.",
+        "III. Heterotrophic Succession Succession characterized by early and continued dominance of autotrophic organisms like green plants.",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Ecological Succession Description I. Allogenic Succession Succession caused by the living inhabitants of that community itself II. Autogenic Succession Succession caused by outside forces i.e. environmental changes. III. Heterotrophic Succession Succession characterized by early and continued dominance of autotrophic organisms like green plants. How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**Ecological succession **is the**process of change in the species structure **of an ecological community over time. The time scale can range from decades to even millions of years. One community replaces another until a stable and mature climax community develops.**Pair I is incorrect: Allogenic succession occurs when outside forces bring about succession.**It is due to major environmental changes beyond the control of the indigenous organisms.**Dust bowls, winds, dry periods change the **pattern of vegetation. **The habitat is changed by the action of outside factors like change in climate, leaching of soil nutrients, increase in salt concentration of the soil and deposition of salt or sand.**Pair II is incorrect: Autogenic Succession**occurs**when living inhabitants of the community themselves bring about **succession. **For example, plants of a developmental state produce changes in the habitat initially to favor their growth but the changes go on beyond the optimum so that the habitat becomes unsuitable for them. It paves the way for the growth of another type of plant community**Pair III is incorrect: Heterotrophic succession **refers to succession in which** heterotrophs are more significant in **quantity.** It is the succession characterized by an early dominance of heterotrophs, i.e., fungi, bacteria and animals. It begins in a predominantly organic environment, and there is a progressive decline in the energy content.\nAutotrophic succession is characterized by early and continued dominance of autotrophic organisms like green plants.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Biological Oxygen Demand (BOD) is a standard criterion for"
+      ],
+      "questionText": "Biological Oxygen Demand (BOD) is a standard criterion for",
+      "options": {
+        "a": "Measuring oxygen levels in blood",
+        "b": "Computing oxygen levels in forest Ecosystems",
+        "c": "Pollution assay in aquatic ecosystems",
+        "d": "Assessing oxygen levels in high altitude Regions"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Biological oxygen demand (BOD) is the amount of dissolved oxygen needed (i. e., demanded) by aerobic micro-organisms to break down organic material present in a given water sample. BOD is directly proportional to the level of pollution in the water body. Knowledge Base:**Difference between Biological oxygen demand (BOD) and Chemical oxygen demand (COD): **\n- BOD is defined as the amount of oxygen taken up through the respiratory activity of microorganisms growing on organic material.\n- Chemical Oxygen Demand (COD) is a test that measures the amount of oxygen required to chemically oxidize the organic material and inorganic nutrients, such as Ammonia or Nitrate, present in water.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2017,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q36",
+      "questionNumber": 36,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "Consider the following States/Union Territories:",
+        "I. West Bengal",
+        "II. Andaman and Nicobar Islands",
+        "III. Gujarat",
+        "IV. Tamil Nadu",
+        "Which of the following is the correct ascending order of mangrove forest cover in the above given States/Union",
+        "Territories as per Indian State of Forest Report 2023?"
+      ],
+      "questionText": "Consider the following States/Union Territories: I. West Bengal II. Andaman and Nicobar Islands III. Gujarat IV. Tamil Nadu Which of the following is the correct ascending order of mangrove forest cover in the above given States/Union Territories as per Indian State of Forest Report 2023?",
+      "options": {
+        "a": "III-IV-II-I",
+        "b": "II-IV-III-I",
+        "c": "IV-II-III-I",
+        "d": "I-IV-III-II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **As per the India State of Forest Report (ISFR) 2023, India’s total mangrove cover stands at 4,991.68 km², forming about 0.15% of the country’s geographical area, with Very Dense Mangroves covering 1,463.97 km² (29.33%), Moderately Dense Mangroves 1,500.84 km² (30.07%), and Open Mangroves 2,026.87 km² (40.60%). In comparison to the 2021 assessment, there is a decrease of 7.43 km2 in the country’s Mangrove coverage. In state wise comparison,** West Bengal**has the highest mangrove area coverage, accounting for**42.45%**, followed by**Gujarat at 23.66%**. the** Andaman & Nicobar Islands at 12.39%**and**Tamil Nadu at 0.84%. **Hence**the correct ascending order is: IV-II-III-I i.e.: Tamil Nadu-Andaman & Nicobar Islands-Gujarat-West **Bengal. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q37",
+      "questionNumber": 37,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "With reference to Kelps, consider the following statements:",
+        "I. They are considered as keystone species.",
+        "II. They are generally found in cool, shallow oceans and nutrient-rich waters.",
+        "III. They are an important source of potash and iodine.",
+        "IV. Kelp forests are dominated by brown algae.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Kelps, consider the following statements: I. They are considered as keystone species. II. They are generally found in cool, shallow oceans and nutrient-rich waters. III. They are an important source of potash and iodine. IV. Kelp forests are dominated by brown algae. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II, III and IV only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is correct: Kelp are large brown algae that live in cool, relatively shallow waters and nutrient-rich **waters close to the shore. **They are found primarily near temperate and polar regions. Temperate and polar regions provide the ideal temperature range for the growth of most kelp species. Upwelling in these regions provides an abundant supply of nutrients, including nitrogen and phosphorus, which are essential for kelp growth. \n\nStatement II is correct: **Kelp forests function as**keystone ecosystems**by providing**food, shelter, and breeding **habitats**for thousands of marine organisms**, including fish and invertebrates. Kelp forests harbor a greater variety and higher diversity of plants and animals. \n\nStatement III is correct: Kelps are economically valuable and are a significant source of potash and iodine. **Further, many kelps produce algin, which is widely used in industries such as food processing and manufacturing.**\n\nStatement IV is correct: Kelp forests are underwater ecosystems dominated by large brown algae, **resembling terrestrial forests. Because of their dependency upon light for photosynthesis, kelp forests form in shallow open waters and are rarely found deeper than 49-131 feet.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In comparison to Oligotrophic lakes, Eutrophic lakes are less populated with very high species diversity.",
+        "Statement II: Unlike Oligotrophic lakes, Eutrophic lakes have higher levels of nutrient content.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In comparison to Oligotrophic lakes, Eutrophic lakes are less populated with very high species diversity. Statement II: Unlike Oligotrophic lakes, Eutrophic lakes have higher levels of nutrient content. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**\n\nStatement I is not correct and II is correct:**Oligotrophic lakes are lakes with very low levels of nutrient content**with an overall low productivity. The biological community in the oligotrophic lake is composed of phytoplankton, zooplankton, macrophytes and fishes which are**often less populated but rich species composition. **Eutrophic lakes are lakes with high levels of nutrient content**with an overall high productivity.**The biotic **community in eutrophic lakes are characterized by high populations with lesser species composition.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q39",
+      "questionNumber": 39,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "Consider the following statements about the International Coral Reef Initiative (ICRI):",
+        "I. It is an initiative of the United Nations Environment Programme (UNEP).",
+        "II. India is a founding member of the ICRI.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the International Coral Reef Initiative (ICRI): I. It is an initiative of the United Nations Environment Programme (UNEP). II. India is a founding member of the ICRI. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The**International Coral Reef Initiative**(ICRI) is a global partnership between Nations and organizations which strives to**preserve coral reefs and related ecosystems**around the world. ICRI**functions as a policy forum rather than a legally binding convention**, providing guidance, coordination, and awareness on coral reef issues at the global level**\n\nStatement I is incorrect:**The**ICRI is not a UNEP initiative**. The Initiative was**founded in 1994**by eight governments:**Australia, France, Japan, Jamaica, the Philippines, Sweden, the United Kingdom, and the United States of America**. It was announced at the First Conference of the Parties of the Convention on Biological Diversity in December 1994, and at the high level segment of the Intersessional Meeting of the U.N. Commission on Sustainable Development in April 1995. ICRI now has over 100 members. \n\nStatement II is incorrect: India is a member presently of the International Coral Reef Initiative**(ICRI)**, but not a **founding member**. The eight founding nations were: Australia, France, Japan, Jamaica, the Philippines, Sweden, the United Kingdom, and the United States of America.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "‘Black band disease’, ‘white plague’, and ‘white band disease’ were recently seen in the news in the context of:"
+      ],
+      "questionText": "‘Black band disease’, ‘white plague’, and ‘white band disease’ were recently seen in the news in the context of:",
+      "options": {
+        "a": "Coral reefs",
+        "b": "Mangroves",
+        "c": "Seagrasses",
+        "d": "Grasslands"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **A recent study reveals that heat stress combined with a rare disease has wiped out 75% of Goniopora coral colonies **on the Great Barrier Reef. **Three coral diseases - - \"white-band,\" \"black-band,\" and \"white plague\" - - were first reported in the Caribbean in the 1970s. -**Black Band Disease**is a severe, globally occurring**coral disease**characterized by a visible black, expanding band that degrades coral tissue, leading to tissue death and bare skeleton. -**White Band Disease**is a**coral disease**, primarily affecting Caribbean Acropora corals, characterized by a distinctive white band where tissue sloughs off, revealing bare white skeleton, and has caused massive die-offs. -**White plague**is a common tissue loss disease that affects a broad range of scleractinian coral species. White plague is one of the most destructive**coral diseases**, as it is highly lethal and has a history of widespread outbreak events that have caused extensive losses in coral populations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q41",
+      "questionNumber": 41,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biomes (Forest, Grassland, Mountain, Desert)",
+      "statementLines": [
+        "In the grasslands, trees do NOT replace the grasses as a part of an ecological succession because of:"
+      ],
+      "questionText": "In the grasslands, trees do NOT replace the grasses as a part of an ecological succession because of:",
+      "options": {
+        "a": "Insects and fungi",
+        "b": "Limited sunlight and paucity of nutrients",
+        "c": "Water limits and fire",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Grass ecosystems are climax ecosystems in grassland regions, where there is not enough rainfall to support a **forest**. The grasslands are found**where rainfall is about 25-75 cm per year, not enough to support a forest**, but more than that of a true desert. Fire is also a limiting factor in grassland which prohibits succession of grasses by trees. Secondary succession is the sequential development of biotic communities after the complete or partial destruction of the existing community. Succession is a progressive series of changes which leads to the establishment of a relatively stable climax community.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q42",
+      "questionNumber": 42,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "On the basis of their location in the aquatic ecosystem, organisms like Water striders, whirligig beetles and fishing spiders can be classified as:"
+      ],
+      "questionText": "On the basis of their location in the aquatic ecosystem, organisms like Water striders, whirligig beetles and fishing spiders can be classified as:",
+      "options": {
+        "a": "Neuston",
+        "b": "Nekton",
+        "c": "Periphytons",
+        "d": "Benthos"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. ** Life Styles of Aquatic Organism **\n\nOption a is correct**: In aquatic ecosystems, organisms are ecologically classified based on where they live in the water column and how they interact with water movement.**Neuston**refers to**organisms that live at the air-water interface (surface film) of aquatic ecosystems**, including those living on the surface (**epineuston**) of water or just below it**(hyponeuston**).**Water striders, whirligig beetles, **and**certain spiders**(such as**fishing spiders**) exploit surface tension to move, hunt, or rest on the water surface, which is a**defining characteristic of Neuston organisms.**\n\nOption b is incorrect:**Nekton **includes**strong, actively swimming aquatic organisms**that can move freely against water currents, such as fishes, squids, and marine mammals. Water striders, whirligig beetles, and surface-dwelling spiders do not swim within the water column; they move on the surface film, hence they are not nekton.**\n\nOption c is incorrect**:**Periphytons**are organisms which**remain attached to stems and leaves of rooted plants**or substances emerging above the bottom mud. They mainly include algae and bacteria. Since the given organisms live on the**water surface film**and are not attached to substrates, this option is incorrect.**\n\nOption d is incorrect: Benthos**refers to organisms that**live on, in, or near the bottom (benthic zone)**of aquatic ecosystems such as oceans, seas, lakes, and rivers. These organisms are adapted to life on the substrate, which may include sand, mud, rocks, or organic debris.They play a crucial role in**nutrient recycling, decomposition, and **maintaining ecological balance**in aquatic ecosystems. Its examples include;**polychaete worms, molluscs, crabs, starfish, corals**, and some algae.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to photosynthesis in plants, consider the following statements:",
+        "I. Increase in light intensity enhances the rate of photosynthesis only up to a certain limit, beyond which no further increase occurs.",
+        "II. Increasing the concentration of carbon dioxide in the atmosphere always leads to a proportionate increase in the rate of photosynthesis in plants.",
+        "III. Plants adapted to tropical climates have a lower optimum temperature for photosynthesis than those adapted to temperate climates.",
+        "IV. Water stress can lead to closing of the stomata in plants reducing the carbon dioxide availability of the plant.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to photosynthesis in plants, consider the following statements: I. Increase in light intensity enhances the rate of photosynthesis only up to a certain limit, beyond which no further increase occurs. II. Increasing the concentration of carbon dioxide in the atmosphere always leads to a proportionate increase in the rate of photosynthesis in plants. III. Plants adapted to tropical climates have a lower optimum temperature for photosynthesis than those adapted to temperate climates. IV. Water stress can lead to closing of the stomata in plants reducing the carbon dioxide availability of the plant. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "II, III and IV",
+        "c": "I and IV only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Photosynthesi**s determines plant productivity and crop yield and is**influenced by both internal and external factors.**Internal factors include leaf characteristics, chlorophyll content, and internal CO₂ concentration, while**external **factors include light, temperature, carbon dioxide, and water**. These factors act together, but the rate of photosynthesis at any time is controlled by the most limiting factor, as explained by**Blackman’s Law of Limiting **Factors.**\n\nStatement I is correct:**Light is an essential factor for photosynthesis, particularly for the light-dependent reactions. As**light intensity increases**, the**rate of photosynthesis also increases, but only up to a certain point **known as the**light saturation point**. Beyond this limit, the photosynthetic apparatus cannot utilize additional light efficiently**because other factors**such as carbon dioxide concentration, temperature, or enzyme activity**become limiting. **Graph of light intensity on the rate of photosynthesis **\n\nStatement II is incorrect:**Carbon dioxide (CO₂) is the major limiting factor for photosynthesis. An**increase in CO₂ concentration enhances the rate of photosynthesis only up to an optimum level**. **Beyond this level, the rate does not increase proportionately**, as the enzymatic machinery involved in carbon fixation becomes saturated and other environmental factors start limiting the process.\n**Statement III is incorrect:** The optimum temperature for photosynthesis varies depending on the climatic adaptation of plants. **Plants adapted to tropical climates generally have a higher (not lower) temperature optimum,** whereas **plants adapted to temperate climates have a lower optimum temperature.**\n\n**Statement IV is correct:**Water does not directly participate in the enzymatic reactions of photosynthesis but plays an important indirect role. **Water stress leads to closure of stomata**, which **reduces the diffusion of carbon dioxide into the leaf**. Reduced CO₂ availability directly **lowers the rate of photosynthesis**. Additionally, water stress can affect overall metabolic activity of the plant, further limiting photosynthetic efficiency.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo111.pdf Page: 149 & 150."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q44",
+      "questionNumber": 44,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Which one of the following is the correct sequence of a food chain starting from producers?"
+      ],
+      "questionText": "Which one of the following is the correct sequence of a food chain starting from producers?",
+      "options": {
+        "a": "Cyanobacteria – Krill– Seal – Herring",
+        "b": "Krill – Cyanobacteria – Herring – Seal",
+        "c": "Cyanobacteria – Herring – Krill – Seal",
+        "d": "Cyanobacteria – Krill – Herring – Seal"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **A food chain represents the linear transfer of energy and nutrients from one trophic level to the next, starting with producers and moving up to top consumers.**Cyanobacteria**are**photosynthetic autotrophs**and function as**primary producers**in aquatic ecosystems. They form the base of the food chain by converting solar energy into organic matter.**Krill **are**zooplankton **and act as**primary consumers**,**feeding on phytoplankton such as cyanobacteria. **Herring **are**small pelagic fishes**that**feed on krill and other zooplankton**, making them**secondary consumers**.**Seals**are**carnivorous marine mammals**and occupy a higher trophic level as**tertiary consumers/top predators, **feeding on fishes like herring.**Thus, the** trophic sequence involved is: **Producer →**Primary Consumer →** Secondary Consumer →**Tertiary Consumer** Therefore,**the correct sequence of the food chain is: Cyanobacteria →** Krill →**Herring →** Seal, which corresponds to option d). **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Which one of the following is the correct sequential phase in the successional development of a vegetation community in a habitat?"
+      ],
+      "questionText": "Which one of the following is the correct sequential phase in the successional development of a vegetation community in a habitat?",
+      "options": {
+        "a": "Migration, reaction, stabilisation and nudation",
+        "b": "Migration, stabilisation, reaction and nudation",
+        "c": "Nudation, migration, reaction and stabilisation",
+        "d": "Reaction, migration, stabilisation and Nudation"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The sequential phases in the successional development of a vegetation community in a habitat are as follows: NUDATION => MIGRATION => REACTION => STABILIZATION**\n\nKnowledge Base: **\n- Nudation is the initial stage of succession, when a habitat is disturbed and the vegetation is destroyed. This can be caused by a variety of factors, such as fire, flooding, or deforestation.\n- Migration is the process of new plants colonizing the disturbed habitat. The seeds of these plants may be carried by wind, water, or animals.\n- Reaction is the stage of succession when the new plants begin to grow and establish themselves. The composition of the plant community changes over time, as different species compete for resources.\n- Stabilization is the final stage of succession, when the plant community reaches a relatively stable state. The composition of the plant community changes very slowly in this stage.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2019,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q46",
+      "questionNumber": 46,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following kinds of organisms:",
+        "1. Bacteria",
+        "2. Fungi",
+        "3. Flowering plants Some species of which of the above kinds of organisms are employed as biopesticides?"
+      ],
+      "questionText": "Consider the following kinds of organisms: 1. Bacteria 2. Fungi 3. Flowering plants Some species of which of the above kinds of organisms are employed as biopesticides?",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **All of the above are employed as biopesticides. ** Biopesticides include naturally occurring substances that control pests (biochemical pesticides), microorganisms that control pests (microbial pesticides), and pesticidal substances produced by plants containing added genetic material (plant-incorporated protectants) or PIPs.\nBacteria and Fungi are more targeted in their activity than conventional chemicals. For example, a certain fungus might control certain weeds, and another fungus might control certain insects. The most common microbial biopesticide is Bacillus thuringiensis.\nFlowering Plants can also be employed as biopesticides eg. Neem is the best example of flowering plant that can be used as a biopesticide.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2012,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2012"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q47",
+      "questionNumber": 47,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "With reference to adaptations in aquatic plants, consider the following statements:",
+        "I. Aquatic plants generally have long and well-developed roots for absorption of water.",
+        "II. Aquatic plants commonly possess thin and narrow leaves to reduce resistance against water currents.",
+        "III. The stem in aquatic plants is often soft and spongy to aid buoyancy.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to adaptations in aquatic plants, consider the following statements: I. Aquatic plants generally have long and well-developed roots for absorption of water. II. Aquatic plants commonly possess thin and narrow leaves to reduce resistance against water currents. III. The stem in aquatic plants is often soft and spongy to aid buoyancy. Which of the statements given above are correct?",
+      "options": {
+        "a": "II and III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Aquatic plants, also called hydrophytes, live in an environment where water is abundant but mechanical stress due to water movement is high. Their adaptations focus on reducing resistance, improving buoyancy, and enabling gaseous exchange.**\n\nStatement I is incorrect. **Aquatic plants do**not**require long roots because water is easily available all around them. Their roots are usually reduced and mainly serve anchorage. \n\nStatement II is correct. **Thin and narrow leaves reduce damage from flowing water. Such leaf shapes are common in plants like Hydrilla and Vallisneria. \n\nStatement III is correct. **The stem of aquatic plants is usually soft, slender and spongy. This helps the plant float and prevents it from being uprooted by currents.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Aquatic Ecosystem and Life (Aquatic Ecosystem, Maritime Zones, Corals, Mangrove, Marine Vegetation)",
+      "statementLines": [
+        "Consider the following scenario:",
+        "In a lake ecosystem, an increase in phytoplankton leads to a rise in zooplankton population. Increased grazing by zooplankton reduces phytoplankton numbers, which in turn causes a decline in zooplankton due to food scarcity.",
+        "Subsequently, phytoplankton populations recover, followed again by an increase in zooplankton.",
+        "This can be best described as:"
+      ],
+      "questionText": "Consider the following scenario: In a lake ecosystem, an increase in phytoplankton leads to a rise in zooplankton population. Increased grazing by zooplankton reduces phytoplankton numbers, which in turn causes a decline in zooplankton due to food scarcity. Subsequently, phytoplankton populations recover, followed again by an increase in zooplankton. This can be best described as:",
+      "options": {
+        "a": "Ecological Succession",
+        "b": "Homeostasis",
+        "c": "Environmental resistance",
+        "d": "Environmental resilience"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. When phytoplankton increase, zooplankton populations also rise because food availability improves. As zooplankton grazing intensifies, phytoplankton numbers fall. This reduction in food then leads to a decline in zooplankton. With fewer grazers, phytoplankton recover, and the cycle repeats. It is an example of a**self-regulating interaction**between two trophic levels in an ecosystem. This pattern shows that any increase in one component of the system triggers processes that**counteract that change**, thereby maintaining balance. Such regulation is characteristic of a**negative feedback mechanism**, which helps ecosystems maintain internal stability, also known as**homeostasis**. Knowledge Base: -**Ecological succession**is the gradual, directional change in the species composition of ecosystems over time. -**Environmental resistance**refers to factors that limit the growth of a population (e.g., food scarcity, predation, disease) and not cyclical regulation. -**Environmental resilience** is the ability of an ecosystem to withstand disturbance and return to its original state.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q49",
+      "questionNumber": 49,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "In a terrestrial biome, when an ecosystem develops from the pioneer stage to the climax stage, then the total standing biomass of the ecosystem generally:"
+      ],
+      "questionText": "In a terrestrial biome, when an ecosystem develops from the pioneer stage to the climax stage, then the total standing biomass of the ecosystem generally:",
+      "options": {
+        "a": "Decreases",
+        "b": "First increases and then decreases",
+        "c": "Remains the same",
+        "d": "Increases"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. In the**early stages of succession**, pioneer species are small, short-lived, and simple in structure. They colonise bare or disturbed areas and contribute only a small amount of living matter. As succession progresses, these pioneers modify the environment, making it suitable for larger and more complex plants. With each successive seral stage: - Plant size increases-Structural complexity increases-Organic matter accumulates in the ecosystem By the time the**climax community**is reached, the ecosystem supports large, long-lived plants and a diverse animal population. This results in the**highest standing biomass**. Although productivity may level off in the climax stage, the**total biomass does not decline**. It keeps increasing from pioneer to climax. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test19-q50",
+      "questionNumber": 50,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Greenhouse Gases (GHG), ODS, Related Terms, Global Warming",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The oceans contain about fifty times more carbon dioxide than the earth’s atmosphere.",
+        "Statement II: Oceans absorb about ninety percent of all carbon dioxide emissions.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The oceans contain about fifty times more carbon dioxide than the earth’s atmosphere. Statement II: Oceans absorb about ninety percent of all carbon dioxide emissions. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. Carbon in nature exists in different reservoirs such as the atmosphere, oceans, terrestrial vegetation and soils. These reservoirs differ not only in the**amount of carbon they store**, but also in the**rate at which carbon moves in and out **of them**. Oceans play a crucial role in the global carbon cycle because they act as both a major storage pool and an active exchanger of carbon with the atmosphere.**\n\nStatement I is correct. **Oceans are the**largest active reservoir of carbon**on Earth. Carbon is stored in oceans mainly in dissolved forms such as bicarbonates and carbonates. Due to this long-term storage, the amount of carbon present in oceans is**many times (around 50 times) higher than that in the atmosphere**.**\n\nStatement II is incorrect. **Oceans do absorb a significant portion of atmospheric carbon dioxide, but**not 90 percent**of all emissions. Scientific estimates indicate that oceans absorb**roughly one-fourth to one-third** of anthropogenic CO₂ emissions. The rest remains in the atmosphere or is taken up by terrestrial ecosystems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

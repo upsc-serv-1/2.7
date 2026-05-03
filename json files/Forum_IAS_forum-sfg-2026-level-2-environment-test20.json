@@ -1,0 +1,1849 @@
+{
+  "id": "forum-sfg-2026-level-2-environment-test20",
+  "title": "Test 20- L2 SFG 2026 - Sectional - Environment",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Country Animal found in its natural habitat",
+        "1. Brazil Indri",
+        "2. Indonesia Elk",
+        "3. Madagascar Bonobo",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Country Animal found in its natural habitat 1. Brazil Indri 2. Indonesia Elk 3. Madagascar Bonobo How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n** Pair 1 is incorrectly matched. The indri is an endangered species found only in remote parts of northeastern Madagascar. Pair 2 is incorrectly matched. Elk is a subspecies of red deer (Cervus elaphus). It is found in North America and in the high mountains of Central Asia.\nPair 3 is incorrectly matched. Bonobos live in the rainforests of the Congo Basin in Africa.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "As per the provisions of the Wildlife (Protection) Act, 1972, consider the following statements:",
+        "The Chief Wildlife Warden may permit hunting in certain cases of wild animals mentioned under:",
+        "I. Schedule I of the Act",
+        "II. Schedule II of the Act",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "As per the provisions of the Wildlife (Protection) Act, 1972, consider the following statements: The Chief Wildlife Warden may permit hunting in certain cases of wild animals mentioned under: I. Schedule I of the Act II. Schedule II of the Act Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** As per Section 11 of the Wildlife (Protection) Act, 1972, hunting of wild animals to be permitted in certain cases.\nEarlier Animals/species mentioned in Schedule I, II, III and IV were included. But with the enactment of the Wildlife (Protection) Amendment Act, 2022, Schedules III and IV were removed from section 11.\n- Schedule I containing animal species enjoying the highest level of protection.\n- Schedule II for animal species subject to a lesser degree of protection.\n- Schedule III for protected plant species, and-Schedule IV for scheduled specimens under CITES.\nStatement I is correct: As per Section 11 (1) (a) of the Act, the Chief Wild Life Warden may, if he/she is satisfied that any wild animal specified in Schedule I has become dangerous to human life or is so disabled or diseased as to be beyond recovery, by order in writing and stating the reasons therefore, permit any person to hunt such animal or cause such animal to be hunted.\nBut there is a condition that, as per the Chief Wildlife Warden, such an animal cannot be captured, tranquilised or translocated along with certain other conditions.\nStatement II is correct: As per Section 11 (1) (b) of the Act, the Chief Wild Life Warden or the authorised officer may, if he/she is satisfied that any wild animal specified in Schedule II has become dangerous to human life or to property (including standing crops on any land) or is so disabled or diseased as to be beyond recovery, by order in writing and stating the reasons therefore, permit any person to hunt such animal or group of animals in a specified area.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which of the following species are included under the Species Recovery Programme of the Centrally Sponsored",
+        "Scheme CSS – Integrated Development of Wildlife Habitats (CSS-IDWH)?",
+        "I. Asiatic Lion",
+        "II. Indian Rhinoceros III.Dugongs",
+        "IV. Jerdon’s Courser",
+        "V. Elephant",
+        "VI. Tiger",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Which of the following species are included under the Species Recovery Programme of the Centrally Sponsored Scheme CSS – Integrated Development of Wildlife Habitats (CSS-IDWH)? I. Asiatic Lion II. Indian Rhinoceros III.Dugongs IV. Jerdon’s Courser V. Elephant VI. Tiger Select the correct answer using the code given below.",
+      "options": {
+        "a": "II, III, IV and V only",
+        "b": "I, II, III and IV only",
+        "c": "I, II and VI only",
+        "d": "I, II, III, IV, V and VI"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Species Recovery Programme is one of the three components of the Centrally Sponsored Scheme — Integrated Development of Wildlife Habitats (IDWH), by the Ministry of Environment.\nCurrently, 22 critically endangered species in the country are covered under this programme, These are Snow Leopard, Bustard (including Floricans), Dolphin, Hangul, Nilgiri Tahr, Marine Turtles, Dugongs, Edible Nest Swiftlet, Asian Wild Buffalo, Nicobar Megapode, Manipur Brow-antlered Deer, Vultures, Malabar Civet, Indian Rhinoceros, Asiatic Lion, Swamp Deer, Jerdon’s Courser, Northern River Terrapin, Clouded Leopard, Arabian Sea Humpback Whale, Red Panda and Caracal.\nNote: In such questions, the elimination technique could be used, need to remember which are not included, e.g., there is a separate Project Tiger and Project Elephant for the protection of tigers and elephants.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to protected areas in India, consider the following information:",
+        "Protected Area State Key fauna",
+        "I. Kuno National Park Madhya Pradesh Hangul",
+        "II. Dudhwa National Park Uttarakhand Gharial",
+        "III. Sharavathi Valley Wildlife Sanctuary Karnataka Lion-Tailed Macaque In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to protected areas in India, consider the following information: Protected Area State Key fauna I. Kuno National Park Madhya Pradesh Hangul II. Dudhwa National Park Uttarakhand Gharial III. Sharavathi Valley Wildlife Sanctuary Karnataka Lion-Tailed Macaque In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Row I is incorrect: Kuno National Park: Kuno National Park is in Madhya Pradesh state. It hosts African cheetahs introduced under Project Cheetah.\nHangul or Kashmir stag's last viable habitat is Dachigam National Park. Row II is incorrect: Dudhwa National Park: The Dudhwa National Park is close to the Indo-Nepal border in the Palia and Nighasan tehsil of district Lakhimpur-Kheri, Uttar Pradesh. Dudhwa National Park is overrun by 3 to 6 m long Elephant grass during the monsoons and is home to some of the most endangered animal and bird species, like the Rhinoceros, Tiger, Leopard, Hispid Hare, Gharial and the Bengal Florican.\nRow III is correct: The Sharavathi Wildlife Sanctuary: The Sharavathi Lion-Tailed Macaque Sanctuary is a protected area in Karnataka’s Shivamogga district within the Western Ghats, specifically designed to conserve the endangered lion-tailed macaque.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the International Union for Conservation of Nature (IUCN), consider the following statements:",
+        "I. It is a specialised agency of the United Nations.",
+        "II. The IUCN World Conservation Congress, 2025 adopted a 20-year strategic vision i.e. Unite for Nature on the Path to 2045.",
+        "III. The Kenton R. Miller Award is conferred by IUCN for innovation in protected areas management.",
+        "IV. The IUCN Green List of Protected and Conserved Areas is a global campaign for successful nature conservation.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the International Union for Conservation of Nature (IUCN), consider the following statements: I. It is a specialised agency of the United Nations. II. The IUCN World Conservation Congress, 2025 adopted a 20-year strategic vision i.e. Unite for Nature on the Path to 2045. III. The Kenton R. Miller Award is conferred by IUCN for innovation in protected areas management. IV. The IUCN Green List of Protected and Conserved Areas is a global campaign for successful nature conservation. Which of the statements given above are correct?",
+      "options": {
+        "a": "II and IV only",
+        "b": "I and III only",
+        "c": "II, III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is incorrect: The International Union for Conservation of Nature (IUCN) is not a specialised UN agency; it is an international membership union of governments and NGOs and does not have binding enforcement powers over states. However, it holds official Observer Status at the United Nations General Assembly.\nStatement II is correct: IUCN members have launched initiatives like “Unite for Nature on the Path to 2045” as part of long-term global conservation vision and engagement. It emphasizes the 20-year trajectory toward 2045, focusing on scaling up nature-based solutions and ensuring that biodiversity conservation is integrated into economic and social development.\nStatement III is correct: The Kenton R. Miller Award is conferred by IUCN to recognize innovation in protected area management, especially in advancing conservation effectiveness. This award recognizes individuals who have demonstrated innovation in communications, planning, or management of protected areas. Sonali Ghosh, the Director of Kaziranga National Park and Tiger Reserve, has become the first Indian to receive it.\nStatement IV is correct: The IUCN Green List of Protected and Conserved Areas is a global campaign for successful nature conservation. It is a global certification programme recognizing sites that successfully achieved effective and sustainable conservation outcomes for people and nature. It acts as a standard for quality management, requiring sites to meet 17 criteria across good governance, sound design, effective management, and successful results.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "In the context of global environmental governance, the 'Bonn Guidelines' adopted in 2002 are primarily related to",
+        "which of the following?"
+      ],
+      "questionText": "In the context of global environmental governance, the 'Bonn Guidelines' adopted in 2002 are primarily related to which of the following?",
+      "options": {
+        "a": "Establishment of a global network of marine protected areas to conserve deep-sea biodiversity.",
+        "b": "Facilitate access to Genetic Resources and promoting fair and equitable sharing of the benefits arising out of their utilization.",
+        "c": "Conservation of migratory species and protection of their habitats across borders.",
+        "d": "In-situ conservation of biodiversity through protected area management."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Bonn Guidelines were adopted in 2002 during the sixth meeting of the Conference of the Parties (COP 6) to the Convention on Biological Diversity (CBD). The Bonn Guidelines were adopted to provide voluntary guidance on Access and Benefit Sharing (ABS), ensuring fair and equitable sharing of benefits arising from the use of genetic resources and associated traditional knowledge.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Cold Desert Biosphere Reserve, consider the following statements:",
+        "I. It has recently been included as the 13th Biosphere Reserve of India in UNESCO’s World Network of Biosphere",
+        "Reserves.",
+        "II. Pin Valley National Park and Chandratal wildlife sanctuary are part of the Biosphere Reserve.",
+        "III. Tibetan Gazelle and the Himalayan Ibex are naturally found in the Cold Desert Biosphere Reserve.",
+        "IV. It is located within the Union Territory of Ladakh.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Cold Desert Biosphere Reserve, consider the following statements: I. It has recently been included as the 13th Biosphere Reserve of India in UNESCO’s World Network of Biosphere Reserves. II. Pin Valley National Park and Chandratal wildlife sanctuary are part of the Biosphere Reserve. III. Tibetan Gazelle and the Himalayan Ibex are naturally found in the Cold Desert Biosphere Reserve. IV. It is located within the Union Territory of Ladakh. Which of the statements given above are correct?",
+      "options": {
+        "a": "II and III only",
+        "b": "I and IV only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: In 2025, the Cold Desert Biosphere Reserve was officially designated as the 13th Indian Biosphere Reserve to be included in the UNESCO World Network of Biosphere Reserves (WNBR) under the Man and the Biosphere (MAB) Programme. India has 18 Biosphere Reserves in total, but only 13 have met the international standards required for UNESCO WNBR recognition.\nStatement II is correct: The Cold Desert Biosphere Reserve includes areas like Pin Valley National Park and Chandratal Wildlife Sanctuary, which fall within its ecological landscape in Himachal Pradesh.\nStatement III is correct: Species like the Tibetan Gazelle and Himalayan Ibex are characteristic fauna of cold desert ecosystems and are found in this biosphere reserve.\nStatement IV is incorrect: The Cold Desert Biosphere Reserve is located entirely within the Lahaul and Spiti district of Himachal Pradesh, not the Union Territory of Ladakh.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "This protected area has recently been designated as India’s 58th Tiger Reserve; it encompasses the Sakhya Sagar wetland, a Ramsar site, and served as a key site for the tiger reintroduction programme in the Chambal region.",
+        "Which of the following protected areas is best described above?"
+      ],
+      "questionText": "This protected area has recently been designated as India’s 58th Tiger Reserve; it encompasses the Sakhya Sagar wetland, a Ramsar site, and served as a key site for the tiger reintroduction programme in the Chambal region. Which of the following protected areas is best described above?",
+      "options": {
+        "a": "Bandhavgarh National Park",
+        "b": "Pench National Park",
+        "c": "Madhav National Park",
+        "d": "Panna National Park"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Recently, the Government of India, following the recommendation of the National Tiger Conservation Authority (NTCA), notified Madhav National Park as the 58th Tiger Reserve. Madhav National Park encompasses the Sakhya Sagar and Madhav Sagar lakes. Sakhya Sagar was designated as a Ramsar Site (Wetland of International Importance) in 2022. To restore the ecological balance, a major Tiger Reintroduction Project was launched. Tigers were translocated in Madhav National Park from other high-density reserves like Panna, Bandhavgarh, and Satpura.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q09",
+      "questionNumber": 9,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Tiger Reserves in India, consider the following statements:",
+        "I. These are notified by the State Governments.",
+        "II. The alteration in the boundaries of a Tiger Reserve requires the approval of the National Board for Wildlife (NBWL).",
+        "III. The core area of a Tiger Reserve is legally designated as a Critical Tiger Habitat under the Environment",
+        "(Protection) Act, 1986.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Tiger Reserves in India, consider the following statements: I. These are notified by the State Governments. II. The alteration in the boundaries of a Tiger Reserve requires the approval of the National Board for Wildlife (NBWL). III. The core area of a Tiger Reserve is legally designated as a Critical Tiger Habitat under the Environment (Protection) Act, 1986. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: Tiger Reserves are notified by State Governments under the Wildlife (Protection) Act, 1972 on the recommendation of the National Tiger Conservation Authority (NTCA). The State Government prepares a Tiger Conservation Plan, which is then sent to the National Tiger Conservation Authority (NTCA) for approval. Once the NTCA accords its \"approval in principle,\" the State Government issues the final notification.\nStatement II is correct: Any alteration in the boundaries of a Tiger Reserve requires the recommendation of the National Tiger Conservation Authority (NTCA) and the subsequent approval of the National Board for Wildlife (NBWL).\nStatement III is incorrect: Tiger Reserves consist of a core area and a buffer area with distinct management objectives. Core/Critical Tiger Habitat are kept \"inviolate\" i.e. free of human presence to support tiger breeding and long-term survival. Buffer/Peripheral Area Surrounds the core area. The \"core area\" of a Tiger Reserve is legally notified as a Critical Tiger Habitat under the Wildlife (Protection) Act, 1972 and not under the Environment (Protection) Act, 1986.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The “Saksham Niveshak”, a 100-day campaign, recently launched by the Investor Education and Protection Fund",
+        "Authority (IEPFA), primarily aims to:"
+      ],
+      "questionText": "The “Saksham Niveshak”, a 100-day campaign, recently launched by the Investor Education and Protection Fund Authority (IEPFA), primarily aims to:",
+      "options": {
+        "a": "Empower shareholders by promoting online grievance-redressal platforms for resolving investment related disputes.",
+        "b": "Empower shareholders by educating them about risks associated with high-frequency trading and derivatives.",
+        "c": "Empower shareholders by helping them diversify portfolios through financial planning and advisory support.",
+        "d": "Empower shareholders by creating awareness about unclaimed dividends and guiding them to update KYC and nomination details to reclaim their rightful dividend."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Investor Education and Protection Fund Authority (IEPFA) has launched the 100-day “Saksham Niveshak” campaign with a very specific and targeted objective:\n- To inform shareholders about unclaimed dividends that remain with companies, often due to outdated or incomplete KYC, bank, or nomination records.\n- To assist them in updating these essential details so that they can reclaim unclaimed dividends and resume receiving future dividend payments smoothly.\n- The campaign also urges companies to proactively contact shareholders whose dividends remain unclaimed.\n\nKnowledge Base: Investor Education and Protection Fund Authority (IEPFA) –\n- Established under: Section 125 of the Companies Act, 2013.\n- Nodal Ministry: Ministry of Corporate Affairs (MCA).\n- Purpose: To administer the Investor Education and Protection Fund (IEPF).\n- Core Functions: o Refund of unclaimed dividends, matured deposits, matured debentures, and other such amounts transferred to IEPF.\no Promotion of investor awareness, financial literacy, and protection of investor interests.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?"
+      ],
+      "questionText": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
+      "options": {
+        "a": "Butterflies",
+        "b": "Dragonflies",
+        "c": "Honeybees",
+        "d": "Wasps"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** There are 2 types of dances performed by bees:\n- The Round Dance and-The Tail-wagging or Waggle Dance\nFor food sources 25 to 100 metres from the hive or closer, the round dance is used. The round dance provides no directional cues. The waggle dance takes the place of the round dance as the distance to the food source increases. The waggle dance tells the direction and amount of energy needed to reach the food source.\nThe amount of energy spent (or distance) is represented by the time required to complete one circuit. For a food source which is 200 metres away, a bee might dance 8–9 circuits in 15 seconds, 4-5 in 15 seconds for a source that is 1000 metres away, and 3 circuits in 15 seconds for a source that is 2000 metres away.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Biological Diversity (Access to Biological Resources and Knowledge Associated thereto and",
+        "Fair and Equitable Sharing of Benefits) Regulations, 2025, consider the following statements:",
+        "As per the Regulation:",
+        "I. The sharing of benefits for the use of biological resources will include digital sequence information on genetic resources or knowledge associated with it.",
+        "II. The amount payable on account of benefit sharing for access to biological resources for commercial utilisation is fixed at 1% of the annual turnover of the person.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Biological Diversity (Access to Biological Resources and Knowledge Associated thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025, consider the following statements: As per the Regulation: I. The sharing of benefits for the use of biological resources will include digital sequence information on genetic resources or knowledge associated with it. II. The amount payable on account of benefit sharing for access to biological resources for commercial utilisation is fixed at 1% of the annual turnover of the person. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Biological Diversity (Access to Biological Resources and Knowledge Associated thereto and Fair and Equitable Sharing of Benefits) Regulations, 2025 provides a mechanism to ensure fair and equitable sharing of benefits arising from the use of biological resources and associated traditional knowledge. It replaces the Guidelines Regulations of 2014.\nStatement I is correct: The regulation will now guide the sharing of benefits for the use of biological resources, including digital sequence information on genetic resources or knowledge associated with it.\nAt the sixteenth meeting, Conference of the Parties (COP) to the Convention on Biological Diversity, operationalizing the multilateral mechanism for the fair and equitable sharing of benefits from the use of Digital Sequence Information on genetic resources was taken.\nStatement II is incorrect: The Regulation has set slabs based on the annual turnover of the person or the industry accessing the resource. While users who have an annual turnover of up to Rs 5 crore do not have to share benefits, those with a turnover between Rs 5 crore and Rs 50 crore have to share 0.2 per cent of the annual gross ex-factory sale price of the product So there is a slab and not fixed at 1%.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements regarding the High Seas Treaty, formally known as the Agreement under the",
+        "United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological",
+        "Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement):",
+        "I. It is a legally binding instrument aimed at conserving and sustainable utilisation of marine biological diversity in areas beyond national jurisdiction.",
+        "II. It will enable the establishment of Marine Protected Areas (MPAs) in international waters.",
+        "III. India recently ratified the treaty.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the High Seas Treaty, formally known as the Agreement under the United Nations Convention on the Law of the Sea on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ Agreement): I. It is a legally binding instrument aimed at conserving and sustainable utilisation of marine biological diversity in areas beyond national jurisdiction. II. It will enable the establishment of Marine Protected Areas (MPAs) in international waters. III. India recently ratified the treaty. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The High Seas Treaty formally known as the Agreement on the Conservation and Sustainable Use of Marine Biological Diversity of Areas Beyond National Jurisdiction (BBNJ) is a landmark global framework aimed at protecting biodiversity in the high seas, i.e., ocean areas beyond national jurisdiction.\nStatement I is correct. It is the first international legally binding instrument to conserve and sustainably manage marine biodiversity in areas beyond national jurisdiction.\nIt is a legally binding international instrument under the United Nations Convention on the Law of the Sea (UNCLOS).\n\nStatement II is correct. One of the key provisions of the treaty is the creation of Marine Protected Areas (MPAs) in international waters. These function similarly to protected areas on land by restricting harmful activities and conserving biodiversity.\nThe BBNJ Agreement covers four main issues: I. marine genetic resources, including the fair and equitable sharing of benefits; II. measures such as area-based management tools, including marine protected areas; III. environmental impact assessments; and IV. capacity-building and the transfer of marine technology.\nStatement III is incorrect. India has actively participated in negotiations and has signed the treaty in 2024 but it has not yet ratified it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q14",
+      "questionNumber": 14,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The recently adopted Victoria Falls Declaration is primarily related to which of the following?"
+      ],
+      "questionText": "The recently adopted Victoria Falls Declaration is primarily related to which of the following?",
+      "options": {
+        "a": "Establishing a global fund for the protection of tropical rainforests and carbon sinks.",
+        "b": "Reaffirming the global commitment to protecting wetlands in the face of accelerating loss.",
+        "c": "Regulating the international trade of endangered flora and fauna.",
+        "d": "Promoting global cooperation for the sustainable management of waterfall ecosystems."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Victoria Falls Declaration was adopted at the 15th Conference of Parties (COP15) 2025, to the Ramsar Convention on Wetlands. The declaration reflects growing global concern over the rapid loss and degradation of wetlands, which are critical for biodiversity. The Victoria Falls Declaration specifically focuses on reaffirming global commitment to wetland conservation, addressing their rapid decline.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES),",
+        "consider the following statements:",
+        "I. Its secretariat is administered by the United Nations Environment Programme (UNEP).",
+        "II. 3rd March, which is celebrated as World Wildlife Day, is the day of the adoption of the CITES in 1973.",
+        "III. Appendix I of CITES includes species on the verge of extinction, and the trade in specimens of these species is not permitted under any circumstances.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), consider the following statements: I. Its secretariat is administered by the United Nations Environment Programme (UNEP). II. 3rd March, which is celebrated as World Wildlife Day, is the day of the adoption of the CITES in 1973. III. Appendix I of CITES includes species on the verge of extinction, and the trade in specimens of these species is not permitted under any circumstances. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. The Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) Secretariat functions under the United Nations Environment Programme, which provides administrative support.\nStatement II is correct. World Wildlife Day is observed annually on March 3rd. The date is the day of the adoption of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) in 1973, which plays an important role in ensuring that international trade does not threaten the species’ survival.\nThe Secretariat of the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), in collaboration with other relevant United Nations organizations, facilitates the implementation of World Wildlife Day.\nThe World Wildlife Day 2026 Theme was Medicinal and Aromatic Plants: Conserving Health, Heritage and Livelihoods.\n\nStatement III is incorrect. Appendix I includes species threatened with extinction. Trade in specimens of these species is permitted only in exceptional circumstances. Thus, it is not that the trade in specimens of these species is not permitted under any circumstances.\nAppendix II includes species not necessarily threatened with extinction, but in which trade must be controlled in order to avoid utilization incompatible with their survival.\nAppendix III contains species that are protected in at least one country, which has asked other CITES Parties for assistance in controlling the trade.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the National Tiger Conservation Authority (NTCA), consider the following statements:",
+        "I. It is a statutory body constituted under the Prevention of Cruelty to Animals Act, 1960.",
+        "II. One of its objectives is to address the livelihood interests of local people in areas surrounding Tiger Reserves.",
+        "III. It serves as the nodal authority for the Cheetah Reintroduction Program in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the National Tiger Conservation Authority (NTCA), consider the following statements: I. It is a statutory body constituted under the Prevention of Cruelty to Animals Act, 1960. II. One of its objectives is to address the livelihood interests of local people in areas surrounding Tiger Reserves. III. It serves as the nodal authority for the Cheetah Reintroduction Program in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and II",
+        "c": "II and III",
+        "d": "II only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The National Tiger Conservation Authority (NTCA) is a statutory body responsible for strengthening tiger conservation in India.\nStatement I is incorrect. NTCA is not established under the Prevention of Cruelty to Animals Act, 1960. Instead, it is a statutory body created under the Wildlife (Protection) Act, 1972 (amended in 2006).\nStatement II is correct. NTCA recognizes that conservation must be balanced with the needs of local communities. It promotes livelihood interests of local people in areas surrounding Tiger Reserves.\nStatement III is correct. NTCA acts as the nodal agency for implementing the Cheetah Reintroduction Program in India, coordinating with state governments and other institutions for habitat preparation and monitoring.\nKnowledge Base: The objectives of NTCA are:\n- Providing statutory authority to Project Tiger so that compliance of its directives become legal.\n- Fostering accountability of Center-State in management of Tiger Reserves, by providing a basis for MoU with\nStates within our federal structure.\n- Providing for an oversight by Parliament.\n- Addressing livelihood interests of local people in areas surrounding Tiger Reserves.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which of the following animals is widely recognized as a ‘nature's engineer’ for its unique ability to build dams that significantly transform landscapes, create productive wetlands, and increase local biodiversity?"
+      ],
+      "questionText": "Which of the following animals is widely recognized as a ‘nature's engineer’ for its unique ability to build dams that significantly transform landscapes, create productive wetlands, and increase local biodiversity?",
+      "options": {
+        "a": "Otters",
+        "b": "Beavers",
+        "c": "Muskrats",
+        "d": "Platypus"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Beavers are classic examples of “nature’s engineers”. They build dams using wood, mud, and vegetation, which slow down water flow and create ponds and wetlands. These wetlands enhance biodiversity by providing habitats for fish, amphibians, birds, and plants. Beavers construct dams primarily to create stable ponds that provide safety and access to vegetation. The pond allows them to build lodges with underwater entrances, reducing the risk of predation from wolves or bears. Dams also help maintain water levels during dry periods.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements regarding the Animal Welfare Board of India (AWBI):",
+        "I. It is a statutory body under the Ministry of Environment, Forest and Climate Change, Government of India.",
+        "II. The Prani Mitra and Jeev Daya Award Ceremony is annually organised by the AWBI.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Animal Welfare Board of India (AWBI): I. It is a statutory body under the Ministry of Environment, Forest and Climate Change, Government of India. II. The Prani Mitra and Jeev Daya Award Ceremony is annually organised by the AWBI. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. The Animal Welfare Board of India (AWBI) is a statutory body dedicated to the promotion of animal welfare and the prevention of cruelty to animals in India. It is a statutory body of the Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry & Dairying. It was established under the Prevention of Cruelty to Animals Act, 1960 and functions as an advisory body to the government\n\nStatement II is correct. AWBI recognizes individuals and organizations working in the field of animal welfare through awards like the Prani Mitra Award and Jeev Daya Award, encouraging humane treatment of animals.\nThis initiative aims to recognize outstanding individuals and organizations for their remarkable contributions to animal welfare and protection. The primary objective of this celebration is to honour and encourage kindness and compassion towards animals in the society while raising awareness among citizens to treat animals in a humane manner.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q19",
+      "questionNumber": 19,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the International Union for the Protection of New Varieties of Plants (UPOV), consider the following statements:",
+        "I. It is an intergovernmental organization established to provide an effective system of plant variety protection.",
+        "II. India is a member of UPOV.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the International Union for the Protection of New Varieties of Plants (UPOV), consider the following statements: I. It is an intergovernmental organization established to provide an effective system of plant variety protection. II. India is a member of UPOV. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. The International Union for the Protection of New Varieties of Plants (UPOV) is an intergovernmental organization established in 1961 to provide an effective system of plant variety protection. Its mission is to encourage the development of new plant varieties for the benefit of society.\nUPOV administers the UPOV Convention, which provides a legal framework for plant variety protection implemented by its members. Under this framework, breeders of new plant varieties are granted an intellectual property right known as the breeder’s right, which incentivizes innovation in plant breeding.\nStatement II is incorrect. UPOV has over 80 member countries. India is not a member of UPOV.\n\nNote: In May 2002, the Indian Cabinet approved seeking accession to the UPOV Convention (1978 Act) following the enactment of the Protection of Plant Varieties and Farmers' Rights (PPV&FR) Act, 2001. Though it is not a member of the UPOV.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The Indian Army carried out Exercise Siyom Prahar, 2025 in which of the following states?"
+      ],
+      "questionText": "The Indian Army carried out Exercise Siyom Prahar, 2025 in which of the following states?",
+      "options": {
+        "a": "Rajasthan",
+        "b": "Punjab",
+        "c": "Arunachal Pradesh",
+        "d": "Kerala"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Exercise Siyom Prahar, 2025 was conducted by the Indian Army in Arunachal Pradesh with the objective of testing and validating the use of drones in tactical operations under battlefield-like conditions.\nThe exercise played a significant role in developing new tactics, techniques, and procedures (TTPs) by integrating drone-based intelligence with conventional firepower, joint targeting, and rapid decision-making to enhance operational effectiveness in dynamic scenarios.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "1. Butterflies",
+        "2. Fish",
+        "3. Frogs",
+        "How many of the above have poisonous species among them?"
+      ],
+      "questionText": "Consider the following: 1. Butterflies 2. Fish 3. Frogs How many of the above have poisonous species among them?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Item 1 is correct. Monarch butterflies have poison in their vibrant wings. Item 2 is correct. There exist more than 1000 poisonous species of fish. For example, Reef Stonefish, which is the most venomous known fish.\nItem 3 is correct. Many species of frog are known to be poisonous. The Golden Poison Frog or Phyllobates terribilis is the most poisonous frog.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q22",
+      "questionNumber": 22,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Synchronous All India Elephant Estimation (SAIEE) 2021–25, consider the following states:",
+        "I. Karnataka",
+        "II. Assam",
+        "III. Tamil Nadu",
+        "IV. Kerala",
+        "Which of the following is the correct descending order of these states in terms of their elephant population?"
+      ],
+      "questionText": "With reference to the Synchronous All India Elephant Estimation (SAIEE) 2021–25, consider the following states: I. Karnataka II. Assam III. Tamil Nadu IV. Kerala Which of the following is the correct descending order of these states in terms of their elephant population?",
+      "options": {
+        "a": "IV - III - II - I",
+        "b": "I - II - IV - III",
+        "c": "I - II - III - IV",
+        "d": "IV - I - II - III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Synchronous All India Population Estimation of Elephants (SAIEE) 2021–25, released in October 2025 by the Ministry of Environment, Forest and Climate Change (MoEFCC) and the Wildlife Institute of India (WII), represents India's first-ever DNA-based census for elephants.\nOption I: Karnataka: Karnataka has the highest elephant population with 6013 elephants in the state. Option II: Assam: Assam has 4,159 elephants in the state.\nOption III: Tamil Nadu: Tamil Nadu has 3,136 elephants in the state. Option IV: Kerala: Kerala has 2,785 elephants in the state. Hence, Correct chronological order: I – II – III – IV.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q23",
+      "questionNumber": 23,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements with reference to Blue Flag Certification:",
+        "I. It is a globally recognised eco-label awarded to beaches, marinas, and tourism boats that meet specific high environmental and safety standards.",
+        "II. It is awarded by the Foundation for Environmental Education.",
+        "III. The Chandrabhaga beach of Odisha was the first in Asia to get the Blue Flag certification.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to Blue Flag Certification: I. It is a globally recognised eco-label awarded to beaches, marinas, and tourism boats that meet specific high environmental and safety standards. II. It is awarded by the Foundation for Environmental Education. III. The Chandrabhaga beach of Odisha was the first in Asia to get the Blue Flag certification. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct. The International Blue Flag Certification is a globally recognized eco-label that promotes sustainable coastal tourism and environmental management. It is awarded to beaches, marinas, and boating operators that meet strict standards related to water quality, safety, environmental education, and management practices.\nStatement II is correct. The International Blue Flag Certification is a globally recognized eco-label that promotes sustainable coastal tourism and environmental management. It is awarded by the Denmark based Foundation for Environmental Education (FEE). It is awarded to beaches, marinas, and boating operators that meet strict standards related to water quality, safety, environmental education, and management practices.\nStatement III is correct. India joined the Blue Flag programme in 2018. On the occasion of World Environment Day, June 5, 2018 Odisha’s Chandrabhaga beach became Asia’s first beach to get a Blue Flag certification.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "If one wants to see Jerdon’s Courser in its natural habitat in India,",
+        "which one of the following states should one visit?"
+      ],
+      "questionText": "If one wants to see Jerdon’s Courser in its natural habitat in India, which one of the following states should one visit?",
+      "options": {
+        "a": "Rajasthan",
+        "b": "Karnataka",
+        "c": "Andhra Pradesh",
+        "d": "Assam"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** India is home to several rare and elusive species. Some of them are so rarely sighted that they are often called “ghost species”. Jerdon’s Courser is one such bird whose habitat is very specific.\nJerdon’s Courser is found in the scrub forests of the Eastern Ghats, particularly in parts of Andhra Pradesh. It prefers open, dry forest areas with sparse vegetation.\nThe bird is nocturnal and extremely elusive, which is why sightings are very rare. Its restricted habitat is one of the main reasons for its critically endangered status.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Lions do not have a particular breeding season.",
+        "2. Unlike most other big cats, cheetahs do not roar.",
+        "3. Unlike male lions, male leopards do not proclaim their territory by scent marking.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Lions do not have a particular breeding season. 2. Unlike most other big cats, cheetahs do not roar. 3. Unlike male lions, male leopards do not proclaim their territory by scent marking. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement 1 is correct. Lions have no particular breeding season. Females cycle throughout the year every 16 days, remaining in estrus for four to eight days. Lions do not mate at a specific time of year and the females are polyestrous.\nStatement 2 is correct. Unlike other big cats, including lions, tigers, leopards, and jaguars, cheetahs don’t roar. They growl when there is danger, and usually only chirp, purr and meow.\nStatement 3 is incorrect. Lions proclaim their territory by roaring and by scent marking. Leopards also proclaim their territory by roaring and by scent marking. Both sexes use urine to mark their territories, and often after urinating a male will then scrape the ground to transfer the scent of his urine onto his feet to be carried during territorial boundary patrols.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q26",
+      "questionNumber": 26,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to Carrot/Congress grass (Parthenium hysterophorus), which of the following statements is/are correct?",
+        "I. It is endemic to the Nilgiri hills in India.",
+        "II. It is widely used in preparing natural mosquito repellent.",
+        "III. Its pollen can cause respiratory and skin-related issues in humans and animals.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to Carrot/Congress grass (Parthenium hysterophorus), which of the following statements is/are correct? I. It is endemic to the Nilgiri hills in India. II. It is widely used in preparing natural mosquito repellent. III. Its pollen can cause respiratory and skin-related issues in humans and animals. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Invasive species are a growing concern for India’s ecology and agriculture. Among them, Carrot grass (Parthenium hysterophorus), also known as “Congress grass”, has emerged as a serious threat. It spreads rapidly, affects crops, and also poses health risks.\nStatement I is incorrect. The plant is not endemic to the Nilgiri hills or to India. It is native to tropical America and is an invasive alien species. It is widely believed that the plant entered India in the 1950s through contaminated wheat imports under the PL-480 programme from the United States. Since it had no natural predators in India, it spread rapidly across the country and became a highly invasive species.\nStatement II is incorrect. Carrot grass has no recognized commercial use in the production of mosquito repellents. Rather lemon grass (Cymbopogon), which are rich in citronella oil and are widely used as natural insect repellents.\nIn contrast, Carrot grass is regarded as a harmful invasive weed rather than an economically beneficial plant.\n\nStatement III is correct. The plant produces fine pollen grains that are highly allergenic. These can cause respiratory issues such as asthma and bronchitis, along with skin problems like dermatitis. Not only humans, but even animals are affected when they come in contact with it or consume contaminated fodder.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q27",
+      "questionNumber": 27,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The red-eared slider turtle, which is often discussed in the media, is:"
+      ],
+      "questionText": "The red-eared slider turtle, which is often discussed in the media, is:",
+      "options": {
+        "a": "The most recently functionally extinct turtle in the wild.",
+        "b": "A keystone species maintaining ecosystem stability.",
+        "c": "Known for their unique mass nesting called Arribada.",
+        "d": "An invasive alien species in India that got spread through the pet trad"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** An invasive alien species refers to a species that is introduced outside its natural geographical range, either intentionally or unintentionally, and subsequently establishes, spreads, and causes harm to the environment, native biodiversity, economy, or human health.\nThe Red-eared Slider Turtle is an invasive alien species native to the United States, widely spread through the pet trade. In India, its presence in natural water bodies (e.g., Coimbatore) highlights its growing ecological footprint. Once released, it competes with native species for food and habitat, posing a threat to biodiversity and underscoring the risks of unregulated exotic pet release.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q28",
+      "questionNumber": 28,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Camels store water in their humps, which helps them survive long periods without drinking water.",
+        "II. Camels do not sweat at all, which helps them conserve water in hot desert environments.",
+        "III. Camels possess a third, partially transparent eyelid that helps protect their eyes during sandstorms while maintaining vision.",
+        "IV. Camels have a short gestation period of about 3 months as an adaptation to harsh desert conditions.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. Camels store water in their humps, which helps them survive long periods without drinking water. II. Camels do not sweat at all, which helps them conserve water in hot desert environments. III. Camels possess a third, partially transparent eyelid that helps protect their eyes during sandstorms while maintaining vision. IV. Camels have a short gestation period of about 3 months as an adaptation to harsh desert conditions. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I, II and IV",
+        "b": "III only",
+        "c": "III and IV only",
+        "d": "II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. Camels do not store water in their humps; instead, their humps store fat. This fat acts as an energy reserve, which can be metabolized when food is scarce.\nStatement II is incorrect. Camels do sweat, but very minimally compared to other animals. They have a unique ability to tolerate higher body temperatures before sweating begins, which reduces water loss. This adaptation helps them conserve water in extreme heat.\nStatement III is correct. Camels have a third eyelid that is partially transparent. It acts as a protective layer against sand, dust, and debris, while still allowing them to see.\nStatement IV is incorrect. Camels have a long gestation period of about 13 to 15 months. Longer gestation ensures better-developed offspring capable of surviving harsh environments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q29",
+      "questionNumber": 29,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "A pharmaceutical firm identifies a medicinal plant traditionally used by a local tribal community. The firm isolates the active compound, secures a global patent, and generates profit without prior informed consent from the tribal community and benefit sharing.",
+        "Which of the following best describes this scenario?"
+      ],
+      "questionText": "A pharmaceutical firm identifies a medicinal plant traditionally used by a local tribal community. The firm isolates the active compound, secures a global patent, and generates profit without prior informed consent from the tribal community and benefit sharing. Which of the following best describes this scenario?",
+      "options": {
+        "a": "Bioremediation",
+        "b": "Biopiracy",
+        "c": "Bioprospecting",
+        "d": "Bioentrepreneurship"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Biopiracy is a violation of the rights of traditional communities over their biological resources and related knowledge.\nBiopiracy refers to the unauthorised use and commercial exploitation of biological resources or traditional knowledge without prior consent and without sharing benefits with the rightful holders.\nIn this case, the pharmaceutical firm uses a plant known to a local tribe, patents its compound, and earns profit without compensation, which clearly reflects exploitation of indigenous knowledge systems. The absence of benefit-sharing and consent is the defining feature of biopiracy.\nKnowledge Base:\n- Bioremediation involves the use of living organisms to remove pollutants from the environment. It is an environmental clean-up process.\n- Bioprospecting refers to the exploration of biological resources for commercially valuable compounds. It is a legitimate activity when conducted with proper consent and benefit-sharing mechanisms.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements about the Assistance in Deploying Energy Efficient Technologies in Industries",
+        "& Establishments (ADEETIE) Scheme:",
+        "I. The scheme provides financial and technical assistance to both MSMEs and large enterprises for adopting energy- efficient technologies.",
+        "II. The scheme is implemented by the Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the Assistance in Deploying Energy Efficient Technologies in Industries & Establishments (ADEETIE) Scheme: I. The scheme provides financial and technical assistance to both MSMEs and large enterprises for adopting energy- efficient technologies. II. The scheme is implemented by the Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I Only",
+        "b": "II Only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Assistance in Deploying Energy Efficient Technologies in Industries & Establishments (ADEETIE) Scheme was recently launched by the Ministry of Power to accelerate energy efficiency adoption in India’s industrial sector.\nStatement I is incorrect: The ADEETIE Scheme is exclusively designed for Micro, Small, and Medium Enterprises (MSMEs).\n- Its objective is to help smaller units transition to energy-efficient and low-carbon technologies, as MSMEs often lack capital and technical capacity.\n- The scheme explicitly excludes large enterprises, ensuring that the financial incentives and technical support (like energy audits, DPR preparation, technology identification, monitoring & verification) are targeted only toward the MSME sector.\nStatement II is correct: The Bureau of Energy Efficiency (BEE) is the designated implementing agency for ADEETIE. BEE functions under the Ministry of Power, and is responsible for India’s broader energy-efficiency missions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q31",
+      "questionNumber": 31,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements regarding the Indian squirrels:",
+        "1. They build nests by making burrows in the ground.",
+        "2. They store their food materials like nuts and seeds in the ground.",
+        "3. They are omnivorous.",
+        "How many of the above statements are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Indian squirrels: 1. They build nests by making burrows in the ground. 2. They store their food materials like nuts and seeds in the ground. 3. They are omnivorous. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement 1 is incorrect: Indian Palm squirrel construct their nests in tree branches and hollow trunks. They do not build nests by making burrows in the ground.\nStatement 2 is correct: Nuts are their main food source throughout the year, particularly when they are hunkering down for winter. These creatures store them by burying them underground so they can retrieve them later when it turns to winter.\nStatement 3 is correct: Many people think that squirrels only eat nuts, but this isn’t true. Squirrels are omnivores, which means they like to eat plants and meat. Squirrels mainly eat fungi, seeds, nuts and fruits, but they will also munch on eggs, small insects, caterpillars, small animals and even young snakes.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q32",
+      "questionNumber": 32,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "I. A region has at least 1,500 vascular plants as endemics.",
+        "II. A region has less than or equal to 30% of its original vegetation.",
+        "Which of the above criteria must be met for a region to be qualified as a biodiversity hotspot?"
+      ],
+      "questionText": "Consider the following: I. A region has at least 1,500 vascular plants as endemics. II. A region has less than or equal to 30% of its original vegetation. Which of the above criteria must be met for a region to be qualified as a biodiversity hotspot?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Either I or II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Biodiversity hotspots represent areas of exceptional biological richness under severe threat. The concept is designed to prioritise conservation efforts by focusing on regions where maximum biodiversity can be protected with limited resources.\nTo qualify as a biodiversity hotspot, a region must meet two strict criteria:\n- It must have at least 1,500 vascular plants as endemics — which is to say, it must have a high percentage of plant life found nowhere else on the planet. A hotspot, in other words, is irreplaceable.\n- It must have 30% or less of its original natural vegetation. In other words, it must be threatened. Thus, the conditions given in Statements I and II must be simultaneously met for an area to be declared a biodiversity hotspot.\nKnowledge Base: India has 4 of the world’s biodiversity hotspots—the Himalayas, the Western Ghats, the Northeast region, and the Nicobar Islands—making it an important region for global conservation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q33",
+      "questionNumber": 33,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Nagoya Protocol on Access and Benefit Sharing, consider the following statements:",
+        "I. It covers traditional knowledge associated with genetic resources that are covered by the Convention on Biological",
+        "Diversity (CBD) and the benefits arising from its utilization.",
+        "II. It establishes a Biosafety Clearing-House under the CBD for the sharing of information related to access and benefit-sharing.",
+        "III. India has recently submitted its First National Report (NR1) on the implementation of the Nagoya Protocol to the",
+        "Secretariat of the CBD.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Nagoya Protocol on Access and Benefit Sharing, consider the following statements: I. It covers traditional knowledge associated with genetic resources that are covered by the Convention on Biological Diversity (CBD) and the benefits arising from its utilization. II. It establishes a Biosafety Clearing-House under the CBD for the sharing of information related to access and benefit-sharing. III. India has recently submitted its First National Report (NR1) on the implementation of the Nagoya Protocol to the Secretariat of the CBD. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The global framework for biodiversity governance is anchored in the Convention on Biological Diversity (CBD), which rests on three core pillars—conservation of biodiversity, sustainable use of its components, and fair and equitable sharing of benefits arising from genetic resources.\nTo operationalise the third objective, the Nagoya Protocol was adopted as a supplementary agreement to the CBD. It lays down a legal and institutional framework for access to genetic resources and benefit-sharing (ABS), ensuring that countries and indigenous communities are not deprived of their rightful share when their biological resources or traditional knowledge are commercially utilised.\nThus, the Nagoya Protocol also covers traditional knowledge associated with genetic resources that are covered by the CBD and the benefits arising from its utilization.\nStatement II is incorrect. The biosafety clearing-house is a feature of the Cartagena Protocol on Biosafety, not the Nagoya Protocol. It deals with information related to genetically modified organisms and their safe handling. In contrast, the Nagoya Protocol provides for the Access and Benefit-sharing (ABS) Clearing-House. The ABS Clearing-House shall serve as a means for sharing of information related to access and benefit-sharing. In particular, it shall provide access to information made available by each Party relevant to the implementation of this Protocol.\nStatement III is correct: The Ministry of Environment, Forest and Climate Change (MoEFCC), in collaboration with the National Biodiversity Authority (NBA), has submitted India’s First National Report (NR1) on the implementation of the Nagoya Protocol on Access to Genetic Resources and the Fair and Equitable Sharing of Benefits Arising from their Utilization (ABS) to the Secretariat of the Convention on Biological Diversity (CBD), in accordance with Article 29 of the Protocol on Monitoring and Reporting.\nThe report covers the period from 1 November 2017 to 31 December 2025 and highlights India’s progress in implementing the Nagoya Protocol while contributing to Target 13 of India’s updated National Biodiversity Strategy and Action Plan (NBSAP).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q34",
+      "questionNumber": 34,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Convention on the Conservation of Migratory Species of Wild Animals (CMS), consider the following statements:",
+        "I. It aims to conserve terrestrial, aquatic and avian migratory species throughout their range.",
+        "II. It launched the first State of the World’s Migratory Species Report in 2024.",
+        "III. The Central Asian Mammals Initiative is an initiative under this Convention.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Convention on the Conservation of Migratory Species of Wild Animals (CMS), consider the following statements: I. It aims to conserve terrestrial, aquatic and avian migratory species throughout their range. II. It launched the first State of the World’s Migratory Species Report in 2024. III. The Central Asian Mammals Initiative is an initiative under this Convention. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Convention on the Conservation of Migratory Species of Wild Animals (CMS), also known as the Bonn Convention, is a United Nations environmental treaty aimed at protecting migratory species across their entire range. Unlike standalone regulatory bodies, CMS operates as a framework convention, enabling cooperation among countries (Range States) through agreements and memoranda of understanding tailored to specific species or regions.\nStatement I is correct. The Convention on the Conservation of Migratory Species of Wild Animals aims to conserve terrestrial, aquatic and avian migratory species throughout their range. It is an Intergovernmental Treaty, concluded under the auspices of the United Nations Environment Programme (UN Environment).\nStatement II is correct: CMS launched the first State of the World’s Migratory Species Report in 2024, which provided vital information on the conservation status of migratory species, identified key threats, and provided a set of concrete recommendations. The report succeeded in raising global awareness of the importance of migratory species and the actions needed for their survival.\nStatement III is correct. The Central Asian Mammals Initiative (CAMI) is an initiative under CMS. It focuses on the conservation of migratory mammal species in the Central Asian region, many of which face threats due to habitat fragmentation, poaching, and infrastructure barriers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following species:",
+        "I. Asian Elephant",
+        "II. Ganges River Dolphin",
+        "III. Great Indian Bustard",
+        "IV. Caracal",
+        "How many of the above are classified as ‘Critically Endangered’ according to the International Union for Conservation of Nature (IUCN) Red List of Threatened Species?"
+      ],
+      "questionText": "Consider the following species: I. Asian Elephant II. Ganges River Dolphin III. Great Indian Bustard IV. Caracal How many of the above are classified as ‘Critically Endangered’ according to the International Union for Conservation of Nature (IUCN) Red List of Threatened Species?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The International Union for Conservation of Nature (IUCN) maintains the globally recognised Red List of Threatened Species, which classifies species based on their risk of extinction. The major categories include Least Concern (LC), Near Threatened (NT), Vulnerable (VU), Endangered (EN), and Critically Endangered (CR), arranged in increasing order of threat.\nAmong these, the Critically Endangered (CR) category is particularly significant as it denotes species facing an extremely high risk of extinction in the immediate future. Such species require urgent and targeted conservation interventions, as even minor ecological disturbances can push them towards extinction.\nOption I is incorrect. The Asian Elephant is classified as Endangered (EN). This reflects a high risk of extinction, mainly due to habitat loss and human-elephant conflict, but it is not in the Critically Endangered category.\nOption II is incorrect. The Ganges River Dolphin is also classified as Endangered (EN). Despite serious ecological pressures such as pollution and river fragmentation, it is not classified as a Critically Endangered category.\nOption III is correct. The Great Indian Bustard is classified as Critically Endangered (CR), indicating an extremely high risk of extinction in the wild. Its population has declined drastically due to habitat loss, hunting (historically), and more recently, collisions with power lines, making it one of India’s most threatened bird species.\nOption IV is incorrect. Caracal is classified as Least Concern (LC) on the IUCN Red List.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q36",
+      "questionNumber": 36,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In India, the Asiatic Lion is confined only to Gir National Park.",
+        "Statement II: Gir Forests are characterized by a large compact tract of dry deciduous forests in semi-arid western",
+        "India.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In India, the Asiatic Lion is confined only to Gir National Park. Statement II: Gir Forests are characterized by a large compact tract of dry deciduous forests in semi-arid western India. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Asiatic Lion (Panthera leo leo) is an iconic species whose only wild population in the world survives in the Saurashtra region of Gujarat.\nStatement I is incorrect. While the Gir National Park and Wildlife Sanctuary is the core habitat, the Asiatic Lion is not confined only to the National Park. Due to population growth and range expansion, lions are now distributed across the Greater Gir landscape, which includes other protected areas like the Girnar Wildlife Sanctuary, Paniya Wildlife Sanctuary, and Mitiyala Wildlife Sanctuary. Additionally, a significant portion of the population now resides in non-protected revenue lands and coastal belts across several districts of Saurashtra.\nStatement II is correct. The Gir forests represent the largest compact tract of dry deciduous forests in the semi-arid region of western India. This unique ecosystem, characterised by teak-dominated vegetation, provides the essential habitat, prey base, and water sources required for the survival of the Asiatic Lion.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q37",
+      "questionNumber": 37,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following national parks:",
+        "I. Kaziranga National Park",
+        "II. Gorumara National Park",
+        "III. Orang National Park The Greater One-Horned Rhinos are naturally found in which of the above national parks?"
+      ],
+      "questionText": "Consider the following national parks: I. Kaziranga National Park II. Gorumara National Park III. Orang National Park The Greater One-Horned Rhinos are naturally found in which of the above national parks?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I, II and III",
+        "d": "I and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The greater one-horned rhino (or “Indian rhino”) has a single horn, which is present in both the sexes. It is the largest of all the Asian rhinos. One of the most amphibious rhino species, the Indian rhino is an excellent swimmer. It can run at a speed of 55km/hr for short periods. Though it has an incredible sense of hearing and smell, its eyesight is relatively poor.\nThe preferred habitat of an Indian rhinoceros are primarily areas that contain grasslands and wetlands located in the foothills of the Himalayas and the Brahmaputra and Ganges valley. At present, the species are restricted to small patches in the Indo-Nepal Terai, northern parts of West Bengal, and Assam. Formerly they were extensively distributed in the Brahmaputra and Gangetic valley. Within India, rhinos are mainly found in the seven Protected Areas viz.\n- Kaziranga National Park (Assam). Thus, option I correct.\n- Dudhwa National Park (Uttar Pradesh).\n- Gorumara National Park (West Bengal). Thus,\noption II is correct.\n- Orang National Park (Assam). Thus,\noption III is correct.\n- Pobitara Wildlife Sanctuary (Assam)\n- Manas National Park (Assam)\n- Jaldapara National Park (West Bengal) In addition, a transient population is also observed in Katerniaghat Wildlife Sanctuary in Uttar Pradesh and Valmiki Tiger Reserve in Bihar.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Wildlife Crime Control Bureau, consider the following statements:",
+        "I. It is responsible for monitoring the recently launched Tigers Outside Tiger Reserves (TOTR) Project.",
+        "II. It regulates the exchange of animals of the endangered category listed under Schedule I and II of the Wildlife",
+        "(Protection) Act, 1972 among zoos.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Wildlife Crime Control Bureau, consider the following statements: I. It is responsible for monitoring the recently launched Tigers Outside Tiger Reserves (TOTR) Project. II. It regulates the exchange of animals of the endangered category listed under Schedule I and II of the Wildlife (Protection) Act, 1972 among zoos. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Wildlife Crime Control Bureau is a statutory multi-disciplinary body established under the Ministry of Environment, Forests and Climate Change to combat organized wildlife crime in the country. The Wildlife Crime Control Bureau was established in 2007 as per the provisions of the Wildlife (Protection) Act, 1972, as amended in 2006.\nStatement I is incorrect: The National Tiger Conservation Authority (NTCA), a statutory body under the Ministry of Environment, Forest and Climate Change (MoEFCC), implements and monitors the \"Tigers Outside Tiger Reserves (TOTR) Project\". Launched in 2025 for 2025–2028, this initiative aims to redress conflicts outside protected areas using a landscape approach, technological interventions, capacity building & community support.\nStatement II is incorrect: The Central Zoo Authority (CZA), not the Wildlife Crime Control Bureau, is the statutory body empowered to regulate the exchange of animals of endangered category listed under Schedules I and II of the Wildlife (Protection) Act, 1972 among zoos.\nThe Wildlife Crime Control Bureau was established to combat organized wildlife crime, coordinate enforcement actions, gather intelligence, and assist in international efforts to curb illegal wildlife trade.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q39",
+      "questionNumber": 39,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Reducing Emissions from Deforestation and Forest Degradation (REDD+) initiative,",
+        "consider the following statements:",
+        "I. The ‘+’ in REDD+ stands for additional forest-related activities that protect the climate i.e. sustainable management of forests and the conservation and enhancement of forest carbon stocks.",
+        "II. It is a climate change mitigation solution developed by parties to the United Nations Framework Convention on",
+        "Climate Change (UNFCCC).",
+        "III. It is recognized under Article 5 of the Paris Agreement of UNFCCC.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Reducing Emissions from Deforestation and Forest Degradation (REDD+) initiative, consider the following statements: I. The ‘+’ in REDD+ stands for additional forest-related activities that protect the climate i.e. sustainable management of forests and the conservation and enhancement of forest carbon stocks. II. It is a climate change mitigation solution developed by parties to the United Nations Framework Convention on Climate Change (UNFCCC). III. It is recognized under Article 5 of the Paris Agreement of UNFCCC. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Reducing Emissions from Deforestation and Forest Degradation (REDD+) aims at ‘reducing emissions from deforestation and forest degradation,’ with the ‘+’ stands for additional forest-related activities that protect the climate, namely sustainable management of forests and the conservation and enhancement of forest carbon stocks.\nThus, REDD+ goes beyond simply deforestation and forest degradation and includes the role of conservation, sustainable management of forests and enhancement of forest carbon stocks.\nStatement II is correct: REDD+ (Reducing Emissions from Deforestation and Forest Degradation) is a climate change mitigation solution developed by Parties to the United Nations Framework Convention on Climate Change (UNFCCC).\nIts framework, the Warsaw Framework, was adopted in 2013 at COP 19 in Warsaw and provides methodological and financing guidance for implementing REDD+ activities.\nStatement III is correct: The Paris Climate Agreement under UNFCCC recognises REDD+ and the central role of forests in Article 5. Article 5 is read as – Parties are encouraged to take action to implement and support, including through results-based payments, the existing framework as set out in related guidance and decisions already agreed under the Convention for: policy approaches and positive incentives for activities relating to reducing emissions from deforestation and forest degradation, and the role of conservation, sustainable management of forests and enhancement of forest carbon stocks in developing countries; and alternative policy approaches, such as joint mitigation and adaptation approaches for the integral and sustainable management of forests, while reaffirming the importance of incentivizing, as appropriate, non-carbon benefits associated with such approaches.\nKnowledge Base: Under the REDD+ framework, developing countries will receive results-based payments for emission reductions when they reduce deforestation. As such, REDD+ aims to incentivize developing countries to contribute to climate change mitigation actions in the forest sector by:\nI. reducing carbon emissions from deforestation; II. reducing carbon emissions from forest degradation; III. conservation of forest carbon stocks;\nIV. sustainable management of forests; and V. enhancement of forest carbon stocks.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Region/Country Important reason for being in the news recently",
+        "I. Ecuador Protests against Government’s plan to expand oil drilling in the Amazon",
+        "II. Tuvalu Suspension of Constitution and Government by the military",
+        "III. New Caledonia Violent protests demanding independence from United Kingdom",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Region/Country Important reason for being in the news recently I. Ecuador Protests against Government’s plan to expand oil drilling in the Amazon II. Tuvalu Suspension of Constitution and Government by the military III. New Caledonia Violent protests demanding independence from United Kingdom How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Pair I is correct. Ecuador’s indigenous groups are protesting against President Noboa's massive oil expansion plans. They are fiercely opposing President Noboa's plan to expand oil drilling in the Amazon.\nPair II is incorrect. The Pacific nation of Tuvalu is staring at a climate change catastrophe and its people are already preparing for a future after it. Nearly 80% of its population has applied for a special ‘climate visa’ to live in Australia.\nAustralia is offering visas to Tuvalu citizens under a climate migration deal. Australia and Tuvalu signed the Falepili Union in 2024, under which Australia opened a new visa category for citizens of Tuvalu.\nPair III is incorrect. France has announced an agreement to grant greater autonomy to New Caledonia. It will establish a “State of New Caledonia” within the French Republic.\nNew Caledonia is a French overseas territory in the Pacific Ocean. New Caledonia is one of several overseas territories that remain an integral part of France. It has been ruled from Paris since the 1800s but many indigenous Kanaks resent France’s power over the islands and want more autonomy or independence.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q41",
+      "questionNumber": 41,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?"
+      ],
+      "questionText": "Which one of the following makes a tool with a stick to scrape insects from a hole in a tree or a log of wood?",
+      "options": {
+        "a": "Fishing cat",
+        "b": "Orangutan",
+        "c": "Otter",
+        "d": "Sloth bear"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption b is correct: The present study examined the use and making of tools to obtain foodstuffs in artificial-mound holes by five captive, group-living Sumatran orangutans (Pongo pygmaeus abelii). Three adult orangutans frequently stripped leaves and twigs from a branch provided (toolmaking), and then inserted the tool into a hole to obtain foodstuffs (tool-using). When the orangutans were unable to insert a tool into a hole, they usually modified the tool and/or changed their tool-using technique, such as changing how they grasped the tool.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q42",
+      "questionNumber": 42,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the Biological Diversity Act, 2002, consider the following statements:",
+        "I. It seeks to fulfill India's obligations under the Convention of Biological Diversity.",
+        "II. It authorises the Union Government to notify Biodiversity Heritage Sites (BHS).",
+        "III. As per the Act, Biodiversity Management Committees (BMCs) are established at the local level for the documentation of biological resources and their sustainable use.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Biological Diversity Act, 2002, consider the following statements: I. It seeks to fulfill India's obligations under the Convention of Biological Diversity. II. It authorises the Union Government to notify Biodiversity Heritage Sites (BHS). III. As per the Act, Biodiversity Management Committees (BMCs) are established at the local level for the documentation of biological resources and their sustainable use. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "III only",
+        "c": "II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Biological Diversity Act, 2002 was enacted to provide for the conservation of biological diversity, sustainable use of its components and fair and equitable sharing of the benefits arising out of the use of biological resources, knowledge etc.\nStatement I is correct: The Biological Diversity Act, 2002 seeks to fulfill India's obligations under the Convention of Biological Diversity and Nagoya Protocol on Access and Benefit Sharing and to ensure that the benefits derived from the use of biological resources and associated traditional knowledge are shared in a fair and equitable manner among the indigenous and local communities. To do this, it formulates a three-tier structure consisting of a National Biodiversity Authority (NBA) at the national level, State Biodiversity Boards (SBBs) at the State level and Biodiversity Management Committees (BMCs) at local body levels. The primary responsibility of the BMCs is to document local biodiversity and associated knowledge in the form of a People’s Biodiversity Register.\nStatement II is incorrect: Biodiversity Heritage Sites (BHS) are unique, ecologically fragile ecosystems (terrestrial, coastal, or inland) recognised under Section 37 of the Biological Diversity Act, 2002. They are designated and notified by State Governments in consultation with local bodies. These sites are recognized for their high endemism, rare, and threatened species, or cultural/aesthetic value.\nStatement III is correct: As per the Biological Diversity Act 2002, Biodiversity Management Committees (BMC) are created for “promoting conservation, sustainable use and documentation of biological diversity” by local bodies across the country.\nAs per the Act, every local body at the Gram Panchayat level in the rural areas and at the Nagar Panchayat or Municipal Committee at Municipal Corporation level in the urban areas shall constitute a Biodiversity Management Committee. Also, the State Government may constitute Biodiversity Management Committees at the intermediate or district Panchayat level for achieving the objectives of the Act.\nThe mandate of the Biodiversity Management Committee has been laid down in the Biological Diversity Rules 2002 and its main function is to prepare the People's Biodiversity Register in consultation with the local people.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q43",
+      "questionNumber": 43,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the 'Wetland City Accreditation' (WCA), consider the following statements",
+        "I. It is a voluntary international recognition scheme established by the Ramsar Convention during the Conference of the Contracting Parties in 2015.",
+        "II. It aims to promote the conservation and wise use of urban and peri-urban wetlands.",
+        "III. Indore and Udaipur became the first two Indian cities to make it to the global list of accredited Wetland cities.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the 'Wetland City Accreditation' (WCA), consider the following statements I. It is a voluntary international recognition scheme established by the Ramsar Convention during the Conference of the Contracting Parties in 2015. II. It aims to promote the conservation and wise use of urban and peri-urban wetlands. III. Indore and Udaipur became the first two Indian cities to make it to the global list of accredited Wetland cities. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I, II and III",
+        "d": "I and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Wetland City Accreditation (WCA) is a global recognition system that highlights the importance of urban wetlands.\nStatement I is correct. It is a voluntary international recognition scheme established by the Ramsar Convention during the Conference of the Contracting Parties (COP12) in 2015. It recognizes cities that have taken exceptional steps to safeguard their urban wetlands.\nStatement II is correct. The Wetland City Accreditation scheme aims to further promote the conservation and wise use of urban and peri-urban wetlands, as well as sustainable socio-economic benefits for local populations.\nAdditionally, the Accreditation seeks to encourage cities that are close to and dependent on wetlands, primarily Wetlands of International Importance, but also wetlands with other conservation category status, to develop and strengthen a positive relationship with these valuable ecosystems.\nStatement III is correct. Indore (Madhya Pradesh) and Udaipur (Rajasthan) became the first two Indian cities to make it to the global list of accredited Wetland cities.\nKnowledge Base: To be formally accredited, a candidate for the Wetland City accreditation of the Ramsar Convention must satisfy the national standards used to implement each of the following international criteria:\na) It has one or more Ramsar Sites or other significant wetlands fully or partly situated in its territory or in its close vicinity, which provide(s) a range of ecosystems services to the city;\nb) It has adopted measures for conservation of wetlands and their services including biodiversity and hydrological integrity; c) It has implemented wetland restoration and/or management measures; d) It considers the challenges and opportunities of integrated spatial/land-use planning for wetlands under its jurisdiction; e) It has delivered locally adapted information to raise public awareness about the values of wetlands, and encouraged the wise use of wetlands by stakeholders through, for example, establishing wetland education/information centres;\nand f) It has established a local Wetland City of the Ramsar Convention committee with appropriate knowledge and experience on wetlands and representation of and engagement with stakeholders to support the Wetland City accreditation of the Ramsar Convention submission and the implementation of proper measures for fulfilling the obligations under the accreditation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q44",
+      "questionNumber": 44,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With respect to the Snow Leopard, consider the following statements:",
+        "I. It is a social animal that lives, travels, and hunts in packs.",
+        "II. It is listed as 'Critically Endangered' under the IUCN Red List of Threatened Species.",
+        "III. Hemis National Park is one of the important natural habitats for the snow leopard.",
+        "IV. Snow Leopard is one of the big cats identified and protected under the International Big Cat Alliance.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With respect to the Snow Leopard, consider the following statements: I. It is a social animal that lives, travels, and hunts in packs. II. It is listed as 'Critically Endangered' under the IUCN Red List of Threatened Species. III. Hemis National Park is one of the important natural habitats for the snow leopard. IV. Snow Leopard is one of the big cats identified and protected under the International Big Cat Alliance. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "II and III only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect. Snow leopards prefer living alone and patrol massive territories. One snow leopard might travel across 200 to 2,000 square kilometres, so seeing them often is very unlikely. They usually live alone and prefer rough, high mountain areas, which makes them even harder to find.\nThe snow leopard is also known as the \"Ghost of the Mountains\".\n\nStatement II is incorrect. While previously listed as 'Endangered,' the IUCN Red List of Threatened Species updated the snow leopard's status to 'Vulnerable' in 2017. It is not classified as 'Critically Endangered.'\n\nStatement III is correct. According to the Snow Leopard Population Assessment in India (SPAI) Report 2024, there are 718 snow leopards in India, with Ladakh accounting for approximately 477 of them. As of January 30, 2024, the estimated population in other states is as follows: Uttarakhand (124), Himachal Pradesh (51), Arunachal Pradesh (36), Sikkim (21), and Jammu and Kashmir (9). In Himachal, the population has increased from 51 to 83, according to the latest reports.\nHemis National Park is one of the most important natural habitats for the snow leopard. At present, there are about 200 snow leopards that share this national park with other animal species\n\nStatement IV is correct. The International Big Cat Alliance (IBCA) was launched for the global conservation of seven big cats, namely: Tiger, Lion, Leopard, Snow Leopard, Cheetah, Jaguar and Puma.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Recently, Gokul Jalashay and Udaipur Jheel were designated as new Ramsar sites in India. These wetlands are located in which State?"
+      ],
+      "questionText": "Recently, Gokul Jalashay and Udaipur Jheel were designated as new Ramsar sites in India. These wetlands are located in which State?",
+      "options": {
+        "a": "Uttar Pradesh",
+        "b": "Bihar",
+        "c": "Rajasthan",
+        "d": "Odisa"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Both Gokul Jalashaya (Buxar district) and Udaipur Jheel (West Champaran district) are located in Bihar, and they were recently designated as Ramsar sites, highlighting their ecological significance.\n- Gokul Jalashaya is an oxbow lake formed along the southern edge of the Ganga River. It functions as a natural flood buffer, with the Ganga’s flood pulses shaping surrounding land use patterns. Its marshy habitats in pre-monsoon months support over 50 bird species, making it an important feeding and breeding site.\n- Udaipur Jheel, also an oxbow lake, lies adjacent to the forests of the Udaipur Wildlife Sanctuary. It supports over 280 plant species, including the endemic Alysicarpus roxburghianus, and serves as a key wintering habitat for nearly 35 migratory bird species, such as the vulnerable common pochard aythya ferina).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 The traditional joint family structure is gradually weakening, often leaving older adults to navigate their later years in isolation. As a result, alternative forms of care such as old age homes and assisted living facilities are becoming increasingly important. When thoughtfully designed and well-managed, these spaces can go beyond meeting basic needs by fostering a sense of community, companionship, and renewed purpose. Residents can engage in group activities and shared routines, helping them rebuild social connections. At the same time, the structured environment improves their quality of life, with regular meals, assistance in daily activities, and access to healthcare providing stability that may be difficult to maintain when living alone. This shift is reshaping ageing into a more connected and fulfilling phase of life.",
+        "Which one of the following statements best reflects the critical message conveyed by the author of the passage?"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 The traditional joint family structure is gradually weakening, often leaving older adults to navigate their later years in isolation. As a result, alternative forms of care such as old age homes and assisted living facilities are becoming increasingly important. When thoughtfully designed and well-managed, these spaces can go beyond meeting basic needs by fostering a sense of community, companionship, and renewed purpose. Residents can engage in group activities and shared routines, helping them rebuild social connections. At the same time, the structured environment improves their quality of life, with regular meals, assistance in daily activities, and access to healthcare providing stability that may be difficult to maintain when living alone. This shift is reshaping ageing into a more connected and fulfilling phase of life. Which one of the following statements best reflects the critical message conveyed by the author of the passage?",
+      "options": {
+        "a": "Joint family systems should be revived to ensure constant support and care for the elderly.",
+        "b": "As family structures evolve, alternative care systems are becoming important for ensuring a good life for the elderly.",
+        "c": "Ageing should be seen as a new phase of life that can be as fulfilling as any other stage.",
+        "d": "Assisted living is essential for the elderly as health concerns may prevent them from living independently."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Statement a is incorrect. While the passage states that disintegration of joint families has made elderly lonely, it does not seem to suggest that joint families should be revived. Therefore, statement a does not best reflect the critical message conveyed by the author of the passage.\nStatement b is correct. It best reflects the critical message of the passage, highlighting that the shift in family structures has led to the increasing importance of old age homes and assisted living facilities in modern society.\nStatement c is incorrect. While the passage states “This shift (shift in family structures leading to the development of alternate forms of care) is reshaping ageing into a more connected and fulfilling phase of life”, statement c does not best reflect the critical message conveyed by the author of the passage as it focuses on ageing as a stage of life rather than the main theme of the emergence of alternative forms of care for the elderly.\nStatement d is incorrect. The passage states “the structured environment (in old age homes) improves their quality of life, with regular meals, assistance in daily activities, and access to healthcare providing stability that may be difficult to maintain when living alone.” However, statement d does not best reflect the critical message conveyed by the author of the passage as it narrowly focuses upon one of the benefits of living in old age homes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q47",
+      "questionNumber": 47,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "With reference to the above passage, the following assumptions have been made:",
+        "I. Companionship and a sense of belonging to the community have a positive effect on the well-being of the elderly.",
+        "II. In modern society, the elderly are often perceived as a burden on their families.",
+        "Which of the above assumptions is/are valid?"
+      ],
+      "questionText": "With reference to the above passage, the following assumptions have been made: I. Companionship and a sense of belonging to the community have a positive effect on the well-being of the elderly. II. In modern society, the elderly are often perceived as a burden on their families. Which of the above assumptions is/are valid?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct. The passage highlights that a sense of belonging to the community and companionship in old age care homes has a positive impact on the well being of elderly. Therefore, the assumption made in statement I is valid.\nStatement II is incorrect. While the passage states that “The traditional joint family structure is gradually weakening, often leaving older adults to navigate their later years in isolation”, it does not state that elderly are left in isolation because they are considered to be a burden on their families. Therefore, assumption made in statement II is invalid.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "If A means greater than (>); B means less than (<); C means not greater than (≤); D means not less than (≥) and E means equal to (=), then consider the following statements:",
+        "I. If 3x (D) 5y and 4x (E) 7z, then 21z (A) 20y.",
+        "II. If u (B) 3v and 2v (C) w, then 2u (B) 3w.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "If A means greater than (>); B means less than (<); C means not greater than (≤); D means not less than (≥) and E means equal to (=), then consider the following statements: I. If 3x (D) 5y and 4x (E) 7z, then 21z (A) 20y. II. If u (B) 3v and 2v (C) w, then 2u (B) 3w. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: Given: 3x ≥ 5y and 4x = 7z Check whether: 21z > 20y From 4x = 7z, multiply both sides by 3: 12x = 21z From 3x ≥ 5y, multiply both sides by 4:\n12x ≥ 20y Now substitute 12x = 21z: 21z ≥ 20y But the statement asks for: 21z > 20y This strict inequality is not always true. Equality is possible.\nStatement II is correct: Given: u < 3v and 2v ≤ w We need to check whether: 2u < 3w From u < 3v, multiply both sides by 2: 2u < 6v From 2v ≤ w, multiply both sides by 3: 6v ≤ 3w Now combine: 2u < 6v ≤ 3w Therefore: 2u < 3w",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q49",
+      "questionNumber": 49,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "An identical wall calendar designed for the year 2045 was previously used in the year:"
+      ],
+      "questionText": "An identical wall calendar designed for the year 2045 was previously used in the year:",
+      "options": {
+        "a": "2033",
+        "b": "2034",
+        "c": "2037",
+        "d": "2038"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** For two years to have the same calendar, two conditions must hold:\n- both years must be of the same type: leap year or ordinary year-1st January must fall on the same weekday Now, 2045 is not a leap year.\nSo check the shift in weekdays from each option up to 2045.\n- An ordinary year shifts the starting day by 1-A leap year shifts it by 2 Check 2034 to 2045 Years from 2034 to 2044:\nI. Ordinary years: 2034, 2035, 2037, 2038, 2039, 2041, 2042, 2043 → 8 ordinary years II. Leap years: 2036, 2040, 2044 → 3 leap years Total shift:\n8 × 1 + 3 × 2 = 8 + 6 = 14 Since: 14 is divisible by 7 the weekday cycle matches. Also, 2034 is an ordinary year, same as 2045. So the calendar of 2045 is the same as the calendar of 2034.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test20-q50",
+      "questionNumber": 50,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "A Question is given followed by two Statements I and",
+        "II. Consider the Question and the Statements.",
+        "Question: What are the unique values of m and n, where m, n are distinct positive integers?",
+        "Statement I: mⁿ = 27",
+        "Statement II: m − n = 26",
+        "Which one of the following is correct in respect of the above Question and the Statements?"
+      ],
+      "questionText": "A Question is given followed by two Statements I and II. Consider the Question and the Statements. Question: What are the unique values of m and n, where m, n are distinct positive integers? Statement I: mⁿ = 27 Statement II: m − n = 26 Which one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other Statement alone",
+        "b": "The Question can be answered by using either Statement alone",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone",
+        "d": "The Question cannot be answered even by using both the Statements together"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Determine the unique values of m and n, where:\n- m and n are positive integers-m ≠ n Check Statement I alone Given: mⁿ = 27 Now write 27 in power form: 27 = 3³ m = 27, n = 1, because 27¹ = 27 m = 3, n = 3, because 3³ = 27 Now apply the given condition that m and n are distinct.\n- In (27, 1), the values are distinct-In (3, 3), the values are equal So the only valid pair is: m = 27, n = 1 Hence, Statement I alone is sufficient.\nCheck Statement II alone Given: m − n = 26 This does not determine unique values, because many positive integer pairs satisfy it. For example:\n- m = 27, n = 1-m = 28, n = 2-m = 30, n = 4-m = 35, n = 9 All of these satisfy: m − n = 26 So Statement II alone is not sufficient.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

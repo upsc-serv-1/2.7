@@ -1,0 +1,1812 @@
+{
+  "id": "forum-sfg-2026-level-1-revision-economy-environment-test21",
+  "title": "Test 21- L1 SFG 2026 - Revision - (Economy + Environment)",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Revision",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "According to the Environmental Protection Agency (EPA),",
+        "which one of the following is the largest source of Sulphur dioxide emissions?"
+      ],
+      "questionText": "According to the Environmental Protection Agency (EPA), which one of the following is the largest source of Sulphur dioxide emissions?",
+      "options": {
+        "a": "Locomotives using fossil fuels",
+        "b": "Ships using fossil fuels",
+        "c": "Extraction of metals from ores",
+        "d": "Power plants using fossil fuels"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Environmental Protection Agency (EPA)’s national ambient air quality standards for SO2 are designed to protect against exposure to the entire group of sulfur oxides (SOx). The largest sources of SO2 emissions are**from fossil fuel **combustion at power plants **and other industrial facilities.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q02",
+      "questionNumber": 2,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "‘This law refers to the dictum that “bad money drives out good.” In economics it comes into play when the exchange rate between two moneys or currencies is fixed by the government at a certain ratio that is different from the market exchange rate. Such price fixing causes the undervalued currency to go out of circulation. The overvalued currency, on the other hand, remains in circulation but it does not find enough buyers.’",
+        "Which of the below mentioned laws is being discussed in the above paragraph?"
+      ],
+      "questionText": "‘This law refers to the dictum that “bad money drives out good.” In economics it comes into play when the exchange rate between two moneys or currencies is fixed by the government at a certain ratio that is different from the market exchange rate. Such price fixing causes the undervalued currency to go out of circulation. The overvalued currency, on the other hand, remains in circulation but it does not find enough buyers.’ Which of the below mentioned laws is being discussed in the above paragraph?",
+      "options": {
+        "a": "Says Law of Markets",
+        "b": "Gresham’s Law",
+        "c": "Walras’s Law",
+        "d": "Thier’s Law"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Gresham’s law refers to the phrase that “bad money drives out good.” It states that the**legally overvalued currency **will drive legally undervalued currency out of circulation.**Gresham’s law comes into play when the exchange rate between two moneys or currencies is fixed by the government at a certain ratio that is different from the market exchange rate. Such price fixing causes the undervalued currency — that is, the currency whose price is fixed at a level below the market rate — to go out of circulation. The**overvalued currency, **on the other hand,** remains in circulation **but it does not find enough buyers. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q03",
+      "questionNumber": 3,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "In the context of Indian economy, consider the following statements with reference to the Positive Pay System",
+        "(PPS):",
+        "I. It is a system under which Micro, Small and Medium enterprises will be given advanced payments for Government purchases.",
+        "II. It has been developed by the National Payments Corporation of India (NPCI).",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "In the context of Indian economy, consider the following statements with reference to the Positive Pay System (PPS): I. It is a system under which Micro, Small and Medium enterprises will be given advanced payments for Government purchases. II. It has been developed by the National Payments Corporation of India (NPCI). Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect: **The**Positive Pay System (PPS)**is a security measure introduced by the Reserve Bank of India (RBI) to reduce fraud in cheque transactions. It**requires the issuer of the cheque to share key details, such as **cheque number, date, amount, and beneficiary name, with the bank **before the cheque is presented for clearing. The details are cross-checked by banks while issuing the cheque and any discrepancy is flagged. It is not related to advance payments to MSMEs for government purchases.**\n\nStatement II is correct: **The**Positive Pay System (PPS) **was introduced by the Reserve Bank of India and was**developed by the National Payments Corporation of India (NPCI).**It is an additional indicator provided by NPCI to all banks to facilitate the clearing process and pre-empt cheque-related frauds. This system adds an extra layer of scrutiny to high-value transactions and protects both the bank and the customer from significant financial losses. Knowledge Base:**Other facts about the Positive Pay System:**-**Details of the cheque that is to be submitted by issuer: **Account number, cheque number, date of cheque, amount, transaction code, beneficiary name, MICR CODE. The details can be submitted via SMS, mobile app,internet banking etc. - Most major Indian banks have now made PPS mandatory for cheques of Rs 5 lakh and above. Some banks allow voluntary submission for amounts above Rs 50,000, but mandate it beyond Rs 5 lakh. The**Cheque Truncation System (CTS) allows banks to process cheques electronically without having to physically **handle them. **This is done by scanning the front and back of the cheque and creating an electronic image of it. The electronic image of the cheque is then transmitted to the clearing house for processing. It does not involve any physical exchange of instruments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Soil Pollution, Solid Waste, Land Degradation",
+      "statementLines": [
+        "With reference to the waste treatment techniques, consider the following statements:",
+        "Statement I: Pyrolysis is considered environmentally more friendly than incineration.",
+        "Statement II: Unlike incineration, Pyrolysis involves the thermal decomposition of waste in the absence of oxygen.",
+        "Statement III: Pyrolysis is usually carried out at a higher temperature than incineration.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the waste treatment techniques, consider the following statements: Statement I: Pyrolysis is considered environmentally more friendly than incineration. Statement II: Unlike incineration, Pyrolysis involves the thermal decomposition of waste in the absence of oxygen. Statement III: Pyrolysis is usually carried out at a higher temperature than incineration. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Waste-to-Energy (WtE) technologies consist of any waste treatment process that creates energy from several types of waste. For example: Torrefaction, Pyrolysis, Incineration, Gasification etc. \n\nStatement I is correct. **Pyrolysis is considered more environmentally friendly than incineration.**\n\nStatement II is correct and explains Statement I. **Incineration is a process where waste materials undergo a combustion process at high temperatures (typically above 850°C) in the presence of excess oxygen. The combustion process in incineration generates air pollutants like nitrogen oxides, carbon monoxide, and particulate matter. Pyrolysis is the thermal decomposition of wastes, such as plastic, at elevated temperatures in the absence of **oxygen.**During pyrolysis, waste is heated rapidly at high temperatures (500°C–800°C) in an oxygen-free environment. In Pyrolysis, the chemical breakdown occurs in the absence of oxygen. Because no oxygen is present, combustion does not occur, rather the biomass thermally decomposes into combustible gases and bio-char.** By avoiding **combustion, pyrolysis generates significantly lower emissions of greenhouse gasses and harmful particulates. **\n\nStatement III is incorrect. **Pyrolysis usually takes place at a lower temperature than incineration.** Incineration involves combustion at high temperatures typically above 850°C. During pyrolysis, waste is heated **rapidly at temperatures about 500°C–800°C. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q05",
+      "questionNumber": 5,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "As per Economic Survey 2024-25, the money multiplier declined during the COVID-19 pandemic. Which of the following is the primary reason for this?"
+      ],
+      "questionText": "As per Economic Survey 2024-25, the money multiplier declined during the COVID-19 pandemic. Which of the following is the primary reason for this?",
+      "options": {
+        "a": "Increased economic uncertainty encouraged individuals to hold more physical cash.",
+        "b": "The Reserve Bank of India (RBI) decreased the Cash Reserve Ratio (CRR) to be maintained by banks.",
+        "c": "Increase in defaults on personal and business loans led to reduced bank credit.",
+        "d": "Sharp increase in government borrowings led to the crowding out of the private sector."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**The money multiplier measures the maximum amount of money that a banking system generates with each unit of central bank money.**\n\nOption a is correct:**A country’s money multiplier is influenced by two main factors: - the amount of cash individuals (and businesses) hold and the reserves that banks maintain.**When individuals keep more cash, the banking system **cannot create money, resulting in a lower multiplier. **In this case, cash in hand acts as a leakage from the banking system. Similarly, the reserves that banks hold with the central bank also count as a leakage, further decreasing the money multiplier. The**money multiplier declined during the COVID-19 pandemic as increased economic **uncertainty caused individuals to increase their cash holdings, **resulting in a fall. However, after FY22, it has resumed its upward trajectory, reflecting enhanced liquidity generation in the economy.**\n\nOption b is incorrect: **In India’s case, banks hold a portion of their deposits as reserves with the RBI, known as Cash Reserve Ratio (CRR).** Lower required reserves means banks have more money to lend, expanding their ability to **provide new loans and take further credit expansion.**This would**result in a higher money multiplier**in the economy. A higher MM indicates that the banking system is generating a greater money supply from the money provided by the central bank.**\n\nOption c is incorrect: **In India, money multiplier did decline during the COVID-19 pandemic but it was not because of the increase in loan defaults.**RBI introduced moratoriums and restructuring schemes **during COVID 19 pandemic**that temporarily prevented massive defaults from being recorded. **It also introduced certain regulatory measures to mitigate the burden of debt servicing brought about by disruptions on account of COVID-19 pandemic and to ensure the continuity of viable businesses.**\n\nOption d is incorrect: The money multiplier depends **on factors such as the currency–deposit ratio and reserve ratios,**not on whether credit flows to the government or the private sector. D**uring COVID-19, the decline in the multiplier was observed even when liquidity was sufficient and interest rates were low. The**RBI**simultaneously pursued an accommodative monetary policy,**conducted open market operations (OMOs), and injected ample **liquidity** to ensure that borrowing costs remained low.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q06",
+      "questionNumber": 6,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "In the context of Reserve bank of India (RBI), consider the following:",
+        "I. Loans extended in the form of Ways and Means Advances and Overdraft to the Central Government.",
+        "II. Contingency Fund (CF) and Asset Development Fund (ADF)",
+        "III. Purchasing and discounting of commercial bills",
+        "IV. Deposits of Scheduled commercial banks with RBI",
+        "How many of the above are considered as assets of the Reserve Bank of India (RBI)?"
+      ],
+      "questionText": "In the context of Reserve bank of India (RBI), consider the following: I. Loans extended in the form of Ways and Means Advances and Overdraft to the Central Government. II. Contingency Fund (CF) and Asset Development Fund (ADF) III. Purchasing and discounting of commercial bills IV. Deposits of Scheduled commercial banks with RBI How many of the above are considered as assets of the Reserve Bank of India (RBI)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Option I is correct: Loans and advances to Central and State governments are counted under the assets of RBI. **These loans are extended in the form of Ways and Means Advances (WMA) and Overdraft (OD) to the Central Government and in the form of WMA, OD and Special Drawing Facility (SDF) to State Governments.** Option II is incorrect: There are certain **risk provisions maintained by the Reserve Bank comprising**Contingency **Fund (CF) and Asset Development Fund (ADF). These are counted under liabilities and not assets. **Contingency fund: This is a specific provision meant for meeting unexpected and unforeseen contingencies, including depreciation in value of securities, risks arising out of monetary/exchange rate policy operations, systemic risks and any risk arising on account of special responsibilities enjoined upon the Reserve Bank. Asset Development fund: Asset Development Fund was created in**1997-98**and the balance therein represents provision specifically made till date towards investments in subsidiaries and associate institutions and to meet internal capital expenditure.** Option III is correct:**Reserve Bank of India can**undertake purchase and discounting of commercial bills**under the RBI Act, 1934. These are considered as** assets of RBI. ** Option IV is incorrect: Banks maintain balance in their current accounts with the Reserve Bank to provide for the **Cash Reserve Ratio (CRR) requirements and for working funds to meet payment and settlement obligations. This is **counted under liabilities of the Reserve bank of India and not as assets. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q07",
+      "questionNumber": 7,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Monetary Policy",
+      "statementLines": [
+        "Which among the following can be counted as an asset under Statutory Liquidity Ratio which is to be maintained by the Scheduled commercial banks in India?",
+        "I. Gold",
+        "II. Unencumbered investment in the Treasury Bills of the Government of India",
+        "III. Government securities offered as collateral to the Reserve Bank for availing liquidity assistance under Marginal",
+        "Standing Facility.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which among the following can be counted as an asset under Statutory Liquidity Ratio which is to be maintained by the Scheduled commercial banks in India? I. Gold II. Unencumbered investment in the Treasury Bills of the Government of India III. Government securities offered as collateral to the Reserve Bank for availing liquidity assistance under Marginal Standing Facility. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and III only",
+        "c": "II only",
+        "d": "I and II only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Statutory Liquidity Ratio or SLR is a minimum percentage of deposits that a commercial bank has to maintain in the form of liquid cash, gold or other securities. It is basically the reserve requirement that banks are expected to keep before offering credit to customers.**Following are considered as SLR assets: **- Cash -**Gold. **-**Unencumbered investment in Treasury bills of the Government of India. **- Unencumbered investment in Dated securities issued under market borrowing programme and market stabilisation schemes (MSS). - Unencumbered investment in State Development Loans (SDLs) of the State Governments issued from time to time under the market borrowing program; - Unencumbered investment in any other instrument as may be notified by the Reserve Bank of India** Option III is incorrect: Unencumbered deposits means that it is free from collateral therefore securities offered as **collateral to the Reserve Bank for availing liquidity assistance under Marginal Standing Facility (MSF) up to the **permissible percentage of the total NDTL in India, carved out of the required SLR portfolio of the bank concerned. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q08",
+      "questionNumber": 8,
+      "subject": "Polity",
+      "sectionGroup": "Part XV: Elections",
+      "microTopic": "Elections, Political Parties, Anti-Defection Law",
+      "statementLines": [
+        "Consider the following:",
+        "There is a bye-election to be conducted in an assembly constituency in the state capital of state",
+        "X. The Model code of conduct would generally be enforced:"
+      ],
+      "questionText": "Consider the following: There is a bye-election to be conducted in an assembly constituency in the state capital of state X. The Model code of conduct would generally be enforced:",
+      "options": {
+        "a": "In the whole of the state.",
+        "b": "In the district where the assembly constituency is located.",
+        "c": "In the particular assembly constituency only and not the whole district.",
+        "d": "In the district where the assembly constituency is located as well as all the adjoining districts."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **As per the Election Commission of India, in case the constituency going to bye election is in the state **capital/metropolitan city/municipal corporation, Model Code of Conduct would be applicable in the particular **assembly constituency only and not the whole district. **In all other cases, the Model code would be enforced in the entire district covering the constituency going for bye-election.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q09",
+      "questionNumber": 9,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "Consider the following pollutants:",
+        "I. Carbon Dioxide",
+        "II. Dichloro-diphenyl-trichloroethane (DDT)",
+        "III. Nitrogen Oxide",
+        "IV. Herbicides",
+        "How many of the above are primarily classified as quantitative pollutants?"
+      ],
+      "questionText": "Consider the following pollutants: I. Carbon Dioxide II. Dichloro-diphenyl-trichloroethane (DDT) III. Nitrogen Oxide IV. Herbicides How many of the above are primarily classified as quantitative pollutants?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Pollutants are the constituents or factors, which harm the natural quality of any component of the environment. Some of the major air pollutants include Carbon Monoxide (CO), Carbon Dioxide (CO2), Chlorofluorocarbons (CFC), Lead, ground-level Ozone, Suspended particulate matter, Sulphur Dioxide and Smog. According to their existence in nature, the pollutants may be classified into quantitative and qualitative pollutants.**Options I and III are correct. **Pollutants that occur in nature and become pollutants only when their concentration reaches beyond a certain level are called Quantitative pollutants. e.g.,**carbon dioxide, and nitrogen oxide. **Options II and IV are incorrect.**Qualitative pollutants do not occur in nature and are man-made. Qualitative Pollutants are substances which are not normally present in the environment and are added by human beings. Ex:**fungicides, herbicides, DDT etc. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q10",
+      "questionNumber": 10,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Money (Evolution, Types, Digital Currency, Crypto, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In India, any currency note is categorised as a promissory note.",
+        "Statement II: As per the Reserve Bank of India Act, 1934, the Reserve Bank of India is liable to pay the value of banknote.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In India, any currency note is categorised as a promissory note. Statement II: As per the Reserve Bank of India Act, 1934, the Reserve Bank of India is liable to pay the value of banknote. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is incorrect: In India, Rupee 1 note is a currency **note**and notes exceeding denominational value of Rupee 2 are bank notes. Bank notes are promissory notes while the Rupee 1 note is a sovereign note which provides the legal sanctity to the higher denomination bank notes. The**Re 1 note is issued by the Government of India and not **the Reserve Bank,**and is the only 'currency note' or an asset, and not a 'promissory note', which is a liability. Again, unlike other banknotes, this is not signed by the RBI governor, but by the finance secretary.**Thus, currency notes, **apart from Rupee 1 note, are categorised as promissory notes. **\n\nStatement II is correct: **As per Section 26 of Reserve Bank of India Act, 1934, the Reserve Bank of India is liable to pay the value of banknote. This is payable on demand by RBI, being the issuer. The**promissory clause printed on the **banknotes**i.e., \"I promise to pay the bearer the sum of Rupees …”**denotes the obligation on the part of the Reserve **Bank of India towards the holder of the bank note. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q11",
+      "questionNumber": 11,
+      "subject": "Polity",
+      "sectionGroup": "Part XV: Elections",
+      "microTopic": "Elections, Political Parties, Anti-Defection Law",
+      "statementLines": [
+        "For election to the Lok Sabha, a nomination paper can be filed by:"
+      ],
+      "questionText": "For election to the Lok Sabha, a nomination paper can be filed by:",
+      "options": {
+        "a": "Anyone residing in India.",
+        "b": "A resident of the constituency from which the election is to be contested.",
+        "c": "Any citizen of India whose name appears in the electoral roll of a constituency.",
+        "d": "Any citizen of India."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **According to section 4 (d) of the Representation of People Act, 1951, for election to Lok Sabha, a**nomination paper can **be filed by any citizen whose name appears in the electoral rolls of any parliamentary constituency. ** The Constitution lays down the following qualifications for a person to be chosen a member of the Parliament:\n1) He must be a citizen of India. 2) He must make and subscribe to an oath or affirmation before the person authorised by the election commission for this purpose. In his oath or affirmation, he swears (a) To bear true faith and allegiance to the Constitution of India (b) To uphold the sovereignty and integrity of India 3) He must be not less than 30 years of age in the case of the Rajya Sabha and not less than 25 years of age in the case of the Lok Sabha.\n4) He must possess other qualifications prescribed by Parliament. The Parliament has laid down the following additional qualifications in the Representation of People Act (1951).\n1) He must be registered as an elector for a parliamentary constituency. This is same in the case of both, the Rajya Sabha and the Lok Sabha.\n2) He must be a member of a scheduled caste or scheduled tribe in any state or union territory, if he wants to contest a seat reserved for them. However, a member of scheduled castes or scheduled tribes can also contest a seat not reserved for them.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2017,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q12",
+      "questionNumber": 12,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "With reference to investment instruments, consider the following:",
+        "I. Participatory Notes",
+        "II. American Depository Receipts",
+        "III. Global Depository Receipts",
+        "IV. Indian Depository Receipts",
+        "How many of the above enable foreign investors to invest in Indian securities or the Indian market?"
+      ],
+      "questionText": "With reference to investment instruments, consider the following: I. Participatory Notes II. American Depository Receipts III. Global Depository Receipts IV. Indian Depository Receipts How many of the above enable foreign investors to invest in Indian securities or the Indian market?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. ** Option I is correct: Participatory Notes (P-Notes): P-Notes**are**offshore derivative instruments issued by SEBI\n- **registered Foreign Portfolio Investors to overseas investors who wish to invest in India**but do not want to register directly with SEBI. They derive their value from Indian securities such as equities, debt instruments, or derivatives. Through P-Notes, foreign investors obtain economic exposure to the Indian securities market without being directly registered with Indian regulators. Hence,**they enable foreign investment in the Indian market.** Option II is correct:**American Depository Receipts (ADRs): **ADRs are**negotiable certificates issued by a US **depository bank**,**representing a specified number of shares of a foreign company, including Indian companies.**For Indian companies, ADRs represent underlying shares listed or issued in India. They are traded on US stock exchanges such as NYSE or NASDAQ. Although the trading takes place outside India, ADRs are backed by underlying Indian securities held with a custodian. Therefore,**foreign investors investing through ADRs are effectively investing in Indian securities, even though not **through Indian stock exchanges**.  Option III is correct:**Global Depository Receipts (GDRs): GDRs are similar to ADRs but are issued in international **markets other than the US, such as Europe or Asia.**GDRs represent ownership in Indian companies**and are linked to the underlying shares issued in India. Thus,**they allow foreign investors to invest in Indian securities via overseas financial markets,**without direct participation in Indian exchanges.  Option IV is incorrect:**Indian Depository Receipts (IDRs): IDRs are the reverse of ADRs/GDRs. IDRs are issued in **India by foreign companies to raise capital from Indian investors. **They are listed on Indian stock exchanges and are designed to facilitate investment by Indian residents in foreign firms. Hence,**IDRs do not enable foreign investors to invest in Indian securities or the Indian market**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q13",
+      "questionNumber": 13,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "The Investor Education and Protection Fund Authority (IEPFA) functions under",
+        "which one of the following Ministries of the Government of India?"
+      ],
+      "questionText": "The Investor Education and Protection Fund Authority (IEPFA) functions under which one of the following Ministries of the Government of India?",
+      "options": {
+        "a": "Ministry of Finance",
+        "b": "Ministry of Corporate Affairs",
+        "c": "Ministry of Commerce and Industry",
+        "d": "Ministry of Consumer Affairs, Food and Public Distribution"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Investor Education and Protection Fund Authority (IPEFA)**is a**statutory body**constituted in 2016 under the**Companies Act, 2013**to administer the**Investor Education and Protection Fund**(IEPF). It**functions under the **Ministry of Corporate Affairs** and is dedicated to safeguarding investor interests by facilitating the return of unclaimed shares and dividends and advancing financial literacy nationwide.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q14",
+      "questionNumber": 14,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "Arrange the following institutions in chronological order as per the year of their establishment:",
+        "I. Employees' State Insurance Corporation",
+        "II. Life Insurance Corporation of India",
+        "III. General Insurance Corporation of India",
+        "IV. Export Credit Guarantee Corporation of India Limited (ECGC Limited)",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Arrange the following institutions in chronological order as per the year of their establishment: I. Employees' State Insurance Corporation II. Life Insurance Corporation of India III. General Insurance Corporation of India IV. Export Credit Guarantee Corporation of India Limited (ECGC Limited) Select the correct answer using the code given below:",
+      "options": {
+        "a": "III – II – I– IV",
+        "b": "IV – II – I – III",
+        "c": "II – I – III – IV",
+        "d": "I – II – IV – III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Option I. Employees' State Insurance Corporation (ESIC) (1952): **The Employees’ State Insurance Corporation was established under the Employees’ State Insurance Act, 1948, and became operational in 1952. It is one of the earliest post-Independence social security institutions, providing medical, sickness, maternity, disability and dependent benefits to workers in the organised sector.**Option II. Life Insurance Corporation of India (LIC) (1956)**: The Life Insurance Corporation of India was established in**1956**through the**LIC Act, 1956. It was created by nationalising 245 private life insurance companies in India. **LIC became the sole provider of life insurance in India at that time. Option IV. Export Credit Guarantee Corporation of India (ECGC Limited) (1957)**: The Export Credit Guarantee Corporation of India was established in**1957**, initially as the**Export Risks Insurance Corporation (ERIC)**. Its primary objective is to support India’s export sector by providing credit risk insurance, export guarantees, and protection to exporters and banks against commercial and political risks.**Option III:**General Insurance Corporation of India (GIC) (1972)**: The General Insurance Corporation of India was created in**1972**under the**General Insurance Business (Nationalisation) Act, 1972**, as part of the nationalisation of general insurance. It later evolved mainly into a reinsurance company, with its former subsidiaries (New India Assurance, United India Insurance, Oriental Insurance, National Insurance) becoming independent general insurers. Therefore, the**Correct Chronological Order (earliest to latest) of their establishment is: **ESIC (1952) →**LIC (1956) →** ECGC (1957) →**GIC (1972)** Hence, **Option (d) I – II – IV – III is the correct answer.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q15",
+      "questionNumber": 15,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to the financial services sector, which of the following best describes ‘Bancassurance’? companies to their customers. on the prevailing bank rates. stress."
+      ],
+      "questionText": "With reference to the financial services sector, which of the following best describes ‘Bancassurance’? companies to their customers. on the prevailing bank rates. stress.",
+      "options": {
+        "a": "An agreement between the bank and insurance companies under which banks sell insurance products of insurance",
+        "b": "An agreement between the banks and insurance companies under which the insurance policy’s premium is based",
+        "c": "A risk-sharing mechanism through which banks provide capital support to insurance companies during financial",
+        "d": "A financial protection mechanism designed to insure banks against credit defaults and non-performing assets."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Bancassurance is an agreement between a bank and an insurer to sell its offerings to the lender’s customers. The**banks sell and distribute insurance products of insurance companies to their existing and potential customers**through their branch network, digital platforms, or relationship managers. The bancassurance model was introduced in 2000 after the government permitted banks to undertake insurance as a permissible form of business under Section 6 of the Banking Regulation Act, 1949.**Under this arrangement: **-**Banks act as intermediaries**or corporate agents, leveraging their wide customer base, branch reach, and customer trust. - Insurance companies design, underwrite, and bear the insurance risk; the bank does not assume insurance risk. - Banks earn fee-based income or commissions, thereby diversifying their revenue beyond traditional interest income. Knowledge Base:**Bancassurance in India **In India, insurance companies are regulated by the**Insurance Regulatory and Development Authority of India**(IRDAI). Banks are permitted to engage in insurance business under the provisions of the**Banking Regulation Act, **1949. **However, banks must obtain prior approval from the RBI before undertaking such business.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q16",
+      "questionNumber": 16,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "International Organisations (WTO, IMF, World Bank, RCEP, FTAs, etc.)",
+      "statementLines": [
+        "With reference to the Asian Development Bank (ADB), which of the following statements are correct?",
+        "I. The headquarters of the bank is located in Jakarta, Indonesia.",
+        "II. The membership of the ADB is open only to countries located in Asia and the Pacific region.",
+        "III. The number of proportional votes of each member of the bank is equal to the number of shares of the capital stock of ADB held by that member.",
+        "IV. Japan and the United States are the two largest shareholders of ADB.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Asian Development Bank (ADB), which of the following statements are correct? I. The headquarters of the bank is located in Jakarta, Indonesia. II. The membership of the ADB is open only to countries located in Asia and the Pacific region. III. The number of proportional votes of each member of the bank is equal to the number of shares of the capital stock of ADB held by that member. IV. Japan and the United States are the two largest shareholders of ADB. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III and IV only",
+        "c": "I, II and III",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect:**The Asian Development Bank (ADB) was established in 1966 with the aim of promoting social and economic development in Asia and the Pacific. -**Its headquarters are in Manila, Philippines.**-**Jakarta, Indonesia,**is the**headquarters of the Association of Southeast Asian Nations**(ASEAN), not of the ADB.**\n\nStatement II is incorrect:**ADB has 69 member countries**, of which**50 are from Asia and the Pacific, and 19 are non\n- **regional members**(such as the United States, Canada, and several European countries). Hence,**membership is not **restricted only to Asia-Pacific nations. **\n\nStatement III is correct:**The total voting power of each member of the bank consists of the sum of its basic votes and proportional votes. The basic votes of each member consist of such a number of votes as results from the equal distribution among all members of 20% of the aggregate sum of the basic votes and proportional votes of all members.**The number of proportional votes of each member is equal to the number of shares of the capital stock of ADB held **by that member**\n\nStatement IV is correct: Japan and the United States**each hold about 15.6% of total shares, making them the**largest **shareholders**. They are**followed by China (6.4%), India (6.3%) and Australia (5.8%). **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q17",
+      "questionNumber": 17,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Which of the following statements is incorrect about the PM CARES Fund?",
+        "Responsibility (CSR) expenditure."
+      ],
+      "questionText": "Which of the following statements is incorrect about the PM CARES Fund? Responsibility (CSR) expenditure.",
+      "options": {
+        "a": "Prime Minister of India is the ex-officio chairperson of the fund.",
+        "b": "The contribution made by any Company to PM CARES Fund shall qualify as the company’s Corporate Social",
+        "c": "The PM CARES Fund accepts contributions from foreign individuals as well as foreign organisations.",
+        "d": "PM CARES Fund is audited by the Comptroller and Auditor General (CAG) of India at the end of the financial year."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **PM CARES Fund is a public charitable trust. It has been set up keeping in mind the need for having a dedicated fund with the primary objective of dealing with any kind of emergency or distress situation, like posed by the COVID-19 pandemic, and to provide relief to the affected.**\n\nOption a is correct: The Prime Minister of India acts as the ex-officio Chairperson of the PM CARES Fund,**while the Union Ministers of Defense, Home Affairs, and Finance function as its ex-officio Trustees.**\n\nOption b is correct:**The PM CARES Fund accepts voluntary contributions from individuals and organisations.** The **contributions made by companies, including Public Sector Undertakings (PSUs), are eligible to be treated as **Corporate Social Responsibility (CSR) expenditure**under the Companies Act, 2013.**\n\nOption c is correct:**The PM CARES Fund has been**granted exemption from the provisions of the Foreign Contribution (Regulation) Act, 2010** enabling it to accept foreign donations from individuals and organisations based **abroad.**Such contributions can be made through foreign credit/debit cards or via wire transfer (SWIFT) using the facilities provided on the PM CARES Fund portal.**\n\nOption d is incorrect: The**PM CARES Fund is**audited by an independent auditor, not**by the**Comptroller and **Auditor General (CAG).**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q18",
+      "questionNumber": 18,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "In the context of the Indian economy, which of the following best describes the term ‘tax expenditure’?"
+      ],
+      "questionText": "In the context of the Indian economy, which of the following best describes the term ‘tax expenditure’?",
+      "options": {
+        "a": "The expenditure incurred by income tax authorities in collecting taxes from individuals.",
+        "b": "The loss of government revenue due to tax evasion by certain individuals.",
+        "c": "The portion of tax revenue utilised by the government for social sector expenditure.",
+        "d": "The revenue foregone by the government due to tax exemptions and deductions."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **In the Indian economy,**tax expenditure/tax preference refers to the revenue foregone by the government due to **tax preferences** such as special tax rates, exemptions, deductions, rebates, deferrals, and tax credits. These measures reduce the tax liability of specific sectors or groups and influence the level and distribution of taxation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q19",
+      "questionNumber": 19,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to the Goods and Services Tax (GST) in India, a private individual sells his personal used car to another individual within the same State at a value lower than its original purchase price. In this scenario, which of the following is correct?"
+      ],
+      "questionText": "With reference to the Goods and Services Tax (GST) in India, a private individual sells his personal used car to another individual within the same State at a value lower than its original purchase price. In this scenario, which of the following is correct?",
+      "options": {
+        "a": "Only Central GST (CGST) is levied",
+        "b": "Only State GST (SGST) is levied",
+        "c": "Both CGST and SGST are levied",
+        "d": "GST is not levied on the transaction"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Under GST law, tax is generally levied on the transaction value of goods. However, for second-hand goods, a dealer or taxable person may opt to pay GST on the margin, which is the difference between the selling price and the purchase price. If there is no margin, no GST is charged for such supply. The purpose of the scheme is to avoid double taxation as the goods, having once borne the incidence of tax, re-enter the supply and the economic supply chain.**In case of the sale of used cars, GST is applicable only when the seller is a GST-registered person (e.g., a dealer or **business) **and is making the sale in the course of business. GST is**charged on the margin (profit) earned by such **dealers**at the applicable rate and recently changed to 18% on the margin for most used vehicles. In the**above scenario the individual is selling the car below its original purchase value, so in this case no GST will **be levied on the transaction. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Greenhouse Gases (GHG), ODS, Related Terms, Global Warming",
+      "statementLines": [
+        "With reference to the Black Carbon, consider the following statements:",
+        "I. It is a dark sooty material produced from incomplete combustion of biomass and fossil fuels.",
+        "II. The global warming impact of Black Carbon is lower than carbon dioxide.",
+        "III. Black Carbon is classified as a short-lived climate pollutant.",
+        "IV. The industrial sector is the largest emitter contributing to more than 75% of Black Carbon emission in India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Black Carbon, consider the following statements: I. It is a dark sooty material produced from incomplete combustion of biomass and fossil fuels. II. The global warming impact of Black Carbon is lower than carbon dioxide. III. Black Carbon is classified as a short-lived climate pollutant. IV. The industrial sector is the largest emitter contributing to more than 75% of Black Carbon emission in India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and IV only",
+        "c": "II and III only",
+        "d": "II and IV only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**\n\nStatement I is correct. **Black carbon is the dark**, sooty material emitted alongside other pollutants when biomass **and fossil fuels are not fully combusted.**Black Carbon, commonly known as soot, is a solid particle or aerosol produced from incomplete combustion of fossil fuels. \n\nStatement II is incorrect. Black carbon has a warming impact up to 1,500 times stronger than CO2 per unit of mass. **Black Carbon is the strongest absorber of sunlight and heats the air directly. Black Carbon warms the earth by absorbing heat in the atmosphere and reducing albedo when deposited on snow. This in turn accelerates the melting of glaciers. Further, it also disrupts precipitation patterns.**\n\nStatement III is correct. Short-lived climate pollutants are powerful climate forces**that remain in the atmosphere for a much shorter period of time than carbon dioxide, yet their potential to warm the atmosphere can be many times greater. The short-lived climate pollutants**black carbon**, methane, tropospheric ozone, and hydrofluorocarbons (HFCs) are the most important contributors to anthropogenic global warming after carbon dioxide, responsible for up to 45% of current global warming.**\n\nStatement IV is incorrect. **Most black carbon emissions in India arise from burning biomass, such as cow dung or straw, in traditional cookstoves. According to a 2016 study,**the residential sector contributes 47% of India’s total **black carbon emissions**. Industries contribute a further 22%, diesel vehicles 17%, open burning 12%, and other sources 2%.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q21",
+      "questionNumber": 21,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Financial Markets",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and",
+        "Sustainability Report (BRSR).",
+        "II. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. The Reserve Bank of India mandates all the listed companies in India to submit a Business Responsibility and Sustainability Report (BRSR). II. In India, a company submitting a BRSR makes disclosures in the report that are largely non-financial in nature. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Business Responsibility and Sustainability Report (BRSR) is an Indian reporting framework aimed at improving the disclosure of environmental, social, and governance (ESG) performance by listed companies.It traces its origins to the ‘Voluntary Guidelines on Corporate Social Responsibility’ introduced by the Ministry of Corporate Affairs in 2009.**\n\nStatement I is incorrect: **As per SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015 (LODR Regulations),**the Securities and Exchange Board of India (SEBI) (not RBI) requires the top 1,000 listed companies in **India to submit a Business Responsibility and Sustainability Report (BRSR). **This report includes disclosures on how these companies perform in relation to the nine principles outlined in the National Guidelines on Responsible Business Conduct.**\n\nStatement II is correct: The BRSR is a non-financial reporting framework that requires companies to disclose their **performance **on environmental, social, and governance (ESG) parameters**based on nine principles of the National **Guidelines on Responsible Business Conduct (NGRBC). **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q22",
+      "questionNumber": 22,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Consider the following countries:",
+        "I. United States of America",
+        "II. United Arab Emirates",
+        "III. Netherlands",
+        "IV. China What is the correct descending order of the given countries based on the respective value of Indian exports to these countries in FY 2024–25?"
+      ],
+      "questionText": "Consider the following countries: I. United States of America II. United Arab Emirates III. Netherlands IV. China What is the correct descending order of the given countries based on the respective value of Indian exports to these countries in FY 2024–25?",
+      "options": {
+        "a": "I – II – IV – III",
+        "b": "I – III – II – IV",
+        "c": "II – I – IV – III",
+        "d": "I – II – III – IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. India’s export performance in FY 2024–25 reflects both market size and strategic trade linkages. While the total value of India’s exports during the year stood at**USD 433,562.24 million**, a small group of countries accounted for a significant share of this total.**Option I. The United States of America**emerged as India’s**largest export destination in FY 2024–25**. Indian exports to the US stood at**USD 86,514.28 million**, making it the biggest market among all trading partners. Strong demand for Indian pharmaceuticals, engineering goods, textiles, and services explains why the US continues to occupy the top position.**Option II. **The**United Arab Emirates**ranked**second**, with Indian exports valued at**USD 36,638.02 million**. The UAE is important not only because of its own consumption but also because it acts as a**major re-export hub**for West Asia and Africa, which boosts India’s export figures.**Option III. **The**Netherlands**stood at the**third position**, importing Indian goods worth**USD 22,763.41 million**. It serves as a key entry point to the European market, mainly through ports such as Rotterdam. However, its share remains much lower than that of the UAE.**Option IV. China**ranked**fourth**among the given countries, with Indian exports amounting to**USD 14,252.21 million**. Even though overall India–China trade is large, India’s exports to China are relatively limited. This is mainly due to**structural trade imbalances**between the two economies. Therefore, the correct descending order based on FY 2024–25 data is:**I. USA **II. UAE **III. Netherlands **IV. China**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q23",
+      "questionNumber": 23,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "With reference to India’s Foreign Trade Policy, what is the primary objective of the Advance Authorisation",
+        "Scheme?"
+      ],
+      "questionText": "With reference to India’s Foreign Trade Policy, what is the primary objective of the Advance Authorisation Scheme?",
+      "options": {
+        "a": "To promote exports by allowing duty-free import of inputs which are physically incorporated in an export product.",
+        "b": "To encourage foreign direct investment in export-oriented units.",
+        "c": "To subsidise finished exports through direct cash incentives.",
+        "d": "To restrict imports in order to protect domestic industries."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. The**Advance Authorisation (AA) Scheme**is a long-standing export facilitation measure under India’s Foreign Trade Policy. Its core objective is to**make Indian exports more competitive in global markets**. Under this scheme, exporters are permitted to**import inputs such as raw materials, components or chemicals **without paying Customs duty**, provided these inputs are used in the manufacture of goods meant for export. By removing the burden of import duties on inputs, the scheme directly**reduces production costs**, which is crucial for price competitiveness.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q24",
+      "questionNumber": 24,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Balance of Payments (BoP)",
+      "statementLines": [
+        "If a person from the USA buys a ticket to watch a cricket match in India,under which category will this transaction be recorded in India’s Balance of Payments?"
+      ],
+      "questionText": "If a person from the USA buys a ticket to watch a cricket match in India,under which category will this transaction be recorded in India’s Balance of Payments?",
+      "options": {
+        "a": "Service export",
+        "b": "Service import",
+        "c": "Remittances",
+        "d": "Merchandise export"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. The Balance of Payments records all economic transactions between residents of a country and the rest of the world. One important component of this is**trade in services**. When a person from the USA travels to India and purchases a cricket match ticket,**India is providing a service, **in this case, entertainment to a foreign resident. The payment is made by a non-resident, and the service is supplied by entities located in India. Hence, from India’s perspective, this transaction is treated as a**service export**. In simple terms, whenever foreign nationals spend money in India on tourism, sports, hospitality or entertainment, it counts as**export of services**and adds to India’s foreign exchange earnings.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q25",
+      "questionNumber": 25,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "In the context of India, consider the following:",
+        "I. Indira Gandhi National Old Age Pension Scheme",
+        "II. National Maternity Benefit Scheme",
+        "III. Annapurna Scheme",
+        "IV. National Family Benefit Scheme Presently, the National Social Assistance Programme (NSAP) comprises",
+        "how many of the above schemes?"
+      ],
+      "questionText": "In the context of India, consider the following: I. Indira Gandhi National Old Age Pension Scheme II. National Maternity Benefit Scheme III. Annapurna Scheme IV. National Family Benefit Scheme Presently, the National Social Assistance Programme (NSAP) comprises how many of the above schemes?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The National Social Assistance Programme (NSAP) is a centrally sponsored social security programme launched in 1995 to provide minimum national assistance to economically vulnerable individuals. It targets elderly persons, widows, persons with disabilities, and families facing distress due to the death of the primary breadwinner, primarily from Below Poverty Line (BPL) households.**Presently National Social Assistance Programme**comprises of five schemes, namely\n- (1) Indira Gandhi National **Old Age Pension Scheme (IGNOAPS), **(2) Indira Gandhi National Widow Pension Scheme (IGNWPS), (3) Indira Gandhi National Disability Pension Scheme (IGNDPS),** (4) National Family Benefit Scheme (NFBS) and (5) Annapurna. Thus, **Options I, III and IV are correct. ** Option II is incorrect: **The National Social Assistance Programme at its inception in 1995 had three components namely (1) National Old Age Pension Scheme (NOAPS, (2) National Family Benefit Scheme (NFBS) and (3) National Maternity Benefit Scheme (NMBS).**The National Maternity Benefit Scheme (NMBS) was subsequently transferred on 1st April, 2001 from the Ministry **of Rural development to the Ministry of Health and Family Welfare**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q26",
+      "questionNumber": 26,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Exchange Rates (NEER, REER, Currency Mechanisms)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Other things remaining unchanged, the depreciation of Indian Rupee is likely to occur if:",
+        "I. there is a significant rise in the general level of prices of goods in India.",
+        "II. the United States Federal Reserve increases the policy interest rates.",
+        "III. the Foreign Institutional Investors bring more capital into India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: Other things remaining unchanged, the depreciation of Indian Rupee is likely to occur if: I. there is a significant rise in the general level of prices of goods in India. II. the United States Federal Reserve increases the policy interest rates. III. the Foreign Institutional Investors bring more capital into India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct. **If there is a significant rise in the general level of prices of goods in India, then the Indian goods would be more expensive. Thus, it would pose a negative impact on exports.** High inflation thus tends to **reduce exports, and thus puts a depreciating effect on Indian currency. **\n\nStatement II is correct. When the United States Federal Reserve increases the policy interest rates, it increases **interest rates throughout the US economy**. The higher yields will attract investment capital from investors seeking higher returns on bonds and interest-rate products. This results in the outflow of funds from India to the USA.**This **will increase the demand for the US dollar and thus will lead to strengthening of the US dollar thus depreciating**Indian Rupee.**\n\nStatement III is incorrect. **If the Foreign Institutional Investors bring more capital into India, it will increase the demand for Indian rupee.** This will lead to appreciation of the Indian rupee. **\n\nKnowledge Base: Other factors that may lead to rupee depreciation:\n- If India' s trade deficit widens, the Rupee depreciates. A trade deficit is a situation when a country buys more (imports) than it sells (exports). Rise in trade deficit leads to depreciation of rupee against dollar, as India would end up buying more dollars to pay for the imports as against what it earns from exports. The increase in demand for dollars puts pressure on the rupee and leads it to lose value.\n- If the RBI buys dollars from the forex market, then the rupee depreciates. When the Reserve Bank of India (RBI) buys dollars from the foreign exchange market, it pays for those dollars in Indian rupees. This increases the supply of rupees in the forex market while simultaneously decreasing the volume of dollars. As more rupees circulate in the market, it leads to depreciation of the rupee against the US dollar.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q27",
+      "questionNumber": 27,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "In the context of Indian economy, the Bank Realisation Certificate/Electronic Bank Realisation Certificate sometimes appears in the media, in the context of:"
+      ],
+      "questionText": "In the context of Indian economy, the Bank Realisation Certificate/Electronic Bank Realisation Certificate sometimes appears in the media, in the context of:",
+      "options": {
+        "a": "Trade facilitation for exporters.",
+        "b": "Completion of any personal Loan of an individual.",
+        "c": "Bank’s capital adequacy ratio achieved under Basel III norms.",
+        "d": "Bank’s liquidation process."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**To**improve trade facilitation for exporters,**the Directorate General of Foreign Trade, Ministry of Commerce and Industry, Government of India has implemented an electronic Bank Realisation Certificate/Bank Realisation Certificate system. Bank Realisation Certificate is a**digital certificate issued by banks to exporters**, confirming that**payment for an export transaction has been received **in foreign currency. It is a critical document for exporters, serving as proof of payment receipt for exported goods and services. It confirms that an exporter has received payment from the buyer against the export of goods or services.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q28",
+      "questionNumber": 28,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Exchange Rates (NEER, REER, Currency Mechanisms)",
+      "statementLines": [
+        "A sharp appreciation of the US dollar usually results in the contraction of the global credit market. Which of the following is the primary reason for this?"
+      ],
+      "questionText": "A sharp appreciation of the US dollar usually results in the contraction of the global credit market. Which of the following is the primary reason for this?",
+      "options": {
+        "a": "A strong dollar will lead to a fall in market interest rates in most of the countries.",
+        "b": "Developing countries generally borrow external funds in local currency rather than US dollars.",
+        "c": "Appreciation of the US dollar makes it costlier for the countries to repay loans.",
+        "d": "The United States of America is the largest international creditor country to the world."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption a is incorrect. **A strong US dollar usually leads to a rise in interest rates in developing countries. It is because higher returns on US assets attract global capital, thus leading to capital outflows from these countries to the US. This capital outflows can cause rise in interest rates in these countries.**\n\nOption b is incorrect. **A strong dollar can put a financial squeeze across the world. Many companies and governments in emerging markets**borrow money in the U.S.\n- dollar terms, instead of in their own currencies. **When they must repay their debts in U.S. dollars, while their own currencies buy fewer dollars by the day, it can create lots of stress. \n\nOption c is correct. **A strong US dollar significantly impacts global credit markets by increasing the cost of servicing debt that is denominated in US dollars. Since a large share of external commercial borrowings, and sovereign debt in emerging and developing economies is denominated in dollars, any appreciation of the US currency**raises the local\n- **currency value of debt repayments.**Moreover, as the dollar strengthens, global investors tend to reallocate capital towards dollar-denominated assets to get higher returns. This leads to a contraction in credit availability. Thus, a strong US dollar raises the cost of servicing existing foreign currency liabilities and restricts the availability of new credit.**\n\nOption d is incorrect. **Germany is the world’s leading creditor nation. Japan is the world’s second leading creditor nation. Japan has a net external asset of ¥533.05 trillion ($3.7 trillion). Germany surpassed it with net external assets of ¥569.7 trillion. China maintained its third position with net assets of ¥516.3 trillion.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q29",
+      "questionNumber": 29,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Exchange Rates (NEER, REER, Currency Mechanisms)",
+      "statementLines": [
+        "According to the Economic Survey 2024-25, the Real Effective Exchange Rate (REER) of India had increased during 2023-",
+        "24. What does this increase imply?"
+      ],
+      "questionText": "According to the Economic Survey 2024-25, the Real Effective Exchange Rate (REER) of India had increased during 2023- 24. What does this increase imply?",
+      "options": {
+        "a": "Indian goods had become more competitive in the foreign markets.",
+        "b": "India’s overall trade balance had improved.",
+        "c": "Indian Rupee had depreciated in the international currency market.",
+        "d": "Indian goods had become relatively more expensive in the international markets."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The Real Effective Exchange Rate (REER) is the weighted average of nominal exchange rates adjusted for relative price differential between the domestic and foreign countries. Nominal Effective Exchange Rate (NEER) is the weighted average of a currency’s exchange rates with multiple trading partner currencies. Real Effective Exchange Rate adjusts NEER to account for inflation differences between the country and its trading partners.**\n\nOption d is correct. **According to the Economic Survey**2024-25**, the Real Effective Exchange Rate (REER) of India increased from 103.2 in April 2024 to 107.2 in December 2024. The REER increased between December 2022 to December 2024. REER above 100 indicated overvaluation(hurts exports) while below 100 indicates undervaluation(helps exports).** An increase in a nation's REER is an indication that its exports are becoming more expensive and its imports are **becoming cheaper, reducing its trade competitiveness. **\n\nOption a is incorrect. **The real effective exchange rate measures a country’s trade competitiveness in the international market. An increase in a nation’s REER is an indication that its exports are becoming more expensive and its imports are becoming cheaper. An increase in REER indicates that the country’s goods are becoming less competitive in the global market.**\n\nOption b is incorrect. **An increase in a nation’s REER is an indication that its exports are becoming more expensive. This could lead to the worsening of a country's trade balance. \n\nOption c is incorrect. **An increase in a nation’s REER is an indication that its currency has appreciated. Any increase in the REER indicates the rupee’s effective appreciation against the 40-currency basket and decrease point to its overall exchange rate depreciation. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q30",
+      "questionNumber": 30,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "International Organisations (WTO, IMF, World Bank, RCEP, FTAs, etc.)",
+      "statementLines": [
+        "With reference to the affairs of the World Trade Organization (WTO), consider the following statements regarding the clause of Most Favoured Nation (MFN):",
+        "I. It prevents any country from discriminating between its trading partners on providing access to its markets under the WTO agreements.",
+        "II. All the WTO members are mandatorily required to grant MFN status to all other members without any exception.",
+        "III. The MFN principle applies to the trade of both goods and services under the WTO agreements.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the affairs of the World Trade Organization (WTO), consider the following statements regarding the clause of Most Favoured Nation (MFN): I. It prevents any country from discriminating between its trading partners on providing access to its markets under the WTO agreements. II. All the WTO members are mandatorily required to grant MFN status to all other members without any exception. III. The MFN principle applies to the trade of both goods and services under the WTO agreements. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct. **According to the World Trade Organisation rules, countries cannot normally discriminate between their trading partners. If one country is granted a trade concession such as, for example, lower import duties, then all WTO members must be given the same concessions. Under the WTO agreements, countries following the Most Favoured Nation status cannot discriminate among their trading partners. If it grants “a special favour,” such as lower customs duty on one of their products, to one country,** it **must extend the same to other WTO members.**This principle is known as the Most Favoured Nation treatment. The WTO says, \"Grant someone a special favour (such as a lower customs duty rate) and you have to do the same for all other WTO members.\"**\n\nStatement II is incorrect. **Under Article 1 of the General Agreement on Tariffs and Trade (GATT), 1994, every member country of the World Trade Organization (WTO) must accord Most Favoured Nation (MFN) status to all other member countries.**However, some exceptions are allowed**. For example, countries can set up a free trade agreement that applies only to goods traded within the group — discriminating against goods from outside. Or they can give developing countries special access to their markets. Or a country can raise barriers against products that are considered to be traded unfairly from specific countries. And in services, countries are allowed, in limited circumstances, to discriminate. But the agreements only permit these exceptions under strict conditions. Between 1996 and 2019, India accorded the MFN status to Pakistan. This was revoked in February 2019 following Pakistan’s terror attack on Pulwama in Jammu & Kashmir. Pakistan has never granted MFN status to India.**\n\nStatement III is correct. **While the MFN principle**originated with merchandise trade**,** it equally applies to digital **products and services under WTO agreements. **MFN is in the first article of the General Agreement on Tariffs and Trade (GATT), which governs trade in goods. MFN is also a priority in the General Agreement on Trade in Services (GATS) (Article 2) and the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS) (Article 4). Knowledge Base:**National treatment:**\n- National treatment means treating foreigners and locals equally. It implies that imported and locally-produced goods should be treated equally after the foreign goods have entered the market. The same should apply to foreign and domestic services, and to foreign and local trademarks, copyrights and patents.\n- National treatment only applies once a product, service or item of intellectual property has entered the market. Therefore, charging customs duty on an import is not a violation of national treatment even if locally-produced products are not charged an equivalent tax.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q31",
+      "questionNumber": 31,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Budget",
+      "statementLines": [
+        "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores.",
+        "Which of the following statements are correct?",
+        "I. Revenue deficit is ₹ 20,000 crores.",
+        "II. Fiscal deficit is ₹ 10,000 crores.",
+        "III. Primary deficit is ₹ 4,000 crores.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Suppose the revenue expenditure is ₹ 80,000 crores and the revenue receipts of the Government are ₹ 60,000 crores. The Government budget also shows borrowings of ₹ 10,000 crores and interest payments of ₹ 6,000 crores. Which of the following statements are correct? I. Revenue deficit is ₹ 20,000 crores. II. Fiscal deficit is ₹ 10,000 crores. III. Primary deficit is ₹ 4,000 crores. Select the correct answer using the code given below.",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Given Data: - Revenue Expenditure = ₹80,000 crores-Revenue Receipts = ₹60,000 crores-Borrowings (Fiscal Deficit) = ₹10,000 crores-Interest Payments = ₹6,000 crores**\n\nStatement I is correct:**Revenue Deficit Definition: Revenue Deficit = Revenue Expenditure – Revenue Receipts Calculation: Revenue Expenditure = ₹80,000 crores Revenue Receipts = ₹60,000 crores So, Revenue Deficit = ₹80,000 – ₹60,000 = ₹20,000 crores**\n\nStatement II is correct:**Fiscal Deficit Definition: - Fiscal Deficit = Total Expenditure – Total Receipts (excluding borrowings) In this question, total borrowings by the government are ₹10,000 crores, which means the gap between the government’s total expenditure and its non-borrowed receipts is being met by borrowing ₹10,000 crores. Fiscal Deficit is the total borrowing requirement of the government. In the given scenario, the borrowings directly represent the fiscal deficit. Fiscal Deficit = Borrowings = 10,000 crores**\n\nStatement III is correct: **Primary Deficit Definition: Primary Deficit = Fiscal Deficit – Interest Payments Calculation: Fiscal Deficit = ₹10,000 crores Interest Payments = ₹6,000 crores Primary Deficit = ₹10,000 – ₹6,000 = ₹4,000 crores Hence, All three statements are correct.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q32",
+      "questionNumber": 32,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Trade (Exports, Imports, FDI, FII, etc.)",
+      "statementLines": [
+        "Which one of the following countries is presently the largest exporter of textiles (in value terms) in the world?"
+      ],
+      "questionText": "Which one of the following countries is presently the largest exporter of textiles (in value terms) in the world?",
+      "options": {
+        "a": "China",
+        "b": "Vietnam",
+        "c": "Bangladesh",
+        "d": "India"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **China is the world's largest exporter of textiles. **China leads the world in textile sales, bringing in more than $300 billion annually.\nChina is followed by Bangladesh and Vietnam.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Intellectual Property Rights (IPR) & Policies",
+      "microTopic": "IPR, Institutions and Policies for IPR",
+      "statementLines": [
+        "With reference to the rules pertaining to ‘copyright’ protection in India, consider the following statements:",
+        "I. It is an intellectual property right that is protected even if no registration or application is made by the concerned party.",
+        "II. An unpublished literary work cannot be registered for the claim of copyright protection.",
+        "III. Computer softwares and programmes can be registered as ‘literary works’ under the copyright laws.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the rules pertaining to ‘copyright’ protection in India, consider the following statements: I. It is an intellectual property right that is protected even if no registration or application is made by the concerned party. II. An unpublished literary work cannot be registered for the claim of copyright protection. III. Computer softwares and programmes can be registered as ‘literary works’ under the copyright laws. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and III",
+        "c": "I only",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Copyright is a right given by the law to creators of literary, dramatic, musical and artistic works and producers of cinematograph films and sound recordings. Copyright ensures certain minimum safeguards of the rights of authors over their creations, thereby protecting and rewarding creativity. The Copyright Act of 1957 governs the law pertaining to copyright in India. The Copyright Act, 1957 protects original literary, dramatic, musical and artistic works and cinematograph films and sound recordings from unauthorized uses.**\n\nStatement I is correct. Acquisition of copyright is automatic and it does not require any formality. **Copyright comes into existence as soon as a work is created and no formality is required to be completed for acquiring copyright. However, certificate of registration of copyright and the entries made therein serve as prima facie evidence in a court of law with reference to dispute relating to ownership of copyright.**\n\nStatement II is incorrect. Both published and unpublished literary works can be registered. **For unpublished work a copy of the manuscript is sent along with an application form for affixing the stamp of the copyright office as a matter of proof.**\n\nStatement III is correct. Computer Software or programmes can be registered as a ‘literary work’**. As per Section 2 (o) of the Copyright Act, 1957 “literary work” includes computer programmes, tables and compilations, including computer databases. ‘Source Code’ and “Object Code” have also to be supplied along with the application for registration of copyright for software products.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q34",
+      "questionNumber": 34,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Finance Commission",
+      "statementLines": [
+        "The Gadgil Formula, that was introduced during the Fourth Five Year Plan in India, was primarily related with:"
+      ],
+      "questionText": "The Gadgil Formula, that was introduced during the Fourth Five Year Plan in India, was primarily related with:",
+      "options": {
+        "a": "Promotion of foreign direct investments into India to promote economic growth.",
+        "b": "Reservation of certain manufacturing sectors for small and medium industries.",
+        "c": "Allocation of Central resources to States for plan expenditures.",
+        "d": "Distribution of subsidies to various social sectors."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The Gadgil Formula became operational during the fourth Five Year Plan. It is a formula**for determining the Central **Assistance to the State plans. **The allocation of Central Assistance to the States was to be made on the basis of Gadgil Formula. Various criteria adopted were-Population of states , Per capita Income, Fiscal performance , Special problems of states and miscellaneous. The formula was later revised in 1991 as Gadgil-mukherjee formula.\nGadgil Formula was named after the then deputy chairman of the Planning Commission Dr. D R Gadgil and was adopted in 1969.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q35",
+      "questionNumber": 35,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Fiscal Policy",
+      "statementLines": [
+        "“This Five Year Plan of India began during the prime ministership of Indira Gandhi. It primarily focused on the achievement of two main objectives of 'removal of poverty (Garibi Hatao)' and 'attainment of self reliance'. D.P. Dhar played an instrumental role in the preparation of this Plan.”",
+        "The above description refers to which of the following Five Year Plans?"
+      ],
+      "questionText": "“This Five Year Plan of India began during the prime ministership of Indira Gandhi. It primarily focused on the achievement of two main objectives of 'removal of poverty (Garibi Hatao)' and 'attainment of self reliance'. D.P. Dhar played an instrumental role in the preparation of this Plan.” The above description refers to which of the following Five Year Plans?",
+      "options": {
+        "a": "Fourth Five Year Plan",
+        "b": "Fifth Five Year Plan",
+        "c": "Sixth Five Year Plan",
+        "d": "Seventh Five Year Plan"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption a is incorrect.**The Fourth Five Year Plan began during the**Prime Ministership of Indira Gandhi. **The Fourth Plan was launched with the** twin objectives of “ growth with stability “ and “progressive achievement of self **reliance.“ **Its main emphasis was on the growth rate of agriculture to enable other sectors to move forward. It was implemented during**1969-74**.**\n\nOption b is correct.**The** Fifth Five Year Plan began during the Prime Ministership of Indira Gandhi.**It proposed to achieve two main objectives:**'removal of poverty' (Garibi Hatao) and 'attainment of self reliance'.**It laid stress on increasing employment and poverty alleviation (Garibi Hatao). The final Draft of the fifth plan was** prepared and **launched by D.P. Dhar. **It was implemented between**1974-78**. When the Janta Party came to power in 1978, the Plan was terminated.**\n\nOption c is incorrect. **The Sixth Five Year Plan began during the** Prime Ministership of Indira Gandhi.**It was implemented during**1980-85**. The Plan focussed on increase in national income, modernization of technology, ensuring continuous decrease in poverty and unemployment through various schemes.**\n\nOption d is incorrect. **The Seventh Five Year Plan began during the**Prime Ministership of Rajiv Gandh**i. It was implemented during**1985-90**. The Plan aimed at accelerating food grain production, increasing employment opportunities & raising productivity with focus on**‘food, work & productivity’. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q36",
+      "questionNumber": 36,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Health",
+      "statementLines": [
+        "Consider the following statements regarding the Food Safety and Standards Authority of India (FSSAI):",
+        "I. It is a statutory body.",
+        "II. It functions under the administrative control of the Union Ministry of Consumer Affairs, Food and Public",
+        "Distribution.",
+        "III. It provides AGMARK certification for agricultural products in India.",
+        "IV. It is responsible for regulation of Nutraceuticals/Prebiotics/Probiotics in India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Food Safety and Standards Authority of India (FSSAI): I. It is a statutory body. II. It functions under the administrative control of the Union Ministry of Consumer Affairs, Food and Public Distribution. III. It provides AGMARK certification for agricultural products in India. IV. It is responsible for regulation of Nutraceuticals/Prebiotics/Probiotics in India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and IV only",
+        "c": "II, III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is correct and II is incorrect: **The FSSAI is an autonomous** statutory body established under the Food **Safety and Standards Act, 2006. The Ministry of Health & Family Welfare, Government of India is the **Administrative Ministry for the implementation of FSSAI. **\n\nStatement III is incorrect: FSSAI does not provide the AGMARK (Agricultural Mark) certification mark for **agricultural products.**AGMARK is a separate certification system managed by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture & Farmers’ Welfare.**\n\nStatement IV is correct: Nutraceuticals in India are regulated by the Food Safety and Standards Authority of India **(FSSAI). ** FSSAI governs Nutraceuticals under the Food Safety and Standards (Health Supplements, Nutraceuticals, Food for Special Dietary Use, Food for Special Medical Purpose, Functional Food and Novel Food) Regulations, 2016.\nBoth probiotics and prebiotics are classified as Nutraceuticals due to their role in enhancing digestive health, boosting immunity, reducing inflammation and even impacting mental well-being through the gut-brain axis.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q37",
+      "questionNumber": 37,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "Manufacturing",
+      "statementLines": [
+        "During an economic recession, a major automobile manufacturer in India experiences a sharp decline in vehicle sales due to reduced consumer demand for automobiles. As a result, the company scales down production and lays off about 2,000 workers, even though the workers possess the required skills and are willing to work at prevailing wage rates.",
+        "Which one of the following types of unemployment is best described in the above situation?"
+      ],
+      "questionText": "During an economic recession, a major automobile manufacturer in India experiences a sharp decline in vehicle sales due to reduced consumer demand for automobiles. As a result, the company scales down production and lays off about 2,000 workers, even though the workers possess the required skills and are willing to work at prevailing wage rates. Which one of the following types of unemployment is best described in the above situation?",
+      "options": {
+        "a": "Structural unemployment",
+        "b": "Frictional unemployment",
+        "c": "Disguised unemployment",
+        "d": "Cyclical unemployment"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption d is correct**: The**unemployment described in the question is a classic example of cyclical unemployment**, which is directly linked to the cyclical fluctuations of an economy. -**Cyclical unemployment**refers to**unemployment that arises due to periodic fluctuations in economic activity, **especially during recessions or economic slowdowns**, when aggregate demand in the economy declines. - In the given situation, the automobile manufacturer lays off workers because of a decline in vehicle sales caused by reduced consumer demand during an economic recession. - The workers are skilled, willing to work, and ready to accept the prevailing wage, yet they lose their jobs due to insufficient demand in the economy. This clearly indicates cyclical unemployment.**\n\nOption a is incorrect: Structural unemployment **Structural unemployment occurs when**workers lose jobs due to a mismatch between their skills and the **requirements of available jobs**, often caused by technological change, automation, or long-term shifts in the economy. In the given case, workers possess the required skills and are laid off solely due to reduced demand, not because their skills have become irrelevant.**\n\nOption b is incorrect: Frictional unemployment **Frictional unemployment is**temporary and voluntary in nature**. It arises when**workers are in the process of **searching for a new job, changing jobs, or entering the labour force for the first time**. The layoffs in the given situation are involuntary and result from an economic recession, not from normal job mobility.**\n\nOption c is incorrect: Disguised unemployment ** Disguised unemployment occurs when labor force members are engaged in jobs but produce minimal or zero productivity, meaning their output does not influence the economy’s aggregate production. It often arises in economies with labor surpluses where too many workers perform tasks that lead to low productivity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Air, Water, Noise Pollution, SLCPs, etc.",
+      "statementLines": [
+        "The Biological Oxygen Demand (BOD) in a water sample at a certain temperature over a specified time period is a measure of: the water."
+      ],
+      "questionText": "The Biological Oxygen Demand (BOD) in a water sample at a certain temperature over a specified time period is a measure of: the water.",
+      "options": {
+        "a": "The amount of dissolved oxygen required to chemically oxidize the organic substance in the water.",
+        "b": "The amount of dissolved oxygen required to decompose water soluble inorganic wastes in the water.",
+        "c": "The amount of dissolved oxygen needed by aerobic biological organisms to break down organic material present in",
+        "d": "The amount of dissolved oxygen required to chemically oxidize all organic and inorganic substances in the water."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Biological Oxygen Demand (BOD) is the amount of dissolved oxygen**required**by aerobic microorganisms (bacteria and other decomposers)**to biologically break down the organic matter present in a given volume of water.** It is measured under standard conditions of a 5-day incubation period at 20°C and is expressed in milligrams of oxygen per litre (mg/L or ppm). A high BOD value indicates intense microbial activity, which in turn reflects the presence of large quantities of organic waste or sewage in the water whereas low BOD values signify cleaner water with minimal organic pollution. Further, clean water has a BOD of less than 5 ppm, while highly polluted water may exhibit BOD values of 17 ppm or more.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Old NCERT: Class XI – Chemistry- Ch: 14 - Environmental Chemistry (Pg: 415) https://egyankosh.ac.in/bitstream/123456789/16265/1/Unit-15.pdf - Page no 76"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q39",
+      "questionNumber": 39,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Poverty and Development",
+      "statementLines": [
+        "With reference to economy, which of the following best describes “Engel’s Pause”, recently seen in the news? prolonged slowdown. aggregate demand. workers. expenditure increases."
+      ],
+      "questionText": "With reference to economy, which of the following best describes “Engel’s Pause”, recently seen in the news? prolonged slowdown. aggregate demand. workers. expenditure increases.",
+      "options": {
+        "a": "A situation in which, despite rapid technological innovation, overall productivity growth in the economy shows a",
+        "b": "A long-term condition in which an economy experiences persistently low growth, weak investment, and subdued",
+        "c": "A phase where technological progress leads to productivity gains without a corresponding rise in real wages of",
+        "d": "A situation where, with rising household income, the share of income spent on food declines, even if total food"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct: Engel’s Pause**is a**term coined by economic historian Robert C. Allen**to describe a historical phenomenon during the British Industrial Revolution (1790–1840). - During this period,**output per worker (productivity) rose rapidly due to technological innovations **in manufacturing and mechanization. - However,**real wages of workers stagnated for decades,**meaning that ordinary labourers did not immediately benefit from the productivity boom. - Instead, the gains were captured largely by capital owners and landowners, leading to rising inequality. -**Friedrich Engels**, in his famous work The Condition of the Working Class in England,**documented this paradox of **industrial progress without wage improvement**. The term has recently appeared in the news in the context of**artificial intelligence and advanced automation**, raising concerns that AI-driven productivity gains may not immediately translate into higher real wages for workers, thereby recreating a modern version of Engel’s Pause.**\n\nOption a is incorrect: This describes a Productivity Paradox, **where technological innovation does not translate into higher productivity growth, which is different from Engel’s Pause where productivity rises but wages stagnate.**\n\nOption b is incorrect: This refers to Secular Stagnation, **a long-term macroeconomic condition characterised by weak demand, low investment, and subdued growth, rather than a divergence between productivity and wages.**\n\nOption d is incorrect: This explains Engel’s Law, **which states that as income increases, the proportion of income spent on food declines, even though absolute food expenditure may rise; it is unrelated to wages or technological productivity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q40",
+      "questionNumber": 40,
+      "subject": "Economy",
+      "sectionGroup": "Human Resource Development",
+      "microTopic": "Employment",
+      "statementLines": [
+        "‘A software engineer is employed full-time at a software company but also undertakes a part-time freelancing project for another firm during evenings and weekends, without resigning from his/her main job.’",
+        "Which one of the following is best described in the above situation?"
+      ],
+      "questionText": "‘A software engineer is employed full-time at a software company but also undertakes a part-time freelancing project for another firm during evenings and weekends, without resigning from his/her main job.’ Which one of the following is best described in the above situation?",
+      "options": {
+        "a": "Moonlighting",
+        "b": "Casual employment",
+        "c": "Dual Employment",
+        "d": "Gig employment"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct: Moonlighting**is the practice where an**individual who is already engaged in a full-time job takes **up **an** additional job, **assignment, or professional engagement** outside regular working hours, without resigning **from or discontinuing** the primary employment**. - The defining features of moonlighting are the continuation of the main job, the secondary nature of the additional work, and the fact that it is usually undertaken during evenings, weekends, or off-hours. -**In the given scenario**, the**software engineer remains employed full-time while simultaneously undertaking a **part-time freelancing project**,**which clearly fits the definition of moonlighting. **\n\nOption b is incorrect: Casual employment**refers to work that is**irregular, temporary, or intermittent,**often without continuity of service or long-term contractual obligations.**The individual in the scenario, however, has a stable full\n- **time job**, so this does not apply.**\n\nOption c is incorrect: Dual employment **generally implies** holding two formal employment at the same time, **often with overlapping obligations, and may involve legal or contractual issues.** The scenario here specifically highlights **secondary work outside normal hours**, which is better captured by moonlighting.**\n\nOption d is incorrect: Gig employment involves short-term, task-based work, frequently mediated through digital **platforms, **where workers are not in a conventional employer–employee relationship. While freelancing can be part of the gig economy, the core feature highlighted in the question is the coexistence of a full-time job with additional work, which makes moonlighting the most appropriate answer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q41",
+      "questionNumber": 41,
+      "subject": "Economy",
+      "sectionGroup": "Sectors of Economy",
+      "microTopic": "GDP, Inflation, Unemployment",
+      "statementLines": [
+        "How is the magnitude of price elasticity for an individual good determined?",
+        "1. By the degree to which the good is a necessity or luxury.",
+        "2. By the extent to which substitutes are available.",
+        "3. By the rate of income growth in the economy.",
+        "4. By the relative importance of the good in the consumer’s budget.",
+        "Select the correct answer using the codes given below.",
+        "(a) 1, 2 and 3",
+        "(b) 1 and 4 only",
+        "(c) 1, 2 and 4",
+        "(d) 3 and 4"
+      ],
+      "questionText": "How is the magnitude of price elasticity for an individual good determined? 1. By the degree to which the good is a necessity or luxury. 2. By the extent to which substitutes are available. 3. By the rate of income growth in the economy. 4. By the relative importance of the good in the consumer’s budget. Select the correct answer using the codes given below.",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "1 and 4 only",
+        "c": "1, 2 and 4",
+        "d": "3 and 4"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The price elasticity of demand for a commodity relies upon the trait of the commodity and the obtainability of close alternatives to the commodity. The major factors that determine the price elasticity of demand are: -**The number of close substitutes goods:\n- **The more substitutes a good has and the more close the substitutes are, the more elastic the demand for the good is. - The proportion of income spent on the commodity. - The demand for a product tends to be more elastic in a longer period of time and less elastic in a shorter period of time. -**By the relative importance of the good in the consumer’s budget **- Habit-forming commodities tend to have less elastic or inelastic demand. -**Luxuries are things we can do away with; hence, they tend to have elastic demand**.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2021,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q42",
+      "questionNumber": 42,
+      "subject": "Economy",
+      "sectionGroup": "External Sector",
+      "microTopic": "Balance of Payments (BoP)",
+      "statementLines": [
+        "With reference to external sector management, what does the Guidotti–Greenspan rule suggest a country should do?"
+      ],
+      "questionText": "With reference to external sector management, what does the Guidotti–Greenspan rule suggest a country should do?",
+      "options": {
+        "a": "Maintain foreign exchange reserves equal to the value of total imports for one year.",
+        "b": "Hold foreign exchange reserves sufficient to cover all short-term external debt.",
+        "c": "Hold foreign exchange reserves equal to the total external debt of the country.",
+        "d": "Accumulate foreign exchange reserves equal to a fixed percentage of GDP to manage capital flow volatility."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. The**Guidotti–Greenspan rule**is a widely used benchmark for assessing the**adequacy of a country’s foreign exchange **reserves**. It was formulated by economists**Pablo Guidotti**and**Alan Greenspan**, the former Chair of the US Federal Reserve. The rule is simple; a country should hold enough foreign exchange reserves to**fully meet all its short-term external **debt obligations falling due within the next one year**. The logic is that even if access to international capital markets suddenly dries up, the country should be able to meet its external commitments without triggering a balance of payments crisis. Economists often express this as a**ratio of forex reserves to short-term external liabilities**. For reserves to be considered adequate, this ratio should be**at least one**. In India’s case, this ratio has remained**comfortably above one **for more than a decade**and was estimated at**around 2.7 at the end of FY23**, indicating a strong external buffer.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q43",
+      "questionNumber": 43,
+      "subject": "Economy",
+      "sectionGroup": "Infrastructure",
+      "microTopic": "Transport",
+      "statementLines": [
+        "Recently, the South Coast Railway Zone has been notified as the 18th zone of the Indian Railways. In this context,",
+        "consider the following pairs regarding Railway Zones and their Headquarters:",
+        "Railway Zone Zonal Headquarters",
+        "I. Central Railway Jabalpur",
+        "II. Western Railway Ahmedabad",
+        "III. Eastern Railway Kolkata",
+        "IV. Northern Railway Prayagraj",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Recently, the South Coast Railway Zone has been notified as the 18th zone of the Indian Railways. In this context, consider the following pairs regarding Railway Zones and their Headquarters: Railway Zone Zonal Headquarters I. Central Railway Jabalpur II. Western Railway Ahmedabad III. Eastern Railway Kolkata IV. Northern Railway Prayagraj How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Indian Railways**is**one of the world’s largest railway networks**and is administratively organised into railway zones to ensure effective planning, operation, and management across India’s vast geographical expanse. -**Each railway zone is headed by a General Manager**and functions through several divisions, which are administered by**Divisional Railway Managers**(DRMs). -**Recently**, the**South Coast Railway Zone (SCoR)**has been**notified as the 18th zone of Indian Railways**, with its headquarters at**Visakhapatnam, Andhra Pradesh**.**Pair I is incorrect:**Central Railway **The headquarters of Central Railway is Mumbai **(Chhatrapati Shivaji Maharaj Terminus). It is one of the oldest Railway Zones of India, and was created in 1951.**Jabalpur is actually the headquarters of West Central Railway, **which is a separate zone, formed in 2003**Pair II is incorrect: Western Railway **Western Railway, **one of the oldest zones (formed in 1951) of Indian Railways,** has its headquarters in Churchgate, **Mumbai. **It primarily serves the states of Maharashtra, Gujarat, and parts of Madhya Pradesh.**Pair III is correct: Eastern Railway **Eastern Railway’s headquarters is Kolkata**, covering West Bengal, parts of Bihar, and Jharkhand. It was created in 1952.**Pair IV is incorrect: Northern Railway **The headquarters of Northern Railway is New Delhi, not Prayagraj. **The Northern Railway Zone was created in 1952.**Prayagraj is the headquarters of North Central Railway**, which was created in 2003.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q44",
+      "questionNumber": 44,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Insurance and Pension",
+      "statementLines": [
+        "Which of the following statements regarding the National Pension System (NPS) is incorrect?"
+      ],
+      "questionText": "Which of the following statements regarding the National Pension System (NPS) is incorrect?",
+      "options": {
+        "a": "It is regulated by the Pension Fund Regulatory Development Authority (PFRDA).",
+        "b": "Non-Resident Indians (NRIs) are eligible to open an NPS account.",
+        "c": "The minimum annual contribution required under the NPS is ₹5000.",
+        "d": "A Permanent Retirement Account Number (PRAN) is allocated to every subscriber under the NPS."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **National Pension System (NPS) is a defined contribution pension. NPS is voluntary for subscription by an individual to make contributions to his/her Individual Pension Account during the working life for creating a pension corpus from which regular income will be generated after retirement / working age.**Statement a is correct:**The**National Pension System (NPS) is regulated by the Pension Fund Regulatory and **Development Authority (PFRDA),**a statutory body established through an Act of Parliament.**Statement b is correct: An NRI between the age of 18 – 70 years, as on the date of submission of his/her application **and complying with the extant KYC norms, can open an NPS account. **Statement c is incorrect: Under the NPS,**subscribers can operate two types of accounts such as Tier I and Tier II.**Tier I**is the mandatory pension account and is eligible for tax benefits under the Income Tax Act,**with a minimum **annual contribution of ₹**1,000. Tier II** is an optional investment account, available only to subscribers with an active Tier I account; it allows free withdrawals and does not carry pension status or tax benefits, **with a minimum contribution requirement of ₹**250. **Statement d is correct: Under the NPS, a Permanent Retirement Account Number (PRAN) is a unique identification **number allotted to each subscriber for their Individual Pension Account.** The PRAN is portable and remains the same throughout the subscriber’s lifetime, even if the subscriber changes employment, sector, or location.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q45",
+      "questionNumber": 45,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Subsidies",
+      "statementLines": [
+        "If a commodity is provided free to the public by the Government, then"
+      ],
+      "questionText": "If a commodity is provided free to the public by the Government, then",
+      "options": {
+        "a": "The opportunity cost is zero.",
+        "b": "The opportunity cost is ignored.",
+        "c": "The opportunity cost is transferred from the consumers of the product to the taxpaying public.",
+        "d": "The opportunity cost is transferred from the consumers of the product to the Government."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** Opportunity cost is the forgone benefit that would have been derived by an option not chosen. For example, if you decide to spend two hours studying on a Friday night. The opportunity cost is that you cannot have those two hours for leisure.\nWhen a commodity is provided free to the public by the government then the opportunity cost is transferred to the tax-paying public.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Environmental Pollution & Pollutants",
+      "microTopic": "Hazardous, Radioactive, E-Waste, Heavy Metals, etc.",
+      "statementLines": [
+        "Triclosan, which is added to many household products, can have adverse effects on human health. In this context, consider the following:",
+        "I. Toothpaste",
+        "II. Soap and hand wash",
+        "III. Cosmetics",
+        "IV. Artificial sweetener",
+        "V. Food preservatives Triclosan is generally added to",
+        "how many of the above mentioned products?"
+      ],
+      "questionText": "Triclosan, which is added to many household products, can have adverse effects on human health. In this context, consider the following: I. Toothpaste II. Soap and hand wash III. Cosmetics IV. Artificial sweetener V. Food preservatives Triclosan is generally added to how many of the above mentioned products?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Triclosan is an antibacterial and anti-fungal agent. It is used in many household products as an antibacterial agent. But long-term exposure to triclosan can adversely affect human health. It can also potentially cause colon inflammation and cancer. Indiscriminate usage of antimicrobial agents like triclosan over the years has led to bacteria developing resistance to them.** Option I is correct. Triclosan is found in toothpaste. **While triclosan's main purpose is to reduce plaque and gum disease, it may end up harming the good bacteria in our mouth, which are important for maintaining oral health. It can also leach into your bloodstream, leading to potential long-term health effects such as endocrine disruption and weakened immunity.  Option II is correct. **Triclosan is a key ingredient in** household cleaning products, including handwash liquids and **gels, hand sanitisers and wet wipes.**It is found in soap, handwash, talcum powder and even in the wall paint.  Option III is correct. **Triclosan is also used in**personal care products, and cosmetics. **Options IV and V are incorrect. **Triclosan is not usually added to Artificial sweeteners and Food preservatives.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q47",
+      "questionNumber": 47,
+      "subject": "Economy",
+      "sectionGroup": "Money, Banking, Finance, Insurance",
+      "microTopic": "Banking, NPA",
+      "statementLines": [
+        "With reference to the Immediate Payment Service (IMPS), consider the following statements:",
+        "I. It is developed and operated by the Reserve Bank Innovation Hub (RBIH).",
+        "II. It allows users to settle bills and transfer funds instantly up to a maximum limit of Rs. 1,00,000 per day.",
+        "III. The sender or the receiver is not mandatorily required to maintain a bank account to transfer funds through IMPS.",
+        "IV. The IMPS facility is available to users on all days including bank holidays.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Immediate Payment Service (IMPS), consider the following statements: I. It is developed and operated by the Reserve Bank Innovation Hub (RBIH). II. It allows users to settle bills and transfer funds instantly up to a maximum limit of Rs. 1,00,000 per day. III. The sender or the receiver is not mandatorily required to maintain a bank account to transfer funds through IMPS. IV. The IMPS facility is available to users on all days including bank holidays. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II and III",
+        "c": "IV only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Immediate Payment Service (IMPS) allows individuals to send and receive money instantly using mobile phones or internet banking. The real-time, interbank electronic funds transfer system can be used to settle bills and transfer funds.**\n\nStatement I is incorrect: **IMPS is an innovative real time payment service that is available round the clock. This service is**developed and operated by National Payments Corporation of India (NPCI), and not the Reserve Bank **Innovation Hub (RBIH). **It empowers customers to transfer money instantly through banks and RBI authorized Prepaid Payment Instrument Issuers (PPI) across India.**\n\nStatement II is incorrect:**The Reserve Bank of India**(RBI) has set the IMPS upper limit at Rs 5,00,000 per **transaction, raised from the earlier limit of 2,00,000 per transaction in 2021. However, the RBI hasn't set a daily **transaction limit. **IMPS transfer facility is available 24/7 for every account holder of any bank. The funds reach the beneficiary instantly after the sender's bank approves the transaction. However, in rare cases, it can take up to five working days when a transaction fails or is timed out during the process.**\n\nStatement III is incorrect: **According to the National Payments Corporation of India (NPCI),**both the sender and the **receiver must have a bank account with a registered mobile number and **Mobile Money Identifier (**MMID) to send **and receive funds through IMPS. **Additionally, one needs to enter the IFSC code, bank account number and transaction amount to make a transaction. IMPS also allows users to transfer money using the beneficiary's Mobile Money Identifier (MMID) or their contact number.**\n\nStatement IV is correct: I**MPS enables instant money movement during critical situations, ensuring that funds are available to the recipient within seconds of the transfer being initiated. Its 24/7/365 availability means that**users can **transfer funds even during weekends, holidays, or late-night hours when traditional banking channels are **unavailable. Knowledge Base:**About the Reserve Bank Innovation Hub (RBIH):**- It is a**wholly-owned subsidiary of the Reserve Bank of India (RBI)**set up to promote and facilitate an environment that accelerates innovation across the financial sector. - RBIH provides the platform to anchor a shared vision among all financial ecosystem stakeholders and aid them in crafting forward-looking innovation strategies while addressing the most pressing issues in the Indian financial sector. - The organisation serves as a**focal point to position India as a global innovation hub for a network of financial **services providers,** fintech innovation hubs, policymakers, technologists, academia, and the investor community.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Biogeochemical Cycles (C, N, S, P, etc.)",
+      "statementLines": [
+        "With reference to the environment, the Calvin Cycle is primarily associated with:"
+      ],
+      "questionText": "With reference to the environment, the Calvin Cycle is primarily associated with:",
+      "options": {
+        "a": "Conversion of atmospheric nitrogen to useful or simpler compounds of nitrogen.",
+        "b": "Increase in the concentration of contaminants as they move up each trophic level in an ecosystem.",
+        "c": "Conversion of atmospheric carbon dioxide into sugar by the plants.",
+        "d": "Flow of energy from autotrophs to carnivores in a food chain."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct. **The Calvin cycle is a process tha**t plants use to turn carbon dioxide from the air into sugar.**The Calvin pathway occurs in all photosynthetic plants. The Calvin cycle proceeds through** three stages**: (1)**Carboxylation**, during which CO₂ combines with ribulose-1,5-bisphosphate; (2)**Reduction**, during which carbohydrate is formed using**ATP (adenosine triphosphate)**and**NADPH (nicotinamide **adenine dinucleotide phosphate)**produced in the light reactions; and (3)**Regeneration**, during which the CO₂ acceptor, ribulose-1,5-bisphosphate, is regenerated so that the cycle can continue. Thus, for every CO₂ molecule entering the Calvin cycle,**three molecules of ATP **and**two molecules of NADPH **are required. It is probably to compensate for this difference in the number of ATP and NADPH used in the dark reactions that**cyclic photophosphorylation** takes place. To make one molecule of glucose 6 turns of the cycle are required.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo111.pdf Page: 143"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q49",
+      "questionNumber": 49,
+      "subject": "Economy",
+      "sectionGroup": "Fiscal Policy, Budget, Taxation",
+      "microTopic": "Taxation",
+      "statementLines": [
+        "With reference to the Goods and Services Tax (GST) in India, the Reverse Charge Mechanism (RCM) could be best described as: services in respect of notified categories of supply. services rather than the destination state where it is consumed. services in respect of notified categories of supply."
+      ],
+      "questionText": "With reference to the Goods and Services Tax (GST) in India, the Reverse Charge Mechanism (RCM) could be best described as: services in respect of notified categories of supply. services rather than the destination state where it is consumed. services in respect of notified categories of supply.",
+      "options": {
+        "a": "The liability to pay tax is on the recipient of supply of goods or services instead of the supplier of such goods or",
+        "b": "The liability to pay tax is on the supplier of goods or services.",
+        "c": "The liability to pay tax is on the supplier of goods or services but the supplier pays tax to origin state of goods or",
+        "d": "The liability to pay tax is shared equally between the recipient of goods or services and the supplier of such goods or"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Under normal circumstances, the supplier of goods or services is responsible for paying GST. However, in certain cases, such as imports or other notified supplies,**the liability to pay tax shifts to the recipient under the Reverse **Charge Mechanism (RCM).**Reverse Charge means the liability to pay tax is on the recipient of supply of goods or services instead of the **supplier of such goods or services in respect of notified categories of supply. ** There are two types of reverse charge scenarios provided in law. First is dependent on the nature of supply and/or nature of supplier. This scenario is covered by section 9 (3) of the CGST/ SGST (UTGST) Act and section 5 (3) of the IGST Act. The second scenario is covered by section 9 (4) of the CGST/SGST (UTGST) Act and section 5 (4) of the IGST Act where taxable supplies by any unregistered person to a registered person is covered.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-revision-economy-environment-test21-q50",
+      "questionNumber": 50,
+      "subject": "Polity",
+      "sectionGroup": "Part XX: Amendment of the Constitution",
+      "microTopic": "Amendment and Basic Structure",
+      "statementLines": [
+        "The 92nd Constitutional Amendment Act, 2003, amends the Eighth Schedule to the Constitution of India to include which of the following languages?",
+        "I. Bodo",
+        "II. Dogri",
+        "III. Nepali",
+        "IV. Santhali",
+        "Select the correct answer using the code given below"
+      ],
+      "questionText": "The 92nd Constitutional Amendment Act, 2003, amends the Eighth Schedule to the Constitution of India to include which of the following languages? I. Bodo II. Dogri III. Nepali IV. Santhali Select the correct answer using the code given below",
+      "options": {
+        "a": "I, II and III",
+        "b": "I, III and IV",
+        "c": "II, III and IV",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer\n\n**Option I is correct: Bodo became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003.**\n\n**Option II is correct: Dogri became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003.**\n\n**Option IV is correct: Santhali became part of the Eighth Schedule through the 92nd Constitutional Amendment, 2003. Maithili was one more language which became part of the Eighth Schedule through** the 92nd Constitutional **Amendment, 2003**.** Option III is incorrect: Nepali **became part of the Eighth Schedule through** the 71st Constitutional Amendment, 1992**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

@@ -1,0 +1,1891 @@
+{
+  "id": "forum-sfg-2026-level-2-science-test14",
+  "title": "Test 14- L2 SFG 2026 - Sectional - Science   Technology",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q01",
+      "questionNumber": 1,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Which one of the following statements is not correct?"
+      ],
+      "questionText": "Which one of the following statements is not correct?",
+      "options": {
+        "a": "Hepatitis B virus is transmitted much like HIV.",
+        "b": "Hepatitis B, unlike Hepatitis C, does not have a vaccine.",
+        "c": "Globally, the number of people infected with Hepatitis B and C viruses are several times more than those infected with HIV.",
+        "d": "Some of those infected with Hepatitis B and C viruses do not show the symptoms for many years."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** There is no vaccine against Hepatitis C as the hepatitis C virus is more variable than hepatitis A and hepatitis B viruses. However, there are vaccines against Hepatitis A and B. Hepatitis B vaccine is called first “anti-cancer” vaccine because it prevents Hepatitis B, the leading cause of liver cancer worldwide.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2019,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q02",
+      "questionNumber": 2,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "When foreign materials such as bacteria or food particles enter a cell, they are broken down by which of the following cell organelles?"
+      ],
+      "questionText": "When foreign materials such as bacteria or food particles enter a cell, they are broken down by which of the following cell organelles?",
+      "options": {
+        "a": "Lysosomes",
+        "b": "Golgi apparatus",
+        "c": "Vacuoles",
+        "d": "Endoplasmic reticulum"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Lysosomes are membrane-bound sac filled with powerful digestive enzymes. These enzymes are capable of breaking down all organic material. When foreign materials like bacteria or food enter the cell through the cell membrane, they are sent to the lysosomes. Lysosomes contain hydrolytic enzymes that break down foreign particles, bacteria, and worn-out organelles after endocytosis.\nGolgi apparatus: It modifies, sorts, and dispatches proteins and lipids but does not perform degradation of foreign materials. Vacuoles: The vacuole is the membrane-bound space found in the cytoplasm. It contains water, sap, excretory product and other materials not useful for the cell. They are not involved in breaking down of foreign material such as food or bacteria which may enter the cell.\nEndoplasmic reticulum: A network or reticulum of tiny tubular structures scattered in the cytoplasm that is called the endoplasmic reticulum (ER). Biosynthesis is the main function of it, RER (Rough Endoplasmic Reticulum) synthesizes proteins and SER (Smooth Endoplasmic Reticulum) synthesizes lipids; it is not involved in intracellular digestion.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo108.pdf Pg:94, 95, 96 https://egyankosh.ac.in/bitstream/123456789/102784/1/Unit-1.pdf Pg: 12, 13, 16, 17, 18"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q03",
+      "questionNumber": 3,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Cells that have membrane bound nuclei are called eukaryotic whereas cells that lack a membrane bound nucleus are prokaryotic.",
+        "II. Ribosomes are non-membrane bound organelles found in both eukaryotic as well as prokaryotic cells.",
+        "III. In both prokaryotic and eukaryotic cells, a semi-fluid matrix called cytoplasm is present.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: I. Cells that have membrane bound nuclei are called eukaryotic whereas cells that lack a membrane bound nucleus are prokaryotic. II. Ribosomes are non-membrane bound organelles found in both eukaryotic as well as prokaryotic cells. III. In both prokaryotic and eukaryotic cells, a semi-fluid matrix called cytoplasm is present. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I is correct: Prokaryotic cells (like bacteria) are characterized by the absence of membrane-bound organelles. They do not have mitochondria, Golgi apparatus, or endoplasmic reticulum. Eukaryotic cells (like plants and animals) possess a complex internal membrane system and specialized organelles like mitochondria and Golgi apparatus for compartmentalized functions. Cells that have membrane bound nuclei are called eukaryotic whereas cells that lack a membrane bound nucleus are prokaryotic.\nStatement II is correct: Ribosomes are non-membrane bound organelles found in all cells – both eukaryotic as well as prokaryotic. Within the cell, ribosomes are found not only in the cytoplasm but also within the two organelles – chloroplasts (in plants) and mitochondria and on rough Endoplasmic reticulum.\nStatement III is correct: In both prokaryotic and eukaryotic cells, a semi-fluid matrix called cytoplasm occupies the volume of the cell. The cytoplasm is the main arena of cellular activities in both the plant and animal cells. Various chemical reactions occur in it to keep the cell in the ‘living state’.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo108.pdf Pg: 88 https://egyankosh.ac.in/bitstream/123456789/16222/1/Unit-1.pdf Pg: 14, 15"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q04",
+      "questionNumber": 4,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements with respect to translation in molecular biology:",
+        "I. Translation involves the conversion of the genetic information from DNA directly into a sequence of amino acids.",
+        "II. Translation takes place on ribosomes.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to translation in molecular biology: I. Translation involves the conversion of the genetic information from DNA directly into a sequence of amino acids. II. Translation takes place on ribosomes. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Translation is the process of joining amino acids to make a protein, and the order of these amino acids is decided by the sequence of bases in mRNA.\nStatement I is incorrect: Translation converts genetic information from mRNA into a sequence of amino acids, not directly from DNA. DNA is first transcribed into messenger RNA (mRNA) in the nucleus. The mRNA then travels to the cytoplasm, where its sequence is \"translated\" into a polypeptide chain (protein).Therefore, translation uses mRNA as a template, not DNA directly.\nThe conversion of genetic information from DNA into messenger RNA (mRNA) is called transcription.\n\nStatement II is correct: Translation occurs on ribosomes, which serve as the structural site for protein synthesis. Ribosomes are complex molecular machines composed of ribosomal RNA (rRNA) and various proteins.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo105.pdf , Pg: 98, 108 https://egyankosh.ac.in/bitstream/123456789/91302/1/Block-1.pdf Pg: 8, 32"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q05",
+      "questionNumber": 5,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the structural components of cells, consider the following:",
+        "I. Chloroplast",
+        "II. Cytoplasm",
+        "III. Cell wall",
+        "How many of the above are present in both plant and animal cells?"
+      ],
+      "questionText": "With reference to the structural components of cells, consider the following: I. Chloroplast II. Cytoplasm III. Cell wall How many of the above are present in both plant and animal cells?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Option I is not correct: Chloroplast: Chloroplasts are a type of plastid containing chlorophyll, which is essential for photosynthesis. They are found in plant cells but are absent in animal cells.\nOption II is correct: Cytoplasm: Cytoplasm is present in both plant and animal cells as the medium for metabolic activities and organelle suspension.\nOption III is not correct: Cell wall: The cell wall is a rigid outer layer made of cellulose that provides structural support and protection. It is located outside the cell membrane in plant cells. Animal cells do not have a cell wall.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo108.pdf , Pg:88, 91, 92 https://egyankosh.ac.in/bitstream/123456789/16244/1/Unit-20.pdf Pg: 70, 71, 72, 83 https://ncert.nic.in/textbook/pdf/iesc105.pdf-pg57"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q06",
+      "questionNumber": 6,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The term \"Tagatose,\" which was recently seen in the news, is best described as:"
+      ],
+      "questionText": "The term \"Tagatose,\" which was recently seen in the news, is best described as:",
+      "options": {
+        "a": "A biofuel produced from genetically engineering organisms.",
+        "b": "A natural low-calorie sweetener derived from lactose.",
+        "c": "A rare radioactive isotope used in the treatment of bone cancer.",
+        "d": "A coral species tolerant to marine heatwaves discovered in the Andaman Sea."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Tagatose is a rare, naturally occurring low-calorie sweetener that is approximately 90% as sweet as table sugar (sucrose) but provides only about 38% of the calories. It is primarily derived from lactose (milk sugar) through a process that converts galactose into tagatose. A key feature of tagatose is its low glycaemic index, hence beneficial for managing diabetes or obesity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q07",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The human body has limited storage capacity for Vitamin C.",
+        "Statement II: Vitamin C is a water-soluble vitamin that is easily excreted through urine.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The human body has limited storage capacity for Vitamin C. Statement II: Vitamin C is a water-soluble vitamin that is easily excreted through urine. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is incorrect",
+        "d": "Statement I is incorrect but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Vitamin C cannot be stored in the human body, in large quantities over a long period. and therefore must be supplied regularly through our daily diet.\nStatement II is correct: Vitamin C belongs to the category of water-soluble vitamins (along with the B group). These vitamins are soluble in water, meaning they are not stored in the body's fatty tissues but are instead readily filtered by the kidneys and excreted through urine.\nStatement II explains Statement I : Because Vitamin C is water-soluble and is easily flushed out of the system through urine, the body is unable to maintain a long-term reserve or \"store\" of it.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lech205.pdf#:~:text=(ii)%20Water%20soluble%20vitamins%3A%20B,they%20are %20readily%20excreted%20in (page 296)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q08",
+      "questionNumber": 8,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "What is the primary function of antioxidants in the human body?"
+      ],
+      "questionText": "What is the primary function of antioxidants in the human body?",
+      "options": {
+        "a": "They increase the production of energy in cells during metabolism.",
+        "b": "They prevent the absorption of heavy metals in the small intestine.",
+        "c": "They act as catalysts to speed up the synthesis of essential fatty acids in the liver.",
+        "d": "They neutralize free radicals to prevent oxidative stress and cellular damag"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Antioxidants are molecules that protect the body by neutralizing free radicals—unstable atoms that can damage cells. Free radicals are produced naturally during metabolism or through exposure to environmental factors like pollution and radiation. If left unchecked, they cause oxidative stress, which is linked to aging and various chronic diseases.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q09",
+      "questionNumber": 9,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Exposure to which of the following may lead to genetic mutations in living organisms?",
+        "I. X-rays",
+        "II. Ultraviolet (UV) radiation",
+        "III. Mustard gas",
+        "IV. Formaldehyde",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Exposure to which of the following may lead to genetic mutations in living organisms? I. X-rays II. Ultraviolet (UV) radiation III. Mustard gas IV. Formaldehyde Select the correct answer using the code given below.",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I and II only",
+        "c": "III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n** Option I is correct: X-rays are identified as high-energy ionizing radiation. They act by causing single and double-strand breaks in the DNA molecule. They can penetrate tissues and cause DNA strand breaks and chromosomal damage, leading to mutations.\nOption II is correct: Ultraviolet (UV) Radiation is classified as non-ionizing radiation. Its major mutagenic effect is the formation of pyrimidine dimers (adjacent bases linked by carbon-to-carbon bonds), which distorts the DNA and affects normal replication.\nOption III is correct: Mustard Gas is a chemical mutagen that has the capacity to induce mutations. It belongs to the class of alkylating agents, which react with DNA to cause mutations.\nOption IV is correct: Formaldehyde can form cross-links with DNA and proteins, leading to genetic damage and mutagenic effects.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q10",
+      "questionNumber": 10,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "In the context of the space sector, which of the following is one of the objectives of the Fram2 Mission?"
+      ],
+      "questionText": "In the context of the space sector, which of the following is one of the objectives of the Fram2 Mission?",
+      "options": {
+        "a": "Sending crews to the International Space Station.",
+        "b": "Mapping and monitoring forest biomass in tropical regions.",
+        "c": "Achieving debris-free satellite launch for the sustainable use of outer space.",
+        "d": "Conducting scientific experiments by growing mushrooms in microgravity."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption a is incorrect: The Axiom-4 mission is a private spaceflight by Axiom Space that will carry a crew to the International Space Station (ISS) for a duration of 14 days.\nOption b is incorrect: The Biomass Mission, launched by the European Space Agency (ESA) under its Earth Explorer Programme, is a dedicated Earth observation satellite mission designed to map and monitor global forest biomass with unprecedented accuracy.\nOption c is incorrect: The Debris Free Space Mission (DFSM) initiative, spearheaded by ISRO, aims to ensure debris-free space operations for all Indian space actors—governmental and private—by 2030. This initiative aligns with global efforts for space sustainability, highlighting India’s commitment to safety, security, and sustainable use of outer space.\nOption d is correct: The Fram2 Mission, launched via SpaceX’s Dragon spacecraft, is designed to carry out several scientific experiments in space, including the first-ever X-ray experiment in space and mushroom cultivation in microgravity. This mission focuses on research and experimentation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q11",
+      "questionNumber": 11,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "An antibiotic is not useful against a virus whereas a vaccine is.",
+        "Which one of the following is the most appropriate reason for this?"
+      ],
+      "questionText": "An antibiotic is not useful against a virus whereas a vaccine is. Which one of the following is the most appropriate reason for this?",
+      "options": {
+        "a": "An antibiotic can break RNA only, whereas a virus has DNA.",
+        "b": "An antibiotic is a carbohydrate in its chemical nature, whereas a vaccine is a protein which works well to kill a virus.",
+        "c": "Only a vaccine can break the genetic material of a virus.",
+        "d": "A virus does not use biochemical pathways which can be blocked by an antibiotic. But a vaccine can boost an immune system to fight the virus."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Antibiotics target specific biochemical pathways in bacteria, which viruses do not use. Viruses replicate inside host cells, making it challenging for antibiotics to be effective. In contrast, vaccines stimulate the immune system to produce antibodies that can specifically target viruses, helping the body fight off infection. Vaccines boost the immune system’s ability to combat the virus.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2021,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q12",
+      "questionNumber": 12,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following information:",
+        "Animal Class Characteristic",
+        "I. Squirrel Mammal/Mammalia Omnivore",
+        "II. Salamander Amphibian/Ambhibia Primarily Carnivore",
+        "III. Crocodile Reptile/Reptilia Primarily Herbivore In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "Consider the following information: Animal Class Characteristic I. Squirrel Mammal/Mammalia Omnivore II. Salamander Amphibian/Ambhibia Primarily Carnivore III. Crocodile Reptile/Reptilia Primarily Herbivore In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Row I is correct: Squirrel: Squirrels are mammals and generally omnivorous, feeding on nuts, seeds, fruits. Also they regularly consume animal protein, including insects, bird eggs, small rodents, and young snakes.\nRow II is correct: Salamander: They belong to amphibians. Adult salamanders are predatory and feed on a variety of prey including insects, worms, snails, and sometimes smaller amphibians.\nRow III is incorrect: Crocodile: They are cold-blooded, egg-laying reptiles. Crocodiles are carnivorous and are known for hunting fish, birds, and large mammals. They are not herbivores.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo104.pdf Pg: 48-50. https://www.thehindu.com/sci-tech/energy-and-environment/filmmakers-catch-salamanders-in- conversation/article33905421.ece https://www.thehindu.com/sci-tech/energy-and-environment/the-cute-rodent/article30870213.ece"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q13",
+      "questionNumber": 13,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the human liver, which of the following statements is incorrect?"
+      ],
+      "questionText": "With reference to the human liver, which of the following statements is incorrect?",
+      "options": {
+        "a": "It is the largest gland in the human body.",
+        "b": "It secretes bile juice that is stored in a sac called the gall bladder.",
+        "c": "It is capable of natural regeneration of lost tissue.",
+        "d": "It is responsible for the production of Insulin and Glucagon hormones."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Statement a is correct: The liver is the largest gland in the human body and performs multiple metabolic and secretory functions.\nStatement b is correct: The hepatic cells of the liver secrete bile juice. This bile passes through the hepatic ducts and is concentrated and stored in a thin muscular sac called the gall bladder.\nStatement c is correct: The liver is unique among human internal organs for its high capacity for regeneration. The liver has a unique ability to regenerate lost tissue after injury or partial removal.\nStatement d is incorrect: Insulin and Glucagon are hormones that regulate blood sugar levels. They are produced by the Islets of Langerhans in the pancreas. Insulin prompts the liver to store glucose as glycogen, while glucagon prompts the liver to release stored glucose back into the bloodstream.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo116.pdf Pg: 213. https://egyankosh.ac.in/bitstream/123456789/68243/1/Unit-1.pdf Pg: 28 https://egyankosh.ac.in/bitstream/123456789/58298/1/Unit%209%20Endocrine%20System.pdf Pg: 293 https://ncert.nic.in/textbook/pdf/kebo119.pdf -245"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q14",
+      "questionNumber": 14,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: White blood cells (WBCs) are colourless.",
+        "Statement II: White blood cells (WBCs) do not transport oxygen in the human body.",
+        "Statement III: White blood cells (WBCs) lack haemoglobin.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: White blood cells (WBCs) are colourless. Statement II: White blood cells (WBCs) do not transport oxygen in the human body. Statement III: White blood cells (WBCs) lack haemoglobin. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is correct: White blood cells (WBCs) or leukocytes are the colorless and nucleated formed elements of blood (leuko = white or colorless).\nStatement II is correct: The primary function of White Blood Cells (WBCs), or leucocytes, is to act as the body's defense system. They identify and destroy pathogens like bacteria and viruses. The task of transporting oxygen is performed by Red Blood Cells (RBCs).\nBut Statement II does not explain Statement I: As the function of white blood cells doenot explain how White blood cells appear.\n\nStatement III is correct: Haemoglobin is a complex iron-containing protein found in the blood. It has a high affinity for oxygen, allowing it to bind with Oxygen in the lungs and release it in the tissues. While blood cells lack Haemoglobin.\nStatement III explains Statement I: WBCs do not contain haemoglobin, which is why they appear colorless (leucocytes) under a microscope unless stained.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo115.pdf , Pg: 194 https://www.egyankosh.ac.in/bitstream/123456789/104693/3/Unit-8.pdf Pg: 258, 259"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q15",
+      "questionNumber": 15,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Which one of the following best describes ‘Fully Accessible Route (FAR) Bonds’ in India?"
+      ],
+      "questionText": "Which one of the following best describes ‘Fully Accessible Route (FAR) Bonds’ in India?",
+      "options": {
+        "a": "Corporate bonds issued by Indian companies that are fully guaranteed by the Government of India.",
+        "b": "Indian Government securities that allow unrestricted investment by foreign investors without any investment caps.",
+        "c": "Tax-free bonds issued by the public sector undertakings for infrastructure financing such as highway projects.",
+        "d": "Indian Government securities issued under the Liberalised Remittance Scheme for resident Indians."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Fully Accessible Route (FAR) Bonds refer to Indian Government securities (G-Secs) designated under the Fully Accessible Route (FAR). They allow foreign investors unrestricted access to invest in these bonds without any investment caps or limits.\n- Their objective is to enable non-residents to invest in specified Government of India dated securities, thereby bringing more global capital into India’s debt market. Eligible Investors:\n- Foreign Portfolio Investors (FPIs)\n- Non-Resident Indians (NRIs)\n- Overseas Citizens of India (OCIs)\n- Other entities permitted by the RBI",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q16",
+      "questionNumber": 16,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Innate Immunity, consider the following statements:",
+        "I. It is pathogen specific and is characterized by memory.",
+        "II. Tears from the eyes, which restrict microbial growth in the eyes, are a part of innate immunity.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Innate Immunity, consider the following statements: I. It is pathogen specific and is characterized by memory. II. Tears from the eyes, which restrict microbial growth in the eyes, are a part of innate immunity. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Everyday we are exposed to a large number of infectious agents. However, only a few of these exposures result in disease. This is due to the fact that the body is able to defend itself from most of these foreign agents. This overall ability of the host to fight the disease-causing organisms is conferred by our immunity.\nImmunity is of two types: (i) Innate immunity and (ii) Acquired immunity.\n\nStatement I is incorrect. Innate immunity is present from birth. It does not target a specific pathogen. Instead, it acts broadly against all foreign particles. It forms the first line of defence, preventing pathogens from entering or spreading inside the body.\nAcquired immunity, on the other hand, is pathogen specific. It is characterised by memory. This means when our body encounters a pathogen for the first time it produces a response called primary response which is of low intensity. Subsequent encounters with the same pathogen elicits a highly intensified secondary or anamnestic response.\nStatement II is correct. Barriers in innate immunity are mainly:\n- Anatomical (skin, mucous membrane)\n- Physiological (pH, temperature, enzymes like lysozyme) Tears from eyes are a physiological barrier which restrict microbial growth in the eyes, are a part of innate immunity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo107.pdf - Page 134 https://egyankosh.ac.in/bitstream/123456789/93179/3/Unit-2.pdf - Page 30 and 32"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q17",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to T-cells and B-cells in the human immune system, consider the following statements:",
+        "I. T-cells are part of the humoral immune response, whereas B-cells are part of the cell-mediated immune response.",
+        "II. Unlike B-cells, T-cells themself do not produce antibodies.",
+        "III. The B-cells originate and mature in the bone marrow, while T-cells originate in the bone marrow and mature in the thymus.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to T-cells and B-cells in the human immune system, consider the following statements: I. T-cells are part of the humoral immune response, whereas B-cells are part of the cell-mediated immune response. II. Unlike B-cells, T-cells themself do not produce antibodies. III. The B-cells originate and mature in the bone marrow, while T-cells originate in the bone marrow and mature in the thymus. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The acquired immune system is highly specialised. It identifies specific pathogens and remembers them for future encounters. This system works through two major arms. One is the humoral response, mediated by antibodies. The other is the cell-mediated response, driven by specialised immune cells.\nStatement I is incorrect. B-cells are responsible for humoral immunity because they produce antibodies that circulate in the blood. In contrast, T-cells are responsible for cell-mediated immunity, where they directly act on infected or abnormal cells.\nStatement II is correct. B-cells produce antibodies, which are protein molecules that bind to specific antigens. These antibodies circulate in body fluids and help neutralise pathogens. On the other hand, T-cells do not produce antibodies but help B cells to produce them.\nStatement III is correct. Both B-cells and T-cells are formed in the bone marrow from stem cells, and get “trained” i.e. mature in different organs. The “training” or maturing is important as it teaches the cells not to start attacking the body’s own cells. T-cells get trained antenatally (during pregnancy) and for some time after that in the thymus, a small gland present between the lungs only till puberty. B cells are trained in the bone marrow. Thus, B cells mature at bone marrow while the T-cells mature at Thymus.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo107.pdf - Chapter 7 - Human Health and Disease - Immunity - Acquired Immunity - Page 135 https://theprint.in/health/t-cells-b-cells-and-the-range-of-the-human-bodys-immune-response-a-simple- decoder/472593/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q18",
+      "questionNumber": 18,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Which of the following cell organelles possess their own DNA and ribosomes?",
+        "I. Plastids",
+        "II. Mitochondria",
+        "III. Vacuoles",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Which of the following cell organelles possess their own DNA and ribosomes? I. Plastids II. Mitochondria III. Vacuoles Select the correct answer using the code given below.",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n** Option I is correct: Plastids: Plastids, such as chloroplasts are found in plants. The stroma of the chloroplast contains small, double-stranded circular DNA molecules. Plastids are evolved from free-living cyanobacteria and hence retain their own circular DNA and 70S ribosomes.\nOption II is correct: Mitochondria: The mitochondrial matrix contains a single circular DNA molecule and a few RNA molecules. They possess 70S ribosomes, which are similar to those found in prokaryotes. Due to the presence of DNA and ribosomes, mitochondria can synthesize some of their own proteins and divide by fission.\nOption III is incorrect: Vacuoles: Vacuoles are membrane-bound spaces found in the cytoplasm. They are bound by a single membrane called the tonoplast. Vacuoles do not possess their own DNA or ribosomes. They are primarily storage and structural units.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo108.pdf Pg: 88, 96,98 https://egyankosh.ac.in/bitstream/123456789/78126/1/Unit-6.pdf Pg: 138, 148"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q19",
+      "questionNumber": 19,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Cervical Cancer, consider the following statements:",
+        "I. It is primarily caused by persistent infection with certain types of Human Papillomavirus (HPV).",
+        "II. It is the most common cancer among Indian women, responsible for nearly 50% of the country's total female cancer burden.",
+        "III. The Government of India has launched a free nationwide HPV vaccination with the aim to prevent cervical cancer.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Cervical Cancer, consider the following statements: I. It is primarily caused by persistent infection with certain types of Human Papillomavirus (HPV). II. It is the most common cancer among Indian women, responsible for nearly 50% of the country's total female cancer burden. III. The Government of India has launched a free nationwide HPV vaccination with the aim to prevent cervical cancer. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "III only",
+        "c": "I and II only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Cervical cancer is one of the few cancers where prevention is clearly possible through vaccination and early screening. The disease has a strong link with viral infection. That makes it different from many other cancers. In India, it remains a major public health concern, especially among women in the Adolescents and reproductive age group.\nStatement I is correct. Cervical cancer is closely associated with Human Papillomavirus (HPV) infection. Not all HPV types are dangerous. However, certain high-risk types such as HPV-16 and HPV-18 are responsible for the majority of cases. The disease develops slowly. It begins with persistent infection. Over time, this infection may lead to cancerous changes in cervical cells.\nStatement II is incorrect. Cervical cancer is not the most common cancer among women in India. It is the second most common cancer. Even though it is second, the burden is still very high, with a large number of cases and deaths reported annually.\nBreast cancer is the most common cancer in women in India and accounts for 27% of all cancers in women.\n\nStatement III is correct. India launches free nationwide HPV vaccination for 1.15 crore girls aged 14, aiming to prevent cervical cancer. The vaccination is given to young girls at the age of 14, before they become sexually active.\nIndia will use Gardasil, a quadrivalent HPV vaccine, for protection from HPV types 16 and 18, which cause cervical cancer, as well as types 6 and 11.\nUnder India’s partnership with Gavi, the Vaccine Alliance, Gardasil vaccines, which are approved by India’s drug regulator and widely used internationally, have been made available for the national programme.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q20",
+      "questionNumber": 20,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Germanium (Ge) is widely used in semiconductors. In this context, consider the following features of",
+        "Germanium:",
+        "I. It is classified as a metalloid.",
+        "II. It has a diamond-like crystal structure.",
+        "III. It has the highest melting point among all minerals.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Germanium (Ge) is widely used in semiconductors. In this context, consider the following features of Germanium: I. It is classified as a metalloid. II. It has a diamond-like crystal structure. III. It has the highest melting point among all minerals. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** India has recently raised concerns with China regarding export restrictions on germanium, a critical mineral essential for manufacturing semiconductors, fiber optic cables, and solar panels. Germanium has various key features.\nOption I is correct: Germanium is a chemical element classified as a metalloid that has properties intermediate between those of metals and nonmetals.\nOption II is correct: Germanium has a crystalline structure similar to diamond. Option III is incorrect: Germanium has a melting point of approximately 1,100°C (2,000°F). The highest melting point among minerals belongs to Hafnium Carbonitride (HfCN), which exceeds 4,273 K, not Germanium.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q21",
+      "questionNumber": 21,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The lymph is mainly formed from the plasma of blood and it surrounds the cells. The main difference between blood and lymph is:"
+      ],
+      "questionText": "The lymph is mainly formed from the plasma of blood and it surrounds the cells. The main difference between blood and lymph is:",
+      "options": {
+        "a": "Lymph does not contain red blood cells.",
+        "b": "Lymph does not contain white blood cells.",
+        "c": "Lymph contains both red blood cells and white blood cells.",
+        "d": "Lymph does not contain any cells."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Blood and lymph are two of the body’s circulatory fluids. Blood travels via blood arteries & vessels, while lymph travels through lymphatic vessels.\nBlood is composed of red blood cells, white blood cells, platelets and a fluid called plasma. Lymph is composed of white blood cells and a watery fluid. Both blood and lymph possess a circulatory function as well as an immune function.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q22",
+      "questionNumber": 22,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "In the context of ABO grouping of blood, if one parent has blood group AB and the other has blood group O,",
+        "which of the following blood groups are possible in their biological children?",
+        "I. Group A",
+        "II. Group B",
+        "III. Group AB",
+        "IV. Group O",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "In the context of ABO grouping of blood, if one parent has blood group AB and the other has blood group O, which of the following blood groups are possible in their biological children? I. Group A II. Group B III. Group AB IV. Group O Select the correct answer using the code given below.",
+      "options": {
+        "a": "III only",
+        "b": "I and II only",
+        "c": "I, III and IV only",
+        "d": "II, III and IV only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The ABO blood group system is governed by multiple alleles and codominance. Each individual inherits one allele from each parent. The combination determines the blood group.\nOption I is correct. The AB parent has genotype IAIB, while the O parent has genotype ii. If the child inherits IA from the AB parent and i from the O parent, the genotype becomes IAi, which expresses as blood group A.\nOption II is correct. The AB parent has genotype IAIB, while the O parent has genotype ii. If the child inherits IB from the AB parent and i from the O parent, the genotype becomes IBi, which expresses as blood group B.\nOption III is incorrect. To form blood group AB, the child must inherit IA from one parent and IB from the other. However, the O parent can only contribute i allele. Therefore, AB blood group cannot be formed in this case.\nOption IV is incorrect. Blood group O requires genotype ii, meaning the child must receive i allele from both parents. Since the AB parent does not have the i allele, this combination is not possible.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo115.pdf - Chapter 15 - Body Fluids and Circulation – Blood Groups - Page 195; https://www.redcrossblood.org/donate-blood/blood- types.html#:~:text=Blood%20Type%20Determined?- ,How%20Is%20My%20Blood%20Type%20Determined?,Schedule%20an%20Appointment"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q23",
+      "questionNumber": 23,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following organisms:",
+        "I. Jellyfish",
+        "II. Corals",
+        "III. Tapeworms",
+        "How many of the above organisms do not possess a specialised circulatory system for the transport of nutrients and oxygen?"
+      ],
+      "questionText": "Consider the following organisms: I. Jellyfish II. Corals III. Tapeworms How many of the above organisms do not possess a specialised circulatory system for the transport of nutrients and oxygen?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Not all organisms have a well-developed circulatory system like humans. In simpler organisms, the body is designed in such a way that diffusion alone is sufficient for transport of nutrients and gases. As complexity increases, specialised systems become necessary.\nOption I is correct. Jellyfish do not possess a specialised circulatory system. They belong to Cnidaria, where the body is simple and thin. Transport of nutrients and gases happens through diffusion and the gastrovascular cavity.\nOption II is correct. Corals lack a specialised circulatory system. They are again cnidarians and share a similar level of organisation as jellyfish. Their internal cavity helps in distribution, while diffusion handles gas exchange.\nOption III is correct. Tapeworms belong to the phylum Platyhelminthes and are parasitic in nature. They live inside the host’s intestine, where food is already digested. Because of this, they do not require a specialised circulatory system. Nutrients are absorbed directly through their body surface. Similarly, exchange of gases like oxygen and carbon dioxide occurs through simple diffusion across the body wall.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo104.pdf - Chapter 4 - Animal Kingdom - Phylum – Coelenterata (Cnidaria) - Page 41; https://indianexpress.com/article/lifestyle/life-style/animal-live-without-a-heart-9717189/"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q24",
+      "questionNumber": 24,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the evolution of living organisms, consider the following:",
+        "I. Amphibians",
+        "II. Fish",
+        "III. Reptiles",
+        "IV. Mammals What is the correct evolutionary sequence of the above organism starting from the earliest?"
+      ],
+      "questionText": "With reference to the evolution of living organisms, consider the following: I. Amphibians II. Fish III. Reptiles IV. Mammals What is the correct evolutionary sequence of the above organism starting from the earliest?",
+      "options": {
+        "a": "II - I - III - IV",
+        "b": "IV - II - III - I",
+        "c": "I - IV - II - III",
+        "d": "III - IV - I - II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** In evolutionary biology, organisms are arranged based on the gradual complexity and adaptation to land. The transition broadly follows a path from aquatic life → amphibious → terrestrial → highly specialised forms.\nOption II. Fish represent the earliest vertebrates, having evolved in aquatic environments during the early Paleozoic era. They are characterized by the presence of gills for respiration and fins for locomotion, making them fully adapted to life in water. Importantly, fish constitute the ancestral group from which all higher vertebrates subsequently evolved.\nOption I. Amphibians, a group that evolved from fish and marks the first successful transition from aquatic to terrestrial life. Amphibians exhibit a dual life cycle: the larval stage (tadpole) is aquatic and breathes through gills, while the adult develops lungs for life on land. Due to this characteristic, amphibians are regarded as an evolutionary bridge between aquatic and terrestrial organisms.\nOption III. Reptiles, which evolved after amphibians and were the first vertebrates fully adapted to life on land, independent of water for reproduction. This transition was made possible by key evolutionary advancements such as the development of the amniotic egg that prevents desiccation, dry scaly skin that reduces water loss, and well-developed lungs for efficient respiration. Thus, reptiles mark a major step in the successful adaptation to terrestrial environments.\nOption IV. Mammals represent a more recently evolved and highly derived group, characterised by features such as endothermy and complex organ systems. They are placed last in the evolutionary sequence.\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo106.pdf - Chapter 6 - Evolution - A Brief Account of Evolution – Page 121 https://forumias.com/blog/wp-content/uploads/2021/12/Class-11-World-Physical-Geography.pdf - Page 18"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q25",
+      "questionNumber": 25,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The \"Technology and Innovation Report 2025,\" highlighting the global impact of Artificial Intelligence on development and inequality, has been released by which of the following international organizations?"
+      ],
+      "questionText": "The \"Technology and Innovation Report 2025,\" highlighting the global impact of Artificial Intelligence on development and inequality, has been released by which of the following international organizations?",
+      "options": {
+        "a": "World Bank",
+        "b": "World Economic Forum (WEF)",
+        "c": "UN Conference on Trade and Development (UNCTAD)",
+        "d": "Organisation for Economic Co-operation and Development (OECD)"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Technology and Innovation Report 2025 has been released by the United Nations Conference on Trade and Development (UNCTAD).\nThe report focuses on ensuring that Artificial Intelligence (AI) promotes inclusive development and does not worsen global inequalities.\nKnowledge Base: Key Highlights of the Report:\n- AI Market Potential: The global AI market is projected to reach $4.8 trillion by 2033.\n- Job Disruption: AI could affect 40% of jobs worldwide, offering productivity gains but also posing risks of automation-driven job losses.\n- Concentration of R&D and Investment: o Just 100 companies (mainly from the US and China) account for 40% of global corporate R&D spending.\no The US alone contributes 70% of private AI investment.\n- Developers: The US leads in GitHub developers, followed by India and China.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q26",
+      "questionNumber": 26,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Unlike viruses, viroids are incapable of infecting and causing diseases in plants.",
+        "Statement II: Unlike viruses, viroids lacks a protein coat.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Unlike viruses, viroids are incapable of infecting and causing diseases in plants. Statement II: Unlike viruses, viroids lacks a protein coat. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement I Is incorrect: Viroids are the smallest known infectious agents. Viroids are actually plant pathogens and are known to infect a wide range of plants, causing significant agricultural diseases such as potato spindle tuber disease, citrus exocortis, etc. Despite lacking a protein coat, they can replicate within host plant cells using the host’s enzymatic machinery and disrupt normal cellular functions, thereby causing disease.\nStatement II is correct: This identifies the fundamental structural difference between the two. Viruses are nucleoproteins. They consist of a genetic core (DNA or RNA) protected by a protein shell called a capsid.\nViroids are much simpler. They consist solely of a short, circular, single-stranded RNA molecule. They completely lack the protein coat (capsid) that characterizes viruses. Furthermore, the RNA of viroids has a very low molecular weight compared to viral RNA.\nTherefore,\n\nStatement I is not correct but\n\nStatement II is correct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo102.pdf Page: 19-21. https://www.egyankosh.ac.in/bitstream/123456789/106513/1/Unit-4.pdf Page: 74 & 77.77"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q27",
+      "questionNumber": 27,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the process of photosynthesis in plants, consider the following statements:",
+        "I. Photosynthesis involves the use of carbon dioxide and water to synthesise carbohydrates in the presence of light and chlorophyll.",
+        "II. Oxygen released during photosynthesis is produced from the splitting of water molecules in the light reaction.",
+        "III. Water vapour released from leaves is a direct biochemical product formed during the photosynthetic reactions.",
+        "IV. Increasing carbon dioxide concentration always increases the rate of photosynthesis.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the process of photosynthesis in plants, consider the following statements: I. Photosynthesis involves the use of carbon dioxide and water to synthesise carbohydrates in the presence of light and chlorophyll. II. Oxygen released during photosynthesis is produced from the splitting of water molecules in the light reaction. III. Water vapour released from leaves is a direct biochemical product formed during the photosynthetic reactions. IV. Increasing carbon dioxide concentration always increases the rate of photosynthesis. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I, II and IV only",
+        "c": "III and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Photosynthesis is the fundamental biochemical process by which green plants synthesize carbohydrates (mainly glucose) using carbon dioxide (CO₂) and water (H₂O) in the presence of light energy and chlorophyll. The process converts light energy into chemical energy stored in carbohydrates.\nPhotosynthesis is represented by the following overall chemical equation:\n\nStatement II is correct: During the light reactions of photosynthesis, water molecules undergo photolysis (splitting of water) in the thylakoid membranes of chloroplasts. This reaction produces oxygen (O₂), protons (H⁺), and electrons.\nThe oxygen released into the atmosphere during photosynthesis originates from water molecules and not from carbon dioxide.\n\nStatement III is incorrect: Water vapour released from plant leaves is a result of transpiration, which is a physical process involving the evaporation of water through stomata. It is not a direct biochemical product of photosynthesis occurring inside chloroplasts.\nStatement IV is incorrect: The rate of photosynthesis depends on several limiting factors such as light intensity, carbon dioxide concentration, temperature, and enzyme activity. Increasing CO₂ concentration initially increases the rate of photosynthesis; however, beyond a certain level the rate reaches a saturation point because other factors become limiting.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo111.pdf Page: 136. https://nios.ac.in/media/documents/SrSec314NewE/Lesson-11.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q28",
+      "questionNumber": 28,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to cell division, consider the following statements:",
+        "I. Meiosis is primarily associated with growth and repair of the body, whereas mitosis is primarily involved in sexual reproduction through the formation of gametes.",
+        "II. Meiosis gives rise to two genetically identical daughter cells, whereas mitosis produces four genetically distinct daughter cells.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to cell division, consider the following statements: I. Meiosis is primarily associated with growth and repair of the body, whereas mitosis is primarily involved in sexual reproduction through the formation of gametes. II. Meiosis gives rise to two genetically identical daughter cells, whereas mitosis produces four genetically distinct daughter cells. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Cell division is a fundamental biological process by which a parent cell divides to form new daughter cells. It plays a crucial role in the growth, development, reproduction, and maintenance of living organisms. In eukaryotic organisms, cell division primarily occurs through two distinct processes: mitosis and meiosis.\nStatement I is incorrect: The statement reverses the biological roles of mitosis and meiosis:\n- Mitosis occurs in somatic (body) cells and is responsible for growth, repair, and replacement of damaged or worn-out cells.\n- Meiosis, on the other hand, is a specialized form of cell division that occurs in germ cells and is involved in sexual reproduction through the formation of gametes (sperm in male and ova in female).\nStatement II is incorrect: This statement also reverses the outcomes of the two types of cell division:\n- Mitosis produces two genetically identical daughter cells that maintain the same chromosome number as the parent cell.\n- Meiosis involves two successive divisions (Meiosis I and Meiosis II) and produces four genetically distinct haploid daughter cells, due to crossing over an independent assortment of chromosomes, thereby contributing to genetic variation among offspring.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo110.pdf https://www.nios.ac.in/media/documents/secscicour/English/Chapter-21.pdf Page: 44-47."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q29",
+      "questionNumber": 29,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The inner lining of the human small intestine has numerous finger-like projections called :"
+      ],
+      "questionText": "The inner lining of the human small intestine has numerous finger-like projections called :",
+      "options": {
+        "a": "Sphincter",
+        "b": "Villi",
+        "c": "Enzymes",
+        "d": "Plaques"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The inner lining of the small intestine has numerous finger-like projections called villi which increase the surface area for absorption of digested food. The villi are richly supplied with blood vessels which take the absorbed food to each and every cell of the body, where it is utilised for obtaining energy, building up new tissues and the repair of old tissues.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/jesc105.pdf (Page 86)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q30",
+      "questionNumber": 30,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "In the context of Banking, what does the term 'Liquidity Coverage Ratio (LCR)' refer to?"
+      ],
+      "questionText": "In the context of Banking, what does the term 'Liquidity Coverage Ratio (LCR)' refer to?",
+      "options": {
+        "a": "The proportion of highly liquid assets that should be held by banks to meet short-term obligations.",
+        "b": "The ratio of funds set aside by banks to the gross non-performing assets, reflecting their capacity to absorb loan losses.",
+        "c": "The ratio of a bank’s total loans to its total deposits, indicating how much of its deposits are used for lending.",
+        "d": "The percentage of a bank's net demand and time liabilities (NDTL) that must be maintained with the central bank in cash form."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nOption a is correct: Liquidity Coverage Ratio (LCR) is the minimum proportion of High-Quality Liquid Assets (HQLAs) (like cash, government securities, etc.) that banks must hold to meet short term obligations. It was introduced under the Basel III norms.\nIts primary objective is to ensure that banks have enough liquidity to meet sudden cash outflows during a financial crisis.\n\nOption b is incorrect: The ratio of funds set aside by banks to the gross non-performing assets, reflecting their capacity to absorb loan losses.\n- This refers to the Provisioning Coverage Ratio (PCR), not LCR.\n- PCR = (Provisions for NPAs ÷ Gross NPAs) × 100.\n- It indicates how much of bad loans are covered by provisions and shows a bank’s strength in absorbing losses.\nOption c is incorrect: The ratio of a bank’s total loans to its total deposits, indicating how much of its deposits are used for lending.\n- This is known as the Credit-Deposit Ratio (CD Ratio) or Loan-to-Deposit Ratio (LDR), not LCR.\n- It shows the proportion of deposits mobilized by a bank that has been used for lending.\n- Example: A 75% CD ratio means that 75% of deposits are lent out, and 25% are kept in liquid form.\nOption d is incorrect: The percentage of a bank's net demand and time liabilities (NDTL) that must be maintained with the RBI in cash form.\n- This refers to the Cash Reserve Ratio (CRR), not LCR.\n- CRR is the proportion of NDTL that banks must keep with the RBI in cash (no interest paid on it).\n- It is a monetary policy tool used by the RBI to control liquidity and inflation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q31",
+      "questionNumber": 31,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Many transplanted seedlings do not grow because:"
+      ],
+      "questionText": "Many transplanted seedlings do not grow because:",
+      "options": {
+        "a": "The new soil does not contain favorable minerals.",
+        "b": "Most of the root hair grip the new soil too hard.",
+        "c": "Most of the root hairs are lost during transplantation.",
+        "d": "Leaves get damaged during transplantation."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Transplanting is the process of moving a plant from one growing medium to another. Many transplanted seedlings do not grow because most of the root hairs are lost during transplantation.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2013,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2013"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q32",
+      "questionNumber": 32,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Mineral/Vitamin Associated Deficiency Disease",
+        "I. Iron Anaemia",
+        "II. Calcium Osteoporosis",
+        "III. Iodine Goitre",
+        "IV. Vitamin D Scurvy",
+        "How many of the above pairs are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Mineral/Vitamin Associated Deficiency Disease I. Iron Anaemia II. Calcium Osteoporosis III. Iodine Goitre IV. Vitamin D Scurvy How many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Pair I is correctly matched: Iron is a critical mineral for the production of haemoglobin in red blood cells. Its deficiency leads to Anaemia, a condition where the blood lacks enough healthy red blood cells to carry oxygen to the body's tissues.\nPair II is correctly matched: Calcium is essential for maintaining bone density and strength. A long-term deficiency of calcium can lead to Osteoporosis, where bones become porous, weak, and prone to fractures. Pair III is correctly matched: The thyroid gland requires Iodine to produce hormones. When there is a deficiency of iodine, the thyroid gland enlarges in an attempt to compensate, resulting in a swelling in the neck known as Goitre.\nPair IV is incorrectly matched: Scurvy is the deficiency disease associated with Vitamin C, not Vitamin D. A deficiency of Vitamin D typically leads to Rickets in children (softening of bones) and Osteomalacia in adults.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements with respect to fatty acids:",
+        "I. Saturated fatty acids contain no double bonds between carbon atoms while unsaturated fatty acids contain one or more double bonds.",
+        "II. Saturated fatty acids predominate in vegetable oils and unsaturated fatty acids dominate in animal fats.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to fatty acids: I. Saturated fatty acids contain no double bonds between carbon atoms while unsaturated fatty acids contain one or more double bonds. II. Saturated fatty acids predominate in vegetable oils and unsaturated fatty acids dominate in animal fats. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Saturated fatty acids have only single bonds between carbon atoms. These have \"saturated\" the carbon chain with hydrogen atoms. Every carbon atom is connected by a single bond, meaning there are no double bonds. Unsaturated fatty acids contain one or more double bonds between carbon atoms. This is why they are liquid at room temperature.\nStatement II is incorrect: Saturated fatty acids are predominantly found in animal fats such as meat, poultry, whole-milk dairy products (butter, cheese). Unsaturated fatty acids are primarily found in plants and fish.\nExamples include olive oil, sunflower oil, peanut oil.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q34",
+      "questionNumber": 34,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following diseases:",
+        "I. Rabies",
+        "II. Kyasanur Forest Disease (KFD)",
+        "III. Leishmaniasis",
+        "How many of the above are zoonotic diseases?"
+      ],
+      "questionText": "Consider the following diseases: I. Rabies II. Kyasanur Forest Disease (KFD) III. Leishmaniasis How many of the above are zoonotic diseases?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Zoonotic diseases are infections that are naturally transmitted between animals and humans. Many recent outbreaks have shown that human health is closely linked with animal health. This idea is now captured in the concept of “One Health”.\nOption I is correct. Rabies spreads through the bite of infected animals, especially dogs. The virus is present in the saliva of infected animals. Humans get infected when this saliva enters the body through wounds. Thus, it is a classic example of animal-to-human transmission.\nOption II is correct. Kyasanur Forest Disease (KFD) is caused by a virus and is transmitted through ticks, which act as vectors. The virus circulates among monkeys and small mammals, and humans get infected when bitten by infected ticks.\nOption III is correct. Leishmaniasis is caused by a protozoan parasite. It is transmitted through sandflies, with animals like dogs acting as reservoirs in many regions. Thus, the disease involves an animal as host and vector, which makes it a zoonotic disease.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q35",
+      "questionNumber": 35,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following locations in the news as seen recently :",
+        "Place in News Country",
+        "I. Suwayda Syria",
+        "II. Fordow Iran",
+        "III. Petra City Jordan",
+        "IV. Al Udeid Air Base United Arab Emirates",
+        "How many of the above pairs are correctly matched?"
+      ],
+      "questionText": "Consider the following locations in the news as seen recently : Place in News Country I. Suwayda Syria II. Fordow Iran III. Petra City Jordan IV. Al Udeid Air Base United Arab Emirates How many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n** Pair I is correctly matched: Suwayda is located in Syria. It is known for its Druze community, volcanic soil, and ancient ruins. Pair II is correctly matched: Fordow is located in the Qom Province of Iran. It is a critical site for high-grade uranium enrichment, located deep underground. Pair III is correctly matched: Petra, known as the \"Rose Red City,\" is the former capital of the Nabataeans in Jordan. It was recently twinned with India’s Ellora Caves in a cultural agreement.\nPair IV is incorrectly matched: Al Udeid Air Base is the largest US base in the region, but it is located in Qatar (outside Doha), not the UAE. It serves as the forward headquarters for US Central Command (CENTCOM).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q36",
+      "questionNumber": 36,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Red Blood Cells (RBCs) in a healthy adult male human being, consider the following",
+        "statements:",
+        "I. They are the most abundant of all the cells in blood.",
+        "II. They are devoid of nucleus and are biconcave in shape.",
+        "III. They are formed primarily in the spleen.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Red Blood Cells (RBCs) in a healthy adult male human being, consider the following statements: I. They are the most abundant of all the cells in blood. II. They are devoid of nucleus and are biconcave in shape. III. They are formed primarily in the spleen. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Blood is not just a fluid. It is a highly specialised tissue with different types of cells performing distinct functions.\nAmong these, Red Blood Cells (RBCs) play the most vital role in sustaining life. They ensure that oxygen reaches every part of the body.\n\nStatement I is correct. Erythrocytes or red blood cells (RBC) are the most abundant of all the cells in human blood. A healthy adult man has, on an average, 5 millions to 5.5 millions of RBCs mm–3 of blood. It ensures that the body has sufficient capacity to transport oxygen continuously, which is essential for survival.\nStatement II is correct. RBCs are devoid of nuclei in most mammals (including healthy adult male). This absence creates more space inside the cell for haemoglobin, the oxygen-carrying protein. Further, RBCs have a biconcave shape. This shape increases the surface area, allowing efficient exchange of gases. It also helps RBCs move smoothly through narrow capillaries.\nStatement III is incorrect. RBCs are not formed in the spleen. They are produced in the red bone marrow in adults. RBCs have an average life span of about 120 days. After this period, they are destroyed mainly in the spleen, which is often called the graveyard of RBCs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo115.pdf - Chapter 15 - Body Fluids and Circulation - Formed Elements - Page 194"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q37",
+      "questionNumber": 37,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to genetics,",
+        "which one of the following statements best describes ‘Transposons’?"
+      ],
+      "questionText": "With reference to genetics, which one of the following statements best describes ‘Transposons’?",
+      "options": {
+        "a": "They are small circular DNA molecules found in bacteria that replicate independently of chromosomal DNA.",
+        "b": "They are mobile genetic elements that can change their position within the genome, potentially causing mutations.",
+        "c": "They are regulatory DNA sequences that control the initiation of transcription by binding transcription factors",
+        "d": "They are non-coding DNA regions located between genes that are transcribed but not translated into proteins."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nOption a is incorrect: Plasmids are small, circular, double-stranded DNA molecules commonly found in bacteria. They replicate independently of the bacterial chromosome and often carry genes that provide advantages such as antibiotic resistance. However, plasmids are not mobile DNA elements within the chromosome, so they are different from transposons.\n\nOption b is correct: Transposons, often called “jumping genes,” are mobile genetic elements—segments of DNA that have the unique ability to move (transpose) from one location to another within the genome.\n- This movement process is known as transposition. This movement can occur either through a “cut-and-paste” mechanism (where the element is excised and inserted elsewhere) or a “copy-and-paste mechanism”\n(where a copy is inserted at a new site while the original remains in place).\n- They were first discovered by Barbara McClintock in the 1940s while she was studying inheritance patterns in maize (corn), a discovery that eventually earned her a Nobel Prize.\nThey are broadly of two types:\n- DNA transposons – move directly as DNA using the enzyme transposase.\n- Retrotransposons – move via an RNA intermediate, using reverse transcription.\nFunctionally, transposons play a significant role in:\n- Causing mutations by inserting into or disrupting genes-Altering gene expression when inserted near regulatory regions-Genome evolution, as their movement can lead to gene duplication, rearrangements, and increased genetic diversity Although once considered “junk DNA,” transposons are now recognized as important drivers of genetic variation and evolutionary change across organisms.\nOption c is incorrect: Promoters are specific DNA sequences located near the beginning of a gene that serve as binding sites for transcription factors and RNA polymerase. Their primary role is to initiate and regulate transcription, thereby controlling when and how strongly a gene is expressed.\nOption d is incorrect: Introns are non-coding sequences present within genes that are transcribed into precursor messenger RNA (pre-mRNA) but are removed during RNA splicing before translation occurs. After the introns are removed, the remaining coding sequences (exons) are joined together to form the mature mRNA that is translated into a protein.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo110.pdf Page: 180. https://egyankosh.ac.in/bitstream/123456789/81838/1/Unit-9.pdf Page: 179."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q38",
+      "questionNumber": 38,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following:",
+        "I. Haemophilia",
+        "II. Sickle-Cell Anaemia",
+        "III. Cystic Fibrosis",
+        "IV. Thalassemia",
+        "V. Colour Blindness",
+        "How many of the above are generally classified as inherited genetic diseases/disorders?"
+      ],
+      "questionText": "Consider the following: I. Haemophilia II. Sickle-Cell Anaemia III. Cystic Fibrosis IV. Thalassemia V. Colour Blindness How many of the above are generally classified as inherited genetic diseases/disorders?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Genetic diseases, also known as Mendelian disorders, are caused by changes or mutations in a single gene and can be passed down from parents to their children.\nOption I is correct: Haemophilia is a genetic disease because it is a sex-linked recessive disorder that prevents blood from clotting properly. It is primarily passed from a carrier female to her male offspring.\nOption II is correct: Sickle-Cell Anaemia is an autosomal recessive genetic disease that causes red blood cells to become sickle-shaped instead of round. This condition is inherited when both parents are carriers of the defective gene.\nOption III is correct: Cystic Fibrosis is classified as a Mendelian genetic disorder. It is a hereditary condition caused by a mutation in a specific gene.\nOption IV is correct: Thalassemia is an autosomal-linked recessive blood disease and is considered a genetic disorder and can be passed down from parents to children.\nOption V is correct: Colour Blindness is a typically genetic condition that makes it difficult to distinguish between certain colours, often passed down from parents to children.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo104.pdf (page 73-75)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q39",
+      "questionNumber": 39,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following information:",
+        "Disease Causative Agent Vector",
+        "I. Kala-azar Protozoan Female phlebotomine sandfly",
+        "II. Sleeping sickness Bacteria Female Anopheles mosquito",
+        "III. Malaria Protozoan Male and Female tsetse flies",
+        "IV. Dengue Virus Female Aedes aegypti mosquito In how many of the rows given above is the information correctly matched?"
+      ],
+      "questionText": "Consider the following information: Disease Causative Agent Vector I. Kala-azar Protozoan Female phlebotomine sandfly II. Sleeping sickness Bacteria Female Anopheles mosquito III. Malaria Protozoan Male and Female tsetse flies IV. Dengue Virus Female Aedes aegypti mosquito In how many of the rows given above is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Row I is correctly matched: Kala-azar (also known as Visceral Leishmaniasis) is caused by the protozoan parasite Leishmania donovani. It is transmitted to humans through the bite of infected female phlebotomine sandflies. Sandfly of genus Phlebotomus argentipes are the only known vectors of kala-azar in India Row II is incorrectly matched: Sleeping sickness (African Trypanosomiasis) is caused by a protozoan parasite of the genus Trypanosoma (such as Trypanosoma brucei), not bacteria. Sleeping sickness spreads through the bite of a tsetse fly (Glossina species), found only in rural, sub-Saharan Africa Row III is incorrectly matched: Malaria is caused by Plasmodium, a tiny protozoan. The parasite is transmitted to the human body through the bite of an infected female Anopheles mosquito, which acts as the vector.\nRow IV is correctly matched: Dengue is caused by the dengue virus. It is spread to people through the bite of infected Aedes mosquitoes, primarily Aedes aegypti.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo107.pdf (page 131, 134 ) https://ncert.nic.in/textbook/pdf/kebo102.pdf (page 16) https://egyankosh.ac.in/bitstream/123456789/102043/1/Unit- 5.pdf#:~:text=post%2Dkala%2Dazar%20dermal%20leishmaniasis%20(PKDL).,makes%20the%20skin%20dry%20and (page 128) https://ncvbdc.mohfw.gov.in/index4.php?lang=1&level=0&linkid=465&lid=3746"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q40",
+      "questionNumber": 40,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Which of the following represents the correct geographical sequence of maritime features when moving westward from the Sea of Azov towards the Mediterranean Sea?"
+      ],
+      "questionText": "Which of the following represents the correct geographical sequence of maritime features when moving westward from the Sea of Azov towards the Mediterranean Sea?",
+      "options": {
+        "a": "Kerch Strait → Black Sea → Bosporus Strait → Sea of Marmara → Dardanelles Strait → Aegean Sea",
+        "b": "Bosporus Strait → Sea of Marmara → Kerch Strait → Black Sea → Dardanelles Strait → Aegean Sea",
+        "c": "Kerch Strait → Black Sea → Dardanelles Strait → Sea of Marmara → Bosporus Strait → Aegean Sea",
+        "d": "Dardanelles Strait → Sea of Marmara → Bosporus Strait → Black Sea → Kerch Strait → Aegean Sea"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** I. The journey begins at the Sea of Azov, which connects to the Black Sea via the Kerch Strait.\nII. From the Black Sea, ships must pass through the Bosporus Strait to enter the Sea of Marmara. III. The Sea of Marmara is then connected to the Aegean Sea (a part of the Mediterranean) via the Dardanelles Strait (historically known as the Hellespont).\nIV. The Aegean Sea finally opens into the broader Mediterranean Sea.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q41",
+      "questionNumber": 41,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Tooth enamel of humans is made up of:"
+      ],
+      "questionText": "Tooth enamel of humans is made up of:",
+      "options": {
+        "a": "Calcium phosphate",
+        "b": "Sodium hydrogen carbonate",
+        "c": "Sodium hydroxide",
+        "d": "Lactic acid"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Tooth enamel, made up of calcium hydroxyapatite (a crystalline form of calcium phosphate) is the hardest substance in the body. It does not dissolve in water, but is corroded when the pH in the mouth is below 5.5. Bacteria present in the mouth produce acids by degradation of sugar and food particles remaining in the mouth after eating.\nThe best way to prevent this is to clean the mouth after eating food. Using toothpastes, which are generally basic, for cleaning the teeth can neutralise the excess acid and prevent tooth decay",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2025,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q42",
+      "questionNumber": 42,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following organisms with reference to their mode of nutrition:",
+        "I. Bread mould",
+        "II. Penicillium",
+        "III. Button mushroom",
+        "IV. Yeast",
+        "How many of the above are examples of Saprophytes?"
+      ],
+      "questionText": "Consider the following organisms with reference to their mode of nutrition: I. Bread mould II. Penicillium III. Button mushroom IV. Yeast How many of the above are examples of Saprophytes?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Saprophytes are organisms that obtain their nutrition from dead and decaying organic matter. They secrete enzymes to break down complex organic substances into simpler forms, which they can absorb.\nMost fungi are heterotrophic and absorb soluble organic matter from dead substrates and hence are called saprophytes. Option I is correct. Bread mould grows on decaying bread and other organic matter, absorbing nutrients directly from dead material. Its mode of nutrition is saprophytic.\nOption II is correct. Penicillium species grow on decaying fruits, bread, and other organic substrates, secreting enzymes to externally digest the organic matter and absorb nutrients. Its mode of nutrition is saprophytic.\nOption III is correct. Button mushroom (Agaricus bisporus) is cultivated on composted organic matter such as decaying straw and manure, from which it derives its nutrients. Its mode of nutrition is saprophytic.\nOption IV is correct. Yeast (Saccharomyces) is a unicellular fungus that primarily grows on sugars present in fruits, nectar, or molasses. It derives nutrients from dead organic matter, exhibiting a saprophytic mode of nutrition, and can also metabolize sugars anaerobically through fermentation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo102.pdf (P-17/18)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements about xylem tissue in plants:",
+        "I. It transports food from leaves to other parts of the plant.",
+        "II. It allows only unidirectional movement of substances.",
+        "III. It is not present in the roots of a plant.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about xylem tissue in plants: I. It transports food from leaves to other parts of the plant. II. It allows only unidirectional movement of substances. III. It is not present in the roots of a plant. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II only",
+        "c": "I and II only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In plants, tissues made of similar cells performing the same function are called simple permanent tissues, while complex permanent tissues consist of different cell types working together for a common function. Key examples of complex tissues are xylem and phloem. Xylem is a complex vascular tissue in plants responsible primarily for the transport of water and dissolved minerals from roots to aerial parts.\nStatement I is incorrect. Xylem does not transport food; that role belongs to phloem, which distributes sugars and other organic nutrients synthesized in the leaves to all parts of the plant. The primary function of xylem is to transport water and minerals from the roots to the aerial parts of the plant.\nStatement II is correct. Xylem vessels transport water and minerals unidirectionally, from roots to stems and leaves. This upward movement is driven and maintained by mechanisms such as transpiration pull, root pressure, and the cohesion-tension of water molecules.\nStatement III is incorrect. Xylem is present in roots, stems, and leaves, forming the plant’s vascular system. In roots, xylem forms a central core (stele) that facilitates the upward transport of water and minerals to the rest of the plant.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/iesc106.pdf P-64"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q44",
+      "questionNumber": 44,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Blood Pressure in the context of Human Body, consider the following statements:",
+        "I. Blood pressure is a measurement of the force of the blood against the walls of blood vessels (arteries).",
+        "II. A normal blood pressure reading is considered to be 120/80 mm HG, where 120 mm Hg is the diastolic, or resting pressure and 80 mm Hg is the systolic or pumping pressure.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Blood Pressure in the context of Human Body, consider the following statements: I. Blood pressure is a measurement of the force of the blood against the walls of blood vessels (arteries). II. A normal blood pressure reading is considered to be 120/80 mm HG, where 120 mm Hg is the diastolic, or resting pressure and 80 mm Hg is the systolic or pumping pressure. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: Blood pressure is a measurement of the force of the blood against the walls of blood vessels (arteries). The heart functions like a pump: sending blood to all the other parts of the body, supplying oxygen and nutrients to all your cells, and carrying away the waste.\nThe blood is carried through a network of vessels known as arteries and veins. Arteries carry oxygenated blood from the heart to the rest of your body, while veins carry deoxygenated blood from various parts of the body back to the heart. When the heart beats, it pumps blood into the arteries\n- - it is the measurement of this pressure inside the arteries that is the blood pressure.\nStatement II is incorrect: The blood pressure is measured in millimetres of mercury, or mm HG. A normal blood pressure reading is considered to be 120/80 mm HG. Anything above these values is considered unhealthy. In this measurement, 120 mm Hg (millimetres of mercury pressure) is the systolic, or pumping, pressure and 80 mm Hg is the diastolic, or resting, pressure.\nKnowledge Base: According to the Standard Treatment Guidelines for hypertension brought out by the Union Health Ministry in 2016, hypertension, or high blood pressure, should be diagnosed when the blood pressure is persistently above a systolic of 140 mm and/or diastolic of 90 mm.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kebo115.pdf (Page 202) https://www.thehindu.com/sci-tech/health/all-you-need-to-know-about-blood-pressure/article69448928.ece"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q45",
+      "questionNumber": 45,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to viral mutation rates, consider the following statements:",
+        "Statement I: Viruses with RNA genomes mutate and evolve much faster than viruses with DNA genomes.",
+        "Statement II: Unlike in the DNA virus genome, the errors in RNA virus genomes can be corrected by the error- correcting function of cells.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to viral mutation rates, consider the following statements: Statement I: Viruses with RNA genomes mutate and evolve much faster than viruses with DNA genomes. Statement II: Unlike in the DNA virus genome, the errors in RNA virus genomes can be corrected by the error- correcting function of cells. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct. Both DNA and RNA are able to mutate. In fact, RNA being unstable, mutates at a faster rate. Consequently, viruses having RNA genome and having shorter life span mutate and evolve faster. RNA can directly code for the synthesis of proteins, hence can easily express the characters. DNA, however, is dependent on RNA for the synthesis of proteins. The protein-synthesising machinery has evolved around RNA.\nThus, both RNA and DNA can function as genetic material, but DNA, being more stable, is preferred for the storage of genetic information. For the transmission of genetic information, RNA is better.\nStatement II is not correct. The enzymes responsible for copying DNA, collectively known as DNA polymerases, possess this error-correction property, known in technical parlance as ‘proofreading’. On the other hand, the RNA counterparts to DNA polymerases, known as RNA polymerases, do not possess the ability to proofread. As a result, when RNA is the genetic material, the genomes typically tend to be shorter.\nThus, while the errors in DNA virus genomes can be corrected by the error-correcting function of cells in which they replicate, there are no enzymes in cells to correct RNA errors. Therefore, RNA viruses accumulate more genetic changes (mutations) than DNA viruses.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo105.pdf https://indianexpress.com/article/explained/viruses-their-variants-and-vaccines-7164582/ https://www.thehindu.com/sci-tech/science/rna-viruses-polymerase-proofreading-recombination- vaccines/article66664021.ece"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q46",
+      "questionNumber": 46,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "A fleet of drones can map a certain region in 10p hours, where p is a natural number. By what percent should each drone's mapping speed be increased so that a fleet exactly half the original size can complete the mapping in 8p hours?"
+      ],
+      "questionText": "A fleet of drones can map a certain region in 10p hours, where p is a natural number. By what percent should each drone's mapping speed be increased so that a fleet exactly half the original size can complete the mapping in 8p hours?",
+      "options": {
+        "a": "25%",
+        "b": "125%",
+        "c": "150%",
+        "d": "250%"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Let the work of mapping the whole region be 1 unit. Assume:\n- number of drones initially = n-speed of each drone = r units per hour So total rate of the original fleet = nr Given that the fleet completes the work in 10p hours: nr × 10p = 1 So: nr = 1 / (10p) Now the new fleet has half the number of drones: n/2 Let the new speed of each drone be R.\nThis smaller fleet must complete the same work in 8p hours: (n/2) × R × 8p = 1 So: 4npR = 1 Hence: R = 1 / (4np) But from earlier: r = 1 / (10np) Now compare the new speed with the old speed:\nR / r = (1 / 4np) / (1 / 10np) = 10 / 4 = 5 / 2 So: R = (5/2)r This means the new speed is 2.5 times the old speed. Increase in speed: 2.5r − r = 1.5r Percentage increase: (1.5r / r) × 100 = 150%",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q47",
+      "questionNumber": 47,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "How many consecutive zeroes are there at the end of the integer obtained in the product 1³ × 2⁶ × 3⁹ × 4¹² × ... ×",
+        "20⁶⁰?"
+      ],
+      "questionText": "How many consecutive zeroes are there at the end of the integer obtained in the product 1³ × 2⁶ × 3⁹ × 4¹² × ... × 20⁶⁰?",
+      "options": {
+        "a": "126",
+        "b": "138",
+        "c": "150",
+        "d": "162"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The given product is: 1³ × 2⁶ × 3⁹ × 4¹² × ... × 20⁶⁰ The exponent pattern is: x^(3x) A trailing zero is formed by:\n10 = 2 × 5 Since the number of factors of 2 is more than the number of factors of 5, the number of trailing zeroes is determined by the total exponent of 5 in the product.\nIdentify the terms that contribute factors of 5 Among the numbers from 1 to 20, the multiples of 5 are: 5, 10, 15, 20 Count the contribution of 5 from each term For 5: 5^(3×5) = 5¹⁵ Contribution of 5s = 15 For 10: 10^(3×10) = 10³⁰ = (2 × 5)³⁰ Contribution of 5s = 30 For 15: 15^(3×15) = 15⁴⁵ = (3 × 5)⁴⁵ Contribution of 5s = 45 For 20: 20^(3×20) = 20⁶⁰ = (4 × 5)⁶⁰ Contribution of 5s = 60 Add the total number of factors of 5 Total exponent of 5 = 15 + 30 + 45 + 60 = 150 Therefore, the number of trailing zeroes is: 150",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q48",
+      "questionNumber": 48,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "A question is given followed by two Statements I and",
+        "II. Consider the Question and the Statements and mark the correct option.",
+        "Question: How is V related to K?",
+        "Statement I: K’s father is the only son of V’s father.",
+        "Statement II: V is female.",
+        "Which one of the following is correct in respect of the above Question and the Statements?"
+      ],
+      "questionText": "A question is given followed by two Statements I and II. Consider the Question and the Statements and mark the correct option. Question: How is V related to K? Statement I: K’s father is the only son of V’s father. Statement II: V is female. Which one of the following is correct in respect of the above Question and the Statements?",
+      "options": {
+        "a": "The Question can be answered by using one of the Statements alone, but cannot be answered using the other statement alone.",
+        "b": "The Question can be answered by using either Statement alone.",
+        "c": "The Question can be answered by using both the Statements together, but cannot be answered using either Statement alone.",
+        "d": "The Question cannot be answered even using any of the Statements."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Check Statement I alone: K’s father is the only son of V’s father. This means:\n- V’s father has exactly one son.\n- That only son is K’s father. Now two possibilities arise: 1. V is male: Then V himself may be the only son of V’s father.\n2. In that case, V is K’s father. 3. V is female: Then the only son of V’s father is V’s brother, and that brother is K’s father. 4. In that case, V is K’s paternal aunt. So, Statement I alone is not sufficient. Check Statement II alone V is female. This only tells us the gender of V. So Statement II alone is not sufficient.\nCheck Statements I and II together From Statement I: K’s father is the only son of V’s father. From Statement II: V is female. Since V is female, V cannot be the only son. Therefore, the only son of V’s father must be V’s brother. That brother is K’s father.\nSo V is the sister of K’s father, which means: V is K’s paternal aunt. Thus, both statements together are sufficient.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q49",
+      "questionNumber": 49,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Directions for the following 2 (two) items:",
+        "Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only",
+        "Passage - 1 To encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile.",
+        "The author’s assumption about scientific research is that"
+      ],
+      "questionText": "Directions for the following 2 (two) items: Read the following passage and answer the items that follow the passage. Your answers to these items should be based on the passage only Passage - 1 To encourage research is one of the functions of a university. Contemporary universities have encouraged research, not only in those cases where research is necessary, but on all sorts of entirely unprofitable subjects as well. Scientific research is probably never completely valueless. However silly and insignificant it may seem, however mechanical and unintelligent the labours of the researchers, there is always a chance that the results may be of value to the investigator of talent, who can use the facts collected for him by uninspired but industrious researchers as the basis of some fruitful generalization. But where research is not original, but consists in the mere rearrangement of existing materials, where its object is not scientific but literary or historical, then there is a risk of the whole business becoming merely futile. The author’s assumption about scientific research is that",
+      "options": {
+        "a": "It is never very valuable",
+        "b": "It is sometimes very valuable",
+        "c": "It is never without some value",
+        "d": "It is always very valuable"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: The passage states that science research is probably never completely valueless, implying that scientific research always has some value, even if it seems silly or insignificant.\nOption a is incorrect: The passage does not suggest that scientific research is never very valuable.\n\nOption b is incorrect: The passage implies that scientific research is always of some value, not just sometimes.\nOption d is incorrect: The passage does not assert that scientific research is always very valuable, only that it always has some value.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-science-test14-q50",
+      "questionNumber": 50,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "According to the author"
+      ],
+      "questionText": "According to the author",
+      "options": {
+        "a": "Not many research results can be of value to an intelligent investigator",
+        "b": "A research result is always valuable to an intelligent investigator",
+        "c": "Any research result can be of value to an intelligent investigator",
+        "d": "A research result must always be of some value to an intelligent investigator"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nOption c is correct: The passage suggests that any scientific research result can be of value to an intelligent investigator, who may use the facts collected by others to make fruitful generalizations.\nOption a is incorrect: The passage implies that many research results can be valuable to an intelligent investigator not the opposite of it.\n\nOption b is incorrect: The passage does not claim that a research result is always valuable to an intelligent investigator, only that it can be.\nOption d is incorrect: The passage suggests that research results can be valuable but does not state that they must always be of some value.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

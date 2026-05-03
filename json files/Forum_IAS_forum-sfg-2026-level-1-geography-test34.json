@@ -1,0 +1,1939 @@
+{
+  "id": "forum-sfg-2026-level-1-geography-test34",
+  "title": "Test 34- L1 SFG 2026 - Sectional - Geography",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q01",
+      "questionNumber": 1,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "Consider the following characteristics of a cloud type:",
+        "1. They are born through convection.",
+        "2. Only cloud type that can produce hail, thunder and lightning.",
+        "3. They are large cauliflower-shaped towers, often anvil tops’.",
+        "Identify the type of cloud on the basis of the given characteristics."
+      ],
+      "questionText": "Consider the following characteristics of a cloud type: 1. They are born through convection. 2. Only cloud type that can produce hail, thunder and lightning. 3. They are large cauliflower-shaped towers, often anvil tops’. Identify the type of cloud on the basis of the given characteristics.",
+      "options": {
+        "a": "Stratocumulus",
+        "b": "Cumulonimbus",
+        "c": "Cirrocumulus",
+        "d": "Nimbostratus"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Cumulonimbus clouds are born through convection, which is the upward movement of warm, moist air.**They are **known for producing hail, thunder, and lightning, making them the only cloud type associated with these weather **phenomena**. Cumulonimbus clouds are characterized by their large cauliflower-shaped towers and often have anvilshaped tops due to their vertical development.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q02",
+      "questionNumber": 2,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "With reference to the atmospheric pressure in the lower atmosphere, consider the following statements:",
+        "Statement I: The atmospheric pressure increases rapidly with height.",
+        "Statement II: The weight of the overlying air column decreases progressively with increase in height.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the atmospheric pressure in the lower atmosphere, consider the following statements: Statement I: The atmospheric pressure increases rapidly with height. Statement II: The weight of the overlying air column decreases progressively with increase in height. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Atmospheric pressure is the weight of a column of air contained in a unit area from the mean sea level to the top of the atmosphere. The air pressure is measured by a Barometer. The atmospheric pressure measuring unit is Millibar (mb). The standard sea level atmospheric pressure is 1013.2 mb.**\n\nStatement I is incorrect:**In the lower atmosphere the pressure decreases rapidly with height.**The decrease amounts to about 1 mb for each 10 m increase in elevation. It does not always decrease at the same rate. When a person climbs a mountain, the air gets thinner than in the plain below. As a result, the air pressure is lower, and there is less oxygen available for lungs to take in.**As altitude rises, air pressure drops. **In other words, if the indicated altitude is high, the air pressure is low.**\n\nStatement II is correct: **Atmospheric pressure decreases with height as it depends on the weight of the overlying air coloumn.**As altitude (height) increases, the weight of the overlying air column decreases, resulting in decrease in **atmospheric pressure. **The height of the air column is maximum at sea-level and that's why pressure of air is greater at ground level than less pressure at higher elevations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/gees102.pdf (Pg. 34 - 35) https://ncert.nic.in/textbook/pdf/kegy209.pdf (Pg. 76) https://egyankosh.ac.in/bitstream/123456789/79919/1/Unit-5.pdf (Pg. 103). https://egyankosh.ac.in/bitstream/123456789/103162/3/Unit-6.pdf (Pg. 109 - 110) https://www.nios.ac.in/media/documents/316-New/Book-1/Ch-7.pdf (Pg. 142)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q03",
+      "questionNumber": 3,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "In the context of composition of atmospheric gases in dry air, which among the following gases is the most abundant in terms of percentage by volume?"
+      ],
+      "questionText": "In the context of composition of atmospheric gases in dry air, which among the following gases is the most abundant in terms of percentage by volume?",
+      "options": {
+        "a": "Hydrogen",
+        "b": "Helium",
+        "c": "Methane",
+        "d": "Argon"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption d is correct:**Gases of atmosphere are, broadly, divided into two groups i.e. permanent and variable gases. Nitrogen, Oxygen, Argon, Neon, Helium, Hydrogen, and Xenon are permanent gases and Carbon dioxide, Methane, Nitrous oxide, Ozone and Chlorofluorocarbons (CFCs) are variable gases. Among the given gases, the**sequence of **gases from highest to lowest concentration is: Argon-Carbon dioxide-Methane-Hydrogen. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q04",
+      "questionNumber": 4,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "With reference to water vapour in the atmosphere, consider the following statements:",
+        "I. In tropical regions, water vapour constitutes about 25% of the air by volume.",
+        "II. The total water vapor content in the atmosphere generally decreases from the equator towards the poles.",
+        "III. The infrared waves are absorbed by the water vapour present in the lower atmosphere.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to water vapour in the atmosphere, consider the following statements: I. In tropical regions, water vapour constitutes about 25% of the air by volume. II. The total water vapor content in the atmosphere generally decreases from the equator towards the poles. III. The infrared waves are absorbed by the water vapour present in the lower atmosphere. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "II only",
+        "b": "I and II",
+        "c": "II and III",
+        "d": "III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Gaseous form of water present in the atmosphere is called water vapour. Water vapour present in the atmosphere has made life possible on the earth. Water vapour is the source of all kinds of precipitation.**\n\nStatement I is incorrect: **Water vapour is a variable gas in the atmosphere, which decreases with altitude. In the warm and**wet tropics, it may account for four per cent of the air by volume**, while in the dry and cold areas of desert and polar regions, it may be less than one per cent of the air.**\n\nStatement II is correct:**Equatorial regions receive the**maximum solar insolation**, which leads to higher temperatures and increased evaporation. Warm air has a greater capacity to hold moisture, so the**absolute humidity **is highest near the equator**. As we move towards the poles, temperatures decrease and evaporation reduces, meaning that**cold polar air holds much less water vapor**. Therefore,**the total water vapor content in the atmosphere **decreases from the equator towards the poles.**\n\nStatement III is correct: Water vapor is a potent absorber of infrared radiation, particularly in certain wavelength **bands**. In the lower atmosphere, where water vapor concentration is relatively higher, it absorbs a significant amount of infrared radiation emitted by the Earth’s surface. This absorption contributes to the greenhouse effect and plays a crucial role in regulating the Earth’s temperature.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=7-16%20Pg:%2064 (Pg. 64) https://nios.ac.in/media/documents/316courseE/ch9.pdf (Pg. 166) https://www.pib.gov.in/PressReleasePage.aspx?PRID=2212322&reg=3&lang=2"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q05",
+      "questionNumber": 5,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "Under which of the following condition(s) are the occluded fronts created?",
+        "1. When the front remains stationary.",
+        "2. When cold air mass moves to warm air mass.",
+        "3. When warm air mass moves to cold air mass.",
+        "4. When an air mass is fully lifted above the land surface.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Under which of the following condition(s) are the occluded fronts created? 1. When the front remains stationary. 2. When cold air mass moves to warm air mass. 3. When warm air mass moves to cold air mass. 4. When an air mass is fully lifted above the land surface. Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 and 2",
+        "b": "2 and 3",
+        "c": "3 and 4",
+        "d": "4 only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement 1 is incorrect\n- **A**stationary front **is a front that is**not moving**, so it cannot create an**occluded front. **\n\nStatement 2 is incorrect\n- **A**cold air mass **moving to a**warm air mass **can create a**cold front**, but not an occluded front.**\n\nStatement 3 is incorrect\n- **A**warm air mass **moving to a**cold air mass **can create a**warm front, **but not an occluded front.**\n\nStatement 4 is correct\n- **An**occluded front **is a weather front that forms when a**cold air mass overtakes a warm air **mass. **The cold front moves**faster **than the warm front, so it eventually catches up to and**lifts the warm air mass up ** and over the cold air mass. This creates a complex weather system with a variety of precipitation types.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2015,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q06",
+      "questionNumber": 6,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "With reference to the structure of atmosphere, consider the following statements about Ionosphere:",
+        "I. The radio waves transmitted from the earth are reflected back to the earth by this layer.",
+        "II. The lowest temperatures in the Earth’s atmosphere are recorded in the ionosphere.",
+        "III. The interaction between the charged particles from the Sun and the molecule of the air present in the ionosphere leads to the creation of Auroras on Earth.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the structure of atmosphere, consider the following statements about Ionosphere: I. The radio waves transmitted from the earth are reflected back to the earth by this layer. II. The lowest temperatures in the Earth’s atmosphere are recorded in the ionosphere. III. The interaction between the charged particles from the Sun and the molecule of the air present in the ionosphere leads to the creation of Auroras on Earth. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The ionosphere is located between 80 and 400 km above the mesopause.**It contains electrically charged particles **known as ions, and hence, it is known as ionosphere. **The radiant energy from the sun composed of ultra violet rays, α, β and γ rays heat and ionize the gases present in the earth’s atmosphere; thereby, generating free electrons, and positive and negative ions. This process of ionization is aided by cosmic radiation and meteors.**\n\nStatement I is correct:**The**ionosphere **contains a**high concentration of free electrons and ions**formed due to solar radiation. These charged particles are capable of**reflecting certain frequencies of radio waves back towards the **Earth’s surface**, which makes**long-distance radio communication possible**beyond the horizon.**\n\nStatement II is incorrect:**The**lowest temperatures**in the Earth’s atmosphere are**not found in the ionosphere. **They**occur in the mesosphere**, particularly near the**mesopause,**where temperatures can fall to around –90°C. The temperature decreases due to the rapidly decreasing density of air at this altitude.**\n\nStatement III is correct: Aurora Borealis**(northern lights) and**Aurora Australis**(southern lights)**occur**when**charged particles from the solar wind**, guided by the Earth’s magnetic field,**collide with ionised gases in the **ionosphere**, producing characteristic light emissions, mainly over high-latitude (polar) regions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=7-16 Page: 65. https://egyankosh.ac.in/bitstream/123456789/12738/1/Unit-3.pdf Page: 39."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q07",
+      "questionNumber": 7,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "With reference to temperature inversion, consider the following statements:",
+        "I. It refers to a phenomenon where the air temperature decreases with increasing altitude instead of increasing in the lower layer of the atmosphere.",
+        "II. A shorter winter night with overcast skies and strong surface winds provides ideal conditions for temperature inversion.",
+        "III. Over the polar regions, temperature inversion is normal throughout the year.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to temperature inversion, consider the following statements: I. It refers to a phenomenon where the air temperature decreases with increasing altitude instead of increasing in the lower layer of the atmosphere. II. A shorter winter night with overcast skies and strong surface winds provides ideal conditions for temperature inversion. III. Over the polar regions, temperature inversion is normal throughout the year. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is incorrect:**Normally, temperature decreases with increase in elevation. It is called normal lapse rate. At times, the situation is reversed and the normal lapse rate is inverted. It is called Inversion of temperature. Thus the**temperature inversion**refers to a**reversal of this normal lapse rate**, where**temperature increases with altitude in **the lower layers. **- It usually forms due to**intense radiational cooling of the Earth’s surface**, leading to colder, denser air remaining near the ground and warmer air above, thereby**suppressing vertical air movement **and trapping pollutants near the surface.**\n\nStatement II is incorrect: **A**long winter night**with** clear skies**and**still air**is an ideal situation for inversion. However, overcast skies reduce radiational cooling, and strong surface winds enhance mixing, both of which inhibit the formation of inversion. Therefore, the**conditions mentioned in the statement are not ideal for temperature **inversion. **\n\nStatement III is correct: **In**polar regions**, weak solar insolation, long nights, and strong surface cooling make**temperature inversion normal throughout the year. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 73."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q08",
+      "questionNumber": 8,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Cyclones",
+      "statementLines": [
+        "With reference to Tornadoes, consider the following statements:",
+        "I. They generally occur in the middle latitudes.",
+        "II. They are characterised by a violently spiralling column of air with very low pressure at the centre.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Tornadoes, consider the following statements: I. They generally occur in the middle latitudes. II. They are characterised by a violently spiralling column of air with very low pressure at the centre. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **A**tornado**is a**violent, localized atmospheric phenomenon**that develops from**severe thunderstorms**, particularly**cumulonimbus clouds**. It appears as a**rapidly rotating, funnel-shaped column of air **extending from the cloud base to the Earth’s surface, with extremely low pressure at its core. Tornadoes are**short-lived**but**highly destructive**due to their very high wind speeds.** Tornado **\n\nStatement I is correct:**Tornadoes generally occur in the middle latitudes,**where strong**atmospheric instability**exists due to the**interaction of warm, moist tropical air and cold, dry polar air**. This contrast leads to the development of**severe thunderstorms**, particularly supercell thunderstorms, which**provide the necessary **conditions**, such as strong updrafts and wind shear for**tornado formation. **\n\nStatement II is correct: **A tornado is defined by a**violently rotating (spiralling) column of air**that extends from a**thunderstorm cloud (cumulonimbus)**to the ground. The**pressure at the centre is extremely low**, which, along with very high wind speeds, results in intense suction and destructive force along its narrow path.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 Page: 84 https://egyankosh.ac.in/bitstream/123456789/70611/1/Unit-4.pdf Page: 74."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q09",
+      "questionNumber": 9,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "With reference to dust particles in the atmosphere, consider the following statements:",
+        "I. The concentration of dust particles in the atmosphere is generally higher in subtropical and temperate regions than in equatorial regions.",
+        "II. They act as hygroscopic nuclei around which water vapour condenses to produce clouds.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to dust particles in the atmosphere, consider the following statements: I. The concentration of dust particles in the atmosphere is generally higher in subtropical and temperate regions than in equatorial regions. II. They act as hygroscopic nuclei around which water vapour condenses to produce clouds. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Dust particles in the atmosphere originate from a variety of natural sources. These include sea salts, fine soil, smoke-soot, ash, pollen, dust and disintegrated particles of meteors.**\n\nStatement I is correct:**Dust particles**are generally**concentrated in the lower layers of the atmosphere**, though convectional air currents can transport them to higher altitudes. - Their**concentration is found to be higher in subtropical and temperate regions**due to the prevalence of dry conditions, sparse vegetation, deserts, and strong dry winds, which facilitate dust lifting and suspension. - In contrast,**equatorial regions**experience heavy rainfall and**polar regions**have limited dust sources, leading to**lower dust concentrations.**\n\nStatement II is correct: Dust and salt particles act as hygroscopic nuclei**, around which water vapour condenses to form cloud droplets.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=7-16 Page: 65."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q10",
+      "questionNumber": 10,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "Suppose there are two cities in India (City A and B). If the humidity in city A is at 52% while in city B it is 84%, assuming the air temperature is same in both the cities. In this context, consider the following statements:",
+        "I. People in City B will experience more sweating than people in city A.",
+        "II. The perceived temperature in city B will be higher than that in city A.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Suppose there are two cities in India (City A and B). If the humidity in city A is at 52% while in city B it is 84%, assuming the air temperature is same in both the cities. In this context, consider the following statements: I. People in City B will experience more sweating than people in city A. II. The perceived temperature in city B will be higher than that in city A. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **\n\nStatement I is correct: **Under similar air temperature conditions,**people in City B tend to sweat more than those in **City A**. This is because sweating is the body’s physiological response to dissipate excess heat, and in humid environments the body needs to produce more sweat to attempt cooling.**\n\nStatement II is correct:**The perceived (apparent) temperature in City B will be higher than in city B **under similar air temperature conditions. - Perceived temperature (also called**heat index**or \"**feels like\" temperature**) accounts for how humidity affects comfort. -**Higher humidity**increases**the**apparent temperature**. High humidity makes the same air temperature feel significantly hotter because the body cannot cool efficiently via sweat evaporation. - Even when the actual air temperature is the same, the**body feels hotter in City B than in City A, triggering **greater sweating** as a thermoregulatory response.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?gees1=2-12 (Page 37-38) https://www.thehindu.com/sci-tech/energy-and-environment/we-sweat-more-in-humid-conditions- why/article6982888.ece https://timesofindia.indiatimes.com/life-style/health-fitness/health-news/this-is-what-humidity-does-to-the- body/articleshow/113172288.cms"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q11",
+      "questionNumber": 11,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans.",
+        "Statement II: In January, the air over the oceans is warmer than that over the landmasses in the Northern",
+        "Hemisphere.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In January, in the Northern Hemisphere, the isotherms bend equatorward while crossing the landmasses, and poleward while crossing the oceans. Statement II: In January, the air over the oceans is warmer than that over the landmasses in the Northern Hemisphere. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct. In January, the Northern Hemisphere’s large landmasses cool down rapidly, leading to **lower temperatures. **Isotherms**shift southward (towards the equator) over the continents. **In contrast, o**ceans **retain heat longer, **so the isotherms**bend northward (poleward) **when passing over oceans like the North Atlantic, where warm currents like the Gulf Stream increase the surrounding air temperature.**\n\nStatement II is correct and explains statement I. **Due to the high specific heat capacity of water, oceans cool down more slowly than land. Therefore,**in winter (January), the marine areas remain warmer than the adjacent **continental interiors.** Because of this temperature contrast the isotherms bend equatorward while crossing the landmasses and poleward while crossing the oceans in the month of January in the northern hemisphere.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q12",
+      "questionNumber": 12,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Cyclones",
+      "statementLines": [
+        "With reference to Extra Tropical cyclones, consider the following statements:",
+        "I. Unlike tropical cyclones, they can originate over both land and sea.",
+        "II. They derive their energy from horizontal temperature differences in the atmosphere.",
+        "III. The wind velocity in extra-tropical cyclones is much higher than that of tropical cyclones.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Extra Tropical cyclones, consider the following statements: I. Unlike tropical cyclones, they can originate over both land and sea. II. They derive their energy from horizontal temperature differences in the atmosphere. III. The wind velocity in extra-tropical cyclones is much higher than that of tropical cyclones. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II",
+        "c": "II only",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Extra-tropical cyclones are weather disturbances that develop in the temperate and high-latitude regions beyond the tropics and are therefore also known as mid-latitude cyclones. Extra tropical cyclones form along the polar front**\n\nStatement I is correct: **As extra tropical cyclones form along the polar front, hence they** can originate over both the **land and sea. **\n\nStatement II is correct: Extratropical Cyclones derive much of their energy from the ambient horizontal **temperature (and associated density) difference (gradient) in the atmosphere. **This gradient provides potential energy that is converted into kinetic energy in the form of strong rotational winds. \n\nStatement III is incorrect:**The extra tropical cyclone differs from the tropical cyclone in a number of ways.**The wind **velocity in a tropical cyclone is much higher and it is more destructive than an extra tropical cyclone. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16- Pg: 82 https://egyankosh.ac.in/bitstream/123456789/70611/1/Unit-4.pdf - Page no 67"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q13",
+      "questionNumber": 13,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "If the Earth was without any atmosphere, which of the following consequence(s) would most likely be observed?",
+        "I. The sky would appear dark even during daytime.",
+        "II. Earth would receive uniform solar radiation across all latitudes throughout the year.",
+        "III. The propagation of sound waves will be extremely difficult.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "If the Earth was without any atmosphere, which of the following consequence(s) would most likely be observed? I. The sky would appear dark even during daytime. II. Earth would receive uniform solar radiation across all latitudes throughout the year. III. The propagation of sound waves will be extremely difficult. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct:**The**blue colour of the sky**is due to**Rayleigh scattering of sunlight**by atmospheric gases**. If **the Earth had no atmosphere**,**no scattering of sunlight would take place.**As a result, only direct sunlight would be visible, while the rest of the sky would remain dark**,**as observed on the Moon. \n\nStatement II is incorrect:**The latitudinal variation in solar radiation is mainly controlled by the**angle of incidence of **solar rays**, the**spherical shape of the Earth**, and the**axial tilt**(23.5°) of **the Earth, not by the presence of the atmosphere. Even**without an atmosphere**, regions near the**equator would still receive more direct solar rays**, while higher latitudes would receive oblique rays. Hence,**solar radiation would not be uniform across latitudes or seasons. **\n\nStatement III is correct:**Sound waves**are mechanical waves that**require a material medium**(such as air, water, or solids)**to travel**.**In the absence of an atmosphere**, there would be no air to transmit sound, making**sound **propagation over Earth’s surface will be extremely difficult. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 68. https://timesofindia.indiatimes.com/science/did-you-know-the-real-reason-why-the-sky-is-blue-and-space-is- dark/articleshow/125946524.cms https://egyankosh.ac.in/bitstream/123456789/29622/1/Unit-3.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q14",
+      "questionNumber": 14,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "With reference to the spatial distribution of insolation at the Earth’s surface, consider the following statements:",
+        "I. The maximum amount of insolation received at the Earth’s surface is observed over the subtropical desert regions rather than over the equatorial belt.",
+        "II. At the same latitude, the amount of insolation received over continents is generally higher than that received over oceans.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the spatial distribution of insolation at the Earth’s surface, consider the following statements: I. The maximum amount of insolation received at the Earth’s surface is observed over the subtropical desert regions rather than over the equatorial belt. II. At the same latitude, the amount of insolation received over continents is generally higher than that received over oceans. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**spatial distribution of insolation at the Earth’s surface**refers to the**uneven receipt of solar radiation across **different regions of the Earth. **The insolation received at the surface varies from about 320 Watt/m2 in the tropics to about 70 Watt/m2 in the poles. It is primarily governed by factors such as latitude, angle of incidence of the Sun’s rays, duration of daylight, atmospheric transparency, cloud cover, and the nature of the underlying surface (land or water).**\n\nStatement I is correct:**The**maximum amount of insolation**is**received over the subtropical deserts**rather than over the equatorial belt. - Although the Sun’s rays are nearly vertical over the**equatorial belt**for much of the year, the actual amount of insolation received at the Earth’s surface there is reduced due to**persistent cloud cover, high humidity**, and**frequent convectional rainfall**. Therefore,**Equator receives comparatively less insolation than the tropics**. - In contrast, the**subtropical desert regions**(approximately 15°–30° latitudes) lie under the influence of**subtropical high-pressure belts**, where**descending air, clear skies, and very low cloud cover prevail.**These conditions allow a larger proportion of incoming solar radiation to reach the ground, resulting in**maximum **surface insolation.**\n\nStatement II is correct: At the same latitude, continents generally receive more insolation than oceans due to: **- Lower cloud cover over land compared to oceans, as oceans promote evaporation and cloud formation. - Less reflection and absorption by water vapour over continents. Therefore,**land areas receive relatively higher insolation than adjacent oceanic regions at the same latitude.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 68."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q15",
+      "questionNumber": 15,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "In the Hadley cell thermal circulation, air rises up and finally descends at"
+      ],
+      "questionText": "In the Hadley cell thermal circulation, air rises up and finally descends at",
+      "options": {
+        "a": "Intertropical convergence zone",
+        "b": "Doldrums",
+        "c": "Sub-tropical high-pressure cells",
+        "d": "Equatorial troughs"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **In the Hadley cell thermal circulation, the air**descends at sub-tropical high-pressure cells**. The Hadley cell operates between the equator and subtropics, with warm air rising at the intertropical convergence zone.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2020,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2020"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q16",
+      "questionNumber": 16,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "With reference to the heat budget of the Planet Earth, consider the following statements:",
+        "I. Over a long period of time, the amount of heat received by the Earth in the form of insolation equals the amount of heat lost by the Earth through terrestrial radiation.",
+        "II. More than one-fourth of the incoming solar radiation is reflected by the clouds before it reaches the Earth’s surface.",
+        "III. There is generally net radiation surplus near the polar regions of the Earth.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the heat budget of the Planet Earth, consider the following statements: I. Over a long period of time, the amount of heat received by the Earth in the form of insolation equals the amount of heat lost by the Earth through terrestrial radiation. II. More than one-fourth of the incoming solar radiation is reflected by the clouds before it reaches the Earth’s surface. III. There is generally net radiation surplus near the polar regions of the Earth. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. The Earth continuously receives energy from the Sun and continuously loses energy back to space. If this incoming and outgoing energy were not broadly balanced, the Earth would either keep heating up or cooling down endlessly. The concept of Earth’s**heat budget**explains how this balance is achieved at the planetary level, even though regional imbalances exist.**\n\nStatement I is correct**. Over a long period of time, the Earth maintains a**state of overall energy balance**. The incoming solar radiation(aka insolation) is in the form of**short-wave radiation**, while the outgoing energy is emitted as**long-wave terrestrial radiation**. Although there are daily, seasonal and regional variations,**the long-term global **average of incoming and outgoing energy remains equal**. This balance ensures relative stability in Earth’s mean temperature.**\n\nStatement II is correct**. A significant portion of insolation does not heat the Earth’s surface at all. Roughly**35 per cent**of incoming solar radiation is reflected back to space. Clouds**are the single most important **contributor to reflection**(27% of insolation) due to their high albedo.**\n\nStatement III is incorrect**. The polar regions receive**highly slanting solar rays **reducing the energy received per unit of area; for example polar regions on an average receive** 70 Watt/m2**vis-a-vis**320 Watt/m2**in the tropics. Moreover, polar areas experience long periods of darkness during polar winters, and have extensive snow and ice cover. As a result,**energy loss exceeds energy gain**in these regions. Therefore, the polar regions are characterised by a**net **radiation deficit**, not a surplus. In contrast, the**surplus of net radiation**is found in the**low latitudes**, especially near the equator.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 - Fundamentals of Physical Geography - Solar Radiation, Heat Balance and Temperature - Heat Budget of the Planet Earth – Page 69"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q17",
+      "questionNumber": 17,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "With reference to the variation of temperature over land and sea surfaces, what is the primary reason that large water bodies heat up and cool down much more slowly than land surfaces?"
+      ],
+      "questionText": "With reference to the variation of temperature over land and sea surfaces, what is the primary reason that large water bodies heat up and cool down much more slowly than land surfaces?",
+      "options": {
+        "a": "Water bodies are less exposed to incoming solar radiation than land surfaces.",
+        "b": "Land surfaces lose more heat through evaporation than water bodies.",
+        "c": "The higher albedo of water surfaces reflects the majority of incoming solar radiation.",
+        "d": "Water has higher specific heat capacity compared to land surfaces."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**.**Land and water respond differently to heating and cooling**, which directly affects local climate. The specific** heat capacity**of water is 2.5 times higher than landmass, which means it requires a large amount of heat to raise its temperature per**°C**. As a result ,water takes longer to get heated up and cool down. For the same amount of solar energy received, land surfaces heat up quickly, while water bodies warm up slowly. Similarly, when heat is lost, land cools down rapidly, but water releases heat gradually. This property allows seas and oceans to act as**thermal regulators**, thereby moderating temperatures of nearby coastal regions through sea and land breezes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 - Fundamentals of Physical Geography - Solar Radiation, Heat Balance and Temperature - Temperature – Distance from the sea - Page 70 https://egyankosh.ac.in/bitstream/123456789/59039/1/Unit3_Ecological%20Factors%20Light%20and%20Temper ature.pdf pg 83"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q18",
+      "questionNumber": 18,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "World Climatic Regions",
+      "statementLines": [
+        "With reference to the Tropical Wet Climate, consider the following statements:",
+        "I. It is characterized by high temperatures throughout the year with a low annual range of temperature.",
+        "II. Convectional rainfall is the most dominant form of precipitation in this climate.",
+        "III. The climate experiences a pronounced dry season due to the seasonal reversal of winds.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Tropical Wet Climate, consider the following statements: I. It is characterized by high temperatures throughout the year with a low annual range of temperature. II. Convectional rainfall is the most dominant form of precipitation in this climate. III. The climate experiences a pronounced dry season due to the seasonal reversal of winds. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Tropical Wet Climate**(Af), also known as the**Equatorial Climate**, is found mainly in**regions close to the Equator**(between about 5°–10° latitude on either side). The major areas are the**Amazon Basin**in South America,**western **equatorial Africa**and the**islands of East Indies**.**Tropical evergreen forests**with dense canopy cover and large biodiversity are found in this climate.**\n\nStatement I is correct:**The**Tropical Wet Climate**(equatorial climate) is characterized by**uniformly high **temperatures throughout the year**(generally around 20–30°C) and a**low annual range of temperature**due to its location near the equator.**\n\nStatement II is correct:**Convectional rainfall is the defining feature of this climate. **Intense surface heating causes warm, moist air to rise, leading to frequent cloud formation and heavy afternoon or evening thunderstorms almost year-round.**\n\nStatement III is incorrect: **The Tropical Wet Climate does not experience a pronounced dry season. - A**pronounced dry season**caused by seasonal reversal of winds is a**feature of the Tropical Monsoon Climate**or**Tropical Savanna climate, not the Tropical Wet (Equatorial) Climate.**\n- The Tropical Wet Climate receives significant rainfall throughout the year and does not have a distinct dry season.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=11-16 Page: 92."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q19",
+      "questionNumber": 19,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The earth’s surface receives most of its energy from incoming solar radiation in short wavelengths.",
+        "Statement II: The surface temperature of the Sun is far higher than that of the Earth.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The earth’s surface receives most of its energy from incoming solar radiation in short wavelengths. Statement II: The surface temperature of the Sun is far higher than that of the Earth. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Every object that has a temperature emits energy in the form of radiation. The**wavelength of this radiation depends **directly on the temperature of the emitting body**, a relationship explained by**Planck’s radiation law. **\n\nStatement I is correct**. The Sun emits energy primarily in the form of**short-wave radiation**, which includes visible light and ultraviolet rays.**The earth’s surface receives most of its energy in short wavelengths. The energy received **by the earth is known as incoming solar radiation**which in short is termed as insolation.**\n\nStatement II is correct**. The Sun, an enormously hot star that emits most of its radiation from the**photosphere **region at temperatures of around 5,700°C. **At such high temperatures, the Sun emits energy across the electromagnetic spectrum, including visible light and other short-wave radiation. In comparison, the Earth’s average surface temperature is around 15** ° C.**The Sun is much hotter than the Earth, radiating energy mostly at**short **wavelengths**, which is why the Earth receives predominantly short-wave solar radiation.**Statement II explains statement I**. According to**Planck’s law**, hotter bodies emit radiation of**shorter wavelengths**, whereas cooler bodies emit radiation of**longer wavelengths**. Because the Sun is much hotter, it emits short-wave radiation while Earth being cooler emits long-wave radiation. Thus, the difference in**temperature**is the fundamental reason for the difference in the**nature of radiation**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 - Fundamentals of Physical Geography - Solar Radiation, Heat Balance and Temperature - Page 73 https://www.egyankosh.ac.in/bitstream/123456789/83532/3/Unit-1.pdf pg 24"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q20",
+      "questionNumber": 20,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Origin and Evolution",
+      "microTopic": "Origin, Evolution, Geological Time Scale",
+      "statementLines": [
+        "On Summer solstice in the Northern hemisphere, which of the following cities experience the longest duration of daylight?"
+      ],
+      "questionText": "On Summer solstice in the Northern hemisphere, which of the following cities experience the longest duration of daylight?",
+      "options": {
+        "a": "Rome",
+        "b": "Oslo",
+        "c": "Singapore",
+        "d": "Lisbon"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. The**Summer Solstice in the Northern Hemisphere occurs**around**20 or 21 June**. On this day, the Sun’s rays fall vertically over the**Tropic of Cancer (23½° N)**. Also the sun's rays fall directly over the north pole although at an oblique angle. As a result,**day length increases with increasing latitude in the Northern Hemisphere**. The farther north a place is located, the longer is the duration of daylight on this day.**\n\nOption a is incorrect**. Rome is located at 41.9o N latitude and experiences around 15 hours of daylight.**\n\nOption b is correct**.**Oslo, located**at a**high latitude of about 60° N**, experiences**very long daylight hours**, with nights becoming extremely short during the Summer Solstice. It experiences more than 19 hours of daylight.**\n\nOption c is incorrect**.**Singapore, located**almost**on the Equator, experiences**nearly equal length of day and night**throughout the year**, including during solstices. Thus , Singapore does**not**experience exceptionally long daylight on the Summer Solstice.**\n\nOption d is incorrect**. Lisbon, capital of Portugal located at around 38o N latitude, will experience around 14 and a half hours of daylight. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 - Fundamentals of Physical Geography - Solar Radiation, Heat Balance and Temperature - Variability of Insolation at the Surface of the Earth - Page 68; https://www.worldatlas.com/webimage/countrys/eulatlog.htm ; https://www.worldatlas.com/webimage/countrys/as.htm ; https://www.worldatlas.com/webimage/countrys/aflatlog.htm ; https://www.mapsofworld.com/lat_long/south- america.html"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q21",
+      "questionNumber": 21,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "World Climatic Regions",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement-I: The soil in tropical rain forests is rich in nutrients.",
+        "Statement-II: The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement-I: The soil in tropical rain forests is rich in nutrients. Statement-II: The high temperature and moisture of tropical rain forests cause dead organic matter in the soil to decompose quickly. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement-I and Statement- II are correct and Statement-II is the correct explanation for Statement-I.",
+        "b": "Both Statement-I and Statement-II are correct but Statement-II is not the correct explanation for Statement-I.",
+        "c": "Statement-l is correct but Statement-II is incorrect.",
+        "d": "Statement-I is incorrect but Statement-II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is incorrect: Tropical rain forest soil is very poor in nutrients**which are required by plants to grow. This is due to acidic nature of soil and incessant rains. Potassium, calcium, magnesium and phosphorus are lost away due to leaching. Thus regeneration is very slow.**\n\nStatement II is correct: Tropical rainforests typically experience warm and consistent temperatures throughout **the year**. These elevated temperatures enhance the activity of soil microorganisms responsible for decomposing organic matter. Increased microbial activity leads to faster decomposition rates. Rainforests receive abundant rainfall, creating high levels of soil moisture. Moisture is crucial for microbial activity and the breakdown of organic matter. It facilitates the enzymatic processes involved in decomposition, providing a suitable environment for decomposers like bacteria and fungi.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q22",
+      "questionNumber": 22,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "With reference to the structure of atmosphere, consider the following statements:",
+        "Statement I: The thickness of the troposphere is greatest at the equator.",
+        "Statement II: The atmospheric pressure is highest at the equator and lowest at the poles.",
+        "Statement III: At the equator, there is intense solar heating and the heat is transported to great heights by strong convectional currents.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the structure of atmosphere, consider the following statements: Statement I: The thickness of the troposphere is greatest at the equator. Statement II: The atmospheric pressure is highest at the equator and lowest at the poles. Statement III: At the equator, there is intense solar heating and the heat is transported to great heights by strong convectional currents. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I.",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct: **The troposphere is the lowermost layer of the atmosphere. Its average height is 13 km and extends roughly to a height of 8 km near the poles and about**18 km at the equator**. The**thickness of the troposphere **is greatest at the**equator. **\n\nStatement II is incorrect: **Air expands when heated and gets compressed when cooled. This results in variations in the atmospheric pressure. Near the equator the sea level pressure is low and the area is known as equatorial low. Along 30° N and 30° S are found the high-pressure areas known as the subtropical highs. Further pole wards along 60° N and 60° S, the low-pressure belts are termed as the sub polar lows. Near the poles the pressure is high and it is known as the polar high. Thus the atmospheric pressure is not the highest at the equator.**\n\nStatement III is correct and explains Statement I: At the equator there is intense solar heating, which causes **strong convection and vertical expansion of air. The **thickness of the troposphere is greatest at the**equator because **heat is transported to great heights by strong convectional currents**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/gees102.pdf (Pg. 28) https://ncert.nic.in/textbook.php?kegy2=7-16 (Pg. 65) https://nios.ac.in/media/documents/316-New/Book-1/Geography-316-Book-1.pdf (Pg. 125) https://ncert.nic.in/textbook/pdf/kegy209.pdf (Page 77)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q23",
+      "questionNumber": 23,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "In the context of atmospheric processes, which of the following best describes the phenomenon of air drainage? gravity."
+      ],
+      "questionText": "In the context of atmospheric processes, which of the following best describes the phenomenon of air drainage? gravity.",
+      "options": {
+        "a": "The horizontal movement of air from high-pressure areas to low-pressure areas at the Earth’s surface.",
+        "b": "The downward flow of cold, dense air along mountain slopes into valleys during night-time under the influence of",
+        "c": "The vertical rising of warm air due to intense heating of the land surface in tropical regions.",
+        "d": "The outward spiralling of air from a high-pressure centre accompanied by subsidence in the lower atmospher"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct: Air drainage**is a local-scale atmospheric process**observed mainly in mountainous and hilly **regions, during**night-time**. -**After sunset, mountain slopes undergo rapid radiational cooling**. The**air in direct contact**with these cooled surfaces also loses heat,**becomes colder and denser**, and consequently**flows downslope under the influence **of gravity into the adjoining valleys. **The inversion takes place in hills and mountains due to air drainage.** Cold air at the hills and mountains, produced **during night, flows under the influence of gravity. Being heavy and dense, the cold air acts almost like water and **moves down the slope to pile up deeply in pockets and valley bottoms with warm air above. This is called air **drainage.**It protects plants from frost damages.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 73."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q24",
+      "questionNumber": 24,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The temperature in the stratosphere generally increases with increasing altitude.",
+        "Statement II: The Ozone layer which absorbs the ultraviolet radiations from the sun is present in the stratosphere.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The temperature in the stratosphere generally increases with increasing altitude. Statement II: The Ozone layer which absorbs the ultraviolet radiations from the sun is present in the stratosphere. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**The**stratosphere is the second layer of Earth’s atmosphere, **located above the troposphere and below the mesosphere. The stratosphere is found above the tropopause and extends up to a height of 50 km. There is presence of the ozone layer, which plays a crucial role in protecting life on Earth from harmful ultraviolet (UV) radiation from the sun.**Both Statement I and Statement II are correct and Statement II explains Statement I**: Unlike the troposphere, where temperatures generally decrease with increasing altitude,**the stratosphere exhibits a temperature inversion**. The stratosphere exhibits a** temperature inversion, where temperatures increase with altitude due to the **absorption of solar radiation by ozone molecules. **One unique feature of the stratosphere is the presence of ozone layer which shields the earth from the ultraviolet **radiation from the sun. As the ozone molecules present in the ozone layer absorb these ultraviolet radiation, it **leads to temperature inversion. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=7-16 (Pg. 65) https://egyankosh.ac.in/bitstream/123456789/103161/3/Unit-5.pdf (Page 76)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q25",
+      "questionNumber": 25,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "World Climatic Regions",
+      "statementLines": [
+        "The Vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees.",
+        "The forest development in such areas is generally kept in check by one or more or a combination of some conditions.",
+        "Which of the following are such conditions?",
+        "1. Burrowing animals and termites",
+        "2. Fire",
+        "3. Grazing herbivores",
+        "4. Seasonal rainfall",
+        "5. Soil properties",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The Vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions? 1. Burrowing animals and termites 2. Fire 3. Grazing herbivores 4. Seasonal rainfall 5. Soil properties Select the correct answer using the code given below:",
+      "options": {
+        "a": "1 and 2",
+        "b": "4 and 5",
+        "c": "2, 3 and 4",
+        "d": "1, 3 and 5"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement 1 is incorrect. **Burrowing animals and termites have not checked the extensive forest cover in savannah. A burrow is a tunnel or hole that an animal digs for habitation (a place to live) or as a temporary refuge (a place of protection). Burrows provide shelter from predators and extreme temperatures. For these reasons, animals have used burrowing behavior for a very long time. In savannah, an unusually large proportion of dead organic matter— approximately 30 percent—is decomposed through the feeding activities of termites. In savannas, soil fertility can be markedly improved by mechanically breaking up termite mounds and spreading the material across the soil surface.**\n\nStatement 2 is correct. **Fire has a large effect on structure in the densely wooded granitic landscapes in Savannah. Although proportionally, the woody vegetation was more reduced in the drier than in the wetter landscapes.**Frequent **fires reduced woody vegetation **and dry-season fires have reduced woody vegetation more than wet-season fires.**\n\nStatement 3 is correct. **Grazing herbivores like giraffes and elephants rely on foliage or fruit from the thorny trees. Thus, their population has an impact on tree growth. For example, a steady rise in the elephant population between 1934 and 1959 in Virunga National Park, Congo (Kinshasa), led to an increase in the destruction of woody plants and transformed a heavily wooded savanna into a grass savanna with very few trees.**\n\nStatement 4 is correct. **Seasonal rainfall has affected the extensive forest areas of savannah. Savannah experiences frequent dry periods. The dry season is typically longer than the wet season, but it varies considerably, from 2 to 11 months.**\n\nStatement 5 is incorrect. **The Savannah consists of very deep, moderately well drained, moderately slowly permeable soils on uplands and terraces in the Southern Coastal Plain. They formed in loamy marine or fluvial terrace deposits.\nThey are beneficial for trees and do not check their growth. The forested areas are dominated by shortleaf, longleaf, slash, and loblolly pines; white, post, and red oaks; hickory, and sweetgum.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q26",
+      "questionNumber": 26,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "Which of the following factors primarily influences the pattern of planetary winds?",
+        "I. Distribution of continents and oceans",
+        "II. Rotation of earth",
+        "III. Latitudinal variation of atmospheric heating",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following factors primarily influences the pattern of planetary winds? I. Distribution of continents and oceans II. Rotation of earth III. Latitudinal variation of atmospheric heating Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The winds blowing in a more or less similar direction throughout the year between the specific pressure belts are called Planetary winds or permanent winds. For example, Trade winds, Westerlies and Polar winds are planetary winds.** Option I is correct**:**The distribution of continents and oceans impact velocity and intensity of planetary winds, **shifting of ITCZ etc.**For example due to higher continental mass in the northern hemisphere ITCZ moves towards the North pole to greater extent than in the southern hemisphere. Also Westerlies in southern hemisphere are more uniform and have high intensity(roaring forties, furious fifties) due to low landmass in southern hemisphere** Option II is correct: Rotation of earth drives the coriolis force **which influences the direction of planetary wind by deflecting the winds towards right in Northern Hemisphere and towards left in Southern Hemisphere** Option III is correct: Latitudinal variation of atmospheric heating is the main driving factor behind the **temperature driven pressure differences.** For example high solar insolation in the equatorial region results in permanent low pressure zone (ITCZ) while low insolation in polar region creates high pressure zone in polar regions(polar high)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16- Pg: 79 https://www.egyankosh.ac.in/bitstream/123456789/112324/1/Unit-9.pdf - page no 175"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q27",
+      "questionNumber": 27,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "Which one of the following is the source region for the formation of air masses?"
+      ],
+      "questionText": "Which one of the following is the source region for the formation of air masses?",
+      "options": {
+        "a": "The Equatorial forest",
+        "b": "The Himalayas",
+        "c": "The Siberian Plain",
+        "d": "The Deccan Plateau"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **The homogenous surfaces, over which air masses form, are called the source regions. The main source regions are the high pressure belts in the sub tropics (giving rise to tropical air masses) and around the poles (the source for polar air masses). The source region should be extensive with gentle, divergent air circulation (slightly at high pressure). Areas with high pressure but little pressure difference or pressure gradient are ideal source regions.**\n\nOption c is correct: The Siberian Plain is a primary source region **because it satisfies the critical conditions required for the formation of air masses-Vast Homogeneous Surface, Atmospheric Stability, Specific Air Mass Type.**\n\nOption a is incorrect: The Equatorial forest are regions of zones of convergence **(where air masses meet and rise) rather than source regions.**\n\nOption b is incorrect: The Himalayas are not the source regions **because of their irregular topography and rapidly changing altitudes prevent the air from developing uniform physical properties.**\n\nOption d is incorrect: The Deccan Plateau lacks **the necessary topographical uniformity and high-pressure stability required to serve as a major global source region for air mass formation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kegy209.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q28",
+      "questionNumber": 28,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "With reference to atmospheric motions, why are strong vertical (upward or downward) winds generally not experienced in the Earth’s atmosphere?"
+      ],
+      "questionText": "With reference to atmospheric motions, why are strong vertical (upward or downward) winds generally not experienced in the Earth’s atmosphere?",
+      "options": {
+        "a": "Atmospheric pressure decreases uniformly with height, restricting vertical air movement.",
+        "b": "The vertical pressure gradient force is largely counterbalanced by the force of gravity.",
+        "c": "Vertical temperature differences in the atmosphere are usually too small to generate motion.",
+        "d": "The Coriolis force acts more strongly on vertical air currents than on horizontal winds."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. Air in the atmosphere is constantly in motion, but most of this motion is**horizontal rather than vertical**. Air pressure**decreases with height**. This means that at any point near the Earth’s surface,**pressure below an air **parcel is higher than pressure above it**. Because of this difference: - An**upward pressure gradient force**acts on the air parcel. - This force naturally tries to push the air**upward**. If this were the only force acting, the atmosphere would continuously expand upward and strong vertical winds would be common. At the same time, every air parcel has**mass**and hence experiences**force of gravity**, which pulls it**downward towards **the Earth**. Under normal conditions in the atmosphere, these two forces:**Upward pressure gradient force**and**Downward gravitational force**are**almost equal in magnitude but opposite in direction**thus balancing each other out. Because of this balance there is**no strong net vertical force**acting on the air. Without a net force, there is**no **strong vertical acceleration**. As a result,**vertical motion remains weak and slow**. In the**horizontal direction**, there is**no gravitational force to counterbalance pressure differences**. Horizontal pressure differences therefore produce**strong winds**, such as trade winds, westerlies and jet streams. In contrast in the**vertical direction**, gravity neutralises pressure differences.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 - Atmospheric Circulation and Weather Systems – Vertical Variation of Pressure - Page 76"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q29",
+      "questionNumber": 29,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "When isobars are straight and when there is no friction, the pressure gradient force is balanced by the Coriolis force and the resultant wind blows parallel to the isobar. This resultant wind is known as:"
+      ],
+      "questionText": "When isobars are straight and when there is no friction, the pressure gradient force is balanced by the Coriolis force and the resultant wind blows parallel to the isobar. This resultant wind is known as:",
+      "options": {
+        "a": "Jet Stream",
+        "b": "Katabatic wind",
+        "c": "Mistral wind",
+        "d": "Geostrophic wind"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Wind movement in the atmosphere is governed by the interaction of different forces acting on air parcels. Primarily three forces act on air mass i) Pressure gradient force ii) Coriolis force and iii) frictional force When isobars are straight and when there is no friction, the pressure gradient force is balanced by the Coriolis force and the resultant wind blows parallel to the isobar.**This wind is known as the geostrophic wind. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 - Atmospheric Circulation and Weather Systems – Forces Affecting the Velocity and Direction of Wind - Pressure and Wind - Page 79"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q30",
+      "questionNumber": 30,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In the coastal regions, sea breeze occurs during the day time.",
+        "Statement II: In contrast to land, the sunrays do not penetrate deep into the sea water.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In the coastal regions, sea breeze occurs during the day time. Statement II: In contrast to land, the sunrays do not penetrate deep into the sea water. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct:**Sea breezes occur during the daytime**when land heats up faster than the sea, creating a low-pressure zone over the land. The cooler, high-pressure air from the sea moves toward the land, forming a**sea breeze**. At**night**, the land cools more rapidly than the sea, creating a high-pressure area over the land and a low-pressure area over the warmer sea. This results in a**land breeze**moving from the land toward the sea.**\n\nStatement II is incorrect: **The sea's ability to absorb and store energy from the sun is huge. This is due to the transparency of the water, which allows the sun's rays to penetrate deep into the sea.**In contrast to the sea, the sun's **rays do not penetrate deep into the land** but are confined to the top few inches of soil.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kegy209.pdf https://egyankosh.ac.in/bitstream/123456789/103163/3/Unit-7.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q31",
+      "questionNumber": 31,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Which of the following pairs of Isolines and its properties are correctly matched?",
+        "1. Isonif Snowfall",
+        "2. Isohel Sunshine",
+        "3. Isohaline Salinity",
+        "4. Isohypse Cloudiness",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following pairs of Isolines and its properties are correctly matched? 1. Isonif Snowfall 2. Isohel Sunshine 3. Isohaline Salinity 4. Isohypse Cloudiness Select the correct answer using the code given below:",
+      "options": {
+        "a": "1, 2 and 3",
+        "b": "2, 3 and 4",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 4"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **In geography,**Isolines **are lines on maps or charts that connect points of equal value of a particular variable.**Pair 1 is correct: Isonif **lines connect points that receive the same amount of**snowfall**.**Pair 2 is correct: Isohel **lines link areas that receive an equal amount of**sunshine **over a set period.**Pair 3 is correct: Isohaline **lines join points in a water body that have the same level of**salinity **(salt concentration)**Pair 4 is incorrect: Isohypse **lines, also known as contour lines, connect points of**equal elevation **(or altitude) above sea level. Also, the lines connecting areas with equal**cloud**cover **or**cloudiness **are called**Isoneph. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q32",
+      "questionNumber": 32,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The amount of annual solar insolation received by the Earth on 4th July is more than the amount received on 3rd January.",
+        "Statement II: With respect to Earth’s revolution around the Sun, the Earth around 4th July is at aphelion position, whereas around 3rd January, it is at perihelion position.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The amount of annual solar insolation received by the Earth on 4th July is more than the amount received on 3rd January. Statement II: With respect to Earth’s revolution around the Sun, the Earth around 4th July is at aphelion position, whereas around 3rd January, it is at perihelion position. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is not correct but\n\nStatement II is correct:**During its revolution around the sun, the earth is farthest from the sun (152 million km) on**4th July**.** This position of the earth is called aphelion.**On**3rd January, the earth is **the nearest to the sun**(147 million km).**This position is called perihelion**. Therefore, the** annual insolation received **by the earth on 3rd January is slightly more than the amount received on 4th July**. However, the effect of this variation in the solar output is masked by other factors like the distribution of land and sea and the atmospheric circulation. Hence, this variation in the solar output does not have a great effect on daily weather changes on the surface of the earth.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 67."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q33",
+      "questionNumber": 33,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "With reference to Climatology, consider the following statements about Thunderstorms:",
+        "Statement I: During thunderstorms, cumulonimbus clouds are developed along with thunder and lightning.",
+        "Statement II: Thunderstorms form primarily due to intense convection of heat from the Earth’s surface to the atmosphere.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to Climatology, consider the following statements about Thunderstorms: Statement I: During thunderstorms, cumulonimbus clouds are developed along with thunder and lightning. Statement II: Thunderstorms form primarily due to intense convection of heat from the Earth’s surface to the atmosphere. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct: **Thunderstorms are types of local storms. They are of short duration, occur over a small area, and are often violent in nature**. A thunderstorm is associated with well-developed cumulonimbus clouds that are **associated with thunder and lightning. **\n\nStatement II is correct: Thunderstorms are caused by intense convection of heat from the surface of earth to the **atmosphere on hot and moist days. **They are characterised by strong updrafts of rising warm air, which make the clouds grow vertically and rise to great heights thus forming cumulonimbus clouds. Rise in altitude leads to condensation of water vapor and formation of water droplets or hail (at sub-zero temperature ) . Subsequently, downdrafts bring cool air and rain back to the Earth’s surface, completing the thunderstorm cycle.**As**intense convection leads to the formation of well-developed cumulonimbus clouds in thunderstorm, option a is **correct: **Both Statement I and Statement II are correct, and Statement II is the correct explanation for Statement I",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 - Pg: 84"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q34",
+      "questionNumber": 34,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Cyclones",
+      "statementLines": [
+        "In a tropical cyclone, wind reaches maximum velocity in which of the following regions?"
+      ],
+      "questionText": "In a tropical cyclone, wind reaches maximum velocity in which of the following regions?",
+      "options": {
+        "a": "The eye of the cyclone",
+        "b": "The eyewall surrounding the eye of the cyclone",
+        "c": "The outermost rain bands of the cyclone",
+        "d": "The upper-level outflow of cyclone where the air diverges away"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **A mature tropical cyclone is characterised by strong spirally circulating wind around the centre, called the eye. It is characterised by low pressure with subsiding air, light winds making it a calm region free of clouds Around the eye of the cyclone is the**eye wall**, where there is a**strong spiralling ascent of air to greater height **reaching the tropopause**. The**wind reaches maximum velocity in this region**, reaching as high as**250 km per hour**.**Torrential rain occurs here. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 Pg: 83"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q35",
+      "questionNumber": 35,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Geomorphology",
+      "microTopic": "Landforms",
+      "statementLines": [
+        "Where does podsolization take place?"
+      ],
+      "questionText": "Where does podsolization take place?",
+      "options": {
+        "a": "Regions in high middle latitudes.",
+        "b": "Coastal regions in lower latitudes.",
+        "c": "Regions with hot and humid climate.",
+        "d": "Regions having arid climat"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Podsolization **(also spelled**podzolization**) is a soil-forming process that occurs under**cool, humid climatic **conditions**, especially in areas with**high rainfall and coniferous forest cover**. It is characterized by intense**leaching **of minerals due to percolating water, which leads to the**formation of acidic, nutrient-poor soils **called**podzols**.**High **middle latitudes**, especially in**boreal forest (taiga) zones **of the**Northern Hemisphere**—such as**Canada, Scandinavia, **and Russia**— provide the ideal conditions for podsolization: -**Cool temperatures **slow down microbial activity and decomposition. -**High rainfall **promotes leaching. -**Acidic coniferous litter **(like pine needles) produces organic acids. These conditions lead to**intense leaching **and the development of**podzol soils**.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2024,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q36",
+      "questionNumber": 36,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Atmosphere (Composition, Structure)",
+      "statementLines": [
+        "Noctilucent clouds (NLCs) are formed in",
+        "which one of the following layers of the atmosphere?"
+      ],
+      "questionText": "Noctilucent clouds (NLCs) are formed in which one of the following layers of the atmosphere?",
+      "options": {
+        "a": "Thermosphere",
+        "b": "Stratosphere",
+        "c": "Mesosphere",
+        "d": "Troposphere"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Noctilucent clouds**(NLCs), also known as**polar mesospheric clouds**and**night-shining clouds**,**form in the **mesosphere**, at an altitude of about 50–86 km above the Earth’s surface. - The mesosphere is the coldest layer of the atmosphere, which allows tiny ice crystals to form around meteoric dust particles. - These clouds are composed of**tiny ice crystals**that**condense around dust particles**(often**meteoric dust**). - These clouds are**visible after sunset or before sunrise**at high latitudes because they are illuminated by sunlight while the lower atmosphere remains in darkness.** Noctilucent clouds **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q37",
+      "questionNumber": 37,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Between the latitudes 45° and 65° in both the Northern and Southern Hemispheres, rainfall is generally received first on the western margins of the continents and gradually decreases towards the east.",
+        "Statement II: Between the latitudes 45° and 65° in both the Hemispheres, the atmospheric circulation is dominated by the prevailing westerlies.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Between the latitudes 45° and 65° in both the Northern and Southern Hemispheres, rainfall is generally received first on the western margins of the continents and gradually decreases towards the east. Statement II: Between the latitudes 45° and 65° in both the Hemispheres, the atmospheric circulation is dominated by the prevailing westerlies. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**In the mid-latitudes (**approximately**45°–65° N and S),**the**western margins of continents **receive rainfall first **because moist air masses from the oceans are transported inland. This is a well-recognized global rainfall pattern seen in regions such as Western Europe, western North America, southern Chile, and New Zealand.**As this air moves further eastward**into the continental interiors, moisture content progressively decreases, leading to a**reduction in rainfall toward the eastern parts.**\n\nStatement II is correct: Between 45° and 65° latitudes**, the**atmospheric circulation is dominated by the prevailing **westerlies**, which**blow from west to east**in both hemispheres throughout most of the year. These winds act as the primary mechanism for transporting moist maritime air from the oceans toward the continents. Link between Statements: **Statement II correctly explains Statement I: **Because the**westerlies approach the continents from the west**, the western margins are exposed first to moisture-laden air, resulting in higher rainfall there. As they**move further **eastward **across the continent,**moisture content declines**due to precipitation and increasing continentality, resulting in a**gradual decrease in rainfall.**Thus,** Both Statement I and Statement II are correct and Statement II explains Statement I. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=10-16 Page: 89."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q38",
+      "questionNumber": 38,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "Consider the following conditions:",
+        "I. Clear sky and calm wind conditions",
+        "II. Dew point temperature remaining above freezing point",
+        "III. Low relative humidity near the surface",
+        "IV. Long winter nights",
+        "How many of the above conditions are favourable for the formation of dew?"
+      ],
+      "questionText": "Consider the following conditions: I. Clear sky and calm wind conditions II. Dew point temperature remaining above freezing point III. Low relative humidity near the surface IV. Long winter nights How many of the above conditions are favourable for the formation of dew?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Dew**is a**form of condensation**in which**water vapor from the air condenses as liquid water**on cool surfaces on or near the ground when the surface temperature falls to the dew point, provided this temperature remains above the freezing point. It**typically forms at night under clear skies and calm or light wind conditions**, due to radiational cooling of the Earth’s surface, and is commonly observed on grass, leaves, and exposed objects.** Option I is correct: Clear sky and calm wind conditions: Favourable **Clear skies allow maximum radiational cooling of the Earth’s surface**at night, and**calm winds prevent mixing with **warmer air above**. This enables the surface air temperature to fall to the dew point, leading to condensation.  Option II is correct: Dew point being higher than freezing point: Favourable **When the dew point is**above 0°C**, water vapour condenses directly into**liquid droplets (dew)**. If it were**below **freezing, frost**would form instead.  Option III is incorrect: Low relative humidity near the surface: Not favourable **Dew formation requires the air to reach saturation (relative humidity ≈ 100%). **Low relative humidity means the air contains less moisture and must undergo much greater cooling to reach the dew point. Therefore, low humidity conditions reduce the likelihood of dew formation.** Option IV is correct: Long winter nights: Favourable **Longer nights, especially during winter**, allow**prolonged radiational cooling**of the Earth’s surface. The extended duration of cooling increases the likelihood that surface air temperatures will fall to the dew point,**promoting dew **formation**, provided temperatures remain above freezing.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q39",
+      "questionNumber": 39,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Cyclones",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Tropical cyclones originate and intensify over warm tropical oceans.",
+        "Statement II: Warm waters are necessary to fuel the heat engine of the tropical cyclones.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Tropical cyclones originate and intensify over warm tropical oceans. Statement II: Warm waters are necessary to fuel the heat engine of the tropical cyclones. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **Tropical cyclones are violent storms that originate over oceans in tropical areas and move over to the coastal areas bringing about large scale destruction caused by violent winds, very heavy rainfall and storm surges.**Statement I and II are correct and Statement II explains Statement I: Tropical cyclones originate and intensify **over warm tropical oceans.**One of the conditions i.e. favourable for the formation and intensification of tropical storms is-Large sea surface with temperature higher than 27°C. Warm ocean waters (of at least 26.5°C) throughout a sufficient depth is one of the necessary conditions for development of a Tropic Cyclone.**The reason is warm waters are necessary to fuel the heat engine of the tropical **cyclone. **\n\nKnowledge Base: The conditions favourable for the formation and intensification of tropical storms are: (i) Large sea surface with temperature higher than 27°C; (ii) Presence of the Coriolis force; (iii) Small variations in the vertical wind speed; (iv) A pre-existing weak/low-pressure area or low-level-cyclonic circulation; (v) Upper divergence above the sea level system.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16- (Page 83) https://rsmcnewdelhi.imd.gov.in/images/pdf/faq.pdf (Q.21)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q40",
+      "questionNumber": 40,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "World Climatic Regions",
+      "statementLines": [
+        "Consider the following regions:",
+        "I. Southern Chile",
+        "II. Southeastern Australia",
+        "III. Western African region In",
+        "how many of the above regions does the Marine West Coast Climate (British type climate) occur?"
+      ],
+      "questionText": "Consider the following regions: I. Southern Chile II. Southeastern Australia III. Western African region In how many of the above regions does the Marine West Coast Climate (British type climate) occur?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Marine West Coast Climate**(Cfb) is found on the**western margins of continents**, poleward of the Mediterranean climate region, under**strong marine influence**, which keeps temperatures moderate and rainfall well distributed throughout the year. The**regions**where this climate is found include northwestern Europe, the west coast of North America (including north of California),**southern Chile**,**southeastern Australia**, and New Zealand.**Western African region is not associated with the Marine West Coast Climate**. Most of Western Africa experiences Tropical Savanna, or Desert Climates, rather than the cool, wet conditions typical of Marine West Coast regions. Knowledge Base:**Other key facts regarding Marine West Coast Climate**Temperature characteristics:**- Overall moderate temperatures-Winters are milder than expected for the latitude-Mean summer temperature: 15°C–20°C-Mean winter temperature: 4°C–10°C-Small annual and diurnal temperature range**Precipitation:**\n- Occurs throughout the year-Highly variable, generally ranging from 50 cm to 250 cm annually",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=11-16 Page: 94."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q41",
+      "questionNumber": 41,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "Consider the following statements on ‘Fog’:",
+        "1. Fog is simply a cloud that forms close to the ground.",
+        "2. Radiation fog is associated with radiation cooling of the land at night.",
+        "3. Advection fog forms when moisture is blown over a cold surface and is chilled by contact.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements on ‘Fog’: 1. Fog is simply a cloud that forms close to the ground. 2. Radiation fog is associated with radiation cooling of the land at night. 3. Advection fog forms when moisture is blown over a cold surface and is chilled by contact. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **Condensation is the process where water vapor transforms into liquid water. This happens when the air cools to its dew point, the temperature at which it can no longer retain all the water vapor, leading to condensation. As a result, water vapor molecules gather to form liquid droplets, which appear as dew, fog, or clouds.**\n\nStatement 1 is correct: **Fog is**a cloud that forms close to the ground. **When the temperature of an air mass, which contains a significant amount of water vapor, drops suddenly, the water vapor condenses onto tiny dust particles in the air, leading to the formation of fog.**\n\nStatement 2 is correct: **Radiation fog forms on clear, calm nights when the ground cools quickly**due to the loss of **heat. **This cooling causes the air near**the ground to also cool down to its dew point. **If the ground is moist, some of the moisture evaporates into the air, raising the dew point and helping the fog form more quickly.**\n\nStatement 3 is correct: **Advection fog forms when**warm, moist air moves over a cooler surface**. The cooling of the air near the surface causes it to reach its dew point, leading to condensation and the formation of fog.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q42",
+      "questionNumber": 42,
+      "subject": "Geography",
+      "sectionGroup": "World Geography",
+      "microTopic": "Local Winds",
+      "statementLines": [
+        "Local winds over a region develop due to certain climatic conditions and can be classified as hot and cold winds.",
+        "In this context, consider the following:",
+        "I. Foehn",
+        "II. Chinook",
+        "III. Mistral",
+        "IV. Bora",
+        "V. Sirocco",
+        "VI. Pampero",
+        "How many of the above Local winds are cold winds?"
+      ],
+      "questionText": "Local winds over a region develop due to certain climatic conditions and can be classified as hot and cold winds. In this context, consider the following: I. Foehn II. Chinook III. Mistral IV. Bora V. Sirocco VI. Pampero How many of the above Local winds are cold winds?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "Only five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. ** Option I is incorrect: Foehn **-**Nature: Warm and dry **- Foehn is a strong**, dusty, dry and warm local wind**which develops on the**leeward side of the Alps mountain **ranges. **- It helps in early sowing of spring wheat, ripening of grapes and checking autumn frost.** Option II is incorrect: Chinook **-**Nature: Warm and dry **- A**warm, dry downslope wind**blowing on the eastern slopes of the**Rocky Mountains in North America. **- It is often called the “**snow-eater**” because it causes rapid melting of snow.** Option III is correct: Mistral **-**Nature: Cold and dry **- It is a cold, dry and strong wind blowing from the interior of**France towards the Mediterranean Sea**through the**Rhone Valley. **- The Arrival of mistral causes sudden drop in air temperature to below freezing point.** Option IV is correct: Bora **-**Nature: Cold and dry **- Bora is**similar to Mistral**and is**extremely cold and dry**. - It blows**from Hungary to north Italy**where it descends through the southern slopes of the Alps and blows in southerly direction.** Option V is incorrect: Sirocco **-**Nature: Hot and dry **- Sirocco is a hot dry wind**blowing from the Sahara desert towards Italy.**- When it crosses the Mediterranean sea, it absorbs moisture and becomes warm and humid-Sirocco is injurious to agricultural and fruit crops.** Option VI is correct: Pampero **-**Nature: Cold **- It is a north-westerly cold wind,**blowing in the ‘pampas’ grasslands of South America**. - Pampero is similar to ‘northers’ of North America and Siberia and is more active during winter. Knowledge Base:**Some other local cold winds:**-**Bise:**An extremely cold wind, blowing in**France. **-**Friagem:**A cold wind blowing in**Amazon valley.**-**Levanter**: A strong easterly cold wind in southern**Spain**and Straits of Gibraltar. -**Punas**: A cold and dry wind blowing in the western side of**Andes mountain. **-**Purga**: A cold wind blowing in**Russia.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q43",
+      "questionNumber": 43,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following surfaces:",
+        "I. Fresh Snow",
+        "II. Ocean",
+        "III. Wet Savannah",
+        "IV. Dry Sand",
+        "Which of the following is the correct increasing order of albedo of above given surfaces?"
+      ],
+      "questionText": "Consider the following surfaces: I. Fresh Snow II. Ocean III. Wet Savannah IV. Dry Sand Which of the following is the correct increasing order of albedo of above given surfaces?",
+      "options": {
+        "a": "II-III-IV-I",
+        "b": "II-IV-III-I",
+        "c": "II-I-III-IV",
+        "d": "III-II-IV-I"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Albedo is the portion of solar energy that is reflected by the surface of an object back into space**. It is a reflection coefficient. The “proportion of incident radiation that is reflected” is termed the albedo. Fresh Snow covered surfaces have a high albedo, the albedo of Dry sand ranges from high to low, Wet Savannah and oceans have a low albedo. The correct increasing order of albedo of above given surfaces is**Ocean < Wet Savannah < **Dry Sand < Fresh Snow. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q44",
+      "questionNumber": 44,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "World Climatic Regions",
+      "statementLines": [
+        "Consider the following statements regarding the Mediterranean Climate:",
+        "The areas under this climate:",
+        "I. receive its maximum rainfall during the summer months.",
+        "II. remain under the influence of the westerly winds throughout the year.",
+        "III. are characterised by a moderate annual range of temperature.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Mediterranean Climate: The areas under this climate: I. receive its maximum rainfall during the summer months. II. remain under the influence of the westerly winds throughout the year. III. are characterised by a moderate annual range of temperature. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II and III",
+        "c": "III only",
+        "d": "I and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**Mediterranean climate**(Cs) is a type of temperate climate characterized by**mild, wet winters and hot, dry **summers.**It is mainly found on the**western margins of continents in subtropical latitudes**(between 30° and 40° latitudes), such as the Mediterranean Basin, California, central Chile, along the coast in south eastern and south western Australia.**\n\nStatement I is incorrect:**A defining feature of the Mediterranean climate is its distinct seasonal distribution of rainfall. -**Summers are generally hot and dry**because the region comes under the dominance of the**subtropical high\n- **pressure belt**, which causes subsiding air and inhibits cloud formation and precipitation. - The**maximum rainfall is received during the winter months**, when the**westerly winds**shift equatorward and bring temperate cyclones, resulting in cyclonic rainfall. Therefore,**the Mediterranean climate**is characterised by**hot, dry summer and mild, wet winter. **\n\nStatement II is incorrect:**The**Mediterranean region does not remain under the influence of westerlies throughout **the year.**-**During winter, westerlies dominate**and are responsible for rainfall. - However,**in summer**, the westerlies shift poleward and the region falls under the**influence of subtropical high. **\n\nStatement III is correct: **The M**editerranean climate experiences a moderate annual range of temperature.**-**Winters are generally mild**due to maritime influence and the absence of extreme cold, while**summers are warm **but not excessively hot**, especially in coastal areas.\n- Monthly average temperature in summer is around 25°C and in winter below 10°C.\n- This moderation is caused by proximity to seas and the mid-latitude location, which prevents extreme seasonal temperature contrasts.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=11-16 Page: 93."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q45",
+      "questionNumber": 45,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Water in the Atmosphere (Clouds, Condensation, Precipitation, Rainfall, etc.)",
+      "statementLines": [
+        "Consider the following statements about clouds:",
+        "1. Two major forms of clouds are stratiform and cumuliform.",
+        "2. According to the altitude, clouds are classified as high clouds, middle clouds and low clouds.",
+        "3. Stratus, nimbostratus and stratocumulus are types of high clouds.",
+        "4. Clouds having nimbus attached to their name produce precipitation.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements about clouds: 1. Two major forms of clouds are stratiform and cumuliform. 2. According to the altitude, clouds are classified as high clouds, middle clouds and low clouds. 3. Stratus, nimbostratus and stratocumulus are types of high clouds. 4. Clouds having nimbus attached to their name produce precipitation. Which of the statements given above are correct?",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1, 2 and 4",
+        "c": "2 and 4 only",
+        "d": "1,3 and 4"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement 1 is correct. **Clouds are categorized into two broad types based on their appearance: -**Stratiform clouds**: These are layer-like clouds that spread out across the sky, often covering large areas. -**Cumuliform clouds**: These are puffy, heap-like clouds with vertical development.**\n\nStatement 2 is correct. **Clouds are classified based on their altitude: -**High clouds **(cirro - ): Above 20,000 feet (6,000 meters) and include cirrus, cirrostratus, and cirrocumulus clouds. -**Middle clouds **(alto - ): Between 6,500 to 20,000 feet (2,000 to 6,000 meters) and include altostratus and altocumulus. -**Low clouds**: Below 6,500 feet (2,000 meters) and include stratus, stratocumulus, and nimbostratus.**\n\nStatement 3 is incorrect. **Stratus, nimbostratus, and stratocumulus are**low clouds**,**not high clouds**. -**Stratus **clouds are typically low-lying, flat clouds. -**Nimbostratus **clouds are thick, low clouds that bring continuous precipitation. -**Stratocumulus **clouds are also low clouds, often appearing in layers or patches.**\n\nStatement 4 is correct. **The term**“nimbus” **or**“nimbo\n- ” **is associated with clouds that produce precipitation. For example:**Nimbostratus **clouds produce steady, continuous precipitation.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q46",
+      "questionNumber": 46,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "El Nino and La Nina",
+      "statementLines": [
+        "With reference to the El Niño phenomenon, consider the following statements:",
+        "I. The intensity of Walker Circulation diminishes during an El Niño event.",
+        "II. It may lead to drought conditions in Australia and South Africa.",
+        "III. It increases plankton growth and fish production in the eastern Pacific Ocean.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the El Niño phenomenon, consider the following statements: I. The intensity of Walker Circulation diminishes during an El Niño event. II. It may lead to drought conditions in Australia and South Africa. III. It increases plankton growth and fish production in the eastern Pacific Ocean. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I and III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **EI-Nino is a complex weather system that appears once every three to seven years, bringing drought, floods and other weather extremes to different parts of the world.**\n\nStatement I is correct: **The Walker Circulation is an atmospheric system of air flow in the equatorial Pacific Ocean. During an El Niño event, the Walker Circulation is greatly diminished. **Increased precipitation and abnormally warm water are found in the central Pacific during an El Niño event (or ENSO warm phase). These changes in weather patterns have a cascading effect on weather patterns in other parts of the world. \n\nStatement II is correct: During an El Niño year, pressure difference between Northern Australia and surrounding **regions**, and equatorial South Pacific Ocean decreases resulting in weaker trade winds or even reverse trade winds( moving from Australia towards Peruvian coast).**As a result, drought conditions prevail in Australia, while heavy **rainfall and flooding occur in Peru and Ecuador. Further, Drought conditions**are detected**in countries such as India, the Philippines, Sri Lanka, and** South Africa during an El Niño year **\n\nStatement III is incorrect: The EI-Nino system **increases the temperature of water on the Peruvian coast by 10°C which subdues the upwelling of cold water along the Chile-Peruvian coast .**This results in reduction (not increase) in **the amount of planktons which further reduces the number of fish in the sea. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/kegy104.pdf pg 31 https://ncert.nic.in/textbook.php?kegy2=9-16 Pg: 80 https://egyankosh.ac.in/bitstream/123456789/53844/1/Unit%2010.pdf - page no 26"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q47",
+      "questionNumber": 47,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "With reference to the Coriolis force, which of the following statements are correct?",
+        "I. It arises due to the rotation of the Earth on its axis.",
+        "II. It deflects the winds to the left in the Northern Hemisphere and to the right in the Southern Hemisphere.",
+        "III. The magnitude of deflection of winds caused by the Coriolis force increases when wind velocity is high.",
+        "IV. It is directly proportional to the angle of latitude.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Coriolis force, which of the following statements are correct? I. It arises due to the rotation of the Earth on its axis. II. It deflects the winds to the left in the Northern Hemisphere and to the right in the Southern Hemisphere. III. The magnitude of deflection of winds caused by the Coriolis force increases when wind velocity is high. IV. It is directly proportional to the angle of latitude. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and IV only",
+        "c": "I, III and IV",
+        "d": "II, III and IV"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. When air moves over the rotating Earth, its path appears to curve. This apparent deflection is caused by the**Coriolis **force**. Coriolis force does not create wind. It only**changes the direction of winds that are already moving due to **pressure differences**.**\n\nStatement I is correct**.**The Coriolis force is not a real force like gravity or friction. It appears only because the **Earth is rotating on its axis**. If the Earth was not rotating, air would move in straight lines over the surface. In such a situation, there would be no Coriolis force.**\n\nStatement II is incorrect**. In the**Northern Hemisphere**, moving air is deflected**to the right**of its path. In the**Southern Hemisphere**, moving air is deflected**to the left**.**\n\nStatement III is correct**. The Coriolis force acts only on**moving air**. When wind speed is low, the deflection is small and often negligible. As wind speed increases, the sideways deflecting effect becomes stronger. This is why large-scale, fast-moving winds show clear Coriolis deflection, while gentle local breezes do not.**\n\nStatement IV is correct**. As one moves away from the equator towards higher latitudes, the influence of the Earth’s rotation on moving air**steadily increases**. This means that winds at higher latitudes experience**greater sideways **deflection**than winds near the equator. In simple terms,**latitude controls the strength of Coriolis force**, with its influence increasing progressively from low latitudes to high latitudes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 - Atmospheric Circulation and Weather Systems – Forces Affecting the Velocity and Direction of Wind - Coriolis Force- Page 78; https://egyankosh.ac.in/bitstream/123456789/103162/3/Unit-6.pdf - Coriolis Force - Page 100"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q48",
+      "questionNumber": 48,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Solar Radiation, Heat Balance, Temperature",
+      "statementLines": [
+        "Consider the following statements about Advection:",
+        "I. It refers to the process of vertical heating of the atmosphere.",
+        "II. The hot and dry local winds known as ‘loo’ experienced in northern India during the summer season are an outcome of the advection process.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about Advection: I. It refers to the process of vertical heating of the atmosphere. II. The hot and dry local winds known as ‘loo’ experienced in northern India during the summer season are an outcome of the advection process. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect: **The air in contact with the earth rises vertically on heating in the form of currents and further transmits the heat of the atmosphere. This process of vertical heating of the atmosphere is known as convection. The convective transfer of energy is confined only to the troposphere. -**The transfer of heat through horizontal movement of air is called advection. **\n\nStatement II is correct: **The**hot and dry local winds**known as ‘**loo’,**experienced over northern India during the summer season, are a**result of advection. **\n- It results from the horizontal transport (advection) of intensely heated air from the arid interior regions, particularly north-western India, towards the Indo-Gangetic plains.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=8-16 Page: 68."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q49",
+      "questionNumber": 49,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Cyclones",
+      "statementLines": [
+        "The pattern of wind direction in anticylone is:"
+      ],
+      "questionText": "The pattern of wind direction in anticylone is:",
+      "options": {
+        "a": "Clockwise in both Northern and Southern Hemisphere",
+        "b": "Anticlockwise in both Northern and Southern Hemisphere",
+        "c": "Clockwise in the Northern Hemisphere and anticlockwise in the Southern Hemisphere.",
+        "d": "Anticlockwise in the Northern Hemisphere and clockwise in the Southern Hemispher"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. In an anti-cyclone, winds diverge outward from a high-pressure centre. Due to the deflecting effect of Earth’s rotation, this outward-moving air: - turns**clockwise in the Northern Hemisphere**, and-turns**anticlockwise in the Southern Hemisphere**.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook.php?kegy2=9-16 - Atmospheric Circulation and Weather Systems – Forces Affecting the Velocity and Direction of Wind - Pressure and Wind - Page 79;"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-geography-test34-q50",
+      "questionNumber": 50,
+      "subject": "Geography",
+      "sectionGroup": "Physical Geography - Climatology",
+      "microTopic": "Pressure, Winds, Airmasses (Coriolis Force, Frictional Force, etc.)",
+      "statementLines": [
+        "With reference to air masses, consider the following statements:",
+        "I. Air mass is a large body of air having little horizontal variation in temperature and moisture.",
+        "II. They do not form over oceans and can be formed over land only.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to air masses, consider the following statements: I. Air mass is a large body of air having little horizontal variation in temperature and moisture. II. They do not form over oceans and can be formed over land only. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct: **When the air remains over a homogenous area for a sufficiently longer time, it acquires the characteristics of the area. The homogenous regions can be the vast ocean surface or vast plains. The air with distinctive characteristics in terms of temperature and humidity is called an air mass.**It is defined as a large body of **air having little horizontal variation in temperature and moisture. **\n\nStatement II is incorrect: Air masses are identified based on whether they form over land or over water. Maritime **air masses form over water and are humid. Continental air masses form over land and are dry. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

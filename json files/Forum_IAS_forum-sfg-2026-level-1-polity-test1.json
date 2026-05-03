@@ -1,0 +1,1960 @@
+{
+  "id": "forum-sfg-2026-level-1-polity-test1",
+  "title": "Test 1- L1 SFG 2026 - Sectional - Polity",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q01",
+      "questionNumber": 1,
+      "subject": "Polity",
+      "sectionGroup": "Part II: Citizenship",
+      "microTopic": "Citizenship",
+      "statementLines": [
+        "The Citizenship Act, 1955 deals with the determination of citizenship on or after"
+      ],
+      "questionText": "The Citizenship Act, 1955 deals with the determination of citizenship on or after",
+      "options": {
+        "a": "26th January, 1950",
+        "b": "26th November, 1949",
+        "c": "15th August, 1947",
+        "d": "14th August, 1947"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer **The Citizenship Act, 1955 deals with the determination of citizenship on or after 26th January, 1950, which marks **the commencement of the Act and the establishment of the Republic of India. **As per Article 5 of the Constitution of India-At the commencement of this Constitution i.e. 26th January 1950, every person who has his domicile in the territory of India and - (a) who was born in the territory of India; or (b) either of whose parents was born in the territory of India; or (c) who has been ordinarily resident in the territory of India for not less than five years immediately preceding such commencement, shall be a citizen of India While in**the Citizenship Act, 1955 with respect to acquisition of citizenship by birth or descent in both the cases on **or after the 26th day of January, 1950 is mentioned.**",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q02",
+      "questionNumber": 2,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "The first session of the Constituent Assembly held on December 9, 1946 was presided by:"
+      ],
+      "questionText": "The first session of the Constituent Assembly held on December 9, 1946 was presided by:",
+      "options": {
+        "a": "Dr. Rajendra Prasad",
+        "b": "B. N. Rau",
+        "c": "Sachidananda Sinha",
+        "d": "Jawaharlal Nehru"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**first session of the Constituent Assembly**of India took place on**9th December 1946**in the Constitution Hall, which is now known as the Central Hall of Parliament House. Since the**permanent chairman (President)**had not yet been elected,**Dr. Sachidananda Sinha**, the**oldest member**, was appointed as the**temporary chairman**(provisional **president**) to**preside over the inaugural session of the Assembly,**following the French practice. Subsequently, on**11th December 1946**, the Assembly elected**Dr. Rajendra Prasad**as its**permanent President**, while Professor**H. C. Mukherjee**and**Sir V. T. Krishnamachari**were chosen as the**Vice-Presidents**of the Constituent Assembly. In addition,**B. N. Rau**served as the**Constitutional (Legal) Adviser** to the Assembly. This marked the formal beginning of the Constitution-making process in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?gees1=10-12](https://ncert.nic.in/textbook.php?gees1=10-12) Page: 213. Mastering Indian Polity by Forum IAS, 1st Edition, Chapter: 3 - Making of the Constitution, Page: 20."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q03",
+      "questionNumber": 3,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "With reference to the Preamble to the Constitution of India, consider the following objectives:",
+        "I. Social equality",
+        "II. Liberty of expression",
+        "III. Dignity of the individual",
+        "IV. Political justice",
+        "V. Welfare of the people",
+        "VI. Equality of outcome",
+        "How many of the above objectives are explicitly mentioned in the Preamble to the Constitution of India?"
+      ],
+      "questionText": "With reference to the Preamble to the Constitution of India, consider the following objectives: I. Social equality II. Liberty of expression III. Dignity of the individual IV. Political justice V. Welfare of the people VI. Equality of outcome How many of the above objectives are explicitly mentioned in the Preamble to the Constitution of India?",
+      "options": {
+        "a": "Only three",
+        "b": "Only four",
+        "c": "Only five",
+        "d": "All the six"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The**Preamble to the Constitution of India sets out**the**guiding ideals and objectives that the Constitution seeks to **achieve.**It embodies the philosophy of the Indian polity and declares India to be a Sovereign, Socialist, Secular, Democratic, Republic, and aims to secure to all its citizens:**Justice**- social, economic and**political;**Liberty **- of thought,**expression,**belief, faith and worship;**Equality**- of status and of opportunity; and to promote among them all**Fraternity**- assuring the**dignity of the individual**and the unity and integrity of the Nation.** Option I is incorrect: **The Preamble refers to \"**justice-social, economic and political**,\" and \"**equality of status and **opportunity**.\" However, the specific phrase \"**social equality**\" does not occur.**The idea is implicit, but not explicitly **stated. ** Option II is correct: Liberty of expression**objective is**explicitly mentioned**. The Preamble clearly refers to \"**Liberty **of **thought,**expression,**belief, faith and worship.\"** Option III is correct: Dignity of the individual is also explicitly mentioned. **The Preamble assures \"**Fraternity **assuring **the**dignity of the individual **and the unity and integrity of the Nation.\"** Option IV is correct: Political justice **objective is also**explicitly mentioned**. It is**part of the triad \"Justice**- social, economic and**political**.\"** Option V is incorrect: **The term** \"welfare of the people\" does not appear in the Preamble. **While the Preamble reflects welfare-oriented ideals, this expression is not used explicitly.** Option VI is incorrect: Equality of outcome objective is not mentioned in the Preamble. **The Preamble speaks of \"**equality of status and opportunity**,\" not \"equality of outcome.\"\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?gees1=10-12](https://ncert.nic.in/textbook.php?gees1=10-12) Page: 225. Mastering Indian Polity by Forum IAS, 1st edition, Chapter: 5 - Preamble of the Indian Constitution, Page: 34."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q04",
+      "questionNumber": 4,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "With reference to the Constituent Assembly of India, consider the following statements:",
+        "I. All the members of the Constituent Assembly were indirectly elected by the members of the Provincial Legislative Assemblies.",
+        "II. Each seat in the Constituent Assembly represented approximately ten lakh people.",
+        "III. The composition of the Assembly was broadly in accordance with the scheme recommended by the Cabinet Mission Plan of 1946.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Constituent Assembly of India, consider the following statements: I. All the members of the Constituent Assembly were indirectly elected by the members of the Provincial Legislative Assemblies. II. Each seat in the Constituent Assembly represented approximately ten lakh people. III. The composition of the Assembly was broadly in accordance with the scheme recommended by the Cabinet Mission Plan of 1946. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**Constituent Assembly**of India was**established in December 1946**under the**Cabinet Mission Plan of 1946**to**frame the Constitution of independent India**. It comprised members elected indirectly by the Provincial Legislative Assemblies and representatives from the Princely States. The Constituent Assembly took 2 years, 11 months, and 18 days, from 9 December 1946 to 26 November 1949 to complete the drafting of the Constitution.**\n\nStatement I is incorrect: **All the members of the Constituent Assembly were** not chosen by indirect election by the **members of the Provincial Legislative Assemblies**. The Constituent Assembly comprised**partly elected members **and partly nominated members**. The**representatives of British India were elected**through proportional representation by means of the single transferable vote, while the**representatives of the Princely States were **nominated**by the heads of the princely states. The** total strength of the constituent Assembly was 389**, of whom 296 seats allotted to British India and 93 to the Princely States. Of the 296 seats from British India, 292 were from the Governors' Provinces and 4 were from the Chief Commissioners' Provinces. After the**Indian Independence Act of 1947**, the Muslim League members from the areas that became Pakistan withdrew from the Constituent Assembly. Consequently, the** total strength of the Assembly was reduced from 389**to **299**. The representation of British Indian provinces decreased from 296 to 229, and that of the**princely states from 93 **to 70.**\n\nStatement II is correct:**Seats **in the Constituent Assembly were**distributed among the Provinces and Princely **States in proportion to their population**, roughly at the rate of**one seat for every ten-lakh people. **\n\nStatement III is correct:**The**composition of the Assembly**was broadly**in accordance with the scheme **recommended by the Cabinet Mission Plan of 1946**, which proposed:\nThe formation of the Constituent Assembly, The method of election, and The distribution of seats among the British Indian Provinces and Princely States.\nThus, the Assembly's structure and method of selection were designed as per the Cabinet Mission's recommendations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?keps2=1-10](https://ncert.nic.in/textbook.php?keps2=1-10) Page: 15. Mastering Indian Polity by Forum IAS, 1st edition, Chapter: 3 - Making of the Constitution, Page: 16."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q05",
+      "questionNumber": 5,
+      "subject": "Polity",
+      "sectionGroup": "Part XX: Amendment of the Constitution",
+      "microTopic": "Amendment and Basic Structure",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India.",
+        "2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. The Parliament of India can place a particular law in the Ninth Schedule of the Constitution of India. 2. The validity of a law placed in the Ninth Schedule cannot be examined by any court and no judgement can be made on it. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement 1 is correct. **The Ninth Schedule contains a list of central and state laws. The Schedule became a part of the Constitution in 1951, when the document was amended for the first time. The**Parliament has the power to place a**particular law **in the Ninth Schedule of the Constitution of India.**\n\nStatement 2 is incorrect. **The mandate of ninth schedule is to prevent judicial scrutiny but in a landmark ruling in**IR**Coelho **versus State of Tamil Nadu, 2007, the Supreme Court of India ruled that all laws (including those in the Ninth Schedule) would be**open to Judicial Review **if they violated the basic structure of the constitution. The Supreme Court judgment laid that the laws placed under Ninth Schedule after April 24, 1973 shall be open to challenge in court if they violated fundamental rights guaranteed under Article 14, 19, 20 and 21 of the Constitution.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q06",
+      "questionNumber": 6,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "With reference to the 'Objectives Resolution,' that was moved and adopted in the Constituent Assembly of India, consider the following statements:",
+        "I. It was introduced in the Constituent Assembly by Dr. Bhim Rao Ambedkar.",
+        "II. It emphasised upon adequate safeguards for minorities and the depressed classes.",
+        "III. It declared that all powers and authority of the Sovereign Independent India are derived from the people.",
+        "IV. It was passed by the Constituent Assembly on 26th November 1949.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the 'Objectives Resolution,' that was moved and adopted in the Constituent Assembly of India, consider the following statements: I. It was introduced in the Constituent Assembly by Dr. Bhim Rao Ambedkar. II. It emphasised upon adequate safeguards for minorities and the depressed classes. III. It declared that all powers and authority of the Sovereign Independent India are derived from the people. IV. It was passed by the Constituent Assembly on 26th November 1949. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "II and III only",
+        "c": "III and IV",
+        "d": "II only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Objectives Resolution was moved in the Constituent Assembly. It defined the aims and aspirations of the Constituent Assembly of India, and encapsulated the values behind the Constitution.**\n\nStatement I is incorrect. Jawaharlal Nehru introduced the Objectives Resolution**in the Constituent Assembly on 13th December 1946. Dr. B.R. Ambedkar was the Chairman of the Drafting Committee of the Constituent Assembly.**\n\nStatement II is correct. **The Objectives Resolution emphasised upon** adequate safeguards shall be **provided for minorities, backward and tribal areas, and depressed and other backward classes**.**\n\nStatement III is correct.**The Objectives Resolution declared that \"**all powers and authority of the Sovereign **Independent India, its constituent parts and organs of government, are derived from the people**.\" Hence, this statement is correct.**\n\nStatement IV is incorrect.**After a detailed discussion and debate,**the Constituent Assembly passed and adopted the **Objectives Resolution on 22nd January, 1947. **\n\nKnowledge Base: Main points of the Objectives Resolution are as follows: India shall be a Union of erstwhile British Indian territories, Indian States, and other parts outside British India and Indian States as are willing to be a part of the Union;\nIndia would make full and willing contributions to the promotion of world peace and welfare of mankind. The Preamble of India Constitution is based on the 'Objectives Resolution.'",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Class 11th NCERT Indian Constitution at Work, Chapter- Constitution: Why and How?, Page: 19-20 Mastering Indian Polity by ForumIAS 1st Edition, Chapter 3 - Making of the Constitution Page: 17"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q07",
+      "questionNumber": 7,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "While framing the Constitution, the makers of the Indian Constitution drew inspiration from various sources. In this context, consider the following pairs: Provisions in the Indian Constitution Inspired from the Constitution of",
+        "I. Prerogative Writs United Kingdom",
+        "II. Concurrent List of the Seventh Schedule Canada",
+        "III. The process of impeachment of the President Australia",
+        "IV. Vesting of residuary powers with the Union Government United States of America",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "While framing the Constitution, the makers of the Indian Constitution drew inspiration from various sources. In this context, consider the following pairs: Provisions in the Indian Constitution Inspired from the Constitution of I. Prerogative Writs United Kingdom II. Concurrent List of the Seventh Schedule Canada III. The process of impeachment of the President Australia IV. Vesting of residuary powers with the Union Government United States of America How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The makers of the Constitution of India borrowed a number of provisions from different countries. But borrowing these ideas was not plain imitation. Each provision was suitably altered to make it suited to Indian problems and aspirations.**Pair I is correct. The prerogative writs were adopted from the United Kingdom Constitution. **Important provisions adopted from the British Constitution are: Parliamentary Form of Government The idea of the rule of law Parliamentary privileges and Bicameralism**Pair II is incorrect. The idea of Concurrent List was adopted from the Australian Constitution. **Important provisions adopted from the Australian Constitution are: Freedom of trade, commerce and intercourse Joint sitting of the two Houses of Parliament**Pair III is incorrect. The process of impeachment of the President was adopted from the Constitution of the United **States of America. **Important provisions adopted from the Constitution of United States of America: Fundamental Rights Independence of judiciary Judicial review Removal of Supreme Court and High Court judges Post of Vice-President**Pair IV is incorrect. The vesting of residual Powers with the Union Government was adopted from the Canadian **Constitution. **Important provisions adopted from the Canadian Constitution are: Federation with a strong Centre Vesting of residuary powers in the Centre Appointment of State Governors by the Centre Advisory jurisdiction of the Supreme Court Knowledge Base: Provisions adopted from Constitutions of other countries:**Ireland: **Directive Principles of State Policy Nomination of members to Rajya Sabha Method of election of the President**Japan:**Procedure Established by law**Soviet Union (USSR): **Fundamental duties Ideals of justice (social, economic and political) in the Preamble**South Africa: **Procedure for amendment of the Indian Constitution Election of members of the Rajya Sabha**France: ** Republic Ideals of liberty, equality and fraternity in the Preamble",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Class 11th NCERT Indian Constitution at Work, Chapter: Constitution: Why and How?, Page: 22 Mastering Indian Polity by ForumIAS 1st edition, Chapter 2 - Constitution of India , Pages: 12 and 13"
+      },
+      "questionTable": {
+        "headers": [
+          "Provision in the Indian Constitution",
+          "Inspired from the Constitution of"
+        ],
+        "rows": [
+          [
+            "Prerogative Writs",
+            "United Kingdom"
+          ],
+          [
+            "Concurrent List of the Seventh Schedule",
+            "Canada"
+          ],
+          [
+            "The process of impeachment of the President",
+            "Australia"
+          ],
+          [
+            "Vesting of residuary powers with the Union Government",
+            "United States of America"
+          ]
+        ]
+      },
+      "questionBlocks": [
+        {
+          "type": "text",
+          "lines": [
+            "While framing the Constitution, the makers of the Indian Constitution drew inspiration from various sources. In this context, consider the following pairs:"
+          ]
+        },
+        {
+          "type": "table",
+          "headers": [
+            "Provision in the Indian Constitution",
+            "Inspired from the Constitution of"
+          ],
+          "rows": [
+            [
+              "Prerogative Writs",
+              "United Kingdom"
+            ],
+            [
+              "Concurrent List of the Seventh Schedule",
+              "Canada"
+            ],
+            [
+              "The process of impeachment of the President",
+              "Australia"
+            ],
+            [
+              "Vesting of residuary powers with the Union Government",
+              "United States of America"
+            ]
+          ]
+        },
+        {
+          "type": "text",
+          "lines": [
+            "How many of the pairs given above are correctly matched?"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q08",
+      "questionNumber": 8,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to India Polity, consider the following statements:",
+        "Statement I: India follows constitutional supremacy rather than parliamentary supremacy.",
+        "Statement II: The Constitution came into effect before the first elected Parliament in the post independent India came into existence. Statements III: The Constitution specifies the composition and the powers of the Parliament.",
+        "Which one of the following is correct in respect of the statements given above?"
+      ],
+      "questionText": "With reference to India Polity, consider the following statements: Statement I: India follows constitutional supremacy rather than parliamentary supremacy. Statement II: The Constitution came into effect before the first elected Parliament in the post independent India came into existence. Statements III: The Constitution specifies the composition and the powers of the Parliament. Which one of the following is correct in respect of the statements given above?",
+      "options": {
+        "a": "Both statement II and statement III are correct and both of them explain statement I",
+        "b": "Both statement II and statement III are correct, but only one of them explains statement I",
+        "c": "Only one of the statements II and III is correct, and that explains statement I",
+        "d": "Neither Statement II nor statement III is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **A constitution is a body of fundamental principles according to which a state is constituted or governed. It specifies the basic allocation of power in a society. It allocates powers to various organs of the State.**\n\nStatement I is correct:**India follows constitutional supremacy**. **The Parliament derives its existence, powers and authority from the Constitution. \n\nStatement II is correct but does not appropriately explain Statement I. The Constitution came into effect before **the first elected Parliament came into existence. **The Constitution framed by the Constituent Assembly was adopted on 26 November 1949 and it came into force on 26 January 1950. The first General Elections were held in the year**1951-52**under the new Constitution. Until then, from 1950 to 1952, the Constituent Assembly itself functioned as the Provisional Parliament. The two Houses of Parliament came into being in 1952. Article 79 says that there shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the Council of States and the House of the People. Even though** the constitution came into effect before the first elected Parliament came into existence, it does not **correctly explain as to why the authority of the Indian constitution is higher**than that of Parliament.**\n\nStatement III is correct and explains Statement I. **The authority of the Indian Constitution is higher than that of the Parliament of India as it**specifies the composition, the powers and the limitations of the Parliament.**The Constitution specifies the manner in which the Parliament needs to be organised. For example,**Article 79 **states that, there shall be a Parliament for the Union which shall consist of the President and two Houses to be known respectively as the Council of States and the House of the People. Also**Article 245 of Indian Constitution** provides the-Extent of laws made by Parliament and by the Legislatures of States.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Class 11th NCERT Indian Constitution at Work, Chapter: Constitution: Why and How?, Page: 23 Mastering Indian Polity by ForumIAS 1st edition, Chapter 2 - Constitution of India , Page: 8"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q09",
+      "questionNumber": 9,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: India is called a sovereign nation.",
+        "Statement II: The states in India have no right to secede from the federation.",
+        "Statement III: India can acquire any foreign territory according to the modes recognized by international law.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: India is called a sovereign nation. Statement II: The states in India have no right to secede from the federation. Statement III: India can acquire any foreign territory according to the modes recognized by international law. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**\n\nStatement I is correct:**The term**sovereign means that India is neither a dependency nor a dominion of any other **nation but an independent State**. India is free to conduct both internal and external affairs. As a sovereign State, India has the power to acquire foreign territory or cede part of its territory in accordance with international law. India became a fully sovereign republic on 26 January 1950 with the adoption of its Constitution. Thus, India is called a sovereign nation.**\n\nStatement II is correct:**Article 1 describes India, that is, Bharat, as a \"Union of States\"**rather than a \"Federation of States.\" According to**Dr. B.R. Ambedkar**, the term \"Union of States\" was preferred because: (i) the Indian federation is not the result of an agreement among the States, unlike the American federation, and (ii)**the States have no right to **secede from the Union**. The Union is indestructible, with States created mainly for administrative convenience. However,**while this statement is correct, it does not explain Statement I**. The prohibition on secession relates to the federal structure and the unity and integrity of the nation, rather than being a direct expression of sovereignty.**\n\nStatement III is correct:**Being a sovereign State,**India can acquire any foreign territory according to the modes **recognised by international law**, which include cession through treaty, purchase, gift, lease, or plebiscite; occupation of territory not under the control of any recognised ruler; and conquest or subjugation. After the commencement of the Constitution, India acquired several foreign territories through these recognised modes, such as Dadra and Nagar Haveli, Goa, Daman and Diu, Puducherry, and Sikkim. These examples demonstrate India's exercise of external sovereignty. Hence,**\n\nStatement III is correct and explains Statement I**, as it reflects the sovereign powers of the country in conducting its external affairs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q10",
+      "questionNumber": 10,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "How does the political philosophy of the Indian Constitution differ from that of the western political philosophy?",
+        "I. Classical western liberalism emphasizes on the primacy of individual rights over social justice, whereas the Indian constitution tries to balance the both.",
+        "II. Unlike the western idea of secularism, Indian secularism advocates strict separation of State from religion.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "How does the political philosophy of the Indian Constitution differ from that of the western political philosophy? I. Classical western liberalism emphasizes on the primacy of individual rights over social justice, whereas the Indian constitution tries to balance the both. II. Unlike the western idea of secularism, Indian secularism advocates strict separation of State from religion. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct. Classical Western Liberalism places individual liberty at the centre**. It is rooted in the idea of tolerance and the freedom of thought, expression and action. Thinkers like**John Locke**argued that individuals possess certain natural rights such as life, liberty and property even before the formation of any government.**John **Stuart Mill**further emphasised that individuals should be free to act according to their own will as long as their actions do not cause harm to others. Hence,**classical Western liberalism emphasises the primacy of individual **rights over social justice. **However, the Indian Constitution**seeks to achieve a balance between individual rights in Part III and the goals of **social justice **reflected in the Directive Principles of State Policy. This balancing approach is also seen in the reasonable restrictions placed on fundamental rights in order to promote equality, welfare and social order.**\n\nStatement II is incorrect. **Secularism refers to the separation of religion from the State. It means that the state shall not favor or promote any particular religion. The Indian Constitution mandates that the Indian State is secular. The Preamble also declares India to be a secular nation.**The Western idea of secularism connotes a complete separation between religion and the state.**Western conception of secularism means mutual exclusion of state and religion in order to protect values such as individual freedom and citizenship rights of individuals. Mutual exclusion means that religion and state must be strictly separated.**Indian secularism is fundamentally different from Western secularism. **Indian Constitution embodies the positive concept of secularism, i.e. giving equal respect to all religions.**Separation **in India does not mean mutual exclusion.**The state can interfere in the affairs of religion, for example to eradicate untouchability.**Indian secularism is compatible with the idea of state-supported religious reforms. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Class 11th NCERT Indian Constitution at Work, Chapter: The Philosophy of the Constitution, Page: 226-230 Mastering Indian Polity by Forum IAS, 1st Edition, Chapter 6 : - Nature of Indian State, Page: 42"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q11",
+      "questionNumber": 11,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which one of the following is not a characteristic feature of the Indian Independence Act, 1947? Punjab, East Bengal and NWFP."
+      ],
+      "questionText": "Which one of the following is not a characteristic feature of the Indian Independence Act, 1947? Punjab, East Bengal and NWFP.",
+      "options": {
+        "a": "The Dominion of India got the residuary territory of India, excluding the provinces of Sind, Baluchistan, West",
+        "b": "The Act sought to lay down a Constitution by the Legislative will of the British Parliament.",
+        "c": "The Act proposed to set up two independent Dominions.",
+        "d": "The Constituent Assembly of each Dominion was to have unlimited power to frame and adopt any Constitution."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Indian Independence Act, 1947, was a British Act of Parliament that partitioned British India into two independent dominions, India and Pakistan.**The Act did not lay down a constitution for either dominion.** Instead, it provided for the establishment of constituent assemblies in each dominion, which would be responsible for framing their own constitutions.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2018,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q12",
+      "questionNumber": 12,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following features:",
+        "I. Defined territory",
+        "II. Population",
+        "III. Organized Government",
+        "IV. Sovereignty",
+        "V. International Recognition",
+        "VI. Written Constitution In the context of political theory,",
+        "how many of the above are considered as essential features of a State?"
+      ],
+      "questionText": "Consider the following features: I. Defined territory II. Population III. Organized Government IV. Sovereignty V. International Recognition VI. Written Constitution In the context of political theory, how many of the above are considered as essential features of a State?",
+      "options": {
+        "a": "Only three",
+        "b": "Only four",
+        "c": "Only five",
+        "d": "All the six"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**.**To be recognised as a State in political theory, an entity must exhibit a basic structure that allows it to govern **effectively and maintain its identity on the global stage**. While modern States may differ in size, form of government, or political ideology, certain features remain absolutely non-negotiable for statehood.** Option I is correct**.**A State cannot exist in air or imagination; it needs a clearly demarcated geographical area over **which it exercises legal and political authority**. This territory can be vast like Russia or small like San Marino, but it must be identifiable and enforceable. Without land, there is no jurisdiction or scope for governance.** Option II is correct**.**The very idea of a State is built around people, citizens who are governed and who participate **in governance**. The size or composition of the population doesn't affect statehood. What matters is that there is a settled community to form the State's social foundation. Even a small number, as long as it is stable and recognisable, fulfils this criterion.** Option III is correct**.**A government is the operational arm of the State.**It is the agency through which laws are made, policies implemented, and order maintained.**Whether it's a democracy or monarchy, parliamentary or **presidential, the form does not matte**r. What matters is the existence of an authority that enforces rules and decisions. A State without a government would be reduced to chaos and power struggles.** Option IV is correct**.**Sovereignty is the most crucial feature of the State amongst all.**Sovereignty means supreme power, internally to make decisions without interference, and externally to be free from the control of any other State. India, before gaining independence in 1947, had people, territory, and a government, but lacked sovereignty, hence, it was not considered a State. Sovereignty gives a State its independent legal identity.** Option V is incorrect**.**While being recognised by other States adds diplomatic legitimacy, it is not an essential **feature of statehood in political theory**. A State may exist effectively even if not recognised universally. For example,**Taiwan **functions as a sovereign State in all practical terms, though it is not formally recognised by many countries due to geopolitical reasons..** Option VI is incorrect**.**A written Constitution is not an essential feature of a State.** While many countries like India have a written constitution that codifies rights and powers, it is not a prerequisite for statehood. The United Kingdom, for example, functions without a single written constitution and is still a fully sovereign State. A constitution may help organise the government, but its presence or absence does not define whether an entity is a State or not.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q13",
+      "questionNumber": 13,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "I. The provisions related to citizenship are contained in Part II of the Constitution of India.",
+        "II. When a new territory becomes part of India, the Parliament decides which people from that area will get Indian citizenship.",
+        "III. If an Indian citizen acquires the citizenship of another country, he/she automatically ceases to be an Indian citizen.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. The provisions related to citizenship are contained in Part II of the Constitution of India. II. When a new territory becomes part of India, the Parliament decides which people from that area will get Indian citizenship. III. If an Indian citizen acquires the citizenship of another country, he/she automatically ceases to be an Indian citizen. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Citizenship is one of the foundational concepts of political life. It defines the legal bond between an individual and the State and determines who enjoys full membership in a political community. The Indian Constitution, while laying down the initial provisions for citizenship, also empowers Parliament to legislate further on this matter.**\n\nStatement I is correct. **The provisions related to citizenship in India are located in**Part II of the Constitution**, specifically from**Articles 5 to 11**. These articles dealt with the**status of citizenship at the time of commencement of **the Constitution in 1950**. For example, they laid down who would be considered a citizen at independence, including persons domiciled in India and those migrating from Pakistan. While the Constitution initially covered only these transitional cases,**Parliament was authorised under Article 11 to make laws on citizenship**for the future. Thus, the**Citizenship Act of 1955**was enacted, and it has been amended multiple times since then to address evolving challenges. \n\nStatement II is incorrect**. I**f a foreign territory becomes part of India, the Government of India can issue an order**(published in the Official Gazette)**deciding who from that territory will become Indian citizens**, based on their connection to that place. These people will be treated as Indian citizens from the date mentioned in the order. Eg: When Pondicherry joined India, the Government issued the Citizenship (Pondicherry) Order, 1962 under the Citizenship Act, 1955. This order made the people of Pondicherry Indian citizens from the specified date. This broader framework reflects both India's sovereign authority and its evolving legal structure.**\n\nStatement III is incorrect. **As per Section 9 of the Citizenship Act, 1955, if any Indian citizen**voluntarily **acquires the citizenship of another country, he or she automatically loses Indian citizenship. Here the keyword is**voluntarily which means that if an Indian citizen consciously, knowingly, and without any **duress, undue influence, or compulsion, obtains citizenship of another country, they will no longer be **considered an Indian citizen. Thus, unless it is voluntarily he/she does not automatically ceases to be an **Indian citizen.**Also, there is an exception to section 9 of the Act as it shall not apply to a citizen of India who, during any war **in which India may be engaged, voluntarily acquires, the citizenship of another country, until the Central **Government otherwise directs. Thus, he/she doesnot automatically ceases to be an Indian citizen. **Knowledge Base:**Acquisition of Citizenship: **S. No **Mode **Key Points **1.**By Birth**Born in India: Before 1987: Citizen by birth**1987-20**04: One parent must be Indian After 2004: Both parents citizens or one not illegal migrant 2.**By Descent**Born abroad: Before 1992: Father Indian After 1992: Either parent Indian Post-2004: Must register at Indian consulate + no foreign passport 3.**By Registration**Applies to: PIOs, spouse of Indian, minors, OCI holders, ex-citizens Requires residence & oath 4.**By Naturalisation**12-month prior stay + 11 years in last 14 Good character, Indian language, oath Govt. can relax for distinguished persons 5.**By Incorporation** When the territory joins India (e.g. Pondicherry 1962), govt. notifies new citizens",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Mastering Indian Polity by Forum IAS, 1st Edition, Chapter - 9 The Idea of Citizenship Pages: 65 and 70 [https://ncert.nic.in/textbook.php?keps1=6-8%20Pg:%2092](https://ncert.nic.in/textbook.php?keps1=6-8%20Pg:%2092) - Citizen and Nation - Page 92 [https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf](https://www.indiacode.nic.in/bitstream/123456789/4210/1/Citizenship_Act_1955.pdf) (Pg: 10)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q14",
+      "questionNumber": 14,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: A written Constitution is essential for democracy to survive and thrive in a country.",
+        "Statement II: A written Constitution limits the power of the government.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: A written Constitution is essential for democracy to survive and thrive in a country. Statement II: A written Constitution limits the power of the government. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct, but Statement II does not explain Statement I.",
+        "c": "Statement I is correct, but Statement II is not correct.",
+        "d": "Statement I is not correct, but Statement II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. A Constitution is a fundamental document that provides a**framework for governance**, outlines the**rights of citizens**, and sets**limits on state power**.**\n\nStatement I is incorrect. **While most democracies including**India, the USA, and South Africa**etc. have adopted written constitutions, some successful democracies function without one. For example, the**United Kingdom**is a**well\n- **functioning democratic State**, yet it does not have a single written Constitution. Instead, it relies on**conventions, **judicial decisions, statutes, and other historical documents**(e.g., Magna Carta, Bill of Rights 1689) to govern democratic life. Despite this, it operates as a**stable, mature democracy**with regular elections, rule of law, and separation of powers. Thus, while a written Constitution is desirable and provides clarity,**it is not essential**for a democracy.**\n\nStatement II is correct. **A**written Constitution is valuable in a democracy because it helps in limiting the power of **the government**. It defines the scope of authority, outlines the duties of various organs of the State, and most importantly,**safeguards the rights of citizens**. In the Indian context, this limitation is ensured through:**Fundamental Rights**(Part III),**Directive Principles of State Policy**(Part IV),**Checks and balances between the legislature, executive, and judiciary**, and**Judicial review**by the Supreme Court and High Courts. These provisions make it difficult for any ruling party or leader to arbitrarily alter the basic structure or suppress freedoms. Thus, a written Constitution acts as a**legal shield against authoritarian drift** in a democracy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?hess3=1-8](https://ncert.nic.in/textbook.php?hess3=1-8) - Why Does a Country Need a Constitution? -Page 5 Mastering Indian Polity by Forum IAS, 1st Edition, Chapter - 2 Constitution of India Page: 10"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q15",
+      "questionNumber": 15,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The right of the government to impose taxes and fees is provided in which List of Constitution?"
+      ],
+      "questionText": "The right of the government to impose taxes and fees is provided in which List of Constitution?",
+      "options": {
+        "a": "VIth Schedule",
+        "b": "VIIth Schedule",
+        "c": "IXth Schedule",
+        "d": "XIth Schedule"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The right of the government to impose**taxes and fees **is provided in**Entry 82 **of the**Union List **of the**Seventh **Schedule **of the Constitution of India. This means that the Parliament has exclusive power to make laws on this subject.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q16",
+      "questionNumber": 16,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which of the following is the primary reason for India to adopt a Parliamentary form of government?"
+      ],
+      "questionText": "Which of the following is the primary reason for India to adopt a Parliamentary form of government?",
+      "options": {
+        "a": "To ensure separation of powers among organs of the State.",
+        "b": "To enable the people of India to have a direct role in electing their representatives.",
+        "c": "To ensure Parliamentary sovereignty in the governance process.",
+        "d": "To promote accountability of the executive to the legislatur"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The parliamentary system of government is a form of governance in which the executive and legislative branches are closely linked.**The primary reason for India to adopt the Parliamentary form of government is that the executive is **drawn from the legislature and remains responsible and accountable to it for its actions and policies.**In this system, the real executive (the cabinet or council of ministers) is legally and immediately answerable to the legislature, usually to its popularly elected lower house, for the conduct of government affairs and formulation of policies. This ensures continuous legislative control over the executive and upholds the principle of collective responsibility.**\n\nOption a is incorrect:**India**adopted the principle of separation of powers in a flexible manner which ensures the **independent functioning among the different organs of the government. Whereas the parliamentary**system provides the**fusion of executive and legislature**, not separation.**\n\nOption b is incorrect: Any democratic system whether parliamentary or presidential allows citizens to directly **elect their representatives**to the legislature. Hence enabling the people of India to have a direct role in electing their representatives is not a unique feature of this form of government.**\n\nOption c is incorrect: **India does not follow the model of full parliamentary sovereignty as practiced in the United Kingdom. Instead, the Indian system is based on**constitutional supremacy**, where the Constitution is the highest law of the land.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?hess3=1-10](https://ncert.nic.in/textbook.php?hess3=1-10) [https://egyankosh.ac.in/bitstream/123456789/67159/3/Unit-5.pdf](https://egyankosh.ac.in/bitstream/123456789/67159/3/Unit-5.pdf) Mastering Indian Polity by Forum IAS, 1st Edition, Chapter - 6 Nature of Indian State Page: 44"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q17",
+      "questionNumber": 17,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following leaders:",
+        "I. Begum Aizaz Rasul",
+        "II. Dakshayani Velayudhan",
+        "III. Vijyalakshmi Pandit",
+        "IV. Hansa Jivraj Mehta",
+        "V. Usha Mehta",
+        "How many of the above women leaders were members of the Constitution Assembly?"
+      ],
+      "questionText": "Consider the following leaders: I. Begum Aizaz Rasul II. Dakshayani Velayudhan III. Vijyalakshmi Pandit IV. Hansa Jivraj Mehta V. Usha Mehta How many of the above women leaders were members of the Constitution Assembly?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The Constitution of India was framed by the Constituent Assembly.** Option I is correct: Begum Qudsia Aizaz Rasul, the only Muslim woman in the Constituent Assembly**who stood as a staunch advocate for secularism, arguing for an inclusive national identity.** Option II is correct: Dakshayani Velayudhan is the first Dalit woman in the Constituent Assembly **who fearlessly opposed untouchability and fought for the rights of marginalized communities.** Option III is correct:**Smt.**Vijayalakshmi Pandit**, a distinguished diplomat was also a**member of constituent **Assembly**who strongly supported international cooperation and India's role in global governance.** Option IV is correct: Hansa Jivraj Mehta is one of the women members of the Constituent Assembly **who played a crucial role in drafting India's fundamental rights, ensuring that gender justice remained at the core of constitutional debates.** Option V is incorrect: Usha Mehta **was a freedom fighter known for running the secret Congress Radio during Quit India Movement,**but she was not part of the Constituent Assembly.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook/pdf/lehs304.pdf](https://ncert.nic.in/textbook/pdf/lehs304.pdf) - Page no 311 [https://www.pib.gov.in/PressReleasePage.aspx?PRID=2109365#:~:text=Dakshayani%20Velayudhan%2C%20the%20fi](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2109365#:~:text=Dakshayani%20Velayudhan%2C%20the%20fi) rst%20Dalit,early%20framework%20for%20social%20justice. [https://egyankosh.ac.in/bitstream/123456789/57222/1/Unit5.pdf](https://egyankosh.ac.in/bitstream/123456789/57222/1/Unit5.pdf) [https://inc.in/congress-sandesh/tribute/a-story-of-usha-mehta-s-struggle-for-secret-congress-radio](https://inc.in/congress-sandesh/tribute/a-story-of-usha-mehta-s-struggle-for-secret-congress-radio)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q18",
+      "questionNumber": 18,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following countries:",
+        "I. India",
+        "II. France",
+        "III. Britain",
+        "IV. United States of America Arrange the countries in a chronological order as per the year of their adoption of Universal Adult Franchise?"
+      ],
+      "questionText": "Consider the following countries: I. India II. France III. Britain IV. United States of America Arrange the countries in a chronological order as per the year of their adoption of Universal Adult Franchise?",
+      "options": {
+        "a": "III - IV - II - I",
+        "b": "IV - II - III - I",
+        "c": "III - II - I - IV",
+        "d": "IV - II - I - III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The right of the people to vote and elect their representatives is known as franchise. When this right is granted to all adult citizens without any discrimination based on caste, class, colour, religion, or sex, it is called Universal Adult Franchise. This principle is founded on the idea of equality, which is a core value of democracy. Historically, the adoption of adult franchises has been a gradual process, even in many democratic countries. In 1928 universal adult franchise was established in Britain. **France,**despite giving the world the ideals of Liberty, Equality, and Fraternity,**introduced universal adult franchise **only after the Second World War in 1945**.**India adopted**the principle of Universal Adult Franchise when the Constitution was enacted in 1949, which came into effect on**January 26, 1950**.**In the United States**, though voting rights expanded gradually, true**universal suffrage was realized only by 1965. **Hence the correct chronological order of countries based on the adoption of Universal adult Franchise is option c: **III-II-I-IV\n- **i.e. United Kingdom (1928) - France (1945) - India (1950) - United States (1965).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?gees1=9-12](https://ncert.nic.in/textbook.php?gees1=9-12) - page no 193 [https://nios.ac.in/media/documents/srsec317newE/317EL17.pdf](https://nios.ac.in/media/documents/srsec317newE/317EL17.pdf) [https://egyankosh.ac.in/bitstream/123456789/43933/1/Unit-15.pdf](https://egyankosh.ac.in/bitstream/123456789/43933/1/Unit-15.pdf)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q19",
+      "questionNumber": 19,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following features:",
+        "I. Single citizenship",
+        "II. Independent judiciary",
+        "III. Appointment of Governors",
+        "IV. Emergency Provisions",
+        "How many of the above are considered as the federal features of the Indian Constitution?"
+      ],
+      "questionText": "Consider the following features: I. Single citizenship II. Independent judiciary III. Appointment of Governors IV. Emergency Provisions How many of the above are considered as the federal features of the Indian Constitution?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **In a federal system, power is divided between two or more levels of government, such as the central and state governments. Unlike a unitary system, where the central authority can issue orders to subordinate units, in a federation, the central government cannot command the state governments. Each level of government has powers of its own and is independently answerable to the people.** Option I is incorrect: **In a unitary system, all citizens owe allegiance to only one central government. India follows this,** meaning a person is a citizen of India, not separately a citizen of their specific State. A federal country, like **the USA, typically has dual citizenship (State and Federal).** Option II is correct: An independent judiciary is a core federal feature. **The Supreme Court has the authority to interpret the Constitution and adjudicate disputes between the Union and the States.** This judicial mechanism **ensures that neither level of government exceeds its powers, maintaining the federal structure.**Options III and IV are incorrect:**The**Appointment of Governors**and**Emergency Provisions**are**unitary features**of the Indian Constitution as they strengthen**central control over the states**. Governors are appointed by the**President**. Governor also have**discretionary powers**, such as reserving bills for the President and recommending President's Rule, which enhance Union's influence. During emergencies under**Articles 352, 356, and 360**, the**federal structure **becomes unitary**, with Parliament empowered to legislate on state subjects and the Centre assuming complete control.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?jess4=2-5%20Pg:%2015](https://ncert.nic.in/textbook.php?jess4=2-5%20Pg:%2015) - Page no 15 Mastering Indian Polity by Forum IAS, 1st Edition, Chapter - 2 Constitution of India Page: 9"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q20",
+      "questionNumber": 20,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following:",
+        "I. Principle of one person, one vote, one value",
+        "II. Rule of law",
+        "III. Free and fair elections",
+        "IV. Reservation of seats in elections to minorities",
+        "How many of the above given practices are essential to uphold the principle of democracy in a country?"
+      ],
+      "questionText": "Consider the following: I. Principle of one person, one vote, one value II. Rule of law III. Free and fair elections IV. Reservation of seats in elections to minorities How many of the above given practices are essential to uphold the principle of democracy in a country?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Democracy is a system of government where rulers are chosen by the people through elections. While all democratic countries hold elections, many non-democratic regimes also conduct elections. Therefore, certain minimum conditions must be met for an election to be genuinely democratic** Option I is correct:**In a democracy, political equality is a core principle i.e. every adult citizen must have one vote, **and each vote must carry equal value.**For instance, in Fiji, the electoral system gives more weight to the votes of indigenous Fijians than to those of Indian-Fijians. Such practices violate the democratic principle of \"one person, one vote, one value.\"** Option II is correct:**In a democracy, the government is required to function within the limits defined by the **Constitution and citizens' rights, upholding the principle of the rule of law**. Thus, the state must respect and protect the fundamental rights of its citizens. All individuals are equal before the law, and an independent judiciary ensures that these rights are safeguarded and its decisions are respected by all.** Option III is correct: Elections in a democracy must be conducted at regular intervals in a free and fair manner, **allowing citizens to choose their representatives as they truly wish and should provide a real choice among political alternatives, ensuring that those in power have a fair possibility of being replaced.** Option IV is incorrect: **The Reservation of seats in elections for minorities is not considered an essential or defining feature of democracy because it is a measure of Affirmative Action rather than a core universal principle of political governance.** Democracy can fully function without it, provided fundamental democratic institutions and principles **are maintained.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?iess4=1-5](https://ncert.nic.in/textbook.php?iess4=1-5) - Page no 6 [https://ncert.nic.in/textbook/pdf/iess403.pdf](https://ncert.nic.in/textbook/pdf/iess403.pdf) Page no 36 Mastering Indian Polity by Forum IAS, 1st Edition, Chapter - 6 Nature of Indian State Page: 44"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q21",
+      "questionNumber": 21,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Democracy's superior virtue lies in the fact that it calls into activity-"
+      ],
+      "questionText": "Democracy's superior virtue lies in the fact that it calls into activity-",
+      "options": {
+        "a": "The intelligence and character of ordinary men and women.",
+        "b": "The methods for strengthening executive leadership.",
+        "c": "A superior individual with dynamism and vision.",
+        "d": "A band of dedicated party workers."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The word democracy comes from the Greek word \"demos\", meaning people, and \"Kratos\" meaning power; so, democracy can be thought of as \"power of the people\": a way of governing which depends on the will of the people. The most obvious ways to participate in government are to vote, or to stand for office and become a representative of the people. Democracy, however, is about far more than just voting, and there are numerous other ways of engaging with politics and government.**The effective functioning of democracy, in fact, depends on ordinary people using **these other means as much as possible.** The take-off point for a democracy is the idea of consent, i.e., the desire, approval and participation of people. It is the decision of people that creates a democratic government and decides its functioning. So, since democracy requires voter's decision making-hence intelligence and character of common people are called in.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2017,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q22",
+      "questionNumber": 22,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "In the Constituent Assembly of India, who moved the resolution proposing that the National Flag of India be a \"horizontal tricolour of saffron, white, and dark green in equal proportion\", with a navy-blue wheel at the centre:"
+      ],
+      "questionText": "In the Constituent Assembly of India, who moved the resolution proposing that the National Flag of India be a \"horizontal tricolour of saffron, white, and dark green in equal proportion\", with a navy-blue wheel at the centre:",
+      "options": {
+        "a": "Pingali Venkayya",
+        "b": "Sardar Vallabhbhai Patel",
+        "c": "Pattabhi Sitaramayya",
+        "d": "Jawaharlal Nehru"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**In the Constituent Assembly of India, it was**Jawaharlal Nehru**who moved the resolution proposing the adoption of the**National Flag** of India on 22 July 1947. The resolution described the flag as a horizontal tricolour of saffron, white, and dark green, all in equal proportion, with a navy-blue Ashoka Chakra (wheel) at the centre.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook/pdf/lehs304.pdf](https://ncert.nic.in/textbook/pdf/lehs304.pdf) (Page-320)"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q23",
+      "questionNumber": 23,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following personalities:",
+        "I. K.",
+        "M. Munshi",
+        "II. B. N. Rau",
+        "III. Alladi Krishnaswami Ayyar",
+        "IV. S. N. Mukherjee",
+        "V. Gopalaswami Ayyangar",
+        "How many of the above were members of the Drafting Committee of the Indian Constitution?"
+      ],
+      "questionText": "Consider the following personalities: I. K. M. Munshi II. B. N. Rau III. Alladi Krishnaswami Ayyar IV. S. N. Mukherjee V. Gopalaswami Ayyangar How many of the above were members of the Drafting Committee of the Indian Constitution?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**The**Drafting Committee of the Constituent Assembly of India**, formed on**August 29, 1947**, played a**pivotal role**in shaping the**Constitution of India.**Chaired by**Dr. B. R. Ambedkar**, it comprised 6 other members, namely -**1. **K.M. Munshi, Hence, option I is correct. **2. **Gopalaswami Ayyangar, Hence, option V is correct. **3. **Alladi Krishnaswami Ayyar, Hence, option III is correct. **4. Syed Mohammed Sadullah, 5. N. Madhava Rau (in place of B.L. Mittar) and 6. T.T. Ramakrishna Chari (in place of D.P. Khaitan)** Option II is incorrect.**B. N. Rau**was**not a member**of the Drafting Committee. He served as the**Constitutional **Advisor**, providing valuable background notes based on his detailed study of foreign constitutional models.** Option IV is incorrect.**S. N. Mukherjee**was**not a member**of the Drafting Committee. He worked as the**Chief **Draughtsman** of the Constitution, responsible for putting the committee's ideas into precise legal language.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Page 320,321 [https://ncert.nic.in/textbook/pdf/lehs304.pdf](https://ncert.nic.in/textbook/pdf/lehs304.pdf) Mastering Indian Polity by ForumIAS, 1st edition- Chapter 3- Making of Constitution, Page No.- 18"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q24",
+      "questionNumber": 24,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference the Government of India Act, 1919 consider the following statements:",
+        "Statement I: At the provincial level, the act introduced the concept of responsible government, though only in a limited sense.",
+        "Statement II: The Act categorized provincial subjects into \"transferred\" and \"reserved\", where transferred subjects were administered by Indian ministers who were responsible to the provincial legislature.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference the Government of India Act, 1919 consider the following statements: Statement I: At the provincial level, the act introduced the concept of responsible government, though only in a limited sense. Statement II: The Act categorized provincial subjects into \"transferred\" and \"reserved\", where transferred subjects were administered by Indian ministers who were responsible to the provincial legislature. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**The**Government of India Act, 1919**, also known as the**Montagu-Chelmsford Reforms**, marked an important step in India's constitutional development under British rule. It aimed to gradually introduce**responsible government**.**\n\nStatement I is correct.**The Act introduced**responsible government at provincial level**by making Indian ministers accountable to the**provincial legislative councils**for certain areas of administration (transferred subjects). However, this responsibility was partial and restricted. Responsibility was limited because the**Governor retained overriding **powers**, and not all subjects were under Indian ministers.**\n\nStatement II is correct.**The Act introduced**diarchy (dual government)**at the provincial level, and categorized provincial subjects into**\"transferred\"**and**\"reserved\"**lists. Transferred subjects (e.g., education, health, local self-government) were administered by Indian ministers who were responsible to the provincial legislature. Reserved subjects (e.g., law and order, finance, revenue) were handled by the Governor and his executive council, who were not responsible to the legislature.**Statement II explains Statement I: **Statement-II provides the reason why responsible government was introduced only in a limited sense-because ministers were responsible only for transferred subjects, while reserved subjects remained under the Governor.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Page: 326- [https://ncert.nic.in/textbook/pdf/lehs304.pdf](https://ncert.nic.in/textbook/pdf/lehs304.pdf) Mastering Indian Polity by Forum IAS, 1st Edition, Appendices Appendix I"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q25",
+      "questionNumber": 25,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "On 26th November 1949, which of the following provisions of the Constitution of India came into effect?",
+        "1. Citizenship",
+        "2. Elections",
+        "3. Provisional Parliament",
+        "4. Fundamental Rights",
+        "Select the correct answer using the codes given below:"
+      ],
+      "questionText": "On 26th November 1949, which of the following provisions of the Constitution of India came into effect? 1. Citizenship 2. Elections 3. Provisional Parliament 4. Fundamental Rights Select the correct answer using the codes given below:",
+      "options": {
+        "a": "2, 3 and 4",
+        "b": "1, 2 and 3",
+        "c": "1 and 3 only",
+        "d": "1 and 2 only"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **According to Article 394 of the Indian Constitution, this article i.e. Article 394 and articles 5, 6, 7, 8, 9, 60, 324, 366, 367, 379, 380, 388, 391, 392 and 393 shall come into force at once i.e. on 26th November 1949, and the remaining provisions of this Constitution shall come into force on the twenty-sixth day of January, 1950, which day is referred to in this Constitution as the commencement of this Constitution. Thus on**26th November 1949, 3 major provisions i.e., Elections, citizenship and provisional Parliament**and some other provisions came into force and the rest of the provisions only on 26th January 1950.**Fundamental Rights of the citizen came into force on 26th January 1950**, which day is referred to in the Constitution as the commencement of this Constitution.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2016,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2016"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q26",
+      "questionNumber": 26,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The principles of liberty, equality and fraternity form a union of trinity and divorcing one from the other would defeat the very purpose of democracy. The above statement was made in the speech of which of the below personality?"
+      ],
+      "questionText": "The principles of liberty, equality and fraternity form a union of trinity and divorcing one from the other would defeat the very purpose of democracy. The above statement was made in the speech of which of the below personality?",
+      "options": {
+        "a": "Dr. Rajendra Prasad",
+        "b": "Jawaharlal Nehru",
+        "c": "Mahatma Gandhi",
+        "d": "Dr. B.R. Ambedkar"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Dr. B.R. Ambedkar**, in his historic**concluding speech to the Constituent Assembly on 25th November 1949,**emphasized that**political democracy cannot last unless it rests on the foundation of social democracy.**He**defined social democracy**as a way of life, which**recognises liberty, equality and fraternity **as the** principles **of life**. These principles, he asserted, \"**are not to be treated as separate items in a trinity.\" **Ambedkar described them as forming a union of trinity**, meaning that to**divorce one from the other is to defeat **the very purpose of democracy. ** He explained that liberty cannot be divorced from equality, equality cannot be divorced from liberty, and nor can liberty and equality be divorced from fraternity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?keps2=1-100](https://ncert.nic.in/textbook.php?keps2=1-100) Page: 15. [https://www.pib.gov.in/newsite/printrelease.aspx?relid=109313](https://www.pib.gov.in/newsite/printrelease.aspx?relid=109313) Mastering Indian Polity by ForumIAS, 1st edition- Chapter 6- Objective of Constitution, Page No.- 53"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q27",
+      "questionNumber": 27,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: India transitioned from being a Dominion to a Republic on November 26, 1949.",
+        "Statement II: The Constitution of India was adopted on November 26, 1949.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: India transitioned from being a Dominion to a Republic on November 26, 1949. Statement II: The Constitution of India was adopted on November 26, 1949. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. *** *Statement-I is incorrect: On January 26, 1950, India transitioned from being a Dominion to a Republic (and not on November 26, 1949).**India is a republic where the President is the head of the state, elected indirectly by the people.\nThus, India became a republic on January 26, 1950 as it was **on this date that the** Constitution of India came into effect and **Dr. Rajendra Prasad assumed office as the first President of India, thereby transitioning India from a Dominion under the British Crown (Monarchy) to a Republic.** * *Statement-II is correct: **The Constituent Assembly of India**adopted the Constitution of India on 26th November **1949 (as mentioned in Preamble),**and**it came into effect on 26th January 1950.**On November 26, 1949 itself,**certain **provisions also came into force. **These were related to citizenship (Articles 5-9), elections (Articles 60, 324), definitions & interpretations (Articles 366-367), temporary and transitional provisions (Articles 379-380, 388, 391-392) and short title (Article 393). Constitution Day, also known as 'Samvidhan Divas', is celebrated on 26th November each year since 2015, to commemorate the adoption of the Constitution of India Knowledge Base:**Reason for choosing January 26 as commencement date for the Constitution of India: ** January 26 was specifically chosen as the 'date of commencement' of the Constitution because of its historical importance. It was on this day in 1930 that Purna Swaraj day was celebrated, following the resolution of the Lahore Session (December 1929) of the Indian National Congress (INC).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q28",
+      "questionNumber": 28,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following:",
+        "I. Socialist",
+        "II. Secular",
+        "III. Fraternity",
+        "IV. Equality of opportunity",
+        "V. Dignity of the individual",
+        "How many of the above terms were added to the Preamble through the 42nd Constitutional Amendment Act, 1976?"
+      ],
+      "questionText": "Consider the following: I. Socialist II. Secular III. Fraternity IV. Equality of opportunity V. Dignity of the individual How many of the above terms were added to the Preamble through the 42nd Constitutional Amendment Act, 1976?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**Preamble refers to the preface to the Constitution of India. The Preamble has so far been**amended only once, by the 42nd **Constitutional Amendment, Act 1976. **This amendment added three new terms to the Preamble - 'Socialist,' 'Secular' and 'Integrity.'**Options I and II are correct: **The 42nd Constitutional Amendment Act, 1976,**changed the Constitutional status of **India **from **'Sovereign **Democratic **Republic' **(as on 26 January 1950)**to a **'Sovereign, Socialist, Secular, Democratic, **Republic'.**The word 'socialist; was not there in the Preamble of the Constitution in its original form. The word 'Socialism' had been used in the context of economic planning. It signifies a major role in the economy. It also means commitment to attain ideals like removal of inequalities, provision of minimum basic necessities to all, equal pay for equal work. The word 'secular' implies that in India there will be no 'State' religion-the 'State' will not support any particular religion out of public funds. Thus, every individual is free to believe in, and practice, any religion he/ she belongs to, and, State will not discriminate against any individual or group on the basis of religion.** Option III is incorrect: **The word**'fraternity' was present in the original Constitution**and was not added by the 42nd Constitutional Amendment Act, 1976.**Inclusion of phrases like **'dignity of individuals',** 'fraternity among people' **and 'unity and integrity of the nation' in the Preamble highlight the need for harmonious co-existence among various religions, linguistic, cultural and economic groups.** Option IV is incorrect: **The word**'equality of opportunity' was present in the original Constitution**and was not added by the 42nd Constitutional Amendment Act, 1976. The Constitution provides that all citizens of India should be treated equally and extended equal protection of law without any discrimination based on caste, creed, birth, religion, sex etc. Similarly**equality of opportunities implies that regardless of the socio-economic situations into which one **is born, he/she will have the same chance **as everybody else to develop his/ her talents and choose means of livelihood.** Option V is incorrect: **The Preamble declares that fraternity has to assure two things-the dignity of the individual and the unity and integrity of the nation. The**word 'integrity' (and not the 'dignity of the individual) has been added** to the Preamble by the 42nd Constitutional Amendment Act, 1976. It replaced the phrase \"unity of the nation\" by \"unity and integrity of the nation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q29",
+      "questionNumber": 29,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to a republic state, consider the following statements:",
+        "I. In a republic state, the head of the state is always elected for a prescribed period.",
+        "II. A country must be a 'republic' to be recognised as a democratic nation.",
+        "III. The idea of a republic adopted in India was borrowed from the Constitution of the United States of America.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to a republic state, consider the following statements: I. In a republic state, the head of the state is always elected for a prescribed period. II. A country must be a 'republic' to be recognised as a democratic nation. III. The idea of a republic adopted in India was borrowed from the Constitution of the United States of America. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II",
+        "c": "II and III",
+        "d": "I and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The Constitution declares the Union of India a Sovereign, Socialist, Secular, Democratic Republic. It was enforced with effect from January 26, 1950. From this day, India became a Republic.**\n\nStatement I is correct:**The term 'Republic' implies 'an elected Head of the State'.**Under a Republic form, the Head of **the State, **single or collective,** is always elected for a prescribed period.**For example in the U.S.A., the Head of the State and Chief Executive (the President) is elected for a period of four years. Similarly, in Switzerland, a collegium of seven members is elected for a term of four years to constitute the executive.**\n\nStatement II is incorrect: **A**democratic polity can be classified into two categories-monarchy and republic. **In a monarchy, the head of the state (usually king or queen) enjoys a hereditary position, that is, he comes into office through succession, e.g., Britain. The British monarch, a hereditary ruler, is no hindrance to the democratic government as the real rules of the State are in the hands of the representative of the electorate. Thus,**being a **republic is not a pre-condition for a country to be recognised as a democratic nation. **In a republic, on the other hand, the head of the state is always elected directly or indirectly for a fixed period, e.g., USA.**\n\nStatement III is incorrect: **The term 'republic' in our Preamble indicates that India has an elected head called the President. He is elected indirectly for a fixed period of five years. The provision is similar to the arrangement in the United States of America (USA). However, the**concept of republic in India is adopted from the French Constitution **(and not adopted from the Constitution of the USA).**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q30",
+      "questionNumber": 30,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: In the Indian Constitution, the ethos of positive liberty is embedded.",
+        "Statement II: In India, the State can impose reasonable restrictions on the liberty of citizens.",
+        "Statement III: In India, the State facilitates the realization of certain rights and opportunities.",
+        "Which one of the following is correct in respect of the statements given above?"
+      ],
+      "questionText": "Consider the following statements: Statement I: In the Indian Constitution, the ethos of positive liberty is embedded. Statement II: In India, the State can impose reasonable restrictions on the liberty of citizens. Statement III: In India, the State facilitates the realization of certain rights and opportunities. Which one of the following is correct in respect of the statements given above?",
+      "options": {
+        "a": "Both statement II and statement III are correct and both of them explain statement I",
+        "b": "Both statement II and statement III are correct, but only one of them explains statement I",
+        "c": "Only one of the statements II and III is correct, and that explains statement I",
+        "d": "Neither Statement II nor statement III is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Positive liberty refers to the freedom that comes from having the right conditions-such as supportive laws, social norms, and opportunities-that allow individuals to develop themselves fully. It recognises that some limits on personal behaviour are necessary to maintain social order and ensure that one person's actions do not harm the well-being of others. In this sense, positive liberty acts as a safeguard against excessive individual freedom that might disrupt social stability.**\n\nStatement I is correct:**In the Indian Constitution, the ethos of positive liberty is embedded**\n\nStatement II is correct and explains Statement I: **In India, the**State can impose reasonable restrictions on the **liberty of citizens. **In the constitutional provisions in India, the term used for such justifiable constraints is 'reasonable restrictions'. The restrictions may be there but they must be reasonable, i.e., capable of being defended by reason, not excessive, not out of proportion to the action being restricted, since then it would impinge on the general condition of freedom in society. As**positive liberty recognises that some limits on personal behaviour are necessary to maintain social order**and ensure that one person's actions do not harm the well-being of others. The term used for such justifiable constraints is 'reasonable restrictions' in India.**Thus Statement II explains Statement I. **\n\nStatement III is correct and explains Statement I:**In India, the**State**facilitates the realization of certain rights and **opportunities.**Some of the constitutional provisions, like the Fundamental Rights, exemplify this commitment, aiming to preserve and promote various facets of liberty. As positive liberty refers to the freedom that comes from having the right conditions-such as supportive laws, social norms, and opportunities-that allow individuals to develop themselves fully. Thus, in the Indian Constituion the ethos of positive liberty is embedded.**Therefore Statement III explains Statement I. **Knowledge Base:**Concept of Negative Liberty: **'Negative liberty' seeks to define and defend an area in which the individual would be inviolable, i**n which he or she could 'do, be or become' whatever he or she wished to 'do, be or become'. This is an area in which no external authority can interfere. It is a**minimum area that is sacred and in which whatever the individual does, is not to be interfered with. **The existence of the 'minimum area of noninterference' is the recognition that human nature and human dignity need an area where the person can act unobstructed by others.\nNegative liberty tradition argues for an inviolable area of non-interference in which the individual can express himself or herself.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?keps1=2-8](https://ncert.nic.in/textbook.php?keps1=2-8) (Page. 26 - 28) Mastering Indian Polity by ForumIAS 1st edition, Chapter - 7, Objective of Constitution Page 51-52"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q31",
+      "questionNumber": 31,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "One of the implications of equality in society is the absence of:"
+      ],
+      "questionText": "One of the implications of equality in society is the absence of:",
+      "options": {
+        "a": "Privileges",
+        "b": "Restraints",
+        "c": "Competition",
+        "d": "Ideology"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\"Equality means equal rights for all the people and the**abolition of all special rights and privileges\"**.\n- Barker\nThus, negative equality implies abolition of all special privileges and facilities which may be available to some classes or some persons in society. It also stands for the abolition of all man-made inequalities and discriminations. Positive Equality stands for equal rights, equitable distribution of resources, equal opportunities for development and relative equality with due recognition of merit, abilities and capacities of various persons.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2017,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q32",
+      "questionNumber": 32,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "With reference to Non-Resident Indians (NRIs) and Overseas Citizens of India (OCI), consider the following statements: Both NRIs and OCI cardholders-",
+        "I. cannot acquire agricultural land in India by way of purchase.",
+        "II. are required to register with the local police authorities, if the period of stay exceeds 180 days in India. Which of the above given statements is/are correct?"
+      ],
+      "questionText": "With reference to Non-Resident Indians (NRIs) and Overseas Citizens of India (OCI), consider the following statements: Both NRIs and OCI cardholders- I. cannot acquire agricultural land in India by way of purchase. II. are required to register with the local police authorities, if the period of stay exceeds 180 days in India. Which of the above given statements is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **India recognizes two major categories of persons of Indian origin residing abroad -**Non-Resident Indians (NRIs)**and**Overseas Citizens of India (OCIs)**. An**NRI**is an**Indian citizen residing outside India**, holding an**Indian passport**. An**OCI cardholder**, on the other hand, is a**foreign national of Indian origin**who enjoys certain privileges in India but is**not an Indian citizen**.**\n\nStatement I is correct:**A person resident outside India who is a citizen of India**(NRI)**can acquire by way of purchase, any immovable property in India**other than agricultural land/plantation property/farm house. **\n\nNote: S/he may transfer agricultural land/ plantation property / farm house acquired by way of inheritance, only **to Indian citizens permanently residing in India. **OCI cardholders **are**foreign nationals**, and under**Foreign Exchange Management Act (FEMA), 1999**, they**cannot **acquire agricultural land/plantation property/farm house. **Thus both of them cannot acquire by way of purchase any agricultural land in India. **\n\nStatement II is incorrect:**Both**NRIs**nor**OCI cardholders**are**not required to**register with the local police or FRRO **(Foreigners Regional Registration Officer)**during their stay in India.**NRIs**, as Indian citizens, can stay in India indefinitely without any registration.**OCI cardholders**are specifically**exempt from registration**, regardless of the duration of stay, as per the**OCI Cardholder Rules, 2015**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q33",
+      "questionNumber": 33,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following pairs:`nParts of the Indian Constitution Subject Matter",
+        "I. Part VIII The Union Territories",
+        "II. Part X The Scheduled and Tribal Areas",
+        "III. Part XI Relations between the Union and the States",
+        "IV. Part XII Elections",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs:`nParts of the Indian Constitution Subject Matter I. Part VIII The Union Territories II. Part X The Scheduled and Tribal Areas III. Part XI Relations between the Union and the States IV. Part XII Elections How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**The**Constitution of India**, adopted on**26th November 1949**and enforced on**26th January 1950**, is the**supreme law **of the land**. It lays down the**framework for governance**, defining the**structure, powers, and responsibilities**of the Union and the States, and guaranteeing**rights and duties**to citizens. The Constitution is divided into**22 Parts**,**12 **Schedules**, and contains**395 Articles (originally)**.**Pair I is correctly matched: Part VIII (Articles 239-242)**deals with the**administration of Union Territories (UTs)**, including the**National Capital Territory of Delhi**. UTs are regions of**strategic, historical, or administrative **importance**governed**directly by the Union Government**.**Article 239**: Administration of UTs by the President through an Administrator or Lieutenant Governor.**Article 239A**: Creation of**Legislature or Council of Ministers**for certain UTs.**Article 239AA**:**Special provisions for Delhi**, giving it an elected Assembly while key subjects (police, land, public order) remain with the Centre.**Article 239AB**: Provision for**failure of constitutional machinery**in UTs.**Article 239B**: Power of Administrator to**promulgate Ordinances**.**Article 240**: Power of**President to make regulations**for specific UTs.**Article 241**: Establishment of**High Courts**for UTs.**Article 242**: (Now repealed) dealt with**Coorg**.**Pair II is correctly matched: Part X (Articles 244-244A)**provides**special administrative provisions**for**Scheduled **and Tribal Areas**to protect the rights and culture of**tribal communities**and ensure their**self-governance and **development**.**Article 244**: Deals with the**administration of Scheduled Areas (Fifth Schedule)**and**Tribal Areas (Sixth Schedule)**, providing for**Tribes Advisory Councils**and**Autonomous District Councils**.**Article 244A**: Empowers Parliament to create an**autonomous state**within**Assam**, with its own**Legislature or **Council of Ministers**, to safeguard tribal interests.**Pair III is correctly matched: Part XI (Articles 245-263)**defines the framework for**legislative and administrative **relations**between the**Union and the States**, ensuring coordination, balance of power, and cooperative federalism.**Chapter I-Legislative Relations: **It specifies the**distribution of legislative powers**through the**Union List, State **List, and Concurrent List**.**Articles 245-248**: Define the**extent and subject matter of laws**made by Parliament and State Legislatures, including**residuary powers**with Parliament.**Article 246A**: Introduced for**Goods and Services Tax (GST)**, giving concurrent powers to both levels.**Articles 249-252**: Allow Parliament to legislate on**State List matters**in national interest, during**Emergency**, or with**State consent**.**Articles 253-254**: Deal with**international agreements**and**conflicts between Union and State laws**.**Chapter II-Administrative Relations: **These provisions define**Union-State cooperation and control**mechanisms.**Articles 256-258A**: Lay down**mutual obligations**,**delegation of powers**, and**Union assistance to States**.**Articles 260-262**: Address**jurisdiction over external territories**and**inter-State water disputes**.**Article 263**: Provides for the establishment of an**Inter-State Council**to promote coordination among States and the Union.**Pair IV is incorrectly matched: Part XII (Articles 264-300A)**of the Constitution deals with**financial provisions, **including those related to taxation, definition of various Funds, the right to hold property, and borrowing by Union **and State governments.**It provides the fiscal framework essential for maintaining the federal balance and ensuring financial accountability.**Chapter I-Finance: **Defines the principles of**taxation, funds, and financial distribution**.**Articles 265-267**: Taxes can be imposed**only by law**; establish**Consolidated Fund**,**Public Account**, and**Contingency Fund**.**Articles 268-270 & 269A**: Specify how**taxes are levied, collected, and shared**between the Union and States.**Article 279A**: Establishes the**GST Council**.**Articles 280-281**: Provide for the**Finance Commission**and its**recommendations**on revenue sharing.**Chapter II-Borrowing: Articles 292-293**: Define the**borrowing powers**of the Union and States, ensuring fiscal discipline and coordination.**Chapter III-Property, Contracts, and Suits**Articles 294-300**: Deal with the**succession of property and liabilities**,**ownership of natural resources**, and the**conduct of contracts and legal proceedings**by government authorities.**Chapter IV-Right to Property**Article 300A**: Guarantees that**no person shall be deprived of property except by authority of law**, making the**right to property a legal right**(not a fundamental right). Knowledge Base: Each Part deals with a distinct area of governance or constitutional principle:**Part I (Articles 1-4): The Union and its Territory**- Defines India's name, territory, and provisions for forming new States or altering boundaries.**Part II (Articles 5-11): Citizenship**- Lays down rules for citizenship at the commencement of the Constitution and related rights.**Part III (Articles 12-35): Fundamental Rights**- Guarantees civil and political rights essential for democracy.**Part IV (Articles 36-51): Directive Principles of State Policy (DPSPs)**- Guidelines for the State to establish social and economic democracy.**Part IVA (Article 51A): Fundamental Duties**- Lists the moral obligations of citizens toward the nation.**Part V (Articles 52-151): The Union**- Describes the structure and functioning of the Union Executive, Parliament, and Judiciary.**Part VI (Articles 152-237): The States**- Covers the State Executive, Legislatures, and High Courts.**Part VII (Article 238): States in Part B of the First Schedule**- Now repealed.**Part IX (Articles 243-243O): The Panchayats**- Introduces the three-tier Panchayati Raj system.**Part IXA (Articles 243P-243ZG): The Municipalities**- Establishes urban local bodies for self-governance.**Part IXB (Articles 243ZH-243ZT): The Co-operative Societies**- Ensures democratic management of cooperative institutions.**Part XIII (Articles 301-307): Trade, Commerce, and Intercourse**- Ensures free trade within India with reasonable restrictions.**Part XIV (Articles 308-323): Services under the Union and States**- Regulates public services and conditions of employment.**Part XIVA (Articles 323A-323B): Tribunals**- Provides for administrative and other tribunals.**Part XV (Articles 324-329A): Elections**- Deals with the Election Commission and conduct of elections.**Part XVI (Articles 330-342A): Special Provisions for Certain Classes**- Includes reservations for SCs, STs, and special provisions for minorities.**Part XVII (Articles 343-351): Official Language**- Declares Hindi in Devanagari script as the official language and promotes its use.**Part XVIII (Articles 352-360): Emergency Provisions**- Describes national, state, and financial emergencies.**Part XIX (Articles 361-367): Miscellaneous**- Contains provisions like protection to the President and Governors.**Part XX (Article 368): Amendment of the Constitution**- Specifies the procedure to amend the Constitution.**Part XXI (Articles 369-392): Temporary, Transitional, and Special Provisions**- Includes provisions for specific States like Maharashtra, Gujarat, Nagaland, and Jammu & Kashmir (now abrogated).**Part XXII (Articles 393-395): Short Title, Commencement, and Repeals**\n- Marks the official title, date of commencement, and repeal of prior laws.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q34",
+      "questionNumber": 34,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "In general,",
+        "which one of the following is a primary function of a Constitution?"
+      ],
+      "questionText": "In general, which one of the following is a primary function of a Constitution?",
+      "options": {
+        "a": "It ensures complete separation among different organs of the state.",
+        "b": "It provides a set of ideals that reflects the moral and political identity of a country's citizens.",
+        "c": "It ensures equal distribution of wealth and resources among the citizens.",
+        "d": "It ensures that outcomes of the Parliamentary and assembly elections are always fair and free from disputes."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. A**Constitution**is not just a legal document but the**moral backbone and political foundation**of a country. It outlines how a nation should be governed and protects its citizens from arbitrary rule.**\n\nOption a is incorrect. **While a Constitution may establish the separation of powers (Legislature, Executive, Judiciary),**this separation is rarely complete.**Most modern Constitutions adopt a system of checks and balances where organs overlap and limit each other, rather than existing in absolute isolation.**\n\nOption b is correct. **The Constitution reflects the**shared values and aspirations**of its citizens. It defines what kind of society people wish to live in like democratic, inclusive, secular, and just. This gives**moral and political identity**to the citizens of a country.**\n\nOption c is incorrect.**While the Constitution may direct the State to strive for economic equality through instruments like the**Directive Principles of State Policy**, it**does not guarantee equal distribution of wealth and **resources**. Economic distribution is subject to policies, budgets, and practical governance measures. The**Constitution provides the framework and goals**,**not the guarantees of equal economic outcomes. **\n\nOption d is incorrect.**The Constitution**creates the framework**(e.g., the Election Commission) and the rules to enable free and fair elections, but it does not and cannot guarantee that the**outcomes**of every single election will be entirely free from disputes or always perceived as perfectly fair. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook/pdf/keps201.pdf](https://ncert.nic.in/textbook/pdf/keps201.pdf) - Chapter: Constitution: Why and How?"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q35",
+      "questionNumber": 35,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The citizenship means",
+        "1. full civil and political rights of the citizens.",
+        "2. the right of suffrage for election to the House of the People (of the Union) and the Legislative Assembly of every state.",
+        "3. the right to become a Member of Parliament and Member of Legislative Assemblies.",
+        "Select the correct answer using the codes given below:"
+      ],
+      "questionText": "The citizenship means 1. full civil and political rights of the citizens. 2. the right of suffrage for election to the House of the People (of the Union) and the Legislative Assembly of every state. 3. the right to become a Member of Parliament and Member of Legislative Assemblies. Select the correct answer using the codes given below:",
+      "options": {
+        "a": "1 and 2 only",
+        "b": "1 and 3 only",
+        "c": "2 and 3 only",
+        "d": "All of these"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** In Part II of the Constitution under Article 5-11, the citizenship clause has been explained.\n- Full civil and political rights are entitled to the citizens of India.\n- Also, they are entitled to be a Member of Parliament or State Legislature but one has to also satisfy the age limit criterion in order to be an MP or MLA.\n- Citizens of India have the right of suffrage for election to the House of People (of the Union) and legislative assembly of every state.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2014,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2014"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q36",
+      "questionNumber": 36,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: The Supreme Court of India is the custodian of the Constitution of India.",
+        "Statement II: The Constitution of India establishes a single, integrated judicial system with the Supreme Court placed at its apex.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: The Supreme Court of India is the custodian of the Constitution of India. Statement II: The Constitution of India establishes a single, integrated judicial system with the Supreme Court placed at its apex. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The**Supreme Court of India**, established under**Article 124**of the Constitution, is the**apex judicial body**in the country. It came into existence on**26 January 1950**with the enforcement of the Constitution. It ensures the**rule of **law**, protects**fundamental rights**, and settles disputes between the Union and States. Its decisions are binding on all courts across India.**\n\nStatement I is correct: **The Supreme Court of India is the custodian of the Constitution. It safeguards the supremacy of the Constitution by exercising the power of**judicial review**, ensuring that no law or executive action violates constitutional provisions or fundamental rights.**\n\nStatement II is correct: **The Indian Constitution establishes a**single, integrated judicial system**with the Supreme Court at its apex. Unlike federal countries such as the USA, India has one unified hierarchy of courts i.e. district courts at the base, High Courts in the middle, and the Supreme Court at the top covering both central and state laws.**Statement II does not explain Statement I:**The**single unified judicial structure**in India, with the**Supreme Court at **its top demonstrates the structure of the Judicial system in India. **It provides continuity in judicial proceedings and provides for uniform interpretation of the laws and the provisions in both the constitutional and other legal matters in the country. It signifies that the decisions and interpretations of the higher courts act as precedents for the lower courts in the country. Whereas the Supreme Court acting as custodian of the constitution,** infers that it is the duty of the court to protect **the spirit and basic structure of the constitution from any infringement by the executive and legislative actions.**It can be said to be derived from the provisions under** Article 13, **which gives the Supreme Court the power of Judicial review and Power of Supreme Court under**Article 32** of the constitution to issue writs in case of infringement of the fundamental rights. Similarly, Article 142 of the Indian Constitution grants the Supreme Court the unique power to pass any decree or order to ensure \"complete justice\" in any case, even if existing laws are silent or inadequate, allowing it to fill legislative gaps, create guidelines and direct executive actions. There are several other tools at the hand of the Supreme Court like, Special Leave Petition and Public Interest Litigation. All these provisions ensure justice is served as per provisions of the constitution and prevent any violations of the provisions in the Constitution of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q37",
+      "questionNumber": 37,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which of the following features essentially ensure constitutionalism in India?",
+        "I. Rule of law",
+        "II. Fundamental Rights to citizens",
+        "III. Separation of powers between different organs of Government",
+        "IV. Judicial Review",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following features essentially ensure constitutionalism in India? I. Rule of law II. Fundamental Rights to citizens III. Separation of powers between different organs of Government IV. Judicial Review Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I, II and III only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Constitutionalism**is the principle that the**authority of the government originates from and is limited by the **Constitution**. It ensures that the**State functions within the framework of fundamental law**, exercising its powers only to achieve the**aspirations of the people**and the**broader objectives of society**.  Option I is correct: Rule of Law**is fundamental to**constitutionalism**. It ensures that**no individual or institution, **including the government, is above the law**. By preventing arbitrary actions and maintaining equality before the law, it guarantees that all governance takes place within the framework of the Constitution.** Option II is correct: Fundamental Rights**provide clear limits on the powers of the State and protect the basic freedoms of citizens. They ensure that**the authority of the government is exercised only within constitutional **boundaries**, reflecting the spirit of a limited and accountable government.** Option III is correct: Separation of Powers**distributes governmental authority among the**Legislature, Executive, **and Judiciary**. This structure**prevents concentration of power**and enables a system of**checks and balances**, which is essential to sustain**constitutional governance**.** Option IV is correct:**Judicial Review empowers the Judiciary to**invalidate laws, executive actions, or constitutional **amendments**that violate Fundamental Rights or basic constitutional principles. It ensures**supremacy of the **Constitution**, and puts limitations on any arbitrary action of the legislature or the Executive. Hence it ensures constitutionalism in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q38",
+      "questionNumber": 38,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The Constituent Assembly of India performed which of the following functions?",
+        "I. Ratified India's membership to the Commonwealth",
+        "II. Elected Dr. Rajendra Prasad as India's first President",
+        "III. Adopted the National Flag of India",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "The Constituent Assembly of India performed which of the following functions? I. Ratified India's membership to the Commonwealth II. Elected Dr. Rajendra Prasad as India's first President III. Adopted the National Flag of India Select the correct answer using the code given below:",
+      "options": {
+        "a": "II and III only",
+        "b": "I and III only",
+        "c": "I and II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The**Constituent Assembly**, established in**1946 under the Cabinet Mission Plan**, was entrusted with drafting the Indian Constitution. The Constituent Assembly took two years, eleven months, and seventeen days to draft the Constitution of Independent India. During this period, it held eleven sessions covering a total of 165 days. Of these, 114 days were spent on the consideration of the Draft Constitution.** Option I is correct: **In**May 1949**, the Constituent Assembly**ratified India's membership of the Commonwealth**. This marked India's continued association with the Commonwealth of Nations even after gaining independence.** Option II is correct: **On**January 24, 1950**, the Assembly**elected Dr. Rajendra Prasad as the first President of India**, marking the transition from the dominion phase to a fully sovereign republic.** Option III is correct: **On**July 22, 1947**, the Constituent Assembly**adopted the National Flag of India**, symbolizing national unity and independence.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q39",
+      "questionNumber": 39,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Consider the following statements:",
+        "I. The Preamble to the Constitution of India can be amended by Parliament through a majority of the total membership of each House and two-thirds of the members present and voting.",
+        "II. The Preamble is neither a source of power nor a prohibition upon the legislative power of the Parliament.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. The Preamble to the Constitution of India can be amended by Parliament through a majority of the total membership of each House and two-thirds of the members present and voting. II. The Preamble is neither a source of power nor a prohibition upon the legislative power of the Parliament. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**Preamble**, inspired by**Jawaharlal Nehru's Objectives Resolution**, reflects the ideals of the**freedom struggle**and draws from global examples like the**U.S. Constitution**, which also begins with a preamble. It was**adopted on 26 **November 1949**and came into effect on**26 January 1950**. \n\nStatement I is correct: **The**Preamble**can be amended under**Article 368**of the Constitution. This requires a**special **majority, that**is, a majority of the total membership of each House and two-thirds of the members present and voting. The**Supreme Court in the Kesavananda Bharati Case (1973)**confirmed that the Preamble can be amended, provided the amendment does not alter the**basic structure**of the Constitution.**\n\nStatement II is correct: The Preamble is neither a source of power nor a Prohibition upon the legislative power of **the Parliament. **The Preamble is a statement of the ideals and principles that the Constitution seeks to establish. It does not confer any powers on the government or impose any restrictions on the powers of the legislature. The powers of the government are derived from other parts of the Constitution, such as the fundamental rights, directive principles of state policy, and the legislative lists.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q40",
+      "questionNumber": 40,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "The concept of \"A Union of States in the Indian Constitution\" has been derived from-"
+      ],
+      "questionText": "The concept of \"A Union of States in the Indian Constitution\" has been derived from-",
+      "options": {
+        "a": "The American Declaration of Independence",
+        "b": "The Australian Constitution",
+        "c": "The British North American Act",
+        "d": "The Swiss Constitution"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer ** The concept of \"A Union of States in the Indian Constitution\" has been derived from The British North-American Act.\nFederation with a strong Centre is what we call A Union of States in the Indian Constitution hence it is taken from the Canadian constitution i.e The British North-American Act.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q41",
+      "questionNumber": 41,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?"
+      ],
+      "questionText": "Which one of the following factors constitutes the best safeguard of liberty in a liberal democracy?",
+      "options": {
+        "a": "A committed judiciary",
+        "b": "Centralization of powers",
+        "c": "Elected government",
+        "d": "Separation of powers"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Separation of powers between the legislature, the executive and the judiciary constitute an important safeguard of liberty in a liberal democracy. The doctrine of Separation of powers entails the division of the legislative, executive, and judicial functions of government among different organs. This separation minimizes the possibility of arbitrary excesses by the government, since all the three organs act as check and balance on the powers of each other.\nTherefore, none of the three organs can usurp the essential functions of other organs. This demarcation prevents the concentration of excessive power by any branch of the Government. It thus helps to safeguard the liberty and rights of the people in a democracy.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q42",
+      "questionNumber": 42,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Arrange the following committees/commissions related to the reorganization of States in India in chronological order:",
+        "I. S.K. Dhar Commission",
+        "II. Fazl Ali Commission",
+        "III. JVP Committee",
+        "Select the correct answer using the codes given below:"
+      ],
+      "questionText": "Arrange the following committees/commissions related to the reorganization of States in India in chronological order: I. S.K. Dhar Commission II. Fazl Ali Commission III. JVP Committee Select the correct answer using the codes given below:",
+      "options": {
+        "a": "I-III-II",
+        "b": "II-I-III",
+        "c": "II-III-I",
+        "d": "I-II-III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **After India's independence in 1947, the country inherited a complex mix of**British provinces and princely states**, leading to significant administrative and linguistic challenges. The demand for reorganizing states on**linguistic and **administrative lines**gained momentum, especially from southern regions. To address these concerns, the Government of India appointed a series of**committees and commissions**between 1948 and 1953. The correct chronology is as follows:**I. S.K. Dhar Commission (1948)**was the**first committee**appointed by the**Constituent Assembly in June 1948**to examine the issue of**state reorganization**in newly independent India. It was headed by**Justice S.K. Dhar**. The commission submitted its report in December 1948 and recommended the reorganisation of states on the basis of administrative convenience rather than linguistic factor.**III. **Soon after the Dhar Commission had submitted its report, the Indian National Congress appointed at its Jaipur Session in December, 1948, a Committee to consider the question of linguistic provinces and to review the position in the light of the report of the Dar Commission.** The Committee, known as the J.V.P. Committee; which consisted of **Jawaharlal Nehru, Sardar Vallabhbhai Patel and Dr. Pattabhi Sitaramayya, was the first Congress body to sound a **note of warning against the linguistic principle. It submitted its report in April 1949, and formally rejected **language as the basis for reorganization of States.**II. Fazl Ali Commission (1953):**The creation of Andhra state intensified the demand from other regions for creation of states on linguistic basis. This forced the Government of India to appoint (in December 1953) a three-member States Reorganisation Commission under the chairmanship of Fazl Ali to re-examine the whole question. Its other two members were K M Panikkar and H N Kunzru. It submitted its report in September 1955 and broadly accepted language as the basis of reorganisation of states. But, it rejected the theory of 'one language one state'. Its view was that the unity of India should be regarded as the primary consideration in any redrawing of the country's political units.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q43",
+      "questionNumber": 43,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "To create a new state from an existing state in India,",
+        "which one of the following Schedules of the Constitution needs to be amended?"
+      ],
+      "questionText": "To create a new state from an existing state in India, which one of the following Schedules of the Constitution needs to be amended?",
+      "options": {
+        "a": "First Schedule",
+        "b": "Third Schedule",
+        "c": "Seventh Schedule",
+        "d": "Eighth Schedule"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct:**The**First Schedule**of the Constitution needs to be amended to create a new state in India, as it lists the states and their territories. Any changes to the names or boundaries of states require an amendment to this schedule to reflect the new composition of the Union of India. When**Telangana**was created from**Andhra Pradesh**in 2014, the**Andhra Pradesh Reorganisation Act, 2014**amended the**First Schedule**to include Telangana as a separate State.**\n\nOption b is incorrect: **The**Third Schedule**contains the** standardized forms of Oaths and Affirmations**for various constitutional posts including Union Ministers, MPs, MLAs, Judges of the Supreme Court and High Courts, and CAG etc.**\n\nOption c is incorrect:**The**seventh Schedule**of Indian Constitution plays a central role in defining the federal structure of governance in India. It**clearly defines the areas of legislation between the Union and State **governments**through three distinct lists, namely the Union list, the State list and the Concurrent list. This schedule does not require any amendment as its provisions are not affected by creation of a new state in India.**\n\nOption d is incorrect:** The Eighth Schedule of the Indian Constitution enumerates the official languages of the Republic of India Presently, the Eighth Schedule to the Constitution consists of the following 22 languages:\n- (1) Assamese, (2) Bengali, (3) Gujarati, (4) Hindi, (5) Kannada, (6) Kashmiri, (7) Konkani, (8) Malayalam, (9) Manipuri, (10)\nMarathi, (11) Nepali, (12) Oriya, (13) Punjabi, (14) Sanskrit, (15) Sindhi, (16) Tamil, (17) Telugu, (18) Urdu (19) Bodo, (20) Santhali, (21) Maithili and (22) Dogri.\nThis schedule too does not require any amendment as its provisions are not affected by creation of a new state in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q44",
+      "questionNumber": 44,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "Under the Citizenship Act, 1955, a citizen of India who has acquired his/her citizenship through naturalization can lose his/her citizenship by way of deprivation if:",
+        "I. s/he has obtained citizenship by fraud or concealment of material facts.",
+        "II. s/he has shown disloyalty or disaffection towards the Constitution of India.",
+        "III. during a war, if s/he is found to have traded or communicated with the enemy in a manner that assists the enemy.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Under the Citizenship Act, 1955, a citizen of India who has acquired his/her citizenship through naturalization can lose his/her citizenship by way of deprivation if: I. s/he has obtained citizenship by fraud or concealment of material facts. II. s/he has shown disloyalty or disaffection towards the Constitution of India. III. during a war, if s/he is found to have traded or communicated with the enemy in a manner that assists the enemy. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I and II only",
+        "c": "I and III only",
+        "d": "II and III only"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The**Citizenship Act, 1955**lays down the legal framework governing the acquisition and termination of Indian citizenship. Deprivation is a compulsory termination of Indian citizenship by the Central government, if: (a) the**citizen has obtained the citizenship by fraud, false representation or the concealment of any material fact;**: (b) the**citizen has shown disloyalty or disaffection towards the Constitution of India**: (c) the**citizen has unlawfully traded or communicated with the enemy during a war**; (d) the citizen has, within five years after registration or naturalisation, been imprisoned in any country for two years; and (e) the citizen has been ordinarily resident out of India for seven years continuously**Therefore, option a is the correct answer**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q45",
+      "questionNumber": 45,
+      "subject": null,
+      "sectionGroup": null,
+      "microTopic": null,
+      "statementLines": [
+        "What was the exact constitutional status of India on 26th January, 1950?"
+      ],
+      "questionText": "What was the exact constitutional status of India on 26th January, 1950?",
+      "options": {
+        "a": "A Democratic Republic",
+        "b": "A Sovereign Democratic Republic",
+        "c": "A sovereign Secular Democratic",
+        "d": "A sovereign Socialist secular Democratic Republic"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The original Preamble, adopted by the Constituent Assembly on 26th November, 1949 and came into force on 26th January, 1950, declared India as a \"**Sovereign Democratic Republic**\". By the 42nd Amendment of 1976, the words \"Socialist\" and \"Secular\" were inserted. The Preamble now reads India as a \"Sovereign Socialist Secular Democratic Republic.\"",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2021,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2021"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q46",
+      "questionNumber": 46,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Constitutional Development",
+      "statementLines": [
+        "Consider the following:",
+        "I. Speaker of the House of People",
+        "II. Comptroller and Auditor General of India",
+        "III. Judge of the High Court",
+        "IV. President",
+        "How many of the above constitutional posts are mentioned in both the second and third schedule of the Indian Constitution?"
+      ],
+      "questionText": "Consider the following: I. Speaker of the House of People II. Comptroller and Auditor General of India III. Judge of the High Court IV. President How many of the above constitutional posts are mentioned in both the second and third schedule of the Indian Constitution?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **In the second schedule of the Indian Constitution, there is provision for: **1.** President and the Governor of States. **2.** The Speaker and the Deputy Speaker of the House of the People **and the Chairman and the Deputy Chairman of the Council of States and the speaker and the deputy speaker of the legislative Assembly and the chairman and the deputy chairman of the Legislative council. 3. The J**udges of the Supreme court and of the High Courts **4.** The Comptroller and Auditor-General of India **The**Forms of Oaths or Affirmations in the third schedule**is for: 1. Form of oath of office for a Minister for the Union. 2. Form of oath of secrecy for a Minister for the Union. 3. Form of oath or affirmation to be made by a candidate for election to Parliament. 4. Form of oath or affirmation to be made by a member of Parliament. 5.**Form of oath or affirmation to be made by the Judges of the Supreme Court and the Comptroller and Auditor\n- **General of India. **6. Form of oath of office for a Minister for a State. 7. Form of oath of secrecy for a Minister for a State. 8. Form of oath or affirmation to be made by a candidate for election to the Legislature of a State. 9. Form of oath or affirmation to be made by a member of the Legislature of a State. 10.**Form of oath or affirmation to be made by the Judges of a High Court. **The Oath or Affirmation for**President **is present in Article 60 of the Constitution and not in the third Schedule. Speakers** and Deputy Speakers** of legislatures do not separately take any oath and are nowhere mentioned in the Constitution. Thus the constitutional posts mentioned in both the second and third schedule of the Constitution are: Judges of the Supreme Court Judges of the High Court, Option III is correct Comptroller and Auditor General of India, Option II is correct",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q47",
+      "questionNumber": 47,
+      "subject": "Polity",
+      "sectionGroup": "Part II: Citizenship",
+      "microTopic": "Citizenship",
+      "statementLines": [
+        "With reference to present procedure of granting citizenship in India, consider the following statements:",
+        "Statement I: In India, the citizenship of a child is determined by the citizenship of his/her parents.",
+        "Statement II: India currently follows the jus soli principle for determining a person's citizenship.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to present procedure of granting citizenship in India, consider the following statements: Statement I: In India, the citizenship of a child is determined by the citizenship of his/her parents. Statement II: India currently follows the jus soli principle for determining a person's citizenship. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct, but Statement II does not explain Statement I.",
+        "c": "Statement I is correct, but Statement II is not correct.",
+        "d": "Statement I is not correct, but Statement II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**.**Citizenship is the legal status that recognizes a person as a member of a sovereign nation**. It entitles the person to political rights and constitutional protections. In India,**Articles 5 to 11**of the Constitution and the**Citizenship Act, **1955**govern citizenship. There are two main legal principles followed worldwide to determine citizenship:**jus soli (Right of Soil)**and**jus **sanguinis (Right of Blood). **\n\nStatement I is correct. **In India, now citizenship is determined by the**citizenship status of the parents**, a model known as jus sanguinis (right of blood). Before 1987: India granted citizenship based on**place of birth**(jus soli).**1987-20**04: At least one parent had to be an Indian citizen. Since 2004: Both parents must be citizens, or one must be a citizen and the other not an illegal migrant. Thus, a child's birth in India does not automatically confer citizenship.**\n\nStatement II is incorrect. **India**no longer follows**jus soli as a principle for granting citizenship. That model was applicable only until 1987. Since then, India has moved towards a more restrictive**jus sanguinis**system, especially post-2004. Knowledge Base:**Particulars **Jus Soli (Right of Soil) **Jus Sanguinis (Right of Blood) **1. Meaning Citizenship based on**place of birth**Citizenship based on**citizenship of **parents**2. Key Requirement Born**within the territory**of the country**Parent(s)**must be citizens 3. Countries that follow USA, Canada, Brazil, Mexico (mostly Americas) India (post-1987), Germany, Japan (Europe, Asia) 4. Nature of the system**Liberal and inclusive**Restrictive**, especially for migrants",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q48",
+      "questionNumber": 48,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "With reference to the Committees formed by the Constituent Assembly of India, consider the following pairs:`nCommittees Headed by",
+        "I. States committee Vallabhbhai Patel",
+        "II. Union Powers Committee Jawaharlal Nehru",
+        "III. Committee on Rules of Procedure Rajendra Prasad",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to the Committees formed by the Constituent Assembly of India, consider the following pairs:`nCommittees Headed by I. States committee Vallabhbhai Patel II. Union Powers Committee Jawaharlal Nehru III. Committee on Rules of Procedure Rajendra Prasad How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**The**Constituent Assembly of India**(**1946-19**49) played a historic role in framing the**Constitution of India**. To handle this complex task the Assembly created several committees to examine specific subjects.**Pair I is incorrect.**The**States Committee**was**headed by Jawaharlal Nehru **and not by Sardar Vallabhbhai Patel. Its main function was to negotiate the integration of Princely States into the Indian Union.**Pair II is correct.**The Union Powers Committee was chaired by Jawaharlal Nehru.**It was tasked with defining the powers of the Union government. It worked to specify the subjects under the broad headings of defense, communications, and foreign affairs.**Pair III is correct.**The**Committee on Rules of Procedure **was chaired by**Dr. Rajendra Prasad**. The Committee's role was to draft rules of procedure for the Constituent Assembly.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Page: 320 - [https://ncert.nic.in/textbook/pdf/lehs304.pdf](https://ncert.nic.in/textbook/pdf/lehs304.pdf) Mastering Indian Polity by ForumIAS, 1st edition - Chapter 3- Making of Constitution, Page No.- 17, 18, 19"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q49",
+      "questionNumber": 49,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Historical Background",
+      "statementLines": [
+        "During British colonial rule in India, under which Act were Indians for the first time included in the Viceroy's Executive Council?"
+      ],
+      "questionText": "During British colonial rule in India, under which Act were Indians for the first time included in the Viceroy's Executive Council?",
+      "options": {
+        "a": "Indian Councils Act, 1861",
+        "b": "Indian Councils Act, 1892",
+        "c": "Indian Councils Act, 1909",
+        "d": "Government of India Act, 1919"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**\n\nOption a is incorrect. The Indian Councils Act of 1861, **enacted during Lord Canning's tenure, is known for introducing**legislative decentralisation**. It allowed for the nomination of Raja of Banaras, Maharaja of Patiala and Sir Dinkar Rao to the**Viceroy's legislative council. **\n\nOption b is incorrect. The Indian Councils Act of 1892 **expanded the**size of the Legislative Councils. **It also permitted members to ask questions on the budget.**\n\nOption c is correct. The Indian Councils Act of 1909, **also known as the Morley-Minto Reforms, was a significant milestone. For the first time,**Indians were appointed to the Executive Councils of the Viceroy. Satyendra Prasad **Sinha**became the first Indian member of the Viceroy's Executive Council, serving as the Law Member.**\n\nOption d is incorrect. The Government of India Act of 1919 **(Montagu-Chelmsford Reforms) came much later. It introduced**diarchy in provinces**, b**icameralism**, and further expanded legislative participation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-polity-test1-q50",
+      "questionNumber": 50,
+      "subject": "Polity",
+      "sectionGroup": "Foundations & Framework",
+      "microTopic": "Preamble",
+      "statementLines": [
+        "As per the Preamble of the Constitution of India, Fraternity does not aim to assure which of the following:"
+      ],
+      "questionText": "As per the Preamble of the Constitution of India, Fraternity does not aim to assure which of the following:",
+      "options": {
+        "a": "Dignity of the individual",
+        "b": "Unity of the nation",
+        "c": "Integrity of the nation",
+        "d": "Equality of status and opportunity for the citizens."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The**Preamble**is like an**introduction**to the Constitution of India. It**explains the purpose and objectives**of the Constitution. It serves as a**guiding principle**for understanding and interpreting the Constitution.**Options a, b and c are correct:**The ideas of**fraternity are enshrined in **the Preamble to the Constitution of India to ensure**dignity of the individual**, and**unity and integrity of the nation**.**\n\nOption d is incorrect:**In the Preamble, the term Fraternity doesn't aim to assure**Equality of status and opportunity **for all citizens**.**Knowledge Base: The**Constitution of India**begins with a**Preamble**. The Preamble contains the**ideals**,**objectives**, and**basic **principles**of the Constitution. The**salient features**of the Constitution have evolved directly and indirectly from these objectives, which flow from the**Preamble**. The**Preamble**explains the**objectives**of the Constitution in two ways: o It describes the**structure of governance**, and o It lays down the**ideals**to be achieved in**independent India**. Hence, it is called the**key to the Constitution**. An**egalitarian**society is one that**reduces inequalities**and ensures**basic needs**for all. The Preamble reflects a**humane**,**democratic**,**secular**, and therefore**egalitarian** vision of India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "[https://ncert.nic.in/textbook.php?gees1=10-12](https://ncert.nic.in/textbook.php?gees1=10-12) [https://nios.ac.in/media/documents/srsec317newE/317EL5.pdf](https://nios.ac.in/media/documents/srsec317newE/317EL5.pdf)"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

@@ -1,0 +1,1816 @@
+{
+  "id": "forum-sfg-2026-level-1-science-technology-test41",
+  "title": "Test 41- L1 SFG 2026 - Sectional - Science   Technology",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q01",
+      "questionNumber": 1,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to monoclonal antibodies, often mentioned in news, consider the following statements:",
+        "I. They are man-made proteins.",
+        "II. They stimulate immunological function due to their ability to bind to specific antigens.",
+        "III. They are used in treating viral infections like that of Nipah virus.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to monoclonal antibodies, often mentioned in news, consider the following statements: I. They are man-made proteins. II. They stimulate immunological function due to their ability to bind to specific antigens. III. They are used in treating viral infections like that of Nipah virus. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is correct: Monoclonal antibodies are manmade antibodies**artificially created in laboratories using biotechnology. Scientists produce them by cloning a single white blood cell (B-cell) that produces a desired antibody. Since all the antibodies are copies (clones) of one original cell, they are called monoclonal antibodies. These proteins are designed to mimic the immune system’s ability to fight off harmful pathogens such as viruses and bacteria.**\n\nStatement II is correct: **Monoclonal antibodies are highly specific – they are engineered to bind to a particular antigen (a molecule or protein found on the surface of pathogens or abnormal cells). This binding can: - Neutralize the pathogen (by blocking its activity), - Mark it for destruction by other immune cells, - Or block receptors that the virus uses to enter human cells.**By binding to these specific targets, mAbs enhance the immune response and help the body fight disease more **effectively. **\n\nStatement III is correct:**Monoclonal antibodies have been developed as therapeutic options for several viral **infections, including**: - COVID-19 (e.g., Casirivimab and Imdevimab) - Ebola virus (e.g., Inmazeb, Ebanga) -**Nipah **virus**: A monoclonal antibody called m102.4 has shown potential against the Nipah virus. It was used under compassionate use protocols in a few cases and is under further clinical investigation.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q02",
+      "questionNumber": 2,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to germline gene editing, consider the following statements:",
+        "I. It involves genetic modification of reproductive cells and embryos.",
+        "II. Modifications made through germline gene editing can be passed down to future generations.",
+        "III. India has recently permitted trials of CRISPR-Cas9 technology to edit the human germline.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to germline gene editing, consider the following statements: I. It involves genetic modification of reproductive cells and embryos. II. Modifications made through germline gene editing can be passed down to future generations. III. India has recently permitted trials of CRISPR-Cas9 technology to edit the human germline. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Human gene therapy is a treatment approach in which genetic material is added, removed, or altered within human cells to treat or prevent disease, typically by correcting or compensating for defective genes.**\n\nStatement I is correct: **In germline editing technique,**genes in reproductive cells such as eggs, sperms or embryos **may be edited.**These cells pass their DNA to future generations so**any edits made to them are inherited. **The aim of editing may also be to propagate the desired change to all cells. However, embryo editing may result in mosaicism, which means that the embryos would have some edited and non-edited cells. Mosaicism may occur if gene editing happens after division of the initial single-cell embryo into two cells. For example, at the two-cell stage, one of the cells acquires one type of edit while the other cell has a different edit or no edit.**\n\nStatement II is correct: **Editing the human germline essentially means**creating genetically modified humans **through the manipulation of their genes. **While germline editing is focussed on editing the genes — or traits — that pass on from parents to children, it runs the risk of affecting even non-targeted genes. In the case of germline gene editing,**modifications are heritable and could alter the genetic makeup of future generations **and even populations.**\n\nStatement III is incorrect: **At present,** in India, gene therapy is applied only to somatic (non-heritable) cells **in clinical settings, while germline modifications remain prohibited and tightly regulated for ethical reasons.**India has **not permitted trials of CRISPR-Cas9 technology to edit the human germline. **There are ethical concerns that the germline editing technology can be used by the rich to ‘customise’ a baby with desired traits, and allowing human genome editing could make India a hub for a certain kind of medical tourism. Knowledge Base:**Techniques used to alter Genetic Function:**-**Gene silencing: **Inhibition of expression of a pathogenic gene (e.g., via RNA interference or antisense). -**Gene editing: **Targeted modification using tools such as CRISPR– Cas systems to correct disease-causing variants. -**Cell-based gene therapy**: Genetic modification of cells (e.g., T cells, stem cells) followed by their administration back to the patient, as in CAR-T cell therapies.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q03",
+      "questionNumber": 3,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "BIRSA-101, recently seen in news, is: conditions."
+      ],
+      "questionText": "BIRSA-101, recently seen in news, is: conditions.",
+      "options": {
+        "a": "A high-yielding variety of bio-fortified rice seeds designed to combat malnutrition among children.",
+        "b": "India’s first indigenous CRISPR-based gene therapy for sickle cell disease.",
+        "c": "An automated biomedical waste treatment that disinfects pathogenic waste without incineration.",
+        "d": "A portable hospital designed to provide rapid medical assistance in Humanitarian Aid & Disaster Relief (HADR)"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct:**The Union Ministry of Science & technology has recently launched**BIRSA 101-India’s first **indigenous \"CRISPR\" based gene therapy for Sickle Cell Disease, **which particularly affects India's tribal population. The therapy has been named \"BIRSA 101\"**in honour of tribal leader Birsa Munda **on his 150th anniversary (15th November, 2025). Birsa-101**precisely corrects the mutations in the genetic code that causes the disease.**The therapy has to be given as a one-time infusion, after which the body should start producing normal red blood cells instead of sickle-shaped ones. - This method is**very different from the globally approved treatment Casgevy, **which edits a gene to push the body’s blood manufacturing mechanism to make more foetal haemoglobin, which does not carry the same defect. Foetal haemoglobin, which is naturally present in everyone at birth, does not carry the same abnormalities as adult haemoglobin. - The**same therapy can be used for the treatment of thalassaemia **— another inherited blood disorder where the body produces little or no haemoglobin. Knowledge Base:**Sickle Cell Disease:**- It is a genetic condition that**leads to the body’s red blood cells becoming rigid,**sickle-shaped,**and less capable of **carrying oxygen. **- The shape of the blood cells can also lead to blockages in blood flow, leading to acute episodes of pain, chronic pain, organ damage, anemia, infections, and strokes.**A person can be a carrier and not have a disease.**- The government has**launched a mission with the aim of eliminating the disease by 2047, **mainly by screening carriers of the gene and making them aware of the risk of having a child with other carriers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q04",
+      "questionNumber": 4,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which of the following statements with respect to the differences between ballistic missiles and cruise missiles is/are incorrect?",
+        "I. Compared to Ballistic missiles, Cruise missiles are generally harder to detect by radar.",
+        "II. Cruise missiles can only be used to deliver conventional warheads, whereas ballistic missiles can carry both nuclear and conventional warheads.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "Which of the following statements with respect to the differences between ballistic missiles and cruise missiles is/are incorrect? I. Compared to Ballistic missiles, Cruise missiles are generally harder to detect by radar. II. Cruise missiles can only be used to deliver conventional warheads, whereas ballistic missiles can carry both nuclear and conventional warheads. Select the correct answer using the code given below.",
+      "options": {
+        "a": "Neither I nor II",
+        "b": "Both I and II",
+        "c": "II only",
+        "d": "I only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. Missiles are a core component of modern military capability and are classified based on their**flight path, propulsion **system, altitude, and guidance mechanism**. Among them,**ballistic missiles and cruise missiles**represent two fundamentally different technologies, each designed for distinct strategic and tactical roles.**\n\nStatement I is correct**. Cruise missiles are**difficult to detect**because they fly low and can use terrain for concealment. Ballistic missiles, due to their**high-altitude trajectory and speed**, are generally**easier to detect and **track**by radar and satellite systems once launched.**Ballistic missiles are initially powered by one or more rocket stages**, after which they follow a high-arching, unpowered (ballistic) trajectory through space before descending toward their target. In contrast,**cruise missiles are **jet-powered and maintain a steady, low-altitude flight path **throughout their journey to the target. Cruise missiles remain within the atmosphere for the duration of their flight and can fly as low as a few meters off the ground. Flying low to the surface of the earth expends more fuel but makes a cruise missile very difficult to detect.**\n\nStatement II is incorrect**.**Both cruise and ballistic missiles**are capable of**delivering either conventional or nuclear **warheads. For instance, **The BrahMos missile is a supersonic cruise missile capable of carrying both conventional and nuclear warheads. The Agni series (like Agni-V, Agni-IV) are nuclear-capable ballistic missiles, designed specifically for strategic deterrence.\n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q05",
+      "questionNumber": 5,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to India’s defense, consider the following pairs:",
+        "Aircraft type Description",
+        "I. Dornier-228 Maritime patrol aircraft",
+        "II. IL-76 Supersonic combat aircraft Supersonic combat aircraft",
+        "III. C-17 Globe Master III Military transport aircraft",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to India’s defense, consider the following pairs: Aircraft type Description I. Dornier-228 Maritime patrol aircraft II. IL-76 Supersonic combat aircraft Supersonic combat aircraft III. C-17 Globe Master III Military transport aircraft How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.**India’s defence forces operate a diverse fleet of aircraft, each serving specific roles such as surveillance, combat, and transportation.**Pair I is correct. The Dornier 228 is a twin-engine turboprop aircraft utilized by the Indian Navy and Coast Guard **for maritime patrol**, surveillance, search and rescue, and pollution control missions. Manufactured under license by Hindustan Aeronautics Limited (HAL), it is equipped with advanced sensors and communication systems tailored for maritime operations.**Pair II is incorrect.**The Ilyushin Il-76 is a strategic airlifter, not a supersonic combat aircraft. **Designed by the Soviet Union’s Ilyushin design bureau, it serves roles such as transporting heavy machinery, aerial refueling, and emergency response. It is a four-engine turbofan aircraft capable of operating in rugged environments but lacks the speed and agility characteristic of supersonic combat aircraft.**Pair III is correct. The C-17 Globemaster III is a large military transport aircraft **developed by McDonnell Douglas (now Boeing) for the United States Air Force and also operated by the Indian Air Force. It is designed for rapid strategic airlift of troops and cargo to main operating bases or forward bases in the deployment area. The aircraft is capable of performing tactical airlift, medical evacuation, and airdrops, making it a versatile asset in military logistics.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q06",
+      "questionNumber": 6,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "What is the primary function of a moderator in a nuclear reactor?"
+      ],
+      "questionText": "What is the primary function of a moderator in a nuclear reactor?",
+      "options": {
+        "a": "To absorb excess neutrons and stop the chain reaction.",
+        "b": "To convert nuclear energy directly into electrical energy.",
+        "c": "To slow down fast-moving neutrons produced during nuclear fission.",
+        "d": "To remove heat from the reactor core to prevent it from excessive heating."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. In a nuclear reactor, energy is released when a heavy nucleus like uranium splits. This process is called**nuclear **fission**. When fission occurs, it releases a large amount of energy and also**fast-moving neutrons**. For a**sustained and controlled chain reaction**, neutrons must move slowly. Such neutrons are called**thermal **neutrons**.**Moderator is a substance used to slow down the neutrons produced by fission to sustain the chain **reaction. **Common moderator materials include**graphite, heavy water, and ordinary water**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q07",
+      "questionNumber": 7,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to MicroRNA, consider the following statements:",
+        "I. They are endogenous in nature, meaning they are encoded within the organism's own genome.",
+        "II. They are short duplex RNA molecules that exert gene silencing effects at the post-transcriptional level by targeting messenger RNA (mRNA).",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to MicroRNA, consider the following statements: I. They are endogenous in nature, meaning they are encoded within the organism's own genome. II. They are short duplex RNA molecules that exert gene silencing effects at the post-transcriptional level by targeting messenger RNA (mRNA). Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **MicroRNAs (miRNAs)**are important types of**noncoding RNA molecules**involved in**gene silencing**and**post\n- **transcriptional regulation of gene expression**.**\n\nStatement I is correct.**miRNAs**are**endogenous**, m**eaning they are encoded within the organism's own genome. **They are typically transcribed from specific genes and processed into mature miRNAs.** miRNAs are types of noncoding RNAs**, meaning they do not code for proteins.**\n\nStatement II is correct.**miRNAs **are short duplex RNA molecules that exert gene silencing effects at the post-transcriptional level by targeting messenger RNA (mRNA).**miRNAs**regulate gene expression by binding to the 3' **untranslated region (UTR)**of target mRNAs, either inhibiting translation or causing mRNA degradation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q08",
+      "questionNumber": 8,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Which of the following statements regarding Chimeric Antigen Receptor T (CAR-T) cell therapy is/are correct?",
+        "I. In CAR-T cell therapy, T-cells can be genetically engineered to add specific receptors, which are specifically designed to recognise and bind to antigens on the surface of cancer cells.",
+        "II. Unlike chemotherapy, which can affect both cancerous and healthy cells, CAR-T cell therapy generally specifically attacks cancer cells while sparing normal healthy cells.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following statements regarding Chimeric Antigen Receptor T (CAR-T) cell therapy is/are correct? I. In CAR-T cell therapy, T-cells can be genetically engineered to add specific receptors, which are specifically designed to recognise and bind to antigens on the surface of cancer cells. II. Unlike chemotherapy, which can affect both cancerous and healthy cells, CAR-T cell therapy generally specifically attacks cancer cells while sparing normal healthy cells. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**.**\n\nStatement I is correct:**T-cells are primarily used in CAR-T cell therapy because of their pivotal role in the immune system’s response to pathogens and malignancies. T**hese cells can be genetically engineered to express chimeric **antigen receptors (CARs), which are specifically designed to recognise and bind to antigens on the surface of **cancer cells. Once bound, these modified T-cells can efficiently kill cancer cells. **Other cells like B cells or natural killer cells also play roles in immunity but don’t have the same adaptability and memory capabilities as T cells, making them less effective for the persistent and targeted action required in CAR-T cell therapy.**\n\nStatement II is correct: **CAR-T cell therapy has emerged as a transformative treatment in oncology – a branch of medicine that specialises in the diagnosis and treatment of cancer – offering significant benefits for patients.**Targeted Precision: CAR-T cell therapy is designed to target specific antigens present in cancer cells. This **specificity allows the therapy to directly attack cancer cells while sparing normal, healthy cells. The precision **minimises collateral damage and reduces the risk of side effects compared to traditional treatments like **chemotherapy, which can affect both cancerous and healthy cells. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q09",
+      "questionNumber": 9,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements regarding Transposons:",
+        "I. They are mobile DNA sequences commonly known as Jumping genes.",
+        "II. They can cause DNA damage and may lead to early cell death.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding Transposons: I. They are mobile DNA sequences commonly known as Jumping genes. II. They can cause DNA damage and may lead to early cell death. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**.**Statements I and II are correct**.**Transposons, also known as “jumping genes” or mobile elements are little pieces of **DNA**that can insert themselves into different regions of the genome,**damaging it and leading to cell death. The DNA **damage caused by the transposons leads to these cells dying out early. Transposons challenge the prevailing **concept that genes are stable and arranged in an orderly manner on the chromosome. ** The discovery of transposons revolutionised our understanding of genetics, in particular their role in enabling nature’s wondrous diversity. Transposons influence the effects of genes by turning ‘on’ or ‘off’ their expression using a variety of epigenetic mechanisms. They are thus rightly called the tools of evolution, for their ability to rearrange the genome and introduce changes.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q10",
+      "questionNumber": 10,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to the use of thorium for the generation of power, consider the following statements:",
+        "Statement I: Naturally occurring thorium can be directly used as fuel in nuclear reactors for the generation of electrical power.",
+        "Statement II: Naturally occurring thorium is a ‘fertile’ material that can be converted into a ‘fissile material.’",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the use of thorium for the generation of power, consider the following statements: Statement I: Naturally occurring thorium can be directly used as fuel in nuclear reactors for the generation of electrical power. Statement II: Naturally occurring thorium is a ‘fertile’ material that can be converted into a ‘fissile material.’ Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Thorium is a silvery, slightly radioactive metal commonly found in igneous rocks and heavy mineral sands. Thorium-232 is the only naturally occurring isotope of thorium. India has the largest deposits of Thorium in the world, roughly a quarter of the world’s thorium. Together, Kerala and Odisha account for over 70 percent of India’s thorium. The third stage of India’s nuclear power programme envisages the use of thorium for power generation.**\n\nStatement I is incorrect. Thorium by itself cannot be directly used as a fuel in nuclear reactors for generation of **power**.**Thorium has to be converted to Uranium-233 in a reactor before it can be used as fuel.**\n\nStatement II is correct. Thorium is not a fissile material. Rather,it is fissionable fertile material**that has to**be **converted to fissile material U233.**When irradiated, thorium-232 undergoes a series of nuclear reactions, eventually forming uranium-233, which can then be split to release energy to power a nuclear reactor. Thus, Thorium will create fissile U233, which will be used as fuel**for the generation of nuclear energy**. **Thus, thorium in itself is not directly a nuclear fuel, but it can be used to create one.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q11",
+      "questionNumber": 11,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "“Membrane Bioreactors” are often discussed in the context of:"
+      ],
+      "questionText": "“Membrane Bioreactors” are often discussed in the context of:",
+      "options": {
+        "a": "Assisted reproductive technologies",
+        "b": "Drug delivery nanotechnologies",
+        "c": "Vaccine production technologies",
+        "d": "Wastewater treatment technologies"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**\n\nOption d is correct: **Membrane Bioreactors” are commonly discussed in the context of wastewater treatment technologies. These systems combine biological treatment (using microorganisms) with membrane filtration to efficiently remove pollutants from wastewater. The membranes act as barriers, allowing clean water to pass through while retaining suspended solids and microorganisms. Membrane bioreactors are widely used in treating domestic and industrial wastewater.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q12",
+      "questionNumber": 12,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements about mRNA vaccines:",
+        "I. They generally use weakened or killed forms of a virus to generate an immune response in the human body.",
+        "II. They do not alter human DNA because the mRNA usually does not enter the cell nucleus.",
+        "III. The mRNA vaccine can be stored at normal room temperature for a long time.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about mRNA vaccines: I. They generally use weakened or killed forms of a virus to generate an immune response in the human body. II. They do not alter human DNA because the mRNA usually does not enter the cell nucleus. III. The mRNA vaccine can be stored at normal room temperature for a long time. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II",
+        "b": "II only",
+        "c": "III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. mRNA vaccines are a modern type of vaccine that use**messenger RNA (mRNA)**to train the immune system. The process begins with the**delivery of mRNA into the cytoplasm**of human cells. The cell’s own machinery then**reads **this mRNA and synthesises a viral protein fragment**, such as the spike protein. The immune system**recognises this **protein as foreign**and mounts a response by producing antibodies and memory cells to protect the body against it. After the protein is produced, the**mRNA naturally degrades and is eliminated by the body**, without entering the nucleus or altering DNA.**\n\nStatement I is incorrect**. mRNA stands for messenger RNA, is a form of nucleic acid which carries genetic information. Like other vaccines, the mRNA vaccine also attempts to activate the immune system to produce antibodies that help counter an infection from a live virus.** However, while most vaccines use weakened or dead **bacteria or viruses to evoke a response from the immune system, mRNA vaccines only introduce a piece of the **genetic material that corresponds to a viral protein. This is usually a protein found on the membrane of the virus **and is called spike protein. Therefore, the mRNA vaccine does not expose individuals to the virus itself. **\n\nStatement II is correct**. mRNA from vaccines never enters the nucleus of the cell. Human DNA is stored inside the nucleus, while mRNA functions in the cytoplasm. Since the mRNA cannot interact with DNA, it**cannot alter or **integrate into human genes**.**\n\nStatement III is incorrect**. The mRNA vaccines are required to be stored at sub-zero temperatures as mRNA is fragile and easily breaks down thus reducing the efficacy of the vaccine.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q13",
+      "questionNumber": 13,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to recent advances in technology, a new technique called Light-microscopy-based",
+        "Connectomics (LICONN) is most closely associated with which of the following?"
+      ],
+      "questionText": "With reference to recent advances in technology, a new technique called Light-microscopy-based Connectomics (LICONN) is most closely associated with which of the following?",
+      "options": {
+        "a": "Mapping neural connections in human brain",
+        "b": "Establishing satellite based internet networks",
+        "c": "Developing Small Modular Nuclear Reactors",
+        "d": "Developing high end night vision infrared cameras for military purpose"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**.**Light-microscopy-based Connectomics (LICONN)**is a new technique used to map how brain cells are connected. Normally, many brain structures are too small to be seen with a light microscope. Because of this, scientists had to rely on complex and costly electron microscopes. LICONN solves this problem by**physically expanding brain tissue**by soaking in a special gel that expands evenly. This makes the tissue about**16 times larger**than its original size. After expansion, scientists use**fluorescent stains** to mark different proteins inside neurons. These stains make neurons glow under a light microscope. Advanced computer programs, including artificial intelligence, are then used to identify neurons, trace their shapes, and map how they are connected.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q14",
+      "questionNumber": 14,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "The gene drive technology was recently seen in the news in the context of",
+        "which one of the following?"
+      ],
+      "questionText": "The gene drive technology was recently seen in the news in the context of which one of the following?",
+      "options": {
+        "a": "Treating genetic disorders through human gene therapy.",
+        "b": "Treating cancer in humans.",
+        "c": "Developing faster DNA sequencing techniques.",
+        "d": "Controlling malaria by spreading infertility or resistance traits in mosquitoes."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. Under** normal genetic rules, animals have a 50:50 chance of inheriting a single gene from either parent**. But a**gene **drive is a naturally occurring process where a specific gene is prioritised, meaning its chances of being inherited **are up to 99%**. Within a few generations, almost all of the species will carry that gene. Malaria is spread by**female Anopheles mosquitoes**. Scientists use gene drive technology to insert specific genes into mosquitoes, such as: - Genes that**make mosquitoes infertile**, or-Genes that**prevent mosquitoes from carrying the malaria parasite**When these genetically modified mosquitoes are released into the wild: - They mate with normal mosquitoes. - The modified gene is inherited by nearly all offspring. - Over time, the mosquito population either collapses or becomes unable to transmit malaria.**Gene drive**offers a**long-term solution**to malaria control. It reduces dependence on**insecticides and drugs**. Importantly, it targets the**disease vector**, not humans. However, the technology also raises**ethical and ecological **concerns**, since once released, gene drives can spread rapidly and are difficult to reverse.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q15",
+      "questionNumber": 15,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Aerial metagenomics best refers to",
+        "which one of the following situations?"
+      ],
+      "questionText": "Aerial metagenomics best refers to which one of the following situations?",
+      "options": {
+        "a": "Collecting DNA samples from air in a habitat at one go.",
+        "b": "Understanding the genetic makeup of avian species of a habitat.",
+        "c": "Using air-borne devices to collect blood samples from moving animals.",
+        "d": "Sending drones to inaccessible areas to collect plant and animal samples from land surfaces and water bodies."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. ** “Aerial metagenomics” refers to the collection and analysis of DNA samples from the air or aerosol particles present in a specific habitat. It involves sampling the air in a particular environment to capture the genetic material (DNA) present in microorganisms, including bacteria, viruses, fungi, and other microscopic organisms.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q16",
+      "questionNumber": 16,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "INS Arnala, INS Androth and INS Anjadip belong to which of the following class of marine vessels:"
+      ],
+      "questionText": "INS Arnala, INS Androth and INS Anjadip belong to which of the following class of marine vessels:",
+      "options": {
+        "a": "Frigates",
+        "b": "Aircraft Carriers",
+        "c": "Anti-Submarine Warfare Shallow Water Craft (ASW SWC)",
+        "d": "Nuclear submarine"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**.**INS Arnala, Androth and Anjadip are three out of eight Anti-Submarine Warfare Shallow Water Craft (ASW SWC), **indigenously designed and built by Garden Reach Shipbuilders and Engineers (GRSE), Kolkata.** At approximately 77 metres in length, the ASW SWCs are the largest Indian naval warships to be propelled by waterjets. They are equipped with state-of-the-art lightweight torpedoes, indigenously developed anti-submarine rockets and shallow-water sonar, enabling effective detection and engagement of underwater threats. These platforms will significantly enhance the Navy’s anti-submarine warfare capability, coastal surveillance and mine-laying operations.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q17",
+      "questionNumber": 17,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: SONAR is preferred over RADAR for detecting submerged objects like submarines or shipwrecks.",
+        "Statement II: Radio waves are heavily absorbed and scattered by seawater, whereas sound waves can travel great distances through water with minimal absorption or scattering.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: SONAR is preferred over RADAR for detecting submerged objects like submarines or shipwrecks. Statement II: Radio waves are heavily absorbed and scattered by seawater, whereas sound waves can travel great distances through water with minimal absorption or scattering. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I.",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I.",
+        "c": "Statement I is correct but Statement II is not correct.",
+        "d": "Statement I is not correct but Statement II is correct."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. Detecting objects underwater is scientifically challenging because**water interacts differently with various types of **waves**. Technologies used in air or space do not always work effectively beneath the sea surface. This is why special systems are needed for underwater navigation and detection.**\n\nStatement I is correct**. SONAR, which stands for**Sound Navigation and Ranging**, is widely used to detect**submerged **objects**such as submarines, underwater rocks, and shipwrecks. It is the primary sensing technology for**underwater **navigation and surveillance**, unlike RADAR, which is mainly used in air and space.**\n\nStatement II is correct**. Electromagnetic waves, which are transverse in nature, including radio waves and microwaves used in RADAR systems, are**strongly absorbed by seawater and thus getting attenuated **. In contrast,**sound waves are mechanical, longitudinal waves**that can travel**long distances in water with relatively little energy **absorption or scattering**.**Statement II explains Statement I**. Since Electromagnetic waves** used in RADAR systems cannot propagate **effectively in water**, it becomes unsuitable for underwater detection. At the same time,**sound waves propagate **efficiently in water**, making SONAR a reliable and effective tool for detecting submerged objects. Thus, the difference in how water interacts with electromagnetic waves and sound waves directly explains why**SONAR is used instead of **RADAR underwater**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q18",
+      "questionNumber": 18,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "In the context of Indian defence technology, which of the following best describes “Akashteer”?"
+      ],
+      "questionText": "In the context of Indian defence technology, which of the following best describes “Akashteer”?",
+      "options": {
+        "a": "A nuclear-powered attack submarine designed for underwater deterrence",
+        "b": "A satellite-based early warning system for detecting intercontinental ballistic missiles",
+        "c": "A long-range surface-to-surface ballistic missile developed by DRDO",
+        "d": "An indigenous automated air defence control and reporting system of India"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**.**Akashteer**is an**indigenously developed, automated Air Defence Control **and Reporting System (ADCRS)**for the**Indian Army**. It integrates**radars, **sensors, and air defence weapon systems**into a single network. Akashteer enables**real-time detection, tracking, identification, and engagement of **aerial threats**, thereby enhancing battlefield air defence and reducing human reaction time.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q19",
+      "questionNumber": 19,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: Epigenome editing is considered a safer alternative to traditional CRISPR-Cas9 gene editing for treating certain genetic conditions.",
+        "Statement II: Unlike CRISPR-Cas9 gene editing, Epigenome editing involves regulating gene expression without altering the DNA sequence.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: Epigenome editing is considered a safer alternative to traditional CRISPR-Cas9 gene editing for treating certain genetic conditions. Statement II: Unlike CRISPR-Cas9 gene editing, Epigenome editing involves regulating gene expression without altering the DNA sequence. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct and Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Epigenetics is the biochemical changes dictating expressivity of a gene in a cell.**\n\nStatement I is correct: **Apart from DNA or protein sequence level alterations, there are other biochemical changes that influence and dictate if a gene should be active or inactive in a given cell type.**Such biochemical changes that **dictate the expressivity of a gene in a particular cell are collectively termed “epigenetics.” **Unlike DNA mutations that are permanent, such**epigenetic changes are reversible **and are mediated by regulatory proteins such as DNA methyl transferases (DNMTs), histone acetyl transferases (HATs), histone deacetylases (HDACs) and so on. These regulatory proteins can add or remove such modifications and**can result in turning ON/OFF a specific gene in a **tissue or organ specific manner. **Epigenome editing is considered a safer alternative to traditional CRISPR-Cas9 gene editing as it is gentler.**Rather than chopping the DNA in two, it uses an enzyme that installs or removes a chemical **lock at a specific place**in the genome.**\n\nStatement II is correct and explains Statement I: **Unlike traditional gene editing, which involves cutting DNA,**epigenome editing offers precise, reversible control over gene expression.**In epigenome editing, all modifications (e.g., methyl groups, histone modifications) that**regulate gene expression**are done**without altering the DNA **sequence. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q20",
+      "questionNumber": 20,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "With reference to Trachoma, consider the following statements:",
+        "I. It is an infectious disease caused by bacteria.",
+        "II. It primarily affects the respiratory system and can lead to long-term pulmonary complications.",
+        "III. India is one of the few countries in Asia to have eliminated Trachoma as a public health problem.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Trachoma, consider the following statements: I. It is an infectious disease caused by bacteria. II. It primarily affects the respiratory system and can lead to long-term pulmonary complications. III. India is one of the few countries in Asia to have eliminated Trachoma as a public health problem. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II",
+        "c": "I and III",
+        "d": "II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct:**Trachoma is a devastating eye disease caused by infection with the bacterium Chlamydia trachomatis. The infection spreads from person to person through contaminated fingers, fomites and flies that have come into contact with discharge from the eyes or nose of an infected person.**\n\nStatement II is incorrect:**Trachoma does not affect the respiratory system**. It is an ocular disease, primarily affecting the conjunctiva and eyelids. Recurrent infection leads to**scarring of the inner eyelid, inward turning of **eyelashes**(**trachomatous trichiasis**),**corneal damage**, and eventually**irreversible blindness. **Trachoma is** one of the **leading causes of blindness globally. **There is no association of Trachoma with pulmonary or respiratory complications.**\n\nStatement III is correct: India **has been officially validated by the**World Health Organization**(WHO) in 2024 for eliminating Trachoma as a public health problem**. With this achievement, India became the**20th country globally**and the**third in the South-East Asia region**,**after Nepal and Myanmar,** to attain this status.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q21",
+      "questionNumber": 21,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Recently, the term “pumped-storage hydropower” is actually and appropriately discussed in the context of",
+        "which one of the following?"
+      ],
+      "questionText": "Recently, the term “pumped-storage hydropower” is actually and appropriately discussed in the context of which one of the following?",
+      "options": {
+        "a": "Irrigation of terraced crop fields",
+        "b": "Lift irrigation of cereal crops",
+        "c": "Long duration energy storage",
+        "d": "Rainwater harvesting system"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct: The term “pumped-storage hydropower” relates to long-duration energy storage. **It refers to a type of hydroelectric energy storage where two water reservoirs at different elevations are used to generate power. Water moves down from one reservoir to the other (discharge), passing through a turbine, and then requires power to be pumped back into the upper reservoir (recharge).",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q22",
+      "questionNumber": 22,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements with reference to Hepatitis D virus (HDV):",
+        "I. HDV has been classified as carcinogenic to humans and is associated with an increased risk of liver cancer.",
+        "II. HDV infects only those individuals who are already infected with Hepatitis B virus.",
+        "III. HDV may be transmitted from an infected mother to her child during pregnancy or around the time of birth.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to Hepatitis D virus (HDV): I. HDV has been classified as carcinogenic to humans and is associated with an increased risk of liver cancer. II. HDV infects only those individuals who are already infected with Hepatitis B virus. III. HDV may be transmitted from an infected mother to her child during pregnancy or around the time of birth. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is correct:**Hepatitis D **is an** inflammation of **the** liver caused by **the**hepatitis D virus **(HDV). Hepatitis D virus infection is strongly associated with**severe liver disease**, including rapid progression to**cirrhosis**and a higher risk of**hepatocellular carcinoma (liver cancer)**compared to Hepatitis B alone. On the basis of accumulating epidemiological evidence,**the International Agency for Research on Cancer**(IARC) has**classified Hepatitis D as **carcinogenic to humans. **\n\nStatement II is correct:**HDV is a defective virus**and cannot infect or replicate independently. It requires the Hepatitis B surface antigen (HBsAg) for its assembly and transmission. Therefore,**HDV infects only individuals who are already infected with Hepatitis B virus. **HDV affects globally nearly 5% (an estimated 12 million) of people who have a chronic infection with Hepatitis B virus. Hence,** Hepatitis D infection can be prevented by hepatitis B immunization. **\n\nStatement III is correct: Hepatitis D spreads through similar routes as Hepatitis B**, since it depends on it.**These **include: **- Contact with infected blood, - Use of contaminated needles or medical equipment, -**Unprotected sexual contact**, and -**Vertical transmission (from mother to child during pregnancy, delivery, or shortly after birth). ** Although mother-to-child transmission is a less common mode of transmission, it is still medically recognized.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q23",
+      "questionNumber": 23,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "The primary function of Regulatory T cells (Tregs) in the immune system is:"
+      ],
+      "questionText": "The primary function of Regulatory T cells (Tregs) in the immune system is:",
+      "options": {
+        "a": "To produce antibodies against specific antigens.",
+        "b": "To prevent immune system responses against the body’s own tissues.",
+        "c": "To directly kill virus-infected and tumour cells.",
+        "d": "To generate long-term immunological memory."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct: Regulatory T cells (Tregs)**are a**specialized group of T lymphocytes**that**play a central role in **maintaining immune balance and self-tolerance. **- Their** primary function is to prevent other T cells from mistakenly attacking the body’s own tissues,**which is essential for a process known as**peripheral immune tolerance. **- This mechanism ensures that immune responses are**directed only against harmful pathogens and not **against the body's own tissues or cells. **- In addition to preventing autoimmunity, Regulatory T cells also help in**down-regulating immune responses**once a pathogen has been successfully eliminated. - By calming the immune system after the threat is removed,**Tregs prevent unnecessary tissue damage and **excessive inflammation**that could result from prolonged immune activation.**\n\nOption a is incorrect:**The**production of antibodies is carried out by B cells**, which differentiate into**plasma cells**upon exposure to an antigen. These antibodies bind to pathogens and help neutralize or mark them for destruction.**Regulatory T cells do not secrete antibodies**; instead, they regulate the activity of other immune cells.**\n\nOption c is incorrect: **The**direct elimination of infected or cancerous cells is the function of cytotoxic T **lymphocytes **(CD8⁺ T cells). These cells release perforin and granzymes that induce apoptosis (programmed cell death) in target cells. Regulatory T cells lack such cytotoxic functions and instead suppress immune activation.**\n\nOption d is incorrect: Long-term immunological memory is formed by memory B cells and memory T cells**following exposure to an antigen. This allows the immune system to respond more rapidly and effectively upon re-exposure to the same pathogen.**Regulatory T cells do not create immune memory; i**nstead, their main role is to control and suppress immune reactions. Knowledge Base:**Nobel Prize in Physiology or Medicine (2025) **In**2025**, the**Nobel Prize in Physiology or Medicine**was jointly awarded to**Mary E. Brunkow**,**Fred Ramsdell**, and**Shimon Sakaguchi**for their**groundbreaking discoveries concerning peripheral immune tolerance**, particularly the identification and understanding of**Regulatory T cells (Tregs)**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q24",
+      "questionNumber": 24,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the nuclear power generation, consider the following statements regarding the Fast Breeder",
+        "Reactors (FBRs):",
+        "I. They use a mixed oxide of uranium (U-238) and plutonium (Pu-239) to produce energy.",
+        "II. In these reactors, heavy water is used both as a coolant and as a moderator.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the nuclear power generation, consider the following statements regarding the Fast Breeder Reactors (FBRs): I. They use a mixed oxide of uranium (U-238) and plutonium (Pu-239) to produce energy. II. In these reactors, heavy water is used both as a coolant and as a moderator. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct.**Uranium-Plutonium Mixed Oxide (MOX) is used as fuel in a Fast Breeder Reactor (FBR). **Fast-breeder reactors use depleted uranium (U-238) and plutonium (Pu-239) to produce energy and more fuel. Breeder reactors are a type of the nuclear reactors which produce more fissile materials than they consume. A Fast Breeder Reactor (FBR) is a nuclear reactor that uses fast neutrons to**generate more nuclear fuels than they consume **while generating power. Thus, they dramatically enhance the efficiency of the use of resources. Nuclear fission by fast neutrons causes the increase in neutrons generated. Furthermore, because the sodium used as coolant absorbs fewer neutrons compared to light water, more neutrons remain within the reactor. The increased number of neutrons causes a higher proportion of uranium 238 converting into plutonium 239 and yields more plutonium than original nuclear fuel.**\n\nStatement II is incorrect. **In fast breeder reactors,** liquid sodium is used as coolant**. Unlike thermal reactors,**no **moderator is required in such types of reactors. **\n\nKnowledge Base:\n- Moderator is a substance used to slow down the neutrons produced by fission to sustain the chain reaction. E.g.:\n- graphite, heavy water.\n- Coolant is a substance which absorbs the thermal energy generated during the reaction. E.g.:\n- Water, heavy water, liquid sodium.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q25",
+      "questionNumber": 25,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Other than those made by humans, nanoparticles do not exist in nature.",
+        "2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics.",
+        "3. Nanoparticles of some commercial products which enter the environment are unsafe for humans.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Other than those made by humans, nanoparticles do not exist in nature. 2. Nanoparticles of some metallic oxides are used in the manufacture of some cosmetics. 3. Nanoparticles of some commercial products which enter the environment are unsafe for humans. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "3 only",
+        "c": "1 and 2 only",
+        "d": "2 and 3 only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement 1 is incorrect\n- **Nanoparticles exist in nature, such as in**volcanic ash, forest smoke, and sea spray. **Nanoparticles can also be formed by natural processes, such as**lightning strikes and erosion**.**\n\nStatement 2 is correct\n- **Nanoparticles of some metallic oxides, such as**titanium dioxide and zinc oxide**, are used in the manufacture of some cosmetics, such as**sunscreens**. These nanoparticles are used because they have the ability to absorb and scatter**ultraviolet (UV) radiation**, which can protect the skin from**sunburn and skin cancer**.**\n\nStatement 3 is correct\n- **Nanoparticles of some commercial products which enter the environment can be unsafe for humans. For example, nanoparticles of**diesel exhaust fumes **have been linked to respiratory problems. Nanoparticles can also enter the**food chain **and be**consumed by humans. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q26",
+      "questionNumber": 26,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "In context of Genetically Modified (GM) Crops, the primary objective of ‘terminator technology’ is to: conditions."
+      ],
+      "questionText": "In context of Genetically Modified (GM) Crops, the primary objective of ‘terminator technology’ is to: conditions.",
+      "options": {
+        "a": "Enhance pest resistance in crops to produce proteins toxic to specific insects while being safe for humans.",
+        "b": "Control gene expression in crops where specific genes are activated only under precise environmental or chemical",
+        "c": "Produce sterile plants with infertile seeds to prevent reuse of seeds by farmers.",
+        "d": "Improve tolerance of crops to abiotic stresses such as drought, salinity, and extreme temperatures."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct: Terminator technology or the Genetic Use Restriction Technology (GURT) can be used to **exercise control and ownership over the biodiversity. **With the help of new genetic engineering techniques, it is**possible to create sterile plants with infertile seeds that can't be replanted. **Thus, the seeds are killed after one generation. This technology is known as terminator technology. It forces the farmers to purchase seeds for every growing season.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q27",
+      "questionNumber": 27,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the GLP-1 (glucagon-like peptide-1) receptor agonists medicines, consider the following",
+        "statements:",
+        "Statement I: These medicines are effective for the management of obesity.",
+        "Statement II: These medicines work by mimicking the action of a naturally occurring gut hormone which slows gastric emptying and increases the feeling of stomach fullness.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the GLP-1 (glucagon-like peptide-1) receptor agonists medicines, consider the following statements: Statement I: These medicines are effective for the management of obesity. Statement II: These medicines work by mimicking the action of a naturally occurring gut hormone which slows gastric emptying and increases the feeling of stomach fullness. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement I and Statement II are correct and Statement II explains Statement I",
+        "b": "Both Statement I and Statement II are correct but Statement II does not explain Statement I",
+        "c": "Statement I is correct but Statement II is not correct",
+        "d": "Statement I is not correct but Statement II is correct"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**GLP-1 receptor agonists**are**medications originally developed for type-2 diabetes**but are now also approved for**treating obesity and promoting weight loss.**- GLP-1 receptor agonists drugs include drugs like**ozempic, semaglutide, liraglutide, tirzepatide,**etc. - These drugs are**clinically proven to promote significant weight loss in people with obesity**and in those with**type-2 diabetes. **- These drugs are now widely used as part of treatment regimens to help reduce body weight along with improving blood glucose levels.**\n\nStatement II is correct: GLP-1 receptor agonists mimic the action of the naturally occurring hormone GLP-1,**which is released from the gastrointestinal tract in response to food intake.**Physiologically, GLP-1: **1.**Stimulates insulin secretion from the pancreas**in a glucose-dependent manner, 2.**Suppresses the release of glucagon**, thereby helping control blood glucose levels, and 3.**Acts on the stomach to delay gastric emptying **and** on the brain to reduce hunger**, increasing the feeling of fullness.**Link between the Statements:**By improving insulin secretion and reducing glucagon,**these drugs control blood sugar in type-2 diabetes.**At the same time, by**delaying stomach emptying and suppressing appetite**, they**reduce food intake and promote a feeling **of fullness. **These combined effects directly**lead to weight loss, **which explains their effectiveness mentioned in Statement I. Therefore,**Both Statement I and Statement II are correct and Statement II explains Statement I**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q28",
+      "questionNumber": 28,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Direct Energy Weapons (DEWs), consider the following statements:",
+        "I. They use high-powered lasers to inflict damage on targets.",
+        "II. Their performance is generally unaffected by atmospheric conditions like fog, rain, and dust.",
+        "III. They generally have a much longer kill range radius than conventional weapon systems.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Direct Energy Weapons (DEWs), consider the following statements: I. They use high-powered lasers to inflict damage on targets. II. Their performance is generally unaffected by atmospheric conditions like fog, rain, and dust. III. They generally have a much longer kill range radius than conventional weapon systems. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **In** April 2025, India successfully demonstrated a 30-kilowatt laser-based directed energy weapon (DEW) system**capable of disabling, degrading or destroying small unmanned aerial vehicles (UAVs), swarm drones, missiles and sensors at ranges up to about 3.5 km. The tests, conducted by the**Defence Research and Development Organisation**(DRDO), marked India’s entry into a select group of nations that have operational laser weapon capabilities, alongside the**United States, Russia, China, **the United Kingdom and Israel.**\n\nStatement I is correct:**Directed Energy Weapon systems use high-powered lasers to inflict damage on targets. Compared to traditional weapons, which primarily rely on physical impact and kinetic energy, DEW uses directed energy to heat up and destroy or damage the target. It has diverse military applications, offering rapid and precision strikes against threats such as unmanned aerial vehicles (UAVs), missiles and small vehicles and can be used in all warfighting environments.**\n\nStatement II is incorrect:**The**performance of DEWs is significantly affected by atmospheric conditions**. Factors such as fog, rain, dust, smoke, humidity, and atmospheric turbulence can absorb, scatter, or weaken energy beams, especially in the case of laser weapons. These conditions reduce accuracy and effective range. Thus,**environmental sensitivity**is considered**one of the major operational limitations of current DEW technology. **\n\nStatement III is incorrect: **Although**DEWs deliver energy nearly at the speed of light, their effective kill range **radius is limited to 1-2 km** by factors such as power generation capacity, beam dispersion, atmospheric attenuation, and line-of-sight constraints.\nMany conventional weapons, such as long-range missiles and artillery can engage targets at much greater distances than present-day DEW systems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q29",
+      "questionNumber": 29,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "It is an indigenous low-cost micro-missile air defence system developed in India to detect and neutralize enemy drone threats and drone swarms using guided micro-missiles and rockets. This counter drone system is capable of detecting even small incoming flying machines at over 6 km and can take them down using micro munitions.",
+        "Which one of the following defence systems is best described in the above passage?"
+      ],
+      "questionText": "It is an indigenous low-cost micro-missile air defence system developed in India to detect and neutralize enemy drone threats and drone swarms using guided micro-missiles and rockets. This counter drone system is capable of detecting even small incoming flying machines at over 6 km and can take them down using micro munitions. Which one of the following defence systems is best described in the above passage?",
+      "options": {
+        "a": "Nagastra",
+        "b": "Rudrastra",
+        "c": "Bhargavastra",
+        "d": "Pralay"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**defence system described in the passage is Bhargavastra**, an**indigenous, low-cost counter-drone micro\n- **missile air defence system developed in India. **I. Bhargavastra has been designed specifically to**detect, track and neutralise hostile drones and drone **swarms,**which pose a significant threat at low altitudes. II. This system is capable of**detecting even small incoming flying machines at over 6 km**and can take them down using**micro munitions**that can be guided towards the threat. III. Bhargavastra follows a**two-layer hard-kill approach**: o It employs unguided micro rockets as the first layer of defence capable of neutralising swarms of drones with lethal radius of 20 meters and guided micro-missile as the second layer for pinpoint accuracy, ensuring precise and impactful neutralisation. Designed for seamless deployment across diverse terrains, including high-altitude regions (> 5000 m above sea level), the system addresses the unique operational demands of India's armed forces.**IV. **The system is intended to be cost-effective, mobile, and suitable for deployment across diverse terrains, and can be integrated with soft-kill measures such as**jamming and spoofing. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q30",
+      "questionNumber": 30,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to differences between Nuclear Fission and Nuclear Fusion, consider the following statements:",
+        "I. Nuclear fission involves the splitting of a heavy atomic nucleus into lighter nuclei, whereas nuclear fusion involves the combination of two light atomic nuclei to form a heavier nucleus.",
+        "II. Nuclear fusion releases more energy per unit mass than nuclear fission.",
+        "III. The radioactive waste generated by nuclear fusion is significantly greater and more long-lived than that produced by nuclear fission.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to differences between Nuclear Fission and Nuclear Fusion, consider the following statements: I. Nuclear fission involves the splitting of a heavy atomic nucleus into lighter nuclei, whereas nuclear fusion involves the combination of two light atomic nuclei to form a heavier nucleus. II. Nuclear fusion releases more energy per unit mass than nuclear fission. III. The radioactive waste generated by nuclear fusion is significantly greater and more long-lived than that produced by nuclear fission. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is correct:**Nuclear fission**is the process in which a**heavy atomic nucleus**(such as Uranium-235 or Plutonium-239)**splits into two or more lighter nuclei**, releasing energy.**Nuclear fusion**, on the other hand,**involves the combination of two light atomic nuclei**(such as isotopes of hydrogen) to form a heavier nucleus, releasing energy. This is the fundamental conceptual difference between the two processes.**\n\nStatement II is correct:**Fusion releases far more energy per unit mass compared to fission**. For example, the energy yield from fusion reactions in stars is much greater than that from fission reactions in nuclear reactors.**Fusion could generate nearly four times more energy per kilogram of fuel than fission**and nearly four million times more energy than burning oil or coal.**\n\nStatement III is incorrect: Nuclear fission power plants have the disadvantage of generating unstable nuclei; some **of these are radioactive for millions of years. Fusion on the other hand does not create any long-lived radioactive **nuclear waste.** A fusion reactor produces helium, which is an inert gas. It also produces and consumes tritium within the plant in a closed circuit. Tritium is radioactive (a beta emitter) but its half life is short. It is only used in low amounts so, unlike long-lived radioactive nuclei, it cannot produce any serious danger.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q31",
+      "questionNumber": 31,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.",
+        "2. Carbon fibres once used cannot be recycled.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts. 2. Carbon fibres once used cannot be recycled. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement 1 is correct: **Carbon fibre is increasingly celebrated as a wonder material for the clean economy. Its unique combination of high strength and low weight has helped drive the wind power revolution and**make planes more fuel **efficient. Auto makers **are also waking up to the material’s potential to**make lighter and more efficient vehicles. **\n\nStatement 2 is incorrect: The carbon fibre can be recycled though **difficult to recycle. There is a need to divert carbon fibre from landfill, they could open the gates for**use of recycled carbon fibre in cars, bikes and for dozens of **other applications. **They could also save a lot of energy since the production of virgin material is the most energy-intensive part of the process.**Recycled carbon fibre often ends up in tennis rackets and golf clubs, **where low weight (and the cachet of carbon fibre) is more important than strength",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q32",
+      "questionNumber": 32,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to India’s three-stage nuclear programme, consider the following pairs:",
+        "Stage of Nuclear Programme Primary Objective",
+        "I. First Stage Utilisation of natural uranium in Pressurised Heavy Water Reactors (PHWRs) for power generation and to produce plutonium",
+        "II. Second Stage Use of plutonium-based Fast Breeder Reactors to generate more fissile material than they use.",
+        "III. Third Stage Large-scale utilisation of thorium as a fertile material for sustainable nuclear energy generation",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to India’s three-stage nuclear programme, consider the following pairs: Stage of Nuclear Programme Primary Objective I. First Stage Utilisation of natural uranium in Pressurised Heavy Water Reactors (PHWRs) for power generation and to produce plutonium II. Second Stage Use of plutonium-based Fast Breeder Reactors to generate more fissile material than they use. III. Third Stage Large-scale utilisation of thorium as a fertile material for sustainable nuclear energy generation How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **India’s three-stage nuclear programme**was conceived by**Dr. Homi J. Bhabha**(also known as father of India’s nuclear power development) 1954. It was designed with the objective**of ensuring long-term energy security and self-reliance**by making optimal use of the country’s limited uranium reserves and abundant thorium resources.**Pair I is correct: First Stage **The first stage of India’s nuclear power programme focuses on**using natural uranium as fuel in Pressurised Heavy **Water Reactors**(PHWRs). During reactor operation, uranium-238 absorbs neutrons and is**converted into plutonium\n- **239**, which becomes the key fuel for the next stage.**Pair II is correct: Second Stage **The second stage**utilises Plutonium**obtained from the spent fuel of Pressurised Heavy Water Reactors**in Fast **Breeder Reactors**. These reactors**not only produce energy but also breed more fissile material**(mainly plutonium-239 and uranium-233) than they consume.**Pair III is correct: Third Stage **The**third stage aims at the large-scale use of thorium**. Thorium is a**fertile material**, which means that it can be used to produce fissile material. India possesses vast thorium reserves but limited uranium; hence this stage seeks to**achieve long-term energy security and sustainability by converting thorium-232 into fissile uranium-233 for **power generation**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q33",
+      "questionNumber": 33,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following factors:",
+        "I. Indiscriminate use of antibiotics in human healthcare systems",
+        "II. Premature discontinuation of prescribed antibiotic treatment",
+        "III. Excessive intake of vitamin supplements",
+        "IV. Consumption of genetically modified (GM) crop-based foods in the human diet",
+        "V. Extensive use of antimicrobial drugs in livestock farming",
+        "How many of the above significantly contribute to the development and spread of Antimicrobial Resistance (AMR)?"
+      ],
+      "questionText": "Consider the following factors: I. Indiscriminate use of antibiotics in human healthcare systems II. Premature discontinuation of prescribed antibiotic treatment III. Excessive intake of vitamin supplements IV. Consumption of genetically modified (GM) crop-based foods in the human diet V. Extensive use of antimicrobial drugs in livestock farming How many of the above significantly contribute to the development and spread of Antimicrobial Resistance (AMR)?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All the five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Antimicrobial Resistance**(AMR) refers to the**ability of microorganisms**such as bacteria, viruses, fungi, and parasites**to survive and multiply despite the presence of antimicrobial drugs**that were previously effective in treating infections caused by them. - As a result, standard treatments become ineffective, infections persist longer, and the risk of spread, severe illness, and death increases. - It**develops mainly due to the misuse and overuse of antimicrobial drugs in humans, animals, and **agriculture. **- Recognising its multi-sectoral nature, AMR is addressed through the**One Health approach**, which integrates human health, animal health, agriculture, and environmental management. - The**World Health Organization**(WHO) has identified AMR as one of the top**global**public-health threats**, warning that it could undermine decades of medical progress if not urgently contained.** Option I is correct:**Inappropriate prescribing, self-medication and frequent and unnecessary use of antibiotics**(for example, using them for viral infections or without medical advice) are**among the most significant drivers of AMR**globally**. This enables resistant bacteria to survive and multiply, gradually reducing the effectiveness of commonly used drugs.** Option II is correct:**When patients stop taking antibiotics before completing the full course, some bacteria may **remain alive. **These surviving bacteria are often more tolerant to the drug and can**develop resistance**, leading to recurrent and harder-to-treat infections.** Option III is incorrect:**Vitamins do not possess antimicrobial activity**and therefore do not exert selective pressure on microorganisms. Excessive vitamin consumption may have health consequences, but it has**no role in the **emergence or spread of antimicrobial resistance**.** Option IV Is incorrect:**Genetically modified crops **are designed to improve traits such as yield, pest resistance, or nutritional value. Their consumption does not involve exposure to antimicrobial agents and has**no certain scientific **evidence linking their consumption with the development or spread of antimicrobial resistance. ** Option V is correct: Antibiotics**are**often used in animals**for growth promotion and disease prevention. This leads to the**emergence of resistant bacteria**, which can spread to humans through food products, direct animal contact, or environmental contamination, forming a key concern under the**One Health framework. **Knowledge Base:**Global and National Efforts to Counter Antimicrobial Resistance (AMR) **1. Global Initiatives**-**World Health Organization (WHO)**- Leads the**Global Action Plan on AMR (2015)**, focusing on surveillance, rational drug use, and public awareness. -**Tripartite Collaboration (WHO–FAO–WOAH) on One Health Approach**- Jointly led by**Food and Agriculture Organization (FAO)**and**World Organisation for Animal Health (WOAH, **formerly OIE)**to promote the**One Health approach**(human–animal–environment link). -**Global Antimicrobial Resistance Surveillance System (GLASS)**- Coordinated by WHO to track resistance patterns worldwide. -**World AMR Awareness Week (WAAW) **Celebrated from 18 to 24 November every year to raise awareness, understanding and best practices with the public, One Health stakeholders, and other policymakers.**2. National Efforts (India) **-**National Action Plan on AMR (NAP-AMR) 2017–2021 (extended)**- Aligned with WHO’s Global Action Plan, it adopts the**One Health framework**and focuses on surveillance, rational use of antimicrobials, infection control, and research. -**National Programme on AMR Surveillance**- It monitors resistance patterns in major bacterial pathogens across healthcare institutions. -**Regulatory Measures**- Introduction of**Schedule H1**under the Drugs and Cosmetics Rules to restrict over-the-counter sale of critical antibiotics. -**National Awareness Initiatives**- Campaigns such as**Red Line Campaign** to discourage self-medication and promote responsible antibiotic use.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q34",
+      "questionNumber": 34,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "In the context of science and technology, the term 'Twigstats', often seen in the news, refers to:"
+      ],
+      "questionText": "In the context of science and technology, the term 'Twigstats', often seen in the news, refers to:",
+      "options": {
+        "a": "A blockchain-based platform for securing digital identities.",
+        "b": "A software for earthquake prediction.",
+        "c": "A tool to precisely study the individual-level genetic ancestry of humans.",
+        "d": "A cloud-based platform to process weather forecasting models."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Twigstats **is a cutting-edge**tool developed for time-stratified ancestry analysis**. It is designed to**study human **genetic history by analyzing ancient DNA samples**. This tool helps researchers trace individual-level ancestry with high precision, providing insights into**migration patterns, cultural transitions, and genetic makeup of ancient **populations. **1. This approach has been applied to over 1,500 European genomes from individuals who lived primarily during the 500 BC to 1000 AD, encompassing eras such as the spanning the Iron, Roman, and Viking ages on the European continent. 2. Through this analysis, 'Twigstats' has uncovered previously unknown details of migrations in Europe, offering a more detailed understanding of human genetic history during these times. 3. This will offer new insights into the genetic legacy of groups like the Vikings and the impact of migrations on the genetic makeup of modern Europeans.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q35",
+      "questionNumber": 35,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following:",
+        "1. Battery storage",
+        "2. Biomass generators",
+        "3. Fuel cells",
+        "4. Rooftop solar photovoltaic units",
+        "How many of the above are considered “Distributed Energy Resources”?"
+      ],
+      "questionText": "Consider the following: 1. Battery storage 2. Biomass generators 3. Fuel cells 4. Rooftop solar photovoltaic units How many of the above are considered “Distributed Energy Resources”?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Distributed energy resources are small, modular, energy generation and storage technologies that provide electric capacity or energy where you need it. Typically producing less than 10 megawatts (MW) of power, DER systems can usually be sized to meet your particular needs and installed on site. Examples of distributed energy resources that can be installed include: -**roof top solar photovoltaic units **- wind generating units -**battery storage **- batteries in electric vehicles used to export power back to the grid-combined heat and power units, or tri-generation units that also utilise waste heat to provide cooling -**biomass generators**, which are fuelled with waste gas or industrial and agricultural by-products. - open and closed cycle gas turbines-reciprocating engines (diesel, oil) - hydro and mini-hydro schemes -**fuel cells. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q36",
+      "questionNumber": 36,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "‘Black Mass Recovery Technology’ is primarily used for which of the following purposes?"
+      ],
+      "questionText": "‘Black Mass Recovery Technology’ is primarily used for which of the following purposes?",
+      "options": {
+        "a": "Extraction of rare earth metals from sand minerals.",
+        "b": "Recovery of biochar from agricultural wastes and crop residues.",
+        "c": "Extraction of valuable metals from used lithium-ion batteries.",
+        "d": "Recovery of fly ash from thermal power plants."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Black Mass Recovery Technology is used in the recycling of**lithium-ion batteries**to**extract valuable materials like **lithium, copper, cobalt, and nickel from the used batteries.**Black mass refers to the fine black powder obtained from recycling lithium-ion batteries. It is rich in high-value materials such as lithium, cobalt, graphite, and nickel. This technology is indigenously developed and patented by**BatX Energies**, significantly reducing reliance on imported recycling equipment while also reducing import of critical minerals .",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q37",
+      "questionNumber": 37,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to the the Stem Cells in human body, consider the following statements:",
+        "I. These are unspecialised cells which divide to produce two daughter cells, one of which remains a stem cell and the other one becomes differentiated.",
+        "II. These cells are found only in the embryonic stage and are absent in adult tissues.",
+        "III. The Haematopoietic stem cells (HSCs) are an example of totipotent stem cells.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the the Stem Cells in human body, consider the following statements: I. These are unspecialised cells which divide to produce two daughter cells, one of which remains a stem cell and the other one becomes differentiated. II. These cells are found only in the embryonic stage and are absent in adult tissues. III. The Haematopoietic stem cells (HSCs) are an example of totipotent stem cells. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "III only",
+        "b": "I and II",
+        "c": "I only",
+        "d": "I and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct and\n\nstatement II is incorrect.**All of the human body cells are not differentiated. Some populations of unspecialised/undifferentiated cells, also known as stem cells, are found to be present in organisms even after attaining adulthood.**Stem cells are unspecialised cells which divide to produce two daughter cells, one of **which remains a stem cell and the other one becomes differentiated.**The major sources of stem cells are embryos and adult tissues (adult stem cells). **- The embryonic stem cells can be derived from embryos which are in the early phase of development, usually a week old blastocyst is preferred. It is a common practice to extract the inner cell mass from the blastocyst and culture the cells in a culture dish containing essential nutrients. In the total absence of any necessary stimulation to differentiate, these cells begin to divide while retaining the ability to differentiate in any type of cell. - The adult stem cells, on the other hand, can be found in various tissues throughout the body, e.g., bone marrow, blood vessels, brain, skeletal muscles and liver. In these tissues, the adult stem cells remain in a non-dividing (or quiescent) state until they are finally activated due to tissue injury.**\n\nStatement III is incorrect. **Multipotent cells have a limited range of tissues into which they can differentiate. Therefore, they have a lower cell differentiation potential than totipotent and pluripotent stem cells.**An excellent **example of Multipotent stem cell type is the haematopoietic stem cells (HSCs). HSCs differentiate into a large **number of blood cells including red blood cells (RBCs), white blood cells (WBCs) and platelets. ** On the other hand, a totipotent cell is able to differentiate into all possible cell types in an organism. This ability of the cell is referred to as totipotency. Totipotent cells, thus, exhibit highest differentiation potential. Unlike pluripotent cells, totipotent cells can give rise to embryonic as well as extraembryonic cells. Examples of totipotent cells include a zygote formed after fertilisation (Fig 5.19), and asexual spores.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://sathee.iitk.ac.in/ncert-books/class-12/biotechnology/chapter-09-stem-cell-culture-and-organ- culture/ https://ncert.nic.in/textbook/pdf/kebt105.pdf Page: 137 ForumIAS Science & Technology Redbook Chapter 3- Biotechnology Page: 67"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q38",
+      "questionNumber": 38,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Which of the following vaccines contains pathogens, like virus or bacteria, that are weakened by genetic manipulations so that they cannot cause disease but still trigger an immune response?"
+      ],
+      "questionText": "Which of the following vaccines contains pathogens, like virus or bacteria, that are weakened by genetic manipulations so that they cannot cause disease but still trigger an immune response?",
+      "options": {
+        "a": "Live attenuated Vaccine",
+        "b": "Inactivated Vaccine",
+        "c": "Conjugate Vaccine",
+        "d": "Recombinant Vaccine"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct.**In Live attenuated vaccines, Pathogens like virus or bacteria are weakened by genetic **manipulations to limit its growth**and thus do not cause disease to the host. In some modified versions of live vaccines an organism that is related to the pathogen is used that naturally grows poorly in humans. The weakened pathogen replicates in the body thus generating a broad immune response in the host similar to that shown by an infected individual with a natural pathogen. For example Oral polio vaccine .**\n\nOption b is incorrect. In Inactivated or Dead vaccines**,** the disease-causing pathogen is killed or inactivated, **usually through a thermal (application of high temperature) or chemical (formalin etc.) process. Such vaccines, when administered, elicit a robust immune response that mimics most of the responses seen during an infection. For example Hepatitis A vaccine.**\n\nOption c is incorrect. Conjugate Vaccines do not contain the whole bacteria or viruses. Instead, they contain **polysaccharides or proteins from the surface of the bacteria or virus**. In these vaccines, bacterial polysaccharide molecules are chemically linked or conjugated to a carrier protein to induce a stronger immune response effective enough for young children also. For example**Pneumococcal conjugate vaccine. **\n\nOption d is incorrect. In Recombinant Vaccine, a small piece of the DNA is taken from the disease-causing **bacterium or virus. The particular gene is incorporated **into plasmid or a carrier vehicle which enables production of large quantities of well-defined proteins, which are then used as vaccines. These proteins are recognised as foreign antigen thus generating an immune response in the body . For example Human papillomavirus (HPV) vaccine.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q39",
+      "questionNumber": 39,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "With reference to Genetically Modified mustard DMH-11 in India, consider the following statements:",
+        "I. It is a hybrid variety of mustard produced by a crossing between the ‘Varuna’ and ‘Early Heera-2’ mustard varieties.",
+        "II. It is only the second Genetically Modified crop allowed for commercial cultivation in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Genetically Modified mustard DMH-11 in India, consider the following statements: I. It is a hybrid variety of mustard produced by a crossing between the ‘Varuna’ and ‘Early Heera-2’ mustard varieties. II. It is only the second Genetically Modified crop allowed for commercial cultivation in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **GM mustard or Dhara Mustard Hybrid-11 (DMH-11) was developed by researchers at the Centre for Genetic Manipulation of Crop Plants (CGMCP) at the University of Delhi. \n\nStatement I is correct. **The CGMCP scientists have deployed the**barnase-barstar GM technology**to create what they say is a robust and viable hybridisation system in mustard. This**system was used to develop DMH-11 by crossing a **popular Indian mustard variety ‘Varuna’ (the barnase line) with an East European ‘Early Heera-2’ mutant (barstar)**. It has three new genes: barnase, barstar, and bar genes. The first two genes are**isolated from the soil bacterium **Bacillus amyloliquefaciens. **The first gene (‘barnase’) codes for a protein that impairs pollen production and renders the plant into which it is incorporated male-sterile. This plant is then crossed with a fertile parental line containing, in turn, the second ‘barstar’ gene that blocks the action of the barnase gene.**The resultant F1 progeny is both high-yielding and also **capable of producing seed/ grain**, due to the barstar gene in the second fertile line. In experimental conditions, DMH-11 is claimed to have shown an average 28% yield increase over Varuna. Thus, the barnase gene enables cross-pollination and development of hybrid seeds. The barstar gene helps in the production of seeds**. The bar gene is inserted as herbicide-tolerant to Glufosinate. **\n\nStatement II is incorrect. **The GEAC functions under the Ministry of Environment, Forest and Climate Change (MoEF&CC) and has been tasked with the appraisal of proposals relating to the ‘release’ of GM organisms into the environment.\nAt present, Bt cotton is the only genetically modified crop allowed to be cultivated. Though the Environment Ministry/GEAC gave its conditional go-ahead for commercial cultivation of GM mustard in 2022, it has not taken off as it was challenged in the Supreme Court. At present, Bt cotton is the only genetically modified crop allowed to be commercially cultivated in India.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q40",
+      "questionNumber": 40,
+      "subject": "Science & Technology",
+      "sectionGroup": "Biotechnology & Life Sciences",
+      "microTopic": "Biology and Biotechnology",
+      "statementLines": [
+        "Consider the following statements regarding the National Biofoundry Network of India:",
+        "I. It has been launched under the BioE3 Policy.",
+        "II. Its primary objective is to strengthen indigenous biomanufacturing and to foster sustainable biotechnology innovations.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the National Biofoundry Network of India: I. It has been launched under the BioE3 Policy. II. Its primary objective is to strengthen indigenous biomanufacturing and to foster sustainable biotechnology innovations. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**\n\nStatement I is correct. India’s first National Biofoundry Network was recently launched under the BioE3 **(Biotechnology for Economy, Environment and Employment) Policy **with the objective of strengthening indigenous Biomanufacturing.**\n\nStatement II is correct. Its primary objective is the strengthening indigenous Biomanufacturing. **It is a step towards making biotechnology a driver of India's economy, environment and employment. National Biofoundry Network aims to**boost India's bioeconomy, create jobs, and foster sustainable biotechnology innovations. **The National Biofoundry Network comprises six institutions**to help scale up proof-of-concept developments, enhance indigenous biomanufacturing, and create employment opportunities. The initiative reflects the government’s commitment to strengthening biotechnology as a pillar of India’s economic growth while ensuring benefits reach citizens in diverse sectors.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q41",
+      "questionNumber": 41,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following aircraft:",
+        "1. Rafael",
+        "2. MiG-29",
+        "3. Tejas MK-1",
+        "How many of the above are considered fifth generation fighter aircraft?"
+      ],
+      "questionText": "Consider the following aircraft: 1. Rafael 2. MiG-29 3. Tejas MK-1 How many of the above are considered fifth generation fighter aircraft?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Fifth-generation fighters include major technologies developed during the first part of the 21st century. They typically have characteristics like stealth, super cruise (prolonged supersonic cruise without reheat), advanced avionics, and networked data fusion for situational awareness. Examples of combat-ready fifth-generation fighters include the Lockheed Martin F-22 Raptor, Lockheed Martin F-35 Lightning II, Chengdu J-20, and Sukhoi Su-57.** Option 1 is incorrect: **The Rafale is a fourth-generation(4.5th) fighter jet developed by France.** Option 2 is incorrect: **The MiG-29 is also a fourth generation fighter jet developed by Russia.** Option 3 is incorrect: **The Tejas MK-1 is an indigenous Indian fighter, but it falls under the fourth generation (4.5th generation) as well.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q42",
+      "questionNumber": 42,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "In the context of Biotechnology, what is the primary function of restriction enzymes?"
+      ],
+      "questionText": "In the context of Biotechnology, what is the primary function of restriction enzymes?",
+      "options": {
+        "a": "Making cuts at specific positions within the DNA.",
+        "b": "Translation of genetic information into proteins.",
+        "c": "Separation of DNA fragments based on their size.",
+        "d": "Getting pure form of DNA, free from other macro-molecules, for DNA editing."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **The**cutting of DNA at specific locations **became possible with the discovery of the so-called molecular scissors i.e. restriction enzymes. Restriction enzymes belong to a larger class of enzymes called nucleases. These are of two kinds;**exonucleases**and endonucleases**. Exonucleases remove nucleotides from the ends of the DNA**whereas endonucleases make cuts at specific positions **within the DNA. **Each restriction endonuclease functions by ‘inspecting’ the length of a DNA sequence. Once it finds its specific recognition sequence, it will** bind to the DNA and cut each of the two strands of the double helix at specific points **in their sugar-phosphate backbones**. Each restriction endonuclease recognises a specific palindromic nucleotide sequence in the DNA. The cutting of DNA by restriction endonucleases results in the fragments of DNA.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q43",
+      "questionNumber": 43,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following statements regarding the Organ-on-Chip technology:",
+        "I. An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment.",
+        "II. It will help reduce dependence on testing of drugs on animals during preclinical trials.",
+        "III. It can help in precision therapeutics, which involve developing and administering drugs according to the needs of individual patients.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements regarding the Organ-on-Chip technology: I. An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment. II. It will help reduce dependence on testing of drugs on animals during preclinical trials. III. It can help in precision therapeutics, which involve developing and administering drugs according to the needs of individual patients. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Recent advancements in**human-relevant 3D culture models**, also known as ‘**new approach methods**’ (NAMs), have shown promising results in the field of precision therapeutics. These models include 3D spheroids, organoids, bioprinting, and organ-on-chips.**\n\nStatement I is correct. **An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment.**Organ-on-a-chip are small devices containing human cells that are used to mimic the environment in human **organs. **Organ on a chip is a novel in-vitro micro-scale biomimetic platform that helps in reproducing the physiological environment of human organs. It**allows integrating cells derived from a human body**with a well-defined in vitro biological environment (i.e. in the lab) that mimics the body’s conditions.**\n\nStatement II is correct.**In the early stages of drug trials, drugs are tested on animal models i.e. animals genetically engineered to a drug in a manner similar to how human organs might respond. However, drugs that succeed on these animals often fail in humans. Organ-on-chip technology offers a potential solution to this problem** by providing a more accurate and efficient **platform for testing drugs without involving animals or humans in preclinical testing.**An organ-on-chip is a small device designed to recreate the dynamic functions of some human organ in a controlled microenvironment. These devices are expected to be more effective than the cell cultures and animal models currently used by researchers for testing the effects of a drug. The results obtained from the use of these devices would in turn provide a better understanding of the drug-candidate’s efficacy and toxicity, reduce the use of animals,**and pave the way for **personalized treatment. **\n\nStatement III is correct: **Precision therapeutics involves developing and administering drugs according to the needs of individual patients. Recent advancements in human-relevant 3D culture models, also known as ‘new approach methods’ (NAMs), have shown promising results in the field of precision therapeutics. These models include 3D spheroids, organoids, bioprinting, and organ-on-chips.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q44",
+      "questionNumber": 44,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Which among the following is an example of the ‘Xenotransplantation’?"
+      ],
+      "questionText": "Which among the following is an example of the ‘Xenotransplantation’?",
+      "options": {
+        "a": "Replacement of defective mitochondria in a woman with healthy mitochondria from another woman.",
+        "b": "Inactivation or removal of one or more specific genes from a human body.",
+        "c": "Differentiation of stem cells into diverse functional tissues.",
+        "d": "Infusion of non-human animal cells or tissues or organs into human recipients."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Xenotransplantation refers to the transplantation of non-human tissues or organs into human recipients. Xenotransplantation is any procedure that**involves the transplantation, implantation or infusion into a human **recipient of either: **a) live cells, tissues, or organs**from a nonhuman animal source**, or b) human body fluids, cells, tissues or organs that have had ex vivo contact with live nonhuman animal cells, tissues or organs. Thus, it is the** use of animal cells and organs to heal humans. **For example: **Pig heart valves have been used for replacing damaged valves in humans for over 50 years now. The pig’s anatomical and physiological parameters are similar to that of humans, and the breeding of pigs in farms is widespread and cost-effective.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q45",
+      "questionNumber": 45,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to bio-toilets used by the Indian Railways, consider the following statements:",
+        "1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculum.",
+        "2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to bio-toilets used by the Indian Railways, consider the following statements: 1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculum. 2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Statements 1 and 2 are incorrect: **The biological degradation of human waste is done by Anaerobic Bacteria inoculums.\nBio-toilets dispose of human waste in 100% eco-friendly manner and generates colourless, odourless water and inflammable Methane-Gas for cooking.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2015,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q46",
+      "questionNumber": 46,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to Carbon Nanotubes (CNTs), consider the following statements:",
+        "I. They are three-dimensional concentric tubular structures with pentagonal arrangement of carbon atoms.",
+        "II. They exhibit high electrical and thermal conductivity.",
+        "III. They can be used in targeted drug delivery systems.",
+        "Which of the above given statements are correct?"
+      ],
+      "questionText": "With reference to Carbon Nanotubes (CNTs), consider the following statements: I. They are three-dimensional concentric tubular structures with pentagonal arrangement of carbon atoms. II. They exhibit high electrical and thermal conductivity. III. They can be used in targeted drug delivery systems. Which of the above given statements are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect: **Carbon nanotube (CNT) is a**one-dimensional**concentric tubular structure with**hexagonal **arrangement of carbon atoms**. It is in the form of fine powder, multi walled with 20-50nm diameter, length is 5-10µm (approx) & purity-95%.**\n\nStatement II is correct: CNTs are**well known for**a combination of special material properties like**very high thermal **& electrical conductivities**, high tensile strength, high modulus of elasticity, low density, high porosity, chemical stabilities, and high aspect ratio. \n\nStatement III is correct: CNTs are used in medical applications like targeted drug delivery systems **and biosensors.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q47",
+      "questionNumber": 47,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to the applications of nuclear technology, consider the following:",
+        "I. Plant breeding and genetics to develop disease-resistant crop varieties.",
+        "II. Pest management in agricultural fields.",
+        "III. Diagnosis and therapy of thyroid and related cancers.",
+        "How many of the above are the applications of nuclear technology?"
+      ],
+      "questionText": "With reference to the applications of nuclear technology, consider the following: I. Plant breeding and genetics to develop disease-resistant crop varieties. II. Pest management in agricultural fields. III. Diagnosis and therapy of thyroid and related cancers. How many of the above are the applications of nuclear technology?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer**. Nuclear energy is often associated only with power generation. In reality,**nuclear technology has wide non-electric **applications**. These applications use**radiation, radioisotopes, and nuclear reactions**to solve problems in agriculture, health, water management, and industry.** Option I is correct**. Nuclear technology**used in crop breeding can develop improved varieties that better adapt to **climate change**and help vulnerable countries ensure their food and nutritional security. Seeds can be irradiated with gamma rays, X rays, ions or electron beams to initiate genetic changes. This increased diversity allows for a wider selection of genetics for breeding techniques. Resulting crop varieties can have improved yield and quality, tolerance to drought, heat or flooding, better resistance to pests and diseases or shorter growth cycles.** Option II is correct**. Nuclear technology is used for insect pest management in agricultural fields. The nuclear-derived, sterile insect technique (SIT) is an environmentally-friendly method of**managing insect pests**. The technique involves mass-rearing the insects then**sterilizing them through ionizing radiation **before releasing them back into pest-infested areas. The technique reduces reproduction and suppresses or eradicates established insect pests.** Option III is correct**. Nuclear technology is used to produce**radioactive medicines**. The radioisotopes produced in nuclear reactors/ cyclotrons are employed for medical applications. The nature of radiation emitted from the radioisotope determines its utility for diagnostic or therapeutic application. Example:**131I-Iodine**based products for diagnosis and therapy of thyroid and related cancers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q48",
+      "questionNumber": 48,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "With reference to Trans Fats, consider the following statements:",
+        "I. They are a type of unsaturated fatty acids.",
+        "II. They do not occur naturally.",
+        "III. In India presently, the permissible limit of trans fatty acids (TFA) in food products is 5% of total fats and oil.",
+        "IV. Regular high consumption of trans fats increases the risk of cardiovascular diseases.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to Trans Fats, consider the following statements: I. They are a type of unsaturated fatty acids. II. They do not occur naturally. III. In India presently, the permissible limit of trans fatty acids (TFA) in food products is 5% of total fats and oil. IV. Regular high consumption of trans fats increases the risk of cardiovascular diseases. Which of the statements given above are correct?",
+      "options": {
+        "a": "I, II and IV",
+        "b": "I and IV only",
+        "c": "II and III only",
+        "d": "I, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **All natural fats and oils consist of a mixture of different types of fatty acids, including saturated, monounsaturated, and polyunsaturated fatty acids, and may also contain small amounts of trans fatty acids.**\n\nStatement I is correct:**Trans fats, also known as trans-fatty acids (TFAs), are a type of unsaturated fatty acids. **\n\nStatement II is incorrect: Trans fats occur naturally as well as produced artificially.**Trans fats are produced industrially by the partial hydrogenation of any liquid oils, in most cases vegetable oils and can be found in margarine, vegetable shortening, Vanaspati ghee, fried foods, and baked goods such as crackers, biscuits and pies. They can also be found naturally in meat and dairy foods from ruminant animals (e.g. cows, sheep, goats).**\n\nStatement III is incorrect: In India, the permissible limit of trans fatty acids (TFA) in oils and fats is 2% (not 5%). **In 2020, the Food Safety and Standards Authority of India (FSSAI) amended the Food Safety and Standards (Prohibition and Restriction on Sales) Regulations to progressively reduce the TFA limit from the earlier 5% to 3% in 2021 and further to 2% from 2022 onwards. \n\nStatement IV is correct: A regular high intake/consumption of trans fats significantly increases cardiovascular **disease risk,**increasing the likelihood of death from any cause by approximately 34%, deaths due to coronary heart disease by 28%, and the overall risk of developing coronary heart disease by about 21%.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q49",
+      "questionNumber": 49,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "Consider the following:",
+        "I. Brahmos missile",
+        "II. Akash Prime",
+        "III. Prithivi missile",
+        "IV. Agni-V missile",
+        "How many of the above are classified as Ballistic missiles?"
+      ],
+      "questionText": "Consider the following: I. Brahmos missile II. Akash Prime III. Prithivi missile IV. Agni-V missile How many of the above are classified as Ballistic missiles?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Based on the**type of trajectory**, missiles are divided into**ballistic missiles and cruise missiles**.**Ballistic missiles are **those which follow a projectile or arch trajectory**(similar to a ball thrown). They are guided only during their initial stage and for most of the path in their trajectory, they fall under the effect of gravity, friction and Coriolis force.**Cruise missiles are those which fly at low altitude **(within the atmosphere) and are guided throughout its path. They fly with nearly constant speed in major portions of their flight path.** Option I is incorrect:**Brahmos is a supersonic cruise missile (not ballistic missile)**developed jointly by India and Russia.** Option II is incorrect: Akash Prime is a medium-range, surface-to-air missile platform**(not ballistic missile) designed to protect mobile, semi-mobile and static military installations from a range of aerial threats.** Option III is correct: Prithvi missile is **an indigenously developed**short range**surface-to-surface**ballistic missile. ** Option IV is correct: Agni V is the intermediate-range ballistic missile. **Agni-V, India’s**indigenously developed **intercontinental ballistic missile (ICBM)**with a range of 5,000 km. Designed by the Defence Research and Development Organisation (DRDO), the system has been developed keeping in view the country’s long-term security requirements.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-science-technology-test41-q50",
+      "questionNumber": 50,
+      "subject": "Science & Technology",
+      "sectionGroup": "Emerging & Information Technologies",
+      "microTopic": "Information and Communication Technology, Robotics, AI",
+      "statementLines": [
+        "The primary concern about glycans in the context of viral infections like HIV is that they:"
+      ],
+      "questionText": "The primary concern about glycans in the context of viral infections like HIV is that they:",
+      "options": {
+        "a": "Increase the mutation rate of viral genetic material.",
+        "b": "Are the sugar shields that mask viral proteins from being recognised by the immune system.",
+        "c": "Are the viral proteins that directly destroy host antibodies after infection.",
+        "d": "Prevent the virus from binding to host cell receptors."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. Viruses such as HIV are covered with special proteins on their outer surface. These surface proteins are essential because they help the virus attach to and enter human cells. However, these proteins are not left exposed. They are heavily covered with**glycans**, which are complex sugar molecules derived from the host cell itself. This covering of sugars is called a**glycan shield**. When HIV is produced inside a human cell, it uses the host cell’s machinery to add sugar molecules to its surface proteins.**Since these sugars are similar to the body’s own sugars, the immune system sees them as “self” rather **than “foreign**”. As a result, - The protein parts of the virus, which immune cells and antibodies usually recognise, are physically covered by sugars. - Antibodies work by binding to specific shapes on viral proteins. The glycan layer blocks access to these shapes. This prevents effective antibody binding. - And because immune cells fail to clearly detect the virus, the body takes longer to mount a strong defence. This allows the virus to survive, multiply, and spread.**The glycan shield does not kill immune cells directly**. Instead, it**confuses and misleads**the immune system. This**makes HIV particularly difficult to neutralise**and is**one of the main**reasons why developing an effective HIV **vaccine has been so challenging**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

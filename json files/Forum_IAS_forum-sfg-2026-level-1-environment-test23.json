@@ -1,0 +1,1894 @@
+{
+  "id": "forum-sfg-2026-level-1-environment-test23",
+  "title": "Test 23- L1 SFG 2026 - Sectional - Environment",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 1",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Regarding Peacock tarantula (Gooty tarantula), consider the following statements:",
+        "I. It is an omnivorous crustacean.",
+        "II. Its natural habitat in India is only limited to some forest areas.",
+        "III. In its natural habitat, it is an arboreal species.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Regarding Peacock tarantula (Gooty tarantula), consider the following statements: I. It is an omnivorous crustacean. II. Its natural habitat in India is only limited to some forest areas. III. In its natural habitat, it is an arboreal species. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and III",
+        "c": "II only",
+        "d": "II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is incorrect:**The Peacock tarantula, also known as the Gooty tarantula (Poecilotheria metallica), is a **spider, not a crustacean. **It is an arachnid, specifically a tarantula species belonging to the family Theraphosidae. It’s native to deciduous forests in Andhra Pradesh, India, and is known for its vibrant blue color, which is also why it’s called the “peacock tarantula”.**\n\nStatement II is correct: The Gooty (Peacock) Tarantula’s natural habitat in India is limited to specific forest areas**, primarily in the Eastern Ghats and degraded forests near Nandyal in Andhra Pradesh. This makes it a critically endangered species.**\n\nStatement III is correct:**The Gooty tarantula is arboreal,** meaning it lives in trees, as opposed to burrowing in the ground like some other tarantulas. In its forest habitat, it makes use of tree hollows and bark crevices.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to the global distribution of biodiversity across major taxonomic groups,",
+        "which one of the following statements is not correct? reptiles and mammals."
+      ],
+      "questionText": "With reference to the global distribution of biodiversity across major taxonomic groups, which one of the following statements is not correct? reptiles and mammals.",
+      "options": {
+        "a": "More than 70 per cent of all the species recorded in the world are plant species.",
+        "b": "Among animals, insects are the most species-rich taxonomic group.",
+        "c": "The number of fungi species in the world is more than the combined total of the species of fishes, amphibians,",
+        "d": "Among vertebrates, fishes are the most species-rich group."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**.**\n\nOption a is incorrect. **Plants do not form the majority of recorded species on Earth. More than**70 per cent of all **described species are animals**, not plants. Even when plants are counted broadly to include algae, fungi, bryophytes, gymnosperms, and angiosperms, their share does**not exceed about 22 per cent**of the total recorded species.**\n\nOption b is correct. **Insects are the most species-rich group among animals. They account for**more than 70 per cent **of all animal species**. This means that out of every ten animals on Earth, about seven are insects.**\n\nOption c is correct. **Fungi show remarkable species richness.**The number of fungal species recorded globally is **greater than the combined total of species of fishes, amphibians, reptiles, and mammals taken together. **\n\nOption d is correct. Among vertebrates, fishes form the most species-rich group**. They outnumber amphibians, reptiles, birds, and mammals. This reflects the extensive diversity of aquatic habitats. \n\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf - Biodiversity and Conservation – Biodiversity - Page 218"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Consider the following countries:",
+        "1. Venezuela",
+        "2. Papua New Guinea",
+        "3. Democratic Republic of Congo",
+        "4. China",
+        "How many of the above countries are among the 17 mega-diverse countries as recognised by the World Conservation",
+        "Monitoring Centre (WCMC) of the United Nations Environment Program?"
+      ],
+      "questionText": "Consider the following countries: 1. Venezuela 2. Papua New Guinea 3. Democratic Republic of Congo 4. China How many of the above countries are among the 17 mega-diverse countries as recognised by the World Conservation Monitoring Centre (WCMC) of the United Nations Environment Program?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer**. Megadiverse countries are those nations that harbour an exceptionally large number of different species, including a high percentage of species unique to that country. These countries collectively account for about 70 per cent of the world’s biodiversity. To be classified as a megadiverse, a nation must have at least 5,000 plants that occur naturally only within its borders, as well as a marine ecosystem.** Option I is correct**.**Venezuela**is recognised as one of the world’s megadiverse countries due to its extraordinary biological richness. It is home to**about 21,000 plant species**, of which nearly**38 per cent are endemic**. The country also supports**around 8,000 endemic animal species**. It records**1,417 bird species**, along with hundreds of mammals, reptiles, and amphibians.** Option II is correct**.**Papua New Guinea**is among the 17 countries identified as megadiverse because of its vast natural ecosystems and high levels of species diversity. It contains the**third largest rainforest in the world**, which supports a wide range of life forms. The country is home to**about 730 bird species**, over**320 amphibian species**, and more than**300 reptile species**. Many species found here, such as tree-climbing kangaroos and giant rats, are**endemic**, strengthening its megadiverse status.** Option III is correct**.**The Democratic Republic of Congo**is one of the most biologically rich countries in Africa. It holds**nearly half of Africa’s freshwater resources**, supporting diverse aquatic and terrestrial ecosystems. The country has**around 3,000 endemic plant species**, about**400 mammal species**, and a very large number of reptiles, amphibians, and butterflies. Unique animals such as the**okapi and the bonobo**are found only in this region.** Option IV is correct**.**China**is counted among the 17 megadiverse countries due to its wide range of habitats and very high species numbers. It has**1,244 bird species**, making it one of the richest bird regions in the world. China also supports**667 endemic vertebrate species**, including iconic animals such as the**giant panda**. In addition, it has hundreds of mammal, reptile, and amphibian species.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to biodiversity in India, consider the following statements:",
+        "I. India has more than 50,000 different strains of rice cultivated across its regions.",
+        "II. India is home to five major big cat species.",
+        "III. India has distinct indigenous buffalo breeds such as Murrah and Jaffarabadi.",
+        "How many of the above illustrate genetic diversity?"
+      ],
+      "questionText": "With reference to biodiversity in India, consider the following statements: I. India has more than 50,000 different strains of rice cultivated across its regions. II. India is home to five major big cat species. III. India has distinct indigenous buffalo breeds such as Murrah and Jaffarabadi. How many of the above illustrate genetic diversity?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer**. Biodiversity is commonly understood at three levels:**genetic diversity**,**species diversity**, and**ecosystem diversity**. Genetic diversity refers to the**variation within a species**, such as different varieties of crops or breeds of domesticated animals. This form of diversity is crucial for**adaptation, resilience, and long-term survival**of species.** Option I is correct**. India has an exceptionally rich tradition of rice cultivation. Over centuries, farmers across different regions have selected and conserved rice varieties suited to local soil, rainfall, and cultural preferences. As a result, India has**more than 50,000 traditional varieties of rice**, all belonging to the same species. The differences among these varieties lie in traits such as grain size, colour, aroma, and resistance to pests. Such variation**within a **single species**is the expression of genetic diversity.** Option II is incorrect**. India is home to several large wild carnivores such as the tiger, lion, leopard, snow leopard, and clouded leopard. Each of these animals belongs to a**different biological species**. The presence of multiple species in a given region reflects**species diversity**. Genetic diversity, on the other hand, refers to variation**within the same **species**. This statement describes the existence of different species and not variation within a single species i.e Genetic diversity.** Option III is correct**. India has several indigenous buffalo breeds, such as**Murrah and Jaffarabadi**. These breeds belong to the same species but differ in physical features, milk yield, adaptability, and climatic tolerance. These differences have emerged due to selective breeding and regional environmental conditions. Such variation**within the **same species of buffalo** is an example of genetic diversity in domesticated animals.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf - Biodiversity and Conservation – Biodiversity - Page 216; https://www.pib.gov.in/PressReleasePage.aspx?PRID=2191068&reg=3&lang=2 ; https://nbagr.res.in/buffalo-breed ; https://agriculture.institute/organic-production-system/key-indian-cattle-buffalo-breeds-organic- farming/#murrah"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The organisms “Cicada, Froghopper and Pond skater” are:"
+      ],
+      "questionText": "The organisms “Cicada, Froghopper and Pond skater” are:",
+      "options": {
+        "a": "Birds",
+        "b": "Fish",
+        "c": "Insects",
+        "d": "Reptiles"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The Cicada, Froghopper and Pond Skater belong to insects. **The cicadas are a superfamily of insects in the order Hemiptera (true bugs). The froghoppers, or the superfamily Cercopoidea, are a group of hemipteran insects in the suborder Auchenorrhyncha. Pond Skaters are a family of insects in the order Hemiptera.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "With reference to the Cartagena Protocol, consider the following statements:",
+        "I. It was adopted as a supplementary agreement to the Convention on Biological Diversity (CBD).",
+        "II. It governs the movements of living modified organisms (LMOs) resulting from modern biotechnology from one country to another.",
+        "III. All living modified organisms (LMOs) that are pharmaceuticals for humans are excluded from the purview of the",
+        "Protocol.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Cartagena Protocol, consider the following statements: I. It was adopted as a supplementary agreement to the Convention on Biological Diversity (CBD). II. It governs the movements of living modified organisms (LMOs) resulting from modern biotechnology from one country to another. III. All living modified organisms (LMOs) that are pharmaceuticals for humans are excluded from the purview of the Protocol. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**.**Statement I and II are correct**: The Cartagena Protocol on Biosafety to the Convention on Biological Diversity is an international treaty governing the movements of living modified organisms (LMOs) resulting from modern biotechnology from one country to another. It was adopted on 29 January 2000 as a supplementary agreement to the Convention on Biological Diversity and entered into force on 11 September 2003.**\n\nStatement III is incorrect**.**Article 5 **of Cartagena Protocol on Biosafety does**not exclude all LMOs **that are pharmaceuticals for human use without qualification. The LMOs are excluded**only when they are addressed by other **relevant international agreements or arrangements**.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to the scientific explanations and hypothesis regarding the biodiversity in different regions of the world, consider the following statements:",
+        "Statement I: Tropical regions generally have higher biological diversity than temperate regions.",
+        "Statement II: Tropical environments, unlike temperate ones, are less seasonal, relatively more constant and predictable.",
+        "Statement III: Unlike temperate regions which were subjected to frequent glaciations in the past, tropical regions have remained relatively undisturbed for millions of years.",
+        "Which of the above is correct in respect of the above statements?"
+      ],
+      "questionText": "With reference to the scientific explanations and hypothesis regarding the biodiversity in different regions of the world, consider the following statements: Statement I: Tropical regions generally have higher biological diversity than temperate regions. Statement II: Tropical environments, unlike temperate ones, are less seasonal, relatively more constant and predictable. Statement III: Unlike temperate regions which were subjected to frequent glaciations in the past, tropical regions have remained relatively undisturbed for millions of years. Which of the above is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I.",
+        "b": "Both Statement II and Statement III are correct, but only one of them explains Statement I.",
+        "c": "Only one of Statement II and III is correct and that explains Statement I.",
+        "d": "Neither Statement II nor Statement III is correct."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**. The diversity of plants and animals is not uniform throughout the world but shows a rather uneven distribution. For many groups of animals or plants, there are interesting patterns in diversity, the most well-known being the latitudinal gradient in diversity. In general, species diversity decreases as we move away from the equator towards the poles. With very few exceptions, tropics (latitudinal range of 23.5° N to 23.5° S) harbour more species than temperate or polar areas.**\n\nStatement I is correct**. Species diversity shows a clear**latitudinal gradient**, where biodiversity is highest near the equator and gradually declines towards the poles. Tropical regions between**23.5° North and 23.5° South**support a far greater number of plant and animal species than temperate or polar regions.**Statement II and III are correct and both explain statement I**: There can be identified some specific reasons for more biodiversity in the tropical regions than the temperate reasons. Ecologists and evolutionary biologists have proposed various hypotheses; some important ones are (a) Speciation is generally a function of time, unlike temperate regions subjected to frequent glaciations in the past, tropical latitudes have remained relatively undisturbed for millions of years and thus, had a long evolutionary time for species diversification. (Hence\n\nstatement III is correct and explains statement I) (b) Tropical environments, unlike temperate ones, are less seasonal, relatively more constant and predictable. Such constant environments promote niche specialisation and lead to a greater species diversity and (Hence\n\nstatement II is correct and explains statement I) (c) There is more solar energy available in the tropics, which contributes to higher productivity; this in turn might contribute indirectly to greater diversity.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf - Biodiversity and Conservation – Biodiversity - Page 219"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Mass Extinctions and IUCN Red List",
+      "statementLines": [
+        "With reference to biodiversity, Quagga, Steller’s Sea Cow and Thylacine are best described as:"
+      ],
+      "questionText": "With reference to biodiversity, Quagga, Steller’s Sea Cow and Thylacine are best described as:",
+      "options": {
+        "a": "Species that play a pioneering role in secondary ecological succession.",
+        "b": "Species that function as keystone species maintaining ecosystem stability.",
+        "c": "Species that became extinct in recent times generally due to human interference.",
+        "d": "Species that became invasive after being introduced beyond their native rang"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Quagga**(a**subspecies of plains zebra, native to South Africa**),**Thylacine (Tasmanian tiger, **a carnivorous** marsupial, **native to Tasmania, mainland Australia, and New Guinea**) and** Steller’s Sea Cow (Russia)**are classic**examples of **species that became extinct in recent times, largely due to human activities** such as overhunting, habitat destruction, and persecution.\n- The Quagga was hunted extensively in the 19th century and became extinct in the wild by the late 19th century.\n- The Thylacine was driven to extinction in the 20th century due to hunting bounties, habitat loss, and disease, with the last known individual dying in captivity in 1936.\n- Steller’s Sea Cow was hunted extensively for food/meat and became extinct.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf Page: 221. https://www.nationalgeographic.com/history/article/stellers-sea-cow-30-foot-hunted-extinction"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q09",
+      "questionNumber": 9,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "With reference to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services",
+        "(IPBES), consider the following statements:",
+        "I. It is a specialized agency of the United Nations mandated to conduct biodiversity research.",
+        "II. The Secretariat of the IPBES is provided by the United Nations Environment Programme (UNEP).",
+        "III. India was among the founding members of the IPBES.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES), consider the following statements: I. It is a specialized agency of the United Nations mandated to conduct biodiversity research. II. The Secretariat of the IPBES is provided by the United Nations Environment Programme (UNEP). III. India was among the founding members of the IPBES. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect:**Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (**IPBES**) is**not a specialized agency of the United Nations, nor is it mandated to conduct primary biodiversity research. **-**It is an independent intergovernmental body established by States to strengthen the science-policy interface **for biodiversity and ecosystem services**for the conservation and sustainable use of biodiversity, long-term human well-being and sustainable development. It was established in Panama City, on 21 April 2012 by 94 Governments. - Its role is similar to the IPCC (Intergovernmental Panel on Climate Change): It synthesizes and assesses existing scientific knowledge; it does not function as a research organization like a UN specialized agency.**\n\nStatement II is correct:**The**Secretariat of IPBES is provided by the United Nations Environment Programme**(UNEP), as authorized by the UNEP Governing Council in 2013 and**hosted in Bonn, Germany. **\n\nStatement III is correct: India actively participated in the intergovernmental negotiations**that led to the establishment of IPBES. IPBES was formally established**on 21 April**2012**at the**Panama City Plenary by 94 Governments**, with**India being one **of**the**founding member countries**. Knowledge Base:**Major Reports of the IPBES:**\n- Global Assessment Report on Biodiversity and Ecosystem Services (2019)\n- Assessment Report on Pollinators, Pollination and Food Production (2016)\n- Assessment Report on Land Degradation and Restoration (2018)\n- Thematic Assessment of Invasive Alien Species and their Control (2023)\n- Methodological Assessment on Scenarios and Models of Biodiversity and Ecosystem Services (2016)\n- Values Assessment of Biodiversity and Ecosystem Services (2022)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Tree-ring studies/Tree-ring dating (dendrochronology) are widely used in environmental and climate research.",
+        "In this context, the study of tree rings may provide information about which of the following aspects?",
+        "I. Past climatic conditions such as rainfall and temperature patterns in a region.",
+        "II. The approximate age of the tree.",
+        "III. Records of past water availability and flooding in a region.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Tree-ring studies/Tree-ring dating (dendrochronology) are widely used in environmental and climate research. In this context, the study of tree rings may provide information about which of the following aspects? I. Past climatic conditions such as rainfall and temperature patterns in a region. II. The approximate age of the tree. III. Records of past water availability and flooding in a region. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Tree-ring dating/tree-ring studies**, scientifically known as**dendrochronology**, is an important tool in environmental and climate research. Since trees form distinct annual growth rings, these natural records preserve information about the environmental conditions under which the tree grew. By studying variations in ring width, density and structure, scientists can reconstruct past climate patterns, estimate the age of trees, and even infer long-term hydrological changes such as river flows.** Option I is correct: Tree rings are formed annually**, and their**width, density and composition vary according to **environmental conditions prevailing during each growing season**. Years with adequate rainfall and favourable temperatures produce wider rings, while droughts, extreme cold or stress conditions result in narrow rings. Therefore,**tree-ring analysis/dating (dendroclimatology) is widely used to reconstruct past rainfall variability, **drought frequency and long-term climate trends**, even for periods predating instrumental records.** Option II is correct:**Each tree ring generally represents one year of growth. By**counting the number of rings from **the core of a tree,**scientists can**determine the approximate age of the tree.**This is the fundamental principle of dendrochronology.** Option III is correct:**Dendrohydrology within the**dendroclimatology helps in**developing records of past water availability and flooding. By correlating tree-ring data with modern hydrological records,**scientists can reconstruct historical river flows, **stream discharge patterns and hydrological variability over centuries.**This field of**dendrohydrology is** especially useful in regions lacking long-term instrumental river-flow data.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which of the following is not a bird?"
+      ],
+      "questionText": "Which of the following is not a bird?",
+      "options": {
+        "a": "Golden Mahseer",
+        "b": "Indian Nightjar",
+        "c": "Spoonbill",
+        "d": "White Ibis"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Mahseer roughly translates as mahi-fish and sher-tiger; it is also referred to as tiger among fish**. It is a large cyprinid and known to be the toughest among the fresh water sport fish.**Golden Mahseer lives in fastmoving waters, **inhabiting hill streams with a rocky and stony substrate**. They can be found in temperatures between 5°C and 25°C. The Golden Mahseer inhabits the Himalayan foothills, the Indus, Ganga and Brahmaputra basins and can also be found down south in the Balamore, Cauvery, Tambraparni, and Kosi Rivers. - The**Indian nightjar species**are nocturnal birds with long pointed wings and short legs. -**Spoonbill **is any member of six species of long-legged wading birds that constitute the subfamily Plataleinae of the family Threskiornithidae (order Ciconiiformes), which also includes the ibises. Spoonbills are found in estuaries, saltwater bayous, and lakes. -**White Ibises** are large wading birds with football-shaped bodies. They are found in freshwater marshes,\ncoastal estuaries, mangroves, flooded pastures, mudflats, and swamps.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following species of flora:",
+        "I. Chromolaena odorata (Siam Weed)",
+        "II. Lantana camara (Lantana)",
+        "III. Prosopis juliflora (Mesquite/Babool)",
+        "IV. Cypripedium calceolus (Ladies Slipper Orchid)",
+        "How many of the above species of flora are classified as invasive alien species in India?"
+      ],
+      "questionText": "Consider the following species of flora: I. Chromolaena odorata (Siam Weed) II. Lantana camara (Lantana) III. Prosopis juliflora (Mesquite/Babool) IV. Cypripedium calceolus (Ladies Slipper Orchid) How many of the above species of flora are classified as invasive alien species in India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Invasive alien species **are plant or animal species that are introduced outside their natural geographical range and subsequently spread aggressively, causing harm to native biodiversity, ecosystems, agriculture, and human livelihoods. Some Invasive species of flora found in India include:**Prosopis juliflora, water hyacinth, lantana camara, **chromolaena odorata, palmyra/ toddy palm, congress grass, black mimosa and black wattle. ** Option I is correct: Chromolaena odorata **(Siam Weed) Commonly known as**Siam weed**, this species is**native to Central and South America**and was introduced into India as an ornamental and cover plant. It has since**become a serious invasive alien species**, particularly in forest fringes and plantation areas. It forms dense thickets that suppress native plant regeneration and alter natural fire regimes.** Option II is correct: Lantana camara **(Lantana) Introduced from Central America as an ornamental shrub, Lantana camara is now among the worst invasive alien **species in India**. It aggressively colonizes forests, grasslands, and agricultural margins, outcompetes native species, hampers forest regeneration, and reduces grazing potential, thereby impacting both biodiversity and rural livelihoods.** Option III is correct: Prosopis juliflora**(Mesquite/Vilayati Kikar/Babool) Native to Mexico and South America, **Prosopis juliflora was deliberately introduced in India for fuelwood, afforestation, and soil stabilization, especially in arid and semi-arid regions. Over time**, it has become a highly invasive alien tree species**. It depletes groundwater, displaces native grass species, and hampers grazing lands, thereby affecting pastoral livelihoods.** Option IV is incorrect: Ladies Slipper Orchid **This refers to a group of orchids (e.g., Paphiopedilum species) that are**native to India**, particularly in the Himalayan and North-Eastern regions.**Cypripedium calceolus (Ladies Slipper Orchid) are not invasive alien species**; rather, they are rare, endangered, and protected due to habitat loss and illegal trade. It also has medicinal properties and is used to treat insomnia/anxiety. Some species are also listed under CITES.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "National Park, Wildlife Sanctuary, Biosphere Reserve",
+      "statementLines": [
+        "This biosphere reserve is located in India’s trans-Himalayan region and is marked by extreme climatic conditions and low precipitation. In 2025, it was included in the World Network of Biosphere Reserves (WNBR) designated by",
+        "UNESCO.",
+        "Which of the following Biosphere Reserves is best described in the above passage?"
+      ],
+      "questionText": "This biosphere reserve is located in India’s trans-Himalayan region and is marked by extreme climatic conditions and low precipitation. In 2025, it was included in the World Network of Biosphere Reserves (WNBR) designated by UNESCO. Which of the following Biosphere Reserves is best described in the above passage?",
+      "options": {
+        "a": "Nanda Devi Biosphere Reserve",
+        "b": "Cold Desert Biosphere Reserve",
+        "c": "Khangchendzonga Biosphere Reserve",
+        "d": "Dehang-Dibang Biosphere Reserve"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The biosphere reserve described in the passage is the Cold Desert Biosphere Reserve. **Important Facts about the Cold Desert Biosphere Reserve: **-**Location: Trans-Himalayan region of Himachal Pradesh**, mainly covering Lahaul–Spiti and adjoining parts of Kinnaur. -**UNESCO Status (2025): **Designated under the Man and the Biosphere (MAB) Programme;**became India’s 13th site **in the World Network of Biosphere Reserves**(WNBR). -**India’s first Cold Desert BR: **It is India’s first high-altitude cold desert biosphere reserve and one of the coldest and driest ecosystems in UNESCO’s WNBR**.**-**Altitude Range**: Approximately 3,300 m – 6,600 m, among the highest biosphere reserves in the country. -**Protected Areas Included: Pin Valley National Park, Kibber Wildlife Sanctuary**, Chandratal Wetland, Sarchu plains. -**Fauna: **Flagship species like Snow Leopard, Himalayan Ibex, Blue Sheep (Bharal), Himalayan Wolf, red fox, brown bear. -**Flora:**Harbours 732 species of vascular plants, including 30 endemics and 157 near-endemics of the Indian Himalayas. -**Hydrology: **Source region for rivers such as Spiti, Pin, Parvati and Chandrabhaga, dependent on glaciers and snowmelt. Knowledge Base:**India has 18 Biosphere Reserves **covering 91,425 sq. km**, with 13 recognized by UNESCO:**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q14",
+      "questionNumber": 14,
+      "subject": "Environment",
+      "sectionGroup": "Ecology & Ecosystem",
+      "microTopic": "Ecology and Ecosystem",
+      "statementLines": [
+        "Consider the following:",
+        "I. Bats",
+        "II. Moths",
+        "III. Humming bird",
+        "IV. Fireflies",
+        "How many of the above act as pollinators in nature?"
+      ],
+      "questionText": "Consider the following: I. Bats II. Moths III. Humming bird IV. Fireflies How many of the above act as pollinators in nature?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **Pollination is the process by which mature pollen grains released from the anther are transferred to the stigma of the same or another flower of the same species. It is a vital biological process that underpins plant reproduction, biodiversity conservation, and global food security. Pollination is broadly classified into self-pollination and cross-pollination. Cross-pollination occurs through external agents such as wind, water, insects, birds, and other animals. A diverse group of organisms act as pollinators, including insects like**moths**, flies, wasps, beetles, and butterflies, as well as vertebrates. Vertebrate pollinators comprise**bats,**certain non-flying mammals (such as primates, rodents, and marsupials ) and birds like**hummingbirds**, sunbirds, honeycreepers, and some parrot species.**Fireflies**are a good indicator of a healthy environment, especially a good aquatic system. They avoid regions with chemical toxicity.**They are good pollinators** and natural pest control agents in several ecosystems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement-I: Marsupials are not naturally found in India.",
+        "Statement-II: Marsupials can thrive only in montane grasslands with no predators.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement-I: Marsupials are not naturally found in India. Statement-II: Marsupials can thrive only in montane grasslands with no predators. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I.",
+        "b": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I",
+        "c": "Statement-I is correct but Statement-II is incorrect.",
+        "d": "Statement-I incorrect but Statement-II is correct."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer **\n\nStatement I is correct: **There are about 270 marsupial mammals left in the world today, and they can be found in Australia, Papua New Guinea, and South America. In India, these Marsupials are not found naturally. Kangaroos, wallabies, wombats, opossums, bandicoots and koalas are examples of marsupials. The pouch, or marsupium, after which marsupials are named, is not present in all marsupial females. For marsupials, the gestation period can be as short as 10.5 days.**\n\nStatement II is incorrect. **In South America the marsupials live in tropical rainforests.** Marsupials can thrive in any **part of the forest habitat, from the trees to the forest floor **whereas the wombat burrow underground. North America’s only marsupial is the Virginia opossum.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Desertification Related",
+      "statementLines": [
+        "With reference to United Nations Convention to Combat Desertification (UNCCD), consider the following",
+        "statements:",
+        "I. It is the first and only internationally legally binding framework set up to address the problem of desertification.",
+        "II. The Peace Forest Initiative that demonstrates crucial linkages between land, peace and security, is a flagship programme of UNCCD.",
+        "III. In India, NITI Aayog is the focal point to co-ordinate all issues pertaining to UNCCD.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to United Nations Convention to Combat Desertification (UNCCD), consider the following statements: I. It is the first and only internationally legally binding framework set up to address the problem of desertification. II. The Peace Forest Initiative that demonstrates crucial linkages between land, peace and security, is a flagship programme of UNCCD. III. In India, NITI Aayog is the focal point to co-ordinate all issues pertaining to UNCCD. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **At the global level, desertification first gained formal recognition at the UN Conference on Desertification (UNCOD), held in Nairobi in 1977. Subsequently, the United Nations Conference on Environment and Development (UNCED), also known as the Rio Earth Summit (1992), recommended the formulation of a dedicated international convention to address desertification.**Acting on the recommendation under Agenda 21 of **Rio Earth Summit (1992)**, the United Nations Convention to **Combat Desertification (UNCCD) was adopted in Paris on 17 June 1994 and came into force in December 1996. **\n\nStatement I is correct: UNCCD**is the**first and only internationally legally binding framework**specifically dedicated to addressing desertification and land degradation. The Convention is founded on the core principles of participation, partnership, and decentralization that together form the backbone of good governance.**\n\nStatement II is correct:**The**Peace Forest Initiative (PFI)**, launched in**2019**, is a**flagship programme of UNCCD**. It highlights the critical interlinkages between land, peace, and security by promoting the restoration of ecosystems and sustainable management of land-based resources such as soil, water, and forests, particularly in fragile and conflict-affected regions.**\n\nStatement III is incorrect: **India became a signatory to UNCCD on 14 October 1994 and ratified it on 17 December 1996. The Ministry of Environment, Forest and Climate Change is the nodal Ministry in the Government of India for the UNCCD,**and Desertification Cell is the Focal Point (not the NITI Aayog) within the MoEF&CC to co-ordinate all **issues pertaining to UNCCD. The Desertification Cell undertakes activities to help strengthen inter-ministerial **coordination, build scientific and technical capacity, and facilitate knowledge sharing by bringing diverse **stakeholder groups together that will lay the foundation for undertaking activities for combating desertification **and mitigating the effects of droughts. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to the terms related to Biodiversity, consider the following pairs:",
+        "Term Refers to",
+        "I. Bioprospecting Exploring molecular, genetic and species-level diversity for products of economic importance",
+        "II. Biopiracy Conversion of natural biological resources into synthetic substitutes to conserve biodiversity.",
+        "III. Genetic erosion Deliberate dissemination of biological agents like virus and bacteria in a country by any state or non-state actors with the intent to cause harm",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to the terms related to Biodiversity, consider the following pairs: Term Refers to I. Bioprospecting Exploring molecular, genetic and species-level diversity for products of economic importance II. Biopiracy Conversion of natural biological resources into synthetic substitutes to conserve biodiversity. III. Genetic erosion Deliberate dissemination of biological agents like virus and bacteria in a country by any state or non-state actors with the intent to cause harm How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Pair I is correct: **The term bioprospecting is neither explicitly defined nor formally used in key international legal instruments such as the Convention on Biological Diversity (CBD) and the United Nations Convention on the Law of the Sea (UNCLOS). In practice,**the term broadly refers to the exploration of molecular, genetic, and species-level **biological diversity for products of economic importance **Pair II is incorrect: Bio-piracy is a situation where indigenous knowledge of nature, originating with indigenous **people**, is used by others**such as big multinational companies**and pharmaceutical companies**for profit,**without permission from and with little or no compensation or recognition to the indigenous people themselves. Pair III is incorrect: Genetic erosion **refers to** the loss of genome-wide genetic diversity and the associated **adaptive potential within a species or population.**Genetic erosion is measurable as the proportion of richness of genetic diversity no longer existing in current populations when compared with the crop a decade previously or predicted to be lost in the next decade without remedial action. The deliberate release or dissemination of biological agents, such as viruses or bacteria, in a country by any state or non-state actors with the intent to cause harm constitutes biological terrorism.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo113.pdf https://www.fao.org/fileadmin/templates/agphome/documents/PGR/SoW2/PGRFA_Indicators_Thematic_Study .pdf https://egyankosh.ac.in/bitstream/123456789/53895/1/Unit-4.pdf https://birac.nic.in/webcontent/dib.pdf https://www.downtoearth.org.in/wildlife-biodiversity/landmark-study-reveals-global-decline-in-genetic-diversity- across-600-species"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "The Wallace Line and the Kangar–Pattani Line, sometimes mentioned in the news, can be best described as:"
+      ],
+      "questionText": "The Wallace Line and the Kangar–Pattani Line, sometimes mentioned in the news, can be best described as:",
+      "options": {
+        "a": "International maritime boundaries determining fishing rights in the Indo-Pacific.",
+        "b": "Biogeographical boundaries that demarcate transitions between distinct floral and faunal ecozones.",
+        "c": "Boundary lines of navigable river channels ensuring equal access to navigation between two States.",
+        "d": "The geographical boundaries that mark significant climatic variation between the tropics and temperate regions."
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **Biogeographic regions are large ecological areas characterised by distinct assemblages of plants and animals, shaped by natural barriers such as oceans, mountains, and deserts. These regions often show high levels of endemism due to long-term evolutionary isolation.**Wallace Line and the Kangar–Pattani Line are classic biogeographical boundaries that explain sharp transitions in **species composition across regions. ** Wallace’s line runs between Southeast Asia and Australia (between Sundaland and Wallaceae), and Kangar-Pattini line runs between India and Myanmar which demarcate transitions between distinct floral and faunal ecozones.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q19",
+      "questionNumber": 19,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "Cheetahs were recently re-introduced to India from Africa. From which language is the name Cheetah derived?"
+      ],
+      "questionText": "Cheetahs were recently re-introduced to India from Africa. From which language is the name Cheetah derived?",
+      "options": {
+        "a": "Swahili",
+        "b": "Afrikaans",
+        "c": "Somali",
+        "d": "Sanskrit"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer **The**name “Cheetah” **is derived from the**Sanskrit **word “**Citraka**” (चित्रक), which means \"spotted**” **or**“variegated”. **referring to the cheetah’s characteristic coat pattern of spots. Over time, this word evolved into the term used in English today, which eventually came to be spelled as “cheetah”. Knowledge Base:**Cheetahs **were once native to India, but due to hunting and habitat loss, they were declared**extinct in India**by 1952. **The Indian government initiated a**reintroduction program using African cheetahs **(Acinonyx jubatus), which are genetically different from the extinct Asiatic cheetah. The**first batch of 8 cheetahs **(five females and three males) were**reintroduced to Kuno National Park in**Madhya **Pradesh in September 2022 **as part of the Cheetah Reintroduction Project. These cheetahs were**brought from **Namibia. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CDS",
+        "year": 2023,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "cds",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CDS Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "A group of bird species on the Galápagos Islands evolved from a common ancestral finch. Over time, these birds developed different beak shapes and sizes, each adapted to specific food sources such as seeds, insects, and nectar, enabling them to occupy different ecological niches.",
+        "Which one of the following evolutionary processes is most appropriately described in the above given passage?"
+      ],
+      "questionText": "A group of bird species on the Galápagos Islands evolved from a common ancestral finch. Over time, these birds developed different beak shapes and sizes, each adapted to specific food sources such as seeds, insects, and nectar, enabling them to occupy different ecological niches. Which one of the following evolutionary processes is most appropriately described in the above given passage?",
+      "options": {
+        "a": "Convergent evolution",
+        "b": "Co-evolution",
+        "c": "Adaptive radiation",
+        "d": "Parallel evolution"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nOption c is correct:**The given passage describes the** evolution of multiple species from a common ancestral finch **population**within the same geographic region, accompanied by divergence in beak morphology adapted to distinct food sources and ecological niches.** This is characteristic of adaptive radiation**, a process in which an ancestral species rapidly diversifies to exploit a variety of available resources and habitats, particularly in isolated environments such as islands where ecological opportunities are high.** Adaptive radiation**involves diversification in structural, behavioural, and physiological traits, with each lineage becoming specialized for a specific niche. The diversification of Darwin’s finches is one of the most well-known examples of this process.**\n\nOption a is incorrect: Convergent evolution**occurs when**unrelated or distantly related species independently **evolve similar structural or functional traits**due to similar environmental pressures or ecological roles. example: The wings of butterflies and birds appear similar in function but differ anatomically. Since they perform the same function despite different structural origins, they are**analogous structures**, formed as a result of**convergent **evolution**.**\n\nOption b is incorrect:**Co-evolution**refers to reciprocal evolutionary changes between two or more interacting species, where each influences the evolution of the other.**Example:**Flowering plants and their pollinators**\n\nOption d is incorrect: **Parallel evolution describes**two related species that have made similar evolutionary **adaptations after **their**divergence from **a** common ancestor.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://ncert.nic.in/textbook/pdf/lebo106.pdf Page: 116. https://egyankosh.ac.in/bitstream/123456789/65792/1/Unit6.pdf Page: 77."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Some mushrooms have medicinal properties.",
+        "2. Some mushrooms have psycho- active properties.",
+        "3. Some mushrooms have insecticidal properties.",
+        "4. Some mushrooms have bioluminescent properties.",
+        "How many of the above statements are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Some mushrooms have medicinal properties. 2. Some mushrooms have psycho- active properties. 3. Some mushrooms have insecticidal properties. 4. Some mushrooms have bioluminescent properties. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All four"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement 1 is correct: Medicinal mushrooms **such as shiitake, maitake, and reishi have been found to have antitumor and immunostimulant properties. Men will probably reap health benefits simply from adding shiitake, maitake, and reishi mushrooms—good sources of B vitamins, fiber, and antioxidants—to the diet.**\n\nStatement 2 is correct: Psychoactive properties mean **a drug or other substance that affects how the brain works and causes changes in mood, awareness, thoughts, feelings, or behavior. Examples of psychoactive substances include alcohol, caffeine, nicotine, marijuana, and certain pain medicines.**Psilocybin is a hallucinogenic chemical in certain **mushrooms known as magic mushrooms. **Eating mushrooms that contain psilocybin can have a variety of effects, ranging from euphoria to hallucinations. Individuals use psilocybin as a recreational drug. It can provide feelings of euphoria and sensory distortion that are common to hallucinogenic drugs, such as LSD (lysergic acid diethylamide).**\n\nStatement 3 is correct: **Recently, an increasing number of mushrooms have been found to**contain insecticidal **compounds.**\n\nStatement 4 is correct: **Bioluminescence is the production and emission of light by living organisms.**Panellus **stipticus is one of the brightest-glowing bioluminescent mushrooms on Earth. **These flat fungi, which look like a collection of tiny fans growing on sticks, are a dull shade of yellow-beige during the day, but they transform into dazzling decorations after dark. A mushroom documentation project in the forests of Northeast India has revealed not only 600 varieties of fungi**, but also led to a new discovery: a bioluminescent or light emitting variety of mushroom**.\nThe new species — named Roridomyces phyllostachydis — was first sighted on a wet August night near a stream in Meghalaya’s Mawlynnong in East Khasi Hills district and later at Krang Shuri in West Jaintia Hills district.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q22",
+      "questionNumber": 22,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to biological classification, consider the following pairs:",
+        "Species Taxonomic Group",
+        "I. Salamander Reptile",
+        "II. Flying fox Bird",
+        "III. Penguin Mammal",
+        "IV. Seahorse Fish",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to biological classification, consider the following pairs: Species Taxonomic Group I. Salamander Reptile II. Flying fox Bird III. Penguin Mammal IV. Seahorse Fish How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer**.**Pair I is incorrect: Salamander **Salamanders belong to Class Amphibia, not Reptilia**. They are amphibians characterized by moist skin and a life cycle often involving an aquatic larval stage and a terrestrial adult stage. Pair II is incorrect: Flying fox **Flying foxes are fruit bats, which are mammals (Class Mammalia**). Despite their ability to fly, they possess mammalian traits such as hair, mammary glands, and live birth.**Pair III is incorrect: Penguin **Penguins are birds (Class Aves), not mammals. **They are flightless birds with feathers, lay eggs, and are warm-blooded, even though they are adapted for swimming.**Pair IV is correct: Seahorse **Seahorses belong to the class Pisces (specifically bony fishes **under Actinopterygii). They respire through gills and possess fins, even though their upright posture and head shape make them appear unusual.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "Forum IAS Environment Red Book, Chapter: 6 – Biodiversity, Page: 108 & 109. https://ncert.nic.in/textbook/pdf/kebo104.pdf Page: 48-51."
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q23",
+      "questionNumber": 23,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Wildlife Acts (WPA 1972, BDA 2002, etc.)",
+      "statementLines": [
+        "With reference to the Wildlife Crime Control Bureau (WCCB), which of the following statements are correct?",
+        "I. It is a statutory body established under the provisions of the Wildlife (Protection) Act, 1972.",
+        "II. It is mandated to collect and compile intelligence on organized wildlife crime and disseminate it to States and other enforcement agencies for prompt action.",
+        "III. It is the designated nodal agency for Convention on International Trade in Endangered Species of Wild Fauna and",
+        "Flora (CITES) related enforcement in India.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Wildlife Crime Control Bureau (WCCB), which of the following statements are correct? I. It is a statutory body established under the provisions of the Wildlife (Protection) Act, 1972. II. It is mandated to collect and compile intelligence on organized wildlife crime and disseminate it to States and other enforcement agencies for prompt action. III. It is the designated nodal agency for Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) related enforcement in India. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nStatement I is correct: **The**WCCB was constituted by amending **the** Wildlife (Protection) Act, 1972**. It is a**multi\n- **disciplinary statutory body**established by the Government of India through the**Wild Life (Protection) Amendment **Act, 2006, **with a specific mandate to combat organized wildlife crime in India. It**functions under the Ministry of **Environment, Forest and Climate Change. **\n\nStatement II is correct:**Under Section 38 (Z) (i) of the Wild Life (Protection) Act, 1972, the Wildlife Crime Control Bureau shall take measures with respect to collect and collate intelligence related to organized wildlife crime activities and to disseminate the same to State (here State means the States of India with reference to commencement of Wild Life (Protection) Act, 1972 in that State) and other enforcement agencies for immediate action, so as to apprehend the criminals and to establish a centralised wildlife crime data bank. \n\nStatement III is correct:**India is a signatory to **the** Convention on International Trade in Endangered Species of **Wild Fauna and Flora (CITES). **-**WCCB acts as **the**designated national nodal agency for CITES-related enforcement in India. **- It coordinates with the CITES Management Authority, Customs and State Forest Departments to curb illegal international trade in endangered species and ensures India’s compliance with the Convention. Knowledge Base:**Other key functions of the Wildlife Crime Control Bureau (WCCB):**\n- Coordinating the actions of various agencies in the enforcement of the provisions of the Act-Assisting foreign authorities and international organizations to facilitate coordination and global action for wildlife crime control.\n- Building the capacity of wildlife crime enforcement agencies in scientific and professional investigations and assisting state governments in ensuring successful prosecutions of wildlife crimes-Advising the Government of India on issues of national and international importance relating to wildlife crimes.\n- Assisting and advising customs authorities in the examination of consignments of flora and fauna in accordance with the provisions of the Wildlife Protection Act, CITES, and the EXIM Policy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "Consider the following statements with reference to Biodiversity Hotspots:",
+        "I. To qualify as a biodiversity hotspot, a region must contain at least 1,500 species of vascular plants as endemic, and it has to have lost at least 70 percent of its original natural vegetation.",
+        "II. The identification and global listing of biodiversity hotspots is carried out by UNESCO.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to Biodiversity Hotspots: I. To qualify as a biodiversity hotspot, a region must contain at least 1,500 species of vascular plants as endemic, and it has to have lost at least 70 percent of its original natural vegetation. II. The identification and global listing of biodiversity hotspots is carried out by UNESCO. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "Both I and II",
+        "b": "II only",
+        "c": "I only",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Biodiversity hotspots are **biogeographic regions of the world that contain**exceptionally high levels of biological **diversity and endemism,**but are also among the most**threatened **ecosystems. The idea was**first proposed by **ecologist Norman Myers**(1988) to help prioritize limited conservation funds toward areas where biodiversity is richest yet rapidly disappearing. There are currently**36 recognized biodiversity hotspots**in the world.**Biodiversity Hotspots in the world **\n\nStatement I is correct**: According to Conservation International (CI), to qualify as a hotspot a region must meet two strict criteria: i) it must contain at least 1,500 species of vascular plants (> 0.5 percent of the world's total) as endemics, and ii) it has to have lost at least 70 percent of its original natural vegetation. Around the world,**36 areas**qualify as hotspots. Their habitats represent just around**2.5% of Earth’s land surface**, but they support more than half of the world’s plant species as endemics.**\n\nStatement II is incorrect: **The**identification and global listing of biodiversity hotspots is not carried out by **UNESCO. **-**Biodiversity hotspots are identified by Conservation International**(CI), a global environmental NGO, based on the framework originally proposed by**Norman Myers**and later adopted and expanded by CI. -**UNESCO**, instead, is associated with programmes such as**World Heritage Sites**and**Man and the Biosphere **(MAB) Reserves. **\n\nKnowledge base: Among the 36 hot spots of the world four are found in India extending into neighbouring **countries: **1. Himalayas 2. Indo-Burma Region (covering the Eastern Himalayas) 3. Western Ghats–Sri Lanka (the Western Ghats lie in India) 4. Sundaland (the Nicobar Islands of India form a part of this hotspot)",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "The following item consists of two statements, statement I and statement",
+        "II. Examine these two statements carefully and",
+        "select the correct answer using the code given below:",
+        "Statement I: Chameleon changes its skin colour to match with the colour of the surroundings.",
+        "Statement II: The skin of a chameleon emits light of the colour of the surroundings through fluorescence.",
+        "Code:"
+      ],
+      "questionText": "The following item consists of two statements, statement I and statement II. Examine these two statements carefully and select the correct answer using the code given below: Statement I: Chameleon changes its skin colour to match with the colour of the surroundings. Statement II: The skin of a chameleon emits light of the colour of the surroundings through fluorescence. Code:",
+      "options": {
+        "a": "Both the statements are individually true and statement II is the correct explanation of statement I.",
+        "b": "Both the statements are individually true, but statement II is not the correct explanation of statement I.",
+        "c": "Statement I is true, but statement II is false.",
+        "d": "Statement I is false, but statement II is tru"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Statement I is true\n- **Chameleons are known for their ability to change their skin color to match the color of their surroundings. This adaptation helps them**camouflage **and blend in with their environment.**Statement II is false\n- **Chameleons change colour by changing the space between the**guanine crystals**, which changes the wavelength reflected off the crystals. When a chameleon changes colour, its**nanocrystals/pigment cells **beneath**the skin expand or shrink**. Accordingly, the**red, yellow**and other colour pigments **are**modified**, which leads to a change in colour. So that’s not fluorescence.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CAPF",
+        "year": 2017,
+        "is_upsc_cse": false,
+        "is_allied": true,
+        "is_others": false,
+        "exam_category": "capf",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CAPF Prelims 2017"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q26",
+      "questionNumber": 26,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Which of the following species is known to breathe by two different methods i.e.using their lungs and skin?"
+      ],
+      "questionText": "Which of the following species is known to breathe by two different methods i.e.using their lungs and skin?",
+      "options": {
+        "a": "Cockroach",
+        "b": "Rat",
+        "c": "Frog",
+        "d": "Earthworm"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Frogs respire on land and in the water by two different methods.** In water, skin acts as an aquatic respiratory organ **(cutaneous respiration). **Dissolved oxygen in the water is exchanged through the skin by diffusion.**On land, the **buccal cavity, skin and lungs act as the respiratory organs. The respiration by lungs is called pulmonary **respiration. **The lungs are a pair of elongated, pink coloured sac-like structures present in the upper part of the trunk region (thorax). Air enters through the nostrils into the buccal cavity and then to lungs. During aestivation and hibernation gaseous exchange takes place through skin.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": true,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source": {
+        "sourceText": "https://nios.ac.in/media/documents/SrSec314NewE/Lesson-14.pdf https://webservices.ignou.ac.in/Pre-Question/Question%20Paper%20June%202021/SOH/BDP/BEGE-104.pdf https://ncert.nic.in/textbook/pdf/kebo107.pdf"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q27",
+      "questionNumber": 27,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "National Park, Wildlife Sanctuary, Biosphere Reserve",
+      "statementLines": [
+        "With reference to the Protected Areas in India, consider the following information:",
+        "National Park Located in Native Species",
+        "I. Keibul Lamjao National Park Manipur Sangai Deer",
+        "II. Dachigam National Park Jammu and Kashmir Hangul",
+        "III. Papikonda National Park Tamil Nadu Swamp deer",
+        "IV. Eravikulam National Park Kerla Niligiri Tahr In",
+        "how many of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to the Protected Areas in India, consider the following information: National Park Located in Native Species I. Keibul Lamjao National Park Manipur Sangai Deer II. Dachigam National Park Jammu and Kashmir Hangul III. Papikonda National Park Tamil Nadu Swamp deer IV. Eravikulam National Park Kerla Niligiri Tahr In how many of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **Row I is correct: Keibul Lamjao National Park **is located in the south-western part of Loktak Lake** in the state of **Manipur**. It is globally unique as the only floating national park in the world, formed on floating masses of vegetation known as phumdis. Keibul Lamjao National Park is the sole natural habitat of**endangered and endemic deer, locally **called Sangai **and popularly known as the ‘dancing deer of Manipur’. Row II is correct: Dachigam National Park**is located near Srinagar**in Jammu and Kashmir**. The park is best known as the home of the**Hangul,**also known as the Kashmir stag. The Hangul, a flagship stag species** endemic to the **Dachigam National Park**. Row III is incorrect: Papikonda National Park **is located along the banks of the Godavari River in**the state of Andhra **Pradesh (not in Tamil Nadu)**, forming part of the Eastern Ghats landscape. The park supports a wide range of fauna such as tiger, leopard, wild dog, hyena, sloth bear, gaur, and several species of deer including chital and sambar, along with numerous birds and reptiles but not**Swamp deer (Barasingha) Row IV is correct: Eravikulam National Park**is located in the high-altitude shola-grassland ecosystem of the southern Western Ghats**in the state of Kerala. The park is**home to the largest surviving population of the **endangered Nilgiri Tahr**, and is known for its rare kurinji flowers (Strobilanthes kunthianus), which bloom once every 12 years.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q28",
+      "questionNumber": 28,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to Aestivation in animals, consider the following statements:",
+        "I. It refers to a state of dormancy during extreme winter conditions.",
+        "II. During aestivation, the metabolic activity of animals slows down.",
+        "III. Certain Crocodile species and Earthworms are known to undergo aestivation",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Aestivation in animals, consider the following statements: I. It refers to a state of dormancy during extreme winter conditions. II. During aestivation, the metabolic activity of animals slows down. III. Certain Crocodile species and Earthworms are known to undergo aestivation Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and II",
+        "c": "II and III",
+        "d": "II only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is incorrect: Aestivation (or estivation)**, is a survival strategy various species use**to avoid extreme heat, **drought, or food scarcity**. Like winter hibernation, aestivation helps animals slow their metabolism and conserve energy until conditions improve.**\n\nStatement II is correct:**During aestivation**, the animal often seeks shelter in a cool underground burrow, crevice or cocoon,**where it will remain in a state of reduced metabolic activity, **which in turn reduces the rate at which the body consumes energy. \n\nStatement III is correct: Certain crocodile species**, such as the Australian freshwater crocodile,**undergo aestivation **by digging into riverbanks or burrowing into mud when water bodies dry up. Similarly,**earthworms also aestivate**during dry conditions by moving deeper into the soil and secreting a protective mucus layer, which helps retain moisture and prevents dehydration.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q29",
+      "questionNumber": 29,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Mass Extinctions and IUCN Red List",
+      "statementLines": [
+        "Consider the following species found in India:",
+        "I. Rhesus Macaque",
+        "II. Jerdon's Courser",
+        "III. Leopard Cat",
+        "IV. Egyptian Vulture",
+        "How many of the above species are placed in the Critically Endangered (CR) category under the IUCN Red List of",
+        "Threatened Species?"
+      ],
+      "questionText": "Consider the following species found in India: I. Rhesus Macaque II. Jerdon's Courser III. Leopard Cat IV. Egyptian Vulture How many of the above species are placed in the Critically Endangered (CR) category under the IUCN Red List of Threatened Species?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. ** Option I is incorrect: Rhesus Macaque (Macaca mulatta**)**\n- The Rhesus Macaque is **widely distributed across the Indian subcontinent** and is native to India, Bangladesh, Pakistan, Nepal, Myanmar, Thailand, Afghanistan, Vietnam, southern China, and some neighbouring areas.\n- It has a large, stable population and shows high adaptability to varied habitats, including urban and human-dominated landscapes.\n- Due to its wide distribution and absence of rapid population decline, **it is classified as Least Concern (LC) by the IUCN.**\n\n**Option II is correct: Jerdon’s Courser (Rhinoptilus bitorquatus**) **- Jerdon’s Courser, a nocturnal bird, is one of the rarest bird species in the world and is**endemic to a very **small area in the Eastern Ghats of Andhra Pradesh**. - It has an extremely restricted range, very small population size, and faces severe threats from habitat loss and fragmentation. - On account of these factors, it is**placed in the Critically Endangered (CR) category by the IUCN. ** Option III is incorrect: Leopard Cat (Prionailurus bengalensis**)**\n- The Leopard Cat is widely distributed across South, Southeast, and East Asia.\n- Although it faces localized threats such as habitat loss and hunting in some regions, its overall population is relatively large and stable.\n- Therefore, the **IUCN categorizes it as Least Concern (LC).** Recently, a **melanistic leopard cat**; a rare genetic variant of the elusive lesser cat, has been **spotted in the Indian Sundarbans.**\n\n**Option IV is incorrect: Egyptian Vulture (Neophron percnopterus**) **- The Egyptian Vulture has experienced a sharp population decline, particularly due to poisoning, changes in carcass availability, and habitat disturbance. - Because of these significant declines, it is**classified as Endangered (EN) by the IUCN**. - India has recorded eight species of vultures, several of which have seen drastic population declines over the past few decades. - The**Indian vulture, white-rumped vulture, slender-billed vulture and red-headed vulture are critically **endangered** while the Egyptian vulture is listed as endangered.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "With reference to the ‘Status of Elephants in India: DNA Based Synchronous All India Population Estimation of",
+        "Elephants (SAIEE)’, consider the following statements:",
+        "I. The estimation was carried out by the Wildlife Institute of India, under the aegis of Project Elephant, Ministry of",
+        "Environment, Forest and Climate Change.",
+        "II. There has been a remarkable increase in India’s Elephant population as compared to previous Elephant Estimation.",
+        "III. The Central India & Eastern Ghats region harbors a much larger population of Elephants than the Western Ghats.",
+        "IV. Karnataka has the highest number of Elephants among the States in India.",
+        "Which of the statements above are correct?"
+      ],
+      "questionText": "With reference to the ‘Status of Elephants in India: DNA Based Synchronous All India Population Estimation of Elephants (SAIEE)’, consider the following statements: I. The estimation was carried out by the Wildlife Institute of India, under the aegis of Project Elephant, Ministry of Environment, Forest and Climate Change. II. There has been a remarkable increase in India’s Elephant population as compared to previous Elephant Estimation. III. The Central India & Eastern Ghats region harbors a much larger population of Elephants than the Western Ghats. IV. Karnataka has the highest number of Elephants among the States in India. Which of the statements above are correct?",
+      "options": {
+        "a": "I, III and IV",
+        "b": "I and IV only",
+        "c": "II and III only",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The Government recently released the Synchronous All India Elephant Estimation (SAIEE) 2021–25. It was a DNA-based nationwide estimation that was carried out for the first time.**\n\nStatement I is correct. **The Synchronous All India Elephant Estimation (SAIEE) 2021–25 was carried out by the Wildlife Institute of India, under the aegis of Project Elephant, Ministry of Environment, Forest and Climate Change.**\n\nStatement II is incorrect.**India’s Asian elephant population is estimated to be 22,446, according to the results of the Synchronous All India Elephant Estimation (SAIEE) 2021–25.**Compared to the last all-India estimate in 2017 (27,312), the population is lower by 4,065 elephants, or 17.81%. **However, the population report added a caveat that the two figures are not directly comparable due to a change in methodology, and said the latest estimate should be treated as a “new baseline.”**\n\nStatement III is incorrect. **As per the latest data,** elephant numbers remain highest in the Western Ghats **(11,934), followed by the North Eastern Hills and Brahmaputra floodplains (6,559), Shivalik Hills and Gangetic plains (2,062), and Central India and Eastern Ghats (1,891).**\n\nStatement IV is correct. Karnataka continues to harbor the largest population (6,013), **followed by Assam (4,159), Tamil Nadu (3,136), Kerala (2,785), Uttarakhand (1,792), and Odisha (912).\nKnowledge Base:",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q31",
+      "questionNumber": 31,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. Some microorganisms can grow in environments with temperature above the boiling point of water.",
+        "2. Some microorganisms can grow in environments with temperature below the freezing point of water.",
+        "3. Some microorganisms can grow in a highly acidic environment with a pH below 3.",
+        "How many of the above statements are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. Some microorganisms can grow in environments with temperature above the boiling point of water. 2. Some microorganisms can grow in environments with temperature below the freezing point of water. 3. Some microorganisms can grow in a highly acidic environment with a pH below 3. How many of the above statements are correct?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement 1 is correct: **A thermophile is an organism, a type of extremophile, that thrives at relatively high temperatures, between 41 and 122°C. Most thermophiles live at temperatures between 60 and 80°C. Thermophiles are capable of growing, carrying out metabolic processes, and reproducing at these extreme temperatures.**One **thermophile, Pyrolobus**fumarii, has been found at temperatures of 113°C /235°F,**which is hotter than the boiling **point of water. **\n\nStatement 2 is correct: Psychrophiles are organisms capable of growth and reproduction in cold temperatures and **are often xerophilic and halophilic as well. **Some microbes will cease growing at 00C or even higher while others continue to grow below the freezing point of food. The growth rate below 00C is very slow.**The reported minimum **growth of microorganisms varies from 100**C to-100**C. But for practical cases, the lower limit of growth for bacteria, **yeast or molds can take as-70**C.**\n\n**Statement 3 is correct:**Acidophiles are microorganisms that show optimal growth in highly acidic environments. These are of two types. **The extreme acidophiles dwell in environments with a pH value < 3,**and moderate acidophiles grow optimally in conditions having pH values ranging between 3 and 5.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q32",
+      "questionNumber": 32,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to the carnivorous/insectivores plants, consider the following statements:",
+        "Statement I: These plants obtain most of their energy by eating and digesting insects.",
+        "Statement II: These plants usually grow in nutrient-poor soils.",
+        "Which one of the following is correct in respect of the statements given above?"
+      ],
+      "questionText": "With reference to the carnivorous/insectivores plants, consider the following statements: Statement I: These plants obtain most of their energy by eating and digesting insects. Statement II: These plants usually grow in nutrient-poor soils. Which one of the following is correct in respect of the statements given above?",
+      "options": {
+        "a": "Both statement I and statement II are correct and statement II explains statement I.",
+        "b": "Both statement I and statement II are correct but statement II does not explain statement I.",
+        "c": "Statement I is correct but statement II is not correct.",
+        "d": "Statement I is not correct but statement II is correct."
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **The plants that are capable of capturing and digesting insects and other animals are referred to as carnivorous or insectivorous plants. For example Pitcher plant, Venus flytrap, Sundew plant, Cobra lily etc.**\n\nStatement I is not correct. **Carnivorous/insectivorous plants**actually get their energy from photosynthesis,**just like other plants do. They eat insects**primarily to obtain essential nutrients like nitrogen and phosphorus as they grow **in nutrient-poor environments. **Carnivory helps these plants to get nutrients from insects, but it doesn’t replace the need for photosynthesis. These plants eat insects, which are digested by the digestive juices secreted by the plant and its nutrients are absorbed. They use the insects for nutrients like nitrogen and phosphorus.**\n\nStatement II is correct. **carnivorous/insectivores** plants typically grow in nutrient-poor soils,** where certain nutrients like nitrogen are in limited supply. Carnivorous plants attract, trap and digest insects for the nutrients, and this helps them flourish in nutrient-poor environments. They use the insects for nutrients like nitrogen and phosphorus.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q33",
+      "questionNumber": 33,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "The World Commission on Protected Areas (WCPA), which supports the creation and effective management of protected areas worldwide, is a commission under",
+        "which one of the following organisations?"
+      ],
+      "questionText": "The World Commission on Protected Areas (WCPA), which supports the creation and effective management of protected areas worldwide, is a commission under which one of the following organisations?",
+      "options": {
+        "a": "The World Wide Fund for Nature",
+        "b": "The International Union for Conservation of Nature",
+        "c": "The International Indigenous Forum on Biodiversity",
+        "d": "The United Nations Educational, Scientific and Cultural Organization"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **The IUCN World Commission on Protected Areas (WCPA) is a vital component of the International Union for **Conservation of Nature (IUCN),** being one of the seven Commissions of voluntary individual specialists appointed for their expertise and their willingness to contribute that expertise to global conservation goals.\nIt is the leading global network of protected and conserved areas experts who provide scientific and technical advice to IUCN members, government agencies, and other stakeholders on protected and conserved areas establishment and management.\nThe WCPA specialises in protected area governance, management, and policy, supporting the creation and effective management of protected areas globally, including national parks, reserves, and marine protected areas.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q34",
+      "questionNumber": 34,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Wildlife Acts (WPA 1972, BDA 2002, etc.)",
+      "statementLines": [
+        "With reference to the ‘Chief Wild Life Warden’ of a State in India, which of the following statements are correct?",
+        "I. S/he is a statutory authority appointed under the provisions of the Forest (Conservation) Act, 1980.",
+        "II. S/he is appointed by the Central Government after consulting the State government concerned.",
+        "III. S/he shall be the Member-Secretary of the State Board for Wild Life.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the ‘Chief Wild Life Warden’ of a State in India, which of the following statements are correct? I. S/he is a statutory authority appointed under the provisions of the Forest (Conservation) Act, 1980. II. S/he is appointed by the Central Government after consulting the State government concerned. III. S/he shall be the Member-Secretary of the State Board for Wild Life. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I only",
+        "b": "III only",
+        "c": "II and III",
+        "d": "I and II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nStatement I is incorrect. **The Chief Wild Life Warden is appointed under** section 4 of the Wild Life (Protection) Act, **1972. **\n\nStatement II is incorrect.**The Chief Wild Life Warden is**appointed by the State Government.**Section 4 of the Wild Life (Protection) Act, 1972 empowers the State Government to appoint a Chief Wild Life Warden, Wild Life Wardens, Honorary Wild Life Wardens and such other officers and employees as may be necessary.**\n\nStatement III is correct.**The State Government constitutes a State Board for Wild Life. As per section 6 of the Wild Life (Protection) Act 1972, the Chief Wild Life Warden is the**Member-Secretary of the State Board for Wild Life. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "1. Carabid beetles",
+        "2. Centipedes",
+        "3. Flies",
+        "4. Termites",
+        "5. Wasp Parasitoid species are found in",
+        "how many of the above kind of organisms?"
+      ],
+      "questionText": "Consider the following: 1. Carabid beetles 2. Centipedes 3. Flies 4. Termites 5. Wasp Parasitoid species are found in how many of the above kind of organisms?",
+      "options": {
+        "a": "Only two",
+        "b": "Only three",
+        "c": "Only four",
+        "d": "All five"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **A parasitoid **is an organism that has young that develop on or within another organism (the host), eventually killing it. Parasitoids have characteristics of both predators and parasites.**Options 1, 3 and 5 are correct. **Parasitoids include species of**wasps, flies (e.g. tachinid flies), carabid beetles and **worms (e.g. gordian worms). ** Option 2 is incorrect. Some Centipedes are predators, but they are not parasitoids. ** Option 4 is incorrect. **Unlike most insects, termites have no known parasitoids.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q36",
+      "questionNumber": 36,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "With reference to the Convention on International Trade in Endangered Species of Wild Fauna and Flora",
+        "(CITES), consider the following statements:",
+        "I. Species listed under Appendix I of CITES are those that are not necessarily threatened with extinction but require regulated trade to avoid over-exploitation.",
+        "II. The CITES Secretariat is administered by the United Nations Environment Programme (UNEP).",
+        "III. It is a legally binding international agreement.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES), consider the following statements: I. Species listed under Appendix I of CITES are those that are not necessarily threatened with extinction but require regulated trade to avoid over-exploitation. II. The CITES Secretariat is administered by the United Nations Environment Programme (UNEP). III. It is a legally binding international agreement. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **The**Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES)**is an international agreement between governments aimed at ensuring that**international trade in specimens of animals and plants **does not threaten their survival.**It was**adopted in 1973 in Washington**and**came into force in 1975.**The Convention works through a system of permits and certificates and**classifies species in three Appendices (I, II and III) according to the degree of **protection they need. **\n\nStatement I is incorrect: Appendix II of CITES lists species that are not necessarily now threatened with extinction **but that may become so unless trade is closely controlled. It also includes so-called \"look-alike species\", i.e. species **whose specimens in trade look like those of species listed for conservation reasons.**International trade in specimens of Appendix-II species may be authorized by the granting of an export permit or re-export certificate. No import permit is necessary for these species under CITES (although a permit is needed in some countries that have taken stricter measures than CITES requires). Permits or certificates should only be granted if the relevant authorities are satisfied that certain conditions are met, above all that trade will not be detrimental to the survival of the species in the wild.**Appendix I**contains species that are threatened with extinction**, and international commercial trade in them is generally prohibited except in exceptional, mainly non-commercial circumstances.**\n\nStatement II is correct:**The CITES Secretariat is administered by UNEP and is located at Geneva, Switzerland. It has a pivotal role, fundamental to the Convention and its functions are laid down in Article XII of the text of the Convention. \n\nStatement III is correct**: As an international agreement, CITES is legally binding on the state parties and provides a set of common minimum standards for international trade in the specimens of species regulated by it. States that have agreed to be bound by the Convention ('joined' CITES) are known as Parties. Although CITES is legally binding on the Parties – in other words they have to implement the Convention – it does not take the place of national laws.\nRather it provides a framework to be respected by each Party, which has to adopt its own domestic legislation to ensure that CITES is implemented at the national level.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q37",
+      "questionNumber": 37,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "With reference to the Asiatic Lion (Panthera leo persica), which of the following statements are correct?",
+        "I. The Asiatic lion in the wild is found only in the Gir Forest landscape of Gujarat.",
+        "II. The population of the Asiatic Lion has increased by more than 50 percent over the past decade.",
+        "III. Unlike African lions, Asiatic Lions commonly form large prides consisting of multiple adult males.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to the Asiatic Lion (Panthera leo persica), which of the following statements are correct? I. The Asiatic lion in the wild is found only in the Gir Forest landscape of Gujarat. II. The population of the Asiatic Lion has increased by more than 50 percent over the past decade. III. Unlike African lions, Asiatic Lions commonly form large prides consisting of multiple adult males. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nStatement I is correct:**The**Asiatic Lion is found in the wild only in India, specifically in the Gir Forest National **Park **and the**larger Gir landscape of Gujarat**, which includes surrounding protected areas such as**Pania Wildlife **Sanctuary, Mitiyala Wildlife Sanctuary, Girnar Wildlife Sanctuary, etc. **\n\nStatement II is correct**: Recent lion population estimates indicate a substantial increase in the Asiatic Lion population over the past decade. - Official census figures show that the**population rose from about 523 individuals in 2015 to around 891 **individuals by 2025, representing an increase of approximately 70.3 per cent**, which is well**above 50 per cent.**- This sustained rise reflects the effectiveness of long-term conservation measures, habitat protection, prey base management, and community participation in the Gir landscape.**\n\nStatement III is incorrect:**A**pride refers to the basic social unit of lions**, typically consisting of related adult females and their offspring, along with one or more adult males that defend the group and its territory. -**Unlike African lions, Asiatic lions do not commonly form large prides with multiple adult males**. -**Asiatic lion social structure**is**characterized by smaller prides**, usually consisting of a few related females, while adult males often remain solitary or form small, temporary coalitions. Female lions and their sisters live together for life, while males stay with pride until they reach maturity. -**Large multi-male prides**are more**typical of African lion populations. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "National Park, Wildlife Sanctuary, Biosphere Reserve",
+      "statementLines": [
+        "Consider the following protected areas and arrange them in the correct descending order based on their number in India:",
+        "I. National Parks",
+        "II. Wildlife Sanctuaries",
+        "III. Conservation Reserves",
+        "IV. Community Reserves",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Consider the following protected areas and arrange them in the correct descending order based on their number in India: I. National Parks II. Wildlife Sanctuaries III. Conservation Reserves IV. Community Reserves Select the correct answer using the code given below:",
+      "options": {
+        "a": "II – III– IV – I",
+        "b": "IV – III – II– I",
+        "c": "III – IV – II – I",
+        "d": "II – IV – III – I"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**The National Wildlife Database Centre of Wildlife Institute of India (WII) has been developing a National Wildlife Information System (NWIS) on the Protected Areas of the country. As of 27th November, 2023 India has a network of 1014 Protected Areas including 106 National Parks, 573 Wildlife Sanctuaries, 115 Conservation Reserves and 220 Community Reserves covering a total of 1,75,169.42 km2 of geographical area of the country which is approximately 5.32%.**Their category-wise distribution is as follows: **1. Wildlife Sanctuaries (Option II) – 573 **2. Wildlife Sanctuaries**form the largest category of protected areas**. They are designated primarily for the protection of wild animals and their habitats while permitting regulated human activities such as grazing or collection of forest produce in certain cases. 1. Community Reserves (Option IV) – 220 **2. Community Reserves are**declared on private or community-owned lands**with the voluntary consent of local people. They aim to promote community-led conservation and sustainable use of natural resources, which explains their moderate but steadily increasing number. 1. Conservation Reserves (Option III) – 115 **2. Conservation Reserves are**notified on government-owned land**, particularly in areas adjacent to National Parks and Wildlife Sanctuaries. Their primary purpose is to protect wildlife corridors, buffer zones, and ecologically sensitive landscapes, resulting in a comparatively lower number. 1. National Parks (Option I) – 106 **2. National Parks**represent the highest level of protection**, with strict restrictions on human activities and complete legal protection of ecosystems. The requirement of settling rights and imposing stringent controls makes their declaration more complex, leading to the lowest number among the categories. Accordingly, the**correct descending order based on their number in India is: **Wildlife Sanctuaries →**Community Reserves →** Conservation Reserves →**National Parks, which corresponds to Option d): II – IV – III – I.**",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q39",
+      "questionNumber": 39,
+      "subject": "Geography",
+      "sectionGroup": "Indian Geography",
+      "microTopic": "Natural Vegetation (Forests, Trees, Vegetation)",
+      "statementLines": [
+        "Based on some recent national and international official assessments, consider the following statements",
+        "I. The total Forest and Tree cover in India is more than 25% percent of the geographical area of the country.",
+        "II. India is in 6th position globally in terms of total forest area.",
+        "III. Madhya Pradesh has the largest forest cover area in India, followed by Arunachal Pradesh and Chhattisgarh.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Based on some recent national and international official assessments, consider the following statements I. The total Forest and Tree cover in India is more than 25% percent of the geographical area of the country. II. India is in 6th position globally in terms of total forest area. III. Madhya Pradesh has the largest forest cover area in India, followed by Arunachal Pradesh and Chhattisgarh. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer. **\n\nStatement I is correct:**According to the**India State of Forest Report (ISFR) 2023, **the total Forest and Tree cover is 8,27,357sq km, which is 25.17 percent of the geographical area of the country. The Forest Cover has an area of about 7,15,343sq km (21.76%) whereas the Tree Cover has an area of 1,12,014 sq km (3.41%).**\n\nStatement II is incorrect**: India has achieved a significant milestone in global forest statistics by advancing to the**9th **position worldwide**in terms of total forest area, according to the**Food and Agriculture Organization (FAO)**’s**Global **Forest Resources Assessment (GFRA) 2025 **released on 22 October 2025. In the previous assessment, India was ranked 10th. India has also maintained its**3rd position globally**in the** annual net gain of forest area**.**FAO is a specialized agency of the United Nations**that leads international efforts to defeat hunger and improve sustainable management of natural resources, including forests. The**GFRA is FAO’s periodic assessment of the state **of the world’s forests**, providing comprehensive data on forest area, change, management, and use.**\n\nStatement III is correct: **As per ISFR 2023**, Area wise top three states having largest forest cover are Madhya **Pradesh**(77,073 sq km)**followed by Arunachal Pradesh**(65,882 sq km) and**Chhattisgarh** (55,812 sq km).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "Consider the following:",
+        "I. Living Planet Report",
+        "II. International Big Cat Alliance",
+        "III. Great Green Wall Initiative",
+        "How many of the above are the initiatives of the World Wide Fund for Nature (WWF)?"
+      ],
+      "questionText": "Consider the following: I. Living Planet Report II. International Big Cat Alliance III. Great Green Wall Initiative How many of the above are the initiatives of the World Wide Fund for Nature (WWF)?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. ** Option I is correct: **The**Living Planet Report is the flagship publication of the World Wide Fund for Nature (WWF)**released every two years. It is a comprehensive study of trends in global biodiversity and the health of the planet. The Living Planet Report 2024 is the 15th edition of the report and measures the average change in population sizes of more than 5,000 vertebrate species, showing a decline of 73% between 1970 and 2020.** Option II is incorrect:**The**International Big Cat Alliance (IBCA) is an initiative of India (and not WWF) **launched in 2023 and that came into effect in 2025. The IBCA is now a full-fledged**treaty-based inter-governmental **international organisation and international legal entity. **Twenty-seven countries, including India, have consented to join the IBCA. It serves as a collaborative platform, fostering partnerships among big cat range and non-range countries, conservation organisations, and international stakeholders**to reverse the decline of 7 major big cat **populations — lion, tiger, leopard, cheetah, snow leopard, puma and jaguar — **and restore their habitats.** Option III is incorrect: **The**Great Green Wall is an ambitious initiative of the African Union (and not WWF) in 2007**to restore savannas, grasslands and farmlands across Africa to help families and biodiversity cope with climate change and keep desertification from further threatening already-vulnerable communities. The**2030 goals of the Great **Green Wall are to restore 100 million hectares,**sequester 250 million tons of carbon and create 10 million jobs.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q41",
+      "questionNumber": 41,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Major Species (Keystone, Indicator, Invasive, Endemic, etc.)",
+      "statementLines": [
+        "Consider the following fauna:",
+        "1. Lion-tailed Macaque",
+        "2. Malabar Civet",
+        "3. Sambar Deer",
+        "How many of the above are generally nocturnal or most active after sunset?"
+      ],
+      "questionText": "Consider the following fauna: 1. Lion-tailed Macaque 2. Malabar Civet 3. Sambar Deer How many of the above are generally nocturnal or most active after sunset?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Item 1 is incorrect: **The**lion-tailed macaque is a diurnal species **(and not a nocturnal species) that spends its time looking for fruits and invertebrates.**Item II is correct: Malabar Civet**is a** nocturnal animal**which is endemic to India’s Western Ghats. Civetone extract from the scent gland of Malabar Civet is used in perfumes and medicine.**Item III is incorrect: Sambar Deer **are not nocturnal or most active after sunset.**They are primarily crepuscular**, meaning they are most active at dawn and dusk. They typically rest in dense forests during the day and move to open areas to feed at dusk, then return to cover at dawn. However,**they may also be active during the night, but they are **not strictly nocturnal. **",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2023,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2023"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q42",
+      "questionNumber": 42,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Wildlife Acts (WPA 1972, BDA 2002, etc.)",
+      "statementLines": [
+        "With reference to the Central Zoo Authority, consider the following statements:",
+        "I. The Prime Minister of India serves as the ex-officio Chairperson of the Authority.",
+        "II. It has the power to recognise and de-recognise zoos in the country.",
+        "III. It regulates the exchange of animals of endangered category listed under Schedule- I and II of the Wildlife",
+        "(Protection) Act, 1972 among zoos in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Central Zoo Authority, consider the following statements: I. The Prime Minister of India serves as the ex-officio Chairperson of the Authority. II. It has the power to recognise and de-recognise zoos in the country. III. It regulates the exchange of animals of endangered category listed under Schedule- I and II of the Wildlife (Protection) Act, 1972 among zoos in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II only",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**The Central Zoo Authority is responsible for overseeing zoos. Every zoo in the country is required to obtain recognition from the authority for its operation.**\n\nStatement I is incorrect: **The Central Zoo Authority was formed under the Wildlife Protection Act, 1972 and is**chaired **by the Union Minister of Environment, Forest and Climate Change (and not the Prime Minister of India). **\n\nStatement II is correct: **Functions The Central Zoo Authority has been assigned following functions under Section 38 (C) of the Wildlife (Protection) Act, 1972: (a) specify the minimum standards for housing, upkeep and veterinary care of the animals kept in zoos; (b) evaluate and assess the functioning of the zoos with respect to the prescribed standards or norms;**(c) To recognize or derecognize zoos; **(d) To identify endangered species of wild animals for purposes of captive breeding and assigning responsibility in this regard to a zoo; (e) To coordinate the acquisition, exchange and loaning of animals for breeding purpose; (f) To ensure maintenance of studbooks of endangered species of wild animals bred in captivity; (g) To identify priorities and themes with regard to display of captive animals in zoos; (h) To coordinate training of zoo personnel in India and outside India; (i) To coordinate research in captive breeding and educational programmes for the purposes of zoos; (j) To provide technical and other assistance to zoos for their proper management and development on scientific lines; (k) To perform such other functions as may be necessary to carry out the purposes of this Act with regard to zoos. Central Zoo also provides technical and financial assistance to zoos which can attain the desired standard in animal management.**\n\nStatement III is correct: **Apart from the primary function of grant of recognition, the Central Zoo Authority also regulates the exchange of animals of endangered category listed under Schedule-I and II of the Wildlife (Protection) Act, 1972 among zoos. Exchange of animals between Indian and foreign zoos is also approved by the Authority before the requisite clearances under EXIM Policy and the CITES permits are issued by the competent authority.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q43",
+      "questionNumber": 43,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "With reference to flora diversity in India, Mulethi, Kalahari, Guggle and Kutki are primarily the examples of:"
+      ],
+      "questionText": "With reference to flora diversity in India, Mulethi, Kalahari, Guggle and Kutki are primarily the examples of:",
+      "options": {
+        "a": "Invasive alien species",
+        "b": "Medicinal plants",
+        "c": "Timber-yielding species",
+        "d": "Insectivorous plants"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **\n\nOption b is correct:**Mulethi, **Shatavari,**Kalihari, **Shwet Musali,**Guggle, **Manjishtha,**Kutki, **Atees, Jatamansi, Ashwagandha, Brahmi, Tulsi, Vidarikand, Pippali, Chirata, Pushkarmool etc. are examples of medicinal plants in India. Presently, National Medicinal Plants Board (NMPB), Ministry of Ayush, Government of India is implementing the**Central Sector Scheme on “Conservation, Development and Sustainable Management of Medicinal Plants” ** throughout the country to promote the cultivation of medicinal plants. The project provides financial support for research activities on various aspects of medicinal plants to the government as well as private universities/research institutions/organizations across the country.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q44",
+      "questionNumber": 44,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Ramsar Sites, World Heritage Sites, UNESCO Heritage Sites, WHS, Biodiversity Heritage Sites, etc.",
+      "statementLines": [
+        "With reference to the Ramsar Sites in India, consider the following information:",
+        "Ramsar Site State Associated River",
+        "I. Udhwa Lake Bird Sanctuary Jharkhand Ganga",
+        "II. Khachoedpalri Wetland Assam Barak",
+        "III. Udaipur Jheel Bihar Gandaki",
+        "IV. Khichan Wetland Madhya Pradesh Bhavani In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to the Ramsar Sites in India, consider the following information: Ramsar Site State Associated River I. Udhwa Lake Bird Sanctuary Jharkhand Ganga II. Khachoedpalri Wetland Assam Barak III. Udaipur Jheel Bihar Gandaki IV. Khichan Wetland Madhya Pradesh Bhavani In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer. **India now has the largest Ramsar network in Asia and the 3rd largest globally by number of Ramsar sites. As of 2025, India has 96 Ramsar Sites, the highest in Asia. Udaipur (Rajasthan) and Indore (Madhya Pradesh) became India’s first Ramsar-accredited Wetland Cities.**Row I is correct: **The**Udhuwa or Udhwa Lake Bird Sanctuary is a Ramsar site **situated in the Sahebganj district of**Jharkhand. **This site**comprises two interconnected wetlands, Pataura Lake and Barhel Lake, **which are surrounded by the hillocks of the Rajamahal Hills and**linked by a channel to the Ganga River.**It provides habitat for the endangered band-tailed fish eagle (Haliaeetus leucoryphus) and the vulnerable common pochard (Aythya ferina) and lesser adjutant stork (Leptoptilos javanicus).**Row II is incorrect: Khachoedpalri Wetland, **originally known as Kha-Chot-Palri is a Ramsar Site located near Khecheopalri village** in the West Sikkim district of Sikkim.**It is sacred for both Buddhists and Hindus. The lake drains a catchment area of the**Ramam watershed. **The Site is a temperate Himalayan high altitude wetland ecosystem, which is an ecosystem found in only ten percent of India’s land area. It serves as an important habitat for birds migrating across the Himalayas, including the critically endangered Baer’s pochard. It is also**home to the endangered **red panda and the vulnerable Himalayan black bear,**both of which are endemic to the region. Barak river is not associated with the Khecheopalri** Lake Ramsar site.**Row III is correct: **The** Udaipur jheel **is an oxbow lake bordered to the north and west by the dense forest of Udaipur Wildlife Sanctuary. It is a**Ramsar site that lies in West Champaran District of Bihar. **The wetland is an important wintering ground for around 35 migratory bird species, including the vulnerable common pochard. The lake is a**natural oxbow system formed by the Gandaki River.**Row IV is incorrect:**Khichan wetland**is a Ramsar site located**in the northern Thar Desert in Rajasthan. **It comprises two water bodies, Ratri nadi (river) and Vijaysagar talab (pond), riparian habitat and scrub land. This desert ecosystem supports drought-resistant plant species that provide habitat for over 150 species of birds. The Site is especially recognized for hosting large wintering flocks of migratory demoiselle cranes (Anthropoides virgo), making up over 22,000 individuals each year.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Biodiversity Basics (Types of Biodiversity)",
+      "statementLines": [
+        "Consider the following:",
+        "1. Cashew",
+        "2. Papaya",
+        "3. Red sanders",
+        "How many of the above trees are actually native to India?"
+      ],
+      "questionText": "Consider the following: 1. Cashew 2. Papaya 3. Red sanders How many of the above trees are actually native to India?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **Item 1 is incorrect. The Cashew is native to northeastern Brazil. **The Portuguese brought it to India during the late 16th century.**Item 2 is incorrect. Papaya is native to Central America. **It is grown in tropical and warmer subtropical areas worldwide. Papaya was introduced from the Philippines through Malaysia to India in the later part of the 16th century.**Item 3 is correct. Red Sanders is endemic to a distinct tract of forests in Andhra Pradesh. **Red Sanders is reported to be one of India’s most exploited tree species and is under severe pressure from illegal logging and harvesting. Following the amendment to the Wildlife (Protection) Act 1972 in December 2022, Red Sanders is now listed in Schedule IV.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2024,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2024"
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "Tiger Reserve, Elephant Reserve, other species-specific reserves, etc.",
+      "statementLines": [
+        "Which of the following is the correct sequence of location of the below given tiger reserves in India from west to east?",
+        "I. Kaziranga",
+        "II. Manas",
+        "III. Buxa",
+        "IV. Orang",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Which of the following is the correct sequence of location of the below given tiger reserves in India from west to east? I. Kaziranga II. Manas III. Buxa IV. Orang Select the correct answer using the code given below:",
+      "options": {
+        "a": "I - III - II -IV",
+        "b": "II - IV - I - III",
+        "c": "II - III - IV - I",
+        "d": "III - II - IV - I"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer. **\n\nOption d is correct:**The**correct sequence **of location of given tiger reserves in India from west to east is**Buxa Tiger **Reserve-Manas Tiger Reserve-Orang Tiger Reserve-Kaziranga Tiger Reserve. **Option I: Buxa Tiger Reserve **lies in Jalpaiguri district of**West Bengal.**Its northern boundary runs along the international border with Bhutan. The**BTR serves as an international corridor for elephant migration between India **and Bhutan. **Option II: Manas Tiger Reserve **is located**in north-west Assam. **To the north, it is separated from the Royal Manas National Park of Bhutan by the River Manas; while to the west, it is**separated from the Buxa Tiger Reserve of West **Bengal by the River Sankosh. **It**forms part of a large tiger conservation landscape which includes Buxa-Nameri\n- **Pakke-Namdapha tiger reserves **and protected areas of Bhutan and Myanmar.**Option III: Orang Tiger Reserve**is**located in Assam and is part of the Brahmaputra floodplain**landscape. Apart from the tiger and rhino, the other important key species are the Bengal florican, pygmy hog, swamp francolin, etc.**Option IV:**Kaziranga Tiger Reserve **is** located in the flood plain of the Brahmaputra River, **on the foot hills of Karbi-Anglong district, in Assam. The**river Diffalu, a tributary of the Brahmaputra, flows through the National Park area ** while another tributary Moradifalu flows along its southern boundary.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q47",
+      "questionNumber": 47,
+      "subject": "Environment",
+      "sectionGroup": "Indian Government Laws & Organisations",
+      "microTopic": "Wildlife Acts (WPA 1972, BDA 2002, etc.)",
+      "statementLines": [
+        "With reference to the National Board for Wildlife (NBWL), consider the following statements:",
+        "I. No alteration of the boundaries of a National Park or Wildlife Sanctuary by the State Government shall be made except on a recommendation of the National Board for Wildlife.",
+        "II. It has recently developed the National Wildlife Information System (NWIS) on the protected areas of the country.",
+        "III. It provides financial assistance to States and Union Territories under Project Tiger and Project Elephant for effective conservation of respective species.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the National Board for Wildlife (NBWL), consider the following statements: I. No alteration of the boundaries of a National Park or Wildlife Sanctuary by the State Government shall be made except on a recommendation of the National Board for Wildlife. II. It has recently developed the National Wildlife Information System (NWIS) on the protected areas of the country. III. It provides financial assistance to States and Union Territories under Project Tiger and Project Elephant for effective conservation of respective species. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "II and III only",
+        "c": "I only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.**The**National Board for Wildlife (NBWL) is a statutory body **constituted by the Central Government under the Wildlife (Protection) Act, 1972 (WLPA). The Wildlife Act of 1972 did not originally include the NBWL. The NBWL was established later through an amendment in 2002. It replaced the Indian Board for Wildlife, formed in 1952. It is**chaired by the Prime Minister of India. **\n\nStatement I is correct:**As per the sections 35 (5) and 26A(3) Wildlife (Protection) Act, 1972, No alteration of the boundaries of a National Park or Wildlife Sanctuary respectively by the State Government shall be made except on a recommendation of the National Board for Wildlife.**\n\nStatement II is incorrect: **The**National Wildlife Database Centre of Wildlife Institute of India (WII), and not the **NBWL,**has been**developing a National Wildlife Information System (NWIS)**on the Protected Areas of the country. As of November, 2023 India has a network of 1014 Protected Areas including 106 National Parks, 573 Wildlife Sanctuaries, 115 Conservation Reserves and 220 Community Reserves covering a total of 1,75,169.42 km2 of geographical area of the country which is approximately 5.32%.**\n\nStatement III is incorrect: **The**Central Government (and not the NBWL) provides financial assistance to States and **Union Territories**under Centrally Sponsored Schemes such as:**Integrated Development of Wildlife Habitat, Project **Tiger, and Project Elephant**for better protection and conservation of wildlife and their habitat.**NBWL plays no role **in such funding. **",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "International Environmental Conventions, Organisations & Laws",
+      "microTopic": "Biodiversity (IUCN, WWF, CBD, Cartagena, Nagoya, etc.)",
+      "statementLines": [
+        "The Central Asian Mammals Initiative (CAMI) is a specialized conservation agreement under the:"
+      ],
+      "questionText": "The Central Asian Mammals Initiative (CAMI) is a specialized conservation agreement under the:",
+      "options": {
+        "a": "International Union for Conservation of Nature (IUCN)",
+        "b": "Convention on International Trade in Endangered Species (CITES)",
+        "c": "Convention on Biological Diversity (CBD)",
+        "d": "Convention on the Conservation of Migratory Species of Wild Animals (CMS)"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.**\n\nOption d is correct: **The**Central Asian Mammals Initiative (CAMI) was launched in 2014 at the**11th Meeting of the Conference of the Parties (COP11) to the**Convention on the Conservation of Migratory Species of Wild Animals **(CMS). **CAMI presents a common framework to address major threats to the region’s migratory species. It currently**covers 17 species i**ncluding the argali sheep, Asiatic cheetah, Asiatic wild ass, Bukhara deer, Eurasian lynx, gobi bear, goitered gazelle, kiang, Mongolian gazelle, Pallas’s cat, Persian leopard, Przewalski’s horse, saiga antelope, snow leopard, urial, wild camel, and wild yak. Knowledge Base:**Convention on the Conservation of Migratory Species of Wild Animals (CMS)**- CMS or the** Bonn Convention**is an**intergovernmental environmental treaty under the United Nations **Environment Programme (UNEP).**It aims to conserve terrestrial, aquatic and avian migratory species throughout their range. - It is the**only global Convention specializing in the conservation of migratory species, t**heir habitats and migration routes. - It brings together the States through which migratory animals pass, the Range States, and lays the**legal **foundation for internationally coordinated conservation measures**throughout a migratory range. - CMS has two Appendices: -**Appendix I: **Migratory species threatened with extinction -**Appendix II:** Migratory species that need or would significantly benefit from international cooperation",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q49",
+      "questionNumber": 49,
+      "subject": "Environment",
+      "sectionGroup": "Protected Area Network",
+      "microTopic": "National Park, Wildlife Sanctuary, Biosphere Reserve",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. It is recognised as an Important Bird and Biodiversity Area (IBA).",
+        "II. The Chambal river bifurcates the sanctuary into two parts.",
+        "III. It lies in the Khathiar-Gir dry deciduous forests ecoregion.",
+        "IV. It is set to become the second home for cheetahs in India, after the Kuno National Park.",
+        "The above statements best describe which of the following protected areas in India?"
+      ],
+      "questionText": "Consider the following statements: I. It is recognised as an Important Bird and Biodiversity Area (IBA). II. The Chambal river bifurcates the sanctuary into two parts. III. It lies in the Khathiar-Gir dry deciduous forests ecoregion. IV. It is set to become the second home for cheetahs in India, after the Kuno National Park. The above statements best describe which of the following protected areas in India?",
+      "options": {
+        "a": "Gandhi Sagar Wildlife Sanctuary",
+        "b": "Nanjarayan Bird Sanctuary",
+        "c": "Pobitora Wildlife Sanctuary",
+        "d": "Kazhuveli Bird Sanctuary"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer. **\n\nOption a is correct: Gandhi Sagar Wildlife Sanctuary **is spread across the districts of Mandsaur and Neemuch in western Madhya Pradesh. It was notified in 1974 and added to the list of sanctuaries in 1984. The Gandhi Sagar dam, constructed on the Chambal river in 1960, lies within the area of the sanctuary. - The**Chambal River flows through the sanctuary, dividing it into two distinct parts. **The sanctuary boasts a varied landscape, featuring hills, plateaus, and the catchment area of the Gandhi Sagar Dam on the Chambal River. - It lies in the**Khathiar-Gir dry deciduous forests ecoregion.**- It is**recognized as an Important Bird and Biodiversity Area (IBA)**by BirdLife International. - The sanctuary is home to numerous sites of historical, archaeological, and religious importance, including Chaurasigarh, Chaturbhujnath Temple, Bhadkaji Rock Paintings, Narsinghjhar Hinglajgarh Fort and Taxakeshwar Temple. - The primary tree species in the sanctuary are Khair, Salai, Kardhai, Dhawda, Tendu and Palash. - Prominent wildlife found here includes Chinkara, Nilgai, Spotted Deer, Indian Leopard, Striped Hyena, Jackal, Crocodiles, otters, turtles and various fishes. - It is set to become the second home for cheetahs in India, after the Kuno National Park. It has been earmarked as an important link for long-term conservation of cheetahs, with the aim to establish a metapopulation of 60-70 cheetahs across the Kuno-Gandhi Sagar landscape, spread across Madhya Pradesh and Rajasthan.**\n\nOption b is incorrect: Nanjarayan Bird Sanctuary **is a large shallow wetland situated along the north-eastern region of Uthukuli Taluk of Tiruppur District**in Tamil Nadu (17th bird sanctuary of the State). **About 191 species of birds, 87 species of butterflies, 7 species of amphibians, 21 species of reptiles, 11 species of small mammals and 77 species of plants have been recorded in and around the lake. The site acts as feeding and nesting habitat for resident bird species, migratory birds use this lake as their feeding ground during the migratory season.**\n\nOption c is incorrect: Pobitora Wildlife Sanctuary**is located in the east region of**Guwahati, Assam.**The region is dominated by alluvial lowlands and marshland in the south reservoir of the river Brahmaputra. It is often referred to as ‘Mini Kaziranga’ and is**known for holding the highest density of Greater One Horned Rhinoceros **in the country. It also holds the**second highest concentration of Rhino in Assam after Kaziranga National Park. **Its rhino population was pegged at 107 after the last census in 2022. It consists of the Rajamayong Reserve Forest and Pobitora Reserve Forest.**\n\nOption d is incorrect:**The**Kazhuveli Bird Sanctuary**is a brackish shallow lake located on the Coromandel Coast in Villupuram district,**Tamil Nadu. **The lake is connected to the Bay of Bengal by the brackish Uppukalli creek and the Edayanthittu Estuary. Kazhuveli is one of the largest wetlands in peninsular India. The Kazhuveli Bird Sanctuary**lies in **the Central Asian Flyway**and is an important stopover site for migratory species of birds and breeding ground for resident species of birds, breeding ground for fish and serves as a major recharge source for the aquifers.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-1-environment-test23-q50",
+      "questionNumber": 50,
+      "subject": "Environment",
+      "sectionGroup": "Biodiversity & Conservation",
+      "microTopic": "Wildlife Conservation (Tiger, Elephant, Lion, Rhino, Crocodile, Vulture, Tortoise, Dolphin, etc.)",
+      "statementLines": [
+        "With reference to the various crocodile species in India, consider the following information:",
+        "Crocodile Species Naturally found in Status under IUCN Red List of Threatened Species",
+        "I. Mugger crocodile Satkosia Gorge Sanctuary Vulnerable",
+        "II. Saltwater crocodile Bhitarkanika Mangroves Critically Endangered",
+        "III. Gharial National Chambal Sanctuary Near Threatened In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to the various crocodile species in India, consider the following information: Crocodile Species Naturally found in Status under IUCN Red List of Threatened Species I. Mugger crocodile Satkosia Gorge Sanctuary Vulnerable II. Saltwater crocodile Bhitarkanika Mangroves Critically Endangered III. Gharial National Chambal Sanctuary Near Threatened In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.**India is home to three species of Crocodile i.e., Gharial (Critically Endangered), Mugger (Vulnerable) and Saltwater Crocodile (Least Concern). All three crocodile species in India are placed under the Schedule I of the Wildlife Protection Act, 1972.**Row I is correct: **The**mugger crocodile,**also called marsh crocodile or broad-snouted crocodile, is a species (Crocodylus palustris)**native to freshwater habitats from southern Iran and Pakistan to the Indian subcontinent **and Sri Lanka. **They are medium-sized crocodiles, with adults ranging between three and four metres in length. Mugger crocodiles used to be widespread throughout the subcontinent. Their population declined steeply through the 1950s and 1960s as hunters targeted them for their skin and meat, and people consumed their eggs.**They are **extinct in Bhutan and Myanmar. **National Chambal Sanctuary,**Satkosia Gorge Sanctuary(Odissa), **Ranganathittu Bird Sanctuary, Nagarjunasagar-Srisailam Tiger Reserve and Dudhwa National Park are known for their thriving mugger crocodile population.**It is listed as ‘Vulnerable’ in the IUCN Red List of Threatened Species. **Row II is incorrect: Estuarine or Saltwater Crocodile **is considered the Earth’s largest living crocodile species native to saltwater habitats and brackish wetlands. They are “hypercarnivorous apex predators” that keep flowing water ecosystems clean by feeding on the carcasses and wild remains in the water. It is**found throughout the east coast of **India, Southeast Asia, and northern Australia.**In India, saltwater crocodiles are distributed across the swamplands, rivers, mangroves of Odisha and West Bengal and the coastal areas of the Andaman and Nicobar Islands.** Bhitarkanika **Mangroves is said to house 70% of India’s estuarine or saltwater crocodile conservation. It is listed as ‘Least **Concern’ in the IUCN Red List of Threatened Species.**Row III is incorrect: **The gharial (Gavialis gangeticus), also known as the gavial or the fish-eating crocodile. The gharial is one of only two species in the Gavialidae family. It has a characteristic elongated, narrow snout, similar only to the tomistoma (previously called the false gharial). It was once found across Bangladesh, Bhutan, India, Myanmar, Nepal and Pakistan. However, currently, it survives in several severely fragmented populations in India and Nepal. In India, they are**found in National Chambal Sanctuary and Katarnighat Wildlife Sanctuary. **It is** listed as ‘Critically **Endangered’ in the IUCN Red List of Threatened Species. **\n\nKnowledge Base:\n- Odisha is the only Indian State to host the wild populations of all three native species — the gharial (gavialis gangeticus), the saltwater crocodile (crocodylus porosus), and the mugger (crocodylus palustris).\n- It is also the only State in India to host conservation centres for all three crocodilian species — Tikarpada( on Mahanadi river) for gharial, Dangamal for saltwater crocodile, and Ramatirtha for mugger.\n- The Crocodile Conservation and Breeding Project was initially launched in Odisha in 1975 and subsequently in other States with technical help from the Food and Agricultural Organization (FAO) and the United Nations Development Programme (UNDP).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}

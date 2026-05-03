@@ -1,0 +1,1848 @@
+{
+  "id": "forum-sfg-2026-level-2-environment-test21",
+  "title": "Test 21- L2 SFG 2026 - Sectional - Environment",
+  "launch_year": 2026,
+  "institute": "Forum IAS",
+  "program_id": "sfg",
+  "program_name": "SFG",
+  "series": "Test Series",
+  "level": "Level 2",
+  "paperType": "Sectional",
+  "defaultMinutes": 60,
+  "sourceMode": "sol-only",
+  "questions": [
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q01",
+      "questionNumber": 1,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements:",
+        "Statement I: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the",
+        "‘Declaration on Climate and Health’.",
+        "Statement II: The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector.",
+        "Statement III: If India’s health sector is decarbonized, the resilience of its health-care system may be compromised.",
+        "Which one of the following is correct in respect of the above statements?"
+      ],
+      "questionText": "Consider the following statements: Statement I: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the ‘Declaration on Climate and Health’. Statement II: The COP28 Declaration on Climate and Health is a binding declaration; and if signed, it becomes mandatory to decarbonize health sector. Statement III: If India’s health sector is decarbonized, the resilience of its health-care system may be compromised. Which one of the following is correct in respect of the above statements?",
+      "options": {
+        "a": "Both Statement II and Statement III are correct and both of them explain Statement I",
+        "b": "Both Statement II and Statement III are correct but only one of them explains Statement I",
+        "c": "Only one of the Statements II and III is correct and that explains Statement I",
+        "d": "Neither Statement II nor Statement III is correct"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: At the 28th United Nations Climate Change Conference (COP28), India refrained from signing the ‘Declaration on Climate and Health’. The declaration calls for deep, rapid, and sustained reductions in greenhouse gas emissions to achieve health benefits, including those from lower air pollution and sustainable diets.\nStatement II is incorrect: COP28 Declaration on Climate and Health is a non-binding, voluntary political declaration that aims to galvanize support for action on climate change and health. It’s a call to action and a joint vision, not a legally enforceable treaty.\nStatement III is correct: At COP28, India chose not to sign the “Declaration on Climate and Health”. This decision is primarily due to concerns about the practicality of reducing greenhouse gas emissions from cooling in the country’s healthcare infrastructure, a point within the declaration.\nConcerns were reportedly raised about the practicality of implementing cooling-related decarbonization in a country where access to affordable and reliable cooling (especially in rural or under-resourced health facilities) is essential for resilience. India feared that rigid decarbonization efforts in such critical infrastructure might undermine operational capacity or resilience, particularly in heat-prone and underserved areas.\nOnly\n\nstatement III is correct and statement III explains statement I.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q02",
+      "questionNumber": 2,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The Intergovernmental Oceanographic Commission (IOC) exists under the umbrella of",
+        "which one of the following organisations?"
+      ],
+      "questionText": "The Intergovernmental Oceanographic Commission (IOC) exists under the umbrella of which one of the following organisations?",
+      "options": {
+        "a": "World Meteorological Organization (WMO)",
+        "b": "United Nations Environment Programme (UNEP)",
+        "c": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+        "d": "International Maritime Organization (IMO)"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Intergovernmental Oceanographic Commission (IOC) is an intergovernmental body with \"functional autonomy,\" functioning under the United Nations Educational, Scientific and Cultural Organization (UNESCO). It was established in 1960 by a resolution during the 11th General Conference of UNESCO. IOC secretariat is situated in the UNESCO headquarters in Paris.\nKey Global Initiatives:\n- Global Ocean Observing System (GOOS): A permanent system for observations, modelling, and analysis of marine and ocean variables.\n- Tsunami Warning Systems: The IOC coordinates the Global Tsunami Warning System to help nations prepare for and respond to tsunami threats.\n- UN Ocean Decade (2021–2030): The IOC is the lead agency for the United Nations Decade of Ocean Science for Sustainable Development.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q03",
+      "questionNumber": 3,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Regarding the United Nations Convention to Combat Desertification (UNCCD), consider the following statements:",
+        "I. It is the sole legally binding international agreement linking environment and development to sustainable land management.",
+        "II. It was established immediately after the first United Nations Conference on Desertification (UNCOD) in 1977.",
+        "III. It recently launched the Great Green Wall initiative in Africa with the aim to restore the continent’s degraded landscapes.",
+        "IV. The Drought Initiative was launched under this convention to help countries move from reactive to proactive drought management.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Regarding the United Nations Convention to Combat Desertification (UNCCD), consider the following statements: I. It is the sole legally binding international agreement linking environment and development to sustainable land management. II. It was established immediately after the first United Nations Conference on Desertification (UNCOD) in 1977. III. It recently launched the Great Green Wall initiative in Africa with the aim to restore the continent’s degraded landscapes. IV. The Drought Initiative was launched under this convention to help countries move from reactive to proactive drought management. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and IV only",
+        "b": "II, III and IV",
+        "c": "I and III only",
+        "d": "I, II and IV"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**\n\nStatement I is correct: The United Nations Convention to Combat Desertification (UNCCD) is the sole legally binding international agreement that explicitly links environment and development to sustainable land management. It was established to address land degradation in arid, semi-arid, and dry sub-humid areas.\nStatement II is incorrect: The 1992 United Nations Conference on Environment and Development (UNCED) – also known the Earth Summit – held in Rio de Janeiro called on the United Nations General Assembly to establish an Intergovernmental Negotiating Committee (INCD) to prepare, by June 1994, a Convention to Combat Desertification.\nThus, in 1994, the United Nations Convention to Combat Desertification (UNCCD) was established. Though its history can be traced back to the first United Nations Conference on Desertification (UNCOD) in 1977, which adopted a Plan of Action to Combat Desertification (PACD). But it was not established immediately after the conference.\nStatement III is incorrect: The \"Great Green Wall\" initiative was launched in 2007 by the African Union. It is an African-led initiative that aims to restore the continent’s degraded landscapes and transform millions of lives in the Sahel. The initiative is supported by the UNCCD but it is an African-led initiative.\nStatement IV is correct: The \"Drought Initiative\" was launched under the UNCCD framework (specifically at COP 13) to provide a toolbox of resources for countries. Its goal is to shift the global approach to drought from reactive (emergency relief) to proactive (preparedness, early warning, and risk management).",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q04",
+      "questionNumber": 4,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to geothermal energy, consider the following statements:",
+        "I. It harnesses the heat stored within the Earth's crust.",
+        "II. The Central Electricity Authority has prepared the ‘Geothermal Atlas of India’ for harnessing geothermal energy in",
+        "India.",
+        "III. Puga Valley in Ladakh and Manikaran in Himachal Pradesh are identified as important geothermal sites in India.",
+        "IV. Presently, 100% Foreign Direct Investment in India is allowed in the geothermal sector.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "With reference to geothermal energy, consider the following statements: I. It harnesses the heat stored within the Earth's crust. II. The Central Electricity Authority has prepared the ‘Geothermal Atlas of India’ for harnessing geothermal energy in India. III. Puga Valley in Ladakh and Manikaran in Himachal Pradesh are identified as important geothermal sites in India. IV. Presently, 100% Foreign Direct Investment in India is allowed in the geothermal sector. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I, III and IV only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Geothermal energy refers to the heat energy stored within the Earth’s interior, which can be harnessed for electricity generation and direct heating purposes.\nIt is a renewable, sustainable, and reliable source of energy, as the Earth’s internal heat is continuously replenished.\n\nStatement I is correct: Geothermal energy refers to energy derived from the natural heat of the Earth’s interior. The major sources of this heat are:\n- Radioactive decay of elements such as uranium, thorium and potassium present in the Earth’s crust and mantle.\n- Movement and presence of magma beneath the Earth’s surface, which transfers heat to surrounding rocks and underground water.\nStatement II is incorrect: It is not the Central Electricity Authority but Geological Survey of India (GSI) identified 381 thermally anomalous sites and published the “Geothermal Atlas of India” in 2022 to harness geothermal energy.\nStatement III is correct: India has several identified geothermal sites and potential fields. Among the most important are:\n- Puga Valley (Ladakh) – Cambay Graben (Gujarat) – Tattapani (Chhattisgarh), Manikaran (Himachal Pradesh), and the Godavari basin region.\nStatement IV is correct: India allows 100% Foreign Direct Investment (FDI) under the automatic route in the renewable energy sector, which includes geothermal energy projects.\nThis policy aims to promote investment, technology transfer and development of renewable energy infrastructure, including emerging sources like geothermal energy.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q05",
+      "questionNumber": 5,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Under the revised GST (Goods and Services Tax) rate structure several essential goods have been moved to the",
+        "Nil-GST category. In this context, consider the following products:",
+        "I. Ultra High Temperature (UHT) Milk",
+        "II. Pre-packaged & labelled chena/Paneer",
+        "III. Fertilizer inputs like Ammonia, Sulphuric Acid and Nitric Acid",
+        "IV. Renewable energy devices",
+        "How many of the above are taxed at the Nil-GST under the revised GST structure?"
+      ],
+      "questionText": "Under the revised GST (Goods and Services Tax) rate structure several essential goods have been moved to the Nil-GST category. In this context, consider the following products: I. Ultra High Temperature (UHT) Milk II. Pre-packaged & labelled chena/Paneer III. Fertilizer inputs like Ammonia, Sulphuric Acid and Nitric Acid IV. Renewable energy devices How many of the above are taxed at the Nil-GST under the revised GST structure?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The 52nd meeting of the GST Council, chaired by the Union Finance Minister, approved a major overhaul of the GST rate structure to rationalize taxes, reduce the burden on essential goods, and simplify compliance.\nThe earlier four-slab system (5%, 12%, 18%, 28%) has been replaced with a simplified two-slab structure: 5% for essential or merit goods and 18% as the standard rate, while a 40% slab applies to luxury and de-merit goods (e.g., tobacco, pan masala). As part of this rationalisation, many essential commodities and lifesaving drugs were shifted to the nil (0%) GST category This revised GST rate structure has come into effect from 22 September 2025.\nOption I is correct: UHT milk – Nil (0%) Classified as an essential food product, UHT milk has been placed under the 0% GST slab to reduce the burden on daily household consumption.\nOption II is correct: Paneer – Nil (0%) Pre-packaged and labelled paneer has also been placed under the 0% GST slab under GST 2.0, as part of the broader initiative to make staple dairy products tax-free.\nOption III is incorrect: Fertilizer inputs – Not Nil (5%) Fertilizer inputs such as sulphuric acid, nitric acid, and ammonia have had their GST rate reduced from 18% to 5%, but they have not been moved to the nil-rate.\nOption IV is incorrect: Renewable energy devices – Not Nil (5%) Renewable energy devices have been reduced from 12% to 5%, but not 0%. The reduced rate aims to promote green energy adoption.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q06",
+      "questionNumber": 6,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to the Renewable Energy Certificate (REC) mechanism in India, consider the following statements:",
+        "I. In the case of renewable energy generating stations based on onshore solar energy technology, the value of one",
+        "Renewable Energy Certificate (REC) shall be equivalent to 1 Megawatt-hour (MWh) of electricity generated and injected into the grid from renewable energy sources",
+        "II. The Bureau of Energy Efficiency is the nodal authority for registration of Renewable Energy generators participating in the Renewable Energy Certificate (REC) scheme.",
+        "III. Recently, to promote non-solar renewable energy generation, the Renewable Energy Certificates (RECs) have been classified into solar and non-solar categories.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Renewable Energy Certificate (REC) mechanism in India, consider the following statements: I. In the case of renewable energy generating stations based on onshore solar energy technology, the value of one Renewable Energy Certificate (REC) shall be equivalent to 1 Megawatt-hour (MWh) of electricity generated and injected into the grid from renewable energy sources II. The Bureau of Energy Efficiency is the nodal authority for registration of Renewable Energy generators participating in the Renewable Energy Certificate (REC) scheme. III. Recently, to promote non-solar renewable energy generation, the Renewable Energy Certificates (RECs) have been classified into solar and non-solar categories. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "I and III only",
+        "c": "II only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Renewable Energy Certificate (REC) mechanism is a market based instrument to promote renewable energy and facilitate compliance of renewable purchase obligations (RPO). It is aimed at addressing the mismatch between the availability of RE resources in the state and the requirement of the obligated entities to meet the renewable purchase obligation (RPO).\nStatement I is correct: The value of One Renewable Energy Certificate (REC) shall be equivalent to 1 Megawatt-hour (MWh) of electricity generated and injected into the grid from renewable energy sources, or deemed to be injected in the case of self-consumption by eligible captive generating stations based on renewable energy sources.\nThe Certificate Multiplier are provided to renewable energy generating stations and captive generating stations based on renewable energy sources that are commissioned on or after the effective date of the Central Electricity Regulatory Commission Renewable Energy Certificates Regulations, 2022.\nA new concept of Certificate Multiplier has been introduced for promoting less mature and high-price RE technologies. The multiplier will increase the market value of different RE technologies. The certificate multiplier assigned to RE technologies depends upon the date of commissioning of the project.\nStatement II is incorrect: The Central Electricity Regulatory Commission (CERC) has designated the National Load Despatch Centre (NLDC) as the central level for registration of Renewable Energy generators participating in the Renewable Energy Certificate (REC) scheme.\nStatement III is incorrect: The classification of Renewable Energy Certificates (RECs) into solar and non-solar categories was eliminated with the introduction of the CERC (Terms and Conditions for Renewable Energy Certificates for Renewable Energy Generation) Regulations, 2022, effective December 5, 2022. Instead, a unified \"REC\" type was introduced, featuring a multiplier mechanism based on technology maturity rather than source.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q07",
+      "questionNumber": 7,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements with reference to UN-Water:",
+        "I. It is a specialized agency of the United Nations.",
+        "II. It is comprised of United Nations entities and international organizations working on water and sanitation issues.",
+        "III. It publishes the United Nations World Water Development Report.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to UN-Water: I. It is a specialized agency of the United Nations. II. It is comprised of United Nations entities and international organizations working on water and sanitation issues. III. It publishes the United Nations World Water Development Report. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III",
+        "b": "II only",
+        "c": "III only",
+        "d": "II and III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** UN-Water coordinates the United Nations’ work on water and sanitation.\n\nStatement I is incorrect: UN-Water is not a specialized agency of the United Nations. It is an inter-agency coordination mechanism established in 2003 to harmonize the water and sanitation programs of over 30 UN entities, international organizations, and partners.\nStatement II is correct: It is comprised of United Nations entities and international organizations (Partners) working on water and sanitation issues.\nUN-Water's activities are guided by the UN System-wide Strategy for Water and Sanitation, launched in 2024. It aims to accelerate action towards Sustainable Development Goal 6 – “to ensure availability and sustainable management of water and sanitation for all” – as part of the 2030 Agenda for Sustainable Development.\nStatement III is incorrect: The United Nations World Water Development Report (WWDR) is produced by the UNESCO World Water Assessment Programme (WWAP) on behalf of UN-Water. Launched on World Water Day (March 22), WWDR provides a comprehensive assessment of the overall state, use and management of the world’s freshwater resources.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q08",
+      "questionNumber": 8,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements with reference to mangroves:",
+        "I. Mangroves store around 3 to 4 times more carbon per acre than tropical forests.",
+        "II. Amongst the states in India, Gujarat holds the largest share of the country’s mangrove forests.",
+        "III. The SAIME initiative was launched by the Government of India to increase mangrove cover across all the coastal states in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to mangroves: I. Mangroves store around 3 to 4 times more carbon per acre than tropical forests. II. Amongst the states in India, Gujarat holds the largest share of the country’s mangrove forests. III. The SAIME initiative was launched by the Government of India to increase mangrove cover across all the coastal states in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "III only",
+        "d": "None of the above"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** A mangrove is a salt-tolerant plant community found in tropical and subtropical intertidal regions. These ecosystems thrive in high-rainfall areas (1,000–3,000 mm) with temperatures ranging from 26°C to 35°C.\nStatement I is correct: The mangroves are considered to store 3–4 times more carbon per acre than tropical forests. Their loss contributes to 10% of global greenhouse gas emissions from deforestation. These coastal forests hold over 21 gigatons of carbon, 87% of which is locked in the soil beneath their roots.\nStatement II is incorrect: As per the India State of Forest Report 2023 (ISFR-2023), India’s total mangrove cover stands at 4,991.68 sq. km, constituting 0.15% of the nation’s geographical area. There has been net increase of 363.68 Sq.km (7.86%) in Mangrove cover area of the country in 2023 as compared to 2013 and net increase of 509.68 Sq.km (11.4%) between 2001 and 2023.\nWest Bengal holds the largest share of the country's mangrove forests, accounting for 42.45% of the total cover, followed by Gujarat (23.32%) and the Andaman & Nicobar Islands (12.19%). Notably, Gujarat has recorded an increase of 253.06 sq. km in mangrove cover between 2001 and 2023, attributed to large-scale plantations, community participation, and public-private partnerships.\nStatement III is incorrect: The Sustainable Aquaculture in Mangrove Ecosystems (SAIME) initiative aims to restore and protect mangrove ecosystems in the Sundarbans of West Bengal by integrating shrimp farming with mangrove conservation. It is implemented by Nature Environment and Wildlife Society (NEWS) and Global Nature Fund (GNF), Naturland Bangladesh Environment and Development Society (BEDS).\n- The Mangrove Initiative for Shoreline Habitats & Tangible Incomes (MISHTI) scheme is aimed at increasing the mangrove cover along the coastline and on saltpan lands. It aims to promote restoration and afforestation across 9 coastal States and 4 Union Territories.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q09",
+      "questionNumber": 9,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The Climate Investment Fund (CIF), established in 2008, is an international financing mechanism that channels finance through multilateral Development banks. In this context, consider the following banks:",
+        "I. Asian Development Bank",
+        "II. African Development Bank",
+        "III. International Financial Corporation",
+        "IV. New Development Bank",
+        "How many of the banks are the implementing partners of CIF’s investments?"
+      ],
+      "questionText": "The Climate Investment Fund (CIF), established in 2008, is an international financing mechanism that channels finance through multilateral Development banks. In this context, consider the following banks: I. Asian Development Bank II. African Development Bank III. International Financial Corporation IV. New Development Bank How many of the banks are the implementing partners of CIF’s investments?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Climate Investment Fund (CIF), established in 2008, is an international financing mechanism established to help developing countries address climate change challenges.\nOptions I, II and III are correct: The Climate Investment Funds (CIF) is a leading multilateral climate finance partnership that channels concessional finance through six multilateral development banks (MDBs). This includes:\nWorld Bank Group, including the International Finance Corporation, the African Development Bank, the Asian Development Bank, the European Development Bank, and the Inter-American Development Bank.\nOption IV is incorrect: The New Development Bank is not one of the implementing partners of CIF’s investments.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q10",
+      "questionNumber": 10,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Jaduguda mine, located in the Singhbhum district of Jharkhand, is best known for being:"
+      ],
+      "questionText": "Jaduguda mine, located in the Singhbhum district of Jharkhand, is best known for being:",
+      "options": {
+        "a": "India’s earliest site of commercial gold mining.",
+        "b": "India’s largest copper-ore producing mine.",
+        "c": "India’s first mine to produce uranium ore on a commercial scale.",
+        "d": "India’s oldest underground coal-mining sit"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The Jaduguda mine, operated by the Uranium Corporation of India Limited (UCIL), holds the distinction of being India’s first mine to produce uranium ore on a commercial scale. Commissioned in 1967, it marked the beginning of India’s domestic uranium production, supplying ore for the country’s nuclear fuel cycle.\nUranium in India is primarily found in Jharkhand, Andhra Pradesh, Meghalaya, Rajasthan, and a few other regions. Apart from Jaduguda, other notable uranium mining areas include Lambapur–Peddagattu in Andhra Pradesh and Bagjata in Jharkhand, among others.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q11",
+      "questionNumber": 11,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements",
+        "1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of",
+        "India and the World Health Organization.",
+        "2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements 1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization. 2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nStatement 1 is incorrect. India Sanitation Coalition (ISC), launched in June 2015, at Federation of Indian Chamber Commerce and Industry (FICCI), enables and supports safe and sustainable sanitation by bringing multiple organizations on a common platform through a range of catalytic actions. These include supporting the unlocking of WASH financing with focus on the private sector, forging partnerships with allied organizations for leading the discourse on sustainable sanitation; convening, curating and disseminating best practices in the sanitation advocacy — space and providing inputs into the policy aspects of sanitation through participation at allied forums.\nIt is not funded by WHO.\n\nStatement 2 is incorrect: NIUA is an institute for research, training and information dissemination in urban development and management. It was established in 1976 as an autonomous body under the Societies Registration Act.\nThe Institute is supported by the Ministry of Housing and Urban Affairs, Government of India, State Governments, urban and regional development authorities and other agencies concerned with urban issues.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2022,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2022"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q12",
+      "questionNumber": 12,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Ethanol, when blended with petrol, reduces carbon monoxide emissions from vehicles.",
+        "II. The unburnt hydrocarbon emission is reduced in vehicles using ethanol-blended petrol.",
+        "III. E20 petrol signifies 80% ethanol and 20% petrol.",
+        "IV. India has successfully achieved 20% ethanol blending in petrol in 2025, five years ahead of its original target set for",
+        "2030.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "Consider the following statements: I. Ethanol, when blended with petrol, reduces carbon monoxide emissions from vehicles. II. The unburnt hydrocarbon emission is reduced in vehicles using ethanol-blended petrol. III. E20 petrol signifies 80% ethanol and 20% petrol. IV. India has successfully achieved 20% ethanol blending in petrol in 2025, five years ahead of its original target set for 2030. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and IV only",
+        "b": "I, II and IV only",
+        "c": "I and II only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Ethanol Blended Petrol (EBP) Programme is a key initiative under India’s National Policy on Biofuels aimed at promoting cleaner fuels and reducing crude oil imports.\nStatements I and II are correct: Ethanol contains oxygen within its molecular structure, which facilitates more complete combustion of fuel in the engine. This leads to a significant reduction in incomplete combustion products, especially carbon monoxide (CO) and unburnt hydrocarbons.\nAs per a research, E20 (20% ethanol blending in petrol) showed that carbon monoxide emissions decreased by about 50% in two wheelers and about 30% in four wheelers by using E20 compared to E0. Also, the unburnt hydrocarbon emission is reduced by 20% in both two wheelers and passenger cars.\nStatement III is incorrect: E20 petrol, signifies 20% ethanol and 80% petrol. E5 : Five percent ethanol blended petrol E10 : Ten percent ethanol blended petrol E85 : Eighty-five percent ethanol blended petrol ED95 : Fuel with 95% ethanol & 5% ignition improver for modified diesel engines\n\nStatement IV is correct: India has successfully achieved 20% ethanol blending in petrol in 2025, five years ahead of its original target set for 2030. The ethanol blending in petrol has risen from just 1.5% in 2014 to 20% in 2025-a nearly thirteenfold increase over 11 years.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q13",
+      "questionNumber": 13,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The Honolulu Commitment (2011) is primarily associated with which of the following?"
+      ],
+      "questionText": "The Honolulu Commitment (2011) is primarily associated with which of the following?",
+      "options": {
+        "a": "Reduce the occurrence of marine debris, as well as the damage it causes to marine habitats.",
+        "b": "Targets and actions that need to be taken to decarbonize international shipping.",
+        "c": "Establishing a moratorium on deep-sea mining in international waters.",
+        "d": "Protecting migratory species of birds across the Pacific flyway."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The issue of marine litter gained formal international attention in 1995 with the adoption of the Global Programme of Action for the Protection of the Marine Environment from Land-based Activities. Over time, growing concerns about plastic pollution and marine debris led to more focused global initiatives, culminating in the Honolulu Commitment (2011), which specifically addressed the challenge of marine litter and its impacts on ocean ecosystems.\nHonolulu Commitment is related to establishing a cross-sectoral approach to help reduce the occurrence of marine debris, as well as the damage it causes to marine habitats, the global economy, biodiversity and human health.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q14",
+      "questionNumber": 14,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to cloud seeding, consider the following statements:",
+        "I. It is a technique used to modify suitable clouds with seed particles to promote rainfall.",
+        "II. For warm cloud seeding, the cloud temperature must be above freezing.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to cloud seeding, consider the following statements: I. It is a technique used to modify suitable clouds with seed particles to promote rainfall. II. For warm cloud seeding, the cloud temperature must be above freezing. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Cloud seeding is a weather modification technique in which specific substances are introduced into clouds to enhance precipitation by modifying the cloud’s microphysical processes. Thus, it is a technique “used to modify suitable clouds with ‘seed’ particles to increase rainfall.”\n\nStatement II is correct: For warm cloud seeding, the cloud temperature must be above freezing. For cold cloud seeding, the cloud must contain “supercooled” liquid water, which is water that remains a liquid despite having a temperature below freezing. The cloud must be at least −20°C to −7°C.\nIn warm clouds, seeding agents such as sodium chloride (NaCl) and calcium chloride (CaCl₂) act as hygroscopic nuclei (cloud condensation nuclei). Dry ice, silver iodide, and cupric sulfide are among the substances used as artificial ice nuclei in cold cloud seeding.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q15",
+      "questionNumber": 15,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "In the context of Environment, which of the following best describes ‘Smog-eating technology’, recently seen in the news?"
+      ],
+      "questionText": "In the context of Environment, which of the following best describes ‘Smog-eating technology’, recently seen in the news?",
+      "options": {
+        "a": "A thermal oxidation technique that burns suspended particles in the air to reduce overall smog concentration.",
+        "b": "A chemical bleaching process that reduces smog through reactions between atmospheric pollutants and chlorine- based compounds.",
+        "c": "A photocatalytic process that reduces air pollutants by applying special coatings such as Titanium Dioxide (TiO₂) on roads and buildings.",
+        "d": "A humidity-controlled mechanism that condenses air pollutants by increasing moisture levels in public spaces."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Smog-eating technology is a photocatalytic process that works on the principle of photocatalysis, where special coatings, primarily Titanium Dioxide (TiO₂), are applied on surfaces like roads, buildings, and pavements. When exposed to sunlight or UV light, TiO₂ acts as a catalyst and breaks down harmful pollutants such as NO₂ and VOCs into harmless by-products like nitrates, carbon dioxide, and water. This creates a self-cleaning effect and helps improve urban air quality.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q16",
+      "questionNumber": 16,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to the Green Climate Fund (GCF), consider the following statements:",
+        "I. It was established under the Paris Agreement of the United Nations Framework Convention on Climate Change",
+        "(UNFCCC).",
+        "II. All developing country Parties to UNFCCC are eligible to receive resources from the GCF in the form of grants, loans, equity, and guarantees.",
+        "III. Recently, the World Health Organization became one of the accredited entities of GCF, which makes it eligible to access GCF resources.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to the Green Climate Fund (GCF), consider the following statements: I. It was established under the Paris Agreement of the United Nations Framework Convention on Climate Change (UNFCCC). II. All developing country Parties to UNFCCC are eligible to receive resources from the GCF in the form of grants, loans, equity, and guarantees. III. Recently, the World Health Organization became one of the accredited entities of GCF, which makes it eligible to access GCF resources. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is incorrect. The Green Climate Fund (GCF) was not established under the Paris Agreement. Instead, it was established at COP 16 to the United Nations Framework Convention on Climate Change (UNFCCC) held in Cancun (2010).\nStatement II is correct. The Green Climate Fund aims to mobilize funding at scale to invest in low-emission and climate-resilient development. All developing country Parties to UNFCCC are eligible to receive resources from the GCF in the form of grants, loans, equity, and guarantees. The GCF has started approving projects/programmes to developing countries from 2015 onwards.\nStatement III is incorrect. Recently, the World Health Organization received accreditation from the Green Climate Fund, making it an Accredited Entity of the GCF. Access to GCF resources is through entities accredited by the GCF Board (Accredited Entities or AEs). The accreditation will unlock new funding to protect communities worldwide from the health impacts of climate change.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q17",
+      "questionNumber": 17,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "In the context of the Air (Prevention and Control of Pollution) Act, 1981, consider the following:",
+        "I. Any solid substance",
+        "II. Any liquid substance",
+        "III. Any gaseous substance",
+        "IV. Noise Which among the above will be included in the definition of air pollutant if they may be or tend to be injurious to human beings or other living creatures, plants, or property or environment?"
+      ],
+      "questionText": "In the context of the Air (Prevention and Control of Pollution) Act, 1981, consider the following: I. Any solid substance II. Any liquid substance III. Any gaseous substance IV. Noise Which among the above will be included in the definition of air pollutant if they may be or tend to be injurious to human beings or other living creatures, plants, or property or environment?",
+      "options": {
+        "a": "III only",
+        "b": "I, II and III only",
+        "c": "I, II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Air (Prevention and Control of Pollution) Act, 1981 is an environmental legislation enacted to prevent, control, and abate air pollution in India.\nOptions I, II, III and IV are correct. Air pollutant under the Act means any solid, liquid or gaseous substance including noise present in the atmosphere in such concentration as may be or tend to be injurious to human beings or other living creatures or plants or property or environment;",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q18",
+      "questionNumber": 18,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. The Global Geoparks Network, an intergovernmental body, gives recognition to sites as Global Geoparks.",
+        "II. India currently has no site designated as a Global Geopark.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: I. The Global Geoparks Network, an intergovernmental body, gives recognition to sites as Global Geoparks. II. India currently has no site designated as a Global Geopark. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** UNESCO Global Geoparks are single, unified geographical areas where sites and landscapes of international geological significance are managed with a holistic concept of protection, education and sustainable development.\nStatement I is incorrect. Sites are recognized as Global Geoparks, and they become part of Global Geopark Network by the United Nations Educational, Scientific and Cultural Organization (UNESCO).\nWhile the Global Geoparks Network is a non-profit international association, it operates under the aegis of UNESCO (specifically the International Geoscience and Geoparks Programme).\nStatement II is correct. Currently, India has no site designated as a UNESCO Global Geopark. Organizations such as the Geological Survey of India (GSI) and INTACH have identified and proposed several potential candidates—including the volcanic \"columnar basalt\" at St. Mary’s Island and the \"Erra Matti Dibbalu\" (red sand dunes) in Visakhapatnam—but official recognition from UNESCO is still awaited.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q19",
+      "questionNumber": 19,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "India’s Nationally Determined Contributions (NDCs) for 2031-35 are guided by the vision of Viksit Bharat. In this context, consider the following commitments:",
+        "I. To reduce the emissions intensity of its GDP by 47 per cent by 2035 from 2005 level.",
+        "II. To achieve 75 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by",
+        "2035",
+        "III. To achieve net-zero greenhouse gas emissions by 2047.",
+        "IV. To create a Carbon Sink of 3.5 to 4.0 billion tonnes of CO₂ eq. through Forest and Tree Cover by 2035 from 2005 level.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "India’s Nationally Determined Contributions (NDCs) for 2031-35 are guided by the vision of Viksit Bharat. In this context, consider the following commitments: I. To reduce the emissions intensity of its GDP by 47 per cent by 2035 from 2005 level. II. To achieve 75 percent cumulative electric power installed capacity from non-fossil fuel-based energy resources by 2035 III. To achieve net-zero greenhouse gas emissions by 2047. IV. To create a Carbon Sink of 3.5 to 4.0 billion tonnes of CO₂ eq. through Forest and Tree Cover by 2035 from 2005 level. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I, II and III only",
+        "b": "I and IV only",
+        "c": "II and IV only",
+        "d": "I, II, III and IV"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** In a significant step towards strengthening India’s action, the Union Cabinet has approved India’s Nationally Determined Contribution (NDC) for the period 2031 to 2035, enhancing the country’s ambition under the UNFCCC and its Paris Agreement while reinforcing its commitment to sustainable development and climate justice.\nStatement I is correct. India has enhanced its emissions intensity reduction target from earlier commitments and now aims to achieve around 47% reduction by 2035 (from 2005 levels).\nStatement II is incorrect. India has already made substantial progress in renewable energy and has now set a higher target of around 60% non-fossil fuel-based installed power capacity by 2035.\nStatement III is incorrect. India’s officially declared net-zero target is 2070, not 2047. It is a separate, long-term pledge announced at COP26 of UNFCCC.\nStatement IV is correct. India aims to enhance its carbon sink through afforestation and ecosystem restoration, targeting 3.5–4.0 billion tonnes of CO₂ equivalent.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q20",
+      "questionNumber": 20,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to wildlife species in India, consider the following pairs:",
+        "Species IUCN Red List Status",
+        "I. Asian Giant Tortoise Vulnerable",
+        "II. Nilgiri Tahr Critically Endangered",
+        "III. Asian Palm Civet Endangered",
+        "How many of the pairs given above are correctly matched?"
+      ],
+      "questionText": "With reference to wildlife species in India, consider the following pairs: Species IUCN Red List Status I. Asian Giant Tortoise Vulnerable II. Nilgiri Tahr Critically Endangered III. Asian Palm Civet Endangered How many of the pairs given above are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n** Pair I is incorrect: Asian Giant Tortoise —\n- IUCN Status: Critically Endangered (not Vulnerable)\n- The Asian Giant Tortoise (Manouria emys) is the largest tortoise in mainland Asia.\n- It is considered one of the most primitive tortoise species.\n- Distribution: India (Assam, Meghalaya, Mizoram), Bangladesh, Myanmar, Thailand, Malaysia, and Indonesia (Borneo, Sumatra).\n- Habitat: Tropical and subtropical moist evergreen forests, bamboo forests, and swamp edges at 600–1,500 m altitude.\n- Ecological roles: Seed dispersal, Soil aeration through digging, Vegetation control through grazing, etc.\n- Unique nesting behaviour: Females build above-ground nests using leaves, and guard them for several days,\nrare among tortoises. Pair II is incorrect: Nilgiri Tahr —\n- IUCN Status: Endangered (not Critically Endangered)\n- The Nilgiri Tahr (Nilgiritragus hylocrius) is a mountain ungulate endemic to the southern Western Ghats.\n- Also known as Nilgiri Ibex or Varayaadu locally.\n- It is the only mountain ungulate found in southern India.\n- Major habitats: Eravikulam National Park (largest population), Silent Valley, Nilgiri Hills and Anamalai Range-Threats: Habitat fragmentation, hunting in the past, competition with domestic livestock, and road/windmill development in grasslands.\n- Latest survey (2024–25): A joint Kerala–Tamil Nadu census recorded 2,668 individuals. Pair III is incorrect: Asian Palm Civet —\n- IUCN Status: Least Concern (not Endangered)\n- The Asian Palm Civet (Paradoxurus hermaphroditus) is commonly known as the Toddy Cat.\n- Distribution: Widely found across South and Southeast Asia — India, Sri Lanka, China, Indonesia, and the Philippines.\n- Physical characteristics:\no Long, slender body o Brownish-grey fur with black spots o Distinctive white mask-like facial markings-Behavioural traits: o Nocturnal and solitary o Excellent climber o Omnivorous — feeds on fruits, insects, small mammals o Known for producing “civet coffee” (Kopi Luwak) by digesting and excreting coffee beans.\n- Habitat adaptability: Thrives in forests, plantations, agricultural fields, and even urban areas. Therefore, all three pairs are incorrectly matched.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q21",
+      "questionNumber": 21,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements:",
+        "1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and",
+        "State levels.",
+        "2. People’s participation is mandatory in the compensatory afforestation programmes carried out under the",
+        "Compensatory Afforestation Fund Act, 2016.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements: 1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels. 2. People’s participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "1 only",
+        "b": "2 only",
+        "c": "Both 1 and 2",
+        "d": "Neither 1 nor 2"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Option a is the correct answer..\n\nStatement 1 is correct. The central government constituted the Compensatory Afforestation Fund Management and Planning Authority (CAMPA) for the management of money towards compensatory afforestation, and other money recoverable, in compliance of the conditions stipulated by the central government and in accordance with the Forest (Conservation) Act.\nThe Compensatory Afforestation Fund Act 2016, establishes the National and State Compensatory Afforestation Fund Management and Planning Authorities to manage the National and State Funds.\nStatement 2 is incorrect. There is no mention in the Compensatory Afforestation Fund Act, 2016 that People’s participation is mandatory in the compensatory afforestation programmes carried out under the act.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2019,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2019"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q22",
+      "questionNumber": 22,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Solar PV potential is the estimated maximum electricity a region can generate using solar photovoltaic technology. In this context, arrange the following states in descending order as per their estimated ground-mounted",
+        "Solar Photovoltaic (PV) potential:",
+        "I. Rajasthan",
+        "II. Gujarat",
+        "III. Maharashtra",
+        "IV. Madhya Pradesh",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "Solar PV potential is the estimated maximum electricity a region can generate using solar photovoltaic technology. In this context, arrange the following states in descending order as per their estimated ground-mounted Solar Photovoltaic (PV) potential: I. Rajasthan II. Gujarat III. Maharashtra IV. Madhya Pradesh Select the correct answer using the code given below:",
+      "options": {
+        "a": "I – II – III - IV",
+        "b": "I – III – IV - II",
+        "c": "I - III - II - IV",
+        "d": "I - II - IV -III"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** A recent geospatial assessment conducted by the National Institute of Solar Energy under the Ministry of New and Renewable Energy estimated India’s ground-mounted Solar Photovoltaic (PV) potential by analysing factors such as solar irradiance, availability of wasteland, terrain suitability, and infrastructure accessibility. The study estimates that India has a total ground-mounted Solar PV potential of about 3,343 GWp.\n- Among the given states, Rajasthan possesses the highest estimated ground-mounted Solar PV potential of about 828.78 GWp. This is mainly due to its vast desert landscapes, large stretches of wasteland, high solar radiation, and favourable climatic conditions, which make it highly suitable for large-scale solar installations.\n- It is followed by Maharashtra, which has an estimated Solar PV potential of about 486.68 GWp. The state has significant land availability and favourable solar resource conditions, allowing substantial scope for large-scale solar power development.\n- It is followed by Madhya Pradesh, which has an estimated Solar PV potential of about 318.97 GWp and finally Gujarat , which has an estimated Solar PV potential of about 243.22 GWp Therefore, in descending order of estimated ground-mounted Solar PV potential, the correct sequence is:\nRajasthan → Maharashtra → Madhya Pradesh → Gujarat (I – III – IV-II). Therefore, the correct answer is: b) I – III – IV-II.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q23",
+      "questionNumber": 23,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The Global Programme of Action (GPA), which aims to prevent marine environmental degradation from land- based activities, is an initiative of:"
+      ],
+      "questionText": "The Global Programme of Action (GPA), which aims to prevent marine environmental degradation from land- based activities, is an initiative of:",
+      "options": {
+        "a": "United Nations Educational, Scientific and Cultural Organization (UNESCO)",
+        "b": "International Seabed Authority (ISA)",
+        "c": "International Whaling Commission (IWC)",
+        "d": "United Nations Environment Programme (UNEP)"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.\n\n**\n\nOption d is correct: The Global Programme of Action (GPA) is an initiative of the United Nations Environment Programme (UNEP). It aims at preventing the degradation of the marine environment from land-based activities by facilitating the realization of the duty of States to preserve and protect the marine environment. The GPA is the only global intergovernmental mechanism directly addressing the connectivity between terrestrial, freshwater, coastal and marine ecosystems.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q24",
+      "questionNumber": 24,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements with reference to the Sustainable Development Report 2025:",
+        "I. It is published by the United Nations Development Programme.",
+        "II. India, for the first time, has been ranked among the top 10 countries in the Sustainable Development Report.",
+        "Which of the statements given above is/ are correct?"
+      ],
+      "questionText": "Consider the following statements with reference to the Sustainable Development Report 2025: I. It is published by the United Nations Development Programme. II. India, for the first time, has been ranked among the top 10 countries in the Sustainable Development Report. Which of the statements given above is/ are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The Sustainable Development Report 2025 assesses global progress on achieving the Sustainable Development Goals (SDGs) and highlights persistent gaps across regions.\nStatement I is incorrect: The Sustainable Development Report 2025 is not published by the United Nations Development Programme. It is published by the UN Sustainable Development Solutions Network (SDSN). The UNDP publishes the Human Development Report — an entirely separate flagship publication.\nStatement II is incorrect: India has been ranked among the top 100 countries in the Sustainable Development Report for the first time since this data began to be published by the Sustainable Development Solutions Network (SDSN) since 2016. India ranked 99th out of 167 countries (with a score of 67) — its first-ever entry into the top 100. In the 2024 edition India was ranked 109 th . India’s neighbour’s ranking in 2025: Bhutan-74 th Nepal-85 th Maldives-53 rd Sri Lanka-93 rd Pakistan-140 th Bangladesh-114 th Finland ranked first followed by Sweden at 2 nd place and Denmark at the 3 rd place. USA ranked last (193 rd ) for the second consecutive year in 2025.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q25",
+      "questionNumber": 25,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to an organization known as ‘BirdLife International’, which of the following statements is/are correct?",
+        "1. It is a Global Partnership of Conservation Organizations.",
+        "2. The concept of ‘biodiversity hotspots’ originated from this organization.",
+        "3. It identifies the sites known/referred to as ‘Important Bird and Biodiversity Areas’.",
+        "Select the correct answer using the code given below."
+      ],
+      "questionText": "With reference to an organization known as ‘BirdLife International’, which of the following statements is/are correct? 1. It is a Global Partnership of Conservation Organizations. 2. The concept of ‘biodiversity hotspots’ originated from this organization. 3. It identifies the sites known/referred to as ‘Important Bird and Biodiversity Areas’. Select the correct answer using the code given below.",
+      "options": {
+        "a": "1 only",
+        "b": "2 and 3 only",
+        "c": "1 and 3 only",
+        "d": "1, 2 and 3"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement 1 is correct: BirdLife International is a global partnership of conservation organisations that strives to conserve birds, their habitats and global biodiversity, working with people towards sustainability in the use of natural resources.\nStatement 2 is incorrect: In 1988, British ecologist Norman Myers published a seminal paper identifying 10 tropical forest “hotspots.” These regions were characterized both by exceptional levels of plant endemism and serious levels of habitat loss.\nStatement 3 is correct The Important Bird and Biodiversity Areas (IBA) programme of Birdlife International aims to identify, monitor and protect a global network of IBAs for conservation of the world’s birds and associated biodiversity.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2015,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2015"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q26",
+      "questionNumber": 26,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "In the context of the Environment Protection Fund, 2026, in India, consider the following statements:",
+        "I. The monetary penalties collected under the Air (Prevention and Control of Pollution) Act, 1981 are credited into the fund.",
+        "II. The Chairman of the Central Pollution Control Board is the ex-officio administrator for the administration of the",
+        "Fund.",
+        "III. The accounts of the Fund are audited by the Comptroller and Auditor- General of India.",
+        "Which of the statements given above are correct?"
+      ],
+      "questionText": "In the context of the Environment Protection Fund, 2026, in India, consider the following statements: I. The monetary penalties collected under the Air (Prevention and Control of Pollution) Act, 1981 are credited into the fund. II. The Chairman of the Central Pollution Control Board is the ex-officio administrator for the administration of the Fund. III. The accounts of the Fund are audited by the Comptroller and Auditor- General of India. Which of the statements given above are correct?",
+      "options": {
+        "a": "I and III only",
+        "b": "I and II only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Environmental Protection Fund has been created under the Environment (Protection) Act, 1986. The framework for its operation is provided under the Environmental (Protection) Fund Rules, 2026. The creation of the Environmental Protection Fund was enabled by the Jan Vishwas Act, 2023.\nStatement I is correct. The EPF is credited with penalties collected under various environmental laws, including the Air (Prevention and Control of Pollution) Act, 1981, Water (Prevention and Control of Pollution) Act, 1974 and the Environment (Protection) Act, 1986 (29 of 1986);\nStatement II is incorrect. As per the definition under the Environmental (Protection) Fund Rules, 2026\n- “Administrator” means the Ministry of Environment, Forest and Climate Change or any body as notified by the Central\nGovernment. The rule further says the Central Government shall notify the administrator for the administration of the Fund and other matters connected therewith and incidental thereto in such manner, as may be prescribed.\nThus, the Chairman of the Central Pollution Control Board is not the ex-officio administrator for the administration of the Fund.\n\nStatement III is correct. The accounts of the Environmental Protection Fund are audited by the Comptroller and Auditor General (CAG) of India, ensuring transparency, accountability, and proper financial oversight of the fund’s utilisation.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q27",
+      "questionNumber": 27,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "India’s first indigenously developed 1 MW Green Hydrogen Power Plant (GHPP) was recently commissioned at",
+        "which of the following ports?"
+      ],
+      "questionText": "India’s first indigenously developed 1 MW Green Hydrogen Power Plant (GHPP) was recently commissioned at which of the following ports?",
+      "options": {
+        "a": "Jawaharlal Nehru Port, Maharashtra",
+        "b": "Deendayal Port, Gujarat",
+        "c": "V.O. Chidambaranar Port, Tamil Nadu",
+        "d": "Visakhapatnam Port, Andhra Pradesh"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** India’s first indigenously built 1 MW Green Hydrogen Power Plant (GHPP) was commissioned at Deendayal Port (Kandla), Gujarat. The plant is capable of producing approximately 140 metric tonnes of green hydrogen annually and is poised to play a crucial role in maritime decarbonisation and sustainable port operations. It is a core component of the National Green Hydrogen Mission and Maritime India Vision 2030, aimed at maritime decarbonization.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q28",
+      "questionNumber": 28,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements with respect to the Green Hydrogen Certification Scheme of India (GHCI):",
+        "I. The Ministry of New and Renewable Energy has launched this certification scheme.",
+        "II. It aims to promote the production and use of Green Hydrogen and ensure that the hydrogen produced is genuinely green and contributes to reducing carbon emissions.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements with respect to the Green Hydrogen Certification Scheme of India (GHCI): I. The Ministry of New and Renewable Energy has launched this certification scheme. II. It aims to promote the production and use of Green Hydrogen and ensure that the hydrogen produced is genuinely green and contributes to reducing carbon emissions. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: The Ministry of New and Renewable Energy (MNRE) launched the Green Hydrogen Certification Scheme of India (GHCI). The scheme is a foundational step towards creating a robust framework for certifying green hydrogen production and ensuring transparency, traceability, and market credibility.\nStatement II is correct: The Green Hydrogen Certification Scheme in India (GHCI) aims to promote the production and use of Green Hydrogen, which is generated from renewable energy sources.\nThe objective of the scheme is designed to facilitate the development of a market in India, ensuring that hydrogen produced is genuinely green and contributes to reducing carbon emissions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q29",
+      "questionNumber": 29,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements about the ‘Sevilla Commitment’, recently seen in the news:",
+        "I. It was adopted at COP30 of the United Nations Climate Change Conference, held in Belém, Brazil.",
+        "II. It lays out a path to close the estimated $4 trillion annual Sustainable Development Goals (SDG) financing gap in developing countries.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the ‘Sevilla Commitment’, recently seen in the news: I. It was adopted at COP30 of the United Nations Climate Change Conference, held in Belém, Brazil. II. It lays out a path to close the estimated $4 trillion annual Sustainable Development Goals (SDG) financing gap in developing countries. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.\n\n**\n\nStatement I is incorrect: The Sevilla Commitment was adopted at the Fourth International Conference on Financing for Development (FfD4), held in Sevilla, Spain, from June 30 to July 3, 2025. COP30 (2025) was held in Belem, Brazil, and focused primarily on accelerating the implementation of climate actions to keep the 1.5°C temperature target within reach and forest conservation.\nStatement II is correct: The Sevilla Commitment relates to efforts aimed at addressing the financing gap for achieving Sustainable Development Goals (SDGs) in developing countries. The primary objective of the Sevilla Commitment is to bridge the estimated $4 trillion annual financing gap required for developing countries to achieve the Sustainable Development Goals (SDGs) by 2030.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q30",
+      "questionNumber": 30,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "What is the correct sequence of occurrence of the following geographical features as one proceeds from south to north?",
+        "I. Kamchatka Peninsula",
+        "II. Lake Turkana",
+        "III. Tirah Valley",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "What is the correct sequence of occurrence of the following geographical features as one proceeds from south to north? I. Kamchatka Peninsula II. Lake Turkana III. Tirah Valley Select the correct answer using the code given below:",
+      "options": {
+        "a": "II-I-III",
+        "b": "III-II-I",
+        "c": "II-III-I",
+        "d": "I-II-III"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Option I: Kamchatka Peninsula is a peninsula in far eastern Russia, lying between the Sea of Okhotsk (west) and the Pacific Ocean & Bering Sea (east) Option II: Lake Turkana is Saline lake in northern Kenya, extending into Ethiopia. It lies in the eastern arm of Africa’s Rift Valley (East African Rift System).\nOption III: Tirah Valley is a rugged mountainous region in west-central Khyber Pakhtunkhwa, along the Afghanistan-Pakistan border. It lies between the Khyber Pass and Khanki Valley.\nSo, the correct sequence of occurrence from south to north is: Lake Turkana-Tirah Valley-Kamchatka Peninsula.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q31",
+      "questionNumber": 31,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries’ transition towards greener and more inclusive economies, emerged at"
+      ],
+      "questionText": "The Partnership for Action on Green Economy (PAGE), a UN mechanism to assist countries’ transition towards greener and more inclusive economies, emerged at",
+      "options": {
+        "a": "The Earth Summit on Sustainable Development 2002, Johannesburg",
+        "b": "The United Nations Conference on Sustainable Development 2012, Rio de Janeiro",
+        "c": "The United Nations Framework Convention on Climate change 2015, Paris",
+        "d": "The World Sustainable Development Summit 2016, New Delhi"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The Partnership for Action on Green Economy (PAGE) was launched in 2013 as a response to the call at United Nations Conference on Sustainable Development 2012 Rio+20 to support those countries wishing to embark on greener and more inclusive growth trajectories. PAGE seeks to put sustainability at the heart of economic policies and practices to advance the 2030 Agenda for Sustainable Development. It brings together the expertise of five UN agencies – UNEP, ILO, UNIDO, UNDP and UNITAR – and working closely with national governments.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2018,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2018"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q32",
+      "questionNumber": 32,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to the Ramsar sites of India, consider the following information:",
+        "Ramsar Site State Associated river",
+        "I. Patna Bird Sanctuary Bihar Ganga",
+        "II. Chhari-Dhand Rajasthan Luni",
+        "III. Khichan Wetland Gujarat Sabarmati",
+        "IV. Kopra Jalashay Chhattisgarh Mahanadi In which of the above rows is the given information correctly matched?"
+      ],
+      "questionText": "With reference to the Ramsar sites of India, consider the following information: Ramsar Site State Associated river I. Patna Bird Sanctuary Bihar Ganga II. Chhari-Dhand Rajasthan Luni III. Khichan Wetland Gujarat Sabarmati IV. Kopra Jalashay Chhattisgarh Mahanadi In which of the above rows is the given information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Ramsar sites are wetlands of international importance designated under the Ramsar Convention. India became a signatory to the convention in 1982. As of March 2026, India has 98 Ramsar sites.\nRow I is incorrect. Patna Bird Sanctuary is located in Etah district of Uttar Pradesh. Patna Bird Sanctuary is particularly important in supporting waterbird populations and has been designated an Important Bird and Biodiversity Area (IBA) by BirdLife International.\nRow II is incorrect. The Chhari-Dhandh Wetland Conservation Reserve in Gujarat’s Kachchh district was designated as a Ramsar Site. It lies at the confluence of tropical thorn forest, Banni grassland and the Little Rann landscape. This convergence of ecosystems supports diverse habitats and rich floral and faunal assemblages critical to ecological balance.\nRow III is incorrect. Khichan Wetland is a Ramsar site located in Rajasthan (Phalodi district), not Gujarat. It is associated with local water bodies such as Ratri Nadi and Vijaysagar Talab, not the Sabarmati River. The site is especially recognised for hosting large wintering flocks of migratory demoiselle cranes (locally known as Kurjan), making up over 22,000 individuals each year.\nRow IV is correct. Kopra Jalashay, located near Bilaspur in Chhattisgarh, is a reservoir-type wetland situated in the upper catchment of the Mahanadi River. Notable fauna found in the area include the vulnerable greater spotted eagle and the endangered Egyptian vulture.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q33",
+      "questionNumber": 33,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements about the GOBAR-DHAN (Galvanizing Organic Bio-Agro Resources–Dhan)",
+        "Scheme:",
+        "I. It is an integral component of Solid Waste Management under the Swachh Bharat Mission (Grameen).",
+        "II. One of the advantages of the scheme is it promotes a circular economy.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "Consider the following statements about the GOBAR-DHAN (Galvanizing Organic Bio-Agro Resources–Dhan) Scheme: I. It is an integral component of Solid Waste Management under the Swachh Bharat Mission (Grameen). II. One of the advantages of the scheme is it promotes a circular economy. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The GOBAR-DHAN (Galvanizing Organic Bio-Agro Resources – Dhan) Scheme is an important rural initiative that reflects the shift from waste management to resource recovery. It is anchored within the broader framework of Swachh Bharat Mission (Grameen) and focuses on converting organic and cattle waste into economic and energy resources.\nStatement I is correct: GOBARdhan is an integral component of Solid Waste Management under the Swachh Bharat Mission (Grameen) for ensuring cleanliness in villages by converting cattle dung, kitchen leftovers etc. into biogas and bio-slurry.\nStatement II is correct. The GOBAR-DHAN scheme promotes a circular economy by transforming biodegradable waste—such as cattle dung and agricultural residues—into valuable resources like compressed biogas (CBG) and organic manure. This approach converts \"waste to wealth,\" reducing environmental pollution while providing renewable energy and agricultural inputs, thereby fostering sustainable rural development.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q34",
+      "questionNumber": 34,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to Coal Gasification, which of the following statements is/are correct?",
+        "I. It is a process that converts coal into syn gas, that primarily contain carbon monoxide and hydrogen.",
+        "II. The Government of India has launched the National Coal Gasification Mission with a target of 100 million tonnes of gasification by 2030.",
+        "III. The high ash content of Indian coal makes it more suitable for coal gasification.",
+        "Select the correct answer using the code given below:"
+      ],
+      "questionText": "With reference to Coal Gasification, which of the following statements is/are correct? I. It is a process that converts coal into syn gas, that primarily contain carbon monoxide and hydrogen. II. The Government of India has launched the National Coal Gasification Mission with a target of 100 million tonnes of gasification by 2030. III. The high ash content of Indian coal makes it more suitable for coal gasification. Select the correct answer using the code given below:",
+      "options": {
+        "a": "I and II only",
+        "b": "III only",
+        "c": "I and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Coal gasification is an important clean coal technology that converts solid coal into a gaseous fuel (syngas) through partial oxidation at high temperatures. It is increasingly being promoted in India to reduce dependence on crude oil imports and enhance value addition from domestic coal resources.\nStatement I is correct. Coal gasification involves the conversion of coal into synthesis gas (syngas), which primarily contains carbon monoxide (CO) and hydrogen-rich gases. This transformation allows coal to be used in a cleaner and more versatile form, compared to direct combustion. Syngas is a highly versatile intermediate product. It can be further processed to produce methanol, ammonia (used in fertilizers), synthetic fuels, and various petrochemicals. This makes coal gasification a key technology for diversifying energy and chemical production pathways.\nStatement II is correct: Coal gasification will be pivotal in strengthening India’s energy security, reducing import dependence, and supporting industrial growth. To promote its adoption, the Government of India has launched the National Coal Gasification Mission with a target of 100 million tonnes of gasification by 2030. An incentive framework has been introduced to support public and private sector projects.\nStatement III is incorrect. The high ash content of Indian coal is a crucial barrier in the development of suitable coal gasification technology.\nThough it is not entirely unsuitable for gasification. Instead, specific technologies such as fluidized bed gasifiers and advanced gasification systems have been developed to handle such coal. In fact, India is actively promoting coal gasification precisely to utilise its abundant high-ash coal reserves more efficiently, despite the associated technical challenges.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q35",
+      "questionNumber": 35,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to Government schemes in India, consider the following information:",
+        "Scheme Ministry Primary Objective",
+        "I. Prime Minister Dhan- Dhaanya Krishi Yojana (PM- DDKY) Ministry of Agriculture & Farmers Welfare",
+        "To promote food processing infrastructure and agro-industries",
+        "II. Pradhan Mantri Viksit Bharat Rozgar Yojana Ministry of Labour & Employment To support large-scale job creation through incentives to employees and employers",
+        "III. Pradhan Mantri Gram Sadak Yojana (PMGSY) Ministry of Road Transport & Highways To provide all-weather road connectivity to rural habitations",
+        "In",
+        "how many of the above rows is the information correctly matched?"
+      ],
+      "questionText": "With reference to Government schemes in India, consider the following information: Scheme Ministry Primary Objective I. Prime Minister Dhan- Dhaanya Krishi Yojana (PM- DDKY) Ministry of Agriculture & Farmers Welfare To promote food processing infrastructure and agro-industries II. Pradhan Mantri Viksit Bharat Rozgar Yojana Ministry of Labour & Employment To support large-scale job creation through incentives to employees and employers III. Pradhan Mantri Gram Sadak Yojana (PMGSY) Ministry of Road Transport & Highways To provide all-weather road connectivity to rural habitations In how many of the above rows is the information correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "All the three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Information in row I is incorrect: Prime Minister Dhan-Dhaanya Krishi Yojana (PM-DDKY): The PM-DDKY is administered by the Ministry of Agriculture & Farmers Welfare.\n- Announced in the Union Budget 2025–26, it is a first-of-its-kind programme focused exclusively on agriculture and allied sectors.\n- The scheme seeks to uplift 100 low-performing districts that lag in productivity, cropping intensity, and credit uptake.\n- Its objectives include raising agricultural productivity, encouraging crop diversification, promoting sustainable agricultural practices, improving local post-harvest storage capacity, enhancing irrigation facilities, and increasing access to both long-term and short-term credit.\nThe objective mentioned in the question ‘promotion of food processing infrastructure and agro-industries’, belongs to schemes such as PM-Kisan Sampada Yojana (KSY), not PM-DDKY.\nInformation in row II is correct: Pradhan Mantri Viksit Bharat Rozgar Yojana: The Pradhan Mantri Viksit Bharat Rozgar Yojana has been launched by the Ministry of Labour & Employment.\n- Announced on 15 August, the scheme is designed to generate over 3.5 crore jobs in two years through a dual incentive mechanism.\no Part A targets first-time employees registered under EPFO, offering incentives up to ₹15,000 in two installments to support job retention and promote financial literacy and savings habits. o Part B incentivizes employers by providing up to ₹3,000 per employee per month for newly created jobs, with extended incentives for manufacturing units for up to four years.\nInformation in row III is incorrect: Pradhan Mantri Gram Sadak Yojana (PMGSY): The PMGSY functions under the Ministry of Rural Development, and not by Ministry of Road Transport & Highways. It is implemented by National Rural Infrastructure Development Agency (NRIDA) & State Governments-The scheme, launched in 2000, aims to provide all-weather road connectivity to unconnected rural habitations.\n- It is a Centrally Sponsored Scheme with a funding pattern of 60:40 for general states and 90:10 for NE and Himalayan states.\n- The scheme has progressed through three phases: Phase I focused on connecting 1.35 lakh habitations; Phase II upgraded existing rural roads; and Phase III aimed at consolidating 1.25 lakh km of rural road networks to improve access to agricultural markets (GrAMs), schools, and hospitals.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q36",
+      "questionNumber": 36,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to Corporate Average Fuel Efficiency (CAFE) norms in India, consider the following statements:",
+        "I. The primary objective the norms is to promote the replacement of coal-based electricity with solar energy in industrial and commercial establishments.",
+        "II. CAFE norms are notified under the Energy Conservation Act, 2001.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Corporate Average Fuel Efficiency (CAFE) norms in India, consider the following statements: I. The primary objective the norms is to promote the replacement of coal-based electricity with solar energy in industrial and commercial establishments. II. CAFE norms are notified under the Energy Conservation Act, 2001. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I only",
+        "b": "II only",
+        "c": "Both I and II",
+        "d": "Neither I nor II"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** India’s transport sector has increasingly come under policy focus due to its growing contribution to energy demand and emissions. In this context, CAFE norms represent a regulatory push towards improving fuel efficiency of vehicles at a systemic level, rather than targeting individual models. These norms align with India’s broader goals of energy conservation, reduced oil imports, and lower carbon emissions.\nStatement I is incorrect. The objective of CAFE norms is not related to replacing coal-based electricity with solar energy. Instead, their core purpose is to reduce fuel consumption and improve energy efficiency in the transport sector, particularly for passenger cars. By lowering fuel consumption, these norms help in reducing crude oil imports and vehicular emissions, which is critical for India’s energy security and environmental commitments.\nStatement II is correct. CAFE norms have been notified under the Energy Conservation Act, 2001 by the Ministry of Power, in consultation with the Bureau of Energy Efficiency. They set fleet-level fuel consumption targets for manufacturers, meaning compliance is assessed based on the average fuel efficiency of all vehicles sold in a given year. This approach ensures that manufacturers adopt overall efficiency improvements across their product portfolio.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q37",
+      "questionNumber": 37,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to Globally Important Agricultural Heritage Systems (GIAHS), consider the following statements:",
+        "I. These are designated by the Food and Agriculture Organization.",
+        "II. One of its goals is to provide Geographical Indication status to all the varieties of agricultural produce in such identified GIAHS.",
+        "III. The Koraput Traditional Agriculture System (Odisha) and the Kuttanad Below Sea Level Farming System (Kerala) are recognised as GIAHS sites in India.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to Globally Important Agricultural Heritage Systems (GIAHS), consider the following statements: I. These are designated by the Food and Agriculture Organization. II. One of its goals is to provide Geographical Indication status to all the varieties of agricultural produce in such identified GIAHS. III. The Koraput Traditional Agriculture System (Odisha) and the Kuttanad Below Sea Level Farming System (Kerala) are recognised as GIAHS sites in India. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I, II and III",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "I and III only"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** As informed by Food and Agriculture Organization (FAO), India currently hosts three Globally Important Agricultural Heritage Systems (GIAHS): the Koraput region in Odisha, the Kuttanad farming system in Kerala, and the Saffron Heritage of Kashmir.\nStatement I is correct: Globally Important Agricultural Heritage Systems (GIAHS) are identified and designated by the Food and Agriculture Organization (FAO) of the United Nations. The program was started in 2002 to promote and safeguard remarkable agricultural systems that contribute to sustainable development and food security while preserving traditional knowledge and biodiversity.\nStatement II is incorrect: A GIAHS is a living, evolving system of human communities in an intricate relationship with their territory, cultural or agricultural landscape or biophysical and wider social environment. Therefore, it is about traditional agricultural systems.\nIts goal is not to provide a geographical indication status to the agricultural produce in GIAHS.\n\nStatement III is correct: India currently has three recognized GIAHS sites. Koraput Traditional Agriculture System in Odisha is recognized for its unique biodiversity and the traditional knowledge of tribal communities in managing forest and agricultural resources. The Kuttanad Below Sea Level Farming System in Kerala is world-renowned for its unique practice of rice cultivation below sea level, which has been practiced for over 150 years. The third site in India is the Saffron Heritage of Kashmir.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q38",
+      "questionNumber": 38,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following statements:",
+        "I. Lowering of groundwater tables in the surrounding areas.",
+        "II. Loss of aquatic habitats and threat to fish breeding grounds.",
+        "III. Decrease in the turbidity levels of the river water.",
+        "IV. Change in natural water flow.",
+        "How many of the above are environmental implications of unrestricted sand mining from riverbeds?"
+      ],
+      "questionText": "Consider the following statements: I. Lowering of groundwater tables in the surrounding areas. II. Loss of aquatic habitats and threat to fish breeding grounds. III. Decrease in the turbidity levels of the river water. IV. Change in natural water flow. How many of the above are environmental implications of unrestricted sand mining from riverbeds?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "All the four"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.\n\n**\n\nStatement I is correct: Sand acts as a natural sponge that helps in groundwater recharge. When sand is removed excessively, the riverbed is lowered (channel incision), which causes the water table in the surrounding areas to drop as groundwater flows towards the lowered riverbed to maintain equilibrium.\nStatement II is correct: Sand mining destroys the benthic (bottom-dwelling) habitats and spawning grounds of fish. The physical disturbance of the riverbed removes the substrate necessary for aquatic plants and microorganisms, which form the base of the aquatic food web.\nExample: As per the Zoological Survey of India Telangana's fish diversity, the highest among states in the Godavari River basin, is under significant threat due to sand mining. It identified sand mining as a major threat to breeding grounds of game fish species such as Labeo fimbriatus, Tor khudree, Pangasius pangasius, and Silonia childreni.\nStatement III is incorrect: Turbidity refers to the cloudiness or haziness of water caused by suspended particles. Sand mining increases turbidity rather than decreasing it. The process of scooping and dredging stirs up fine silt and mud, which stay in suspension, reducing sunlight penetration and harming aquatic life by clogging fish gills.\nStatement IV is correct: Sand mining causes riverbed degradation and channel instability. It alters the natural longitudinal profile of the river, changing the flow velocity and direction.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q39",
+      "questionNumber": 39,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "The initiatives L.I.V.E.S. and ARTHA, recently seen in the news, are primarily associated with:"
+      ],
+      "questionText": "The initiatives L.I.V.E.S. and ARTHA, recently seen in the news, are primarily associated with:",
+      "options": {
+        "a": "Guide for sustainable mine closure and a green financing framework for repurposing de-coaled mines.",
+        "b": "Rehabilitation of degraded forests and carbon credit mobilisation under afforestation programmes.",
+        "c": "Restoration of polluted river basins and prioritisation of watershed-based green investments.",
+        "d": "Sustainable urban redevelopment through circular economy and climate-resilient infrastructure financing."
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The Ministry of Coal launched two frameworks, L.I.V.E.S. and ARTHA, aimed at addressing the environmental and economic challenges of coal mine closures in India.\nL.I.V.E.S. is a comprehensive practitioner’s guide formulated to serve as a benchmark for responsible and sustainable mine closures. The framework provides a clear pathway to repurpose degraded lands, restore ecosystems, and strengthen coal-dependent communities.\nARTHA (Align–Rank–Target–Harness–Adapt) is a Green Financing Framework specifically aimed at channeling investments into the repurposing of de-coaled mines.\nKnowledge Base: RECLAIM: Stands for Reach out, Envision, Co-create, Localize, Act, Integrate, and Maintain. It provides the methodology for community engagement to ensure that the transition away from mining is socially just.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q40",
+      "questionNumber": 40,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "With reference to pulse production in India, consider the following statements:",
+        "I. India is the world’s largest producer, consumer, and importer of pulses.",
+        "II. Madhya Pradesh, Maharashtra, and Rajasthan are the top three pulse-producing states in the country.",
+        "III. Over half of India’s pulse cultivation area is irrigated, thereby reducing the sector’s dependence on rainfall and climatic variability.",
+        "Which of the statements given above is/are correct?"
+      ],
+      "questionText": "With reference to pulse production in India, consider the following statements: I. India is the world’s largest producer, consumer, and importer of pulses. II. Madhya Pradesh, Maharashtra, and Rajasthan are the top three pulse-producing states in the country. III. Over half of India’s pulse cultivation area is irrigated, thereby reducing the sector’s dependence on rainfall and climatic variability. Which of the statements given above is/are correct?",
+      "options": {
+        "a": "I and II only",
+        "b": "I only",
+        "c": "II and III only",
+        "d": "I, II and III"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** Recognizing the central role of pulses in India’s food and nutritional security, NITI Aayog has recently released a plan aimed at boosting domestic pulse production. The initiative sets a long-term vision of achieving self-reliance and substantially reducing import dependence by 2047.\nStatement I is correct: India holds the leading position globally in the three dimensions of the pulses sector: production, consumption, and imports. It contributes about one-fourth (25%) of global pulse output, meets over 27% of global demand, and accounts for around 14% of world pulse imports.\nStatement II is correct: Madhya Pradesh, Maharashtra, and Rajasthan consistently emerge as the largest contributors to India’s pulse production, together accounting for more than 55% of the national output. While the top ten states, together contribute more than 91% of national output.\nStatement III is incorrect: Pulse cultivation in India is predominantly rain-fed, with nearly 80% of the area lacking assured irrigation. This makes pulse production highly vulnerable to rainfall variability and climatic fluctuations, directly affecting yields and overall output.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q41",
+      "questionNumber": 41,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Which one of the following launched the ‘Nature Solutions Finance Hub for Asia and the Pacific’?"
+      ],
+      "questionText": "Which one of the following launched the ‘Nature Solutions Finance Hub for Asia and the Pacific’?",
+      "options": {
+        "a": "The Asian Development Bank (ADB)",
+        "b": "The Asian Infrastructure Investment Bank (AIIB)",
+        "c": "The New Development Bank (NDB)",
+        "d": "The International Bank for Reconstruction and Development (IBRD)"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.** The organization that launched the “Nature Solutions Finance Hub for Asia and the Pacific” is the Asian Development Bank (ADB). The ADB unveiled this hub at COP28 with the goal of attracting significant investments in nature-based solutions projects across the Asia Pacific region. It aims to mobilize funding for projects that incorporate nature-based solutions to address climate change and biodiversity loss. The hub aims to attract at least $2 billion in investments.",
+      "exam_info": {
+        "isPyq": true,
+        "is_ncert": false,
+        "exam": "Prelims",
+        "group": "UPSC CSE",
+        "year": 2025,
+        "is_upsc_cse": true,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      },
+      "source_attribution_label": "UPSC CSE Prelims 2025"
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q42",
+      "questionNumber": 42,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following pairs:",
+        "Report Prepared/Released by",
+        "I. Production Gap Report International Energy Agency",
+        "II. Global Methane Tracker Report Climate and Clean Air Coalition",
+        "III. State of the Global Climate Report World Meteorological Organization",
+        "IV. Global Environment Outlook Report World Wide Fund for Nature",
+        "How many of the above pairs are correctly matched?"
+      ],
+      "questionText": "Consider the following pairs: Report Prepared/Released by I. Production Gap Report International Energy Agency II. Global Methane Tracker Report Climate and Clean Air Coalition III. State of the Global Climate Report World Meteorological Organization IV. Global Environment Outlook Report World Wide Fund for Nature How many of the above pairs are correctly matched?",
+      "options": {
+        "a": "Only one",
+        "b": "Only two",
+        "c": "Only three",
+        "d": "None"
+      },
+      "correctAnswer": "a",
+      "explanationMarkdown": "**Explanation:** Option a is the correct answer.\n\n**Pair I is incorrectly matched: The Production Gap Report is primarily released by the United Nations Environment Programme (UNEP), along with several research institutes (such as the Stockholm Environment Institute). It measures the gap between governments' planned production of coal, oil, and gas and the global production levels consistent with the Paris Agreement limits. The Production Gap Report — first launched in 2019 — tracks the discrepancy between governments’ planned fossil fuel production and global production levels consistent with limiting warming to 1.5°C or 2°C. The report represents a collaboration of several researchers and academic institutions, including input from more than 40 experts. UNEP staff provided guidance and insights from their experience leading other gap reports. Pair II is incorrectly matched: The Global Methane Tracker Report is released by the International Energy Agency (IEA). It provides a comprehensive set of estimates for methane emissions from the energy sector and tracks the progress of abatement measures. The Global Methane Status Report 2025 is prepared and released by the UN Environment Programme (UNEP) and the Climate and Clean Air Coalition (CCAC). Pair III is correctly matched: The State of the Global Climate is an annual flagship report published by the World Meteorological Organization (WMO). WMO’s State of the Global Climate report 2025 confirms that**2015-20**25 are the hottest 11-years on record, and that 2025 was the second or third hottest year on record, at about 1.43°C above the**1850-19**00 average.\nPair IV is incorrectly matched: The Global Environmental Outlook (GEO) reviews the state and direction of the global environment. It is released by the United Nations Environment Programme (UNEP). The process provides an assessment of the current state of the environment, an evaluation of the effectiveness of policies and actions taken to address environmental issues, and projections of future environmental trends.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q43",
+      "questionNumber": 43,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "In the context of the International Conference on Financing for Development, consider the following:",
+        "I. Doha Declaration",
+        "II. Addis Ababa Action Agenda",
+        "III. Monterrey Consensus Arrange the above in chronology as they were adopted by the conference on Financing for Development:"
+      ],
+      "questionText": "In the context of the International Conference on Financing for Development, consider the following: I. Doha Declaration II. Addis Ababa Action Agenda III. Monterrey Consensus Arrange the above in chronology as they were adopted by the conference on Financing for Development:",
+      "options": {
+        "a": "I - II - III",
+        "b": "I - III - II",
+        "c": "III - I - II",
+        "d": "III - II - I"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** The UN General Assembly (UNGA) adopted the Agenda for Development in 1997, which called for consideration of holding an international conference on financing for development (FfD).\nOption III: Monterrey Consensus (2002): The first International Conference on Financing for Development took place in 2002 in Monterrey, Mexico. The resulting Monterrey Consensus “resolved to address the challenges of financing for development” and “to eradicate poverty, achieve sustained economic growth and promote sustainable development.” Option I: Doha Declaration (2008): Doha Declaration on Financing for Development: It was an outcome document of the Follow-up International Conference on Financing for Development to Review the Implementation of the Monterrey Consensus Option II: Addis Ababa Action Agenda (2015): The Addis Ababa Action Agenda was adopted at the Third International Conference on Financing for Development (Addis Ababa, Ethiopia, 2015). The Action Agenda establishes a strong foundation to support the implementation of the 2030 Agenda for Sustainable Development. It provides a new global framework for financing sustainable development by aligning all financing flows and policies with economic, social and environmental priorities.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q44",
+      "questionNumber": 44,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Consider the following Wildlife Sanctuaries in India:",
+        "I. Barda Wildlife Sanctuary",
+        "II. Debrigarh Wildlife Sanctuary",
+        "III. Gandhi Sagar Wildlife Sanctuary",
+        "IV. Narpuh Wildlife Sanctuary If a traveller moves from east to west across India in which order he/she is going to visit the Wildlife sanctuaries?"
+      ],
+      "questionText": "Consider the following Wildlife Sanctuaries in India: I. Barda Wildlife Sanctuary II. Debrigarh Wildlife Sanctuary III. Gandhi Sagar Wildlife Sanctuary IV. Narpuh Wildlife Sanctuary If a traveller moves from east to west across India in which order he/she is going to visit the Wildlife sanctuaries?",
+      "options": {
+        "a": "I - II - IV - III",
+        "b": "III - I - II - IV",
+        "c": "II - IV - I - III",
+        "d": "IV - II - III - I"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Statement IV. Narpuh Wildlife Sanctuary lies in the northeastern region of India (Meghalaya). It is known for its rich biodiversity, including species like hoolock gibbons and clouded leopards, and is considered a critical ecological zone.\nStatement II. Debrigarh Wildlife Sanctuary is situated in eastern India in Odisha near the Hirakud Dam on the Mahanadi River. It has gained attention for community-based ecotourism and conservation efforts.\nStatement III. Gandhi Sagar Wildlife Sanctuary is located in central India (Madhya Pradesh). Recently, it has been in the news as a proposed second habitat for cheetah reintroduction, making it ecologically significant in conservation planning.\nStatement I. Barda Wildlife Sanctuary is located near Porbandar in western India. It lies in the Saurashtra region and is known for its rich floral diversity and dry deciduous forests. Barda is emerging as a second home for Asiatic Lions.\nThe sanctuary is a significant biodiversity hotspot and a key area for the conservation of Asiatic Lions.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q45",
+      "questionNumber": 45,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "This slender marine species was recently recorded for the first time in the Great Chagos Bank in the Indian",
+        "Ocean. It has a long narrow snout and eyes with vertical pupils, and is found mainly in inshore waters of the Indo–",
+        "West Pacific region. It is listed as ‘Near Threatened’ on the IUCN Red List.",
+        "Which of the following species is best described in the above passage?"
+      ],
+      "questionText": "This slender marine species was recently recorded for the first time in the Great Chagos Bank in the Indian Ocean. It has a long narrow snout and eyes with vertical pupils, and is found mainly in inshore waters of the Indo– West Pacific region. It is listed as ‘Near Threatened’ on the IUCN Red List. Which of the following species is best described in the above passage?",
+      "options": {
+        "a": "Whale Shark",
+        "b": "Pondicherry Shark",
+        "c": "Grey Reef Shark",
+        "d": "Sliteye Shark"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** The species described in the passage is Sliteye Shark, which is known for its slender body and can grow up to 95 cm in length.\n- Its long, narrow snout and distinctive slit-like eyes with vertical pupils are key physical characteristics unique to this species, helping it to see better in low-light marine environments.\n- Recently, it has been recorded for the first time in the Great Chagos Bank, the world’s largest coral atoll in the Indian Ocean.\n- Additionally, its natural range is primarily in inshore waters of the Indo–West Pacific region, including the coasts of India, Sri Lanka, Indonesia, and Australia.\n- Its conservation status is ‘Near Threatened’ on the IUCN Red List.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q46",
+      "questionNumber": 46,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "What will come in place of * in the sequence 3, 12, 35, 80, *, 280?"
+      ],
+      "questionText": "What will come in place of * in the sequence 3, 12, 35, 80, *, 280?",
+      "options": {
+        "a": "145",
+        "b": "155",
+        "c": "157",
+        "d": "165"
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Look at the sequence term by term: 3, 12, 35, 80, *, 280 Check the first few terms For the 1st term: 1³ + 2¹ = 1 + 2 = 3 For the 2nd term: 2³ + 2² = 8 + 4 = 12 For the 3rd term: 3³ + 2³ = 27 + 8 = 35 For the 4th term: 4³ + 2⁴ = 64 + 16 = 80 So the pattern is: n-th term = n³ + 2ⁿ Find the missing term For the 5th term: 5³ + 2⁵ = 125 + 32 = 157 So the missing term is: 157 Verify with the last term For the 6th term:\n6³ + 2⁶ = 216 + 64 = 280",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q47",
+      "questionNumber": 47,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "Let P be a two-digit number and Q be another two-digit number formed by interchanging the digits of P. If (P −",
+        "Q) is a positive perfect cube, then what is the number of possible values of P?"
+      ],
+      "questionText": "Let P be a two-digit number and Q be another two-digit number formed by interchanging the digits of P. If (P − Q) is a positive perfect cube, then what is the number of possible values of P?",
+      "options": {
+        "a": "5",
+        "b": "6",
+        "c": "7",
+        "d": "8"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** Let the two-digit number P be: P = 10a + b Then the number Q, formed by interchanging the digits, is: Q = 10b + a Since Q is also a two-digit number, both digits must be non-zero in the reversed position, so:\n1 ≤ a ≤ 9 and 1 ≤ b ≤ 9 Now, P − Q = (10a + b) − (10b + a) = 9(a − b) Given that P − Q is a positive perfect cube, we need: 9(a − b) to be a positive perfect cube.\nSince a and b are digits and a > b, possible values of a − b are: 1, 2, 3, 4, 5, 6, 7, 8 So possible values of 9(a − b) are: 9, 18, 27, 36, 45, 54, 63, 72 Among these, only: 27 = 3³ is a perfect cube. Therefore: 9(a − b) = 27 a − b = 3 All possible digit pairs (a, b) such that a − b = 3 and b ≥ 1:\n- (4, 1) → 41\n- (5, 2) → 52\n- (6, 3) → 63\n- (7, 4) → 74\n- (8, 5) → 85\n- (9, 6) → 96 So the number of possible values of P is: 6",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q48",
+      "questionNumber": 48,
+      "subject": "Environment",
+      "sectionGroup": "Climate Change",
+      "microTopic": "Climate Change and Impacts of Climate Change over Earth",
+      "statementLines": [
+        "What is the rightmost digit preceding the zeroes in the product 120¹⁵ × 25⁶ ?"
+      ],
+      "questionText": "What is the rightmost digit preceding the zeroes in the product 120¹⁵ × 25⁶ ?",
+      "options": {
+        "a": "2",
+        "b": "4",
+        "c": "6",
+        "d": "8"
+      },
+      "correctAnswer": "d",
+      "explanationMarkdown": "**Explanation:** Option d is the correct answer.** Find the digit just before the trailing zeroes in: 120¹⁵ × 25⁶ Express each factor in prime form 120 = 2³ × 3 × 5 So, 120¹⁵ = (2³ × 3 × 5)¹⁵ = 2⁴⁵ × 3¹⁵ × 5¹⁵ Also, 25⁶ = (5²)⁶ = 5¹² Therefore, the full product is:\n2⁴⁵ × 3¹⁵ × 5¹⁵ × 5¹² = 2⁴⁵ × 3¹⁵ × 5²⁷ Remove the trailing zeroes Each trailing zero comes from: 10 = 2 × 5 So the number of trailing zeroes is determined by the smaller exponent among 2 and 5, which is: 27 So remove: 10²⁷ = 2²⁷ × 5²⁷ from the product.\nThe remaining part is: 2⁽⁴⁵ ⁻ ²⁷⁾ × 3¹⁵ = 2¹⁸ × 3¹⁵ Now we need the unit digit of: 2¹⁸ × 3¹⁵ Simplify the unit digit calculation 2¹⁸ × 3¹⁵ = 2³ × 2¹⁵ × 3¹⁵ = 8 × (2¹⁵ × 3¹⁵) = 8 × 6¹⁵ Now, every positive power of 6 ends in 6, so: 6¹⁵ ends in 6 Therefore, the unit digit becomes: 8 × 6 = 48 So the rightmost digit before the zeroes is: 8",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q49",
+      "questionNumber": 49,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "A vat P contains 798 gallons of olive oil, and a vat Q contains 1254 gallons of canola oil. They are to be filled in drums of equal size so that the whole of olive oil and canola oil would be separately filled. The drum capacity in terms of gallons is an integer strictly greater than",
+        "5. How many different drum sizes are possible?"
+      ],
+      "questionText": "A vat P contains 798 gallons of olive oil, and a vat Q contains 1254 gallons of canola oil. They are to be filled in drums of equal size so that the whole of olive oil and canola oil would be separately filled. The drum capacity in terms of gallons is an integer strictly greater than 5. How many different drum sizes are possible?",
+      "options": {
+        "a": "4",
+        "b": "5",
+        "c": "6",
+        "d": "8"
+      },
+      "correctAnswer": "b",
+      "explanationMarkdown": "**Explanation:** Option b is the correct answer.** The drum size must divide both quantities exactly:\n- 798 gallons-1254 gallons So the drum capacity must be a common divisor of 798 and 1254, and it must be an integer strictly greater than 5.\nThe HCF of 798 and 1254 = 114 Thus every valid drum size must be a divisor of 114. 114 = 2 × 3 × 19 So the positive divisors are: 1, 2, 3, 6, 19, 38, 57, 114 Now keep only those strictly greater than 5: 6, 19, 38, 57, 114 Total drum sizes = 5",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    },
+    {
+      "id": "forum-sfg-2026-level-2-environment-test21-q50",
+      "questionNumber": 50,
+      "subject": "Science & Technology",
+      "sectionGroup": "Basic Sciences",
+      "microTopic": "General Science - Physics, Chemistry, and Miscellaneous",
+      "statementLines": [
+        "Directions for the following item:",
+        "Read the following passage and answer the item that follow the passage. Your answers to the item should be based on the passage only",
+        "Passage - 1 Modern life glorifies movement, speed, and output. We admire the busy, praise the productive, and quietly equate constant activity with purpose. Silence feels awkward, rest induces guilt, and stillness is often dismissed as unproductive. Surely then doing dominates our lives, while being gets a back seat. Yet human life unfolds meaningfully only when these two modes remain in balance. Doing is outward facing and goal oriented; Being is inwardly rooted and awareness-centred. Both are essential. Crisis of our times is not the action, but action disconnected from awareness.",
+        "Which one of the following statements best reflects the crux of the passage?"
+      ],
+      "questionText": "Directions for the following item: Read the following passage and answer the item that follow the passage. Your answers to the item should be based on the passage only Passage - 1 Modern life glorifies movement, speed, and output. We admire the busy, praise the productive, and quietly equate constant activity with purpose. Silence feels awkward, rest induces guilt, and stillness is often dismissed as unproductive. Surely then doing dominates our lives, while being gets a back seat. Yet human life unfolds meaningfully only when these two modes remain in balance. Doing is outward facing and goal oriented; Being is inwardly rooted and awareness-centred. Both are essential. Crisis of our times is not the action, but action disconnected from awareness. Which one of the following statements best reflects the crux of the passage?",
+      "options": {
+        "a": "Just as activity is vital, rest plays an essential role in sustaining overall health.",
+        "b": "In a fast-paced world, rest or silence is often viewed with a negative connotation.",
+        "c": "Action becomes meaningful only when it is grounded in sincere reflection.",
+        "d": "Life in earlier times was slower, whereas modern life has become overwhelmingly fast-paced."
+      },
+      "correctAnswer": "c",
+      "explanationMarkdown": "**Explanation:** Option c is the correct answer.** Statement a is incorrect. While the passage highlights the importance of meaningful action rooted in awareness, statement a focuses on activity and rest in the context of health. Therefore, statement a does not best reflect the crux of the passage.\nStatement b is incorrect. While the idea is highlighted in the passage, statement b does not best reflect the crux of the passage as it only focuses on one part of the passage.\nStatement c is correct. It best reflects the crux of the passage as it highlights the essence of the passage i.e. meaningful action is rooted in awareness. It is mentioned in the passage as “Crisis of our times is not the action, but action disconnected from awareness.” Statement d is incorrect. While the idea is mentioned in the passage, statement d does not best reflect the crux of the passage as it does not highlight the consequences of a fast paced life.",
+      "exam_info": {
+        "isPyq": false,
+        "is_ncert": false,
+        "exam": null,
+        "group": null,
+        "year": null,
+        "is_upsc_cse": false,
+        "is_allied": false,
+        "is_others": false,
+        "exam_category": "cse",
+        "specific_exam": null,
+        "stage": "prelims",
+        "paper": "pre_gs1"
+      }
+    }
+  ],
+  "schema_version": "2.0",
+  "institute_id": "forum_ias_official",
+  "institute_name": "Forum IAS",
+  "exam_frame": {
+    "exam_category": "cse",
+    "specific_exam": null,
+    "stage": "prelims",
+    "paper": "pre_gs1"
+  }
+}
